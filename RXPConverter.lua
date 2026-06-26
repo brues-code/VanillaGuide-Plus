@@ -112,14 +112,28 @@ local function parseStep(stepLines, currentZone, currentClass, currentRace)
 	local coords = {}
 	local targetNPC = nil
 	local mobName = nil
+	local detectedAction = nil
 
 	for _, line in ipairs(stepLines) do
+		-- Clean whitespace
 		line = string.gsub(line, "^%s+", "")
+		line = string.gsub(line, "%s+$", "")
+		if string.len(line) == 0 then continue end
+
+		-- Check for RXP action markers in colors
+		if string.find(line, "|cRXP_BUY_") then
+			detectedAction = "B"
+		elseif string.find(line, "|cRXP_KILL_") then
+			detectedAction = "K"
+		elseif string.find(line, "|cRXP_PICKUP_") then
+			detectedAction = "A"
+		elseif string.find(line, "|cRXP_TURNNIN_") then
+			detectedAction = "T"
+		end
 
 		-- Check for class/race filter on this step
 		local filter, isExclude = parseFilter(line)
 		if filter then
-			-- Determine if it's a class or race
 			local classes = {Warrior=1, Paladin=1, Hunter=1, Rogue=1, Priest=1, Shaman=1, Mage=1, Warlock=1, Druid=1}
 			local races = {Human=1, Dwarf=1, Gnome=1, NightElf=1, Orc=1, Troll=1, Tauren=1, Undead=1}
 			if classes[filter] then
@@ -127,7 +141,6 @@ local function parseStep(stepLines, currentZone, currentClass, currentRace)
 			elseif races[filter] then
 				result.race = isExclude and ("!" .. filter) or filter
 			else
-				-- Could be combined like Orc/Troll
 				result.race = filter
 			end
 		end
@@ -138,6 +151,9 @@ local function parseStep(stepLines, currentZone, currentClass, currentRace)
 			if zone and x and y then
 				result.zone = zone
 				table.insert(coords, string.format("%.1f, %.1f", x, y))
+				if not result.action then
+					result.action = "R"
+				end
 			end
 		elseif string.find(line, "^%.accept") then
 			result.action = "A"
@@ -159,6 +175,7 @@ local function parseStep(stepLines, currentZone, currentClass, currentRace)
 				result.quest = stripFormatting(skill)
 			end
 		elseif string.find(line, "^%.vendor") then
+			result.action = "B"
 			local vendorNote = string.match(line, ">>(.+)")
 			if vendorNote then
 				table.insert(notes, stripFormatting(vendorNote))
@@ -172,6 +189,9 @@ local function parseStep(stepLines, currentZone, currentClass, currentRace)
 			mobName = string.match(line, "^%.mob%s+(.+)")
 			if mobName then
 				mobName = stripFormatting(mobName)
+				if not result.action or result.action == "R" then
+					result.action = "K"
+				end
 			end
 		elseif string.find(line, "^%.home") then
 			result.action = "h"
@@ -201,18 +221,12 @@ local function parseStep(stepLines, currentZone, currentClass, currentRace)
 			local level = string.match(line, "^%.xp%s+(%d+)")
 			local xpNote = string.match(line, ">>(.+)")
 			if level then
-				result.action = "G"  -- Grind
+				result.action = "G"
 				result.quest = xpNote and stripFormatting(xpNote) or ("Grind to level " .. level)
 			end
 		elseif string.find(line, "^%.deathskip") then
 			result.action = "D"
 			result.quest = "Die and respawn"
-		elseif string.find(line, "^%.collect") then
-			-- .collect ItemID,qty
-			local itemNote = string.match(line, ">>(.+)")
-			if itemNote then
-				table.insert(notes, stripFormatting(itemNote))
-			end
 		elseif string.find(line, "^%.use") then
 			result.action = "U"
 			local useItem = string.match(line, ">>(.+)")
@@ -220,13 +234,24 @@ local function parseStep(stepLines, currentZone, currentClass, currentRace)
 				result.quest = stripFormatting(useItem)
 			end
 		elseif string.find(line, "^>>") then
-			-- Note/instruction text
 			local noteText = string.match(line, "^>>(.+)")
 			if noteText then
-				table.insert(notes, stripFormatting(noteText))
+				local note = stripFormatting(noteText)
+				local lowerNote = string.lower(note)
+				if not detectedAction then
+					if string.find(lowerNote, "buy") or string.find(lowerNote, "purchase") then
+						detectedAction = "B"
+					elseif string.find(lowerNote, "kill") or string.find(lowerNote, "slay") then
+						detectedAction = "K"
+					elseif string.find(lowerNote, "talk to") or string.find(lowerNote, "speak with") then
+						if not result.action then
+							detectedAction = "N"
+						end
+					end
+				end
+				table.insert(notes, note)
 			end
 		elseif string.find(line, "^%+") then
-			-- Additional note
 			local noteText = string.match(line, "^%+(.+)")
 			if noteText then
 				table.insert(notes, stripFormatting(noteText))
@@ -238,17 +263,40 @@ local function parseStep(stepLines, currentZone, currentClass, currentRace)
 		end
 	end
 
+	-- Use detected action if no official command found
+	if not result.action or result.action == "R" then
+		if detectedAction then
+			result.action = detectedAction
+		end
+	end
+
+	-- Resolve Quest title and Note details
+	if not result.quest then
+		if targetNPC then
+			result.quest = targetNPC
+			if not result.action then result.action = "N" end
+		elseif mobName then
+			result.quest = mobName
+			if not result.action then result.action = "K" end
+		elseif notes[1] then
+			result.quest = notes[1]
+			table.remove(notes, 1)
+			if not result.action then result.action = "N" end
+		elseif result.action == "R" then
+			result.quest = "Travel to " .. (result.zone or "Location")
+		else
+			result.quest = "Step"
+			if not result.action then result.action = "N" end
+		end
+	end
+
 	-- Build note from collected info
 	local noteparts = {}
-	if targetNPC then
-		table.insert(noteparts, targetNPC)
-	end
-	if mobName and result.action ~= "C" then
-		table.insert(noteparts, "Kill " .. mobName)
-	end
 	for _, n in ipairs(notes) do
 		table.insert(noteparts, n)
 	end
+	
+	-- Coordinates always go at the end of the note in (x, y) format for TomTom
 	if coords[1] then
 		table.insert(noteparts, "(" .. coords[1] .. ")")
 	end
@@ -263,30 +311,27 @@ end
 -- Convert a single step to TurtleGuide format
 local function stepToTurtleGuide(step)
 	if not step.action or not step.quest then
-		-- If we have a note but no action, make it a NOTE
-		if step.note and string.len(step.note) > 0 then
-			step.action = "N"
-			step.quest = step.note
-			step.note = nil
-		else
-			return nil
-		end
+		return nil
 	end
 
+	-- Start with Action and Quest title
 	local parts = {step.action, " ", step.quest}
 
+	-- Add QID tag if present
 	if step.qid then
 		table.insert(parts, " |QID|")
 		table.insert(parts, step.qid)
 		table.insert(parts, "|")
 	end
 
+	-- Add Note tag - CRITICAL for coordinates to be seen by TomTom
 	if step.note then
 		table.insert(parts, " |N|")
 		table.insert(parts, step.note)
 		table.insert(parts, "|")
 	end
 
+	-- Other tags
 	if step.optional then
 		table.insert(parts, " |O|")
 	end
@@ -303,8 +348,15 @@ local function stepToTurtleGuide(step)
 		table.insert(parts, "|")
 	end
 
+	if step.zone then
+		table.insert(parts, " |Z|")
+		table.insert(parts, step.zone)
+		table.insert(parts, "|")
+	end
+
 	return table.concat(parts)
 end
+
 
 -- Main conversion function
 function RXPConverter.Convert(rxpGuide)

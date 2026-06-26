@@ -225,7 +225,7 @@ function TurtleGuide:RegisterQuestShellPlusGuide(key, guideTable)
         return table.concat(lines, "\n")
     end
 
-    self:RegisterGuide(key, guideTable.faction or "Alliance", guideLoader, guideTable.next)
+    self:RegisterGuide(key, guideTable.next, guideTable.faction or "Alliance", guideLoader)
 end
 
 TurtleGuide:Debug("QuestShell+ Parser loaded")

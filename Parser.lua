@@ -90,10 +90,55 @@ local function StepParse(guide)
 	local i, haserrors = 1, false
 	local guidet = TurtleGuide.split("\r\n", guide)
 
+	local function matchFilter(filter, myValue)
+		if not filter then return true end
+		local components = TurtleGuide.split("/", filter)
+		local hasMatches = false
+		local hasNegations = false
+		
+		for _, sp in ipairs(components) do
+			if string.sub(sp, 1, 1) == "!" then
+				hasNegations = true
+				if string.sub(sp, 2) == myValue then return false end
+			else
+				if sp == myValue then hasMatches = true end
+			end
+		end
+		
+		if hasNegations and not hasMatches then return true end
+		return hasMatches
+	end
+
+	local function matchDungeonFilter(dungeon)
+		if not dungeon then return true end
+		local components = TurtleGuide.split("/", dungeon)
+		local hasMatches = false
+		local hasNegations = false
+		
+		for _, sp in ipairs(components) do
+			local isNegation = string.sub(sp, 1, 1) == "!"
+			local code = isNegation and string.sub(sp, 2) or sp
+			code = string.upper(code)
+			
+			local isSelected = TurtleGuide.db and TurtleGuide.db.char and TurtleGuide.db.char.Dungeons and TurtleGuide.db.char.Dungeons[code]
+			
+			if isNegation then
+				hasNegations = true
+				if isSelected then return false end
+			else
+				if isSelected then hasMatches = true end
+			end
+		end
+		
+		if hasNegations and not hasMatches then return true end
+		return hasMatches
+	end
+
 	for _, text in pairs(guidet) do
 		local _, _, class = string.find(text, "|C|([^|]+)|")
 		local _, _, race = string.find(text, "|R|([^|]+)|")
-		if text ~= "" and (not class or string.find(class, myclass)) and (not race or string.find(race, myrace)) then
+		local _, _, dungeon = string.find(text, "|D|([^|]+)|")
+		if text ~= "" and matchFilter(class, myclass) and matchFilter(race, myrace) and matchDungeonFilter(dungeon) then
 			local _, _, action, quest, tag = string.find(text, "^(%a) ([^|]*)(.*)")
 			if action and actiontypes[action] then
 				quest = TurtleGuide.trim(quest)

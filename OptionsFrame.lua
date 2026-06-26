@@ -54,6 +54,16 @@ function TurtleGuide:CreateConfigPanel()
 		TurtleGuide:ShowRouteSelector()
 	end)
 
+	local dungeonsBtn = CreateFrame("Button", nil, frame, "UIPanelButtonTemplate")
+	dungeonsBtn:SetWidth(130)
+	dungeonsBtn:SetHeight(22)
+	dungeonsBtn:SetPoint("LEFT", routeBtn, "RIGHT", 6, 0)
+	dungeonsBtn:SetText("Dungeons")
+	dungeonsBtn:SetScript("OnClick", function()
+		TurtleGuide:ToggleDungeonPanel()
+	end)
+	frame.dungeonsBtn = dungeonsBtn
+
 	local branchBtn = CreateFrame("Button", nil, frame, "UIPanelButtonTemplate")
 	branchBtn:SetWidth(150)
 	branchBtn:SetHeight(22)
@@ -135,8 +145,112 @@ function TurtleGuide:CreateConfigPanel()
 	end
 
 	frame:SetScript("OnShow", OnShow)
+	frame:SetScript("OnHide", function()
+		if TurtleGuide.dungeonframe then
+			TurtleGuide.dungeonframe:Hide()
+		end
+	end)
 	ww.SetFadeTime(frame, 0.5)
 	OnShow(frame)
+end
+
+function TurtleGuide:ToggleDungeonPanel()
+	if not self.dungeonframe then
+		self:CreateDungeonPanel()
+	end
+	if self.dungeonframe:IsShown() then
+		self.dungeonframe:Hide()
+	else
+		self.dungeonframe:Show()
+		self:PositionDungeonPanel()
+	end
+end
+
+function TurtleGuide:PositionDungeonPanel()
+	if not self.dungeonframe or not self.optionsframe then return end
+	local quad, vhalf, hhalf = self.GetQuadrant(self.statusframe)
+	self.dungeonframe:ClearAllPoints()
+	if hhalf == "LEFT" then
+		self.dungeonframe:SetPoint("TOPLEFT", self.optionsframe, "TOPRIGHT", 5, 0)
+	else
+		self.dungeonframe:SetPoint("TOPRIGHT", self.optionsframe, "TOPLEFT", -5, 0)
+	end
+end
+
+function TurtleGuide:CreateDungeonPanel()
+	local frame = CreateFrame("Frame", "TurtleGuideDungeons", UIParent)
+	self.dungeonframe = frame
+	frame:SetFrameStrata("DIALOG")
+	frame:SetWidth(180)
+	frame:SetHeight(380)
+	frame:SetBackdrop(ww.TooltipBorderBG)
+	frame:SetBackdropColor(0.09, 0.09, 0.19, 1)
+	frame:SetBackdropBorderColor(0.5, 0.5, 0.5, 0.5)
+	frame:Hide()
+
+	local closebutton = CreateFrame("Button", nil, frame, "UIPanelCloseButton")
+	closebutton:SetPoint("TOPRIGHT", frame, "TOPRIGHT")
+
+	local title = ww.SummonFontString(frame, nil, "SubZoneTextFont", nil, "TOPLEFT", frame, "TOPLEFT", 10, -10)
+	local fontname, fontheight, fontflags = title:GetFont()
+	title:SetFont(fontname, 16, fontflags)
+	title:SetText("Dungeons")
+
+	local dungeons = {
+		{ code = "RFC", name = "Ragefire Chasm" },
+		{ code = "WC", name = "Wailing Caverns" },
+		{ code = "DM", name = "Deadmines" },
+		{ code = "SFK", name = "Shadowfang Keep" },
+		{ code = "BFD", name = "Blackfathom Deeps" },
+		{ code = "STOCKADES", name = "The Stockade" },
+		{ code = "GNOMER", name = "Gnomeregan" },
+		{ code = "RFK", name = "Razorfen Kraul" },
+		{ code = "SM", name = "Scarlet Monastery" },
+		{ code = "RFD", name = "Razorfen Downs" },
+		{ code = "ULDA", name = "Uldaman" },
+		{ code = "ZF", name = "Zul'Farrak" },
+		{ code = "MARA", name = "Maraudon" },
+		{ code = "ST", name = "Sunken Temple" },
+		{ code = "BRD", name = "Blackrock Depths" },
+	}
+
+	local prev = title
+	frame.checkboxes = {}
+	for idx, d in ipairs(dungeons) do
+		local cb = ww.SummonCheckBox(18, frame, "TOPLEFT", 10, idx == 1 and -35 or -22)
+		if idx == 1 then
+			cb:SetPoint("TOPLEFT", title, "BOTTOMLEFT", 0, -10)
+		else
+			cb:SetPoint("TOPLEFT", prev, "BOTTOMLEFT", 0, -4)
+		end
+		
+		local text = ww.SummonFontString(cb, "OVERLAY", "GameFontNormalSmall", d.name, "LEFT", cb, "RIGHT", 5, 0)
+		cb.dungeonCode = d.code
+		
+		local code = d.code
+		cb:SetScript("OnClick", function()
+			TurtleGuide.db.char.Dungeons[code] = not not cb:GetChecked()
+			TurtleGuide:LoadGuide(TurtleGuide.db.char.currentguide)
+		end)
+		
+		table.insert(frame.checkboxes, cb)
+		prev = cb
+	end
+
+	local function OnShow(f)
+		f = f or this
+		TurtleGuide:PositionDungeonPanel()
+		for _, cb in ipairs(f.checkboxes) do
+			cb:SetChecked(TurtleGuide.db.char.Dungeons[cb.dungeonCode])
+		end
+		f:SetAlpha(0)
+		f:SetScript("OnUpdate", ww.FadeIn)
+	end
+
+	frame:SetScript("OnShow", OnShow)
+	ww.SetFadeTime(frame, 0.5)
+	
+	table.insert(UISpecialFrames, "TurtleGuideDungeons")
 end
 
 table.insert(UISpecialFrames, "TurtleGuideOptions")

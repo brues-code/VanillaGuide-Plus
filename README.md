@@ -5,14 +5,17 @@ A leveling guide addon for Turtle WoW (1.12 client) based on [Joana's classic sp
 ## Features
 
 - **Optimized leveling routes** from Joana's 1-60 guides
+- **RestedXP Speedrun routes** - Full 1-60 RXP speedrun-optimized routes for Alliance and Horde (excluded custom quests for now)
 - **Race-based starting zones** - automatically selects your race's starting path
 - **Shared optimized path** - all races merge into the same route after level 12
+- **Dungeon Select Support (RXP Guides Only)** - Toggle dungeon steps and their prerequisite setups on or off directly from the options panel (supports RFC, WC, DM, SFK, BFD, Stockades, Gnomer, RFK, SM, RFD, Ulda, ZF, Mara, ST, BRD)
 - **Branch system** - temporarily switch to any zone guide, then return to the optimized path
 - **Turtle WoW custom zones** - guides for all custom content available via branching
 - **Smart quest tracking** - automatically detects completed objectives and advances
 - **TomTom integration** - waypoint arrows pointing to your current objective
 - **pfQuest integration** - prerequisite detection and quest chain awareness
 - **Manual navigation** - skip forward/backward through objectives with prev/next buttons
+- **Improved Filter Parser** - Advanced logic for class/race filters supporting multiple targets (e.g., `Mage/Warlock`) and exclusions (e.g., `!Hunter`)
 
 ## Starting Zones
 
@@ -157,6 +160,7 @@ Use the **Branch** feature to temporarily switch to any zone guide:
 
 **Categories:**
 - **Optimized Path** - Joana's guide zones
+- **RestedXP Speedrun** - RXP speedrun routes (Alliance and Horde)
 - **TurtleWoW Zones** - Custom Turtle WoW content
 - **Zone Guides** - Standard vanilla zone guides
 
@@ -175,6 +179,47 @@ Available via branching:
 | Lapidis Isle | 48-53 | Alliance |
 | Gillijim's Isle | 48-53 | Horde |
 | Tel'Abim | 54-60 | Both |
+
+## RestedXP (RXP) Speedrun Routes
+
+In addition to the original optimized leveling paths, this fork integrates full RestedXP (RXP) speedrun routes:
+
+- **RestedXP Route Pack**:
+  - **Alliance (1-60)**: Custom starting routes for Northshire (Human), Coldridge Valley (Dwarf/Gnome), and Shadowglen (Night Elf), merging into a fully optimized 13-60 speedrun route.
+  - **Horde (1-60)**: Custom starting routes for Durotar (Orc/Troll), Mulgore (Tauren), and Tirisfal Glades (Undead), merging into a fully optimized 12-60 speedrun route.
+
+To switch route packs, click the status bar, select **Options**, click the **Route** button, and choose your preferred route pack (Optimized Path, RestedXP).
+
+## Dungeon Selection System (RXP Guides Only)
+
+This fork introduces dungeon selection support integrated directly with the RestedXP (RXP) routes. You can toggle specific dungeons on or off from the options menu:
+
+1. Open the options panel with `/vg` or by clicking the status bar and selecting **Options**.
+2. Click the **Dungeons** button next to the Route selector.
+3. Toggle the dungeons you plan to run (e.g., Deadmines, Scarlet Monastery, Wailing Caverns).
+4. TurtleGuide will automatically recalculate the active guide to include or exclude the dungeon objectives and their prerequisite setups.
+
+**Key Features:**
+- **Dynamic Filtering**: Dungeon steps tagged with `|D|DUNGEONCODE|` are only shown if that dungeon is enabled.
+- **Mandatory Override**: Opting into a dungeon automatically forces all associated setup and prerequisite quest steps to be shown as mandatory (ignoring any `#optional` tags in the source guide).
+- **Negated Dungeons**: Supports negation tags (e.g., `!DM`) to only show a step if a dungeon is *not* being run.
+
+**Supported Dungeons:**
+- RFC (Ragefire Chasm)
+- WC (Wailing Caverns)
+- DM (Deadmines)
+- SFK (Shadowfang Keep)
+- BFD (Blackfathom Deeps)
+- STOCKADES (The Stockade)
+- GNOMER (Gnomeregan)
+- RFK (Razorfen Kraul)
+- SM (Scarlet Monastery)
+- RFD (Razorfen Downs)
+- ULDA (Uldaman)
+- ZF (Zul'Farrak)
+- MARA (Maraudon)
+- ST (Sunken Temple)
+- BRD (Blackrock Depths)
 
 ## Recommended Addons
 

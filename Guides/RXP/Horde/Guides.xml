@@ -1,48 +1,74 @@
 <Ui xmlns="http://www.blizzard.com/wow/ui/">
-	<!-- RestedXP Survival Guide - Horde 1-23 -->
-
-	<!-- Orc/Troll Starting Path -->
-	<Script file="01_06_1-6_OrcTroll.lua"/>
-	<Script file="06_13_6-13_OrcTroll.lua"/>
-
-	<!-- Undead Starting Path -->
-	<Script file="01_06_1-6_Undead.lua"/>
-	<Script file="06_13_6-13_Undead.lua"/>
-
-	<!-- Tauren Starting Path -->
-	<Script file="01_06_1-6_Tauren.lua"/>
-	<Script file="06_13_6-13_Tauren.lua"/>
-
-	<!-- Shared Horde Paths (13+) -->
-	<Script file="13_15_13-15_Silverpine_Forest.lua"/>
-	<Script file="15_19_15-19_The_Barrens.lua"/>
-	<Script file="19_23_19-23_StonetalonBarrensAshenvale.lua"/>
-
-	<!-- Kamisayo Hardcore Warrior Speedrun 1-60 -->
-	<Script file="01_13_Kamisayo_Speedrun_1-13.lua"/>
-	<Script file="13_16_Kamisayo_Speedrun_13-16.lua"/>
-	<Script file="16_22_Kamisayo_Speedrun_16-22.lua"/>
-	<Script file="22_24_Kamisayo_Speedrun_22-24.lua"/>
-	<Script file="24_28_Kamisayo_Speedrun_24-28.lua"/>
-	<Script file="28_30_Kamisayo_Speedrun_28-30.lua"/>
-	<Script file="30_33_Kamisayo_Speedrun_30-33.lua"/>
-	<Script file="33_34_Kamisayo_Speedrun_33-34.lua"/>
-	<Script file="34_37_Kamisayo_Speedrun_34-37.lua"/>
-	<Script file="37_38_Kamisayo_Speedrun_37-38.lua"/>
-	<Script file="38_39_Kamisayo_Speedrun_38-39.lua"/>
-	<Script file="39_40_Kamisayo_Speedrun_39-40.lua"/>
-	<Script file="40_41_Kamisayo_Speedrun_40-41.lua"/>
-	<Script file="41_42_Kamisayo_Speedrun_41-42.lua"/>
-	<Script file="42_43_Kamisayo_Speedrun_42-43.lua"/>
-	<Script file="43_44_Kamisayo_Speedrun_43-44.lua"/>
-	<Script file="44_46_Kamisayo_Speedrun_44-46.lua"/>
-	<Script file="46_49_Kamisayo_Speedrun_46-49.lua"/>
-	<Script file="49_50_Kamisayo_Speedrun_49-50.lua"/>
-	<Script file="50_51_Kamisayo_Speedrun_50-51.lua"/>
-	<Script file="51_52_Kamisayo_Speedrun_51-52.lua"/>
-	<Script file="52_54_Kamisayo_Speedrun_52-54.lua"/>
-	<Script file="54_56_Kamisayo_Speedrun_54-56.lua"/>
-	<Script file="56_58_Kamisayo_Speedrun_56-58.lua"/>
-	<Script file="58_59_Kamisayo_Speedrun_58-59.lua"/>
-	<Script file="59_60_Kamisayo_Speedrun_59-60.lua"/>
+	<!-- RestedXP Speedrun Guide - Horde -->
+	<Script file="../Both/Blackrock_Depths_Key.lua"/>
+	<Script file="../Both/Blackwing_Lair_Attunement.lua"/>
+	<Script file="../Both/Chilled_Meat_Sholazar_Basin_34a.lua"/>
+	<Script file="../Both/Chunk_o_Mammoth_Borean_Leather_37a.lua"/>
+	<Script file="../Both/Demon_Fall_Canyon_Attunement.lua"/>
+	<Script file="../Both/Dire_Maul_Key.lua"/>
+	<Script file="../Both/Eternal_Air_Enraged_Tempest_32a.lua"/>
+	<Script file="../Both/Eternal_Air_Lightning_Sentry_43a.lua"/>
+	<Script file="../Both/Eternal_Earth_Iron_Rune_Golem_45a.lua"/>
+	<Script file="../Both/Eternal_Earth_Iron_Rune_Sentinel_44a.lua"/>
+	<Script file="../Both/Eternal_Earth_Lifeblood_Elemental_35a.lua"/>
+	<Script file="../Both/Eternal_Earth_Runic_Battle_Golem_42a.lua"/>
+	<Script file="../Both/Eternal_Earth_Sholazar_Guardian_36a.lua"/>
+	<Script file="../Both/Eternal_Fire_Boiling_Spirit_31a.lua"/>
+	<Script file="../Both/Eternal_Shadow_Deathbringer_Revenant_40a.lua"/>
+	<Script file="../Both/Eternal_Water_Air_Storm_Revenant_Aqueous_Spirit_38a.lua"/>
+	<Script file="../Both/Eternal_Water_Boiling_Spirit_30a.lua"/>
+	<Script file="../Both/Eternal_Water_Crystalline_Ice_Elemental_39a.lua"/>
+	<Script file="../Both/Eternal_Water_Frozen_Elemental_28a.lua"/>
+	<Script file="../Both/Eternal_Water_Ice_Revenant_41a.lua"/>
+	<Script file="../Both/Eternal_Water_Steam_Rager_29a.lua"/>
+	<Script file="../Both/Molten_Core_Attunement.lua"/>
+	<Script file="../Both/Part_1_Bracers.lua"/>
+	<Script file="../Both/Part_2_Belt_Gloves.lua"/>
+	<Script file="../Both/Part_3_Pants_Shoulders_Boots.lua"/>
+	<Script file="../Both/Part_4_Helm_Chest.lua"/>
+	<Script file="../Both/Rhino_Meat_Borean_Leather_33a.lua"/>
+	<Script file="../Both/Upper_Blackrock_Spire_Key.lua"/>
+	<Script file="01_06_Durotar.lua"/>
+	<Script file="01_06_Mulgore.lua"/>
+	<Script file="01_06_Tirisfal_Glades.lua"/>
+	<Script file="06_10_Durotar.lua"/>
+	<Script file="06_11_Tirisfal_Glades.lua"/>
+	<Script file="06_12_Mulgore.lua"/>
+	<Script file="10_12_Durotar.lua"/>
+	<Script file="10_12_Tirisfal.lua"/>
+	<Script file="12_14_Silverpine_Forest.lua"/>
+	<Script file="12_17_The_Barrens.lua"/>
+	<Script file="17_22_Stonetalon_Barrens_Ashenvale.lua"/>
+	<Script file="22_24_Hillsbrad.lua"/>
+	<Script file="24_26_Southern_Barrens_Stonetalon.lua"/>
+	<Script file="26_28_Ashenvale.lua"/>
+	<Script file="28_30_Thousand_Needles.lua"/>
+	<Script file="30_33_Hillsbrad_Arathi.lua"/>
+	<Script file="33_34_Shimmering_Flats.lua"/>
+	<Script file="34_35_Desolace.lua"/>
+	<Script file="35_37_Northern_Stranglethorn.lua"/>
+	<Script file="37_38_Dustwallow_Marsh.lua"/>
+	<Script file="38_39_Alterac_Arathi.lua"/>
+	<Script file="39_40_Badlands.lua"/>
+	<Script file="40_41_Stranglethorn_Vale.lua"/>
+	<Script file="41_400_41_41_Swamp_of_Sorrows.lua"/>
+	<Script file="41_41_Desolace_II.lua"/>
+	<Script file="41_43_Tanaris_Dustwallow.lua"/>
+	<Script file="43_44_Feralas.lua"/>
+	<Script file="44_45_Southern_Stranglethorn.lua"/>
+	<Script file="45_46_Swamp_of_Sorrows.lua"/>
+	<Script file="46_48_Tanaris.lua"/>
+	<Script file="48_49_The_Hinterlands.lua"/>
+	<Script file="49_50_Feralas.lua"/>
+	<Script file="50_51_Stranglethorn_Blasted_Lands.lua"/>
+	<Script file="51_52_Searing_Gorge_Burning_Steppes.lua"/>
+	<Script file="52_53_Azshara.lua"/>
+	<Script file="53_54_Felwood.lua"/>
+	<Script file="54_55_Un_Goro_Crater.lua"/>
+	<Script file="55_56_Felwood_Winterspring.lua"/>
+	<Script file="56_58_Western_PL_Eastern_PL.lua"/>
+	<Script file="58_59_Winterspring_Silithus_I.lua"/>
+	<Script file="59_60_Winterspring_Silithus_II.lua"/>
+	<Script file="Onyxia_Attunement_H.lua"/>
+	<Script file="Scholomance_Key_H.lua"/>
 </Ui>
