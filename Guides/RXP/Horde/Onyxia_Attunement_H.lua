@@ -4,7 +4,7 @@ return [[
 
 N Onyxia Attunement (H) |N|Converted from RestedXP guide|
 
-C Warlord's Command |QID|4903| |N|Warlord Goretooth to receive [Warlord Goretooth's Command]. Use it to accept the quest (5.8, 47.5)| |Z|Badlands|
+C Warlord Goretooth's Command 1/1 |QID|4903| |L|12563 1| |N|Warlord Goretooth to receive [Warlord Goretooth's Command]. Use it to accept the quest (5.8, 47.5)| |Z|Badlands|
 A Warlord's Command |QID|4903| |N|Warlord Goretooth to receive [Warlord Goretooth's Command]. Use it to accept the quest - (5.8, 47.5)| |Z|Badlands|
 R Travel to Eastern Kingdoms |N|(49.0, 63.9)| |O| |Z|Eastern Kingdoms|
 N This is a 5-10 man dungeon |N|(49.0, 63.9)| |O| |Z|Eastern Kingdoms|
@@ -12,7 +12,7 @@ N This has 4 different possible spawn points in the dungeon: |Z|Eastern Kingdoms
 N At the feet of Overlord Wyrmthalak |Z|Eastern Kingdoms|
 N In an empty corner next to War Master Voone |Z|Eastern Kingdoms|
 N Near Highlord Omokk |Z|Eastern Kingdoms|
-N |cRXP_WARN_Next to Urok Doomhowl's Tribute Pile |Z|Eastern Kingdoms|
+N Next to Urok Doomhowl's Tribute Pile |Z|Eastern Kingdoms|
 C Warlord's Command |QID|4903| |N|Loot the Important Blackrock Documents Important Blackrock Documents 1/1| |Z|Eastern Kingdoms|
 C Warlord's Command |QID|4903| |N|Kill Highlord Omokk, War Master Voone and Overlord Wyrmthalak Highlord Omokk 1/1| |Z|Eastern Kingdoms|
 T Warlord's Command |QID|4903| |N|Warlord Goretooth - (5.8, 47.5)| |Z|Badlands|
@@ -29,15 +29,15 @@ T What the Wind Carries |QID|6566| |N|Thrall - (31.7, 37.8)| |Z|Orgrimmar|
 A The Champion of the Horde |QID|6567| |N|Thrall - (31.7, 37.8)| |Z|Orgrimmar|
 F Fly to Sun Rock Retreat |N|Doras - (45.1, 63.9)| |O| |Z|Orgrimmar|
 R Travel to Feralas |N|(46.3, 20.9)| |Z|Feralas|
-N Rexxar |cRXP_WARN_patrols North to South through Desolace. His patrol path is marked on the map. Follow the waypoint arrow to ensure you cover his entire patrol path |N|(48.2, 23.2)| |Z|Feralas|
-N |cRXP_WARN_He despawns once he reaches The Twin Colossals in Feralas. After a 5 minute timer he respawns at the Stonetalon/Desolace border |N|(48.2, 23.2)| |Z|Feralas|
+N Rexxar patrols North to South through Desolace. His patrol path is marked on the map. Follow the waypoint arrow to ensure you cover his entire patrol path |N|(48.2, 23.2)| |Z|Feralas|
+N He despawns once he reaches The Twin Colossals in Feralas. After a 5 minute timer he respawns at the Stonetalon/Desolace border |N|(48.2, 23.2)| |Z|Feralas|
 T The Champion of the Horde |QID|6567| |N|Rexxar - (48.2, 23.2)| |Z|Feralas|
 A The Testament of Rexxar |QID|6568| |N|Rexxar - (48.2, 23.2)| |Z|Feralas|
 T The Testament of Rexxar |QID|6568| |N|Myranda the Hag - (50.8, 77.8)| |Z|Western Plaguelands|
 A Oculus Illusions |QID|6569| |N|Myranda the Hag - (50.8, 77.8)| |Z|Western Plaguelands|
 R Travel to Eastern Kingdoms |N|(49.0, 63.9)| |O| |Z|Eastern Kingdoms|
 N This is a 10-man dungeon. You or somebody in your party must have the [Seal of Ascension] to be able to enter Upper Blackrock Spire |N|(49.0, 63.9)| |O| |Z|Eastern Kingdoms|
-N |cRXP_WARN_Only the Dragonkin in Upper Blackrock Spire can drop the Eyes |Z|Eastern Kingdoms|
+N Only the Dragonkin in Upper Blackrock Spire can drop the Eyes |Z|Eastern Kingdoms|
 C Oculus Illusions |QID|6569| |N|Kill any type of Dragonkin. Loot them for their Black Dragonspawn Eyes Black Dragonspawn Eye 20/20| |Z|Eastern Kingdoms|
 T Oculus Illusions |QID|6569| |N|Myranda the Hag - (50.8, 77.8)| |Z|Western Plaguelands|
 A Emberstrife |QID|6570| |N|Myranda the Hag - (50.8, 77.8)| |Z|Western Plaguelands|
@@ -78,16 +78,16 @@ R Travel to Dustwallow Marsh |N|(54.4, 84.2)| |O| |Z|Dustwallow Marsh|
 T The Test of Skulls, Axtroz |QID|6585| |N|Emberstrife - (56.7, 87.6)| |Z|Dustwallow Marsh|
 A Ascension... |QID|6601| |N|Emberstrife - (56.7, 87.6)| |Z|Dustwallow Marsh|
 R Travel to Feralas |N|(46.3, 20.9)| |Z|Feralas|
-N Rexxar |cRXP_WARN_patrols North to South through Desolace. His patrol path is marked on the map. Follow the waypoint arrow to ensure you cover his entire patrol path |N|(48.2, 23.2)| |Z|Feralas|
-N |cRXP_WARN_He despawns once he reaches The Twin Colossals in Feralas. After a 5 minute timer he respawns at the Stonetalon/Desolace border |N|(48.2, 23.2)| |Z|Feralas|
+N Rexxar patrols North to South through Desolace. His patrol path is marked on the map. Follow the waypoint arrow to ensure you cover his entire patrol path |N|(48.2, 23.2)| |Z|Feralas|
+N He despawns once he reaches The Twin Colossals in Feralas. After a 5 minute timer he respawns at the Stonetalon/Desolace border |N|(48.2, 23.2)| |Z|Feralas|
 T Ascension... |QID|6601| |N|Rexxar - (48.2, 23.2)| |Z|Feralas|
 A Blood of the Black Dragon Champion |QID|6602| |N|Rexxar - (48.2, 23.2)| |Z|Feralas|
 R Travel to Eastern Kingdoms |N|(49.0, 63.9)| |O| |Z|Eastern Kingdoms|
 N This is a 10-man dungeon. You or somebody in your party must have the [Seal of Ascension] to be able to enter Upper Blackrock Spire |N|(49.0, 63.9)| |O| |Z|Eastern Kingdoms|
 C Blood of the Black Dragon Champion |QID|6602| |N|Kill General Drakkisath Blood of the Black Dragon Champion 1/1| |Z|Eastern Kingdoms|
 R Travel to Feralas |N|(46.3, 20.9)| |Z|Feralas|
-N Rexxar |cRXP_WARN_patrols North to South through Desolace. His patrol path is marked on the map. Follow the waypoint arrow to ensure you cover his entire patrol path |N|(48.2, 23.2)| |Z|Feralas|
-N |cRXP_WARN_He despawns once he reaches The Twin Colossals in Feralas. After a 5 minute timer he respawns at the Stonetalon/Desolace border |N|(48.2, 23.2)| |Z|Feralas|
+N Rexxar patrols North to South through Desolace. His patrol path is marked on the map. Follow the waypoint arrow to ensure you cover his entire patrol path |N|(48.2, 23.2)| |Z|Feralas|
+N He despawns once he reaches The Twin Colossals in Feralas. After a 5 minute timer he respawns at the Stonetalon/Desolace border |N|(48.2, 23.2)| |Z|Feralas|
 T Blood of the Black Dragon Champion |QID|6602| |N|Rexxar - (48.2, 23.2)| |Z|Feralas|
 
 ]]

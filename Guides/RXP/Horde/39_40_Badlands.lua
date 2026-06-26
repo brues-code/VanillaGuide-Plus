@@ -21,7 +21,7 @@ A Study of the Elements: Rock |QID|710| |N|Lotwil - (25.9, 44.9)| |Z|Badlands|
 A Liquid Stone |QID|715| |N|Lucien - (25.8, 44.2)| |Z|Badlands|
 T Liquid Stone |QID|715| |N|Lucien - (25.8, 44.2)| |Z|Badlands|
 N Don't focus on this. You can complete it later |O| |Z|Badlands|
-C Barbecued Buzzard Wings |QID|703| |N|While questing, kill any Buzzards and Coyotes you encounter. Loot them for their Wings, Gizzards, Jawbones and Fangs| |O| |Z|Badlands|
+C While questing, kill any Buzzards and Coyotes you encounter. Loot them for their Wings, Gizzards, Jawbones and Fangs |QID|703| |L|3404 4| |N|While questing, kill any Buzzards and Coyotes you encounter. Loot them for their Wings, Gizzards, Jawbones and Fangs| |O| |Z|Badlands|
 C Badlands Reagent Run |QID|2258| |N|While questing, kill any Buzzards and Coyotes you encounter. Loot them for their Wings, Gizzards, Jawbones and Fangs| |O| |Z|Badlands|
 C Coyote Thieves |QID|1419| |N|While questing, kill any Buzzards and Coyotes you encounter. Loot them for their Wings, Gizzards, Jawbones and Fangs| |O| |Z|Badlands|
 C Study of the Elements: Rock |QID|710| |N|Lesser Rock Elementals. Loot them for their Stone Shards and Elemental Shards (23.1, 48.2)| |Z|Badlands|
@@ -30,7 +30,7 @@ T Study of the Elements: Rock |QID|710| |N|Lotwil Veriatus - (25.9, 44.9)| |Z|Ba
 A Study of the Elements: Rock |QID|711| |N|Lotwil Veriatus - (25.9, 44.9)| |Z|Badlands|
 C Coyote Thieves |QID|1419| |N|Kill Coyotes. Loot them for their Jawbones and Fangs| |O| |Z|Badlands|
 C Badlands Reagent Run |QID|2258| |N|Kill Coyotes. Loot them for their Jawbones and Fangs| |O| |Z|Badlands|
-C Barbecued Buzzard Wings |QID|703| |N|Buzzards. Loot them for their Wings (17.0, 61.2)| |Z|Badlands|
+C Buzzards. Loot them for their Wings |QID|703| |L|3404 4| |N|Buzzards. Loot them for their Wings - (17.0, 61.2)| |Z|Badlands|
 N Prioritize Coyotes over Buzzards |O| |Z|Badlands|
 C Coyote Thieves |QID|1419| |N|Kill Coyotes and Buzzards. Loot them for their Jawbones, Fangs and Gizzards| |O| |Z|Badlands|
 C Badlands Reagent Run |QID|2258| |N|Kill Coyotes and Buzzards. Loot them for their Jawbones, Fangs and Gizzards| |O| |Z|Badlands|

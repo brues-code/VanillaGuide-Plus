@@ -53,14 +53,14 @@ C The Bloodsail Buccaneers |QID|604| |N|Bloodsail Swashbucklers (27.2, 82.8)| |Z
 N Save any [Gorilla Fangs] you loot. You will need them for another quest later |N|(31.3, 65.5)| |Z|Stranglethorn Vale|
 C Scaring Shaky |QID|606| |N|Elder Mistvale Gorillas. Loot them for their Giblets and Sinew (31.3, 65.5)| |Z|Stranglethorn Vale|
 C Mok'thardin's Enchantment |QID|571| |N|Elder Mistvale Gorillas. Loot them for their Giblets and Sinew (31.3, 65.5)| |Z|Stranglethorn Vale|
-C Elder Mistvale Gorillas. Loot them for their Giblets and Sinew |N|Elder Mistvale Gorillas. Loot them for their Giblets and Sinew - (31.3, 65.5)| |Z|Stranglethorn Vale|
+C Elder Mistvale Gorillas. Loot them for their Giblets and Sinew |L|2799 10| |N|Elder Mistvale Gorillas. Loot them for their Giblets and Sinew - (31.3, 65.5)| |Z|Stranglethorn Vale|
 N You can skip this if you want, the quest proceeding this is VERY difficult |N|(32.8, 65.8)| |O| |Z|Stranglethorn Vale|
-C Elder Mistvale Gorillas. Loot them for their [Gorilla Fangs] |N|Elder Mistvale Gorillas. Loot them for their [Gorilla Fangs] - (32.8, 65.8)| |O| |Z|Stranglethorn Vale|
+C Elder Mistvale Gorillas. Loot them for their [Gorilla Fangs] |L|2799 10| |N|Elder Mistvale Gorillas. Loot them for their [Gorilla Fangs] - (32.8, 65.8)| |O| |Z|Stranglethorn Vale|
 C Scaring Shaky |QID|606| |N|Elder Mistvale Gorillas. Loot them for their Giblets and Sinew (31.3, 65.5)| |Z|Stranglethorn Vale|
 C Mok'thardin's Enchantment |QID|571| |N|Elder Mistvale Gorillas. Loot them for their Giblets and Sinew (31.3, 65.5)| |Z|Stranglethorn Vale|
-N |cRXP_WARN_This quest is very hard. 3 waves of Gorillas will spawn. Consider grouping up if possible |N|(35.3, 60.4)| |Z|Stranglethorn Vale|
+N This quest is very hard. 3 waves of Gorillas will spawn. Consider grouping up if possible |N|(35.3, 60.4)| |Z|Stranglethorn Vale|
 T Stranglethorn Fever |QID|349| |N|Witch Doctor Unbagwa - (35.3, 60.4)| |Z|Stranglethorn Vale|
-N |cRXP_WARN_This quest is very hard. Use no cooldowns on wave 1. Use all cooldowns on wave 2. On wave 3 avoid them by going a bit up the mountain, then when they aggro the NPC kill Mokk the Savage only and loot it |N|(35.3, 60.4)| |Z|Stranglethorn Vale|
+N This quest is very hard. Use no cooldowns on wave 1. Use all cooldowns on wave 2. On wave 3 avoid them by going a bit up the mountain, then when they aggro the NPC kill Mokk the Savage only and loot it |N|(35.3, 60.4)| |Z|Stranglethorn Vale|
 C Stranglethorn Fever |QID|348| |N|Face waves of Gorillas until Mokk the Savage appears. Kill him and loot him for his Heart (35.3, 60.4)| |Z|Stranglethorn Vale|
 T Scaring Shaky |QID|606| |N|"Shaky" Phillipe - (26.9, 73.7)| |Z|Stranglethorn Vale|
 A Return to MacKinley |QID|607| |N|"Shaky" Phillipe - (26.9, 73.7)| |Z|Stranglethorn Vale|
@@ -87,7 +87,7 @@ N You can kite him back to the Booty Bay guards and get credit for the quest if 
 N This quest is HARD depending on how well you can kite and do damage on the move. You can skip this quest if needed |N|(36.9, 69.5)| |Z|Stranglethorn Vale|
 C The Captain's Chest |QID|8551| |N|Gorlash. Loot him for his Chest (36.9, 69.5)| |Z|Stranglethorn Vale|
 A Cortello's Riddle |QID|624| |N|Search the ships' lower levels until you find a Small Scroll on the ground. Loot it for [Cortello's Riddle]. Use it to start the quest| |O| |Z|Stranglethorn Vale|
-C Cortello's Riddle |QID|624| |N|Search the ships' lower levels until you find a Small Scroll on the ground. Loot it for [Cortello's Riddle]. Use it to start the quest| |O| |Z|Stranglethorn Vale|
+C Search the ships' lower levels until you find a Small Scroll on the ground. Loot it for [Cortello's Riddle]. Use it to start the quest |QID|624| |L|4056 1| |N|Search the ships' lower levels until you find a Small Scroll on the ground. Loot it for [Cortello's Riddle]. Use it to start the quest| |O| |Z|Stranglethorn Vale|
 C Up to Snuff |QID|587| |N|Kill Bloodsail Pirates. Loot them for their Snuff and Dizzy's Eye| |O| |Z|Stranglethorn Vale|
 C Keep An Eye Out |QID|576| |N|Kill Bloodsail Pirates. Loot them for their Snuff and Dizzy's Eye| |O| |Z|Stranglethorn Vale|
 C The Bloodsail Buccaneers |QID|608| |N|Captain Stillwater on the 2nd floor at the back of the ship (32.9, 88.2)| |Z|Stranglethorn Vale|
@@ -95,13 +95,13 @@ C The Bloodsail Buccaneers |QID|608| |N|Fleet Master Firallon on the 2nd floor a
 N Garr can charge for heavy damage, stun for 2 seconds, and [Thrash] |N|(29.3, 88.3)| |Z|Stranglethorn Vale|
 C The Bloodsail Buccaneers |QID|608| |N|Captain Keelhaul on the 2nd floor at the back of the ship. (29.3, 88.3)| |Z|Stranglethorn Vale|
 A Cortello's Riddle |QID|624| |N|Search the ships' lower levels until you find a Small Scroll on the ground. Loot it for [Cortello's Riddle]. Use it to start the quest - (29.3, 88.3)| |Z|Stranglethorn Vale|
-C Cortello's Riddle |QID|624| |N|Search the ships' lower levels until you find a Small Scroll on the ground. Loot it for [Cortello's Riddle]. Use it to start the quest (29.3, 88.3)| |Z|Stranglethorn Vale|
+C Search the ships' lower levels until you find a Small Scroll on the ground. Loot it for [Cortello's Riddle]. Use it to start the quest |QID|624| |L|4056 1| |N|Search the ships' lower levels until you find a Small Scroll on the ground. Loot it for [Cortello's Riddle]. Use it to start the quest - (29.3, 88.3)| |Z|Stranglethorn Vale|
 C Up to Snuff |QID|587| |N|Kill Bloodsail Pirates. Loot them for their Snuff| |O| |Z|Stranglethorn Vale|
 C Keep An Eye Out |QID|576| |N|Bloodsail Pirates. Loot them for Dizzy's Eye (27.2, 82.8)| |Z|Stranglethorn Vale|
 C Up to Snuff |QID|587| |N|Bloodsail Pirates. Loot them for their Snuff (27.2, 82.8)| |Z|Stranglethorn Vale|
 C Mok'thardin's Enchantment |QID|573| |N|Kill Naga Explorers. Loot them for their Akiris Reed| |O| |Z|Stranglethorn Vale|
 C Akiris by the Bundle |QID|617| |N|Kill Naga Explorers. Loot them for their Akiris Reed| |O| |Z|Stranglethorn Vale|
-C Mok'thardin's Enchantment |QID|573| |N|The Holy Spring to loot the Holy Spring Water (29.0, 61.9)| |Z|Stranglethorn Vale|
+C The Holy Spring to loot the Holy Spring Water |QID|573| |L|737 1| |N|The Holy Spring to loot the Holy Spring Water - (29.0, 61.9)| |Z|Stranglethorn Vale|
 C Mok'thardin's Enchantment |QID|573| |N|Finish killing Naga Explorers. Loot them for their Akiris Reed (27.0, 61.4)| |Z|Stranglethorn Vale|
 C Akiris by the Bundle |QID|617| |N|Finish killing Naga Explorers. Loot them for their Akiris Reed (27.0, 61.4)| |Z|Stranglethorn Vale|
 T The Captain's Chest |QID|8551| |N|Captain Hecklebury Smotts - (26.7, 73.6)| |Z|Stranglethorn Vale|

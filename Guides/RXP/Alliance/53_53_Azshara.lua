@@ -13,7 +13,7 @@ N [Filled Tainted Ooze Jar] |N|(62.7, 37.4)| |Z|The Barrens|
 R Fuzruckle or Zikkel |N|(62.7, 37.4)| |Z|The Barrens|
 N [Standard Issue Flare Gun] |N|(62.7, 37.4)| |Z|The Barrens|
 N [Drawing Kit] |N|(62.7, 37.4)| |Z|The Barrens|
-C Take out any [Noggenfogger Elixirs] from your bank if you have any. Ideally 15-20 or so. You will use them for a quest later. It's no big deal if you don't have them |N|Take out any [Noggenfogger Elixirs] from your bank if you have any. Ideally 15-20 or so. You will use them for a quest later. It's no big deal if you don't have them - (62.7, 37.4)| |O| |Z|The Barrens|
+C Take out any [Noggenfogger Elixirs] from your bank if you have any. Ideally 15-20 or so. You will use them for a quest later. It's no big deal if you don't have them |L|8529 20| |N|Take out any [Noggenfogger Elixirs] from your bank if you have any. Ideally 15-20 or so. You will use them for a quest later. It's no big deal if you don't have them - (62.7, 37.4)| |O| |Z|The Barrens|
 R Innkeeper Wiley |N|(62.0, 39.4)| |Z|The Barrens|
 F Fly to Azshara |N|Bragok - (63.1, 37.2)| |Z|The Barrens|
 N This will teleport you to the top of the mountain |N|(28.1, 50.1) (ST Dungeon Quest)| |C|Mage| |D|ST| |Z|Azshara|
@@ -31,7 +31,7 @@ N You may have to tick the [At War] checkbox for [Timbermaw Hold] in your Reputa
 C Sealed Azure Bag |QID|8234| |N|[Pick Pocket] Timbermaw Shamans. Loot them for the Sealed Azure Bag (45.3, 21.6) (ST Dungeon Quest)| |C|Rogue| |D|ST| |Z|Azshara|
 A Kim'jael Indeed! |QID|3601| |N|Kim'jael - (53.5, 21.8)| |Z|Azshara|
 C Magic Dust |QID|8251| |N|Kill Blood Elf Reclaimers and Blood Elf Surveyors. Loot them for their Glittering Dust (ST Dungeon Quest)| |C|Mage| |D|ST| |Z|Azshara|
-N Kim'jael's Equipment |cRXP_WARN_boxes are scattered throughout the Blood Elf camp |N|(56.5, 28.4)| |Z|Azshara|
+N Kim'jael's Equipment boxes are scattered throughout the Blood Elf camp |N|(56.5, 28.4)| |Z|Azshara|
 C Kim'jael Indeed! |QID|3601| |N|the Kim'jael's Equipment. Loot it for Kim'Jael's Compass, Kim'Jael's Scope, Kim'Jael's Stuffed Chicken and Kim'Jael's Wizzlegoober (56.5, 28.4)| |Z|Azshara|
 C Magic Dust |QID|8251| |N|Blood Elf Reclaimers and Blood Elf Surveyors. Loot them for their Glittering Dust (56.5, 28.4) (ST Dungeon Quest)| |C|Mage| |D|ST| |Z|Azshara|
 T Kim'jael Indeed! |QID|3601| |N|Kim'jael - (53.5, 21.8)| |Z|Azshara|

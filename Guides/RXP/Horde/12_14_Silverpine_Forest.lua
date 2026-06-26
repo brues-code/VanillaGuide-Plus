@@ -5,23 +5,23 @@ return [[
 N 12-14 Silverpine Forest |N|Converted from RestedXP guide|
 
 C The Deathstalkers |QID|1886| |N|If you see Astor, him and kill him. Loot him for the letter. He patrols the road between Brill and The Sepulcher Astor's Letter of Introduction (1)| |O| |C|Rogue| |R|Undead|
-C Kill Worgs as you travel toward Erland. Loot them for their Hearts |QID|429| |N|Kill Worgs as you travel toward Erland. Loot them for their Hearts| |O|
+C Collect Discolored Worg Heart (x6) |QID|429| |L|3164 6| |N|Kill Worgs as you travel toward Erland. Loot them for their Hearts| |O|
 N Make sure you are full health/mana before starting this quest |N|(56.2, 9.2)| |Z|Silverpine Forest|
 A Escorting Erland |QID|435| |N|Deathstalker Erland to begin the escort - (56.2, 9.2)| |Z|Silverpine Forest|
-C Kill Worgs. Loot them for their Hearts |QID|429| |N|Kill Worgs. Loot them for their Hearts| |O| |Z|Silverpine Forest|
+C Collect Discolored Worg Heart (x6) |QID|429| |L|3164 6| |N|Kill Worgs. Loot them for their Hearts| |O| |Z|Silverpine Forest|
 N Worgs can spawn on top of each other, eat and drink whenever you are able to |N|(53.5, 13.4)| |Z|Silverpine Forest|
 C Escorting Erland |QID|435| |N|Escort Erland safely to Rane Yorick Erland must reach Rane Yorick (1)| |Z|Silverpine Forest|
 T Escorting Erland |QID|435| |N|Rane Yorick - (53.5, 13.4)| |Z|Silverpine Forest|
 A Wild Hearts |QID|429| |N|Rane Yorick - (53.5, 13.4)| |Z|Silverpine Forest|
 A The Deathstalkers' Report |QID|449| |N|Rane Yorick - (53.5, 13.4)| |Z|Silverpine Forest|
-C Wild Hearts |QID|429| |N|Worgs. Loot them for their Hearts Collect Discolored Worg Heart (x6)| |Z|Silverpine Forest|
+C Collect Discolored Worg Heart (x6) |QID|429| |L|3164 6| |N|Worgs. Loot them for their Hearts (57.7, 10.1)| |Z|Silverpine Forest|
 R The Sepulcher |N|(45.5, 41.3)| |O| |Z|Silverpine Forest|
 A Prove Your Worth |QID|421| |N|Dalar - (44.2, 39.7)| |Z|Silverpine Forest|
 B Buy [Lesser Healing Potions] from him if they're up |N|Gwyn - (44.0, 39.8)| |C|!Mage/!Priest| |Z|Silverpine Forest|
-C Prove Your Worth |QID|421| |N|Gwyn Red-speckled Mushroom (20)| |C|!Mage/!Priest| |Z|Silverpine Forest|
+B Red-speckled Mushroom (20) |L|4605 20| |N|Gwyn - (44.0, 39.8)| |C|!Mage/!Priest| |Z|Silverpine Forest|
 N Buy [Ice Cold Milk] from him |N|(44.0, 39.9)| |C|Mage/Warlock/Priest/Shaman/Druid| |Z|Silverpine Forest|
 B Buy [Lesser Healing Potions] from him if they're up |N|Edwin - (44.0, 39.9)| |Z|Silverpine Forest|
-C Prove Your Worth |QID|421| |N|Edwin (44.0, 39.9)| |C|Mage/Warlock/Priest/Shaman/Druid| |Z|Silverpine Forest|
+B Edwin |L|1179 20| |N|Edwin - (44.0, 39.9)| |C|Mage/Warlock/Priest/Shaman/Druid| |Z|Silverpine Forest|
 A Border Crossings |QID|477| |N|Allister and Podrig - (44.0, 40.9)| |R|Undead| |Z|Silverpine Forest|
 A Supplying the Sepulcher |QID|6321| |N|Allister and Podrig - (44.0, 40.9)| |R|Undead| |Z|Silverpine Forest|
 A Border Crossings |QID|477| |N|Allister - (44.0, 40.9)| |Z|Silverpine Forest|
@@ -65,10 +65,10 @@ T The Dead Fields |QID|437| |N|Hadrec in the crypt - (43.4, 40.9)| |Z|Silverpine
 A The Decrepit Ferry |QID|438| |N|Hadrec in the crypt - (43.4, 40.9)| |Z|Silverpine Forest|
 N Buy [Red-speckled Mushrooms] from her |N|(44.0, 39.8)| |C|!Mage/!Priest| |Z|Silverpine Forest|
 B Vendor trash |N|Gwyn - (44.0, 39.8)| |C|!Mage/!Priest| |Z|Silverpine Forest|
-C Arugal's Folly |QID|423| |N|Gwyn Red-speckled Mushroom (20)| |C|!Mage/!Priest| |Z|Silverpine Forest|
+B Red-speckled Mushroom (20) |L|4605 20| |N|Gwyn - (44.0, 39.8)| |C|!Mage/!Priest| |Z|Silverpine Forest|
 N Buy [Ice Cold Milk] from him |N|(44.0, 39.9)| |C|Warlock/Priest/Shaman/Druid| |Z|Silverpine Forest|
 B Buy [Lesser Healing Potions] from him if they're up |N|Edwin - (44.0, 39.9)| |Z|Silverpine Forest|
-C Arugal's Folly |QID|423| |N|Edwin (44.0, 39.9)| |C|Warlock/Priest/Shaman/Druid| |Z|Silverpine Forest|
+B Edwin |L|1179 20| |N|Edwin - (44.0, 39.9)| |C|Warlock/Priest/Shaman/Druid| |Z|Silverpine Forest|
 B Buy [Wise Man's Belt] from her if it's up |N|Andrea - (44.8, 39.2)| |C|Warlock/Mage/Priest| |Z|Silverpine Forest|
 B Buy [Agile Boots] from her if it's up |N|Alexandre - (44.6, 39.1)| |C|Rogue| |Z|Silverpine Forest|
 T The Decrepit Ferry |QID|438| |N|the Boat at the side of the docks - (58.4, 34.8)| |Z|Silverpine Forest|
@@ -97,10 +97,10 @@ F Fly to the Undercity |N|Karos - (45.6, 42.6)| |R|!Undead| |Z|Silverpine Forest
 T Ride to the Undercity |QID|6323| |N|Gordon - (61.5, 41.8)| |R|Undead| |Z|Undercity|
 A Michael Garrett |QID|6322| |N|Gordon - (61.5, 41.8)| |R|Undead| |Z|Undercity|
 N Buy a [Scimitar] from him |N|(61.1, 40.9)| |C|Rogue| |Z|Undercity|
-C Louis Warren in the Trade Quarter |QID|809| |N|Louis Warren in the Trade Quarter - (61.1, 40.9)| |C|Rogue| |Z|Undercity|
+B Collect Scimitar (1) |L|2027 1| |N|Louis Warren in the Trade Quarter - (61.1, 40.9)| |C|Rogue| |Z|Undercity|
 N Buy a [Scimitar] from him |N|(61.1, 40.9)| |C|Rogue| |Z|Undercity|
 N Alternatively, check the Auction House for something better or cheaper |N|(61.1, 40.9)| |C|Rogue| |Z|Undercity|
-C Louis Warren in the Trade Quarter |QID|809| |N|Louis Warren in the Trade Quarter - (61.1, 40.9)| |C|Rogue| |Z|Undercity|
+B Collect Scimitar (1) |L|2027 1| |N|Louis Warren in the Trade Quarter - (61.1, 40.9)| |C|Rogue| |Z|Undercity|
 T Michael Garrett |QID|6322| |N|Michael - (63.3, 48.5)| |R|Undead| |Z|Undercity|
 t Train your class spells |N|Baltus Fowler - (47.4, 17.3) (RFC Dungeon Quest)| |C|Warrior| |R|Undead| |D|RFC| |Z|Undercity|
 T The Prodigal Lich Returns |QID|411| |N|Bethor - (84.1, 17.5)| |C|Rogue/Undead/Warrior| |R|Undead| |Z|Undercity|
@@ -130,14 +130,14 @@ T The Prodigal Lich Returns |QID|411| |N|Bethor - (84.1, 17.5)| |C|!Rogue/!Warri
 t Train your class spells |N|Anastasia - (85.1, 10.0)| |C|Mage| |Z|Undercity|
 t Train your class spells |N|Richard - (88.9, 15.9)| |C|Warlock| |R|Undead| |Z|Undercity|
 N Buy a [Smoldering Wand] from him |N|(69.5, 26.9)| |C|Priest/Mage/Warlock| |Z|Undercity|
-C Zane Bradford in the Magic Quarter |N|Zane Bradford in the Magic Quarter - (69.5, 26.9)| |C|Priest/Mage/Warlock| |Z|Undercity|
+B Smoldering Wand (1) |L|5208 1| |N|Zane Bradford in the Magic Quarter - (69.5, 26.9)| |C|Priest/Mage/Warlock| |Z|Undercity|
 N Buy a [Smoldering Wand] from him |N|(69.5, 26.9)| |C|Priest/Mage/Warlock| |Z|Undercity|
 N Alternatively, check the Auction House for something better or cheaper |N|(69.5, 26.9)| |C|Priest/Mage/Warlock| |Z|Undercity|
-C Zane Bradford in the Magic Quarter |N|Zane Bradford in the Magic Quarter - (69.5, 26.9)| |C|Priest/Mage/Warlock| |Z|Undercity|
+B Smoldering Wand (1) |L|5208 1| |N|Zane Bradford in the Magic Quarter - (69.5, 26.9)| |C|Priest/Mage/Warlock| |Z|Undercity|
 T Touch of Weakness |QID|5658| |N|Aelthalyste - (49.0, 18.3) (RFC Dungeon Quest)| |C|Priest| |R|Undead| |D|RFC| |Z|Undercity|
-t Training (2652) |N|Aelthalyste - (49.0, 18.3) (RFC Dungeon Quest)| |C|Priest| |R|Undead| |D|RFC| |Z|Undercity|
+t Touch of Weakness not trained |N|Aelthalyste - (49.0, 18.3) (RFC Dungeon Quest)| |C|Priest| |R|Undead| |D|RFC| |Z|Undercity|
 T Touch of Weakness |QID|5660| |N|Aelthalyste - (49.0, 18.3) (RFC Dungeon Quest)| |C|Priest| |R|!Undead| |D|RFC| |Z|Undercity|
-t Training (2652) |N|Aelthalyste - (49.0, 18.3) (RFC Dungeon Quest)| |C|Priest| |R|!Undead| |D|RFC| |Z|Undercity|
+t Touch of Weakness not trained |N|Aelthalyste - (49.0, 18.3) (RFC Dungeon Quest)| |C|Priest| |R|!Undead| |D|RFC| |Z|Undercity|
 t Train your class spells |N|Lazarus - (47.6, 18.9) (RFC Dungeon Quest)| |C|Priest| |R|Undead| |D|RFC| |Z|Undercity|
 N Abandon The Deathstalkers, there's no opportunity left to do it |O| |C|Rogue| |R|Undead| |Z|Undercity|
 R Travel to Tirisfal Glades |N|(61.9, 64.8)| |O| |R|Undead| |Z|Tirisfal Glades|

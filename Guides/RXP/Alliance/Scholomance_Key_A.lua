@@ -4,7 +4,7 @@ return [[
 
 N Scholomance Key (A) |N|Converted from RestedXP guide|
 
-C Go to the Auction House in any Major city and buy 2 [Thorium Bars] |QID|5801| |N|Go to the Auction House in any Major city and buy 2 [Thorium Bars]|
+B Thorium Bar x2 |L|12359 2| |N|Go to the Auction House in any Major city and buy 2 [Thorium Bars]|
 R Travel to Ironforge |N|(55.8, 35.2)| |Z|Ironforge|
 N Courier Hammerfall patrols through all of Ironforge |N|(33.0, 22.4)| |Z|Ironforge|
 N This quest can also be accepted in Stormwind City or Darnassus |N|(33.0, 22.4)| |Z|Ironforge|
@@ -31,7 +31,7 @@ A Mold Rhymes With... |QID|5538| |N|Alchemist Arbington - (42.7, 83.8)| |Z|Weste
 N Turning in this quest requires you to pay 15 Gold |N|(51.5, 28.8)| |Z|Tanaris|
 T Mold Rhymes With... |QID|5538| |N|Krinkle Goodsteel - (51.5, 28.8)| |Z|Tanaris|
 A Fire Plume Forged |QID|5801| |N|Krinkle Goodsteel - (51.5, 28.8)| |Z|Tanaris|
-C Fire Plume Forged |QID|5801| |N|If you did not buy them earlier, go to the Auction House in any Major city and buy 2 [Thorium Bars] Thorium Bar x2| |Z|Tanaris|
+B Thorium Bar x2 |L|12359 2| |N|If you did not buy them earlier, go to the Auction House in any Major city and buy 2 [Thorium Bars]| |Z|Tanaris|
 F Fly to Un'Goro Crater |N|Bera Stonehammer - (51.0, 29.3)| |O| |Z|Tanaris|
 R the top of the mountain at Fire Plume Ridge |N|(49.6, 47.6)| |O| |Z|Un'Goro Crater|
 C Fire Plume Forged |QID|5801| |N|Unfinished Skeleton Key (1)| |Z|Un'Goro Crater|

@@ -25,19 +25,19 @@ T Meats to Orgrimmar |QID|6365| |N|Devrak - (51.5, 30.3)| |C|Warrior/Shaman| |Z|
 A Ride to Orgrimmar |QID|6384| |N|Devrak - (51.5, 30.3)| |C|Warrior/Shaman| |Z|The Barrens|
 A Fungal Spores |QID|848| |N|Helbrim - (51.4, 30.1)| |C|Warrior/Shaman| |Z|The Barrens|
 A Wharfmaster Dizzywig |QID|1492| |N|Helbrim - (51.4, 30.1)| |C|Warrior/Shaman| |Z|The Barrens|
-N |cRXP_WARN_Keep maximum distance from Kolkar as you loot the mushrooms. They are level 12-14 |O| |C|Warrior/Shaman| |Z|The Barrens|
-N |cRXP_WARN_The follow-up of this quest has the powerful Cauldron Stirrer as a reward. You can skip this quest for now if you do not intend to use it |O| |C|Warrior/Shaman| |Z|The Barrens|
+N Keep maximum distance from Kolkar as you loot the mushrooms. They are level 12-14 |O| |C|Warrior/Shaman| |Z|The Barrens|
+N The follow-up of this quest has the powerful Cauldron Stirrer as a reward. You can skip this quest for now if you do not intend to use it |O| |C|Warrior/Shaman| |Z|The Barrens|
 C Fungal Spores |QID|848| |N|Collect Laden Mushrooms around The Forgotten Pools Collect Fungal Spores (x4)| |O| |C|Warrior/Shaman| |Z|The Barrens|
 C The Forgotten Pools |QID|870| |N|Dive underwater to the Bubble Fissure Explore the waters of the Forgotten Pools| |C|Warrior/Shaman| |Z|The Barrens|
-N |cRXP_WARN_Keep maximum distance from Kolkar in the area. They are level 12-14 |N|(43.9, 24.4)| |C|Warrior/Shaman| |Z|The Barrens|
-N |cRXP_WARN_The follow-up of this quest has the powerful Cauldron Stirrer as a reward. You can skip this quest for now if you do not intend to use it |N|(43.9, 24.4)| |C|Warrior/Shaman| |Z|The Barrens|
+N Keep maximum distance from Kolkar in the area. They are level 12-14 |N|(43.9, 24.4)| |C|Warrior/Shaman| |Z|The Barrens|
+N The follow-up of this quest has the powerful Cauldron Stirrer as a reward. You can skip this quest for now if you do not intend to use it |N|(43.9, 24.4)| |C|Warrior/Shaman| |Z|The Barrens|
 C Fungal Spores |QID|848| |N|Collect Laden Mushrooms around The Forgotten Pools Collect Fungal Spores (x4)| |C|Warrior/Shaman| |Z|The Barrens|
 N Wait for the RP to finish |N|(51.4, 30.1)| |C|Warrior/Shaman| |Z|The Barrens|
 N This starts a 45-minute timed quest |N|(51.4, 30.1)| |C|Warrior/Shaman| |Z|The Barrens|
 T Fungal Spores |QID|848| |N|Helbrim - (51.4, 30.1)| |C|Warrior/Shaman| |Z|The Barrens|
 A Apothecary Zamah |QID|853| |N|Helbrim - (51.4, 30.1)| |C|Warrior/Shaman| |Z|The Barrens|
 N Buy one or more [Small Brown Pouches] from him |N|(51.7, 29.9)| |C|Warrior/Shaman| |Z|The Barrens|
-C Apothecary Zamah |QID|853| |N|Barg Small Brown Pouch (1)| |C|Warrior/Shaman| |Z|The Barrens|
+B Small Brown Pouch (1) |L|4496 1| |N|Barg - (51.7, 29.9)| |C|Warrior/Shaman| |Z|The Barrens|
 T The Forgotten Pools |QID|870| |N|Tonga - (52.3, 31.9)| |C|Warrior/Shaman| |Z|The Barrens|
 f Get the Camp Taurajo flight path |N|Omusa - (44.5, 59.2)| |C|Warrior/Shaman| |Z|The Barrens|
 R Travel to Mulgore |N|(55.1, 60.6)| |C|Warrior/Shaman| |Z|Mulgore|
@@ -52,7 +52,7 @@ A Mazzranache |QID|766| |N|Maur - (47.0, 57.0)| |C|Warrior/Shaman| |Z|Mulgore|
 C Mazzranache |QID|766| |N|Kill Wolves, Cougars, Plainstriders and Swoops as you quest throughout the zone Prairie Wolf Heart (1)| |O| |C|Warrior/Shaman| |Z|Mulgore|
 C Swoop Hunting |QID|761| |N|Kill Wolves, Cougars, Plainstriders and Swoops as you quest throughout the zone Trophy Swoop Quill (8)| |O| |C|Warrior/Shaman| |Z|Mulgore|
 N Do not accept the quest yet |O| |C|Warrior/Shaman| |Z|Mulgore|
-C Keep an eye out for Ghost Howl. Loot him for his [Demon Scarred Cloak]. Use it to start the quest |QID|770| |N|Keep an eye out for Ghost Howl. Loot him for his [Demon Scarred Cloak]. Use it to start the quest| |O| |C|Warrior/Shaman| |Z|Mulgore|
+C Collect Demon Scarred Cloak |QID|770| |L|4854 1| |N|Keep an eye out for Ghost Howl. Loot him for his [Demon Scarred Cloak]. Use it to start the quest| |O| |C|Warrior/Shaman| |Z|Mulgore|
 C Rite of Vision |QID|771| |N|Collect the Ambercorns. They can be found under the trees on the ground Ambercorn (2)| |C|Warrior/Shaman| |Z|Mulgore|
 C Rite of Vision |QID|771| |N|Collect the Well Stones around the Well Well Stone (2)| |C|Warrior/Shaman| |Z|Mulgore|
 N Do not follow the wolf that spawns |N|(47.8, 57.5)| |C|Warrior/Shaman| |Z|Mulgore|
@@ -67,7 +67,7 @@ R Run out of the cave, then leave Thunder Bluff by jumping down somewhere under 
 C Mazzranache |QID|766| |N|Kill Wolves, Cougars, Plainstriders and Swoops as you quest throughout the zone Prairie Wolf Heart (1)| |O| |C|Warrior/Shaman| |Z|Mulgore|
 C Swoop Hunting |QID|761| |N|Kill Wolves, Cougars, Plainstriders and Swoops as you quest throughout the zone Trophy Swoop Quill (8)| |O| |C|Warrior/Shaman| |Z|Mulgore|
 N Do not accept the quest yet |O| |C|Warrior/Shaman| |Z|Mulgore|
-C Keep an eye out for Ghost Howl. Loot him for his [Demon Scarred Cloak] |QID|770| |N|Keep an eye out for Ghost Howl. Loot him for his [Demon Scarred Cloak]| |O| |C|Warrior/Shaman| |Z|Mulgore|
+C Collect Demon Scarred Cloak |QID|770| |L|4854 1| |N|Keep an eye out for Ghost Howl. Loot him for his [Demon Scarred Cloak]| |O| |C|Warrior/Shaman| |Z|Mulgore|
 N He is located in the cave south/west of Thunder Bluff |N|(32.7, 36.1)| |C|Warrior/Shaman| |Z|Mulgore|
 T Rite of Vision |QID|772| |N|Wiserunner - (32.7, 36.1)| |C|Warrior/Shaman| |Z|Mulgore|
 A Rite of Wisdom |QID|773| |N|Wiserunner - (32.7, 36.1)| |C|Warrior/Shaman| |Z|Mulgore|
@@ -106,7 +106,7 @@ N Be careful to not fall of the mountain, the path is very narrow. You could die
 T Call of Fire |QID|1524| |N|Telf - (38.5, 58.9)| |C|Shaman| |Z|Durotar|
 A Call of Fire |QID|1525| |N|Telf - (38.5, 58.9)| |C|Shaman| |Z|Durotar|
 B Buy [Small Brown Pouches] from him |N|Jark - (54.4, 42.2)| |C|Warrior| |Z|Durotar|
-t Training (16828) |O| |C|Hunter| |Z|Durotar|
+t Claw rank 2 |O| |C|Hunter| |Z|Durotar|
 C Call of Fire |QID|1525| |N|Burning Blade Cultists. Loot them for a Reagent Pouch Reagent Pouch (1)| |C|Shaman| |Z|Durotar|
 R Margoz |N|(56.4, 20.0)| |O| |Z|Durotar|
 T Margoz |QID|828| |N|Margoz - (56.4, 20.0)| |Z|Durotar|
@@ -117,11 +117,11 @@ R Travel toward Skull Rock |N|(55.1, 10.1)| |O| |C|Warrior/Shaman/Hunter| |Z|Dur
 C Finding the Antidote |QID|813| |N|Kill Venomtail Scorpids. Loot them for their Poison Sacs Venomtail Poison Sac (4)| |O| |C|Warrior/Shaman/Hunter| |Z|Durotar|
 C Skull Rock |QID|827| |N|Burning Blade Orcs. Loot them for their Collars and for a Lieutenant's Insignia Searing Collar (6)| |O| |C|Warrior/Shaman/Hunter| |Z|Durotar|
 C Hidden Enemies |QID|5726| |N|Burning Blade Orcs. Loot them for their Collars and for a Lieutenant's Insignia Lieutenant's Insignia (1)| |O| |C|Warrior/Shaman/Hunter| |Z|Durotar|
-N |cRXP_WARN_Use the [Eye of Burning Shadow] to start the quest |N|(51.8, 10.0)| |C|Warrior/Shaman/Hunter| |Z|Durotar|
+N Use the [Eye of Burning Shadow] to start the quest |N|(51.8, 10.0)| |C|Warrior/Shaman/Hunter| |Z|Durotar|
 N Use your [Really Sticky Glue] on the Voidwalker to avoid being hit, and [Healing Potions] to restore health. Use LoS (line of sight) to avoid Gazz'uz his Shadow Bolts |N|(51.8, 10.0)| |C|Warrior/Shaman/Hunter| |Z|Durotar|
 N You can run to bodies of water found within the cave to evade the Voidwalker after killing Gazz'uz |N|(51.8, 10.0)| |C|Warrior/Shaman/Hunter| |Z|Durotar|
 N Be careful as he is VERY difficult. You can skip this quest if you need |N|(51.8, 10.0)| |C|Warrior/Shaman/Hunter| |Z|Durotar|
-C Burning Shadows |QID|832| |N|Gazz'uz. Loot him for his [Eye of Burning Shadow] (51.8, 10.0)| |C|Warrior/Shaman/Hunter| |Z|Durotar|
+C Collect Eye of Burning Shadow |QID|832| |L|4903 1| |N|Gazz'uz. Loot him for his [Eye of Burning Shadow] (51.8, 10.0)| |C|Warrior/Shaman/Hunter| |Z|Durotar|
 A Burning Shadows |QID|832| |N|Gazz'uz. Loot him for his [Eye of Burning Shadow] - (51.8, 10.0)| |C|Warrior/Shaman/Hunter| |Z|Durotar|
 N Skip the Lieutenant's Insignia if you're unlucky with the drop |N|(53.8, 8.9)| |C|Warrior/Shaman/Hunter| |Z|Durotar|
 C Skull Rock |QID|827| |N|Burning Blade Orcs. Loot them for their Collars and for a Lieutenant's Insignia Searing Collar (6)| |C|Warrior/Shaman/Hunter| |Z|Durotar|
@@ -140,7 +140,7 @@ A Doras the Wind Rider Master |QID|6385| |N|Gryshka - (54.1, 68.4)| |C|Shaman/Wa
 T Doras the Wind Rider Master |QID|6385| |N|Doras - (45.1, 63.9)| |C|Shaman/Warrior| |Z|Orgrimmar|
 A Return to the Crossroads |QID|6386| |N|Doras - (45.1, 63.9)| |C|Shaman/Warrior| |Z|Orgrimmar|
 t Train your class spells |N|Kardris - (38.8, 36.4)| |C|Shaman| |Z|Orgrimmar|
-C Trak'gen. Buy  [Sharp Throwing Axe] from him |QID|354| |N|Trak'gen. Buy  [Sharp Throwing Axe] from him - (48.1, 80.5)| |C|Rogue| |Z|Orgrimmar|
+B Sharp Throwing Axe (200) |L|3135 200| |N|Trak'gen. Buy  [Sharp Throwing Axe] from him - (48.1, 80.5)| |C|Rogue| |Z|Orgrimmar|
 B Vendor your trash |N|Trak'gen. Buy  [Sharp Throwing Axe] from him - (48.1, 80.5)| |C|Rogue| |Z|Orgrimmar|
 T Hex of Weakness |QID|5654| |N|Ur'kyo - (35.6, 87.8)| |C|Priest| |R|Troll| |Z|Orgrimmar|
 t Train your class spells |N|Ur'kyo - (35.6, 87.8)| |C|Priest| |R|Troll| |Z|Orgrimmar|

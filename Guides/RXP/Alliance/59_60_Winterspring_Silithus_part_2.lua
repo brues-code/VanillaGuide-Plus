@@ -50,7 +50,7 @@ T Guardians of the Altar |QID|4901| |N|Erelas Ambersky - (55.5, 92.0) (BRD Dunge
 A Wildkin of Elune |QID|4902| |N|Erelas Ambersky - (55.5, 92.0) (BRD Dungeon Quest)| |C|Mage| |D|BRD| |Z|Teldrassil|
 T Wildkin of Elune |QID|4902| |N|Arch Druid Fandral Staghelm - (34.8, 9.3) (BRD Dungeon Quest)| |D|BRD| |Z|Darnassus|
 N Try to ensure all party members have the same quests and prequests complete, along with 2-3 hours of playtime. |N|(BRD Dungeon Quest)| |D|BRD| |Z|Darnassus|
-C A Taste of Flame |QID|4022| |N|(BRD Dungeon Quest)| |D|BRD| |Z|Darnassus|
+C Remember to take out [Black Dragonflight Molt] from your bank if you completed the quest in Searing Gorge for it earlier. You will need it shortly |QID|4022| |L|10575 1| |N|(BRD Dungeon Quest)| |D|BRD| |Z|Darnassus|
 N If you have a Mage in your group you will set your Hearth to Lakeshire instead |N|(18.1, 51.6) (BRD Dungeon Quest)| |D|BRD| |Z|Darnassus|
 R Travel to Ironforge |N|(18.1, 51.6) (BRD Dungeon Quest)| |D|BRD| |Z|Ironforge|
 A Kharan Mighthammer |QID|4341| |N|King Magni Bronzebeard - (39.1, 56.2) (BRD Dungeon Quest)| |D|BRD| |Z|Ironforge|
@@ -67,7 +67,7 @@ T A Taste of Flame |QID|4022| |N|Cyrus Therepentous - (95.1, 31.6) (BRD Dungeon 
 N If you are missing the [Black Dragonflight Molt] and cannot complete the quest, Cyrus and select the option: "I do not possess any proof, Cyrus." |N|(95.1, 31.6) (BRD Dungeon Quest)| |D|BRD| |Z|Burning Steppes|
 N This will spawn a level 54 Elite Dragon at the entrance of the small cave. Ensure you have party members with you to help kill it, then loot it for the [Black Dragonflight Molt] |N|(95.1, 31.6) (BRD Dungeon Quest)| |D|BRD| |Z|Burning Steppes|
 N Select the option after: "I present you with proof of my deeds, Cyrus." |N|(95.1, 31.6) (BRD Dungeon Quest)| |D|BRD| |Z|Burning Steppes|
-C A Taste of Flame |QID|4022| |N|Cyrus Therepentous (95.1, 31.6) (BRD Dungeon Quest)| |D|BRD| |Z|Burning Steppes|
+C Cyrus Therepentous |QID|4022| |L|10575 1| |N|Cyrus Therepentous - (95.1, 31.6) (BRD Dungeon Quest)| |D|BRD| |Z|Burning Steppes|
 A A Taste of Flame |QID|4022| |N|Cyrus Therepentous - (95.1, 31.6) (BRD Dungeon Quest)| |D|BRD| |Z|Burning Steppes|
 T A Taste of Flame |QID|4022| |N|Cyrus Therepentous - (95.1, 31.6) (BRD Dungeon Quest)| |D|BRD| |Z|Burning Steppes|
 A A Taste of Flame |QID|4024| |N|Cyrus Therepentous - (95.1, 31.6) (BRD Dungeon Quest)| |D|BRD| |Z|Burning Steppes|
@@ -106,8 +106,8 @@ C Incendius! |QID|4263| |N|(BRD Dungeon Quest)| |D|BRD| |Z|Burning Steppes|
 T Dark Iron Legacy |QID|3802| |N|Click the Monument of Franclorn Forgewright (BRD Dungeon Quest)| |D|BRD| |Z|Burning Steppes|
 C A Taste of Flame |QID|4024| |N|Kill Bael'Gar (BRD Dungeon Quest)| |D|BRD| |Z|Burning Steppes|
 N If you still have not found this by now clear around the Detention Block until it drops |N|(BRD Dungeon Quest)| |D|BRD| |Z|Burning Steppes|
-C A Crumpled Up Note |QID|4264| |N||cRXP_WARN_It is important you do this before killing bosses General Angerforge and Golem Lord Argelmach (BRD Dungeon Quest)| |D|BRD| |Z|Burning Steppes|
-A A Crumpled Up Note |QID|4264| |N||cRXP_WARN_It is important you do this before killing bosses General Angerforge and Golem Lord Argelmach (BRD Dungeon Quest)| |D|BRD| |Z|Burning Steppes|
+C Dwarves at BRD. Loot them for [A Crumpled Up Note] |QID|4264| |L|11446 1| |N|It is important you do this before killing bosses General Angerforge and Golem Lord Argelmach (BRD Dungeon Quest)| |D|BRD| |Z|Burning Steppes|
+A A Crumpled Up Note |QID|4264| |N|It is important you do this before killing bosses General Angerforge and Golem Lord Argelmach (BRD Dungeon Quest)| |D|BRD| |Z|Burning Steppes|
 T A Crumpled Up Note |QID|4264| |N|(BRD Dungeon Quest)| |D|BRD| |Z|Burning Steppes|
 A A Shred of Hope |QID|4282| |N|(BRD Dungeon Quest)| |D|BRD| |Z|Burning Steppes|
 C A Shred of Hope |QID|4282| |N|(BRD Dungeon Quest)| |D|BRD| |Z|Burning Steppes|
@@ -122,8 +122,8 @@ C Ribbly Screwspigot |QID|4136| |N|Kill Ribbly Screwspigot. Loot him for his Hea
 N Kill Hurley Blackbreath. Loot him for the Lost Thunderbrew Recipe |N|(BRD Dungeon Quest)| |D|BRD| |Z|Burning Steppes|
 C Hurley Blackbreath |QID|4126| |N|Click on the 3 Thunderbrew Lager Kegs to destroy them, forcing Hurley Blackbreath and his 3 Blackbreath Cronies to engage (BRD Dungeon Quest)| |D|BRD| |Z|Burning Steppes|
 C Attunement to the Core |QID|7848| |N|(BRD Dungeon Quest)| |D|BRD| |Z|Burning Steppes|
-N |cRXP_WARN_Have a party member kite Princess Moira Bronzebeard while the rest of the group kills Emperor Dagran Thaurissan |N|(BRD Dungeon Quest)| |D|BRD| |Z|Burning Steppes|
-C The Fate of the Kingdom |QID|4362| |N||cRXP_WARN_You must NOT kill Princess Moira Bronzebeard in order to complete and turn in this quest (BRD Dungeon Quest)| |D|BRD| |Z|Burning Steppes|
+N Have a party member kite Princess Moira Bronzebeard while the rest of the group kills Emperor Dagran Thaurissan |N|(BRD Dungeon Quest)| |D|BRD| |Z|Burning Steppes|
+C The Fate of the Kingdom |QID|4362| |N|You must NOT kill Princess Moira Bronzebeard in order to complete and turn in this quest (BRD Dungeon Quest)| |D|BRD| |Z|Burning Steppes|
 T The Fate of the Kingdom |QID|4362| |N|(BRD Dungeon Quest)| |D|BRD| |Z|Burning Steppes|
 A The Princess's Surprise |QID|4363| |N|(BRD Dungeon Quest)| |D|BRD| |Z|Burning Steppes|
 T The Princess's Surprise |QID|4363| |N|King Magni Bronzebeard - (39.1, 56.2) (BRD Dungeon Quest)| |D|BRD| |Z|Ironforge|

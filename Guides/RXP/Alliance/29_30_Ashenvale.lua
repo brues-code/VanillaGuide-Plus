@@ -26,7 +26,7 @@ N Dal Bloodclaw patrols Thistlefur Village |N|(39.6, 36.3)| |Z|Ashenvale|
 C Culling the Threat |QID|1054| |N|Dal Bloodclaw. Loot him for his Skull (39.6, 36.3)| |Z|Ashenvale|
 A The Tower of Althalaxx |QID|973| |N|Delgren the Purifier - (26.2, 38.7)| |Z|Ashenvale|
 N Ilkrud Magthrull will cast [Ilkrud's Guardians] which is a 5 second long cast and will summon 2 Voidwalkers. Stop this cast if you're able to |N|(25.3, 60.7)| |Z|Ashenvale|
-N |cRXP_WARN_Clear an exit path if needed so you can reset them along with the Succubus if needed |N|(25.3, 60.7)| |Z|Ashenvale|
+N Clear an exit path if needed so you can reset them along with the Succubus if needed |N|(25.3, 60.7)| |Z|Ashenvale|
 C The Tower of Althalaxx |QID|973| |N|Ilkrud Magthrull. Loot him for his Tome (25.3, 60.7)| |Z|Ashenvale|
 A The Howling Vale |QID|1022| |N|Sentinel Melyria Frostshadow - (22.2, 53.0)| |Z|Ashenvale|
 A Vile Satyr! Dryads in Danger! |QID|1021| |N|Illiyana - (21.7, 53.3)| |Z|Ashenvale|
@@ -38,7 +38,7 @@ A An Aggressive Defense |QID|1025| |N|Raene Wolfrunner - (36.6, 49.6)| |Z|Ashenv
 A Fallen Sky Lake |QID|1035| |N|Pelturas Whitemoon - (37.4, 51.8)| |Z|Ashenvale|
 T Raene's Cleansing |QID|1024| |N|Shael'dryn - (53.5, 46.2)| |Z|Ashenvale|
 A Raene's Cleansing |QID|1026| |N|Shael'dryn - (53.5, 46.2)| |Z|Ashenvale|
-C Raene's Cleansing |QID|1026| |N|Withered Ancients and Crazed Ancients. Loot them for a Wooden Key (55.0, 32.8)| |O| |Z|Ashenvale|
+C Withered Ancients and Crazed Ancients. Loot them for a Wooden Key |QID|1026| |L|5475 1| |N|Withered Ancients and Crazed Ancients. Loot them for a Wooden Key - (55.0, 32.8)| |O| |Z|Ashenvale|
 C Raene's Cleansing |QID|1026| |N|the Worn Chest. Loot it for the Iron Shaft (54.4, 35.4)| |Z|Ashenvale|
 R Run up here for a shortcut |N|(52.7, 37.8)| |O| |Z|Ashenvale|
 C The Howling Vale |QID|1022| |N|the Tome of Mel'Thandris on the table (50.5, 39.1)| |Z|Ashenvale|
@@ -59,7 +59,7 @@ N Be careful as the Foulweald Ursas can [Thrash] hitting you 3 times at once |N|
 N You will kill the rest after finishing the Elemental Bracers quest |N|(50.1, 59.9)| |O| |Z|Ashenvale|
 C An Aggressive Defense |QID|1025| |N|Kill a few Foulweald Warriors and Foulweald Totemics before heading south toward the Water Elementals ,5| |O| |Z|Ashenvale|
 A Elemental Bracers |QID|1016| |N|Sentinel Velene Starstrike - (49.8, 67.2)| |Z|Ashenvale|
-C Elemental Bracers |QID|1016| |N|Befouled Water Elementals. Loot them for their Bracers (48.9, 70.0)| |Z|Ashenvale|
+C Befouled Water Elementals. Loot them for their Bracers |QID|1016| |L|12220 5| |N|Befouled Water Elementals. Loot them for their Bracers - (48.9, 70.0)| |Z|Ashenvale|
 C Elemental Bracers |QID|1016| |Z|Ashenvale|
 T Elemental Bracers |QID|1016| |N|Sentinel Velene Starstrike - (49.8, 67.2)| |Z|Ashenvale|
 N Be careful as the Foulweald Ursas can [Thrash] hitting you 3 times at once |N|(50.1, 59.9)| |Z|Ashenvale|
@@ -67,15 +67,15 @@ N The Foulweald Totemics share spawns with Foulweald Warriors. You may have to b
 C An Aggressive Defense |QID|1025| |N|Foulweald Warriors, Foulweald Totemics, Foulweald Ursas and a Foulweald Den Watcher (50.1, 59.9)| |Z|Ashenvale|
 C Fallen Sky Lake |QID|1035| |N|the Shadethicket Oracle. Loot it for the Fallen Moonstone (66.6, 82.2)| |Z|Ashenvale|
 N Open the Rusty Chests. Loot it for the Iron Pommel |O| |Z|Ashenvale|
-C Raene's Cleansing |QID|1027| |N|Kill Rotting Slimes. |cRXP_WARN_After Rotting Slimes die a Rusty Chest will spawn on their corpse| |O| |Z|Ashenvale|
-N |cRXP_WARN_Be cautious as the Forsaken defending it can be in [Stealth] |N|(75.3, 72.0)| |Z|Ashenvale|
+C Raene's Cleansing |QID|1027| |N|Kill Rotting Slimes. After Rotting Slimes die a Rusty Chest will spawn on their corpse| |O| |Z|Ashenvale|
+N Be cautious as the Forsaken defending it can be in [Stealth] |N|(75.3, 72.0)| |Z|Ashenvale|
 C Forsaken Diseases |QID|1011| |N|the Bottle of Disease on the table (75.3, 72.0)| |Z|Ashenvale|
 N Open the Rusty Chests. Loot it for the Iron Pommel |N|(73.6, 76.6)| |Z|Ashenvale|
-C Raene's Cleansing |QID|1027| |N|Rotting Slimes. |cRXP_WARN_After Rotting Slimes die a Rusty Chest will spawn on their corpse (73.6, 76.6)| |Z|Ashenvale|
+C Raene's Cleansing |QID|1027| |N|Rotting Slimes. After Rotting Slimes die a Rusty Chest will spawn on their corpse (73.6, 76.6)| |Z|Ashenvale|
 T Forsaken Diseases |QID|1011| |N|Kayneth Stillwind - (85.2, 44.7)| |Z|Ashenvale|
 C Satyr Slaying! |QID|1032| |N|Kill Satyrs. Loot them for their Horns| |O| |Z|Ashenvale|
 C The Tower of Althalaxx |QID|1140| |N|the Circle of Imprisonment in Satyrnaar (81.6, 48.6)| |Z|Ashenvale|
-N |cRXP_WARN_Be cautious of Felmusk Shadowstalkers in [Stealth] |N|(66.6, 57.0)| |Z|Ashenvale|
+N Be cautious of Felmusk Shadowstalkers in [Stealth] |N|(66.6, 57.0)| |Z|Ashenvale|
 C The Tower of Althalaxx |QID|1140| |N|the Circle of Imprisonment in Night Run (66.6, 57.0)| |Z|Ashenvale|
 C Satyr Slaying! |QID|1032| |N|Satyrs. Loot them for their Horns (81.4, 49.9)| |Z|Ashenvale|
 T Raene's Cleansing |QID|1027| |N|Shael'dryn - (53.5, 46.2)| |Z|Ashenvale|

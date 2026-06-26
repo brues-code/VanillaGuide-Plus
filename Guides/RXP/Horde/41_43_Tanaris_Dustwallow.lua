@@ -17,20 +17,20 @@ A Wastewander Justice |QID|1690| |N|Bilgewhizzle and Luglunket - (52.5, 28.5)| |
 A Water Pouch Bounty |QID|1707| |N|Bilgewhizzle and Luglunket - (52.5, 28.5)| |O| |Z|Tanaris|
 A Gadgetzan Water Survey |QID|992| |N|Fizzledowser - (50.2, 27.5)| |Z|Tanaris|
 R Laziphus |N|(52.3, 28.0)| |O| |C|Hunter| |Z|Tanaris|
-t Attack mobs with it to learn [Claw (Rank 6)] |N|Cast [Tame Beast] |cRXP_WARN_on a Scorpid Hunter to tame it - (54.1, 32.2)| |C|Hunter| |Z|Tanaris|
+t Attack mobs with it to learn [Claw (Rank 6)] |N|Cast [Tame Beast] on a Scorpid Hunter to tame it - (54.1, 32.2)| |C|Hunter| |Z|Tanaris|
 t Training (2976) |N|Laziphus - (52.3, 28.0)| |C|Hunter| |Z|Tanaris|
 C Wastewander Justice |QID|1690| |N|Wastewander Bandits and Wastewander Thieves in the Noonshade Ruins en route to Steamwheedle Port. Loot them for their Water Pouches (60.5, 23.4)| |O| |Z|Tanaris|
-C Wastewander Bandits and Wastewander Thieves in the Noonshade Ruins en route to Steamwheedle Port. Loot them for their Water Pouches |N|Wastewander Bandits and Wastewander Thieves in the Noonshade Ruins en route to Steamwheedle Port. Loot them for their Water Pouches - (60.5, 23.4)| |O| |Z|Tanaris|
+C Wastewander Bandits and Wastewander Thieves in the Noonshade Ruins en route to Steamwheedle Port. Loot them for their Water Pouches |L|8483 10| |N|Wastewander Bandits and Wastewander Thieves in the Noonshade Ruins en route to Steamwheedle Port. Loot them for their Water Pouches - (60.5, 23.4)| |O| |Z|Tanaris|
 C Wastewander Justice |QID|1690| |N|Wastewander Bandits and Wastewander Thieves in the Noonshade Ruins en route to Steamwheedle Port. Loot them for their Water Pouches (60.5, 23.4)| |O| |Z|Tanaris|
-C Wastewander Bandits and Wastewander Thieves in the Noonshade Ruins en route to Steamwheedle Port. Loot them for their Water Pouches |N|Wastewander Bandits and Wastewander Thieves in the Noonshade Ruins en route to Steamwheedle Port. Loot them for their Water Pouches - (60.5, 23.4)| |O| |Z|Tanaris|
+C Wastewander Bandits and Wastewander Thieves in the Noonshade Ruins en route to Steamwheedle Port. Loot them for their Water Pouches |L|8483 5| |N|Wastewander Bandits and Wastewander Thieves in the Noonshade Ruins en route to Steamwheedle Port. Loot them for their Water Pouches - (60.5, 23.4)| |O| |Z|Tanaris|
 A Screecher Spirits |QID|3520| |N|Yeh'kinya - (67.0, 22.4)| |Z|Tanaris|
 N Buy [Jagged Arrows] from him |N|(67.0, 22.0)| |C|Hunter| |Z|Tanaris|
-C Wastewander Justice |QID|1690| |N|Jabbey (67.0, 22.0)| |C|Hunter| |Z|Tanaris|
+B Jabbey |L|11285 2600| |N|Jabbey - (67.0, 22.0)| |C|Hunter| |Z|Tanaris|
 T Stoley's Debt |QID|2872| |N|Stoley - (67.1, 24.0)| |Z|Tanaris|
 C Wastewander Justice |QID|1690| |N|Wastewander Bandits and Wastewander Thieves. Loot them for their Water Pouches (60.5, 23.4)| |Z|Tanaris|
-C Wastewander Bandits and Wastewander Thieves. Loot them for their Water Pouches |N|Wastewander Bandits and Wastewander Thieves. Loot them for their Water Pouches - (60.5, 23.4)| |Z|Tanaris|
+C Wastewander Bandits and Wastewander Thieves. Loot them for their Water Pouches |L|8483 10| |N|Wastewander Bandits and Wastewander Thieves. Loot them for their Water Pouches - (60.5, 23.4)| |Z|Tanaris|
 C Wastewander Justice |QID|1690| |N|Wastewander Bandits and Wastewander Thieves. Loot them for their Water Pouches (60.5, 23.4)| |Z|Tanaris|
-C Wastewander Bandits and Wastewander Thieves. Loot them for their Water Pouches |N|Wastewander Bandits and Wastewander Thieves. Loot them for their Water Pouches - (60.5, 23.4)| |Z|Tanaris|
+C Wastewander Bandits and Wastewander Thieves. Loot them for their Water Pouches |L|8483 5| |N|Wastewander Bandits and Wastewander Thieves. Loot them for their Water Pouches - (60.5, 23.4)| |Z|Tanaris|
 B Sell your junk, then restock on food and water if necessary |N|Dirge Quikcleave - (52.6, 28.1)| |C|!Rogue/!Warrior| |Z|Tanaris|
 B Sell your junk, then restock on food if necessary |N|Dirge Quikcleave - (52.6, 28.1)| |C|Rogue/Warrior| |Z|Tanaris|
 T Slake That Thirst |QID|379| |N|Bilgewhizzle - (52.5, 28.5)| |Z|Tanaris|
@@ -92,12 +92,12 @@ A WANTED: Caliph Scorpidsting |QID|2781| |N|on the Wanted Poster - (51.8, 27.0)|
 A Tanaris Field Sampling |QID|654| |Z|Tanaris|
 N Use the Samples to test them |O| |Z|Tanaris|
 N Do not delete any untested samples |O| |Z|Tanaris|
-N |cRXP_WARN_This quest has a 2-hour timer. If it runs out you'll have to obtain a new Model 4711-FTZ Power Source from Chief Engineer Bilgewhizzle |O| |Z|Tanaris|
+N This quest has a 2-hour timer. If it runs out you'll have to obtain a new Model 4711-FTZ Power Source from Chief Engineer Bilgewhizzle |O| |Z|Tanaris|
 C Tanaris Field Sampling |QID|654| |N|Kill Basilisks, Hyenas and Scorpids. Loot them for their their Samples| |O| |Z|Tanaris|
-C Gadgetzan Water Survey |QID|992| |N||cRXP_WARN_Be careful! Two Centipaar Tunnelers (level 48) will spawn after completion. Prepare to run away from them (39.1, 29.3)| |Z|Tanaris|
+C Gadgetzan Water Survey |QID|992| |N|Be careful! Two Centipaar Tunnelers (level 48) will spawn after completion. Prepare to run away from them (39.1, 29.3)| |Z|Tanaris|
 N Use the Samples to test them |N|(48.0, 33.2)| |Z|Tanaris|
 N Do not delete any untested samples |N|(48.0, 33.2)| |Z|Tanaris|
-N |cRXP_WARN_This quest has a 2-hour timer. If it runs out you'll have to obtain a new Model 4711-FTZ Power Source from Chief Engineer Bilgewhizzle |N|(48.0, 33.2)| |Z|Tanaris|
+N This quest has a 2-hour timer. If it runs out you'll have to obtain a new Model 4711-FTZ Power Source from Chief Engineer Bilgewhizzle |N|(48.0, 33.2)| |Z|Tanaris|
 C Tanaris Field Sampling |QID|654| |N|Basilisks, Hyenas and Scorpids. Loot them for their their Samples (48.0, 33.2)| |Z|Tanaris|
 T Gadgetzan Water Survey |QID|992| |N|Fizzledowser - (50.2, 27.5)| |Z|Tanaris|
 T Tanaris Field Sampling |QID|654| |N|Bilgewhizzle - (52.4, 28.5)| |Z|Tanaris|
@@ -129,7 +129,7 @@ A Uldaman Reagent Run |QID|2202| |N|Jarkal Mossmeld - (2.4, 46.0) (ULDA Dungeon 
 A Solution to Doom |QID|709| |N|Theldurin the Lost - (51.4, 76.9) (ULDA Dungeon Quest)| |D|ULDA| |Z|Badlands|
 R Travel to Eastern Kingdoms |N|(54.5, 57.8) (ULDA Dungeon Quest)| |D|ULDA| |Z|Eastern Kingdoms|
 N Do not accept the quest yet as it can cause questlog issues |N|(ULDA Dungeon Quest)| |D|ULDA| |Z|Eastern Kingdoms|
-C If you loot the [Shattered Necklace], save it in your inventory |QID|2283| |N|If you loot the [Shattered Necklace], save it in your inventory (ULDA Dungeon Quest)| |D|ULDA| |Z|Eastern Kingdoms|
+C If you loot the [Shattered Necklace], save it in your inventory |QID|2283| |L|7666 1| |N|If you loot the [Shattered Necklace], save it in your inventory (ULDA Dungeon Quest)| |D|ULDA| |Z|Eastern Kingdoms|
 N This can be completed INSIDE and OUTSIDE of Uldaman. |N|(ULDA Dungeon Quest)| |D|ULDA| |Z|Eastern Kingdoms|
 N It is recommended that maximum 3 players attempt to complete this quest if you're doing only 1 run. There aren't enough Magenta Fungus Capsr for everybody |N|(ULDA Dungeon Quest)| |D|ULDA| |Z|Eastern Kingdoms|
 C Uldaman Reagent Run |QID|2202| |N|Loot the Magenta Fungus Caps on the ground (ULDA Dungeon Quest)| |D|ULDA| |Z|Eastern Kingdoms|

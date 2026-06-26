@@ -39,15 +39,15 @@ A The Hidden Key |QID|328| |N|on Bookie Herod's Records upstairs in the house - 
 R Enter The Stockpile (Kurzen's Cave) |N|(46.3, 7.6)| |O| |Z|Stranglethorn Vale|
 T The Hidden Key |QID|328| |N|Bookie Herod's Strongbox on the ground - (49.6, 7.6)| |O| |Z|Stranglethorn Vale|
 A The Spy Revealed! |QID|329| |N|Bookie Herod's Strongbox on the ground - (49.6, 7.6)| |O| |Z|Stranglethorn Vale|
-N |cRXP_WARN_Be cautious of Kurzen Commandos in [Stealth] |N|(46.5, 6.9)| |Z|Stranglethorn Vale|
+N Be cautious of Kurzen Commandos in [Stealth] |N|(46.5, 6.9)| |Z|Stranglethorn Vale|
 N Save 15 [Silk Cloth] for a quest for later in Searing Gorge. You don't need to collect all 15 now |N|(46.5, 6.9)| |Z|Stranglethorn Vale|
-C Kurzen Commandos and Kurzen Headshrinkers. Loot them for their [Silk Cloth] |QID|4449| |N|Kurzen Commandos and Kurzen Headshrinkers. Loot them for their [Silk Cloth] - (46.5, 6.9)| |Z|Stranglethorn Vale|
+C Kurzen Commandos and Kurzen Headshrinkers. Loot them for their [Silk Cloth] |QID|4449| |L|4306 15| |N|Kurzen Commandos and Kurzen Headshrinkers. Loot them for their [Silk Cloth] - (46.5, 6.9)| |Z|Stranglethorn Vale|
 C Special Forces |QID|574| |N|Kurzen Commandos and Kurzen Headshrinkers. Loot them for their [Silk Cloth] (46.5, 6.9)| |Z|Stranglethorn Vale|
 T The Hidden Key |QID|328| |N|Bookie Herod's Strongbox on the ground - (49.6, 7.6)| |Z|Stranglethorn Vale|
 A The Spy Revealed! |QID|329| |N|Bookie Herod's Strongbox on the ground - (49.6, 7.6)| |Z|Stranglethorn Vale|
 N Shadowmaw Panthers are in [Stealth] |N|(36.1, 37.3)| |Z|Stranglethorn Vale|
 N You can find more further south-west if needed. The location is marked on your map |N|(36.1, 37.3)| |Z|Stranglethorn Vale|
-N They also share spawns with Stranglethorn Tigresses|cRXP_WARN_. This means if you see an empty area with no Tigresses there is likely a panther there |N|(36.1, 37.3)| |Z|Stranglethorn Vale|
+N They also share spawns with Stranglethorn Tigresses. This means if you see an empty area with no Tigresses there is likely a panther there |N|(36.1, 37.3)| |Z|Stranglethorn Vale|
 C Panther Mastery |QID|192| |N|Shadowmaw Panthers (36.1, 37.3)| |Z|Stranglethorn Vale|
 N Lashtail Raptors cast [Lash] which is a 2 second stun |O| |Z|Stranglethorn Vale|
 N They can also [Disarm] you for 5 seconds |O| |C|Warrior/Rogue/Paladin| |Z|Stranglethorn Vale|
@@ -61,7 +61,7 @@ C Tiger Mastery |QID|188| |N|Kill Sin'Dall. Loot her for her Paw (32.2, 17.2)| |
 N Save 15 [Silk Cloth] for a quest for later in Searing Gorge. You don't need to collect all 15 now |N|(25.5, 9.4)| |O| |C|Warrior| |Z|Stranglethorn Vale|
 C Bloodscalp Ears |QID|189| |N|Bloodscalp Trolls. Loot them for their Ears and Tusks (25.5, 9.4)| |O| |C|Warrior| |Z|Stranglethorn Vale|
 C Cyclonian |QID|1712| |N|Bloodscalp Trolls. Loot them for their Ears and Tusks (25.5, 9.4)| |O| |C|Warrior| |Z|Stranglethorn Vale|
-C Bloodscalp Trolls. Loot them for their Ears and Tusks |QID|4449| |N|Bloodscalp Trolls. Loot them for their Ears and Tusks - (25.5, 9.4)| |O| |C|Warrior| |Z|Stranglethorn Vale|
+C Bloodscalp Trolls. Loot them for their Ears and Tusks |QID|4449| |L|4306 15| |N|Bloodscalp Trolls. Loot them for their Ears and Tusks - (25.5, 9.4)| |O| |C|Warrior| |Z|Stranglethorn Vale|
 R the Bal'lal Ruins |N|(29.5, 19.1)| |O| |C|Warrior| |Z|Stranglethorn Vale|
 C Kurzen's Mystery |QID|207| |N|the Moon Over the Vale. Loot it for The First Troll Legend (29.5, 19.1)| |C|Warrior| |Z|Stranglethorn Vale|
 R the Ruins of Zul'Kunda |N|(24.7, 8.9)| |O| |C|Warrior| |Z|Stranglethorn Vale|
@@ -70,10 +70,10 @@ C Kurzen's Mystery |QID|207| |N|the Fall of Gurubashi. Loot it for The Third Tro
 N Save 15 [Silk Cloth] for a quest for later in Searing Gorge. You don't need to collect all 15 now |N|(25.5, 9.4)| |C|Warrior| |Z|Stranglethorn Vale|
 C Bloodscalp Ears |QID|189| |N|Bloodscalp Trolls. Loot them for their Ears and Tusks (25.5, 9.4)| |C|Warrior| |Z|Stranglethorn Vale|
 C Cyclonian |QID|1712| |N|Bloodscalp Trolls. Loot them for their Ears and Tusks (25.5, 9.4)| |C|Warrior| |Z|Stranglethorn Vale|
-C Bloodscalp Trolls. Loot them for their Ears and Tusks |QID|4449| |N|Bloodscalp Trolls. Loot them for their Ears and Tusks - (25.5, 9.4)| |C|Warrior| |Z|Stranglethorn Vale|
+C Bloodscalp Trolls. Loot them for their Ears and Tusks |QID|4449| |L|4306 15| |N|Bloodscalp Trolls. Loot them for their Ears and Tusks - (25.5, 9.4)| |C|Warrior| |Z|Stranglethorn Vale|
 N Save 15 [Silk Cloth] for a quest for later in Searing Gorge. You don't need to collect all 15 now |N|(25.5, 9.4)| |O| |Z|Stranglethorn Vale|
 C Bloodscalp Ears |QID|189| |N|Bloodscalp Trolls. Loot them for their Ears (25.5, 9.4)| |O| |Z|Stranglethorn Vale|
-C Bloodscalp Trolls. Loot them for their Ears |QID|4449| |N|Bloodscalp Trolls. Loot them for their Ears - (25.5, 9.4)| |O| |Z|Stranglethorn Vale|
+C Bloodscalp Trolls. Loot them for their Ears |QID|4449| |L|4306 15| |N|Bloodscalp Trolls. Loot them for their Ears - (25.5, 9.4)| |O| |Z|Stranglethorn Vale|
 R the Bal'lal Ruins |N|(29.5, 19.1)| |O| |Z|Stranglethorn Vale|
 C Kurzen's Mystery |QID|207| |N|the Moon Over the Vale. Loot it for The First Troll Legend (29.5, 19.1)| |Z|Stranglethorn Vale|
 R the Ruins of Zul'Kunda |N|(24.7, 8.9)| |O| |Z|Stranglethorn Vale|
@@ -81,7 +81,7 @@ C Kurzen's Mystery |QID|207| |N|The Emperor's Tomb. Loot it for The Fourth Troll
 C Kurzen's Mystery |QID|207| |N|the Fall of Gurubashi. Loot it for The Third Troll Legend (22.9, 12.0)| |Z|Stranglethorn Vale|
 N Save 15 [Silk Cloth] for a quest for later in Searing Gorge. You don't need to collect all 15 now |N|(25.5, 9.4)| |Z|Stranglethorn Vale|
 C Bloodscalp Ears |QID|189| |N|Bloodscalp Trolls. Loot them for their Ears (25.5, 9.4)| |Z|Stranglethorn Vale|
-C Bloodscalp Trolls. Loot them for their Ears |QID|4449| |N|Bloodscalp Trolls. Loot them for their Ears - (25.5, 9.4)| |Z|Stranglethorn Vale|
+C Bloodscalp Trolls. Loot them for their Ears |QID|4449| |L|4306 15| |N|Bloodscalp Trolls. Loot them for their Ears - (25.5, 9.4)| |Z|Stranglethorn Vale|
 R the Haunted Island |N|(21.1, 22.8)| |O| |Z|Stranglethorn Vale|
 C Water Elementals |QID|601| |N|Lesser Water Elementals. Loot them for their Bracers (21.1, 22.8)| |Z|Stranglethorn Vale|
 C Kurzen's Mystery |QID|207| |N|Gri'lek the Wanderer underwater. Loot it for The Second Troll Legend (24.8, 22.9)| |Z|Stranglethorn Vale|
@@ -130,7 +130,7 @@ A Magical Analysis |QID|602| |N|Baron Revilgaz - (27.2, 76.9)| |Z|Stranglethorn 
 T Some Assembly Required |QID|577| |N|Drizzlik - (28.3, 77.6)| |Z|Stranglethorn Vale|
 F Fly to Stormwind |N|Gyll - (27.5, 77.8)| |C|!Mage| |Z|Stranglethorn Vale|
 N Buy 400 [Wicked Throwing Daggers] |N|(58.4, 61.7)| |C|Warrior| |Z|Stormwind City|
-C Thurman Mullby |N|Thurman Mullby - (58.4, 61.7)| |C|Warrior| |Z|Stormwind City|
+B Thurman Mullby |L|15327 400| |N|Thurman Mullby - (58.4, 61.7)| |C|Warrior| |Z|Stormwind City|
 R Travel to Stranglethorn Vale |N|(27.5, 77.8)| |O| |C|Mage| |Z|Stranglethorn Vale|
 t Train your class spells |N|Jennea - (36.9, 81.1)| |C|Mage| |Z|Stormwind City|
 

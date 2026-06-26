@@ -16,7 +16,7 @@ A A Fishy Peril |QID|40| |N|Remy "Two Times" - (42.1, 67.3)| |Z|Elwynn Forest|
 A Gold Dust Exchange |QID|47| |N|Remy "Two Times" - (42.1, 67.3)| |Z|Elwynn Forest|
 A Wanted: "Hogger" |QID|176| |N|Click the Wanted Poster - (24.5, 74.7)| |C|Warlock| |Z|Elwynn Forest|
 N Gruff Swiftbite a rare spawn, does have a 100% drop chance |O| |C|Warlock| |Z|Elwynn Forest|
-C The Collector |QID|123| |N|The [Gold Pickup Schedule] is a very rare drop. Ignore this step if you don't get it| |O| |C|Warlock| |Z|Elwynn Forest|
+C Collect Gold Pickup Schedule (x1) |QID|123| |L|1307 1| |N|The [Gold Pickup Schedule] is a very rare drop. Ignore this step if you don't get it| |O| |C|Warlock| |Z|Elwynn Forest|
 A The Collector |QID|123| |N|The [Gold Pickup Schedule] is a very rare drop. Ignore this step if you don't get it| |O| |C|Warlock| |Z|Elwynn Forest|
 A Princess Must Die! |QID|88| |N|Ma Stonefield and "Auntie" Bernice Stonefield - (34.7, 84.5)| |Z|Elwynn Forest|
 A Lost Necklace |QID|85| |N|Ma Stonefield and "Auntie" Bernice Stonefield - (34.7, 84.5)| |Z|Elwynn Forest|
@@ -48,13 +48,13 @@ R Travel east to Guard Thomas |N|(74.0, 72.2)| |O| |Z|Elwynn Forest|
 T Further Concerns |QID|35| |N|Guard Thomas - (74.0, 72.2)| |Z|Elwynn Forest|
 A Find the Lost Guards |QID|37| |N|Guard Thomas - (74.0, 72.2)| |Z|Elwynn Forest|
 A Protect the Frontier |QID|52| |N|Guard Thomas - (74.0, 72.2)| |Z|Elwynn Forest|
-N |cRXP_WARN_Prioritize killing any Young Forest Bears you see |O| |Z|Elwynn Forest|
+N Prioritize killing any Young Forest Bears you see |O| |Z|Elwynn Forest|
 C Protect the Frontier |QID|52| |N|Kill Prowlers and Young Forest Bears Kill Prowler (x8)| |O| |Z|Elwynn Forest|
 T Find the Lost Guards |QID|37| |N|Click A half-eaten body on the ground - (72.7, 60.3)| |Z|Elwynn Forest|
 A Discover Rolf's Fate |QID|45| |N|Click A half-eaten body on the ground - (72.7, 60.3)| |Z|Elwynn Forest|
 A A Bundle of Trouble |QID|5545| |N|Supervisor Raelen - (81.4, 66.1)| |Z|Elwynn Forest|
 C A Bundle of Trouble |QID|5545| |N|Loot the Bundle of Wood on the ground. They are found beneath the trees Bundle of Wood (8)| |O| |Z|Elwynn Forest|
-N |cRXP_WARN_Be careful as nearby Murlocs may agro once you click Rolf's corpse |N|(79.8, 55.5)| |Z|Elwynn Forest|
+N Be careful as nearby Murlocs may agro once you click Rolf's corpse |N|(79.8, 55.5)| |Z|Elwynn Forest|
 N Murloc Foragers will cast [Drink Minor Potion] which heals themselves for 61-68 |N|(79.8, 55.5)| |Z|Elwynn Forest|
 T Discover Rolf's Fate |QID|45| |N|Rolf's corpse on the ground - (79.8, 55.5)| |Z|Elwynn Forest|
 A Report to Thomas |QID|71| |N|Rolf's corpse on the ground - (79.8, 55.5)| |Z|Elwynn Forest|
@@ -67,15 +67,15 @@ T Report to Thomas |QID|71| |N|Guard Thomas - (74.0, 72.2)| |Z|Elwynn Forest|
 A Deliver Thomas' Report |QID|39| |N|Guard Thomas - (74.0, 72.2)| |Z|Elwynn Forest|
 A Report to Gryan Stoutmantle |QID|109| |N|Guard Thomas - (74.0, 72.2)| |Z|Elwynn Forest|
 N The [Westfall Deed] is a very rare drop. Ignore this step if you don't get it |O| |Z|Elwynn Forest|
-C Furlbrow's Deed |QID|184| |N|Kill Defias Bandits. Loot them for the [Westfall Deed]| |O| |Z|Elwynn Forest|
+C Collect Westfall Deed (x1) |QID|184| |L|1972 1| |N|Kill Defias Bandits. Loot them for the [Westfall Deed]| |O| |Z|Elwynn Forest|
 A Furlbrow's Deed |QID|184| |N|Kill Defias Bandits. Loot them for the [Westfall Deed]| |O| |Z|Elwynn Forest|
 N Kill Morgan the Collector. Loot him for The Collector's Ring |N|(71.1, 80.7)| |C|Warlock| |Z|Elwynn Forest|
-N |cRXP_WARN_Focus on killing Surena Caledon very quickly |N|(71.1, 80.7)| |C|Warlock| |Z|Elwynn Forest|
-N Cast [Fear] |cRXP_WARN_on Morgan the Collector continously |N|(71.1, 80.7)| |C|Warlock| |Z|Elwynn Forest|
+N Focus on killing Surena Caledon very quickly |N|(71.1, 80.7)| |C|Warlock| |Z|Elwynn Forest|
+N Cast [Fear] on Morgan the Collector continously |N|(71.1, 80.7)| |C|Warlock| |Z|Elwynn Forest|
 C Surena Caledon. Loot her for her Choker |QID|1688| |N|Surena Caledon. Loot her for her Choker - (71.1, 80.7)| |C|Warlock| |Z|Elwynn Forest|
 C Manhunt |QID|147| |N|Surena Caledon. Loot her for her Choker The Collector's Ring (1)| |C|Warlock| |Z|Elwynn Forest|
-N |cRXP_WARN_Focus on killing Surena Caledon very quickly |N|(71.1, 80.7)| |C|Warlock| |Z|Elwynn Forest|
-N Cast [Fear] |cRXP_WARN_on Morgan the Collector continously |N|(71.1, 80.7)| |C|Warlock| |Z|Elwynn Forest|
+N Focus on killing Surena Caledon very quickly |N|(71.1, 80.7)| |C|Warlock| |Z|Elwynn Forest|
+N Cast [Fear] on Morgan the Collector continously |N|(71.1, 80.7)| |C|Warlock| |Z|Elwynn Forest|
 C Surena Caledon. Loot her for her Choker |QID|1688| |N|Surena Caledon. Loot her for her Choker - (71.1, 80.7)| |C|Warlock| |Z|Elwynn Forest|
 C Red Linen Goods |QID|83| |N|Kill Defias Bandits. Loot them for their Bandanas Collect Red Linen Bandana (x6)| |O| |Z|Elwynn Forest|
 N Princess will agro with both of her Porcine Entourage |N|(69.3, 79.0)| |Z|Elwynn Forest|
@@ -112,7 +112,7 @@ T Princess Must Die! |QID|88| |N|Ma Stonefield - (34.7, 84.5)| |Z|Elwynn Forest|
 N Skip the turn in for now if you don't have enough [Chunks of Boar Meat] |N|(34.5, 84.3)| |Z|Elwynn Forest|
 T Pie for Billy |QID|86| |N|"Auntie" Bernice Stonefield - (34.5, 84.3)| |Z|Elwynn Forest|
 N Ensure you have 10 [Linen Cloth] for your upcoming Paladin class quest |C|Paladin| |R|Dwarf| |Z|Elwynn Forest|
-C Kill Riverpaw Runts and Riverpaw Outrunners. Loot them for [Linen Cloth] |QID|1648| |N|Kill Riverpaw Runts and Riverpaw Outrunners. Loot them for [Linen Cloth]| |C|Paladin| |R|Dwarf| |Z|Elwynn Forest|
+C Linen Cloth (10) |QID|1648| |L|2589 10| |N|Kill Riverpaw Runts and Riverpaw Outrunners. Loot them for [Linen Cloth]| |C|Paladin| |R|Dwarf| |Z|Elwynn Forest|
 R Travel to Westfall |N|(60.0, 19.4)| |O| |Z|Westfall|
 T Furlbrow's Deed |QID|184| |N|Farmer Furlbrow - (60.0, 19.4)| |Z|Westfall|
 A The Forgotten Heirloom |QID|64| |N|Farmer Furlbrow and Verna Furlbrow - (60.0, 19.4)| |Z|Westfall|

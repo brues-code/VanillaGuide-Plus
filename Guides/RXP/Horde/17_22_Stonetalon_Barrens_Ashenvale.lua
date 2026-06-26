@@ -39,11 +39,11 @@ N Be careful! The Deepmoss Hatchlings have a chance of summoning a level 22 Deep
 C Deepmoss Spider Eggs |QID|1069| |N|Loot the Spider Eggs near the trees Collect Deepmoss Egg (x15)| |O| |Z|Stonetalon Mountains|
 N Save any [Small Venom Sacs] you loot |N|(60.2, 63.2)| |C|Rogue| |Z|Stonetalon Mountains|
 C Blood Feeders |QID|6461| |N|Deepmoss Venomspitters Kill Deepmoss Venomspitter (x7)| |Z|Stonetalon Mountains|
-C Consumed by Hatred |QID|899| |N|Veenix. Buy a [Long Staff] from him Collect Long Staff (1)| |C|Warrior/Orc/Warrior/Tauren/Warrior| |R|Troll| |Z|Stonetalon Mountains|
+B Collect Long Staff (1) |L|928 1| |N|Veenix. Buy a [Long Staff] from him - (58.2, 51.7)| |C|Warrior/Orc/Warrior/Tauren/Warrior| |R|Troll| |Z|Stonetalon Mountains|
 B Buy an [Executioner's Sword] from him |N|Veenix - (58.2, 51.7)| |C|Warrior| |R|Undead| |Z|Stonetalon Mountains|
 N If it's not up, buy a [Dacian Falx] instead |N|(58.2, 51.7)| |C|Warrior| |R|Undead| |Z|Stonetalon Mountains|
-C Consumed by Hatred |QID|899| |N|Veenix. Buy a [Long Staff] from him Collect Long Staff (1)| |C|Shaman| |Z|Stonetalon Mountains|
-C Consumed by Hatred |QID|899| |N|Veenix. Buy a [Longsword] from him. Collect Longsword (1)| |C|Rogue| |Z|Stonetalon Mountains|
+B Collect Long Staff (1) |L|928 1| |N|Veenix. Buy a [Long Staff] from him - (58.2, 51.7)| |C|Shaman| |Z|Stonetalon Mountains|
+B Collect Longsword (1) |L|923 1| |N|Veenix. Buy a [Longsword] from him. - (58.2, 51.7)| |C|Rogue| |Z|Stonetalon Mountains|
 C Goblin Invaders |QID|1062| |N|Kill Venture Co. Loggers Kill Venture Co. Logger (x15)| |O| |Z|Stonetalon Mountains|
 C Super Reaper 6000 |QID|1093| |N|Venture Co. Operators. Loot them for their Blueprints Collect Super Reaper 6000 Blueprints (x1)| |Z|Stonetalon Mountains|
 C Goblin Invaders |QID|1062| |N|Venture Co. Loggers Kill Venture Co. Logger (x15)| |Z|Stonetalon Mountains|
@@ -70,9 +70,9 @@ C Raptor Horns |QID|865| |N|Kill Sunscale Scytheclaws. Loot them for their Horns
 C Chen's Empty Keg |QID|821| |N|Finish killing Plainstriders. Loot them for their Kidneys Plainstrider Kidney (5)| |Z|The Barrens|
 N Be careful as they cast [Thrash] (Charges 2 extra attacks every 10 seconds) |N|(52.0, 46.5)| |Z|The Barrens|
 C Raptor Horns |QID|865| |N|Finish killing Sunscale Scytheclaws. Loot them for their Horns Intact Raptor Horn (5)| |Z|The Barrens|
-C Kill any Zhevra. Loot it for a Fresh Zhevra Carcass |N|Kill any Zhevra. Loot it for a Fresh Zhevra Carcass| |O| |Z|The Barrens|
+C Collect Fresh Zhevra Carcass |L|10338 1| |N|Kill any Zhevra. Loot it for a Fresh Zhevra Carcass| |O| |Z|The Barrens|
 C Altered Beings |QID|880| |N|Oasis Snapjaws in and around the lake. Loot them for their Shells Altered Snapjaw Shell (8)| |Z|The Barrens|
-C Kill any Zhevra. Loot it for a Fresh Zhevra Carcass |N|Kill any Zhevra. Loot it for a Fresh Zhevra Carcass| |O| |Z|The Barrens|
+C Collect Fresh Zhevra Carcass |L|10338 1| |N|Kill any Zhevra. Loot it for a Fresh Zhevra Carcass| |O| |Z|The Barrens|
 C Ishamuhale |QID|882| |N|The Carcass only has a 30 minute duration! Ishamuhale's Fang (1)| |Z|The Barrens|
 T Plundering the Plunderers |QID|2381| |N|Wrenix - (63.1, 36.3)| |C|Rogue| |Z|The Barrens|
 T Stolen Booty |QID|888| |N|Gazlowe - (62.7, 36.2)| |Z|The Barrens|
@@ -111,10 +111,10 @@ t Train your class spells |N|Kardris - (38.8, 36.4)| |C|Shaman| |Z|Orgrimmar|
 F Fly to Orgrimmar |N|Devrak - (51.5, 30.3)| |O| |C|Warlock| |Z|The Barrens|
 t Train your class spells |N|Gan'rul - (48.2, 45.3)| |C|Warlock| |Z|Orgrimmar|
 A Devourer of Souls |QID|1507| |N|Gan'rul - (48.2, 45.3)| |C|Warlock| |Z|Orgrimmar|
-C Devourer of Souls |QID|1507| |N|Kurgul and buy [Grimoire of Torment (Rank 2)] Grimoire of Torment (Rank 2)| |C|Warlock| |Z|Orgrimmar|
+B Grimoire of Torment (Rank 2) |L|16346 1| |N|Kurgul and buy [Grimoire of Torment (Rank 2)] - (47.5, 46.8)| |C|Warlock| |Z|Orgrimmar|
 T Devourer of Souls |QID|1507| |N|Cazul - (47.0, 46.5)| |C|Warlock| |Z|Orgrimmar|
 A Blind Cazul |QID|1508| |N|Cazul - (47.0, 46.5)| |C|Warlock| |Z|Orgrimmar|
-C Devourer of Souls |QID|1507| |N|Katis. Buy a [Burning Wand] from her Collect Burning Wand (1)| |C|Warlock| |Z|Orgrimmar|
+B Collect Burning Wand (1) |L|5210 1| |N|Katis. Buy a [Burning Wand] from her - (44.2, 48.5)| |C|Warlock| |Z|Orgrimmar|
 T Blind Cazul |QID|1508| |N|Zankaja - (37.0, 59.5)| |C|Warlock| |Z|Orgrimmar|
 A News of Dogran |QID|1509| |N|Zankaja - (37.0, 59.5)| |C|Warlock| |Z|Orgrimmar|
 F Fly to Orgrimmar |N|Devrak (DM Dungeon Quest)| |D|DM| |Z|Orgrimmar|
@@ -127,7 +127,7 @@ t Train your class spells |N|Zevrost - (48.5, 45.4) (DM Dungeon Quest)| |C|Warlo
 t Train your class spells |N|Pephredo - (38.4, 85.5) (DM Dungeon Quest)| |C|Mage| |D|DM| |Z|Orgrimmar|
 t Train your class spells |N|Ur'kyo - (35.6, 87.8) (DM Dungeon Quest)| |C|Priest| |D|DM| |Z|Orgrimmar|
 N Buy [Flask of Oil] from the Auction House if possible |N|(55.6, 62.9) (DM Dungeon Quest)| |D|DM| |Z|Orgrimmar|
-C Thathung |QID|103| |N|Thathung - (55.6, 62.9) (DM Dungeon Quest)| |D|DM| |Z|Orgrimmar|
+B Flask of Oil (5) |L|814 5| |N|Thathung - (55.6, 62.9) (DM Dungeon Quest)| |D|DM| |Z|Orgrimmar|
 R Go up the Zeppelin Tower |N|(50.8, 13.8) (DM Dungeon Quest)| |D|DM| |Z|Durotar|
 R Travel to Westfall |N|(37.1, 89.2) (DM Dungeon Quest)| |D|DM| |Z|Westfall|
 R Swim directly to the west from Grom'Gol into the Vile Reef and then swim north toward Westfall |N|(30.0, 86.0) (DM Dungeon Quest)| |D|DM| |Z|Westfall|
@@ -136,7 +136,7 @@ R the Westfall Lighthouse |N|(30.0, 86.0) (DM Dungeon Quest)| |D|DM| |Z|Westfall
 A Keeper of the Flame |QID|103| |N|Captain Grayson - (30.0, 86.0) (DM Dungeon Quest)| |D|DM| |Z|Westfall|
 T Keeper of the Flame |QID|103| |N|Captain Grayson - (30.0, 86.0) (DM Dungeon Quest)| |D|DM| |Z|Westfall|
 A The Coastal Menace |QID|104| |N|Captain Grayson - (30.0, 86.0) (DM Dungeon Quest)| |D|DM| |Z|Westfall|
-C The Coastal Menace |QID|104| |N|Old Murk-Eye |cRXP_WARN_patrols up and down the Longshore. If you don't see him along the Longshore, wait for him to spawn in the most southern Murloc camp Scale of Old Murk-Eye (1) (DM Dungeon Quest)| |D|DM| |Z|Westfall|
+C The Coastal Menace |QID|104| |N|Old Murk-Eye patrols up and down the Longshore. If you don't see him along the Longshore, wait for him to spawn in the most southern Murloc camp Scale of Old Murk-Eye (1) (DM Dungeon Quest)| |D|DM| |Z|Westfall|
 T The Coastal Menace |QID|104| |N|Captain Grayson - (30.0, 86.0) (DM Dungeon Quest)| |D|DM| |Z|Westfall|
 R Travel to Eastern Kingdoms |N|(40.5, 82.5) (DM Dungeon Quest)| |D|DM| |Z|Eastern Kingdoms|
 B Sell your junk, then restock on food and water if necessary |N|Innkeeper Wiley - (62.0, 39.4) (WC Dungeon Quest)| |C|!Rogue/!Warrior| |D|WC| |Z|The Barrens|
@@ -157,7 +157,7 @@ A Apothecary Zamah |QID|853| |N|Helbrim - (51.4, 30.1)| |Z|The Barrens|
 F Fly to Camp Taurajo |N|Bragok - (63.1, 37.2) (WC Dungeon Quest)| |C|!Warlock/!Shaman| |D|WC| |Z|The Barrens|
 F Fly to Camp Taurajo |N|Bragok - (63.1, 37.2)| |O| |C|Shaman| |Z|The Barrens|
 F Fly to Camp Taurajo |N|Devrak - (51.5, 30.3)| |O| |Z|The Barrens|
-C Bristleback Quillboars. Loot them for a [Blood Shard |QID|5052| |N|Bristleback Quillboars. Loot them for a [Blood Shard - (44.5, 59.3)| |Z|The Barrens|
+C Blood Shard (1) |QID|5052| |L|5075 1| |N|Bristleback Quillboars. Loot them for a [Blood Shard (44.5, 59.3)| |Z|The Barrens|
 T Tribes at War |QID|878| |N|Mangletooth - (44.5, 59.3)| |Z|The Barrens|
 A Blood Shards of Agamaggan |QID|5052| |N|Mangletooth - (44.5, 59.3)| |Z|The Barrens|
 T Blood Shards of Agamaggan |QID|5052| |N|Mangletooth - (44.5, 59.3)| |Z|The Barrens|
@@ -167,9 +167,9 @@ A Enraged Thunder Lizards |QID|907| |N|Jorn Skyseer - (44.9, 59.1)| |Z|The Barre
 T Lakota'mani |QID|883| |N|Jorn Skyseer - (44.9, 59.1)| |Z|The Barrens|
 T Ishamuhale |QID|882| |N|Jorn Skyseer - (44.9, 59.1)| |Z|The Barrens|
 A Enraged Thunder Lizards |QID|907| |N|Jorn Skyseer - (44.9, 59.1)| |Z|The Barrens|
-N |cRXP_WARN_Use the [Owatanka's Tailspike] to start the quest |N|(49.6, 59.4)| |O| |Z|The Barrens|
+N Use the [Owatanka's Tailspike] to start the quest |N|(49.6, 59.4)| |O| |Z|The Barrens|
 N He has 4 spawnpoints (marked on the map) |N|(49.6, 59.4)| |O| |Z|The Barrens|
-C Owatanka |QID|884| |N|Owatanka. Loot him for [Owatanka's Tailspike] (49.6, 59.4)| |O| |Z|The Barrens|
+C Collect Owatanka's Tailspike |QID|884| |L|5102 1| |N|Owatanka. Loot him for [Owatanka's Tailspike] (49.6, 59.4)| |O| |Z|The Barrens|
 A Owatanka |QID|884| |N|Owatanka. Loot him for [Owatanka's Tailspike] - (49.6, 59.4)| |O| |Z|The Barrens|
 C Enraged Thunder Lizards |QID|907| |N|Thunder Lizards. Loot them for their Blood Thunder Lizard Blood (3)| |Z|The Barrens|
 T Owatanka |QID|884| |N|Jorn - (44.9, 59.1)| |Z|The Barrens|
@@ -177,9 +177,9 @@ T Enraged Thunder Lizards |QID|907| |N|Jorn - (44.9, 59.1)| |Z|The Barrens|
 A Cry of the Thunderhawk |QID|913| |N|Jorn - (44.9, 59.1)| |Z|The Barrens|
 T Enraged Thunder Lizards |QID|907| |N|Jorn - (44.9, 59.1)| |Z|The Barrens|
 A Cry of the Thunderhawk |QID|913| |N|Jorn - (44.9, 59.1)| |Z|The Barrens|
-N |cRXP_WARN_Use the [Owatanka's Tailspike] to start the quest |N|(49.6, 59.4)| |O| |C|Shaman| |Z|The Barrens|
+N Use the [Owatanka's Tailspike] to start the quest |N|(49.6, 59.4)| |O| |C|Shaman| |Z|The Barrens|
 N He has 4 spawnpoints (marked on the map) |N|(49.6, 59.4)| |O| |C|Shaman| |Z|The Barrens|
-C Owatanka |QID|884| |N|Owatanka. Loot him for [Owatanka's Tailspike] Collect Owatanka's Tailspike| |O| |C|Shaman| |Z|The Barrens|
+C Collect Owatanka's Tailspike |QID|884| |L|5102 1| |N|Owatanka. Loot him for [Owatanka's Tailspike] (49.6, 59.4)| |O| |C|Shaman| |Z|The Barrens|
 A Owatanka |QID|884| |N|Owatanka. Loot him for [Owatanka's Tailspike] - (49.6, 59.4)| |O| |C|Shaman| |Z|The Barrens|
 R Travel South toward Brine |N|(43.4, 77.4)| |O| |C|Shaman| |Z|The Barrens|
 C Cry of the Thunderhawk |QID|913| |N|Kill a Thunderhawk. Loot it for its Wings Thunderhawk Wings (1)| |O| |C|Shaman| |Z|The Barrens|
@@ -188,9 +188,9 @@ A Call of Water |QID|1535| |N|Brine - (43.4, 77.4)| |C|Shaman| |Z|The Barrens|
 C Call of Water |QID|1535| |N|Filled Brown Waterskin (1)| |C|Shaman| |Z|The Barrens|
 T Call of Water |QID|1535| |N|Brine - (43.4, 77.4)| |C|Shaman| |Z|The Barrens|
 A Call of Water |QID|1536| |N|Brine - (43.4, 77.4)| |C|Shaman| |Z|The Barrens|
-N |cRXP_WARN_Use the [Owatanka's Tailspike] to start the quest |N|(49.6, 59.4)| |O| |Z|The Barrens|
+N Use the [Owatanka's Tailspike] to start the quest |N|(49.6, 59.4)| |O| |Z|The Barrens|
 N He has 4 spawnpoints (marked on the map) |N|(49.6, 59.4)| |O| |Z|The Barrens|
-C Owatanka |QID|884| |N|Owatanka. Loot him for [Owatanka's Tailspike] Collect Owatanka's Tailspike| |O| |Z|The Barrens|
+C Collect Owatanka's Tailspike |QID|884| |L|5102 1| |N|Owatanka. Loot him for [Owatanka's Tailspike] (49.6, 59.4)| |O| |Z|The Barrens|
 A Owatanka |QID|884| |N|Owatanka. Loot him for [Owatanka's Tailspike] - (49.6, 59.4)| |O| |Z|The Barrens|
 C Cry of the Thunderhawk |QID|913| |N|a Thunderhawk Hatchling or a Thunderhawk Cloudscraper. Loot it for its Thunderhawk Wings Thunderhawk Wings (1)| |Z|The Barrens|
 T Owatanka |QID|884| |N|Jorn Skyseer - (44.9, 59.1)| |Z|The Barrens|
@@ -207,7 +207,7 @@ F Fly to Thunder Bluff |N|Omusa - (44.5, 59.2)| |O| |C|Tauren/Shaman/Orc/Warrior
 t Train Two-Handed Maces & Staves |N|Ansekhwa - (40.9, 62.7)| |C|Warrior/Orc/Warrior/Troll/Warrior| |R|Undead| |Z|Thunder Bluff|
 t Train Staves |N|Ansekhwa - (40.9, 62.7)| |C|Hunter/Orc/Hunter/Undead/Warrior/Warlock/Priest| |R|Troll| |Z|Thunder Bluff|
 t Train Maces |N|Ansekhwa - (40.9, 62.7)| |C|Rogue| |Z|Thunder Bluff|
-C Kuruk. Buy  [Deadly Throwing Axe] from him |QID|6562| |N|Kuruk. Buy  [Deadly Throwing Axe] from him - (39.0, 64.6)| |C|Rogue| |Z|Thunder Bluff|
+B Deadly Throwing Axe (200) |L|3137 200| |N|Kuruk. Buy  [Deadly Throwing Axe] from him - (39.0, 64.6)| |C|Rogue| |Z|Thunder Bluff|
 R Chesmu |N|(47.1, 57.9)| |Z|Thunder Bluff|
 R Innkeeper Pala |N|(45.8, 64.7) (!WC Dungeon Quest)| |D|!WC| |Z|Thunder Bluff|
 R the Spirit Rise and enter the pools of vision |N|(28.5, 28.9)| |O| |Z|Thunder Bluff|
@@ -221,7 +221,7 @@ t Train your class spells |N|Miles - (25.3, 15.2)| |C|Priest| |Z|Thunder Bluff|
 t Train your class spells |N|Shymm - (22.7, 14.5)| |C|Mage| |Z|Thunder Bluff|
 t Train your class spells |N|Tigor - (23.6, 18.7)| |C|Shaman| |Z|Thunder Bluff|
 N Save them for later |C|Rogue| |Z|Thunder Bluff|
-C Create [Anti-Venom] if you found any [Small Venom Sacs] |N|Create [Anti-Venom] if you found any [Small Venom Sacs]| |C|Rogue| |Z|Thunder Bluff|
+C Anti Venom |L|6452 1| |N|Create [Anti-Venom] if you found any [Small Venom Sacs]| |C|Rogue| |Z|Thunder Bluff|
 R the Elder Rise |N|(69.9, 30.9)| |O| |Z|Thunder Bluff|
 T Hamuul Runetotem |QID|1489| |N|Hamuul - (78.6, 28.6)| |Z|Thunder Bluff|
 A Nara Wildmane |QID|1490| |N|Hamuul - (78.6, 28.6)| |Z|Thunder Bluff|
@@ -232,7 +232,7 @@ t Train your class spells |N|Turak - (76.5, 27.2)| |C|Druid| |Z|Thunder Bluff|
 A A Lesson to Learn |QID|27| |N|Turak - (76.5, 27.2)| |C|Druid| |Z|Thunder Bluff|
 T A Lesson to Learn |QID|27| |N|Dendrite - (56.2, 30.6)| |C|Druid| |Z|Moonglade|
 A Trial of the Lake |QID|28| |N|Dendrite - (56.2, 30.6)| |C|Druid| |Z|Moonglade|
-C Trial of the Lake |QID|28| |N|Loot the Bauble Container at the bottom of the lake for a[Shrine Bauble]| |O| |C|Druid| |Z|Moonglade|
+C the Bauble Container at the bottom of the lake for a[Shrine Bauble] |QID|28| |L|15877 1| |N|(54.3, 55.7)| |O| |C|Druid| |Z|Moonglade|
 N Do not go underwater untill you arive right above the Bauble |N|(54.3, 55.7)| |O| |C|Druid| |Z|Moonglade|
 C Trial of the Lake |QID|28| |N|Complete the Trial of the Lake| |C|Druid| |Z|Moonglade|
 T Trial of the Lake |QID|28| |N|Tajarri - (36.5, 40.1)| |C|Druid| |Z|Moonglade|
@@ -245,12 +245,12 @@ t Train your pet spells |N|Hesuwa - (54.1, 84.0)| |C|Hunter| |Z|Thunder Bluff|
 R the Hunter Rise |N|(61.3, 78.2)| |O| |C|Warrior| |Z|Thunder Bluff|
 t Train your class spells |N|Torm - (57.3, 87.3)| |C|Warrior| |Z|Thunder Bluff|
 A Ruga |QID|1823| |N|Torm - (57.3, 87.3)| |C|Warrior| |Z|Thunder Bluff|
-C Kard. Buy a [Longsword] from him. |QID|493| |N|Kard. Buy a [Longsword] from him. - (53.0, 56.6)| |C|Rogue| |Z|Thunder Bluff|
-C Etu. Buy a [Long Staff] from him |QID|493| |N|Etu. Buy a [Long Staff] from him - (53.2, 58.2)| |C|Warrior| |Z|Thunder Bluff|
-C Etu. Buy a [Long Staff] from him |QID|493| |N|Etu. Buy a [Long Staff] from him - (53.2, 58.2)| |C|Shaman| |Z|Thunder Bluff|
-C Kuna. Buy a [Heavy Recurve Bow] from her |QID|493| |N|Kuna. Buy a [Heavy Recurve Bow] from her - (47.0, 45.7)| |C|Hunter| |Z|Thunder Bluff|
+B Collect Longsword (1) |L|923 1| |N|Kard. Buy a [Longsword] from him. - (53.0, 56.6)| |C|Rogue| |Z|Thunder Bluff|
+B Collect Long Staff (1) |L|928 1| |N|Etu. Buy a [Long Staff] from him - (53.2, 58.2)| |C|Warrior| |Z|Thunder Bluff|
+B Collect Long Staff (1) |L|928 1| |N|Etu. Buy a [Long Staff] from him - (53.2, 58.2)| |C|Shaman| |Z|Thunder Bluff|
+B Collect Heavy Recurve Bow (1) |L|3027 1| |N|Kuna. Buy a [Heavy Recurve Bow] from her - (47.0, 45.7)| |C|Hunter| |Z|Thunder Bluff|
 N Buy [Sharp Arrows] from her |N|(47.0, 45.7)| |C|Hunter| |Z|Thunder Bluff|
-C Kuna |QID|493| |N|Kuna - (47.0, 45.7)| |C|Hunter| |Z|Thunder Bluff|
+B Kuna |L|2515 1600| |N|Kuna - (47.0, 45.7)| |C|Hunter| |Z|Thunder Bluff|
 F Fly to Crossroads |N|Tal - (47.0, 49.8) (WC Dungeon Quest)| |D|WC| |Z|Thunder Bluff|
 R Wailing Caverns |N|(46.1, 36.9) (WC Dungeon Quest)| |D|WC| |Z|The Barrens|
 R Travel to Kalimdor |N|(51.9, 55.5) (WC Dungeon Quest)| |D|WC| |Z|Kalimdor|
@@ -283,7 +283,7 @@ C Deviate Eradication |QID|1487| |N|Kill Deviate Ravagers, Vipers, Shamblers and
 C Deviate Hides |QID|1486| |N|Kill Deviate Ravagers, Vipers, Shamblers and Dreadfangs Deviate Hide (20) (WC Dungeon Quest)| |D|WC| |Z|Kalimdor|
 C Leaders of the Fang |QID|914| |N|Kill Lord Cobrahn, Lady Anacondra, Lord Pythas and Lord Serpentis. Loot them for their Gems Gem of Cobrahn (1) (WC Dungeon Quest)| |D|WC| |Z|Kalimdor|
 N Kill him and loot him for the [Glowing Shard] and use it to start the quest |N|(WC Dungeon Quest)| |D|WC| |Z|Kalimdor|
-C Once you have reached Naralex you will get attack by two waves of enemies and finally by Mutanus the Devourer |N|Once you have reached Naralex you will get attack by two waves of enemies and finally by Mutanus the Devourer (WC Dungeon Quest)| |D|WC| |Z|Kalimdor|
+C Collect Glowing Shard (x1) |L|10441 1| |N|Once you have reached Naralex you will get attack by two waves of enemies and finally by Mutanus the Devourer (WC Dungeon Quest)| |D|WC| |Z|Kalimdor|
 A The Glowing Shard |QID|6981| |N|Once you have reached Naralex you will get attack by two waves of enemies and finally by Mutanus the Devourer (WC Dungeon Quest)| |D|WC| |Z|Kalimdor|
 C Smart Drinks |QID|1491| |N|Kill Ectoplasms. Loot them for their Essence Wailing Essence (6) (WC Dungeon Quest)| |D|WC| |Z|Kalimdor|
 N It is recommended that maximum 3 players attempt to complete this quest if you're doing only 1 run. There aren't enough Serpentbloom for everybody |N|(WC Dungeon Quest)| |D|WC| |Z|Kalimdor|
@@ -342,7 +342,7 @@ T Report to Kadrak |QID|6541| |N|Torek - (48.1, 5.4)| |C|Hunter| |Z|The Barrens|
 N Torek has a 5 minute respawn time |N|(68.3, 75.3)| |C|Hunter| |Z|Ashenvale|
 A Torek's Assault |QID|6544| |N|Torek to start the escort - (68.3, 75.3)| |C|Hunter| |Z|Ashenvale|
 N Let Torek and his Splintertree Raiders tank the Silverwing Warriors and Silverwing Sentinels |N|(64.8, 75.3)| |C|Hunter| |Z|Ashenvale|
-N |cRXP_WARN_When you clear the building, run toward the Balcony. When Duriel Moonfire comes, let Torek and his Splintertree Raiders take aggro before you deal damage |N|(64.8, 75.3)| |C|Hunter| |Z|Ashenvale|
+N When you clear the building, run toward the Balcony. When Duriel Moonfire comes, let Torek and his Splintertree Raiders take aggro before you deal damage |N|(64.8, 75.3)| |C|Hunter| |Z|Ashenvale|
 C Torek's Assault |QID|6544| |N|Follow Torek Take Silverwing Outpost| |C|Hunter| |Z|Ashenvale|
 T Torek's Assault |QID|6544| |N|Ertog - (73.0, 62.5)| |C|Hunter| |Z|Ashenvale|
 T The Ashenvale Hunt |QID|6382| |N|Senani - (73.8, 61.5)| |C|Hunter| |Z|Ashenvale|
@@ -425,14 +425,14 @@ A The Essence of Aku'Mai |QID|6563| |N|Je'neu Sancrea - (11.6, 34.3) (BFD Dungeo
 A Amongst The Ruins |QID|6921| |N|Je'neu Sancrea - (11.6, 34.3) (BFD Dungeon Quest)| |C|Priest| |D|BFD| |Z|Ashenvale|
 R the entrance of Blackfathom Deeps |N|(43.9, 35.2) (BFD Dungeon Quest)| |C|Priest| |D|BFD| |Z|Kalimdor|
 C The Essence of Aku'Mai |QID|6563| |N|Loot Sapphire of Aku'Mai from the wall Sapphire of Aku'Mai (20) (BFD Dungeon Quest)| |C|Priest| |D|BFD| |Z|Kalimdor|
-C Allegiance to the Old Gods |QID|6564| |N|Blackfathom Tide Priestesses. Loot them for a [Damp Note] and use it to start the quest (43.9, 34.9) (BFD Dungeon Quest)| |C|Priest| |D|BFD| |Z|Kalimdor|
+C Collect Damp Note (1) |QID|6564| |L|16790 1| |N|Blackfathom Tide Priestesses. Loot them for a [Damp Note] and use it to start the quest (43.9, 34.9) (BFD Dungeon Quest)| |C|Priest| |D|BFD| |Z|Kalimdor|
 A Allegiance to the Old Gods |QID|6564| |N|Blackfathom Tide Priestesses. Loot them for a [Damp Note] and use it to start the quest - (43.9, 34.9) (BFD Dungeon Quest)| |C|Priest| |D|BFD| |Z|Kalimdor|
 C The Essence of Aku'Mai |QID|6563| |N|Sapphire of Aku'Mai from the wall Sapphire of Aku'Mai (20) (BFD Dungeon Quest)| |C|Priest| |D|BFD| |Z|Kalimdor|
 A Blackfathom Villainy |QID|6561| |N|Argent Guard Thaelrid (BFD Dungeon Quest)| |C|Priest| |D|BFD| |Z|Kalimdor|
 C Allegiance to the Old Gods |QID|6565| |N|Kill Lorguss Jett Lorguss Jett slain (1) (BFD Dungeon Quest)| |C|Priest| |D|BFD| |Z|Kalimdor|
 N Looting this will spawn Baron Aquanis |N|(BFD Dungeon Quest)| |C|Priest| |D|BFD| |Z|Kalimdor|
 C Amongst The Ruins |QID|6921| |N|Loot the Fathom Stone in the water on the ground for the Fathom Core Fathom Core (1) (BFD Dungeon Quest)| |C|Priest| |D|BFD| |Z|Kalimdor|
-C Kill Baron Aquanis. Loot him for a [Strange Water Globe]. Use it to accept the quest |QID|6782| |N|Kill Baron Aquanis. Loot him for a [Strange Water Globe]. Use it to accept the quest (BFD Dungeon Quest)| |C|Priest| |D|BFD| |Z|Kalimdor|
+C Strange Water Globe (1) |QID|6782| |L|16782 1| |N|Kill Baron Aquanis. Loot him for a [Strange Water Globe]. Use it to accept the quest (BFD Dungeon Quest)| |C|Priest| |D|BFD| |Z|Kalimdor|
 A Baron Aquanis |QID|6922| |N|Kill Baron Aquanis. Loot him for a [Strange Water Globe]. Use it to accept the quest (BFD Dungeon Quest)| |C|Priest| |D|BFD| |Z|Kalimdor|
 C Amongst The Ruins |QID|6921| |N|Loot the Fathom Stone in the water on the ground for the Fathom Core Fathom Core (1) (BFD Dungeon Quest)| |C|Priest| |D|BFD| |Z|Kalimdor|
 C Blackfathom Villainy |QID|6561| |N|Kill Twilight Lord Kelris. Loot him for his Head Head of Kelris (1) (BFD Dungeon Quest)| |C|Priest| |D|BFD| |Z|Kalimdor|
@@ -464,14 +464,14 @@ A The Binding |QID|1513| |N|Gan'rul - (48.2, 45.3)| |C|Warlock| |Z|Orgrimmar|
 C The Binding |QID|1513| |N|the Summoned Succubus Kill Summoned Succubus (1)| |C|Warlock| |Z|Orgrimmar|
 T The Binding |QID|1513| |N|Gan'rul - (48.2, 45.3)| |C|Warlock| |Z|Orgrimmar|
 t Train your class spells |N|Mirket - (48.6, 47.0)| |C|Warlock| |Z|Orgrimmar|
-C Kareth. Buy a [Jambiya] from him if you do not have a dagger |N|Kareth. Buy a [Jambiya] from him if you do not have a dagger - (45.6, 56.0)| |O| |C|Rogue| |Z|Orgrimmar|
+B Collect Jambiya (1) |L|2207 1| |N|Kareth. Buy a [Jambiya] from him if you do not have a dagger - (45.6, 56.0)| |O| |C|Rogue| |Z|Orgrimmar|
 t Train [Pick Pocket] & [Ambush] & [Rupture] & [Vanish] & [Distract] & [Stealth Rank 2] |N|Shenthul - (43.0, 53.7)| |C|Rogue| |Z|Orgrimmar|
 A The Shattered Salute |QID|2460| |N|Shenthul - (43.0, 53.7)| |C|Rogue| |Z|Orgrimmar|
 C The Shattered Salute |QID|2460| |N|After Shenthul does his salute, type /Salute while targeting him Shattered Salute Performed (1)| |C|Rogue| |Z|Orgrimmar|
 T The Shattered Salute |QID|2460| |N|Shenthul - (43.0, 53.7)| |C|Rogue| |Z|Orgrimmar|
 A Deep Cover |QID|2458| |N|Shenthul - (43.0, 53.7)| |C|Rogue| |Z|Orgrimmar|
-C Rekkul. Buy  [Flash Powder] from him |QID|2479| |N|Rekkul. Buy  [Flash Powder] from him - (42.1, 49.5)| |C|Rogue| |Z|Orgrimmar|
-C Devourer of Souls |QID|1507| |N|Katis. Buy a [Burning Wand] from her Collect Burning Wand (1)| |C|Priest/Warlock| |Z|Orgrimmar|
+B Collect Dust of Decay (40) |L|2928 40| |N|Rekkul. Buy  [Flash Powder] from him - (42.1, 49.5)| |C|Rogue| |Z|Orgrimmar|
+B Collect Burning Wand (1) |L|5210 1| |N|Katis. Buy a [Burning Wand] from her - (44.2, 48.5)| |C|Priest/Warlock| |Z|Orgrimmar|
 t Train your class spells |N|Pephredo - (38.4, 85.5)| |C|Mage| |Z|Orgrimmar|
 t Train [Teleport: Orgrimmar] |N|Thuul at the top of the hut - (38.7, 85.4)| |C|Mage| |Z|Orgrimmar|
 T Shadowguard |QID|5642| |N|Ur'kyo - (35.6, 87.8)| |C|Priest| |R|Troll| |Z|Orgrimmar|
@@ -479,7 +479,7 @@ t Train your class spells |N|Ur'kyo - (35.6, 87.8)| |C|Priest| |R|Troll| |Z|Orgr
 t Train your class spells |N|Ur'kyo - (35.6, 87.8)| |C|Priest| |R|Undead| |Z|Orgrimmar|
 R Enter The Barrens through the Western Exit |N|(18.0, 60.5)| |O| |C|Rogue/Druid| |Z|Orgrimmar|
 R Travel toward the Sludge Ven |N|(57.6, 7.5)| |O| |C|Rogue/Druid| |Z|The Barrens|
-C the Strange Lockbox in the water for the [Half Pendant of Aquatic Agility] |QID|31| |N|the Strange Lockbox in the water for the [Half Pendant of Aquatic Agility] - (56.7, 8.3)| |C|Druid| |Z|The Barrens|
+C Half Pendant of Aquatic Agility (1) |QID|31| |L|15883 1| |N|the Strange Lockbox in the water for the [Half Pendant of Aquatic Agility] (56.7, 8.3)| |C|Druid| |Z|The Barrens|
 T Deep Cover |QID|2458| |N|Taskmaster Fizzule - (55.4, 5.6)| |C|Rogue| |Z|The Barrens|
 A Mission: Possible But Not Probable |QID|2478| |N|Taskmaster Fizzule - (55.4, 5.6)| |C|Rogue| |Z|The Barrens|
 C Mission: Possible But Not Probable |QID|2478| |N|Use [Pick Pocket] on Foreman Silixiz for his Tower Key Silixiz's Tower Key (1)| |C|Rogue| |Z|The Barrens|
@@ -494,13 +494,13 @@ F Fly to Orgrimmar |N|Devrak - (51.5, 30.3)| |C|Rogue/Druid| |Z|The Barrens|
 R Travel to Kalimdor |N|(56.8, 45.5)| |O| |C|Rogue/Druid| |Z|Kalimdor|
 T Mission: Possible But Not Probable |QID|2478| |N|Shenthul - (43.0, 53.7)| |C|Rogue| |Z|Orgrimmar|
 A Hinott's Assistance |QID|2479| |N|Shenthul - (43.0, 53.7)| |C|Rogue| |Z|Orgrimmar|
-C Hinott's Assistance |QID|2479| |N|Rekkul. Buy  [Dust of Decay] and [Empty Vials] from him Collect Dust of Decay (20)| |C|Rogue| |Z|Orgrimmar|
+B Collect Dust of Decay (20) |L|2928 20| |N|Rekkul. Buy  [Dust of Decay] and [Empty Vials] from him - (42.1, 49.5)| |C|Rogue| |Z|Orgrimmar|
 t Train your class spells |N|Kardris - (38.8, 36.4)| |C|Shaman| |Z|Orgrimmar|
 t Train Two-Handed Axes |N|Hanashi - (81.5, 19.6)| |C|Warrior/Undead/Warrior/Tauren/Warrior| |R|Troll| |Z|Orgrimmar|
 t Train your class spells |N|Grezz - (79.9, 31.4)| |C|Warrior| |Z|Orgrimmar|
 t Train your class spells |N|Ormak - (66.0, 18.5)| |C|Hunter| |Z|Orgrimmar|
 t Train your pet spells |N|Xao'tsu - (66.3, 14.8)| |C|Hunter| |Z|Orgrimmar|
-C Torek's Assault |QID|6544| |N|Trak'gen. Buy  [Deadly Throwing Axe] from him Deadly Throwing Axe (200)| |C|Rogue| |Z|Orgrimmar|
+B Deadly Throwing Axe (200) |L|3137 200| |N|Trak'gen. Buy  [Deadly Throwing Axe] from him - (48.1, 80.5)| |C|Rogue| |Z|Orgrimmar|
 N If you have any [Anti-Venom], use one to cure yourself of [Touch of Zanzil] |C|Rogue| |Z|Orgrimmar|
 
 ]]

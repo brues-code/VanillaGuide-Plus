@@ -4,22 +4,23 @@ return [[
 
 N 6-11 Dun Morogh (Hunter) |N|Converted from RestedXP guide|
 
-C Kill Crag Boars and Large Crag Boars. Loot them for their [Chunks of Boar Meat] and Crag Boar Ribs |QID|317| |N|Kill Crag Boars and Large Crag Boars. Loot them for their [Chunks of Boar Meat] and Crag Boar Ribs| |O|
+C Collect Chunk of Boar Meat (x4) |QID|317| |L|769 4| |N|Kill Crag Boars and Large Crag Boars. Loot them for their [Chunks of Boar Meat] and Crag Boar Ribs| |O|
+C Collect Crag Boar Rib (x6) |QID|384| |L|2886 6| |N|Kill Crag Boars and Large Crag Boars. Loot them for their [Chunks of Boar Meat] and Crag Boar Ribs| |O|
 R Kharanos |N|(46.7, 53.8)| |O| |Z|Dun Morogh|
 T Senir's Observations |QID|420| |N|Senir Whitebeard - (46.7, 53.8)| |Z|Dun Morogh|
 A Beer Basted Boar Ribs |QID|384| |N|Ragnar Thunderbrew - (46.8, 52.4)| |Z|Dun Morogh|
 T Supplies to Tannok |QID|2160| |N|Tannok Frosthammer - (47.2, 52.2)| |Z|Dun Morogh|
 N Innkeeper Belm inside |N|(47.4, 52.5)| |Z|Dun Morogh|
 A Tools for Steelgrill |QID|400| |N|Tharek Blackstone - (46.0, 51.7)| |Z|Dun Morogh|
-N |cRXP_WARN_Don't kill any Young Black Bears en-route |N|(49.4, 48.4)| |Z|Dun Morogh|
+N Don't kill any Young Black Bears en-route |N|(49.4, 48.4)| |Z|Dun Morogh|
 A Stocking Jetsteam |QID|317| |N|Pilot Bellowfiz - (49.4, 48.4)| |Z|Dun Morogh|
 A The Grizzled Den |QID|313| |N|Pilot Stonegear - (49.6, 48.6)| |Z|Dun Morogh|
 T Tools for Steelgrill |QID|400| |N|Beldin Steelgrill - (50.4, 49.1)| |Z|Dun Morogh|
 A Ammo for Rumbleshot |QID|5541| |N|Loslor Rudge - (50.1, 49.4)| |Z|Dun Morogh|
 N Kill Crag Boars and Large Crag Boars. Loot them for their [Chunks of Boar Meat] and Crag Boar Ribs |N|(43.5, 52.5)| |C|!Paladin/!Warrior/!Rogue| |Z|Dun Morogh|
 C Stocking Jetsteam |QID|317| |N|Young Black Bears. Loot them for their Fur Collect Thick Bear Fur (x2)| |C|!Paladin/!Warrior/!Rogue| |Z|Dun Morogh|
-C Beer Basted Boar Ribs |QID|384| |N|Young Black Bears. Loot them for their Fur Collect Crag Boar Rib (x6)| |C|!Paladin/!Warrior/!Rogue| |Z|Dun Morogh|
-C Beer Basted Boar Ribs |QID|384| |N|Kill Crag Boars and Large Crag Boars. Loot them for their Crag Boar Ribs Collect Crag Boar Rib (x6)| |O| |Z|Dun Morogh|
+C Collect Crag Boar Rib (x6) |QID|384| |L|2886 6| |N|Young Black Bears. Loot them for their Fur (43.5, 52.5)| |C|!Paladin/!Warrior/!Rogue| |Z|Dun Morogh|
+C Collect Crag Boar Rib (x6) |QID|384| |L|2886 6| |N|Kill Crag Boars and Large Crag Boars. Loot them for their Crag Boar Ribs| |O| |Z|Dun Morogh|
 T Stocking Jetsteam |QID|317| |N|Pilot Bellowfiz - (49.4, 48.4)| |Z|Dun Morogh|
 A Evershine |QID|318| |N|Pilot Bellowfiz - (49.4, 48.4)| |Z|Dun Morogh|
 G Grind to level 6 |Z|Dun Morogh|
@@ -31,7 +32,7 @@ C The Grizzled Den |QID|313| |N|Wendigos and Young Wendigos. Loot them for their
 G Grind to level 7 |Z|Dun Morogh|
 N Tundra MacGrann |N|(43.0, 47.4)| |Z|Dun Morogh|
 A Tundra MacGrann's Stolen Stash |QID|312| |N|(34.6, 51.7)| |Z|Dun Morogh|
-N |cRXP_WARN_Wait until Old Icebeard patrols out of the Cave. Once he patrols out of the Cave you can enter and loot MacGrann's Meat Locker |N|(38.5, 53.9)| |Z|Dun Morogh|
+N Wait until Old Icebeard patrols out of the Cave. Once he patrols out of the Cave you can enter and loot MacGrann's Meat Locker |N|(38.5, 53.9)| |Z|Dun Morogh|
 C Tundra MacGrann's Stolen Stash |QID|312| |N|MacGrann's Meat Locker. Loot it for MacGrann's Dried Meats MacGrann's Dried Meats (1)| |Z|Dun Morogh|
 T Tundra MacGrann's Stolen Stash |QID|312| |N|Tundra MacGrann - (34.6, 51.7)| |Z|Dun Morogh|
 B Vendor trash |N|Keeg Gibn - (30.5, 46.0)| |O| |Z|Dun Morogh|
@@ -50,7 +51,7 @@ R Kharanos |N|(49.6, 48.6)| |O| |Z|Dun Morogh|
 T The Grizzled Den |QID|313| |N|Pilot Stonegear - (49.6, 48.6)| |Z|Dun Morogh|
 N Buy a [Rhapsody Malt] and a [Thunder Ale] |N|(47.4, 52.5)| |Z|Dun Morogh|
 C Beer Basted Boar Ribs |QID|384| |N|Innkeeper Belm inside Collect Rhapsody Malt (x1)| |Z|Dun Morogh|
-C Innkeeper Belm inside |QID|311| |N|Innkeeper Belm inside - (47.4, 52.5)| |Z|Dun Morogh|
+B Collect Thunder Ale (x1) |L|2686 1| |N|Innkeeper Belm inside - (47.4, 52.5)| |Z|Dun Morogh|
 T Distracting Jarven |QID|308| |N|Jarven Thunderbrew downstairs - (47.6, 52.7)| |O| |Z|Dun Morogh|
 T Bitter Rivals |QID|310| |N|the Unguarded Thunder Ale Barrel - (47.7, 52.7)| |Z|Dun Morogh|
 A Return to Marleth |QID|311| |N|the Unguarded Thunder Ale Barrel - (47.7, 52.7)| |Z|Dun Morogh|
@@ -62,7 +63,7 @@ R Go up the dirt path |N|(61.4, 47.1)| |O| |Z|Dun Morogh|
 A Protecting the Herd |QID|314| |N|Rudra Amberstill - (63.1, 49.9)| |Z|Dun Morogh|
 R Travel to Ironforge |N|(62.4, 49.0)| |Z|Ironforge|
 N Kite him to the guard south of the ranch. Make sure you do 51%+ damage to him |N|(62.5, 46.2)| |Z|Ironforge|
-N |cRXP_WARN_Watch the video below before you attempt to kill Vagash. It can be soloed on any class |N|(62.5, 46.2)| |Z|Ironforge|
+N Watch the video below before you attempt to kill Vagash. It can be soloed on any class |N|(62.5, 46.2)| |Z|Ironforge|
 C Protecting the Herd |QID|314| |N|Vagash. Loot him for his Fang Collect Fang of Vagash (1)| |Z|Ironforge|
 R Travel to Dun Morogh |N|(63.1, 49.9)| |Z|Dun Morogh|
 T Protecting the Herd |QID|314| |N|Rudra Amberstill - (63.1, 49.9)| |Z|Dun Morogh|

@@ -13,29 +13,29 @@ A Minshina's Skull |QID|808| |N|(55.9, 74.4)| |Z|Durotar|
 A Zalazane |QID|826| |N|(55.9, 74.4)| |Z|Durotar|
 A Report to Orgnil |QID|823| |N|(55.9, 74.4)| |Z|Durotar|
 R Enter the big hut |N|(56.3, 73.8)| |O| |Z|Durotar|
-C Thwarting Kolkar Aggression |QID|786| |N|K'waii. Buy  [Weighted Throwing Axe] from her Weighted Throwing Axe (200)| |C|Rogue| |Z|Durotar|
+B Weighted Throwing Axe (200) |L|3131 200| |N|K'waii. Buy  [Weighted Throwing Axe] from her - (56.3, 73.4)| |C|Rogue| |Z|Durotar|
 N Buy [Refreshing Spring Water] from her --Refreshing Spring Water (20) |N|(56.3, 73.4)| |C|Warlock/Mage/Priest| |Z|Durotar|
-C Thwarting Kolkar Aggression |QID|786| |N|K'waii (56.3, 73.4)| |C|Warlock/Mage/Priest| |Z|Durotar|
+B K'waii |L|159 20| |N|K'waii - (56.3, 73.4)| |C|Warlock/Mage/Priest| |Z|Durotar|
 N Buy [Refreshing Spring Water] from her --Refreshing Spring Water (10) |N|(56.3, 73.4)| |C|Warlock/Mage/Priest| |Z|Durotar|
-C Thwarting Kolkar Aggression |QID|786| |N|K'waii (56.3, 73.4)| |C|Warlock/Mage/Priest| |Z|Durotar|
+B K'waii |L|159 10| |N|K'waii - (56.3, 73.4)| |C|Warlock/Mage/Priest| |Z|Durotar|
 B Vendor trash. Sell your weapon if it gives you enough money for a [Walking Stick] (5s 04c). You'll come back later if you don't have enough yet |N|Trayexir - (56.5, 73.1)| |C|Shaman| |Z|Durotar|
-C Thwarting Kolkar Aggression |QID|786| |N|Trayexir. Buy a [Walking Stick] from him Collect Walking Stick (1)| |C|Shaman| |Z|Durotar|
+B Collect Walking Stick (1) |L|2495 1| |N|Trayexir. Buy a [Walking Stick] from him - (56.5, 73.1)| |C|Shaman| |Z|Durotar|
 B Vendor trash. Sell your weapon if it gives you enough money for a [Stiletto] (4s 01c). You'll come back later if you don't have enough yet |N|Trayexir - (56.5, 73.1)| |C|Rogue| |Z|Durotar|
-C Thwarting Kolkar Aggression |QID|786| |N|Trayexir. Buy a [Stiletto] from him Collect Stiletto (1)| |C|Rogue| |Z|Durotar|
+B Collect Stiletto (1) |L|2494 1| |N|Trayexir. Buy a [Stiletto] from him - (56.5, 73.1)| |C|Rogue| |Z|Durotar|
 B Vendor trash. Sell your weapon if it gives you enough money for a [Large Axe] (4s 84c). You'll come back later if you don't have enough yet |N|Trayexir - (56.5, 73.1)| |C|Warrior| |R|Orc| |Z|Durotar|
-C Thwarting Kolkar Aggression |QID|786| |N|Trayexir. Buy a [large Axe] from him Collect Large Axe (1)| |C|Warrior| |R|Orc| |Z|Durotar|
+B Collect Large Axe (1) |L|2491 1| |N|Trayexir. Buy a [large Axe] from him - (56.5, 73.1)| |C|Warrior| |R|Orc| |Z|Durotar|
 B Vendor trash. Sell your weapon if it gives you enough money for a [Tomahawk] (5s 40c). You'll come back later if you don't have enough yet |N|Trayexir - (56.5, 73.1)| |C|Warrior| |R|Troll| |Z|Durotar|
-C Thwarting Kolkar Aggression |QID|786| |N|Trayexir. Buy a [Tomahawk] from him Collect Tomahawk (1)| |C|Warrior| |R|Troll| |Z|Durotar|
+B Collect Tomahawk (1) |L|2490 1| |N|Trayexir. Buy a [Tomahawk] from him - (56.5, 73.1)| |C|Warrior| |R|Troll| |Z|Durotar|
 B Vendor trash. Sell your weapon if it gives you enough money for a [Hornwood Recurve Bow] (2s 83c). You'll come back later if you don't have enough yet |N|Trayexir - (56.5, 73.1)| |C|Hunter| |Z|Durotar|
-C Thwarting Kolkar Aggression |QID|786| |N|Trayexir. Buy a [Hornwood Recurve Bow] from him Collect Hornwood Recurve Bow (1)| |C|Hunter| |Z|Durotar|
+B Collect Hornwood Recurve Bow (1) |L|2506 1| |N|Trayexir. Buy a [Hornwood Recurve Bow] from him - (56.5, 73.1)| |C|Hunter| |Z|Durotar|
 t Train [Fireball] & [Fire Blast] |N|Un'Thuwa - (56.3, 75.1)| |C|Mage| |Z|Durotar|
-C Thwarting Kolkar Aggression |QID|786| |O| |C|Warrior/Rogue| |Z|Durotar|
-t Training (2575) |O| |C|Warrior/Rogue| |Z|Durotar|
+C Cast [Find Minerals] and mine any Copper Vein you find for [Rough Stones]. Make [Sharpening Stones] from them |QID|786| |L|2862 1| |O| |C|Warrior/Rogue| |Z|Durotar|
+t Mining Trained |O| |C|Warrior/Rogue| |Z|Durotar|
 C A Solvent Spirit |QID|818| |N|Run down the beach. Kill Crawlers and Makruras. Loot them for their Mucus and Eyes. You do not have to finish this step here. Crawler Mucus (8)| |O| |Z|Durotar|
 R Reach the end of the beach |N|(52.2, 83.0)| |Z|Durotar|
 C Carry Your Weight |QID|791| |N|Kill Kolkar Drudges and Kolkar Outrunners. Loot them for their Canvas Scraps Canvas Scraps (8)| |O| |Z|Durotar|
 R Enter the Kolkar base |N|(50.9, 79.2)| |Z|Durotar|
-C Start collecting 3 stacks of [Linen Cloth] as you quest throughout Durotar. This will be used to make your wand later |N|Start collecting 3 stacks of [Linen Cloth] as you quest throughout Durotar. This will be used to make your wand later| |O| |C|Priest| |Z|Durotar|
+C Linen Cloth (60) |L|2589 60| |N|Start collecting 3 stacks of [Linen Cloth] as you quest throughout Durotar. This will be used to make your wand later| |O| |C|Priest| |Z|Durotar|
 C Thwarting Kolkar Aggression |QID|786| |N|Burn the Attack Plan inside the tent on the ground Attack Plan: Valley of Trials destroyed (1)| |Z|Durotar|
 C Thwarting Kolkar Aggression |QID|786| |N|Burn the Attack Plan on the ground Attack Plan: Sen'jin Village destroyed (1)| |Z|Durotar|
 C Thwarting Kolkar Aggression |QID|786| |N|Burn the Attack Plan on the ground Attack Plan: Orgrimmar destroyed (1)| |Z|Durotar|
@@ -43,23 +43,23 @@ R Leave the Kolkar base |N|(51.0, 79.1)| |O| |Z|Durotar|
 T Thwarting Kolkar Aggression |QID|786| |N|Lar. He patrols a little - (54.2, 73.4)| |C|Shaman| |Z|Durotar|
 T Thwarting Kolkar Aggression |QID|786| |N|Lar. He patrols a little - (54.2, 73.4)| |C|!Shaman| |Z|Durotar|
 B Vendor trash. Sell your weapon if it gives you enough money for a [Walking Stick] (5s 04c). You'll come back later if you don't have enough yet |N|Trayexir - (56.5, 73.1)| |C|Shaman| |Z|Durotar|
-C Report to Orgnil |QID|823| |N|Trayexir. Buy a [Walking Stick] from him Collect Walking Stick (1)| |C|Shaman| |Z|Durotar|
+B Collect Walking Stick (1) |L|2495 1| |N|Trayexir. Buy a [Walking Stick] from him - (56.5, 73.1)| |C|Shaman| |Z|Durotar|
 B Vendor trash. Sell your weapon if it gives you enough money for a [Stiletto] (4s 01c). You'll come back later if you don't have enough yet |N|Trayexir - (56.5, 73.1)| |C|Rogue| |Z|Durotar|
-C Report to Orgnil |QID|823| |N|Trayexir. Buy a [Stiletto] from him Collect Stiletto (1)| |C|Rogue| |Z|Durotar|
+B Collect Stiletto (1) |L|2494 1| |N|Trayexir. Buy a [Stiletto] from him - (56.5, 73.1)| |C|Rogue| |Z|Durotar|
 B Vendor trash. Sell your weapon if it gives you enough money for a [Large Axe] (4s 84c). You'll come back later if you don't have enough yet |N|Trayexir - (56.5, 73.1)| |C|Warrior| |R|Orc| |Z|Durotar|
-C Report to Orgnil |QID|823| |N|Trayexir. Buy a [large Axe] from him Collect Large Axe (1)| |C|Warrior| |R|Orc| |Z|Durotar|
+B Collect Large Axe (1) |L|2491 1| |N|Trayexir. Buy a [large Axe] from him - (56.5, 73.1)| |C|Warrior| |R|Orc| |Z|Durotar|
 B Vendor trash. Sell your weapon if it gives you enough money for a [Tomahawk] (5s 40c). You'll come back later if you don't have enough yet |N|Trayexir - (56.5, 73.1)| |C|Warrior| |R|Troll| |Z|Durotar|
-C Report to Orgnil |QID|823| |N|Trayexir. Buy a [Tomahawk] from him Collect Tomahawk (1)| |C|Warrior| |R|Troll| |Z|Durotar|
+B Collect Tomahawk (1) |L|2490 1| |N|Trayexir. Buy a [Tomahawk] from him - (56.5, 73.1)| |C|Warrior| |R|Troll| |Z|Durotar|
 B Vendor trash. Sell your weapon if it gives you enough money for a [Hornwood Recurve Bow] (2s 83c). You'll come back later if you don't have enough yet |N|Trayexir - (56.5, 73.1)| |C|Hunter| |Z|Durotar|
-C Report to Orgnil |QID|823| |N|Trayexir. Buy a [Hornwood Recurve Bow] from him Collect Hornwood Recurve Bow (1)| |C|Hunter| |Z|Durotar|
+B Collect Hornwood Recurve Bow (1) |L|2506 1| |N|Trayexir. Buy a [Hornwood Recurve Bow] from him - (56.5, 73.1)| |C|Hunter| |Z|Durotar|
 T A Solvent Spirit |QID|818| |N|Vornal - (56.0, 74.4)| |O| |Z|Durotar|
 N Buy [Haunch of Meat] from him |N|(55.6, 73.6)| |C|Warrior/Rogue/Shaman| |Z|Durotar|
 B Vendor trash |N|Hai'zan - (55.6, 73.6)| |C|Warrior/Rogue/Shaman| |Z|Durotar|
-C Report to Orgnil |QID|823| |N|Hai'zan Haunch of Meat (10)| |C|Warrior/Rogue/Shaman| |Z|Durotar|
+B Haunch of Meat (10) |L|2287 10| |N|Hai'zan - (55.6, 73.6)| |C|Warrior/Rogue/Shaman| |Z|Durotar|
 N Buy [Refreshing Spring Water] from her --Refreshing Spring Water (20) |N|(56.3, 73.4)| |C|Warlock/Mage/Priest| |Z|Durotar|
-C Vanquish the Betrayers |QID|784| |N|K'waii (56.3, 73.4)| |C|Warlock/Mage/Priest| |Z|Durotar|
+B K'waii |L|159 20| |N|K'waii - (56.3, 73.4)| |C|Warlock/Mage/Priest| |Z|Durotar|
 N Buy [Refreshing Spring Water] from her --Refreshing Spring Water (10) |N|(56.3, 73.4)| |C|Warlock/Mage/Priest| |Z|Durotar|
-C Vanquish the Betrayers |QID|784| |N|K'waii (56.3, 73.4)| |C|Warlock/Mage/Priest| |Z|Durotar|
+B K'waii |L|159 10| |N|K'waii - (56.3, 73.4)| |C|Warlock/Mage/Priest| |Z|Durotar|
 T Thwarting Kolkar Aggression |QID|786| |N|Lar. He patrols a little - (54.2, 73.4)| |C|Shaman| |Z|Durotar|
 T Thwarting Kolkar Aggression |QID|786| |N|Lar. He patrols a little - (54.2, 73.4)| |C|!Shaman| |Z|Durotar|
 T Report to Orgnil |QID|823| |N|Orgnil, Gar'Thok and Torka - (52.2, 43.1)| |Z|Durotar|
@@ -73,20 +73,20 @@ A Carry Your Weight |QID|791| |N|Furl - (49.9, 40.4)| |Z|Durotar|
 t Train [Mining] |N|Krunn - (51.8, 40.9)| |C|Warrior/Rogue| |Z|Durotar|
 N This will allow you to find [Rough Stones] from nodes in order to craft [Sharpening Stones] (+2 Weapon Damage for 30 minutes) |N|(51.8, 40.9)| |C|Warrior/Rogue| |Z|Durotar|
 N Buy a [Mining Pick] from him |N|(51.9, 41.1)| |C|Warrior/Rogue| |Z|Durotar|
-C Vanquish the Betrayers |QID|784| |N|Wuark Mining Pick (1)| |C|Warrior/Rogue| |Z|Durotar|
+B Mining Pick (1) |L|2901 1| |N|Wuark - (51.9, 41.1)| |C|Warrior/Rogue| |Z|Durotar|
 t Train [Blacksmithing] |N|Dwukk - (52.0, 40.7)| |C|Warrior/Rogue| |Z|Durotar|
-C Thwarting Kolkar Aggression |QID|786| |O| |C|Warrior/Rogue| |Z|Durotar|
-t Training (2575) |O| |C|Warrior/Rogue| |Z|Durotar|
+C Cast [Find Minerals] and mine any Copper Vein you find for [Rough Stones]. Make [Sharpening Stones] from them |QID|786| |L|2862 1| |O| |C|Warrior/Rogue| |Z|Durotar|
+t Mining Trained |O| |C|Warrior/Rogue| |Z|Durotar|
 N Grind mobs on the way |N|(54.4, 62.6)| |Z|Durotar|
 N Grind mobs on the way |N|(57.3, 54.7)| |Z|Durotar|
 R Move toward the second floor of the keep |N|(59.3, 57.9)| |O| |Z|Durotar|
 C Vanquish the Betrayers |QID|784| |N|Kill Kul Tiras Sailors and Kul Tiras Marines. Loot them for their Canvas Scraps Kul Tiras Sailor (10)| |O| |Z|Durotar|
 C Carry Your Weight |QID|791| |N|Kill Kul Tiras Sailors and Kul Tiras Marines. Loot them for their Canvas Scraps Canvas Scraps (8)| |O| |Z|Durotar|
 C Vanquish the Betrayers |QID|784| |N|Lieutenant Benedict. Loot him for his Key Lieutenant Benedict (1)| |Z|Durotar|
-C Lieutenant Benedict. Loot him for his Key |QID|830| |N|Lieutenant Benedict. Loot him for his Key - (59.8, 58.3)| |Z|Durotar|
+C Collect Benedict's Key (1) |QID|830| |L|4882 1| |N|Lieutenant Benedict. Loot him for his Key (59.8, 58.3)| |Z|Durotar|
 N Open Benedict's Chest. Loot it for the [Aged Envelope] |N|(59.3, 57.6)| |Z|Durotar|
 N Use the [Aged Envelope] to start the quest |N|(59.3, 57.6)| |Z|Durotar|
-C The Admiral's Orders |QID|830| |N|Go upstairs in the keep (59.3, 57.6)| |Z|Durotar|
+C Collect Aged Envelope (1) |QID|830| |L|4881 1| |N|Go upstairs in the keep (59.3, 57.6)| |Z|Durotar|
 A The Admiral's Orders |QID|830| |N|Go upstairs in the keep - (59.3, 57.6)| |Z|Durotar|
 C Vanquish the Betrayers |QID|784| |N|Kul Tiras Sailors and Kul Tiras Marines. Loot them for their Canvas Scraps Kul Tiras Sailor (10)| |Z|Durotar|
 C Carry Your Weight |QID|791| |N|Kul Tiras Sailors and Kul Tiras Marines. Loot them for their Canvas Scraps Canvas Scraps (8)| |Z|Durotar|
@@ -110,19 +110,19 @@ T Carry Your Weight |QID|791| |N|Furl - (49.9, 40.4)| |Z|Durotar|
 t Train [Mining] |N|Krunn - (51.8, 40.9)| |C|Warrior/Rogue| |Z|Durotar|
 N This will allow you to find [Rough Stones] from nodes in order to craft [Sharpening Stones] (+2 Weapon Damage for 30 minutes) |N|(51.8, 40.9)| |C|Warrior/Rogue| |Z|Durotar|
 N Buy a [Mining Pick] from Wuark |N|(51.9, 41.1)| |C|Warrior/Rogue| |Z|Durotar|
-C From The Wreckage.... |QID|825| |N|Wuark Mining Pick (1)| |C|Warrior/Rogue| |Z|Durotar|
+B Mining Pick (1) |L|2901 1| |N|Wuark - (51.9, 41.1)| |C|Warrior/Rogue| |Z|Durotar|
 t Train [Blacksmithing] |N|Dwukk - (52.0, 40.7)| |C|Warrior/Rogue| |Z|Durotar|
 B Vendor trash. Sell your weapon if it gives you enough money for a [Walking Stick] (5s 04c). You'll come back later if you don't have enough yet |N|Uhgar - (52.0, 40.5)| |C|Shaman| |Z|Durotar|
-C From The Wreckage.... |QID|825| |N|Uhgar. Buy a [Walking Stick] from him Collect Walking Stick (1)| |C|Shaman| |Z|Durotar|
+B Collect Walking Stick (1) |L|2495 1| |N|Uhgar. Buy a [Walking Stick] from him - (52.0, 40.5)| |C|Shaman| |Z|Durotar|
 B Vendor trash. Sell your weapon if it gives you enough money for a [Stiletto] (4s 01c). You'll come back later if you don't have enough yet |N|Uhgar - (52.0, 40.5)| |C|Rogue| |Z|Durotar|
-C From The Wreckage.... |QID|825| |N|Uhgar. Buy a [Stiletto] from him Collect Stiletto (1)| |C|Rogue| |Z|Durotar|
+B Collect Stiletto (1) |L|2494 1| |N|Uhgar. Buy a [Stiletto] from him - (52.0, 40.5)| |C|Rogue| |Z|Durotar|
 B Vendor trash. Sell your weapon if it gives you enough money for a [Large Axe] (4s 84c). You'll come back later if you don't have enough yet |N|Uhgar - (52.0, 40.5)| |C|Warrior| |R|Orc| |Z|Durotar|
-C From The Wreckage.... |QID|825| |N|Uhgar. Buy a [large Axe] from him Collect Large Axe (1)| |C|Warrior| |R|Orc| |Z|Durotar|
+B Collect Large Axe (1) |L|2491 1| |N|Uhgar. Buy a [large Axe] from him - (52.0, 40.5)| |C|Warrior| |R|Orc| |Z|Durotar|
 B Vendor trash. Sell your weapon if it gives you enough money for a [Tomahawk] (5s 40c). You'll come back later if you don't have enough yet |N|Uhgar - (52.0, 40.5)| |C|Warrior| |R|Troll| |Z|Durotar|
-C From The Wreckage.... |QID|825| |N|Uhgar. Buy a [Tomahawk] from him Collect Tomahawk (1)| |C|Warrior| |R|Troll| |Z|Durotar|
+B Collect Tomahawk (1) |L|2490 1| |N|Uhgar. Buy a [Tomahawk] from him - (52.0, 40.5)| |C|Warrior| |R|Troll| |Z|Durotar|
 B Vendor trash. Sell your weapon if it gives you enough money for a [Hornwood Recurve Bow] (2s 83c). You'll come back later if you don't have enough yet |N|Ghrawt - (53.0, 41.0)| |C|Hunter| |Z|Durotar|
-C A Solvent Spirit |QID|818| |N|Ghrawt. Buy a [Hornwood Recurve Bow] from him Collect Hornwood Recurve Bow (1)| |C|Hunter| |Z|Durotar|
-C From The Wreckage.... |QID|825| |N||cRXP_BUY_Ghrawt. Buy [Rough Arrows] from him (53.0, 41.0)| |C|Hunter| |Z|Durotar|
+B Collect Hornwood Recurve Bow (1) |L|2506 1| |N|Ghrawt. Buy a [Hornwood Recurve Bow] from him - (53.0, 41.0)| |C|Hunter| |Z|Durotar|
+B Ghrawt. Buy [Rough Arrows] from him |L|2512 1000| |N|Ghrawt. Buy [Rough Arrows] from him - (53.0, 41.0)| |C|Hunter| |Z|Durotar|
 N Buy [Ice Cold Milk] from him |N|(51.5, 41.6)| |C|Mage/Warlock/Priest/Shaman/Druid| |Z|Durotar|
 N Buy [Haunch of Meat] from him |N|(51.5, 41.6)| |C|Rogue/Warrior| |Z|Durotar|
 N Save 4 silver for your class spells! |N|(51.5, 41.6)| |C|Rogue/Warrior/Shaman/Warlock| |Z|Durotar|
@@ -146,8 +146,8 @@ t Training (284) |N|Innkeeper Grosk - (51.5, 41.6)| |O| |C|Warrior| |Z|Durotar|
 t Train your class spells |N|Tarshaw - (54.2, 42.5)| |C|Warrior| |Z|Durotar|
 t Train your class spells |N|Swart - (54.4, 42.6)| |C|Shaman| |Z|Durotar|
 t Train your class spells |N|Dhugru - (54.4, 41.2)| |C|Warlock| |Z|Durotar|
-C From The Wreckage.... |QID|825| |N|Kitha and buy [Firebolt Rank 2] Grimoire of Firebolt (Rank 2) (1)| |C|Warlock| |Z|Durotar|
-t Training (7799) |N|Kitha and buy [Firebolt Rank 2] - (54.7, 41.5)| |C|Warlock| |Z|Durotar|
+B Grimoire of Firebolt (Rank 2) (1) |L|16302 1| |N|Kitha and buy [Firebolt Rank 2] - (54.7, 41.5)| |C|Warlock| |Z|Durotar|
+t Train Firebolt (Imp) |N|Kitha and buy [Firebolt Rank 2] - (54.7, 41.5)| |C|Warlock| |Z|Durotar|
 N Thotar inside |N|(51.9, 43.5)| |C|Hunter| |Z|Durotar|
 t Train your class spells |N|Go inside the bunker - (51.9, 43.5)| |C|Hunter| |Z|Durotar|
 t Train your class spells |N|Kaplak - (52.0, 43.7)| |C|Rogue| |Z|Durotar|
@@ -159,7 +159,7 @@ T Garments of Spirituality |QID|5648| |N|Tai'jin - (54.3, 42.9)| |C|Priest| |Z|D
 t Train your class spells |N|Tai'jin - (54.3, 42.9)| |C|Priest| |Z|Durotar|
 t Train [First Aid] |N|Rawrk - (54.2, 41.9)| |C|Rogue/Warrior| |Z|Durotar|
 N Buy a [Small Brown Pouch] from him |N|(54.4, 42.2)| |Z|Durotar|
-C From The Wreckage.... |QID|825| |N|Jark Small Brown Pouch (1)| |Z|Durotar|
+B Small Brown Pouch (1) |L|4496 1| |N|Jark - (54.4, 42.2)| |Z|Durotar|
 N Kill Makrura Shellhides and Makrura Clackers. Loot them for their Eyes |O| |Z|Durotar|
 C A Solvent Spirit |QID|818| |N|Kill Pygmy Surf Crawlers and Surf Crawlers. Loot them for their Mucus Crawler Mucus (8)| |O| |Z|Durotar|
 C From The Wreckage.... |QID|825| |N|the Gnomish Toolboxes inside and around the boats Gnomish Tools (3)| |Z|Durotar|
@@ -203,8 +203,8 @@ T Encroachment |QID|837| |N|Torka and Gar'Thok - (51.1, 42.5)| |C|Hunter| |Z|Dur
 N Thotar inside |N|(51.9, 43.5)| |C|Hunter| |Z|Durotar|
 A Taming the Beast |QID|6062| |N|Go inside the bunker - (51.9, 43.5)| |C|Hunter| |Z|Durotar|
 t Train your class spells |N|Go inside the bunker - (51.9, 43.5)| |C|Hunter| |Z|Durotar|
-C |cRXP_BUY_Ghrawt. Buy [Sharp Arrows] and a [Medium Quiver] from him |QID|6082| |N||cRXP_BUY_Ghrawt. Buy [Sharp Arrows] and a [Medium Quiver] from him - (53.0, 41.0)| |C|Hunter| |Z|Durotar|
-C |cRXP_BUY_Ghrawt. Buy [Sharp Arrows] from him |QID|6082| |N||cRXP_BUY_Ghrawt. Buy [Sharp Arrows] from him - (53.0, 41.0)| |C|Hunter| |Z|Durotar|
+B Sharp Arrow (1200) |L|2515 1200| |N|Ghrawt. Buy [Sharp Arrows] and a [Medium Quiver] from him - (53.0, 41.0)| |C|Hunter| |Z|Durotar|
+B Sharp Arrow (1200) |L|2515 1200| |N|Ghrawt. Buy [Sharp Arrows] from him - (53.0, 41.0)| |C|Hunter| |Z|Durotar|
 C Taming the Beast |QID|6062| |N|Kill Dire Mottled Boar Tame a Dire Mottled Boar| |C|Hunter| |Z|Durotar|
 N Thotar inside |N|(51.9, 43.5)| |C|Hunter| |Z|Durotar|
 T Taming the Beast |QID|6062| |N|Go inside the bunker - (51.9, 43.5)| |C|Hunter| |Z|Durotar|
@@ -221,7 +221,7 @@ T Taming the Beast |QID|6082| |N|Go inside the bunker - (51.9, 43.5)| |C|Hunter|
 A Training the Beast |QID|6081| |N|Go inside the bunker - (51.9, 43.5)| |C|Hunter| |Z|Durotar|
 N Buy [Tough Jerky] from him. You will use this to feed your pet later |N|(51.1, 42.6)| |C|Hunter| |Z|Durotar|
 B Vendor Trash |N|Grimtak - (51.1, 42.6)| |C|Hunter| |Z|Durotar|
-C Grimtak |QID|828| |N|Grimtak - (51.1, 42.6)| |C|Hunter| |Z|Durotar|
+B Tough Jerky (5) |L|117 5| |N|Grimtak - (51.1, 42.6)| |C|Hunter| |Z|Durotar|
 A Lost But Not Forgotten |QID|816| |N|Misha - (43.1, 30.2)| |C|Hunter/Shaman/Warrior| |Z|Durotar|
 R Rezlak |N|(46.4, 22.9)| |O| |Z|Durotar|
 A Winds in the Desert |QID|834| |N|Rezlak - (46.4, 22.9)| |Z|Durotar|
@@ -232,7 +232,7 @@ R Jump into Thunder Ridge |N|(41.7, 25.7)| |O| |C|!Hunter/!Warlock| |Z|Durotar|
 R Dismiss your [Imp] by right clicking its unit frame and clicking dismiss |N|(41.7, 25.7)| |O| |C|Warlock| |Z|Durotar|
 N Be careful. Kill the patrolling Burning Blade Fanatic and the Lightning Hides in the back before you pull him |N|(42.1, 26.7)| |Z|Durotar|
 N Pull him backwards towards the Lightning Hides you just killed. Otherwise you may bodypull additional Burning Blade mobs |N|(42.1, 26.7)| |Z|Durotar|
-N |cRXP_WARN_Don't be afraid to die for the Claw as you will be respawning at the Spirit Healer after |N|(42.1, 26.7)| |Z|Durotar|
+N Don't be afraid to die for the Claw as you will be respawning at the Spirit Healer after |N|(42.1, 26.7)| |Z|Durotar|
 N Kill the imp first. Use [Gouge] when he casts [Soul Siphon] |N|(42.1, 26.7)| |C|Rogue| |Z|Durotar|
 N Kill the imp first. Use [Earth Shock] when he casts [Soul Siphon] |N|(42.1, 26.7)| |C|Shaman| |Z|Durotar|
 N You can cast [Polymorph] on Fizzle and kill the Imp first |N|(42.1, 26.7)| |C|Mage| |Z|Durotar|
@@ -258,14 +258,14 @@ A Hidden Enemies |QID|5726| |N|Thrall - (31.7, 37.8)| |C|Warrior/Shaman/Hunter| 
 R the Valley of Honor |N|(68.0, 38.7)| |O| |C|Hunter| |Z|Orgrimmar|
 T Training the Beast |QID|6081| |N|Ormak - (66.0, 18.5)| |C|Hunter| |Z|Orgrimmar|
 t Train your pet spells |N|Xao'tsu - (66.3, 14.8)| |C|Hunter| |Z|Orgrimmar|
-C Securing the Lines |QID|835| |N|Zendo'jian. Buy a [Laminated Recurve Bow] from him Collect Laminated Recurve Bow (1)| |C|Hunter| |Z|Orgrimmar|
+B Collect Laminated Recurve Bow (1) |L|2507 1| |N|Zendo'jian. Buy a [Laminated Recurve Bow] from him - (81.2, 18.7)| |C|Hunter| |Z|Orgrimmar|
 A Finding the Antidote |QID|813| |N|Kor'ghan in the Cleft of Shadow - (47.2, 53.6)| |C|Warrior/Shaman/Hunter| |Z|Orgrimmar|
 N Abandon Need for a Cure. This will remove the timer on the quest but you will still be able to do it |O| |C|Warrior/Shaman/Hunter| |Z|Orgrimmar|
 B Vendor Trash |N|Innkeeper Grosk - (51.5, 41.6)| |Z|Durotar|
 N Buy [Ice Cold Milk] from him |N|(51.5, 41.6)| |C|Mage/Warlock/Priest/Shaman| |Z|Durotar|
 N Buy [Haunch of Meat] from him |N|(51.5, 41.6)| |C|Rogue/Warrior| |Z|Durotar|
-C A Solvent Spirit |QID|818| |N|Innkeeper Grosk (51.5, 41.6)| |C|Mage/Warlock/Priest/Shaman| |Z|Durotar|
-C A Solvent Spirit |QID|818| |N|Innkeeper Grosk (51.5, 41.6)| |C|Rogue/Warrior| |Z|Durotar|
+B Innkeeper Grosk |L|1179 15| |N|Innkeeper Grosk - (51.5, 41.6)| |C|Mage/Warlock/Priest/Shaman| |Z|Durotar|
+B Innkeeper Grosk |L|2287 15| |N|Innkeeper Grosk - (51.5, 41.6)| |C|Rogue/Warrior| |Z|Durotar|
 T Dark Storms |QID|806| |N|Orgnil - (52.2, 43.1)| |C|Hunter| |Z|Durotar|
 A Margoz |QID|828| |N|Orgnil - (52.2, 43.1)| |C|Hunter| |Z|Durotar|
 T Break a Few Eggs |QID|815| |N|Torka, Orgnil and Gar'Thok - (51.1, 42.5)| |C|!Hunter| |Z|Durotar|
@@ -279,8 +279,8 @@ t Train your class spells |N|Swart - (54.4, 42.6)| |C|Shaman| |Z|Durotar|
 A Call of Fire |QID|2983| |N|Swart - (54.4, 42.6)| |C|Shaman| |Z|Durotar|
 t Train your class spells |N|Swart - (54.4, 42.6)| |C|Shaman| |Z|Durotar|
 t Train your class spells |N|Dhugru - (54.4, 41.2)| |C|Warlock| |Z|Durotar|
-C Encroachment |QID|837| |N|Kitha and buy [Firebolt Rank 2] Grimoire of Firebolt (Rank 2) (1)| |C|Warlock| |Z|Durotar|
-t Training (7799) |N|Kitha and buy [Firebolt Rank 2] - (54.7, 41.5)| |C|Warlock| |Z|Durotar|
+B Grimoire of Firebolt (Rank 2) (1) |L|16302 1| |N|Kitha and buy [Firebolt Rank 2] - (54.7, 41.5)| |C|Warlock| |Z|Durotar|
+t Train Firebolt (Imp) |N|Kitha and buy [Firebolt Rank 2] - (54.7, 41.5)| |C|Warlock| |Z|Durotar|
 A Hex of Weakness |QID|5654| |N|Tai'jin - (54.3, 42.9)| |C|Priest| |R|Troll| |Z|Durotar|
 A Touch of Weakness |QID|5660| |N|Tai'jin - (54.3, 42.9)| |C|Priest| |R|Undead| |Z|Durotar|
 t Train your class spells |N|Tai'jin - (54.3, 42.9)| |C|Priest| |Z|Durotar|

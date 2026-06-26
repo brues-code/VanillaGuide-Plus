@@ -7,11 +7,11 @@ N 6-11 Elwynn Forest |N|Converted from RestedXP guide|
 T Report to Goldshire |QID|54| |N|Marshall Dughan - (42.1, 65.9)| |Z|Elwynn Forest|
 A The Fargodeep Mine |QID|62| |N|Marshall Dughan - (42.1, 65.9)| |Z|Elwynn Forest|
 B Buy a [Gladius] from her if you can afford it |N|Corina Steele - (41.5, 65.9)| |C|Warrior| |Z|Elwynn Forest|
-C Corina Steele |N|Corina Steele - (41.5, 65.9)| |C|Warrior| |Z|Elwynn Forest|
+B Collect Gladius (1) |L|2488 1| |N|Corina Steele - (41.5, 65.9)| |C|Warrior| |Z|Elwynn Forest|
 B Buy a [Stiletto] from her if you can afford it |N|Corina Steele - (41.5, 65.9)| |C|Rogue| |Z|Elwynn Forest|
-C Corina Steele |N|Corina Steele - (41.5, 65.9)| |C|Rogue| |Z|Elwynn Forest|
+B Collect Stiletto (1) |L|2494 1| |N|Corina Steele - (41.5, 65.9)| |C|Rogue| |Z|Elwynn Forest|
 B Buy a [Wooden Mallet] from her if you can afford it |N|Corina Steele - (41.5, 65.9)| |C|Paladin| |Z|Elwynn Forest|
-C Corina Steele |N|Corina Steele - (41.5, 65.9)| |C|Paladin| |Z|Elwynn Forest|
+B Collect Wooden Mallet (1) |L|2493 1| |N|Corina Steele - (41.5, 65.9)| |C|Paladin| |Z|Elwynn Forest|
 B Vendor Trash |N|Andrew Krighton - (41.7, 65.8)| |O| |C|Mage/Priest/Warlock| |Z|Elwynn Forest|
 T Report to Goldshire |QID|54| |N|Marshall Dughan - (42.1, 65.9)| |Z|Elwynn Forest|
 A The Fargodeep Mine |QID|62| |N|Marshall Dughan - (42.1, 65.9)| |Z|Elwynn Forest|
@@ -19,11 +19,11 @@ A Kobold Candles |QID|60| |N|William Pestle - (43.3, 65.7)| |Z|Elwynn Forest|
 T Rest and Relaxation |QID|2158| |N|Innkeeper Farley - (43.8, 65.8)| |C|Rogue/Warrior| |Z|Elwynn Forest|
 T Rest and Relaxation |QID|2158| |N|Innkeeper Farley - (43.8, 65.8)| |C|!Rogue/!Warrior| |Z|Elwynn Forest|
 B Buy the [Balanced Throwing Daggers] from him if you can afford it |N|Brog Hamfist - (44.0, 65.9)| |C|Rogue| |Z|Elwynn Forest|
-C Brog Hamfist |N|Brog Hamfist - (44.0, 65.9)| |C|Rogue| |Z|Elwynn Forest|
+B Collect Balanced Throwing Dagger (200) |L|2946 200| |N|Brog Hamfist - (44.0, 65.9)| |C|Rogue| |Z|Elwynn Forest|
 R Travel downstairs |N|(44.1, 66.0)| |O| |C|Warlock| |Z|Elwynn Forest|
 t Train your class spells |N|Maximillian Crowe - (44.4, 66.2)| |C|Warlock| |Z|Elwynn Forest|
 B Buy the [Grimoire of Blood Pact (Rank 1)] from her if you can afford it. If not you can buy it later |N|Cylina Darkheart - (44.4, 66.0)| |C|Warlock| |Z|Elwynn Forest|
-t Training (20397) |N|Cylina Darkheart - (44.4, 66.0)| |C|Warlock| |Z|Elwynn Forest|
+t Blood Pact (Rank 1) |N|Cylina Darkheart - (44.4, 66.0)| |C|Warlock| |Z|Elwynn Forest|
 R Travel upstairs in the Inn |N|(43.9, 66.5)| |O| |C|Mage/Rogue/Priest| |Z|Elwynn Forest|
 t Train your class spells |N|Zaldimar Wefhellt - (43.2, 66.2)| |C|Mage| |Z|Elwynn Forest|
 T In Favor of the Light |QID|5623| |N|Priestess Josetta - (43.3, 65.7)| |C|Priest| |Z|Elwynn Forest|
@@ -33,30 +33,30 @@ t Train your class spells |N|(43.9, 65.9)| |C|Rogue| |Z|Elwynn Forest|
 t Train [First Aid] |N|Michelle Belle upstairs - (43.4, 65.5)| |C|Rogue/Warrior| |Z|Elwynn Forest|
 B Buy [Dalaran Sharp] from him until you're down to 1 Silver |N|Innkeeper Farley - (43.8, 65.8)| |C|Warrior| |Z|Elwynn Forest|
 B Buy up to 20 [Dalaran Sharp] from him |N|Innkeeper Farley - (43.8, 65.8)| |C|Rogue| |Z|Elwynn Forest|
-C Innkeeper Farley |N|Innkeeper Farley - (43.8, 65.8)| |C|Warrior/Rogue| |Z|Elwynn Forest|
+B Dalaran Sharp (20) |L|414 20| |N|Innkeeper Farley - (43.8, 65.8)| |C|Warrior/Rogue| |Z|Elwynn Forest|
 t Train your class spells |N|Lyria Du Lac - (41.1, 65.8)| |C|Warrior| |Z|Elwynn Forest|
 t Train your class spells |N|Brother Wilhelm - (41.1, 66.0)| |C|Paladin| |Z|Elwynn Forest|
 A Gold Dust Exchange |QID|47| |N|Remy "Two Times" - (42.1, 67.3)| |Z|Elwynn Forest|
 C Garments of the Light |QID|5624| |N|Cast [Lesser Heal (Rank 2)] and [Power Word: Fortitude] on Guard Roberts Heal and fortify Guard Roberts| |C|Priest| |Z|Elwynn Forest|
-C Chunk of Boar Meat (4) |QID|86| |N|(41.6, 69.5)| |Z|Elwynn Forest|
+C Chunk of Boar Meat (4) |QID|86| |L|769 4| |N|(41.6, 69.5)| |Z|Elwynn Forest|
 N This will be used to level your [Cooking] later |N|(41.6, 69.5)| |O| |Z|Elwynn Forest|
 N You need 10 [Cooking] for a quest in Auberdine later |N|(41.6, 69.5)| |O| |Z|Elwynn Forest|
-C Stonetusk Boars. Loot them for their [Chunks of Boar Meat] |QID|86| |N|Stonetusk Boars. Loot them for their [Chunks of Boar Meat] - (41.6, 69.5)| |O| |Z|Elwynn Forest|
+C x20,cooking --Chunk of Boar Meat (1-10) |QID|86| |L|769 10| |N|Stonetusk Boars. Loot them for their [Chunks of Boar Meat] (41.6, 69.5)| |O| |Z|Elwynn Forest|
 N This will be used to level your [Cooking] later |N|(41.6, 69.5)| |O| |Z|Elwynn Forest|
 N You need 50 [Cooking] for a quest in Darkshire later. |N|(41.6, 69.5)| |O| |Z|Elwynn Forest|
 N Don't go out of your way to farm this now. Simply kill and loot all the boars you're passing by |N|(41.6, 69.5)| |O| |Z|Elwynn Forest|
-C Stonetusk Boars. Loot them for their [Chunks of Boar Meat] |QID|86| |N|Stonetusk Boars. Loot them for their [Chunks of Boar Meat] - (41.6, 69.5)| |O| |Z|Elwynn Forest|
+C x20,cooking --Chunk of Boar Meat (10-50) |QID|86| |L|769 50| |N|Stonetusk Boars. Loot them for their [Chunks of Boar Meat] (41.6, 69.5)| |O| |Z|Elwynn Forest|
 A Lost Necklace |QID|85| |N|"Auntie" Bernice Stonefield and Ma Stonefield - (34.5, 84.3)| |Z|Elwynn Forest|
 A Princess Must Die! |QID|88| |N|"Auntie" Bernice Stonefield and Ma Stonefield - (34.5, 84.3)| |Z|Elwynn Forest|
 N Kill Kobold Tunnelers and Kobold Miners. Open Battered Chests. Loot them for their [Rough Stones] and [Linen Cloth] |O| |C|Paladin| |Z|Elwynn Forest|
-C Kill Kobold Tunnelers and Kobold Miners. Open Battered Chests. Loot them for their [Rough Stones] |N|Kill Kobold Tunnelers and Kobold Miners. Open Battered Chests. Loot them for their [Rough Stones]| |O| |C|Warrior/Paladin/Rogue| |Z|Elwynn Forest|
-C Kill Kobold Tunnelers and Kobold Miners. Open Battered Chests. Loot them for their [Rough Stones] |N|Kill Kobold Tunnelers and Kobold Miners. Open Battered Chests. Loot them for their [Rough Stones]| |O| |C|Paladin| |Z|Elwynn Forest|
-t Training (2018) |N|Kill Kobold Tunnelers and Kobold Miners. Open Battered Chests. Loot them for their [Rough Stones]| |O| |C|Warrior/Paladin/Rogue| |Z|Elwynn Forest|
-C Collect item |O| |C|Rogue/Warrior| |Z|Elwynn Forest|
-C Collect item |O| |C|Paladin| |Z|Elwynn Forest|
-C Collect item |O| |C|Warrior/Paladin/Rogue| |Z|Elwynn Forest|
-C Collect item |O| |C|Paladin| |Z|Elwynn Forest|
-t Training (2018) |O| |C|Warrior/Paladin/Rogue| |Z|Elwynn Forest|
+C Rough Stone (1+) |L|2835 1| |N|Kill Kobold Tunnelers and Kobold Miners. Open Battered Chests. Loot them for their [Rough Stones]| |O| |C|Warrior/Paladin/Rogue| |Z|Elwynn Forest|
+C Kobold Tunnelers and Kobold Miners. Open Battered Chests. Loot them for their [Rough Stones] |L|2589 1| |N|Kill Kobold Tunnelers and Kobold Miners. Open Battered Chests. Loot them for their [Rough Stones]| |O| |C|Paladin| |Z|Elwynn Forest|
+t Blacksmithing Trained |N|Kill Kobold Tunnelers and Kobold Miners. Open Battered Chests. Loot them for their [Rough Stones]| |O| |C|Warrior/Paladin/Rogue| |Z|Elwynn Forest|
+C [Blacksmith] the [Rough Stones] into [Rough Sharpening Stones] |L|2862 5| |O| |C|Rogue/Warrior| |Z|Elwynn Forest|
+C [Blacksmith] the [Rough Stones] into [Rough Sharpening Stones] |L|3239 5| |O| |C|Paladin| |Z|Elwynn Forest|
+C Rough Stone (5) |L|2835 5| |N|[Blacksmith] the [Rough Stones] into [Rough Sharpening Stones]| |O| |C|Warrior/Paladin/Rogue| |Z|Elwynn Forest|
+C [Blacksmith] the [Rough Stones] into [Rough Sharpening Stones] |L|2589 1| |O| |C|Paladin| |Z|Elwynn Forest|
+t Train Blacksmithing |O| |C|Warrior/Paladin/Rogue| |Z|Elwynn Forest|
 C Kobold Candles |QID|60| |N|Kobold Tunnelers and Kobold Miners. Loot them for their Kobold Candles and Gold Dust Kobold Candle (8)| |O| |Z|Elwynn Forest|
 C Gold Dust Exchange |QID|47| |N|Kobold Tunnelers and Kobold Miners. Loot them for their Kobold Candles and Gold Dust Gold Dust (10)| |O| |Z|Elwynn Forest|
 T Lost Necklace |QID|85| |N|Billy Maclure - (43.1, 85.7)| |Z|Elwynn Forest|
@@ -65,14 +65,14 @@ A Young Lovers |QID|106| |N|Maybell Maclure - (43.2, 89.6)| |Z|Elwynn Forest|
 B Buy as much [Ice Cold Milk] as you can afford |N|Joshua Maclure - (42.4, 89.4)| |O| |C|Priest/Warlock/Mage| |Z|Elwynn Forest|
 B Vendor trash |N|Joshua Maclure - (42.4, 89.4)| |O| |C|!Priest/!Warlock/!Mage| |Z|Elwynn Forest|
 N Kill Kobold Tunnelers and Kobold Miners. Open Battered Chests. Loot them for their [Rough Stones] and [Linen Cloth] |O| |C|Paladin| |Z|Elwynn Forest|
-C Kill Kobold Tunnelers and Kobold Miners. Open Battered Chests. Loot them for their [Rough Stones] |N|Kill Kobold Tunnelers and Kobold Miners. Open Battered Chests. Loot them for their [Rough Stones]| |O| |C|Warrior/Paladin/Rogue| |Z|Elwynn Forest|
-C Kill Kobold Tunnelers and Kobold Miners. Open Battered Chests. Loot them for their [Rough Stones] |N|Kill Kobold Tunnelers and Kobold Miners. Open Battered Chests. Loot them for their [Rough Stones]| |O| |C|Paladin| |Z|Elwynn Forest|
-t Training (2018) |N|Kill Kobold Tunnelers and Kobold Miners. Open Battered Chests. Loot them for their [Rough Stones]| |O| |C|Warrior/Paladin/Rogue| |Z|Elwynn Forest|
-C Collect item |O| |C|Rogue/Warrior| |Z|Elwynn Forest|
-C Collect item |O| |C|Paladin| |Z|Elwynn Forest|
-C Collect item |O| |C|Warrior/Paladin/Rogue| |Z|Elwynn Forest|
-C Collect item |O| |C|Paladin| |Z|Elwynn Forest|
-t Training (2018) |O| |C|Warrior/Paladin/Rogue| |Z|Elwynn Forest|
+C Rough Stone (1+) |L|2835 1| |N|Kill Kobold Tunnelers and Kobold Miners. Open Battered Chests. Loot them for their [Rough Stones]| |O| |C|Warrior/Paladin/Rogue| |Z|Elwynn Forest|
+C Kobold Tunnelers and Kobold Miners. Open Battered Chests. Loot them for their [Rough Stones] |L|2589 1| |N|Kill Kobold Tunnelers and Kobold Miners. Open Battered Chests. Loot them for their [Rough Stones]| |O| |C|Paladin| |Z|Elwynn Forest|
+t Blacksmithing Trained |N|Kill Kobold Tunnelers and Kobold Miners. Open Battered Chests. Loot them for their [Rough Stones]| |O| |C|Warrior/Paladin/Rogue| |Z|Elwynn Forest|
+C [Blacksmith] the [Rough Stones] into [Rough Sharpening Stones] |L|2862 5| |O| |C|Rogue/Warrior| |Z|Elwynn Forest|
+C [Blacksmith] the [Rough Stones] into [Rough Sharpening Stones] |L|3239 5| |O| |C|Paladin| |Z|Elwynn Forest|
+C Rough Stone (5) |L|2835 5| |N|[Blacksmith] the [Rough Stones] into [Rough Sharpening Stones]| |O| |C|Warrior/Paladin/Rogue| |Z|Elwynn Forest|
+C [Blacksmith] the [Rough Stones] into [Rough Sharpening Stones] |L|2589 1| |O| |C|Paladin| |Z|Elwynn Forest|
+t Train Blacksmithing |O| |C|Warrior/Paladin/Rogue| |Z|Elwynn Forest|
 C Kobold Candles |QID|60| |N|Kobold Tunnelers and Kobold Miners. Loot them for their Kobold Candles and Gold Dust Kobold Candle (8)| |O| |Z|Elwynn Forest|
 C Gold Dust Exchange |QID|47| |N|Kobold Tunnelers and Kobold Miners. Loot them for their Kobold Candles and Gold Dust Gold Dust (10)| |O| |Z|Elwynn Forest|
 T Young Lovers |QID|106| |N|Tommy Joe Stonefield - (29.8, 86.0)| |Z|Elwynn Forest|
@@ -82,25 +82,25 @@ A Back to Billy |QID|84| |N|"Auntie" Bernice Stonefield - (34.5, 84.3)| |Z|Elwyn
 T Gramma |QID|111| |N|Gramma Stonefield inside - (34.9, 83.9)| |Z|Elwynn Forest|
 A Note to William |QID|107| |N|Gramma Stonefield inside - (34.9, 83.9)| |Z|Elwynn Forest|
 N Kill Kobold Tunnelers and Kobold Miners. Open Battered Chests. Loot them for their [Rough Stones] and [Linen Cloth] |O| |C|Paladin| |Z|Elwynn Forest|
-C Kill Kobold Tunnelers and Kobold Miners. Open Battered Chests. Loot them for their [Rough Stones] |N|Kill Kobold Tunnelers and Kobold Miners. Open Battered Chests. Loot them for their [Rough Stones]| |O| |C|Warrior/Paladin/Rogue| |Z|Elwynn Forest|
-C Kill Kobold Tunnelers and Kobold Miners. Open Battered Chests. Loot them for their [Rough Stones] |N|Kill Kobold Tunnelers and Kobold Miners. Open Battered Chests. Loot them for their [Rough Stones]| |O| |C|Paladin| |Z|Elwynn Forest|
-t Training (2018) |N|Kill Kobold Tunnelers and Kobold Miners. Open Battered Chests. Loot them for their [Rough Stones]| |O| |C|Warrior/Paladin/Rogue| |Z|Elwynn Forest|
-C Collect item |O| |C|Rogue/Warrior| |Z|Elwynn Forest|
-C Collect item |O| |C|Paladin| |Z|Elwynn Forest|
-C Collect item |O| |C|Warrior/Paladin/Rogue| |Z|Elwynn Forest|
-C Collect item |O| |C|Paladin| |Z|Elwynn Forest|
-t Training (2018) |O| |C|Warrior/Paladin/Rogue| |Z|Elwynn Forest|
+C Rough Stone (1+) |L|2835 1| |N|Kill Kobold Tunnelers and Kobold Miners. Open Battered Chests. Loot them for their [Rough Stones]| |O| |C|Warrior/Paladin/Rogue| |Z|Elwynn Forest|
+C Kobold Tunnelers and Kobold Miners. Open Battered Chests. Loot them for their [Rough Stones] |L|2589 1| |N|Kill Kobold Tunnelers and Kobold Miners. Open Battered Chests. Loot them for their [Rough Stones]| |O| |C|Paladin| |Z|Elwynn Forest|
+t Blacksmithing Trained |N|Kill Kobold Tunnelers and Kobold Miners. Open Battered Chests. Loot them for their [Rough Stones]| |O| |C|Warrior/Paladin/Rogue| |Z|Elwynn Forest|
+C [Blacksmith] the [Rough Stones] into [Rough Sharpening Stones] |L|2862 5| |O| |C|Rogue/Warrior| |Z|Elwynn Forest|
+C [Blacksmith] the [Rough Stones] into [Rough Sharpening Stones] |L|3239 5| |O| |C|Paladin| |Z|Elwynn Forest|
+C Rough Stone (5) |L|2835 5| |N|[Blacksmith] the [Rough Stones] into [Rough Sharpening Stones]| |O| |C|Warrior/Paladin/Rogue| |Z|Elwynn Forest|
+C [Blacksmith] the [Rough Stones] into [Rough Sharpening Stones] |L|2589 1| |O| |C|Paladin| |Z|Elwynn Forest|
+t Train Blacksmithing |O| |C|Warrior/Paladin/Rogue| |Z|Elwynn Forest|
 C Kobold Candles |QID|60| |N|Kill Kobold Miner Kobold Candle (8)| |Z|Elwynn Forest|
 C Gold Dust Exchange |QID|47| |N|Kobold Candles Gold Dust (10)| |Z|Elwynn Forest|
 T Back to Billy |QID|84| |N|Billy Maclure - (43.1, 85.7)| |Z|Elwynn Forest|
 A Goldtooth |QID|87| |N|Billy Maclure - (43.1, 85.7)| |Z|Elwynn Forest|
 C The Fargodeep Mine |QID|62| |N|Enter one of the larger open spaces in Fargodeep Mine Scout Through the Fargodeep Mine| |Z|Elwynn Forest|
-N |cRXP_WARN_Be careful as he usually pulls with the Kobold Miner next to him |N|(41.7, 78.0)| |Z|Elwynn Forest|
+N Be careful as he usually pulls with the Kobold Miner next to him |N|(41.7, 78.0)| |Z|Elwynn Forest|
 C Goldtooth |QID|87| |N|Goldtooth. Loot him for Bernice's Necklace Bernice's Necklace (1)| |Z|Elwynn Forest|
 T Goldtooth |QID|87| |N|"Auntie" Bernice Stonefield - (34.5, 84.3)| |Z|Elwynn Forest|
-C Stonetusk Boars. Loot them for their [Chunks of Boar Meat] |QID|2178| |N|Stonetusk Boars. Loot them for their [Chunks of Boar Meat] - (41.6, 69.5)| |O| |Z|Elwynn Forest|
+C x20,cooking --Chunk of Boar Meat (1-10) |QID|2178| |L|769 10| |N|Stonetusk Boars. Loot them for their [Chunks of Boar Meat] (41.6, 69.5)| |O| |Z|Elwynn Forest|
 N Don't go out of your way to farm this now. Simply kill and loot all the boars you're passing by |N|(41.6, 69.5)| |O| |Z|Elwynn Forest|
-C Stonetusk Boars. Loot them for their [Chunks of Boar Meat] |QID|2178| |N|Stonetusk Boars. Loot them for their [Chunks of Boar Meat] - (41.6, 69.5)| |O| |Z|Elwynn Forest|
+C x20,cooking --Chunk of Boar Meat (10-50) |QID|2178| |L|769 50| |N|Stonetusk Boars. Loot them for their [Chunks of Boar Meat] (41.6, 69.5)| |O| |Z|Elwynn Forest|
 R Return to Goldshire |N|(42.1, 67.3)| |O| |Z|Elwynn Forest|
 N Do NOT vendor the [Bag of Marbles] reward. This is an incredibly valuable item all the way through to level 60 |N|(42.1, 67.3)| |Z|Elwynn Forest|
 T Gold Dust Exchange |QID|47| |N|Remy "Two Times" - (42.1, 67.3)| |Z|Elwynn Forest|
@@ -111,11 +111,11 @@ T A Fishy Peril |QID|40| |N|Marshal Dughan - (42.1, 65.9)| |Z|Elwynn Forest|
 A Further Concerns |QID|35| |N|Marshal Dughan - (42.1, 65.9)| |Z|Elwynn Forest|
 B Vendor Trash |N|Corina Steele - (41.5, 65.9)| |O| |Z|Elwynn Forest|
 B Buy a [Gladius] from her if you can afford it |N|Corina Steele - (41.5, 65.9)| |C|Warrior| |Z|Elwynn Forest|
-C Corina Steele |N|Corina Steele - (41.5, 65.9)| |C|Warrior| |Z|Elwynn Forest|
+B Collect Gladius (1) |L|2488 1| |N|Corina Steele - (41.5, 65.9)| |C|Warrior| |Z|Elwynn Forest|
 B Buy a [Stiletto] from her if you can afford it |N|Corina Steele - (41.5, 65.9)| |C|Rogue| |Z|Elwynn Forest|
-C Corina Steele |N|Corina Steele - (41.5, 65.9)| |C|Rogue| |Z|Elwynn Forest|
+B Collect Stiletto (1) |L|2494 1| |N|Corina Steele - (41.5, 65.9)| |C|Rogue| |Z|Elwynn Forest|
 B Buy a [Wooden Mallet] from her if you can afford it |N|Corina Steele - (41.5, 65.9)| |C|Paladin| |Z|Elwynn Forest|
-C Corina Steele |N|Corina Steele - (41.5, 65.9)| |C|Paladin| |Z|Elwynn Forest|
+B Collect Wooden Mallet (1) |L|2493 1| |N|Corina Steele - (41.5, 65.9)| |C|Paladin| |Z|Elwynn Forest|
 T Kobold Candles |QID|60| |N|William Pestle - (43.3, 65.7)| |Z|Elwynn Forest|
 A Shipment to Stormwind |QID|61| |N|William Pestle - (43.3, 65.7)| |Z|Elwynn Forest|
 T Note to William |QID|107| |N|William Pestle - (43.3, 65.7)| |Z|Elwynn Forest|
@@ -125,7 +125,7 @@ t Train your class spells |N|Brother Wilhelm - (41.1, 66.0)| |C|Paladin| |Z|Elwy
 R Travel downstairs in the Inn |N|(44.1, 66.0)| |O| |C|Warlock| |Z|Elwynn Forest|
 t Train your class spells |N|Maximillian Crowe - (44.4, 66.2)| |C|Warlock| |Z|Elwynn Forest|
 B Buy the [Grimoire of Firebolt (Rank 2)] from her if you can afford it. If not you can buy it later |N|Cylina Darkheart - (44.4, 66.0)| |C|Warlock| |Z|Elwynn Forest|
-t Training (20270) |N|Cylina Darkheart - (44.4, 66.0)| |C|Warlock| |Z|Elwynn Forest|
+t Blood Pact (Rank 1) |N|Cylina Darkheart - (44.4, 66.0)| |C|Warlock| |Z|Elwynn Forest|
 R Travel upstairs in the Inn |N|(43.9, 66.5)| |O| |C|Mage/Priest/Rogue/Warrior/Paladin| |Z|Elwynn Forest|
 t Train your class spells |N|Zaldimar Wefhellt - (43.2, 66.2)| |C|Mage| |Z|Elwynn Forest|
 T Garments of the Light |QID|5624| |N|Priestess Josetta - (43.3, 65.7)| |C|Priest| |Z|Elwynn Forest|
@@ -136,103 +136,103 @@ B Buy a [Small Brown Pouch] if needed |N|Brog Hamfist - (44.0, 65.9)| |Z|Elwynn 
 B Buy up to 20 [Ice Cold Milk] from him if you can afford it |N|Innkeeper Farley - (43.8, 65.8)| |O| |C|!Warrior/!Rogue/!Paladin| |Z|Elwynn Forest|
 B Buy up to 20 [Dalaran Sharp] from him if you can afford it |N|Innkeeper Farley - (43.8, 65.8)| |O| |C|Warrior/Rogue| |Z|Elwynn Forest|
 B Buy up to 10 [Dalaran Sharp] and 10 [Ice Cold Milk] from him if you can afford it |N|Innkeeper Farley - (43.8, 65.8)| |O| |C|Paladin| |Z|Elwynn Forest|
-C Mangy Wolves. Loot them for their [Stringy Wolf Meat] |QID|2178| |N|Mangy Wolves. Loot them for their [Stringy Wolf Meat] - (59.0, 60.7)| |O| |Z|Elwynn Forest|
+C x20,cooking --Stringy Wolf Meat (1-10) |QID|2178| |L|2672 10| |N|Mangy Wolves. Loot them for their [Stringy Wolf Meat] (59.0, 60.7)| |O| |Z|Elwynn Forest|
 N Don't go out of your way to farm this now. Simply kill and loot all the wolves you're passing by |N|(59.0, 60.7)| |O| |Z|Elwynn Forest|
-C Mangy Wolves. Loot them for their [Stringy Wolf Meat] |QID|2178| |N|Mangy Wolves. Loot them for their [Stringy Wolf Meat] - (59.0, 60.7)| |O| |Z|Elwynn Forest|
+C x20,cooking --Stringy Wolf Meat (10-50) |QID|2178| |L|2672 50| |N|Mangy Wolves. Loot them for their [Stringy Wolf Meat] (59.0, 60.7)| |O| |Z|Elwynn Forest|
 C Collecting Kelp |QID|112| |N|Murlocs and Murloc Streamrunners. Loot them for Crystal Kelp Fronds Collect Crystal Kelp Frond (x4)| |Z|Elwynn Forest|
 N Kill Kobold Miners. Open Battered Chests. Loot them for their [Rough Stones] and [Linen Cloth] |O| |C|Paladin| |Z|Elwynn Forest|
-C Kill Kobold Miners. Open Battered Chests. Loot them for their [Rough Stones] |N|Kill Kobold Miners. Open Battered Chests. Loot them for their [Rough Stones]| |O| |C|Warrior/Paladin/Rogue| |Z|Elwynn Forest|
-C Kill Kobold Miners. Open Battered Chests. Loot them for their [Rough Stones] |N|Kill Kobold Miners. Open Battered Chests. Loot them for their [Rough Stones]| |O| |C|Paladin| |Z|Elwynn Forest|
-t Training (2018) |N|Kill Kobold Miners. Open Battered Chests. Loot them for their [Rough Stones]| |O| |C|Warrior/Paladin/Rogue| |Z|Elwynn Forest|
-C Collect item |O| |C|Rogue/Warrior| |Z|Elwynn Forest|
-C Collect item |O| |C|Paladin| |Z|Elwynn Forest|
-C Collect item |O| |C|Warrior/Paladin/Rogue| |Z|Elwynn Forest|
-C Collect item |O| |C|Paladin| |Z|Elwynn Forest|
-t Training (2018) |O| |C|Warrior/Paladin/Rogue| |Z|Elwynn Forest|
+C Rough Stone (1+) |L|2835 1| |N|Kill Kobold Miners. Open Battered Chests. Loot them for their [Rough Stones]| |O| |C|Warrior/Paladin/Rogue| |Z|Elwynn Forest|
+C Kobold Miners. Open Battered Chests. Loot them for their [Rough Stones] |L|2589 1| |N|Kill Kobold Miners. Open Battered Chests. Loot them for their [Rough Stones]| |O| |C|Paladin| |Z|Elwynn Forest|
+t Blacksmithing Trained |N|Kill Kobold Miners. Open Battered Chests. Loot them for their [Rough Stones]| |O| |C|Warrior/Paladin/Rogue| |Z|Elwynn Forest|
+C [Blacksmith] the [Rough Stones] into [Rough Sharpening Stones] |L|2862 5| |O| |C|Rogue/Warrior| |Z|Elwynn Forest|
+C [Blacksmith] the [Rough Stones] into [Rough Sharpening Stones] |L|3239 5| |O| |C|Paladin| |Z|Elwynn Forest|
+C Rough Stone (5) |L|2835 5| |N|[Blacksmith] the [Rough Stones] into [Rough Sharpening Stones]| |O| |C|Warrior/Paladin/Rogue| |Z|Elwynn Forest|
+C [Blacksmith] the [Rough Stones] into [Rough Sharpening Stones] |L|2589 1| |O| |C|Paladin| |Z|Elwynn Forest|
+t Train Blacksmithing |O| |C|Warrior/Paladin/Rogue| |Z|Elwynn Forest|
 R Enter the Jasperlode Mine |N|(61.7, 53.6)| |O| |Z|Elwynn Forest|
 C The Jasperlode Mine |QID|76| |N|Follow the path through middle to explore Jasperlode Mine Scout through the Jasperlode Mine| |Z|Elwynn Forest|
 N Kill Kobold Miners. Open Battered Chests. Loot them for their [Rough Stones] and [Linen Cloth] |O| |C|Paladin| |Z|Elwynn Forest|
-C Kill Kobold Miners. Open Battered Chests. Loot them for their [Rough Stones] |N|Kill Kobold Miners. Open Battered Chests. Loot them for their [Rough Stones]| |O| |C|Warrior/Paladin/Rogue| |Z|Elwynn Forest|
-C Kill Kobold Miners. Open Battered Chests. Loot them for their [Rough Stones] |N|Kill Kobold Miners. Open Battered Chests. Loot them for their [Rough Stones]| |O| |C|Paladin| |Z|Elwynn Forest|
-t Training (2018) |N|Kill Kobold Miners. Open Battered Chests. Loot them for their [Rough Stones]| |O| |C|Warrior/Paladin/Rogue| |Z|Elwynn Forest|
-C Collect item |O| |C|Rogue/Warrior| |Z|Elwynn Forest|
-C Collect item |O| |C|Paladin| |Z|Elwynn Forest|
-C Collect item |O| |C|Warrior/Paladin/Rogue| |Z|Elwynn Forest|
-C Collect item |O| |C|Paladin| |Z|Elwynn Forest|
-t Training (2018) |O| |C|Warrior/Paladin/Rogue| |Z|Elwynn Forest|
+C Rough Stone (1+) |L|2835 1| |N|Kill Kobold Miners. Open Battered Chests. Loot them for their [Rough Stones]| |O| |C|Warrior/Paladin/Rogue| |Z|Elwynn Forest|
+C Kobold Miners. Open Battered Chests. Loot them for their [Rough Stones] |L|2589 1| |N|Kill Kobold Miners. Open Battered Chests. Loot them for their [Rough Stones]| |O| |C|Paladin| |Z|Elwynn Forest|
+t Blacksmithing Trained |N|Kill Kobold Miners. Open Battered Chests. Loot them for their [Rough Stones]| |O| |C|Warrior/Paladin/Rogue| |Z|Elwynn Forest|
+C [Blacksmith] the [Rough Stones] into [Rough Sharpening Stones] |L|2862 5| |O| |C|Rogue/Warrior| |Z|Elwynn Forest|
+C [Blacksmith] the [Rough Stones] into [Rough Sharpening Stones] |L|3239 5| |O| |C|Paladin| |Z|Elwynn Forest|
+C Rough Stone (5) |L|2835 5| |N|[Blacksmith] the [Rough Stones] into [Rough Sharpening Stones]| |O| |C|Warrior/Paladin/Rogue| |Z|Elwynn Forest|
+C [Blacksmith] the [Rough Stones] into [Rough Sharpening Stones] |L|2589 1| |O| |C|Paladin| |Z|Elwynn Forest|
+t Train Blacksmithing |O| |C|Warrior/Paladin/Rogue| |Z|Elwynn Forest|
 R Exit Jasperlode Mine |N|(61.8, 53.9)| |O| |Z|Elwynn Forest|
-C Gray Forest Wolves. Loot them for their [Stringy Wolf Meat] |QID|2178| |N|Gray Forest Wolves. Loot them for their [Stringy Wolf Meat] - (63.7, 64.7)| |O| |Z|Elwynn Forest|
+C x20,cooking --Stringy Wolf Meat (1-10) |QID|2178| |L|2672 10| |N|Gray Forest Wolves. Loot them for their [Stringy Wolf Meat] (63.7, 64.7)| |O| |Z|Elwynn Forest|
 N Don't go out of your way to farm this now. Simply kill and loot all the wolves you're passing by |N|(63.7, 64.7)| |O| |Z|Elwynn Forest|
-C Gray Forest Wolves. Loot them for their [Stringy Wolf Meat] |QID|2178| |N|Gray Forest Wolves. Loot them for their [Stringy Wolf Meat] - (63.7, 64.7)| |O| |Z|Elwynn Forest|
+C x20,cooking --Stringy Wolf Meat (10-50) |QID|2178| |L|2672 50| |N|Gray Forest Wolves. Loot them for their [Stringy Wolf Meat] (63.7, 64.7)| |O| |Z|Elwynn Forest|
 N Make sure to deal 51%+ damage to get credit |O| |Z|Elwynn Forest|
 T Further Concerns |QID|35| |N|Guard Thomas - (74.0, 72.2)| |Z|Elwynn Forest|
 A Find the Lost Guards |QID|37| |N|Guard Thomas - (74.0, 72.2)| |Z|Elwynn Forest|
 A Protect the Frontier |QID|52| |N|Guard Thomas - (74.0, 72.2)| |Z|Elwynn Forest|
-N |cRXP_WARN_Prioritize killing any Young Forest Bears you see |O| |Z|Elwynn Forest|
+N Prioritize killing any Young Forest Bears you see |O| |Z|Elwynn Forest|
 C Protect the Frontier |QID|52| |N|Kill Prowlers and Young Forest Bears Kill Prowler (x8)| |O| |Z|Elwynn Forest|
-C Gray Forest Wolves and Prowlers. Loot them for their [Stringy Wolf Meat] |QID|2178| |N|Gray Forest Wolves and Prowlers. Loot them for their [Stringy Wolf Meat] - (71.6, 61.3)| |O| |Z|Elwynn Forest|
+C x20,cooking --Stringy Wolf Meat (1-10) |QID|2178| |L|2672 10| |N|Gray Forest Wolves and Prowlers. Loot them for their [Stringy Wolf Meat] (71.6, 61.3)| |O| |Z|Elwynn Forest|
 N Don't go out of your way to farm this now. Simply kill and loot all the wolves you're passing by |N|(71.6, 61.3)| |O| |Z|Elwynn Forest|
-C Gray Forest Wolves and Prowlers. Loot them for their [Stringy Wolf Meat] |QID|2178| |N|Gray Forest Wolves and Prowlers. Loot them for their [Stringy Wolf Meat] - (71.6, 61.3)| |O| |Z|Elwynn Forest|
+C x20,cooking --Stringy Wolf Meat (10-50) |QID|2178| |L|2672 50| |N|Gray Forest Wolves and Prowlers. Loot them for their [Stringy Wolf Meat] (71.6, 61.3)| |O| |Z|Elwynn Forest|
 T Find the Lost Guards |QID|37| |N|A half-eaten body on the ground - (72.7, 60.3)| |Z|Elwynn Forest|
 A Discover Rolf's Fate |QID|45| |N|A half-eaten body on the ground - (72.7, 60.3)| |Z|Elwynn Forest|
-C Prowlers. Loot them for their [Stringy Wolf Meat] |QID|2178| |N|Prowlers. Loot them for their [Stringy Wolf Meat] - (71.6, 61.3)| |O| |Z|Elwynn Forest|
+C x20,cooking --Stringy Wolf Meat (1-10) |QID|2178| |L|2672 10| |N|Prowlers. Loot them for their [Stringy Wolf Meat] (71.6, 61.3)| |O| |Z|Elwynn Forest|
 N Don't go out of your way to farm this now. Simply kill and loot all the wolves you're passing by |N|(71.6, 61.3)| |O| |Z|Elwynn Forest|
-C Prowlers. Loot them for their [Stringy Wolf Meat] |QID|2178| |N|Prowlers. Loot them for their [Stringy Wolf Meat] - (71.6, 61.3)| |O| |Z|Elwynn Forest|
+C x20,cooking --Stringy Wolf Meat (10-50) |QID|2178| |L|2672 50| |N|Prowlers. Loot them for their [Stringy Wolf Meat] (71.6, 61.3)| |O| |Z|Elwynn Forest|
 A A Bundle of Trouble |QID|5545| |N|Supervisor Raelen - (81.4, 66.1)| |Z|Elwynn Forest|
 B Vendor trash |N|Rallic Finn - (83.3, 66.1)| |O| |Z|Elwynn Forest|
 N Don't go out of your way to farm this now. Simply kill and loot all the wolves you're passing by |N|(71.6, 61.3)| |O| |Z|Elwynn Forest|
-C Prowlers. Loot them for their [Stringy Wolf Meat] |QID|2178| |N|Prowlers. Loot them for their [Stringy Wolf Meat] - (71.6, 61.3)| |O| |Z|Elwynn Forest|
+C x20,cooking --Stringy Wolf Meat (1-10) |QID|2178| |L|2672 10| |N|Prowlers. Loot them for their [Stringy Wolf Meat] (71.6, 61.3)| |O| |Z|Elwynn Forest|
 N Don't go out of your way to farm this now. Simply kill and loot all the wolves you're passing by |N|(71.6, 61.3)| |O| |Z|Elwynn Forest|
-C Prowlers. Loot them for their [Stringy Wolf Meat] |QID|2178| |N|Prowlers. Loot them for their [Stringy Wolf Meat] - (71.6, 61.3)| |O| |Z|Elwynn Forest|
-N |cRXP_WARN_Prioritize killing any Young Forest Bears you see |O| |Z|Elwynn Forest|
+C x20,cooking --Stringy Wolf Meat (10-50) |QID|2178| |L|2672 50| |N|Prowlers. Loot them for their [Stringy Wolf Meat] (71.6, 61.3)| |O| |Z|Elwynn Forest|
+N Prioritize killing any Young Forest Bears you see |O| |Z|Elwynn Forest|
 C Protect the Frontier |QID|52| |N|Kill Prowlers and Young Forest Bears Kill Prowler (x8)| |O| |Z|Elwynn Forest|
 C A Bundle of Trouble |QID|5545| |N|the Bundles of Wood on the ground at the base of the trees Bundle of Wood (8)| |O| |Z|Elwynn Forest|
-N |cRXP_WARN_Run away and reset the Murlocs after completing the quest |N|(79.8, 55.5)| |C|Paladin| |Z|Elwynn Forest|
-T Discover Rolf's Fate |QID|45| |N||cRXP_WARN_Run on top of Rolf's corpse, then cast [Divine Protection] and then immediately click Rolf's corpse - (79.8, 55.5)| |C|Paladin| |Z|Elwynn Forest|
-A Report to Thomas |QID|71| |N||cRXP_WARN_Run on top of Rolf's corpse, then cast [Divine Protection] and then immediately click Rolf's corpse - (79.8, 55.5)| |C|Paladin| |Z|Elwynn Forest|
-N |cRXP_WARN_Be careful as Murloc Foragers will cast [Drink Minor Potion] which heals themselves for 61-68 health |N|(79.8, 55.5)| |C|Paladin| |Z|Elwynn Forest|
+N Run away and reset the Murlocs after completing the quest |N|(79.8, 55.5)| |C|Paladin| |Z|Elwynn Forest|
+T Discover Rolf's Fate |QID|45| |N|Run on top of Rolf's corpse, then cast [Divine Protection] and then immediately click Rolf's corpse - (79.8, 55.5)| |C|Paladin| |Z|Elwynn Forest|
+A Report to Thomas |QID|71| |N|Run on top of Rolf's corpse, then cast [Divine Protection] and then immediately click Rolf's corpse - (79.8, 55.5)| |C|Paladin| |Z|Elwynn Forest|
+N Be careful as Murloc Foragers will cast [Drink Minor Potion] which heals themselves for 61-68 health |N|(79.8, 55.5)| |C|Paladin| |Z|Elwynn Forest|
 N Pull the 2 Murlocs in front of the huts, move away and nuke one of them down fast. Use [Divine Protection] and your Heals as required. This is a good opportunity to use [Bag of Marbles]. Run away and reset once you've killed one |N|(79.8, 55.5)| |C|Paladin| |Z|Elwynn Forest|
 N Remember during [Divine Protection] you are unable to attack |N|(79.8, 55.5)| |C|Paladin| |Z|Elwynn Forest|
 T Discover Rolf's Fate |QID|45| |N|Rolf's corpse on the ground - (79.8, 55.5)| |C|Paladin| |Z|Elwynn Forest|
 A Report to Thomas |QID|71| |N|Rolf's corpse on the ground - (79.8, 55.5)| |C|Paladin| |Z|Elwynn Forest|
-N |cRXP_WARN_Be careful as Murloc Foragers will cast [Drink Minor Potion] which heals themselves for 61-68 health |N|(79.8, 55.5)| |C|!Paladin| |Z|Elwynn Forest|
-N Cast [Renew] and [Power Word: Shield] |cRXP_WARN_then get full mana. Pull the 2 Murlocs in front of the huts, move away, then nuke one. Run away when you kill one, then kill the other |N|(79.8, 55.5)| |C|Priest| |Z|Elwynn Forest|
+N Be careful as Murloc Foragers will cast [Drink Minor Potion] which heals themselves for 61-68 health |N|(79.8, 55.5)| |C|!Paladin| |Z|Elwynn Forest|
+N Cast [Renew] and [Power Word: Shield] then get full mana. Pull the 2 Murlocs in front of the huts, move away, then nuke one. Run away when you kill one, then kill the other |N|(79.8, 55.5)| |C|Priest| |Z|Elwynn Forest|
 N Pull the 2 Murlocs in front of the huts, move away and [Polymorph] one whilst killing the other. Kill the [Polymorphed] one after |N|(79.8, 55.5)| |C|Mage| |Z|Elwynn Forest|
 N Pool 100 Rage. Pull the 2 Murlocs in front of the huts, move away and keep [Hamstring] on one whilst killing the other. Also use [Bag of Marbles] on the one you're killing. Run away and reset the one being kited with [Hamstring] after you've killed one |N|(79.8, 55.5)| |C|Warrior| |Z|Elwynn Forest|
 N Pull the 2 Murlocs in front of the huts, move away and focus killing one of them. Use [Evasion] once they're both attacking you. This is a good opportunity to use [Bag of Marbles]. Run away and reset once you've killed one |N|(79.8, 55.5)| |C|Rogue| |Z|Elwynn Forest|
 N Pull the 2 Murlocs in front of the huts, move away and cast [Fear] on one of them constantly, and try to keep DoTs on both |N|(79.8, 55.5)| |C|Warlock| |Z|Elwynn Forest|
 T Discover Rolf's Fate |QID|45| |N|Rolf's corpse on the ground - (79.8, 55.5)| |C|!Paladin| |Z|Elwynn Forest|
 A Report to Thomas |QID|71| |N|Rolf's corpse on the ground - (79.8, 55.5)| |C|!Paladin| |Z|Elwynn Forest|
-C Prowlers. Loot them for their [Stringy Wolf Meat] |QID|2178| |N|Prowlers. Loot them for their [Stringy Wolf Meat] - (71.6, 61.3)| |O| |Z|Elwynn Forest|
+C x20,cooking --Stringy Wolf Meat (1-10) |QID|2178| |L|2672 10| |N|Prowlers. Loot them for their [Stringy Wolf Meat] (71.6, 61.3)| |O| |Z|Elwynn Forest|
 N Don't go out of your way to farm this now. Simply kill and loot all the wolves you're passing by |N|(71.6, 61.3)| |O| |Z|Elwynn Forest|
-C Prowlers. Loot them for their [Stringy Wolf Meat] |QID|2178| |N|Prowlers. Loot them for their [Stringy Wolf Meat] - (71.6, 61.3)| |O| |Z|Elwynn Forest|
-N |cRXP_WARN_Prioritize killing any Young Forest Bears you see |O| |Z|Elwynn Forest|
+C x20,cooking --Stringy Wolf Meat (10-50) |QID|2178| |L|2672 50| |N|Prowlers. Loot them for their [Stringy Wolf Meat] (71.6, 61.3)| |O| |Z|Elwynn Forest|
+N Prioritize killing any Young Forest Bears you see |O| |Z|Elwynn Forest|
 C Protect the Frontier |QID|52| |N|Kill Prowlers and Young Forest Bears Kill Prowler (x8)| |O| |Z|Elwynn Forest|
 C A Bundle of Trouble |QID|5545| |N|the Bundles of Wood on the ground at the base of the trees Bundle of Wood (8)| |Z|Elwynn Forest|
 T A Bundle of Trouble |QID|5545| |N|Supervisor Raelen - (81.4, 66.1)| |Z|Elwynn Forest|
 A Red Linen Goods |QID|83| |N|Sara Timberlain - (79.5, 68.8)| |Z|Elwynn Forest|
-C Prowlers. Loot them for their [Stringy Wolf Meat] |QID|2178| |N|Prowlers. Loot them for their [Stringy Wolf Meat] - (71.6, 61.3)| |O| |Z|Elwynn Forest|
+C x20,cooking --Stringy Wolf Meat (1-10) |QID|2178| |L|2672 10| |N|Prowlers. Loot them for their [Stringy Wolf Meat] (71.6, 61.3)| |O| |Z|Elwynn Forest|
 N Don't go out of your way to farm this now. Simply kill and loot all the wolves you're passing by |N|(71.6, 61.3)| |O| |Z|Elwynn Forest|
-C Prowlers. Loot them for their [Stringy Wolf Meat] |QID|2178| |N|Prowlers. Loot them for their [Stringy Wolf Meat] - (71.6, 61.3)| |O| |Z|Elwynn Forest|
+C x20,cooking --Stringy Wolf Meat (10-50) |QID|2178| |L|2672 50| |N|Prowlers. Loot them for their [Stringy Wolf Meat] (71.6, 61.3)| |O| |Z|Elwynn Forest|
 C Protect the Frontier |QID|52| |N|Prowlers and Young Forest Bears Kill Prowler (x8)| |Z|Elwynn Forest|
 T Protect the Frontier |QID|52| |N|Guard Thomas - (74.0, 72.2)| |Z|Elwynn Forest|
 T Report to Thomas |QID|71| |N|Guard Thomas - (74.0, 72.2)| |Z|Elwynn Forest|
 A Deliver Thomas' Report |QID|39| |N|Guard Thomas - (74.0, 72.2)| |Z|Elwynn Forest|
 N The [Westfall Deed] is a very rare drop. Ignore this step if you don't get it |O| |Z|Elwynn Forest|
-C Furlbrow's Deed |QID|184| |N|Kill Defias Bandits. Loot them for the [Westfall Deed]| |O| |Z|Elwynn Forest|
+C Collect Westfall Deed (x1) |QID|184| |L|1972 1| |N|Kill Defias Bandits. Loot them for the [Westfall Deed]| |O| |Z|Elwynn Forest|
 A Furlbrow's Deed |QID|184| |N|Kill Defias Bandits. Loot them for the [Westfall Deed]| |O| |Z|Elwynn Forest|
 C Red Linen Goods |QID|83| |N|Kill Defias Bandits. Loot them for their Red Linen Bandanas Collect Red Linen Bandana (x6)| |O| |Z|Elwynn Forest|
 N Princess will agro with both of her Porcine Entourage |N|(69.3, 79.0)| |Z|Elwynn Forest|
 N Princess will also cast [Rushing Charge] which deals heavy damage |N|(69.3, 79.0)| |Z|Elwynn Forest|
 N Pool 100 Rage before you engage Princess |N|(69.3, 79.0)| |C|Warrior| |Z|Elwynn Forest|
-N |cRXP_WARN_Be sure [Evasion] is ready. If you're struggling, you can use the Fence with Throwing Weapons to abuse pathing and buy time |N|(69.3, 79.0)| |C|Rogue| |Z|Elwynn Forest|
+N Be sure [Evasion] is ready. If you're struggling, you can use the Fence with Throwing Weapons to abuse pathing and buy time |N|(69.3, 79.0)| |C|Rogue| |Z|Elwynn Forest|
 N Be ready to use a [Lesser Healing Potion] |N|(69.3, 79.0)| |Z|Elwynn Forest|
 C Princess Must Die! |QID|88| |N|Princess. Loot her for her Collar Collect Brass Collar (x1)| |Z|Elwynn Forest|
 C Red Linen Goods |QID|83| |N|Kill Defias Bandits. Loot them for their Red Linen Bandanas Collect Red Linen Bandana (x6)| |O| |Z|Elwynn Forest|
 T Red Linen Goods |QID|83| |N|Sara Timberlain - (79.5, 68.8)| |O| |Z|Elwynn Forest|
-C Prowlers. Loot them for their [Stringy Wolf Meat] |QID|2178| |N|Prowlers. Loot them for their [Stringy Wolf Meat] - (87.2, 75.9)| |O| |C|!Warlock| |Z|Elwynn Forest|
+C x20,cooking --Stringy Wolf Meat (1-10) |QID|2178| |L|2672 10| |N|Prowlers. Loot them for their [Stringy Wolf Meat] (87.2, 75.9)| |O| |C|!Warlock| |Z|Elwynn Forest|
 N Don't go out of your way to farm this now. Simply kill and loot all the wolves you're passing by |N|(87.2, 75.9)| |O| |C|!Warlock| |Z|Elwynn Forest|
-C Prowlers. Loot them for their [Stringy Wolf Meat] |QID|2178| |N|Prowlers. Loot them for their [Stringy Wolf Meat] - (87.2, 75.9)| |O| |C|!Warlock| |Z|Elwynn Forest|
+C x20,cooking --Stringy Wolf Meat (10-50) |QID|2178| |L|2672 50| |N|Prowlers. Loot them for their [Stringy Wolf Meat] (87.2, 75.9)| |O| |C|!Warlock| |Z|Elwynn Forest|
 R Travel to Redridge Mountains |N|(17.4, 69.6)| |C|!Warlock| |Z|Redridge Mountains|
 A Encroaching Gnolls |QID|244| |N|Guard Parker - (17.4, 69.6)| |O| |C|!Warlock| |Z|Redridge Mountains|
 R BE CAREFUL: Stick to the main road and avoid any close mobs en-route |N|(30.6, 59.4)| |O| |C|!Warlock| |Z|Redridge Mountains|
@@ -266,9 +266,9 @@ R Go Upstairs |N|(43.7, 66.4)| |O| |C|Mage/Priest| |Z|Elwynn Forest|
 A Desperate Prayer |QID|5635| |N|Priestess Josetta - (43.3, 65.7)| |O| |C|Priest| |Z|Elwynn Forest|
 t Train your class spells |N|Priestess Josetta - (43.3, 65.7)| |O| |C|Priest| |Z|Elwynn Forest|
 t Train your class spells |N|Zaldimar Wefhellt - (43.2, 66.2)| |O| |C|Mage| |Z|Elwynn Forest|
-C Stonetusk Boars. Loot them for their [Chunks of Boar Meat] |QID|2178| |N|Stonetusk Boars. Loot them for their [Chunks of Boar Meat] - (41.6, 69.5)| |O| |Z|Elwynn Forest|
+C x20,cooking --Chunk of Boar Meat (1-10) |QID|2178| |L|769 10| |N|Stonetusk Boars. Loot them for their [Chunks of Boar Meat] (41.6, 69.5)| |O| |Z|Elwynn Forest|
 N Don't go out of your way to farm this now. Simply kill and loot all the boars you're passing by |N|(41.6, 69.5)| |O| |Z|Elwynn Forest|
-C Stonetusk Boars. Loot them for their [Chunks of Boar Meat] |QID|2178| |N|Stonetusk Boars. Loot them for their [Chunks of Boar Meat] - (41.6, 69.5)| |O| |Z|Elwynn Forest|
+C x20,cooking --Chunk of Boar Meat (10-50) |QID|2178| |L|769 50| |N|Stonetusk Boars. Loot them for their [Chunks of Boar Meat] (41.6, 69.5)| |O| |Z|Elwynn Forest|
 R The Maclure Vineyards |N|(43.2, 89.6)| |O| |Z|Elwynn Forest|
 T The Escape |QID|114| |N|Maybell Maclure - (43.2, 89.6)| |Z|Elwynn Forest|
 T Princess Must Die! |QID|88| |N|Ma Stonefield - (34.7, 84.5)| |C|Rogue/Hunter| |Z|Elwynn Forest|
@@ -281,11 +281,11 @@ N Click the Wanted Poster |N|(24.2, 74.5)| |C|Warlock| |Z|Elwynn Forest|
 A Wanted: "Hogger" |QID|176| |N|Deputy Rainer - (24.2, 74.5)| |C|Warlock| |Z|Elwynn Forest|
 N The [Gold Pickup Schedule] is a very rare drop. Ignore this step if you don't get it |O| |C|Warlock| |Z|Elwynn Forest|
 N Gruff Swiftbite a rare spawn, does have a 100% drop chance |O| |C|Warlock| |Z|Elwynn Forest|
-C The Collector |QID|123| |N|Kill Riverpaw Runts and Riverpaw Outrunners. Loot them for the [Gold Pickup Schedule]| |O| |C|Warlock| |Z|Elwynn Forest|
+C Collect Gold Pickup Schedule (x1) |QID|123| |L|1307 1| |N|Kill Riverpaw Runts and Riverpaw Outrunners. Loot them for the [Gold Pickup Schedule]| |O| |C|Warlock| |Z|Elwynn Forest|
 A The Collector |QID|123| |N|Kill Riverpaw Runts and Riverpaw Outrunners. Loot them for the [Gold Pickup Schedule]| |O| |C|Warlock| |Z|Elwynn Forest|
 C Riverpaw Gnoll Bounty |QID|11| |N|Kill Riverpaw Runts and Riverpaw Outrunners. Loot them for their Armbands Painted Gnoll Armband (8)| |O| |C|Warlock| |Z|Elwynn Forest|
 N Hogger can spawn in multiple locations |N|(25.9, 93.9)| |C|Warlock| |Z|Elwynn Forest|
-N Cast [Fear] |cRXP_WARN_on Hogger continously and use your regular DoTs to kill him |N|(25.9, 93.9)| |C|Warlock| |Z|Elwynn Forest|
+N Cast [Fear] on Hogger continously and use your regular DoTs to kill him |N|(25.9, 93.9)| |C|Warlock| |Z|Elwynn Forest|
 N Kite him back to the guard tower if required ensuring you've done at least 50% damage to him |N|(25.9, 93.9)| |C|Warlock| |Z|Elwynn Forest|
 C Wanted: "Hogger" |QID|176| |N|Hogger. Loot him for his Claw Huge Gnoll Claw (1)| |C|Warlock| |Z|Elwynn Forest|
 C Riverpaw Gnoll Bounty |QID|11| |N|Riverpaw Runts and Riverpaw Outrunners. Loot them for their Armbands Painted Gnoll Armband (8)| |C|Warlock| |Z|Elwynn Forest|
@@ -307,7 +307,7 @@ A The People's Militia |QID|12| |N|Gryan Stoutmantle and Captain Danuvin - (56.3
 A Patrolling Westfall |QID|102| |N|Gryan Stoutmantle and Captain Danuvin - (56.3, 47.5)| |Z|Westfall|
 A A Swift Message |QID|6181| |N|Quartermaster Lewis - (57.0, 47.2)| |R|Human| |Z|Westfall|
 N Buy up to 20 [Longjaw Mud Snappers] from her. They are very cheap level 5 food |N|(52.9, 53.7)| |Z|Westfall|
-C Innkeeper Heather |QID|314| |N|Innkeeper Heather - (52.9, 53.7)| |Z|Westfall|
+B Longjaw Mud Snapper (20) |L|4592 20| |N|Innkeeper Heather - (52.9, 53.7)| |Z|Westfall|
 T A Swift Message |QID|6181| |N|Thor - (56.5, 52.6)| |R|Human| |Z|Westfall|
 A Continue To Stormwind |QID|6281| |N|Thor - (56.5, 52.6)| |R|Human| |Z|Westfall|
 F Fly to Stormwind |N|Thor - (56.5, 52.6)| |Z|Westfall|
@@ -315,29 +315,29 @@ T Shipment to Stormwind |QID|61| |N|Morgan Pestle - (56.2, 64.6)| |Z|Stormwind C
 N We choose the [Explosive Rockets] as the reward. It deals decent damage, and can be used for "Split pulling" which is incredibly useful |N|(56.2, 64.6)| |Z|Stormwind City|
 R Enter the Everyday Merchandise building |N|(57.8, 61.4)| |O| |C|Rogue| |Z|Stormwind City|
 N Buy the [Keen Throwing Knives] from him |N|(58.4, 61.7)| |C|Rogue| |Z|Stormwind City|
-C Thurman Mullby |N|Thurman Mullby - (58.4, 61.7)| |C|Rogue| |Z|Stormwind City|
+B Collect Keen Throwing Knife (200) |L|3107 200| |N|Thurman Mullby - (58.4, 61.7)| |C|Rogue| |Z|Stormwind City|
 N Buy the [Balanced Throwing Daggers] from him |N|(58.4, 61.7)| |C|Rogue| |Z|Stormwind City|
-C Thurman Mullby |N|Thurman Mullby - (58.4, 61.7)| |C|Rogue| |Z|Stormwind City|
+B Collect Balanced Throwing Dagger (200) |L|2946 200| |N|Thurman Mullby - (58.4, 61.7)| |C|Rogue| |Z|Stormwind City|
 t Train 1h Swords and Staves |N|Woo Ping - (57.1, 57.7)| |O| |C|Warlock/Mage| |Z|Stormwind City|
 t Train 1h Swords |N|Woo Ping - (57.1, 57.7)| |O| |C|Rogue| |Z|Stormwind City|
 t Train Staves |N|Woo Ping - (57.1, 57.7)| |O| |C|Priest| |Z|Stormwind City|
 t Train 2h Swords |N|Woo Ping - (57.1, 57.7)| |O| |C|Warrior/Paladin| |Z|Stormwind City|
 t Train Staves |N|Woo Ping - (57.1, 57.7)| |C|Warlock/Mage| |Z|Stormwind City|
 N Buy a [Cutlass] from him |N|(57.5, 57.1)| |O| |C|Rogue| |Z|Stormwind City|
-C Gunther Weller |N|Gunther Weller - (57.5, 57.1)| |O| |C|Rogue| |Z|Stormwind City|
-t Training (2983) |N|Gunther Weller - (57.5, 57.1)| |O| |C|Rogue| |Z|Stormwind City|
+B Cutlass (1) |L|851 1| |N|Gunther Weller - (57.5, 57.1)| |O| |C|Rogue| |Z|Stormwind City|
+t Sprint not Trained |N|Gunther Weller - (57.5, 57.1)| |O| |C|Rogue| |Z|Stormwind City|
 N Buy a [Cutlass] from him |N|(57.5, 57.1)| |O| |C|Rogue| |Z|Stormwind City|
-C Gunther Weller |N|Gunther Weller - (57.5, 57.1)| |O| |C|Rogue| |Z|Stormwind City|
-t Training (2983) |N|Gunther Weller - (57.5, 57.1)| |O| |C|Rogue| |Z|Stormwind City|
+B Cutlass (1) |L|851 1| |N|Gunther Weller - (57.5, 57.1)| |O| |C|Rogue| |Z|Stormwind City|
+t Sprint Trained |N|Gunther Weller - (57.5, 57.1)| |O| |C|Rogue| |Z|Stormwind City|
 N Buy a [Cutlass] from him |N|(53.6, 59.8)| |O| |C|Rogue| |Z|Stormwind City|
 N Alternatively, check the Auction House for something better or cheaper |N|(53.6, 59.8)| |O| |C|Rogue| |Z|Stormwind City|
 N Make sure you save 6s for training later |N|(53.6, 59.8)| |O| |C|Rogue| |Z|Stormwind City|
-C Gunther Weller |N|Gunther Weller - (53.6, 59.8)| |O| |C|Rogue| |Z|Stormwind City|
-t Training (2983) |N|Gunther Weller - (53.6, 59.8)| |O| |C|Rogue| |Z|Stormwind City|
+B Cutlass (1) |L|851 1| |N|Gunther Weller - (53.6, 59.8)| |O| |C|Rogue| |Z|Stormwind City|
+t Sprint not Trained |N|Gunther Weller - (53.6, 59.8)| |O| |C|Rogue| |Z|Stormwind City|
 N Buy a [Cutlass] from him |N|(53.6, 59.8)| |O| |C|Rogue| |Z|Stormwind City|
 N Alternatively, check the Auction House for something better or cheaper |N|(53.6, 59.8)| |O| |C|Rogue| |Z|Stormwind City|
-C Gunther Weller |N|Gunther Weller - (53.6, 59.8)| |O| |C|Rogue| |Z|Stormwind City|
-t Training (2983) |N|Gunther Weller - (53.6, 59.8)| |O| |C|Rogue| |Z|Stormwind City|
+B Cutlass (1) |L|851 1| |N|Gunther Weller - (53.6, 59.8)| |O| |C|Rogue| |Z|Stormwind City|
+t Sprint Trained |N|Gunther Weller - (53.6, 59.8)| |O| |C|Rogue| |Z|Stormwind City|
 R Innkeeper Allison |N|(52.6, 65.7)| |Z|Stormwind City|
 R The Slaughtered Lamb and go downstairs |N|(27.2, 78.1)| |O| |C|Warlock| |Z|Stormwind City|
 T Gakin's Summons |QID|1685| |N|Gakin the Darkbinder - (25.2, 78.6)| |C|Warlock| |Z|Stormwind City|
@@ -348,24 +348,24 @@ T Wanted: "Hogger" |QID|176| |N|Marshal Dughan - (42.1, 65.9)| |C|Warlock| |Z|El
 T The Collector |QID|123| |N|Marshal Dughan - (42.1, 65.9)| |C|Warlock| |Z|Elwynn Forest|
 N Choose the [Balanced Fighting Stick] |N|(42.1, 65.9)| |C|Warlock| |Z|Elwynn Forest|
 T Wanted: "Hogger" |QID|176| |N|Marshal Dughan - (42.1, 65.9)| |C|Warlock| |Z|Elwynn Forest|
-C Rockhide Boars. Loot them for their [Chunks of Boar Meat] |QID|2178| |N|Rockhide Boars. Loot them for their [Chunks of Boar Meat] - (65.6, 78.4)| |O| |C|Warlock| |Z|Elwynn Forest|
+C x20,cooking --Chunk of Boar Meat (1-10) |QID|2178| |L|769 10| |N|Rockhide Boars. Loot them for their [Chunks of Boar Meat] (65.6, 78.4)| |O| |C|Warlock| |Z|Elwynn Forest|
 N Don't go out of your way to farm this now. Simply kill and loot all the boars you're passing by |N|(65.6, 78.4)| |O| |C|Warlock| |Z|Elwynn Forest|
-C Rockhide Boars. Loot them for their [Chunks of Boar Meat] |QID|2178| |N|Rockhide Boars. Loot them for their [Chunks of Boar Meat] - (65.6, 78.4)| |O| |C|Warlock| |Z|Elwynn Forest|
+C x20,cooking --Chunk of Boar Meat (10-50) |QID|2178| |L|769 50| |N|Rockhide Boars. Loot them for their [Chunks of Boar Meat] (65.6, 78.4)| |O| |C|Warlock| |Z|Elwynn Forest|
 N Grind en-route. Try to level your [Balanced Fighting Stick] skill |O| |C|Warlock| |Z|Elwynn Forest|
 N The [Westfall Deed] is a very rare drop. Ignore this step if you don't get it |O| |C|Warlock| |Z|Elwynn Forest|
-C Furlbrow's Deed |QID|184| |N|Kill Defias Bandits. Loot them for the [Westfall Deed] Collect Westfall Deed (x1)| |O| |C|Warlock| |Z|Elwynn Forest|
+C Collect Westfall Deed (x1) |QID|184| |L|1972 1| |N|Kill Defias Bandits. Loot them for the [Westfall Deed]| |O| |C|Warlock| |Z|Elwynn Forest|
 A Furlbrow's Deed |QID|184| |N|Kill Defias Bandits. Loot them for the [Westfall Deed]| |O| |C|Warlock| |Z|Elwynn Forest|
 C Red Linen Goods |QID|83| |N|Kill Defias Bandit Collect Red Linen Bandana (x6)| |C|Warlock| |Z|Elwynn Forest|
-N |cRXP_WARN_Focus on killing Surena Caledon very quickly |N|(71.1, 80.7)| |C|Warlock| |Z|Elwynn Forest|
-N Cast [Fear] |cRXP_WARN_on Morgan the Collector continously |N|(71.1, 80.7)| |C|Warlock| |Z|Elwynn Forest|
+N Focus on killing Surena Caledon very quickly |N|(71.1, 80.7)| |C|Warlock| |Z|Elwynn Forest|
+N Cast [Fear] on Morgan the Collector continously |N|(71.1, 80.7)| |C|Warlock| |Z|Elwynn Forest|
 C Surena Caledon |QID|1688| |N|Surena Caledon. Loot her for her Choker Surena's Choker (1)| |C|Warlock| |Z|Elwynn Forest|
-C Prowlers. Loot them for their [Stringy Wolf Meat] |QID|2178| |N|Prowlers. Loot them for their [Stringy Wolf Meat] - (87.2, 75.9)| |O| |C|Warlock| |Z|Elwynn Forest|
+C x20,cooking --Stringy Wolf Meat (1-10) |QID|2178| |L|2672 10| |N|Prowlers. Loot them for their [Stringy Wolf Meat] (87.2, 75.9)| |O| |C|Warlock| |Z|Elwynn Forest|
 N Don't go out of your way to farm this now. Simply kill and loot all the wolves you're passing by |N|(87.2, 75.9)| |O| |C|Warlock| |Z|Elwynn Forest|
-C Prowlers. Loot them for their [Stringy Wolf Meat] |QID|2178| |N|Prowlers. Loot them for their [Stringy Wolf Meat] - (87.2, 75.9)| |O| |C|Warlock| |Z|Elwynn Forest|
+C x20,cooking --Stringy Wolf Meat (10-50) |QID|2178| |L|2672 50| |N|Prowlers. Loot them for their [Stringy Wolf Meat] (87.2, 75.9)| |O| |C|Warlock| |Z|Elwynn Forest|
 T Cloth and Leather Armor |QID|59| |N|Sara Timberlain - (79.5, 68.8)| |C|Warlock| |Z|Elwynn Forest|
 T Red Linen Goods |QID|83| |N|Sara Timberlain - (79.5, 68.8)| |C|Warlock| |Z|Elwynn Forest|
 T Cloth and Leather Armor |QID|59| |N|Sara Timberlain - (79.5, 68.8)| |O| |C|Warlock| |Z|Elwynn Forest|
-C Grind en-route. Make sure you have at least 2 [Soul Shards] before reaching Redridge by using [Drain Soul] as mobs are about to die |N|Grind en-route. Make sure you have at least 2 [Soul Shards] before reaching Redridge by using [Drain Soul] as mobs are about to die| |O| |C|Warlock| |Z|Elwynn Forest|
+C Soul Shard (2) |L|6265 2| |N|Grind en-route. Make sure you have at least 2 [Soul Shards] before reaching Redridge by using [Drain Soul] as mobs are about to die| |O| |C|Warlock| |Z|Elwynn Forest|
 R Travel to Redridge Mountains |N|(17.4, 69.6)| |O| |C|Warlock| |Z|Redridge Mountains|
 A Encroaching Gnolls |QID|244| |N|Guard Parker - (17.4, 69.6)| |C|Warlock| |Z|Redridge Mountains|
 R Travel towards Lakeshire |N|(30.7, 60.0)| |C|Warlock| |Z|Redridge Mountains|
@@ -400,9 +400,9 @@ T Desperate Prayer |QID|5634| |N|High Priestess Laurena - (38.5, 26.9)| |C|Pries
 t Train your class spells |N|High Priestess Laurena - (38.5, 26.9)| |C|Priest| |Z|Stormwind City|
 T Elmore's Task |QID|1097| |N|Grimand Elmore - (51.8, 12.1)| |Z|Stormwind City|
 A Stormpike's Delivery |QID|353| |N|Grimand Elmore - (51.8, 12.1)| |Z|Stormwind City|
-C Kaita Deepforge |QID|432| |N|Kaita Deepforge - (56.3, 17.0)| |O| |C|Warrior/Paladin/Rogue| |Z|Stormwind City|
+B Buy a [Mining Pick] from her |L|2901 1| |N|Kaita Deepforge - (56.3, 17.0)| |O| |C|Warrior/Paladin/Rogue| |Z|Stormwind City|
 N You'll train [Mining] later |N|(56.3, 17.0)| |O| |C|Warrior/Paladin/Rogue| |Z|Stormwind City|
-t Training (2018) |N|Kaita Deepforge - (56.3, 17.0)| |O| |C|Warrior/Paladin/Rogue| |Z|Stormwind City|
+t Blacksmithing |N|Kaita Deepforge - (56.3, 17.0)| |O| |C|Warrior/Paladin/Rogue| |Z|Stormwind City|
 N On the Tram when it arrives: |O| |Z|Stormwind City|
 N You need 50 [Cooking] for a quest in Duskwood later |O| |Z|Stormwind City|
 N [Cook] the following items: |O| |Z|Stormwind City|
@@ -417,7 +417,7 @@ N You will need your [First Aid] to be 80 for a quest at level 24 |O| |C|Rogue| 
 N Cast [Summon Voidwalker] and [Create Healthstone] while waiting for the Tram to Ironforge if needed |O| |C|Warlock| |Z|Stormwind City|
 N Monty on the middle platform on the Ironforge side of the Deeprun Tram |O| |Z|Stormwind City|
 A Deeprun Rat Roundup |QID|6661| |N|Take the Deeprun Tram to the Ironforge side| |O| |Z|Stormwind City|
-C Deeprun Rat Roundup |QID|6661| |N|Use the [Rat Catcher's Flute] |cRXP_WARN_on Deeprun Rats inside the Deeprun Tram Rats Captured (x5)| |Z|Stormwind City|
+C Deeprun Rat Roundup |QID|6661| |N|Use the [Rat Catcher's Flute] on Deeprun Rats inside the Deeprun Tram Rats Captured (x5)| |Z|Stormwind City|
 T Deeprun Rat Roundup |QID|6661| |N|Monty inside the Deeprun Tram| |Z|Stormwind City|
 R Level your [First Aid] if needed while waiting for the tram |N|(64.0, 8.1)| |O| |Z|Stormwind City|
 R Travel to Ironforge |N|(67.4, 84.9)| |O| |C|Warrior| |Z|Ironforge|
@@ -428,9 +428,9 @@ R Enter the Timberline Arms building |N|(61.4, 88.4)| |O| |C|Warrior| |Z|Ironfor
 t Train Thrown |N|Bixi Wobblebonk and Buliwyf Stonehand - (62.2, 89.6)| |C|Warrior| |Z|Ironforge|
 t Train 2h Maces |N|Bixi Wobblebonk and Buliwyf Stonehand - (62.2, 89.6)| |C|Warrior| |Z|Ironforge|
 N Buy the [Keen Throwing Knives] from her |N|(62.4, 88.7)| |C|Warrior| |Z|Ironforge|
-C Brenwyn Wintersteel down stairs |N|Brenwyn Wintersteel down stairs - (62.4, 88.7)| |C|Warrior| |Z|Ironforge|
+B Collect Keen Throwing Knife (200) |L|3107 200| |N|Brenwyn Wintersteel down stairs - (62.4, 88.7)| |C|Warrior| |Z|Ironforge|
 N Buy the [Balanced Throwing Daggers] from her |N|(62.4, 88.7)| |C|Warrior| |Z|Ironforge|
-C Brenwyn Wintersteel down stairs |N|Brenwyn Wintersteel down stairs - (62.4, 88.7)| |C|Warrior| |Z|Ironforge|
+B Collect Balanced Throwing Dagger (200) |L|2946 200| |N|Brenwyn Wintersteel down stairs - (62.4, 88.7)| |C|Warrior| |Z|Ironforge|
 R Exit the Timberline Arms building |N|(61.4, 88.4)| |O| |C|Warrior| |Z|Ironforge|
 f Get the Ironforge flight path |N|Gryth Thurden - (55.5, 47.7)| |Z|Ironforge|
 R Travel toward Dink |N|(27.2, 8.6)| |O| |C|Mage| |Z|Ironforge|
@@ -440,43 +440,43 @@ t Train your class spells |N|Brandur Ironhammer inside - (23.1, 6.1)| |C|Paladin
 R Exit Ironforge |N|(53.5, 35.0)| |Z|Ironforge|
 N This will be used to level your [Cooking] later |N|(57.9, 50.8)| |O| |Z|Ironforge|
 N You need 10 [Cooking] for a quest in Auberdine later |N|(57.9, 50.8)| |O| |Z|Ironforge|
-C Elder Crag Boars. Loot them for their [Chunks of Boar Meat] |QID|2178| |N|Elder Crag Boars. Loot them for their [Chunks of Boar Meat] - (57.9, 50.8)| |O| |Z|Ironforge|
+C x20,cooking --Chunk of Boar Meat (1-10) |QID|2178| |L|769 10| |N|Elder Crag Boars. Loot them for their [Chunks of Boar Meat] (57.9, 50.8)| |O| |Z|Ironforge|
 N This will be used to level your [Cooking] later |N|(57.9, 50.8)| |O| |Z|Ironforge|
 N You need 50 [Cooking] for a quest in Darkshire later |N|(57.9, 50.8)| |O| |Z|Ironforge|
 N Don't go out of your way to farm this now. Simply kill and loot all the boars you're passing by |N|(57.9, 50.8)| |O| |Z|Ironforge|
-C Elder Crag Boars. Loot them for their [Chunks of Boar Meat] |QID|2178| |N|Elder Crag Boars. Loot them for their [Chunks of Boar Meat] - (57.9, 50.8)| |O| |Z|Ironforge|
+C x20,cooking --Chunk of Boar Meat (10-50) |QID|2178| |L|769 50| |N|Elder Crag Boars. Loot them for their [Chunks of Boar Meat] (57.9, 50.8)| |O| |Z|Ironforge|
 R Travel to Dun Morogh |N|(59.8, 49.6)| |O| |Z|Dun Morogh|
 R Go up the dirt path |N|(61.4, 47.1)| |O| |Z|Dun Morogh|
 R Travel to Ironforge |N|(62.5, 46.2)| |O| |Z|Ironforge|
 A Protecting the Herd |QID|314| |N|Rudra Amberstill - (63.1, 49.9)| |Z|Dun Morogh|
 R Travel to Ironforge |N|(62.4, 49.0)| |Z|Ironforge|
 N Kite him to the guard south of the ranch. Make sure you do 51%+ damage to him |N|(62.5, 46.2)| |Z|Ironforge|
-N |cRXP_WARN_Watch the video below before you attempt to kill Vagash. It can be soloed on any class |N|(62.5, 46.2)| |Z|Ironforge|
+N Watch the video below before you attempt to kill Vagash. It can be soloed on any class |N|(62.5, 46.2)| |Z|Ironforge|
 C Protecting the Herd |QID|314| |N|Vagash. Loot him for his Fang Collect Fang of Vagash (1)| |Z|Ironforge|
 T Protecting the Herd |QID|314| |N|Rudra Amberstill - (63.1, 49.9)| |Z|Dun Morogh|
-C Large Crag Boars. Loot them for their [Chunks of Boar Meat] |QID|2178| |N|Large Crag Boars. Loot them for their [Chunks of Boar Meat] - (66.4, 51.0)| |O| |Z|Ironforge|
+C x20,cooking --Chunk of Boar Meat (1-10) |QID|2178| |L|769 10| |N|Large Crag Boars. Loot them for their [Chunks of Boar Meat] (66.4, 51.0)| |O| |Z|Ironforge|
 N Don't go out of your way to farm this now. Simply kill and loot all the boars you're passing by |N|(66.4, 51.0)| |O| |Z|Ironforge|
-C Large Crag Boars. Loot them for their [Chunks of Boar Meat] |QID|2178| |N|Large Crag Boars. Loot them for their [Chunks of Boar Meat] - (66.4, 51.0)| |O| |Z|Ironforge|
+C x20,cooking --Chunk of Boar Meat (10-50) |QID|2178| |L|769 50| |N|Large Crag Boars. Loot them for their [Chunks of Boar Meat] (66.4, 51.0)| |O| |Z|Ironforge|
 t Train [Cooking] |N|Cook Ghilm - (68.4, 54.5)| |Z|Dun Morogh|
 B Buy [Freshly Baked Bread] if needed |N|Kazan Mogosh - (68.6, 54.6)| |C|Warrior/Rogue| |R|!Human| |Z|Dun Morogh|
 B Buy [Freshly Baked Bread] and [Ice Cold Milk] if needed |N|Kazan Mogosh - (68.6, 54.6)| |C|!Warrior/!Rogue| |R|!Human| |Z|Dun Morogh|
 R Travel to Ironforge |N|(68.9, 56.0)| |O| |C|Rogue| |Z|Ironforge|
 N Buy a [Gladius] from him |N|(69.0, 55.9)| |O| |C|Rogue| |Z|Ironforge|
-C Frast Dokner |N|Frast Dokner - (69.0, 55.9)| |O| |C|Rogue| |Z|Ironforge|
+B Collect Gladius (1) |L|2488 1| |N|Frast Dokner - (69.0, 55.9)| |O| |C|Rogue| |Z|Ironforge|
 A The Public Servant |QID|433| |N|Senator Mehr Stonehallow and Foreman Stonebrow - (68.7, 56.0)| |Z|Ironforge|
 R Travel to Dun Morogh |N|(68.7, 56.0)| |Z|Dun Morogh|
 A Those Blasted Troggs! |QID|432| |N|Senator Mehr Stonehallow and Foreman Stonebrow - (68.7, 56.0)| |Z|Dun Morogh|
 R Travel to Dun Morogh |N|(69.1, 56.3)| |Z|Dun Morogh|
-t Training (2575) |O| |C|Warrior/Paladin/Rogue| |Z|Dun Morogh|
+t Mining Trained |O| |C|Warrior/Paladin/Rogue| |Z|Dun Morogh|
 C Those Blasted Troggs! |QID|432| |N|Rockjaw Skullthumpers and Rockjaw Bonesnappers inside the cave Kill Rockjaw Skullthumper (x6)| |Z|Dun Morogh|
 C The Public Servant |QID|433| |N|Rockjaw Skullthumpers and Rockjaw Bonesnappers inside the cave Kill Rockjaw Bonesnapper (x10)| |Z|Dun Morogh|
 T Those Blasted Troggs! |QID|432| |N|Foreman Stonebrow and Senator Mehr Stonehallow - (69.1, 56.3)| |Z|Dun Morogh|
 T The Public Servant |QID|433| |N|Foreman Stonebrow and Senator Mehr Stonehallow - (69.1, 56.3)| |Z|Dun Morogh|
 B Buy up to 20 [Ice Cold Milk] from him |N|Kazan Mogosh - (68.6, 54.6)| |C|!Warrior/!Rogue/!Paladin| |Z|Dun Morogh|
 R Travel to Ironforge |N|(81.0, 43.5)| |O| |Z|Ironforge|
-C Scarred Crag Boars and Elder Crag Boars. Loot them for their [Chunks of Boar Meat] |QID|2178| |N|Scarred Crag Boars and Elder Crag Boars. Loot them for their [Chunks of Boar Meat] - (80.6, 36.0)| |O| |Z|Ironforge|
+C x20,cooking --Chunk of Boar Meat (1-10) |QID|2178| |L|769 10| |N|Scarred Crag Boars and Elder Crag Boars. Loot them for their [Chunks of Boar Meat] (80.6, 36.0)| |O| |Z|Ironforge|
 N Don't go out of your way to farm this now. Simply kill and loot all the boars you're passing by |N|(80.6, 36.0)| |O| |Z|Ironforge|
-C Scarred Crag Boars and Elder Crag Boars. Loot them for their [Chunks of Boar Meat] |QID|2178| |N|Scarred Crag Boars and Elder Crag Boars. Loot them for their [Chunks of Boar Meat] - (80.6, 36.0)| |O| |Z|Ironforge|
+C x20,cooking --Chunk of Boar Meat (10-50) |QID|2178| |L|769 50| |N|Scarred Crag Boars and Elder Crag Boars. Loot them for their [Chunks of Boar Meat] (80.6, 36.0)| |O| |Z|Ironforge|
 R Travel to Dun Morogh |N|(81.2, 42.7)| |Z|Dun Morogh|
 A The Lost Pilot |QID|419| |N|Pilot Hammerfoot - (83.9, 39.2)| |Z|Dun Morogh|
 T The Lost Pilot |QID|419| |N|the Dwarven Corpse on the ground - (79.7, 36.2)| |Z|Dun Morogh|

@@ -24,13 +24,11 @@ C Natural Materials |QID|3128| |N|Use the [Faerie Dragon Muisek Vessel] on their
 T Faerie Dragon Muisek |QID|3125| |N|Uzer'i - (74.4, 43.4)| |Z|Feralas|
 A Treant Muisek |QID|3126| |N|Uzer'i - (74.4, 43.4)| |Z|Feralas|
 N The arrow will guide you along their patrol routes, which are outlined on your world map too. The quest item has a cooldown and only works on one corpse at a time, even if they're stacked |N|(79.6, 45.4)| |Z|Feralas|
-C Natural Materials |QID|3128| |N|Use the [Treant Muisek Vessel] on their corpses (79.6, 45.4)| |Z|Feralas|
-C Treant Muisek |QID|3126| |N|Use the [Treant Muisek Vessel] on their corpses (79.6, 45.4)| |Z|Feralas|
+C Use the [Treant Muisek Vessel] on their corpses |QID|3128| |L|9590 1| |N|Use the [Treant Muisek Vessel] on their corpses - (79.6, 45.4)| |Z|Feralas|
 N The arrow will guide you along their patrol routes, which are outlined on your world map too. The quest item has a cooldown and only works on one corpse at a time, even if they're stacked |N|(72.8, 50.9)| |Z|Feralas|
-C Natural Materials |QID|3128| |N|Use the [Treant Muisek Vessel] on their corpses (72.8, 50.9)| |Z|Feralas|
-C Treant Muisek |QID|3126| |N|Use the [Treant Muisek Vessel] on their corpses (72.8, 50.9)| |Z|Feralas|
+C Use the [Treant Muisek Vessel] on their corpses |QID|3128| |L|9590 2| |N|Use the [Treant Muisek Vessel] on their corpses - (72.8, 50.9)| |Z|Feralas|
 N The arrow will guide you along their patrol routes, which are outlined on your world map too. The quest item has a cooldown and only works on one corpse at a time, even if they're stacked |N|(51.6, 49.0)| |Z|Feralas|
-C Treant Muisek |QID|3126| |N|Use the [Treant Muisek Vessel] on their corpses (51.6, 49.0)| |Z|Feralas|
+C Use the [Treant Muisek Vessel] on their corpses |QID|3126| |L|9593 3| |N|Use the [Treant Muisek Vessel] on their corpses - (51.6, 49.0)| |Z|Feralas|
 T Treant Muisek |QID|3126| |N|Uzer'i - (74.4, 43.4)| |Z|Feralas|
 A Mountain Giant Muisek |QID|3127| |N|Uzer'i - (74.4, 43.4)| |Z|Feralas|
 A Zapped Giants |QID|7003| |N|Zorbin - (44.8, 43.4)| |Z|Feralas|
@@ -39,7 +37,7 @@ N If you run out of spawns, skip this for now as it can be finished later |N|(39
 C Mountain Giant Muisek |QID|3127| |N|This item has a cooldown and only works on one corpse at a time, even if they're stacked (39.5, 22.0)| |Z|Feralas|
 C Zapped Giants |QID|7003| |N|This item has a cooldown and only works on one corpse at a time, even if they're stacked (39.5, 22.0)| |Z|Feralas|
 C Vengeance on the Northspring |QID|3063| |N|Kill Northspring Harpies, Roguefeathers, Slayers and Windcallers| |O| |Z|Feralas|
-C Northspring Harpies. Loot them for the [Horn of Hatetalon] |QID|13062| |N|Northspring Harpies. Loot them for the [Horn of Hatetalon] - (38.1, 12.0)| |Z|Feralas|
+C Northspring Harpies. Loot them for the [Horn of Hatetalon] |QID|13062| |L|9530 1| |N|Northspring Harpies. Loot them for the [Horn of Hatetalon] - (38.1, 12.0)| |Z|Feralas|
 C Dark Heart |QID|3062| |N|Kill her and loot her for her Heart (40.6, 8.6)| |Z|Feralas|
 C Vengeance on the Northspring |QID|3063| |N|Northspring Harpies, Roguefeathers, Slayers and Windcallers (38.1, 12.0)| |Z|Feralas|
 C Mountain Giant Muisek |QID|3127| |N|This item has a cooldown and only works on one corpse at a time, even if they're stacked (39.5, 22.0)| |Z|Feralas|
@@ -53,11 +51,11 @@ A The Stone Circle |QID|3444| |N|Marvon - (52.7, 45.9)| |Z|Tanaris|
 A The Apes of Un'Goro |QID|4289| |N|Torwa - (71.6, 76.0)| |Z|Un'Goro Crater|
 A The Fare of Lar'korwi |QID|4290| |N|Torwa - (71.6, 76.0)| |Z|Un'Goro Crater|
 N Any mob in Un'Goro Crater may drop it |O| |Z|Un'Goro Crater|
-C Williden's Journal |QID|3884| |N|Loot a [A Mangled Journal]| |O| |Z|Un'Goro Crater|
+C a [A Mangled Journal] |QID|3884| |L|11116 1| |N|Loot a [A Mangled Journal]| |O| |Z|Un'Goro Crater|
 N Don't focus on this quest yet, just kill them if they cross your path |O| |Z|Un'Goro Crater|
 C Bone-Bladed Weapons |QID|4300| |N|Kill Ravasaur Raptors. Loot them for their Claws| |O| |Z|Un'Goro Crater|
-C Save 25 Un'Goro Soil that you'll loot from mobs as you quest |N|Save 25 Un'Goro Soil that you'll loot from mobs as you quest - (70.6, 53.3)| |O| |Z|Un'Goro Crater|
-C Crystals of Power |QID|4284| |N|7 Power Crystals of each color as you quest (73.1, 51.6)| |O| |Z|Un'Goro Crater|
+C Save 25 Un'Goro Soil that you'll loot from mobs as you quest |L|11018 25| |N|Save 25 Un'Goro Soil that you'll loot from mobs as you quest - (70.6, 53.3)| |O| |Z|Un'Goro Crater|
+C 7 Power Crystals of each color as you quest |QID|4284| |L|11186 7| |N|7 Power Crystals of each color as you quest - (73.1, 51.6)| |O| |Z|Un'Goro Crater|
 A It's a Secret to Everybody |QID|3844| |N|the Wrecked Raft - (63.1, 68.6)| |Z|Un'Goro Crater|
 T It's a Secret to Everybody |QID|3844| |N|Go underwater, then click the Small Pack - (63.1, 69.0)| |Z|Un'Goro Crater|
 A It's a Secret to Everybody |QID|3845| |N|Go underwater, then click the Small Pack - (63.1, 69.0)| |Z|Un'Goro Crater|
@@ -69,12 +67,12 @@ T The Scent of Lar'korwi |QID|4291| |N|Torwa - (71.6, 76.0)| |Z|Un'Goro Crater|
 A The Bait for Lar'korwi |QID|4292| |N|Torwa - (71.6, 76.0)| |Z|Un'Goro Crater|
 C Bone-Bladed Weapons |QID|4300| |N|Ravasaur raptors. Loot them for their Claws (66.2, 77.8)| |Z|Un'Goro Crater|
 N Try to stick to the West/Northwest/North areas. They have lower level mobs to run away from |Z|Un'Goro Crater|
-C Crystals of Power |QID|4284| |N|Loot 7 Power Crystals of each color| |Z|Un'Goro Crater|
+C 7 Power Crystals of each color |QID|4284| |L|11186 7| |N|Loot 7 Power Crystals of each color| |Z|Un'Goro Crater|
 C It's a Secret to Everybody |QID|3845| |N|(44.7, 8.1)| |O| |Z|Un'Goro Crater|
 T It's a Secret to Everybody |QID|3845| |N|Linken - (44.7, 8.1)| |Z|Un'Goro Crater|
 A It's a Secret to Everybody |QID|3908| |N|Linken - (44.7, 8.1)| |Z|Un'Goro Crater|
 N You no longer need these |Z|Un'Goro Crater|
-C Williden's Journal |QID|3884| |N|Williden Marshal (43.9, 7.1)| |Z|Un'Goro Crater|
+C Williden Marshal |QID|3884| |L|11116 1| |N|Williden Marshal - (43.9, 7.1)| |Z|Un'Goro Crater|
 A Williden's Journal |QID|3884| |N|Williden Marshal - (43.9, 7.1)| |Z|Un'Goro Crater|
 T Williden's Journal |QID|3884| |N|Williden Marshal - (43.9, 7.1)| |Z|Un'Goro Crater|
 A Crystals of Power |QID|4284| |N|J.D. Collie - (41.9, 2.7)| |Z|Un'Goro Crater|

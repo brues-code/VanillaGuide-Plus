@@ -19,7 +19,7 @@ C The Third Fleet |QID|288| |N|Innkeeper Helbrek (10.7, 61.0)| |Z|Wetlands|
 T The Absent Minded Prospector |QID|942| |N|Archaeologist Flagongut up stairs - (10.8, 60.4)| |Z|Wetlands|
 A The Absent Minded Prospector |QID|943| |N|Archaeologist Flagongut up stairs - (10.8, 60.4)| |Z|Wetlands|
 T The Third Fleet |QID|288| |N|First Mate Fitzsimmons - (10.9, 59.7)| |Z|Wetlands|
-C Edwina Monzor |N|Edwina Monzor - (11.0, 58.6)| |C|Hunter| |Z|Wetlands|
+B Delete all your [Sharp Arrows] and buy [Razor Arrows] from her untill your quiver is full |L|3030 2000| |N|Edwina Monzor - (11.0, 58.6)| |C|Hunter| |Z|Wetlands|
 N Remember to equip (right click) the new arrows afterward! |N|(11.0, 58.6)| |C|Hunter| |Z|Wetlands|
 B Restock on [Sharp Arrows] if needed. If you're close to level 25 you can buy some [Razor Arrows] from her as well |N|Edwina Monzor - (11.0, 58.6)| |C|Hunter| |Z|Wetlands|
 A Digging Through the Ooze |QID|470| |N|Sida - (11.8, 58.0)| |Z|Wetlands|
@@ -29,8 +29,8 @@ N Kill Gobbler. Loot him for his Head |N|(16.3, 39.4)| |Z|Wetlands|
 N Keep any [Murloc Fins] you may get. You will need 8 for a quest later |N|(16.3, 39.4)| |R|NightElf| |Z|Wetlands|
 N Gobbler patrols the Marshlands slightly |N|(16.3, 39.4)| |Z|Wetlands|
 C Claws from the Deep |QID|279| |N|Bluegill Murlocs (16.3, 39.4)| |Z|Wetlands|
-C Bluegill Murlocs |N|Bluegill Murlocs - (16.3, 39.4)| |R|NightElf| |Z|Wetlands|
-C The Absent Minded Prospector |QID|943| |N||cRXP_WARN_Don't go out of your way to complete this now. You will kill different Raptors later| |O| |C|Hunter| |Z|Wetlands|
+C Bluegill Murlocs |L|1468 8| |N|Bluegill Murlocs - (16.3, 39.4)| |R|NightElf| |Z|Wetlands|
+C The Absent Minded Prospector |QID|943| |N|Don't go out of your way to complete this now. You will kill different Raptors later| |O| |C|Hunter| |Z|Wetlands|
 A Ormer's Revenge |QID|294| |N|Ormer Ironbraid - (38.2, 50.9)| |C|Hunter| |Z|Wetlands|
 T In Search of The Excavation Team |QID|305| |N|Merrin Rockweaver - (38.9, 52.3)| |C|Hunter| |Z|Wetlands|
 N Skip the follow-up |N|(38.9, 52.3)| |C|Hunter| |Z|Wetlands|
@@ -71,7 +71,7 @@ R Travel south to the tunnel leading to Dun Morogh |N|(21.3, 68.6)| |O| |R|Night
 R Travel west along the road towards Ironforge |N|(47.9, 41.4)| |O| |R|NightElf| |Z|Dun Morogh|
 F Fly to Ironforge |N|Shellei Brondir - (9.5, 59.7)| |R|!NightElf| |Z|Wetlands|
 R Jump off the end of the dock and swim to the waypoint |N|(5.5, 64.2) (!DM Dungeon Quest)| |R|NightElf| |D|!DM| |Z|Wetlands|
-A The Powers Below |QID|968| |N||cRXP_WARN_Use the [Book: The Powers Below] to start the quest| |O| |Z|Wetlands|
+A The Powers Below |QID|968| |N|Use the [Book: The Powers Below] to start the quest| |O| |Z|Wetlands|
 t Train Guns |N|Buliwyf Stonehand inside - (61.2, 89.5) (!DM Dungeon Quest)| |C|Hunter| |R|NightElf| |D|!DM| |Z|Ironforge|
 T The Powers Below |QID|968| |N|Gerrig Bonegrip - (50.8, 5.6)| |Z|Ironforge|
 t Train Guns |N|Buliwyf Stonehand inside - (61.2, 89.5) (!DM Dungeon Quest)| |C|Hunter| |R|NightElf| |D|!DM| |Z|Ironforge|

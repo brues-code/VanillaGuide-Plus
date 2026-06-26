@@ -19,12 +19,12 @@ R Exit Anvilmar |N|(28.8, 68.7)| |O| |C|Warlock| |Z|Ironforge|
 C Dwarven Outfitters |QID|179| |N|Ragged Young Wolves. Loot them for their Tough Wolf Meat Collect Tough Wolf Meat (x8)| |Z|Ironforge|
 N Vendor Trash |N|(30.1, 71.6)| |C|Priest/Mage/Warlock| |Z|Dun Morogh|
 N Buy 15 [Refreshing Spring Water] from him |N|(30.1, 71.6)| |C|Priest/Mage/Warlock| |Z|Dun Morogh|
-N |cRXP_WARN_Grind extra Ragged Young Wolves if you don't have enough money |N|(30.1, 71.6)| |C|Priest/Mage/Warlock| |Z|Dun Morogh|
-C Adlin Pridedrift |N|Adlin Pridedrift - (30.1, 71.6)| |C|Priest/Mage/Warlock| |Z|Dun Morogh|
+N Grind extra Ragged Young Wolves if you don't have enough money |N|(30.1, 71.6)| |C|Priest/Mage/Warlock| |Z|Dun Morogh|
+B Collect Refreshing Spring Water (x15) |L|159 15| |N|Adlin Pridedrift - (30.1, 71.6)| |C|Priest/Mage/Warlock| |Z|Dun Morogh|
 N Vendor Trash |N|(30.1, 71.6)| |O| |C|Hunter| |Z|Dun Morogh|
 N Buy 600 [Light Shots] from him |N|(30.1, 71.6)| |O| |C|Hunter| |Z|Dun Morogh|
 B Vendor trash |N|Adlin Pridedrift - (30.1, 71.6)| |O| |C|!Hunter| |Z|Dun Morogh|
-C Adlin Pridedrift |N|Adlin Pridedrift - (30.1, 71.6)| |O| |C|Hunter| |Z|Dun Morogh|
+B Adlin Pridedrift |L|2516 600| |N|Adlin Pridedrift - (30.1, 71.6)| |O| |C|Hunter| |Z|Dun Morogh|
 T Dwarven Outfitters |QID|179| |N|Sten Stoutarm - (29.9, 71.2)| |Z|Dun Morogh|
 A Coldridge Valley Mail Delivery |QID|233| |N|Sten Stoutarm - (29.9, 71.2)| |Z|Dun Morogh|
 A Simple Rune |QID|3106| |N|Sten Stoutarm - (29.9, 71.2)| |C|Warrior| |R|Dwarf| |Z|Dun Morogh|
@@ -76,7 +76,7 @@ R Exit Anvilmar |N|(28.8, 68.8)| |O| |C|Paladin/Warlock/Hunter| |Z|Ironforge|
 T A New Threat |QID|170| |N|Balir Frosthammer - (29.7, 71.3)| |C|Paladin/Warlock/Hunter| |Z|Dun Morogh|
 N Vendor Trash |N|(30.1, 71.6)| |C|Warlock| |Z|Dun Morogh|
 N Buy 15 [Refreshing Spring Water] from him |N|(30.1, 71.6)| |C|Warlock| |Z|Dun Morogh|
-C Adlin Pridedrift |N|Adlin Pridedrift - (30.1, 71.6)| |C|Warlock| |Z|Dun Morogh|
+B Collect Refreshing Spring Water (x15) |L|159 15| |N|Adlin Pridedrift - (30.1, 71.6)| |C|Warlock| |Z|Dun Morogh|
 R Travel to Ironforge |N|(29.3, 77.3)| |C|!Paladin/!Warlock/!Hunter| |Z|Ironforge|
 C A New Threat |QID|170| |N|Kill +Burly Rockjaw Trogg Kill Rockjaw Trogg (x6)| |C|!Paladin/!Warlock/!Hunter| |Z|Ironforge|
 C The Troll Cave |QID|182| |N|Frostmane Troll Whelps Kill Frostmane Troll Whelp (x14)| |Z|Ironforge|
@@ -119,7 +119,7 @@ R Exit Anvilmar |N|(28.8, 68.7)| |O| |C|!Paladin/!Warlock/!Hunter| |Z|Ironforge|
 T A New Threat |QID|170| |N|Balir Frosthammer - (29.7, 71.3)| |C|!Paladin/!Warlock/!Hunter| |Z|Dun Morogh|
 N Vendor Trash |N|(30.1, 71.6)| |C|Priest/Mage| |Z|Dun Morogh|
 N Buy 5 [Refreshing Spring Water] from him |N|(30.1, 71.6)| |C|Priest/Mage| |Z|Dun Morogh|
-C Adlin Pridedrift |N|Adlin Pridedrift - (30.1, 71.6)| |C|Priest/Mage| |Z|Dun Morogh|
+B Collect Refreshing Spring Water (x5) |L|159 5| |N|Adlin Pridedrift - (30.1, 71.6)| |C|Priest/Mage| |Z|Dun Morogh|
 T The Stolen Journal |QID|218| |N|Grelin Whitebeard - (25.1, 75.7)| |C|!Paladin/!Warlock/!Hunter| |Z|Dun Morogh|
 A Senir's Observations |QID|282| |N|Grelin Whitebeard - (25.1, 75.7)| |C|!Paladin/!Warlock/!Hunter| |Z|Dun Morogh|
 T Bring Back the Mug |QID|3365| |N|Nori Pridedrift - (25.0, 76.0)| |C|!Paladin/!Warlock/!Hunter| |Z|Dun Morogh|

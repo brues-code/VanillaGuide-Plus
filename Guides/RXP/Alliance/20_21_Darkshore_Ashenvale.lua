@@ -19,27 +19,27 @@ T Grove of the Ancients |QID|952| |N|Onu - (43.6, 76.3)| |R|NightElf| |Z|Darksho
 T Onu |QID|948| |N|Onu - (43.6, 76.3)| |Z|Darkshore|
 A The Master's Glaive |QID|944| |N|Onu - (43.6, 76.3)| |Z|Darkshore|
 R The Master's Glaive |N|(38.5, 86.0)| |Z|Darkshore|
-C Kill Twilight Disciples and Twilight Thugs. Loot them for the [Book: The Powers Below] |QID|968| |N|Kill Twilight Disciples and Twilight Thugs. Loot them for the [Book: The Powers Below]| |O| |Z|Darkshore|
+C Book: The Powers Below (1) |QID|968| |L|5352 1| |N|Kill Twilight Disciples and Twilight Thugs. Loot them for the [Book: The Powers Below]| |O| |Z|Darkshore|
 C The Master's Glaive |QID|944| |N|Discover The Master's Glaive Enter the Master's Glaive (1)| |O| |Z|Darkshore|
-T The Master's Glaive |QID|944| |N||cRXP_WARN_Click the Scrying Bowl on the ground - (38.5, 86.0)| |Z|Darkshore|
-A The Twilight Camp |QID|949| |N||cRXP_WARN_Click the Scrying Bowl on the ground - (38.5, 86.0)| |Z|Darkshore|
+T The Master's Glaive |QID|944| |N|the Scrying Bowl on the ground - (38.5, 86.0)| |Z|Darkshore|
+A The Twilight Camp |QID|949| |N|the Scrying Bowl on the ground - (38.5, 86.0)| |Z|Darkshore|
 T The Twilight Camp |QID|949| |N|the Twilight Tome on the northern pedestal - (38.5, 86.0)| |Z|Darkshore|
 A Return to Onu |QID|950| |N|the Twilight Tome on the northern pedestal - (38.5, 86.0)| |Z|Darkshore|
-C Therylune's Escape |QID|945| |N||cRXP_WARN_Escort Therylune out of The Masters Glaive Escort Therylune away from the Master's Glaive (1)| |Z|Darkshore|
+C Therylune's Escape |QID|945| |N|Escort Therylune out of The Masters Glaive Escort Therylune away from the Master's Glaive (1)| |Z|Darkshore|
 N Be careful as they cast [Ravage] an instant attack dealing 20-40 damage and knocking you down for 2s |N|(40.2, 81.3)| |O| |Z|Darkshore|
 C Buzzbox 525 |QID|1003| |N|Grizzled Thistle Bears. Loot them for their Scalps (40.2, 81.3)| |O| |Z|Darkshore|
 N You may have to wait for him to respawn or for others to finish the escort |N|(35.7, 83.7)| |Z|Darkshore|
 T The Absent Minded Prospector |QID|729| |N|Prospector Remtravel - (35.7, 83.7)| |Z|Darkshore|
 C Fruit of the Sea |QID|1138| |N|Kill Encrusted Tide Crawlers and Reef Crawlers. Loot them for their Fine Crab Chunks Fine Crab Chunks (6)| |O| |Z|Darkshore|
 A Beached Sea Creature |QID|4733| |N|the Beached Sea Creature - (31.3, 87.4)| |Z|Darkshore|
-N |cRXP_WARN_This quest can be VERY difficult. Engage the Murlocs 1 by 1, otherwise you may agro multiple at the same time |N|(31.3, 87.4)| |Z|Darkshore|
+N This quest can be VERY difficult. Engage the Murlocs 1 by 1, otherwise you may agro multiple at the same time |N|(31.3, 87.4)| |Z|Darkshore|
 A Beached Sea Turtle |QID|4732| |N|the Beached Sea Turtle - (31.2, 85.6)| |Z|Darkshore|
 A Beached Sea Turtle |QID|4731| |N|the Beached Sea Turtle - (31.7, 83.7)| |O| |Z|Darkshore|
 A Beached Sea Creature |QID|4730| |N|the Beached Sea Creature - (32.6, 80.7)| |O| |Z|Darkshore|
 N Kill the Greymist Warriors and Greymist Hunters in the camp |N|(36.6, 76.5)| |O| |Z|Darkshore|
-N |cRXP_WARN_Move to the Bonfire in the center of the camp to start the Murkdeep encounter: |N|(36.6, 76.5)| |O| |Z|Darkshore|
-N |cRXP_WARN_3 waves will spawn from the water, each after killing the previous wave: Wave 1 has 3 level 12-13 Greymist Coastrunners, Wave 2 has 2 level 15-16 Greymist Warriors, and Wave 3 has a level 19 Murkdeep and a level 16-17 Greymist Hunter. You can move away from the Bonfire to avoid aggroing the next wave |N|(36.6, 76.5)| |O| |Z|Darkshore|
-C WANTED: Murkdeep! |QID|4740| |N||cRXP_WARN_Make sure you check if Murkdeep is already up in the water (if someone has previously failed the encounter or left the Greymist Hunter in the wave that he spawns with alive) Murkdeep (1)| |O| |Z|Darkshore|
+N Move to the Bonfire in the center of the camp to start the Murkdeep encounter: |N|(36.6, 76.5)| |O| |Z|Darkshore|
+N 3 waves will spawn from the water, each after killing the previous wave: Wave 1 has 3 level 12-13 Greymist Coastrunners, Wave 2 has 2 level 15-16 Greymist Warriors, and Wave 3 has a level 19 Murkdeep and a level 16-17 Greymist Hunter. You can move away from the Bonfire to avoid aggroing the next wave |N|(36.6, 76.5)| |O| |Z|Darkshore|
+C WANTED: Murkdeep! |QID|4740| |N|Make sure you check if Murkdeep is already up in the water (if someone has previously failed the encounter or left the Greymist Hunter in the wave that he spawns with alive) Murkdeep (1)| |O| |Z|Darkshore|
 C Fruit of the Sea |QID|1138| |N|Encrusted Tide Crawlers and Reef Crawlers. Loot them for their Fine Crab Chunks Fine Crab Chunks (6)| |Z|Darkshore|
 N Be careful as they cast [Ravage] an instant attack dealing 20-40 damage and knocking you down for 2s |N|(38.0, 83.5)| |O| |Z|Darkshore|
 C Buzzbox 525 |QID|1003| |N|Grizzled Thistle Bears. Loot them for their Scalps Grizzled Scalp (4)| |O| |Z|Darkshore|
@@ -55,7 +55,7 @@ A Escape Through Stealth |QID|995| |N|Volcor - (45.0, 85.3)| |Z|Darkshore|
 C Escape Through Stealth |QID|995| |N|Wait out the RP (44.4, 84.7)| |Z|Darkshore|
 R Travel to Ashenvale |N|(29.7, 13.6)| |O| |Z|Ashenvale|
 N Avoid running on the main road as much as possible. Enemies will only spawn if you're on the road |N|(27.3, 35.6)| |Z|Ashenvale|
-C The Sleeper Has Awakened |QID|5321| |N||cRXP_WARN_Escort Kerlonian to Maestra's Post in Ashenvale (27.3, 35.6)| |Z|Ashenvale|
+C The Sleeper Has Awakened |QID|5321| |N|Escort Kerlonian to Maestra's Post in Ashenvale (27.3, 35.6)| |Z|Ashenvale|
 T The Sleeper Has Awakened |QID|5321| |N|Liadris Moonriver - (27.3, 35.6)| |Z|Ashenvale|
 T The Tower of Althalaxx |QID|967| |N|Delgren the Purifier - (26.2, 38.7)| |Z|Ashenvale|
 A The Tower of Althalaxx |QID|970| |N|Delgren the Purifier - (26.2, 38.7)| |Z|Ashenvale|

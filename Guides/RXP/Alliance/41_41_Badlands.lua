@@ -37,7 +37,7 @@ N [Frost Oil] |N|(23.8, 71.8)| |O| |Z|Ironforge|
 N [Gyrochronatom] (Don't buy this unless you have a [Frost Oil]) |N|(23.8, 71.8)| |O| |Z|Ironforge|
 N [Patterned Bronze Bracers] (Don't buy this unless you have a [Gyrochronatom] and [Frost Oil]) |N|(23.8, 71.8)| |O| |Z|Ironforge|
 N [Healing Potion] and [Lesser Invisibility Potion] (Don't buy this unless you have a [Gyrochronatom] and [Frost Oil]) |N|(23.8, 71.8)| |O| |Z|Ironforge|
-C an Ironforge Auctioneer |QID|705| |N|an Ironforge Auctioneer - (23.8, 71.8)| |O| |Z|Ironforge|
+B an Ironforge Auctioneer |L|4611 9| |N|an Ironforge Auctioneer - (23.8, 71.8)| |O| |Z|Ironforge|
 N If you have used the website unstuck to travel to Ironforge from Wetlands you will not have the Thelsamar flight path. In that case run through Dun Morogh to Loch Modan instead |N|(55.5, 47.7)| |Z|Ironforge|
 F Fly to Loch Modan |N|Gryth Thurden - (55.5, 47.7)| |Z|Ironforge|
 R Innkeeper Hearthstove |N|(35.5, 48.4)| |Z|Loch Modan|
@@ -48,13 +48,13 @@ A Find Agmond |QID|738| |N|Prospector Ironband - (65.9, 65.6)| |Z|Loch Modan|
 R Travel to Badlands |N|(49.2, 7.8)| |O| |Z|Badlands|
 N Kill Coyotes. Loot them for their Fangs |O| |Z|Badlands|
 C Badlands Reagent Run |QID|2500| |N|Kill Buzzards. Loot them for their Gizzards and Wings| |O| |Z|Badlands|
-C Kill Buzzards. Loot them for their Gizzards and Wings |QID|703| |N|Kill Buzzards. Loot them for their Gizzards and Wings| |O| |Z|Badlands|
+C Buzzards. Loot them for their Gizzards and Wings |QID|703| |L|3404 4| |N|Kill Buzzards. Loot them for their Gizzards and Wings| |O| |Z|Badlands|
 A A Dwarf and His Tools |QID|719| |N|Prospector Ryedol and Sigrun Ironhew - (53.4, 43.4)| |Z|Badlands|
 A Mirages |QID|718| |N|Prospector Ryedol and Sigrun Ironhew - (53.4, 43.4)| |Z|Badlands|
 C A Dwarf and His Tools |QID|719| |N|Shadowforge Dwarves. Loot them for Ryedol's Lucky Pick (43.5, 30.5)| |O| |Z|Badlands|
 C A Dwarf and His Tools |QID|719| |N|Shadowforge Dwarves. Loot them for Ryedol's Lucky Pick (43.5, 30.5)| |Z|Badlands|
 R Camp Kosh |N|(66.9, 23.4)| |O| |Z|Badlands|
-N |cRXP_WARN_The Supply Crate can spawn in a few locations at Camp Kosh |N|(66.9, 23.4)| |Z|Badlands|
+N The Supply Crate can spawn in a few locations at Camp Kosh |N|(66.9, 23.4)| |Z|Badlands|
 C Mirages |QID|718| |N|the Supply Crate on the ground (66.9, 23.4)| |Z|Badlands|
 T Mirages |QID|718| |N|Sigrun Ironhew and Prospector Ryedol - (53.8, 43.3)| |Z|Badlands|
 A Scrounging |QID|733| |N|Sigrun Ironhew and Prospector Ryedol - (53.8, 43.3)| |Z|Badlands|
@@ -87,12 +87,12 @@ T Coolant Heads Prevail |QID|713| |N|Lotwil Veriatus - (25.9, 44.9)| |O| |Z|Badl
 A Gyro... What? |QID|714| |N|Lotwil Veriatus - (25.9, 44.9)| |O| |Z|Badlands|
 T Gyro... What? |QID|714| |N|Lotwil Veriatus - (25.9, 44.9)| |O| |Z|Badlands|
 A Study of the Elements: Rock |QID|710| |N|Lotwil Veriatus - (25.9, 44.9)| |Z|Badlands|
-N |cRXP_WARN_You don't have to collect all Rock Elemental Shards right now |N|(18.0, 42.8)| |Z|Badlands|
+N You don't have to collect all Rock Elemental Shards right now |N|(18.0, 42.8)| |Z|Badlands|
 C Study of the Elements: Rock |QID|710| |N|Lesser Rock Elementals. Loot them for their Small Stone Shards and Rock Elemental Shards (18.0, 42.8)| |Z|Badlands|
 C Badlands Reagent Run |QID|2500| |N|Lesser Rock Elementals. Loot them for their Small Stone Shards and Rock Elemental Shards (18.0, 42.8)| |Z|Badlands|
 T Study of the Elements: Rock |QID|710| |N|Lotwil Veriatus - (25.9, 44.9)| |Z|Badlands|
 A Study of the Elements: Rock |QID|711| |N|Lotwil Veriatus - (25.9, 44.9)| |Z|Badlands|
-N |cRXP_WARN_You don't have to collect all Rock Elemental Shards right now |N|(14.7, 35.3)| |Z|Badlands|
+N You don't have to collect all Rock Elemental Shards right now |N|(14.7, 35.3)| |Z|Badlands|
 C Study of the Elements: Rock |QID|711| |N|Rock Elementals. Loot them for their Large Stone Slabs and Rock Elemental Shards (14.7, 35.3)| |Z|Badlands|
 C Badlands Reagent Run |QID|2500| |N|Rock Elementals. Loot them for their Large Stone Slabs and Rock Elemental Shards (14.7, 35.3)| |Z|Badlands|
 T Study of the Elements: Rock |QID|711| |N|Lotwil Veriatus - (25.9, 44.9)| |Z|Badlands|

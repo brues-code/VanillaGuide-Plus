@@ -16,7 +16,7 @@ R Run straight north while climbing the mountain |N|(31.2, 61.6)| |O| |Z|Ashenva
 R Climb the hill next to the big tree to the right of the Fire Scar Shrine entrance |N|(27.5, 60.8)| |O| |Z|Ashenvale|
 N Jump over the tree root and hug the right to avoid aggroing mobs |N|(27.5, 60.8)| |O| |Z|Ashenvale|
 N Ilkrud Magthrull will cast [Ilkrud's Guardians] which is a 5 second long cast and will summon 2 Voidwalkers. Stop this cast if you're able to |N|(25.3, 60.7)| |Z|Ashenvale|
-N |cRXP_WARN_Clear an exit path if needed so you can reset them along with the Succubus if needed. You may skip this if it's too difficult and do it in the later Ashenvale section |N|(25.3, 60.7)| |Z|Ashenvale|
+N Clear an exit path if needed so you can reset them along with the Succubus if needed. You may skip this if it's too difficult and do it in the later Ashenvale section |N|(25.3, 60.7)| |Z|Ashenvale|
 C The Tower of Althalaxx |QID|973| |N|Ilkrud Magthrull. Loot him for his Tome (25.3, 60.7)| |Z|Ashenvale|
 T Therylune's Escape |QID|945| |N|Therysil - (22.6, 51.9)| |Z|Ashenvale|
 T The Tower of Althalaxx |QID|973| |N|Delgren the Purifier - (26.2, 38.7)| |Z|Ashenvale|
@@ -26,14 +26,14 @@ C The Zoram Strand |QID|1008| |N|Kill Wrathtail Nagas. Loot them for their Heads
 C The Ancient Statuette |QID|1007| |N|the Ancient Statuette on the ground (14.2, 20.6)| |Z|Ashenvale|
 T The Ancient Statuette |QID|1007| |N|Talen - (14.8, 31.3)| |Z|Ashenvale|
 A Ruuzel |QID|1009| |N|Talen - (14.8, 31.3)| |Z|Ashenvale|
-N Ruuzel |cRXP_WARN_patrols the island with a Wrathtail Myrmidon and Wrathtail Sea Witch. Kill one of them and then reset them if needed |N|(6.5, 13.4)| |O| |Z|Ashenvale|
+N Ruuzel patrols the island with a Wrathtail Myrmidon and Wrathtail Sea Witch. Kill one of them and then reset them if needed |N|(6.5, 13.4)| |O| |Z|Ashenvale|
 N If you have any [Bombs]/[Grenades] you can also use them to split pull Ruuzel |N|(6.5, 13.4)| |O| |Z|Ashenvale|
 N You can also use [Blizzard] to split pull Ruuzel |N|(6.5, 13.4)| |O| |C|Mage| |Z|Ashenvale|
 N You can also use [Rain of Fire] to split pull Ruuzel |N|(6.5, 13.4)| |O| |C|Warlock| |Z|Ashenvale|
-N Lady Vespia |cRXP_WARN_is a rarespawn that can also drop the Ring of Zoram if you see her |N|(6.5, 13.4)| |O| |Z|Ashenvale|
+N Lady Vespia is a rarespawn that can also drop the Ring of Zoram if you see her |N|(6.5, 13.4)| |O| |Z|Ashenvale|
 C Ruuzel |QID|1009| |N|Ruuzel. Loot her for the Ring of Zoram (6.5, 13.4)| |O| |Z|Ashenvale|
-N Ruuzel |cRXP_WARN_patrols the island with a Wrathtail Myrmidon and Wrathtail Sea Witch. Kill one of them and then reset them if needed |N|(6.5, 13.4)| |Z|Ashenvale|
-N Lady Vespia |cRXP_WARN_is a rarespawn that can also drop the Ring of Zoram if you see her |N|(6.5, 13.4)| |Z|Ashenvale|
+N Ruuzel patrols the island with a Wrathtail Myrmidon and Wrathtail Sea Witch. Kill one of them and then reset them if needed |N|(6.5, 13.4)| |Z|Ashenvale|
+N Lady Vespia is a rarespawn that can also drop the Ring of Zoram if you see her |N|(6.5, 13.4)| |Z|Ashenvale|
 N You can also use [Blizzard] to split pull Ruuzel |N|(6.5, 13.4)| |C|Mage| |Z|Ashenvale|
 N You can also use [Rain of Fire] to split pull Ruuzel |N|(6.5, 13.4)| |C|Warlock| |Z|Ashenvale|
 C Ruuzel |QID|1009| |N|Ruuzel. Loot her for the Ring of Zoram (6.5, 13.4)| |Z|Ashenvale|
@@ -103,8 +103,8 @@ C Deviate Hides |QID|1486| |N|Deviate Eradication (WC Dungeon Quest)| |D|WC| |Z|
 C Deviate Eradication |QID|1487| |N|(WC Dungeon Quest)| |D|WC| |Z|Tirisfal Glades|
 C Deviate Hides |QID|1486| |N|Kill all types of Deviate creatures. Loot them for their Deviate Hides (WC Dungeon Quest)| |D|WC| |Z|Tirisfal Glades|
 N Kill Mutanus the Devourer. Loot him for the [Glowing Shard] |N|(WC Dungeon Quest)| |D|WC| |Z|Tirisfal Glades|
-N |cRXP_WARN_Use the [Glowing Shard] to start the quest |N|(WC Dungeon Quest)| |D|WC| |Z|Tirisfal Glades|
-C The Glowing Shard |QID|6981| |N|Escort the Disciple of Naralex through Wailing Caverns and complete the ritual of awakening (WC Dungeon Quest)| |D|WC| |Z|Tirisfal Glades|
+N Use the [Glowing Shard] to start the quest |N|(WC Dungeon Quest)| |D|WC| |Z|Tirisfal Glades|
+C Lord Cobrahn, Lord Pythas, Lord Serpentis and Lady Anacondra then the Disciple of Naralex at the start of the instance to start his escort |QID|6981| |L|10441 1| |N|Escort the Disciple of Naralex through Wailing Caverns and complete the ritual of awakening (WC Dungeon Quest)| |D|WC| |Z|Tirisfal Glades|
 A The Glowing Shard |QID|6981| |N|Escort the Disciple of Naralex through Wailing Caverns and complete the ritual of awakening (WC Dungeon Quest)| |D|WC| |Z|Tirisfal Glades|
 C Deviate Hides |QID|1486| |N|This can be completed INSIDE and OUTSIDE of Wailing Caverns (WC Dungeon Quest)| |D|WC| |Z|Tirisfal Glades|
 R Travel to The Barrens |N|(63.0, 37.2) (WC Dungeon Quest)| |D|WC| |Z|The Barrens|
@@ -154,7 +154,7 @@ F Fly to Ashenvale |N|Teloren - (36.4, 7.2)| |C|!Warlock| |Z|Stonetalon Mountain
 f Get the Stonetalon Flight Path |N|Teloren - (36.4, 7.2)| |C|Warlock| |Z|Stonetalon Mountains|
 B Vendor trash |N|Illyanie - (35.6, 7.4) (!WC Dungeon Quest)| |C|Warlock| |D|!WC| |Z|Stonetalon Mountains|
 R Travel to The Barrens |N|(35.1, 27.0) (!WC Dungeon Quest)| |C|Warlock| |D|!WC| |Z|The Barrens|
-R |cRXP_WARN_FOLLOW THE ARROW TO AVOID BARRENS GUARDS! |N|(40.4, 24.8) (!WC Dungeon Quest)| |C|Warlock| |D|!WC| |Z|The Barrens|
+R FOLLOW THE ARROW TO AVOID BARRENS GUARDS! |N|(40.4, 24.8) (!WC Dungeon Quest)| |C|Warlock| |D|!WC| |Z|The Barrens|
 N Ensure you have at least 4 [Soul Shards] before dying intentionally, you're about to spirit res 4 times total |N|(!WC Dungeon Quest)| |C|Warlock| |D|!WC| |Z|The Barrens|
 T Devourer of Souls |QID|1716| |N|Takar the Seer - (49.3, 57.1) (!WC Dungeon Quest)| |C|Warlock| |D|!WC| |Z|The Barrens|
 A Heartswood |QID|1738| |N|Takar the Seer - (49.3, 57.1) (!WC Dungeon Quest)| |C|Warlock| |D|!WC| |Z|The Barrens|
@@ -186,8 +186,8 @@ N Be careful as the Foulweald Ursas can [Thrash] hitting you 3 times at once |N|
 N You will kill the rest after finishing the Elemental Bracers quest |N|(50.1, 59.9)| |O| |Z|Ashenvale|
 C An Aggressive Defense |QID|1025| |N|Kill a few Foulweald Warriors and Foulweald Totemics before heading south toward the Water Elementals ,5| |O| |Z|Ashenvale|
 A Elemental Bracers |QID|1016| |N|Sentinel Velene Starstrike - (49.8, 67.2)| |Z|Ashenvale|
-N |cRXP_WARN_The Befouled Water Elementals cast [Frost Nova]. Pay attention to your breath timer if you dive underwater to kill them |N|(48.9, 70.0)| |Z|Ashenvale|
-C Elemental Bracers |QID|1016| |N|Befouled Water Elementals. Loot them for their Bracers (48.9, 70.0)| |Z|Ashenvale|
+N The Befouled Water Elementals cast [Frost Nova]. Pay attention to your breath timer if you dive underwater to kill them |N|(48.9, 70.0)| |Z|Ashenvale|
+C Befouled Water Elementals. Loot them for their Bracers |QID|1016| |L|12220 5| |N|Befouled Water Elementals. Loot them for their Bracers - (48.9, 70.0)| |Z|Ashenvale|
 C Elemental Bracers |QID|1016| |Z|Ashenvale|
 T Elemental Bracers |QID|1016| |N|Sentinel Velene Starstrike - (49.8, 67.2)| |Z|Ashenvale|
 N Be careful as the Foulweald Ursas can [Thrash] hitting you 3 times at once |N|(50.1, 59.9)| |Z|Ashenvale|
@@ -201,8 +201,8 @@ N Dal Bloodclaw patrols Thistlefur Village |N|(39.6, 36.3)| |Z|Ashenvale|
 C Culling the Threat |QID|1054| |N|Dal Bloodclaw. Loot him for his Skull (39.6, 36.3)| |Z|Ashenvale|
 R The Ruins of Ordil'Aran |N|(31.5, 31.5)| |O| |C|Warlock| |Z|Ashenvale|
 C Heartswood |QID|1738| |N|the Heartswood giant tree (31.5, 31.5)| |C|Warlock| |Z|Ashenvale|
-C What is Love? |QID|65602| |N|the Unlit Torch on the table (26.8, 22.4)| |C|Warlock| |Z|Ashenvale|
-C What is Love? |QID|65602| |N|Create a campfire, then use the Unlit Torch on top of it (26.8, 22.4)| |C|Warlock| |Z|Ashenvale|
+C the Unlit Torch on the table |QID|65602| |L|190307 1| |N|the Unlit Torch on the table - (26.8, 22.4)| |C|Warlock| |Z|Ashenvale|
+C Create a campfire, then use the Unlit Torch on top of it |QID|65602| |L|190308 1| |N|Create a campfire, then use the Unlit Torch on top of it - (26.8, 22.4)| |C|Warlock| |Z|Ashenvale|
 C What is Love? |QID|65602| |N|Use the Burning Torch on the cart outside next to where you looted the torch, then go upstairs and loot the statue (26.6, 22.0)| |C|Warlock| |Z|Ashenvale|
 R Astranaar |N|(34.4, 48.0)| |O| |C|Warlock| |Z|Ashenvale|
 T An Aggressive Defense |QID|1025| |N|Raene Wolfrunner - (36.6, 49.6)| |Z|Ashenvale|

@@ -231,15 +231,17 @@ function TurtleGuide:UpdateStatusFrame()
 			local zonetext, subzonetext, subzonetag = GetZoneText(), GetSubZoneText(), self:GetObjectiveTag("SZ")
 			if (action == "RUN" or action == "FLY" or action == "HEARTH" or action == "BOAT") and (subzonetext == name or subzonetext == subzonetag or zonetext == name or zonetext == subzonetag) then return self:SetTurnedIn(i, true) end
 
-			if action == "KILL" or action == "NOTE" then
-				if not optional and haslootitem then return self:SetTurnedIn(i, true) end
+			if action == "KILL" or action == "NOTE" or action == "COMPLETE" or action == "BUY" then
+				if haslootitem then return self:SetTurnedIn(i, true) end
 
-				local quest, questtext = self:GetObjectiveTag("Q", i), self:GetObjectiveTag("QO", i)
-				if quest and questtext then
-					local qi = self:GetQuestLogIndexByName(quest)
-					for lbi = 1, GetNumQuestLeaderBoards(qi) do
-						self:Debug(quest, questtext, qi, GetQuestLogLeaderBoard(lbi, qi))
-						if GetQuestLogLeaderBoard(lbi, qi) == questtext then return self:SetTurnedIn(i, true) end
+				if action == "KILL" or action == "NOTE" then
+					local quest, questtext = self:GetObjectiveTag("Q", i), self:GetObjectiveTag("QO", i)
+					if quest and questtext then
+						local qi = self:GetQuestLogIndexByName(quest)
+						for lbi = 1, GetNumQuestLeaderBoards(qi) do
+							self:Debug(quest, questtext, qi, GetQuestLogLeaderBoard(lbi, qi))
+							if GetQuestLogLeaderBoard(lbi, qi) == questtext then return self:SetTurnedIn(i, true) end
+						end
 					end
 				end
 			end

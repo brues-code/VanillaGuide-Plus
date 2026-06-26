@@ -11,7 +11,7 @@ N Kill Webwood Lurkers. Loot them for their Silk |O| |Z|Teldrassil|
 N Be careful as the Nightsabers and Strigid Owls move very fast! Strigid Owls will also social aggro other Owls if you run past them while in combat with one |O| |Z|Teldrassil|
 C Zenn's Bidding |QID|488| |N|Kill Nightsabers. Loot them for their Fangs Collect Nightsaber Fang (x3)| |O| |Z|Teldrassil|
 N You need these for a later quest |O| |Z|Teldrassil|
-C Kill Webwood Lurkers and Webwood Venomfangs. Loot them for their Small Spider Legs |QID|4161| |N|Kill Webwood Lurkers and Webwood Venomfangs. Loot them for their Small Spider Legs| |O| |Z|Teldrassil|
+C Collect Small Spider Leg (x7) |QID|4161| |L|5465 7| |N|Kill Webwood Lurkers and Webwood Venomfangs. Loot them for their Small Spider Legs| |O| |Z|Teldrassil|
 N Make sure you have 1 empty bagspace slot before accepting this quest |N|(56.1, 57.7)| |Z|Teldrassil|
 A Denalan's Earth |QID|997| |N|Syral Bladeleaf - (56.1, 57.7)| |Z|Teldrassil|
 A A Troubling Breeze |QID|475| |N|Athridas Bearmantle - (56.0, 57.3)| |Z|Teldrassil|
@@ -23,13 +23,13 @@ A Twisted Hatred |QID|932| |N|Tallonkai Swiftroot atop the Tree - (55.6, 56.9)| 
 A The Emerald Dreamcatcher |QID|2438| |N|Tallonkai Swiftroot atop the Tree - (55.6, 56.9)| |Z|Teldrassil|
 N Buy and equip a [Hornwood Recurve Bow] |N|(55.9, 59.2)| |C|Hunter| |Z|Teldrassil|
 N Buy [Rough Arrows] until your Quiver is full |N|(55.9, 59.2)| |C|Hunter| |Z|Teldrassil|
-C Jeena Featherbow |N|Jeena Featherbow - (55.9, 59.2)| |C|Hunter| |Z|Teldrassil|
+B Collect Hornwood Recurve Bow |L|2506 1| |N|Jeena Featherbow - (55.9, 59.2)| |C|Hunter| |Z|Teldrassil|
 B Buy [Rough Arrows] until your Quiver is full |N|Jeena Featherbow - (55.9, 59.2)| |C|Hunter| |Z|Teldrassil|
 t Train your class spells |N|Kyra Windblade - (56.2, 59.2)| |C|Warrior| |Z|Teldrassil|
 t Train your class spells |N|Jannok Breezesong - (56.4, 60.1)| |C|Rogue| |Z|Teldrassil|
 T Dolanaar Delivery |QID|2159| |N|Innkeeper Keldamyr - (55.6, 59.8)| |C|Hunter| |Z|Teldrassil|
 T Dolanaar Delivery |QID|2159| |N|Innkeeper Keldamyr - (55.6, 59.8)| |C|!Hunter| |Z|Teldrassil|
-B |cRXP_BUY_Buy 10 Ice Cold Milk or as much as you can afford |N|Innkeeper Keldamyr - (55.6, 59.8)| |C|Priest| |Z|Teldrassil|
+B Buy 10 Ice Cold Milk or as much as you can afford |N|Innkeeper Keldamyr - (55.6, 59.8)| |C|Priest| |Z|Teldrassil|
 t Train your class spells |N|Kal - (55.9, 61.6)| |C|Druid| |Z|Teldrassil|
 T Crown of the Earth |QID|928| |N|Corithras Moonrage - (56.1, 61.7)| |Z|Teldrassil|
 A Crown of the Earth |QID|929| |N|Corithras Moonrage - (56.1, 61.7)| |Z|Teldrassil|
@@ -38,11 +38,11 @@ N Kill Webwood Lurkers. Loot them for their Silk |O| |Z|Teldrassil|
 N Be careful as the Nightsabers and Strigid Owls move very fast! Strigid Owls will also social aggro other Owls if you run past them while in combat with one |O| |Z|Teldrassil|
 C Zenn's Bidding |QID|488| |N|Kill Nightsabers. Loot them for their Fangs Collect Nightsaber Fang (x3)| |O| |Z|Teldrassil|
 N You need these for a later quest |O| |Z|Teldrassil|
-C Kill Webwood Lurkers and Webwood Venomfangs. Loot them for their Small Spider Legs |QID|4161| |N|Kill Webwood Lurkers and Webwood Venomfangs. Loot them for their Small Spider Legs| |O| |Z|Teldrassil|
+C Collect Small Spider Leg (x7) |QID|4161| |L|5465 7| |N|Kill Webwood Lurkers and Webwood Venomfangs. Loot them for their Small Spider Legs| |O| |Z|Teldrassil|
 N [Herbalism] is required to gather 5 [Earthroot] for an important class quest soon. You can unlearn it afterwards |N|(57.7, 60.6)| |C|Druid| |Z|Teldrassil|
 t Train [Herbalism] |N|Malorne Bladeleaf - (57.7, 60.6)| |C|Druid| |Z|Teldrassil|
-C Earthroot (5) |QID|6123| |O| |C|Druid| |Z|Teldrassil|
-C |cRXP_WARN_Collect 5 [Earthroot] via [Herbalism] and rarely Battered Chests for a future class quest |QID|6123| |N||cRXP_WARN_Collect 5 [Earthroot] via [Herbalism] and rarely Battered Chests for a future class quest| |O| |C|Druid| |Z|Teldrassil|
+C Earthroot (5) |QID|6123| |L|2449 5| |O| |C|Druid| |Z|Teldrassil|
+C Earthroot (5) |QID|6123| |L|2449 5| |N|Collect 5 [Earthroot] via [Herbalism] and rarely Battered Chests for a future class quest| |O| |C|Druid| |Z|Teldrassil|
 N Cast [Lesser Heal (Rank 2)] and [Power Word: Fortitude] on Sentinel Shaya |N|(57.2, 63.5)| |C|Priest| |Z|Teldrassil|
 C Garments of the Moon |QID|5621| |N|Target Sentinel Shaya Heal and fortify Sentinel Shaya| |C|Priest| |Z|Teldrassil|
 T Denalan's Earth |QID|997| |N|Denalan - (60.9, 68.5)| |Z|Teldrassil|
@@ -59,14 +59,14 @@ N Kill Webwood Lurkers. Loot them for their Silk |O| |Z|Teldrassil|
 N Be careful as the Nightsabers and Strigid Owls move very fast! Strigid Owls will also social aggro other Owls if you run past them while in combat with one |O| |Z|Teldrassil|
 C Zenn's Bidding |QID|488| |N|Kill Nightsabers. Loot them for their Fangs Collect Nightsaber Fang (x3)| |O| |Z|Teldrassil|
 N You need these for a later quest |O| |Z|Teldrassil|
-C Kill Webwood Lurkers and Webwood Venomfangs. Loot them for their Small Spider Legs |QID|4161| |N|Kill Webwood Lurkers and Webwood Venomfangs. Loot them for their Small Spider Legs| |O| |Z|Teldrassil|
+C Collect Small Spider Leg (x7) |QID|4161| |L|5465 7| |N|Kill Webwood Lurkers and Webwood Venomfangs. Loot them for their Small Spider Legs| |O| |Z|Teldrassil|
 R Starbreeze Village |N|(68.0, 59.7)| |O| |Z|Teldrassil|
 C The Emerald Dreamcatcher |QID|2438| |N|Tallonkai's Dresser. Loot it for the Emerald Dreamcatcher Collect Emerald Dreamcatcher (x1)| |Z|Teldrassil|
 T A Troubling Breeze |QID|475| |N|Gaerolas Talvethren up stairs - (66.3, 58.5)| |Z|Teldrassil|
 A Gnarlpine Corruption |QID|476| |N|Gaerolas Talvethren up stairs - (66.3, 58.5)| |Z|Teldrassil|
 C Crown of the Earth |QID|929| |N|Use the [Jade Phial] at the Starbreeze Village Moonwell Collect Filled Jade Phial (x1)| |Z|Teldrassil|
 N You need these for a later quest |O| |Z|Teldrassil|
-C Kill Webwood Lurkers and Webwood Venomfangs. Loot them for their Small Spider Legs |QID|4161| |N|Kill Webwood Lurkers and Webwood Venomfangs. Loot them for their Small Spider Legs| |O| |Z|Teldrassil|
+C Collect Small Spider Leg (x7) |QID|4161| |L|5465 7| |N|Kill Webwood Lurkers and Webwood Venomfangs. Loot them for their Small Spider Legs| |O| |Z|Teldrassil|
 N Kill Strigid Owls. Loot them for their Feathers |N|(66.1, 52.4)| |Z|Teldrassil|
 N Kill Webwood Lurkers. Loot them for their Silk |N|(66.1, 52.4)| |Z|Teldrassil|
 N Save any [Small Eggs] and [Small Spider Legs] to use for leveling [Cooking] later |N|(66.1, 52.4)| |Z|Teldrassil|
@@ -86,32 +86,32 @@ T Crown of the Earth |QID|929| |N|Corithras Moonrage - (56.1, 61.7)| |C|Druid| |
 A Crown of the Earth |QID|933| |N|Corithras Moonrage - (56.1, 61.7)| |C|Druid| |Z|Teldrassil|
 t Train your class spells |N|Kal - (55.9, 61.6)| |C|Druid| |Z|Teldrassil|
 N You need these for a later quest |O| |Z|Teldrassil|
-C Kill Webwood Lurkers and Webwood Venomfangs. Loot them for their Small Spider Legs |QID|4161| |N|Kill Webwood Lurkers and Webwood Venomfangs. Loot them for their Small Spider Legs| |O| |Z|Teldrassil|
+C Collect Small Spider Leg (x7) |QID|4161| |L|5465 7| |N|Kill Webwood Lurkers and Webwood Venomfangs. Loot them for their Small Spider Legs| |O| |Z|Teldrassil|
 N They are usually located next to tree trunks |O| |Z|Teldrassil|
 C Seek Redemption! |QID|489| |N|Loot the Fel Cones on the ground Collect Fel Cone (x3)| |O| |Z|Teldrassil|
-N |cRXP_WARN_If there aren't many Gnarlpine Mystics you may have to kill Gnarlpine Warriors to make them spawn |O| |Z|Teldrassil|
+N If there aren't many Gnarlpine Mystics you may have to kill Gnarlpine Warriors to make them spawn |O| |Z|Teldrassil|
 C Ferocitas the Dream Eater |QID|2459| |N|Kill Gnarlpine Mystics Kill Gnarlpine Mystic (x7)| |O| |Z|Teldrassil|
 C Ferocitas the Dream Eater |QID|2459| |N|Ferocitas the Dream Eater. Loot him for the [Gnarlpine Necklace]. Be careful as he can [Thrash] hitting you up to three times at once Collect Tallonkai's Jewel (x1)| |Z|Teldrassil|
-N |cRXP_WARN_If there aren't many Gnarlpine Mystics you may have to kill Gnarlpine Warriors to make them spawn |N|(69.4, 53.4)| |Z|Teldrassil|
+N If there aren't many Gnarlpine Mystics you may have to kill Gnarlpine Warriors to make them spawn |N|(69.4, 53.4)| |Z|Teldrassil|
 C Ferocitas the Dream Eater |QID|2459| |N|Gnarlpine Mystics Kill Gnarlpine Mystic (x7)| |Z|Teldrassil|
 B Vendor and repair if necessary |N|Brannol Eaglemoon - (56.2, 60.2)| |Z|Teldrassil|
 N They are usually located next to tree trunks |N|(58.7, 55.7)| |Z|Teldrassil|
 C Seek Redemption! |QID|489| |N|the Fel Cones on the ground Collect Fel Cone (x3)| |Z|Teldrassil|
 T Seek Redemption! |QID|489| |N|Zenn Foulhoof - (60.4, 56.4)| |Z|Teldrassil|
 N You need these for a later quest |O| |Z|Teldrassil|
-C Kill Webwood Lurkers and Webwood Venomfangs. Loot them for their Small Spider Legs |QID|4161| |N|Kill Webwood Lurkers and Webwood Venomfangs. Loot them for their Small Spider Legs| |O| |Z|Teldrassil|
+C Collect Small Spider Leg (x7) |QID|4161| |L|5465 7| |N|Kill Webwood Lurkers and Webwood Venomfangs. Loot them for their Small Spider Legs| |O| |Z|Teldrassil|
 R Fel Rock |N|(54.4, 51.2)| |O| |Z|Teldrassil|
 N Lord Melenas may be located in many different spawn locations throughout Fel Rock |N|(51.2, 50.6)| |Z|Teldrassil|
 C Twisted Hatred |QID|932| |N|Lord Melenas. Loot him for his Head Collect Melenas' Head (x1)| |Z|Teldrassil|
 T Crown of the Earth |QID|929| |N|Corithras Moonrage - (56.1, 61.7)| |C|!Druid| |Z|Teldrassil|
 A Crown of the Earth |QID|933| |N|Corithras Moonrage - (56.1, 61.7)| |Z|Teldrassil|
 N You need these for a later quest |O| |Z|Teldrassil|
-C Kill Webwood Lurkers and Webwood Venomfangs. Loot them for their Small Spider Legs |QID|4161| |N|Kill Webwood Lurkers and Webwood Venomfangs. Loot them for their Small Spider Legs| |O| |Z|Teldrassil|
+C Collect Small Spider Leg (x7) |QID|4161| |L|5465 7| |N|Kill Webwood Lurkers and Webwood Venomfangs. Loot them for their Small Spider Legs| |O| |Z|Teldrassil|
 R southwestern Teldrassil |N|(42.6, 76.2)| |O| |Z|Teldrassil|
 A The Glowing Fruit |QID|930| |N|the Strange Fruited Plant - (42.6, 76.2)| |Z|Teldrassil|
 R the Pools of Arlithrien |N|(42.4, 67.1)| |O| |Z|Teldrassil|
 C Crown of the Earth |QID|933| |N|(42.4, 67.1)| |Z|Teldrassil|
-C Webwood Lurkers and Webwood Venomfangs. Loot them for their Small Spider Legs |QID|4161| |N|Webwood Lurkers and Webwood Venomfangs. Loot them for their Small Spider Legs - (44.9, 73.8)| |Z|Teldrassil|
+C Collect Small Spider Leg (x7) |QID|4161| |L|5465 7| |N|Webwood Lurkers and Webwood Venomfangs. Loot them for their Small Spider Legs (44.9, 73.8)| |Z|Teldrassil|
 R Dolanaar |N|(56.1, 61.7)| |O| |Z|Teldrassil|
 T Crown of the Earth |QID|933| |N|Corithras Moonrage - (56.1, 61.7)| |Z|Teldrassil|
 A Crown of the Earth |QID|7383| |N|Corithras Moonrage - (56.1, 61.7)| |Z|Teldrassil|
@@ -144,7 +144,7 @@ A Teldrassil |QID|940| |N|Sentinel Arynia Cloudsbreak - (38.3, 34.4)| |C|!Hunter
 T Mist |QID|938| |N|Sentinel Arynia Cloudsbreak - (38.3, 34.4)| |C|!Hunter| |Z|Teldrassil|
 G Grind to level 10 |C|Druid| |Z|Teldrassil|
 G Grind to level 10 |C|!Hunter/!Druid| |Z|Teldrassil|
-C Recipe of the Kaldorei |QID|4161| |N|Finish off collecting 7 Small Spider Legs Collect Small Spider Leg (x7)| |Z|Teldrassil|
+C Collect Small Spider Leg (x7) |QID|4161| |L|5465 7| |N|Finish off collecting 7 Small Spider Legs (38.6, 58.0)| |Z|Teldrassil|
 R If you're still behind on xp do the harpy quest north |N|(38.3, 34.4)| |C|Druid| |Z|Teldrassil|
 G Grind to level 10 |C|!Druid| |Z|Teldrassil|
 C The Enchanted Glade |QID|937| |N|Kill Bloodfeather Harpies on the way to Darnassus. Loot them for their Belts. You don't have to complete this objective now Collect Bloodfeather Belt (x6)| |O| |C|!Rogue| |Z|Teldrassil|
@@ -207,7 +207,7 @@ T The Apple Falls |QID|2241| |N|Syurna - (37.0, 21.9)| |C|Rogue| |Z|Darnassus|
 A Destiny Calls |QID|2242| |N|Syurna - (37.0, 21.9)| |C|Rogue| |Z|Darnassus|
 A Tears of the Moon |QID|2518| |N|Priestess A'moora - (36.6, 85.9)| |C|Rogue| |Z|Darnassus|
 R Travel to Teldrassil |N|(45.6, 31.4)| |C|Hunter| |Z|Teldrassil|
-t Attack mobs with it to learn [Claw (Rank 2)] |N|Cast [Tame Beast] |cRXP_WARN_on a Strigid Hunter to tame it -- .tame 1997 - (37.6, 28.8)| |C|Hunter| |Z|Teldrassil|
+t Attack mobs with it to learn [Claw (Rank 2)] |N|Cast [Tame Beast] on a Strigid Hunter to tame it -- .tame 1997 - (37.6, 28.8)| |C|Hunter| |Z|Teldrassil|
 C Tumors |QID|923| |N|Timberling Tramplers, Timberling Mire Beasts and Elder Timberlings. Loot them for their Tumors Collect Mossy Tumor (x5)| |O| |Z|Teldrassil|
 N Head north along the river and check the easternmost spawn point first. Work on the [Tumors] quest as you go |N|(39.6, 25.6)| |Z|Teldrassil|
 N If she's not east of the river complete the [Tumors] quest before heading west |N|(39.6, 25.6)| |Z|Teldrassil|
@@ -215,7 +215,7 @@ C Tears of the Moon |QID|2518| |N|Lady Sathrah can spawn in 3 different location
 A The Enchanted Glade |QID|937| |N|Sentinel Arynia Cloudsbreak - (38.3, 34.3)| |Z|Teldrassil|
 N You must be in [Stealth] to use [Pick Pocket] |N|(38.0, 25.2)| |C|Rogue| |Z|Teldrassil|
 N Sethir the Ancient walks along the big tree branch |N|(38.0, 25.2)| |C|Rogue| |Z|Teldrassil|
-N |cRXP_WARN_Avoid fighting Sethir the Ancient. Let him walk passed you, then [Stealth] and [Pick Pocket] when you're behind him |N|(38.0, 25.2)| |C|Rogue| |Z|Teldrassil|
+N Avoid fighting Sethir the Ancient. Let him walk passed you, then [Stealth] and [Pick Pocket] when you're behind him |N|(38.0, 25.2)| |C|Rogue| |Z|Teldrassil|
 C Destiny Calls |QID|2242| |N|Cast [Pick Pocket] on Sethir the Ancient (38.0, 25.2)| |C|Rogue| |Z|Teldrassil|
 N Bloodfeather Matriarchs cast [Healing Wave] and [Lightning Bolt] which does a lot of damage. Try to burst them fast |N|(33.6, 29.8)| |Z|Teldrassil|
 C The Enchanted Glade |QID|937| |N|Bloodfeather Harpies. Loot them for their Belts Collect Bloodfeather Belt (x6)| |Z|Teldrassil|
@@ -249,14 +249,14 @@ T Sathrah's Sacrifice |QID|2520| |N|Priestess A'moora - (36.6, 85.9)| |Z|Darnass
 t Train [Herbalism] |N|Firodren Mooncaller - (48.0, 68.0)| |C|Druid| |Z|Darnassus|
 N [Herbalism] is required to gather 5 [Earthroot] for an important class quest soon. You can unlearn it afterwards |N|(48.0, 68.0)| |C|Druid| |Z|Darnassus|
 N You will need it to feed your owl, they only eat meat and there's no meat vendor in Darkshore |N|(64.2, 63.0)| |C|Hunter| |Z|Darnassus|
-C Buy a stack of [Tough Jerky] |cRXP_BUY_from her. |N|Buy a stack of [Tough Jerky] |cRXP_BUY_from her. - (64.2, 63.0)| |C|Hunter| |Z|Darnassus|
+B Look for Jaeana, she patrols around the Tradesmen's Terrace |L|117 15| |N|Buy a stack of [Tough Jerky] from her. - (64.2, 63.0)| |C|Hunter| |Z|Darnassus|
 B Buy [Sharp Arrows] |N|Ariyell Skyshadow - (58.8, 44.5)| |C|Hunter| |Z|Darnassus|
 N Buy a [Gnarled Staff]. Equip it at level 15 |N|(58.8, 44.5)| |C|Warrior| |Z|Darnassus|
-C Ariyell Skyshadow |N|Ariyell Skyshadow - (58.8, 44.5)| |C|Warrior| |Z|Darnassus|
+B Ariyell Skyshadow |L|2030 1| |N|Ariyell Skyshadow - (58.8, 44.5)| |C|Warrior| |Z|Darnassus|
 N Buy and equip a [Cutlass] if you can't afford a [Quarter Staff] |N|(58.8, 44.5)| |C|Warrior| |Z|Darnassus|
-C Ariyell Skyshadow |N|Ariyell Skyshadow - (58.8, 44.5)| |C|Warrior| |Z|Darnassus|
+B Ariyell Skyshadow |L|851 1| |N|Ariyell Skyshadow - (58.8, 44.5)| |C|Warrior| |Z|Darnassus|
 N Buy a [Balanced Throwing Dagger] |N|(62.7, 65.6)| |C|Rogue| |Z|Darnassus|
-C Rellian Greenspyre on the second floor |N|Rellian Greenspyre on the second floor - (62.7, 65.6)| |C|Rogue| |Z|Darnassus|
+B Balanced Throwing Dagger |L|2946 1| |N|Rellian Greenspyre on the second floor - (62.7, 65.6)| |C|Rogue| |Z|Darnassus|
 T Nessa Shadowsong |QID|6344| |N|Nessa Shadowsong - (56.2, 92.4)| |Z|Teldrassil|
 A The Bounty of Teldrassil |QID|6341| |N|Nessa Shadowsong - (56.2, 92.4)| |Z|Teldrassil|
 T Return to Nessa |QID|6343| |N|Nessa Shadowsong - (56.2, 92.4)| |O| |Z|Teldrassil|

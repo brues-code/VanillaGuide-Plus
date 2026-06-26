@@ -60,8 +60,8 @@ C Troll Temper |QID|3042| |N|Kill Trolls. Loot them for their Troll Temper (ZF D
 C Scarab Shells |QID|2865| |N|Kill Scarabs. Loot them for their Uncracked Scarab Shell (ZF Dungeon Quest)| |D|ZF| |Z|Tanaris|
 C The Prophecy of Mosh'aru |QID|3527| |N|Kill Theka the Martyr. Loot him for the First Mosh'aru Tablet (ZF Dungeon Quest)| |D|ZF| |Z|Tanaris|
 C Scarab Shells |QID|2865| |N|(ZF Dungeon Quest)| |D|ZF| |Z|Tanaris|
-N Use the Executioner's Key |cRXP_WARN_on one of the Troll Cages to free Sergeant Bly and his band |N|(ZF Dungeon Quest)| |D|ZF| |Z|Tanaris|
-C Anyone in the party may loot the Key |N|Anyone in the party may loot the Key (ZF Dungeon Quest)| |D|ZF| |Z|Tanaris|
+N Use the Executioner's Key on one of the Troll Cages to free Sergeant Bly and his band |N|(ZF Dungeon Quest)| |D|ZF| |Z|Tanaris|
+C Ascend the Pyramid |L|8444 1| |N|Anyone in the party may loot the Key (ZF Dungeon Quest)| |D|ZF| |Z|Tanaris|
 N After you kill Nekrum Gutchewer, eat and drink then Sergeant Bly to fight him |N|(ZF Dungeon Quest)| |D|ZF| |Z|Tanaris|
 N Kill Sergeant Bly. Loot him for the Divino-matic Rod |N|(ZF Dungeon Quest)| |D|ZF| |Z|Tanaris|
 C Kill Nekrum Gutchewer. Loot him for Nekrum's Medallion |QID|2991| |N|Kill Nekrum Gutchewer. Loot him for Nekrum's Medallion (ZF Dungeon Quest)| |D|ZF| |Z|Tanaris|
@@ -76,7 +76,7 @@ C Kill Hydromancer Velratha |QID|2846| |N|(ZF Dungeon Quest)| |D|ZF| |Z|Tanaris|
 C The Prophecy of Mosh'aru |QID|3527| |N|Kill Hydromancer Velratha. Loot her for the Second Mosh'aru Tablet (ZF Dungeon Quest)| |D|ZF| |Z|Tanaris|
 N Kill Gahz'rilla. Loot him for Gahz'rilla's Electrified Scale |N|(ZF Dungeon Quest)| |D|ZF| |Z|Tanaris|
 N If no one in your party has the [Mallet of Zul'Farrak] you will not be able to summon Gahz'rilla |N|(ZF Dungeon Quest)| |D|ZF| |Z|Tanaris|
-C Gahz'rilla |QID|2770| |N|Use the [Mallet of Zul'Farrak] |cRXP_WARN_on the Gong of Zul'Farrak to summon Gahz'rilla (ZF Dungeon Quest)| |D|ZF| |Z|Tanaris|
+C Gahz'rilla |QID|2770| |N|Use the [Mallet of Zul'Farrak] on the Gong of Zul'Farrak to summon Gahz'rilla (ZF Dungeon Quest)| |D|ZF| |Z|Tanaris|
 C Troll Temper |QID|3042| |N|(ZF Dungeon Quest)| |D|ZF| |Z|Tanaris|
 T Troll Temper |QID|3042| |N|Trenton Lighthammer - (51.4, 28.8) (ZF Dungeon Quest)| |D|ZF| |Z|Tanaris|
 T Divino-matic Rod |QID|2768| |N|Chief Engineer Bilgewhizzle - (52.5, 28.5) (ZF Dungeon Quest)| |D|ZF| |Z|Tanaris|
@@ -88,7 +88,7 @@ N Buy food/water if needed |Z|Thousand Needles|
 R Swim west towards Tabetha |N|(55.3, 50.5)| |O| |C|Warlock| |Z|Dustwallow Marsh|
 T Fragments of the Orb of Orahil |QID|1799| |N|Tabetha - (46.0, 57.1)| |C|Warlock| |Z|Dustwallow Marsh|
 A Cleansing of the Orb of Orahil |QID|4961| |N|Tabetha - (46.0, 57.1)| |C|Warlock| |Z|Dustwallow Marsh|
-N Cast [Fear] |cRXP_WARN_continously on Demon of the Orb until your DoTs kill it |N|(45.9, 56.7)| |C|Warlock| |Z|Dustwallow Marsh|
+N Cast [Fear] continously on Demon of the Orb until your DoTs kill it |N|(45.9, 56.7)| |C|Warlock| |Z|Dustwallow Marsh|
 C Cleansing of the Orb of Orahil |QID|4961| |N|Demon of the Orb (45.9, 56.7)| |C|Warlock| |Z|Dustwallow Marsh|
 T Cleansing of the Orb of Orahil |QID|4961| |N|Tabetha - (46.0, 57.1)| |C|Warlock| |Z|Dustwallow Marsh|
 A Returning the Cleansed Orb |QID|4976| |N|Tabetha - (46.0, 57.1)| |C|Warlock| |Z|Dustwallow Marsh|

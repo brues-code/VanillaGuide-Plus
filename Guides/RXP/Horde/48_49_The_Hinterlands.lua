@@ -9,14 +9,14 @@ t Training (3563) |N|Go up the Zeppelin Tower - (50.8, 13.8)| |C|Mage| |Z|Durota
 t Training (3563) |C|Mage| |Z|Durotar|
 t Train [Teleport: Undercity] |N|Lexington - (84.2, 15.6)| |C|Mage| |Z|Undercity|
 B Buy at least four Rune of Teleportation from her |N|Hannah - (82.8, 15.8)| |C|Mage| |Z|Undercity|
-C Hannah |QID|7840| |N|Hannah - (82.8, 15.8)| |C|Mage| |Z|Undercity|
+B Hannah |L|17031 4| |N|Hannah - (82.8, 15.8)| |C|Mage| |Z|Undercity|
 A Lines of Communication |QID|2995| |N|Oran - (73.2, 32.8)| |Z|Undercity|
 R Travel toward Zinge |N|(45.2, 71.7)| |O| |Z|Undercity|
 T Return to Apothecary Zinge |QID|864| |N|Zinge - (50.0, 68.2)| |Z|Undercity|
 T To the Undercity for Yagyin's Digest |QID|728| |N|Bel'dugur - (53.8, 54.5) (ULDA Dungeon Quest)| |D|ULDA| |Z|Undercity|
 T Reclaimed Treasures |QID|2342| |N|Patrick - (62.3, 48.6) (ULDA Dungeon Quest)| |D|ULDA| |Z|Undercity|
 R William |N|(66.0, 44.9)| |Z|Undercity|
-C Auctioneer Rhyker |QID|7842| |N|Auctioneer Rhyker - (64.2, 49.6)| |Z|Undercity|
+B Buy [Long Elegant Feathers] from the Auction House |L|4589 10| |N|Auctioneer Rhyker - (64.2, 49.6)| |Z|Undercity|
 t Train [Undead Horsemanship] |N|Velma and Zachariah - (60.1, 52.5)| |O| |C|!Warlock| |R|Undead| |Z|Tirisfal Glades|
 B Buy a [Skeletal Horse] |N|Velma and Zachariah - (60.1, 52.5)| |O| |C|!Warlock| |R|Undead| |Z|Tirisfal Glades|
 F Fly to Tarren Mill |N|Michael - (63.3, 48.5)| |O| |Z|Undercity|
@@ -29,7 +29,7 @@ A Lard Lost His Lunch |QID|7840| |N|Lard - (78.2, 81.3)| |Z|The Hinterlands|
 A Snapjaws, Mon! |QID|7815| |N|Katoom - (80.4, 81.5)| |Z|The Hinterlands|
 A Gammerita, Mon! |QID|7816| |N|Katoom - (80.4, 81.5)| |Z|The Hinterlands|
 R Markhor |N|(79.1, 79.5)| |O| |C|Hunter| |Z|The Hinterlands|
-t Attack mobs with it to learn [Bite (Rank 7)] |N|Cast [Tame Beast] |cRXP_WARN_on a Saltwater Snapjaw to tame it - (78.0, 64.2)| |C|Hunter| |Z|The Hinterlands|
+t Attack mobs with it to learn [Bite (Rank 7)] |N|Cast [Tame Beast] on a Saltwater Snapjaw to tame it - (78.0, 64.2)| |C|Hunter| |Z|The Hinterlands|
 t Training (17267) |N|Markhor - (79.1, 79.5)| |C|Hunter| |Z|The Hinterlands|
 C Whiskey Slim's Lost Grog |QID|580| |N|Loot the Pupellyverbos Port Bottles along the shore| |O| |Z|The Hinterlands|
 C Snapjaws, Mon! |QID|7815| |N|Kill Saltwater Snapjaws| |O| |Z|The Hinterlands|
@@ -166,17 +166,17 @@ T Rin'ji is Trapped! |QID|2742| |N|Swim to the island to the far east, then clic
 A Rin'ji's Secret |QID|2782| |N|Swim to the island to the far east, then click Rinji's Secret - (86.3, 59.0)| |Z|The Hinterlands|
 T The Final Message to the Wildhammer |QID|7843| |N|Otho Moji'ko - (79.3, 79.1)| |Z|The Hinterlands|
 R Markhor |N|(79.1, 79.5)| |O| |C|Hunter| |Z|The Hinterlands|
-t Attack mobs with it to learn [Bite (Rank 7)] |N|Cast [Tame Beast] |cRXP_WARN_on a Saltwater Snapjaw to tame it - (78.0, 64.2)| |C|Hunter| |Z|The Hinterlands|
+t Attack mobs with it to learn [Bite (Rank 7)] |N|Cast [Tame Beast] on a Saltwater Snapjaw to tame it - (78.0, 64.2)| |C|Hunter| |Z|The Hinterlands|
 F Fly to Tarren Mill |N|Gorkas - (81.7, 81.8)| |O| |Z|The Hinterlands|
 N The Undamaged Venom Sac has a 30 minute duration, so turn it in ASAP |N|(61.5, 19.2)| |Z|Hillsbrad Foothills|
 T Undamaged Venom Sac |QID|2934| |N|Lydon - (61.5, 19.2)| |Z|Hillsbrad Foothills|
 A Consult Master Gadrin |QID|2935| |N|Lydon - (61.5, 19.2)| |R|Troll| |Z|Hillsbrad Foothills|
 F Fly to Undercity |N|Zarise - (60.1, 18.6)| |O| |C|!Mage| |Z|Hillsbrad Foothills|
 B Buy at least four Rune of Teleportation from her |N|Hannah - (82.8, 15.8)| |C|Mage| |Z|Undercity|
-C Hannah |N|Hannah - (82.8, 15.8)| |C|Mage| |Z|Undercity|
+B Hannah |L|17031 4| |N|Hannah - (82.8, 15.8)| |C|Mage| |Z|Undercity|
 N Buy the following from the Auction House |N|(64.2, 49.6)| |Z|Undercity|
 N Deposit them onto the bank afterwards! |N|(64.2, 49.6)| |Z|Undercity|
-C Snickerfang Jowls |QID|2581| |N|Auctioneer Rhyker (64.2, 49.6)| |Z|Undercity|
+B Auctioneer Rhyker |L|8391 5| |N|Auctioneer Rhyker - (64.2, 49.6)| |Z|Undercity|
 T Lines of Communication |QID|2995| |N|Oran - (73.5, 32.7)| |Z|Undercity|
 T Rin'ji's Secret |QID|2782| |N|Oran - (73.5, 32.7)| |Z|Undercity|
 A Oran's Gratitude |QID|8273| |N|Oran - (73.5, 32.7)| |Z|Undercity|
@@ -191,49 +191,49 @@ A Noggenfogger Elixir |QID|2662| |N|Marin - (51.8, 28.6)| |Z|Tanaris|
 T Noggenfogger Elixir |QID|2662| |N|Marin - (51.8, 28.6)| |Z|Tanaris|
 N Buy 2 or more additional stacks of [Noggenfogger Elixir] from him |N|(51.8, 28.6)| |Z|Tanaris|
 N [Noggenfogger Elixirs] can be used to get the [Slow Fall] buff which will be needed later in the guide. Put the additional stacks on the bank |N|(51.8, 28.6)| |Z|Tanaris|
-C Marin |N|Marin - (51.8, 28.6)| |Z|Tanaris|
+B Marin |L|8529 60| |N|Marin - (51.8, 28.6)| |Z|Tanaris|
 T The Ancient Egg |QID|4787| |N|Yeh'kinya - (67.0, 22.4) (ZF Dungeon Quest)| |D|ZF| |Z|Tanaris|
 F Fly to Shadowprey Village |N|Bulkrek - (51.6, 25.4) (MARA Dungeon Quest)| |D|MARA| |Z|Tanaris|
 A Vyletongue Corruption |QID|7029| |N|Vark at the top of the hut - (23.2, 70.3) (MARA Dungeon Quest)| |D|MARA| |Z|Desolace|
 A Corruption of Earth and Seed |QID|7064| |N|Selendra - (26.9, 77.7) (MARA Dungeon Quest)| |D|MARA| |Z|Desolace|
-N |cRXP_WARN_The Centaur Pariah patrols slightly around southern Desolace |N|(50.5, 86.7) (MARA Dungeon Quest)| |D|MARA| |Z|Desolace|
+N The Centaur Pariah patrols slightly around southern Desolace |N|(50.5, 86.7) (MARA Dungeon Quest)| |D|MARA| |Z|Desolace|
 A The Pariah's Instructions |QID|7067| |N|the Centaur Pariah - (50.5, 86.7) (MARA Dungeon Quest)| |D|MARA| |Z|Desolace|
 N Have a party member share this quest if possible |N|(62.2, 39.6) (MARA Dungeon Quest)| |D|MARA| |Z|Desolace|
 A Twisted Evils |QID|7028| |N|Willow - (62.2, 39.6) (MARA Dungeon Quest)| |D|MARA| |Z|Desolace|
 R Travel to Tirisfal Glades |N|(38.4, 58.0) (MARA Dungeon Quest)| |D|MARA| |Z|Tirisfal Glades|
 N This can be completed OUTSIDE and INSIDE of the Instance. Don't attempt to complete this now |N|(MARA Dungeon Quest)| |D|MARA| |Z|Tirisfal Glades|
 C Twisted Evils |QID|7028| |N|Kill all Monsters in Maraudon. Loot them for their Theradric Crystal Carvings (MARA Dungeon Quest)| |D|MARA| |Z|Tirisfal Glades|
-N |cRXP_WARN_This is completed OUTSIDE of the Instance. The Nameless Prophets may be patrolling |N|(MARA Dungeon Quest)| |D|MARA| |Z|Tirisfal Glades|
-C The Pariah's Instructions |QID|7067| |N|Kill The Nameless Prophet. Loot it for the [Amulet of Spirits] (MARA Dungeon Quest)| |D|MARA| |Z|Tirisfal Glades|
+N This is completed OUTSIDE of the Instance. The Nameless Prophets may be patrolling |N|(MARA Dungeon Quest)| |D|MARA| |Z|Tirisfal Glades|
+C The Nameless Prophet. Loot it for the [Amulet of Spirits] |QID|7067| |L|17757 1| |N|Kill The Nameless Prophet. Loot it for the [Amulet of Spirits] (MARA Dungeon Quest)| |D|MARA| |Z|Tirisfal Glades|
 N These are only found in the Purple section outside of the Instance |N|(MARA Dungeon Quest)| |D|MARA| |Z|Tirisfal Glades|
 C Kill Shadowshard Smashers and Shadowshard Rumblers. Loot them for their Shadowshard Fragments |QID|7068| |N|Kill Shadowshard Smashers and Shadowshard Rumblers. Loot them for their Shadowshard Fragments (MARA Dungeon Quest)| |D|MARA| |Z|Tirisfal Glades|
 N Kill Gelk. Loot him for the [Gem of the Second Khan] |N|(38.5, 57.3) (MARA Dungeon Quest)| |D|MARA| |Z|Tirisfal Glades|
 N This is completed OUTSIDE of the Instance |N|(38.5, 57.3) (MARA Dungeon Quest)| |D|MARA| |Z|Tirisfal Glades|
-C The Pariah's Instructions |QID|7067| |N|Use the [Amulet of Spirits] on the Spirit of Gelk (38.5, 57.3) (MARA Dungeon Quest)| |D|MARA| |Z|Tirisfal Glades|
+C Use the [Amulet of Spirits] on the Spirit of Gelk |QID|7067| |L|17762 1| |N|Use the [Amulet of Spirits] on the Spirit of Gelk - (38.5, 57.3) (MARA Dungeon Quest)| |D|MARA| |Z|Tirisfal Glades|
 N These are only found in the Purple section outside of the Instance |N|(38.1, 56.9) (MARA Dungeon Quest)| |D|MARA| |Z|Tirisfal Glades|
 C Shadowshard Smashers and Shadowshard Rumblers. Loot them for their Shadowshard Fragments |QID|7068| |N|Shadowshard Smashers and Shadowshard Rumblers. Loot them for their Shadowshard Fragments - (38.1, 56.9) (MARA Dungeon Quest)| |D|MARA| |Z|Tirisfal Glades|
 N Kill Kolk. Loot him for the [Gem of the First Khan] |N|(38.5, 57.7) (MARA Dungeon Quest)| |D|MARA| |Z|Tirisfal Glades|
 N This is completed OUTSIDE of the Instance |N|(38.5, 57.7) (MARA Dungeon Quest)| |D|MARA| |Z|Tirisfal Glades|
-C The Pariah's Instructions |QID|7067| |N|Use the [Amulet of Spirits] on the Spirit of Kolk (38.5, 57.7) (MARA Dungeon Quest)| |D|MARA| |Z|Tirisfal Glades|
+C Use the [Amulet of Spirits] on the Spirit of Kolk |QID|7067| |L|17761 1| |N|Use the [Amulet of Spirits] on the Spirit of Kolk - (38.5, 57.7) (MARA Dungeon Quest)| |D|MARA| |Z|Tirisfal Glades|
 A Legends of Maraudon |QID|7044| |N|the Centaur Pariah - (38.8, 58.1) (MARA Dungeon Quest)| |D|MARA| |Z|Tirisfal Glades|
 C Vyletongue Corruption |QID|7029| |N|Use the [Coated Cerulean Vial] in the Orange pool (38.9, 58.4) (MARA Dungeon Quest)| |D|MARA| |Z|Tirisfal Glades|
 N Kill Magra. Loot him for the [Gem of the Third Khan] |N|(39.1, 57.7) (MARA Dungeon Quest)| |D|MARA| |Z|Tirisfal Glades|
 N This is completed OUTSIDE of the Instance |N|(39.1, 57.7) (MARA Dungeon Quest)| |D|MARA| |Z|Tirisfal Glades|
-C The Pariah's Instructions |QID|7067| |N|Use the [Amulet of Spirits] on the Spirit of Magra (39.1, 57.7) (MARA Dungeon Quest)| |D|MARA| |Z|Tirisfal Glades|
+C Use the [Amulet of Spirits] on the Spirit of Magra |QID|7067| |L|17763 1| |N|Use the [Amulet of Spirits] on the Spirit of Magra - (39.1, 57.7) (MARA Dungeon Quest)| |D|MARA| |Z|Tirisfal Glades|
 C Twisted Evils |QID|7028| |N|Kill any Monster in Maraudon. Loot them for their Theradric Crystal Carvings (MARA Dungeon Quest)| |D|MARA| |Z|Tirisfal Glades|
 N Kill the Noxxious Scions that are summoned |N|(MARA Dungeon Quest)| |D|MARA| |Z|Tirisfal Glades|
 C Vyletongue Corruption |QID|7029| |N|Use the [Filled Cerulean Vial] on small flowers/plants inside Orange (MARA Dungeon Quest)| |D|MARA| |Z|Tirisfal Glades|
 N Kill Veng. Loot him for the [Gem of the Fifth Khan] |N|(MARA Dungeon Quest)| |D|MARA| |Z|Tirisfal Glades|
 N Veng patrols around INSIDE the Maraudon Orange Instance |N|(MARA Dungeon Quest)| |D|MARA| |Z|Tirisfal Glades|
-C The Pariah's Instructions |QID|7067| |N|Use the [Amulet of Spirits] on the Spirit of Veng (MARA Dungeon Quest)| |D|MARA| |Z|Tirisfal Glades|
+C Use the [Amulet of Spirits] on the Spirit of Veng |QID|7067| |L|17765 1| |N|Use the [Amulet of Spirits] on the Spirit of Veng (MARA Dungeon Quest)| |D|MARA| |Z|Tirisfal Glades|
 N Kill the Noxxious Scions that are summoned |N|(MARA Dungeon Quest)| |D|MARA| |Z|Tirisfal Glades|
 C Vyletongue Corruption |QID|7029| |N|Use the [Filled Cerulean Vial] on small flowers/plants inside Orange (MARA Dungeon Quest)| |D|MARA| |Z|Tirisfal Glades|
 N Kill Lord Vyletongue. Loot him for the Celebrian Diamond |N|(MARA Dungeon Quest)| |D|MARA| |Z|Tirisfal Glades|
-N Noxxion |cRXP_WARN_is in the Orange section and Lord Vyletongue in the Purple |N|(MARA Dungeon Quest)| |D|MARA| |Z|Tirisfal Glades|
+N Noxxion is in the Orange section and Lord Vyletongue in the Purple |N|(MARA Dungeon Quest)| |D|MARA| |Z|Tirisfal Glades|
 C Legends of Maraudon |QID|7044| |N|Kill Noxxion. Loot him for the Celebrian Rod (MARA Dungeon Quest)| |D|MARA| |Z|Tirisfal Glades|
 N Kill Maraudos. Loot him for the [Gem of the Fourth Khan] |N|(MARA Dungeon Quest)| |D|MARA| |Z|Tirisfal Glades|
 N Maraudos patrols around INSIDE the Maraudon Purple Instance |N|(MARA Dungeon Quest)| |D|MARA| |Z|Tirisfal Glades|
-C The Pariah's Instructions |QID|7067| |N|Use the [Amulet of Spirits] on the Spirit of Maraudos (MARA Dungeon Quest)| |D|MARA| |Z|Tirisfal Glades|
+C Use the [Amulet of Spirits] on the Spirit of Maraudos |QID|7067| |L|17764 1| |N|Use the [Amulet of Spirits] on the Spirit of Maraudos (MARA Dungeon Quest)| |D|MARA| |Z|Tirisfal Glades|
 C The Pariah's Instructions |QID|7067| |N|Channel any of the [Gems of the Khans] to create the [Amulet of Union] (MARA Dungeon Quest)| |D|MARA| |Z|Tirisfal Glades|
 T Legends of Maraudon |QID|7044| |N|Kill Celebras the Cursed then Celebras the Redeemed (MARA Dungeon Quest)| |D|MARA| |Z|Tirisfal Glades|
 A The Scepter of Celebras |QID|7046| |N|Celebras the Redeemed (MARA Dungeon Quest)| |D|MARA| |Z|Tirisfal Glades|
@@ -245,7 +245,7 @@ N This can be completed OUTSIDE and INSIDE of the Instance |N|(MARA Dungeon Ques
 C Twisted Evils |QID|7028| |N|Kill any Monster in Maraudon. Loot them for their Theradric Crystal Carvings (MARA Dungeon Quest)| |D|MARA| |Z|Tirisfal Glades|
 T Corruption of Earth and Seed |QID|7064| |N|Selendra - (26.9, 77.7) (MARA Dungeon Quest)| |D|MARA| |Z|Desolace|
 T Vyletongue Corruption |QID|7029| |N|Vark at the top of the hut - (23.2, 70.3) (MARA Dungeon Quest)| |D|MARA| |Z|Desolace|
-N |cRXP_WARN_The Centaur Pariah patrols slightly around southern Desolace |N|(50.5, 86.7) (MARA Dungeon Quest)| |D|MARA| |Z|Desolace|
+N The Centaur Pariah patrols slightly around southern Desolace |N|(50.5, 86.7) (MARA Dungeon Quest)| |D|MARA| |Z|Desolace|
 T The Pariah's Instructions |QID|7067| |N|the Centaur Pariah - (50.5, 86.7) (MARA Dungeon Quest)| |D|MARA| |Z|Desolace|
 T Twisted Evils |QID|7028| |N|Willow - (62.2, 39.6) (MARA Dungeon Quest)| |D|MARA| |Z|Desolace|
 B Sell your junk, then restock on food and water if necessary |N|Dirge - (52.6, 28.1) (MARA Dungeon Quest)| |C|!Rogue/!Warrior| |D|MARA| |Z|Tanaris|

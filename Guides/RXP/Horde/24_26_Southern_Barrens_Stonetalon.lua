@@ -33,43 +33,43 @@ A Trial at the Field of Giants |QID|1824| |N|Ruga Ragetotem inside the building 
 B Sell your junk, then restock on food and water if necessary |N|Innkeeper Byula - (45.6, 59.0)| |C|!Rogue/!Warrior| |Z|The Barrens|
 B Sell your junk, then restock on food if necessary |N|Innkeeper Byula - (45.6, 59.0)| |C|Rogue/Warrior| |Z|The Barrens|
 N Skip this quest if you can't find him |N|(49.6, 59.4)| |Z|The Barrens|
-C Owatanka |QID|884| |N|Find & kill Owatanka (Blue Thunder Lizard) around this area. Loot him for [Owatanka's Tailspike]. Use it to start the quest (49.6, 59.4)| |Z|The Barrens|
+C Find & kill Owatanka (Blue Thunder Lizard) around this area. Loot him for [Owatanka's Tailspike]. Use it to start the quest |QID|884| |L|5102 1| |N|Find & kill Owatanka (Blue Thunder Lizard) around this area. Loot him for [Owatanka's Tailspike]. Use it to start the quest - (49.6, 59.4)| |Z|The Barrens|
 A Owatanka |QID|884| |N|Find & kill Owatanka (Blue Thunder Lizard) around this area. Loot him for [Owatanka's Tailspike]. Use it to start the quest - (49.6, 59.4)| |Z|The Barrens|
 N NOTE: The [Twitching Antenna] only have a 15 minute duration, do not AFK or logout during this quest |N|(45.4, 72.2)| |C|Warrior| |Z|The Barrens|
 C Trial at the Field of Giants |QID|1824| |N|Silithid Protectors, Silithid Swarmers, Silithid Creepers and Silithid Grubs. Loot them for their [Twitching Antenna] (45.4, 72.2)| |C|Warrior| |Z|The Barrens|
 N Skip the follow-up |N|(44.7, 59.4)| |C|Warrior| |Z|The Barrens|
 T Trial at the Field of Giants |QID|1824| |N|Ruga Ragetotem inside the building - (44.7, 59.4)| |C|Warrior| |Z|The Barrens|
 N Skip this quest if you can't find him. This mob is very rare! |O| |Z|The Barrens|
-C The Harvester |QID|897| |N|Kill the Silithid Harvester. Loot it for the [Harvester's Head]. Use it to start the quest| |O| |Z|The Barrens|
+C the Silithid Harvester. Loot it for the [Harvester's Head]. Use it to start the quest |QID|897| |L|5138 1| |N|Kill the Silithid Harvester. Loot it for the [Harvester's Head]. Use it to start the quest| |O| |Z|The Barrens|
 A The Harvester |QID|897| |N|Kill the Silithid Harvester. Loot it for the [Harvester's Head]. Use it to start the quest| |O| |Z|The Barrens|
 C the Silithid Mounds for Silithid Eggs |QID|868| |N|the Silithid Mounds for Silithid Eggs - (42.9, 69.9)| |Z|The Barrens|
-C Washte Pawne |QID|885| |N|Washte Pawne. Loot him for [Washte Pawne's Feather]. Use it to start the quest (44.8, 74.8)| |O| |C|Shaman| |Z|The Barrens|
+C Washte Pawne. Loot him for [Washte Pawne's Feather]. Use it to start the quest |QID|885| |L|5103 1| |N|Washte Pawne. Loot him for [Washte Pawne's Feather]. Use it to start the quest - (44.8, 74.8)| |O| |C|Shaman| |Z|The Barrens|
 A Washte Pawne |QID|885| |N|Washte Pawne. Loot him for [Washte Pawne's Feather]. Use it to start the quest - (44.8, 74.8)| |O| |C|Shaman| |Z|The Barrens|
 R Travel toward Brine |N|(43.4, 77.4)| |O| |C|Shaman| |Z|The Barrens|
 T Call of Water |QID|1536| |N|Brine - (43.4, 77.4)| |C|Shaman| |Z|The Barrens|
 A Call of Water |QID|1534| |N|Brine - (43.4, 77.4)| |C|Shaman| |Z|The Barrens|
-C Washte Pawne |QID|885| |N|Kill Washte Pawne. Loot him for [Washte Pawne's Feather]. Use it to start the quest| |O| |Z|The Barrens|
+C Washte Pawne. Loot him for [Washte Pawne's Feather]. Use it to start the quest |QID|885| |L|5103 1| |N|Kill Washte Pawne. Loot him for [Washte Pawne's Feather]. Use it to start the quest| |O| |Z|The Barrens|
 A Washte Pawne |QID|885| |N|Kill Washte Pawne. Loot him for [Washte Pawne's Feather]. Use it to start the quest| |O| |Z|The Barrens|
 N Gann patrols North and South on the road |N|(46.1, 75.4)| |Z|The Barrens|
 A Gann's Reclamation |QID|843| |N|Gann - (46.1, 75.4)| |Z|The Barrens|
 N Kill Razormane Seers. Loot them for the [Charred Razormane Wand] |O| |Z|The Barrens|
 N Kill Razormane Warfrenzies. Loot them for the [Razormane War Shield] |O| |Z|The Barrens|
-N |cRXP_WARN_The Razormane Stalkers are stealthed |O| |Z|The Barrens|
-C Kill Razormane Stalkers and Razormane Pathfinders. Loot them for the [Razormane Backstabber] |QID|893| |N|Kill Razormane Stalkers and Razormane Pathfinders. Loot them for the [Razormane Backstabber]| |O| |Z|The Barrens|
+N The Razormane Stalkers are stealthed |O| |Z|The Barrens|
+C Razormane Stalkers and Razormane Pathfinders. Loot them for the [Razormane Backstabber] |QID|893| |L|5093 1| |N|Kill Razormane Stalkers and Razormane Pathfinders. Loot them for the [Razormane Backstabber]| |O| |Z|The Barrens|
 N Kuz patrols around slightly |N|(44.8, 79.9)| |Z|The Barrens|
 C Betrayal from Within |QID|879| |N|Kuz. Loot him for Kuz's Skull (44.8, 79.9)| |Z|The Barrens|
 C Betrayal from Within |QID|879| |N|Lok Orcbane. Loot him for Lok's Skull (40.1, 80.6)| |Z|The Barrens|
-N |cRXP_WARN_The Razormane Stalkers are stealthed |O| |Z|The Barrens|
-C Kill Razormane Stalkers and Razormane Pathfinders. Loot them for a [Razormane Backstabber] |QID|893| |N|Kill Razormane Stalkers and Razormane Pathfinders. Loot them for a [Razormane Backstabber]| |O| |Z|The Barrens|
+N The Razormane Stalkers are stealthed |O| |Z|The Barrens|
+C Razormane Stalkers and Razormane Pathfinders. Loot them for a [Razormane Backstabber] |QID|893| |L|5093 1| |N|Kill Razormane Stalkers and Razormane Pathfinders. Loot them for a [Razormane Backstabber]| |O| |Z|The Barrens|
 N Kill Razormane Warfrenzies. Loot them for a [Razormane War Shield] |N|(42.5, 82.3)| |Z|The Barrens|
-C Razormane Seers. Loot them for a [Charred Razormane Wand] |QID|893| |N|Razormane Seers. Loot them for a [Charred Razormane Wand] - (42.5, 82.3)| |Z|The Barrens|
+C Razormane Seers. Loot them for a [Charred Razormane Wand] |QID|893| |L|5092 1| |N|Razormane Seers. Loot them for a [Charred Razormane Wand] - (42.5, 82.3)| |Z|The Barrens|
 C Betrayal from Within |QID|879| |N|Nak. Loot him for Nak's Skull (43.9, 83.4)| |Z|The Barrens|
-N |cRXP_WARN_The Razormane Stalkers are stealthed |N|(45.5, 79.9)| |Z|The Barrens|
-C Razormane Stalkers and Razormane Pathfinders. Loot them for a [Razormane Backstabber] |QID|893| |N|Razormane Stalkers and Razormane Pathfinders. Loot them for a [Razormane Backstabber] - (45.5, 79.9)| |Z|The Barrens|
+N The Razormane Stalkers are stealthed |N|(45.5, 79.9)| |Z|The Barrens|
+C Razormane Stalkers and Razormane Pathfinders. Loot them for a [Razormane Backstabber] |QID|893| |L|5093 1| |N|Razormane Stalkers and Razormane Pathfinders. Loot them for a [Razormane Backstabber] - (45.5, 79.9)| |Z|The Barrens|
 C Gann's Reclamation |QID|843| |N|Kill Bael'dun Excavators and Bael'dun Foremen| |O| |Z|The Barrens|
 C Gann's Reclamation |QID|843| |N|Prospector Khazgorm. Loot him for Khazgorm's Journal (48.3, 86.2)| |Z|The Barrens|
 C Gann's Reclamation |QID|843| |N|Bael'dun Excavators and Bael'dun Foremen (47.0, 85.8)| |Z|The Barrens|
-C Washte Pawne |QID|885| |N|Washte Pawne. Loot him for [Washte Pawne's Feather]. Use it to start the quest (47.2, 79.7)| |O| |Z|The Barrens|
+C Washte Pawne. Loot him for [Washte Pawne's Feather]. Use it to start the quest |QID|885| |L|5103 1| |N|Washte Pawne. Loot him for [Washte Pawne's Feather]. Use it to start the quest - (47.2, 79.7)| |O| |Z|The Barrens|
 A Washte Pawne |QID|885| |N|Washte Pawne. Loot him for [Washte Pawne's Feather]. Use it to start the quest - (47.2, 79.7)| |O| |Z|The Barrens|
 N Gann patrols North and South on the road |N|(46.1, 75.4)| |Z|The Barrens|
 T Gann's Reclamation |QID|843| |N|Gann - (46.1, 75.4)| |Z|The Barrens|
@@ -81,14 +81,14 @@ N Be Careful! Bael'dun Officers have a 50% increased parry chance for 8 seconds 
 C Revenge of Gann |QID|846| |N|Kill Bael'dun Dwarves. Loot them for their Nitroglycerin, Wood Pulp, and Sodium Nitrate| |O| |Z|The Barrens|
 A The Tear of the Moons |QID|857| |N|Feegly - (48.9, 86.3)| |Z|The Barrens|
 R Go down to the bottom floor of Bael'dun |N|(49.4, 84.3)| |O| |Z|The Barrens|
-N |cRXP_WARN_Be careful! It is very easy overpull in General Twinbraid's room |N|(49.1, 84.2)| |Z|The Barrens|
-N |cRXP_WARN_Directly pull any mob other than General Twinbraid |N|(49.1, 84.2)| |Z|The Barrens|
+N Be careful! It is very easy overpull in General Twinbraid's room |N|(49.1, 84.2)| |Z|The Barrens|
+N Directly pull any mob other than General Twinbraid |N|(49.1, 84.2)| |Z|The Barrens|
 C The Tear of the Moons |QID|857| |N|General Twinbraid's Strongbox. Loot it for the Tear of the Moons (49.1, 84.2)| |Z|The Barrens|
 R Exit Bael'dun's Keep |N|(48.8, 84.6)| |O| |Z|The Barrens|
 T The Tear of the Moons |QID|857| |N|Feegly - (48.9, 86.3)| |Z|The Barrens|
 N Be Careful! Bael'dun Officers have a 50% increased parry chance for 8 seconds after they do their defense stance animation |N|(49.1, 84.7)| |C|Rogue/Warrior/Druid/Shaman| |Z|The Barrens|
 C Revenge of Gann |QID|846| |N|Bael'dun Dwarves. Loot them for their Nitroglycerin, Wood Pulp, and Sodium Nitrate (49.1, 84.7)| |Z|The Barrens|
-C Washte Pawne |QID|885| |N|Kill Washte Pawne. Loot him for [Washte Pawne's Feather]. Use it to start the quest| |O| |Z|The Barrens|
+C Washte Pawne. Loot him for [Washte Pawne's Feather]. Use it to start the quest |QID|885| |L|5103 1| |N|Kill Washte Pawne. Loot him for [Washte Pawne's Feather]. Use it to start the quest| |O| |Z|The Barrens|
 A Washte Pawne |QID|885| |N|Kill Washte Pawne. Loot him for [Washte Pawne's Feather]. Use it to start the quest| |O| |Z|The Barrens|
 N Gann patrols North and South on the road |N|(46.1, 75.4)| |Z|The Barrens|
 T Revenge of Gann |QID|846| |N|Gann - (46.1, 75.4)| |Z|The Barrens|
@@ -97,7 +97,7 @@ N This has a 50 yard range |N|(47.0, 85.6)| |Z|The Barrens|
 C Revenge of Gann |QID|849| |N|the Bael Modan Flying Machine atop the platform (47.0, 85.6)| |Z|The Barrens|
 N Gann patrols North and South on the road |N|(46.1, 75.4)| |Z|The Barrens|
 T Revenge of Gann |QID|849| |N|Gann - (46.1, 75.4)| |Z|The Barrens|
-C Washte Pawne |QID|885| |N|Washte Pawne. Loot him for [Washte Pawne's Feather]. Use it to start the quest (44.8, 74.8)| |Z|The Barrens|
+C Washte Pawne. Loot him for [Washte Pawne's Feather]. Use it to start the quest |QID|885| |L|5103 1| |N|Washte Pawne. Loot him for [Washte Pawne's Feather]. Use it to start the quest - (44.8, 74.8)| |Z|The Barrens|
 A Washte Pawne |QID|885| |N|Washte Pawne. Loot him for [Washte Pawne's Feather]. Use it to start the quest - (44.8, 74.8)| |Z|The Barrens|
 R Travel into Dustwallow Marsh |N|(50.5, 78.7)| |Z|The Barrens|
 R Travel to Dustwallow Marsh |N|(36.6, 31.7)| |O| |Z|Dustwallow Marsh|
@@ -105,7 +105,7 @@ N Be careful! There are level 36-38 mobs in the area. Follow the waypoint arrow 
 B Buy a [Big Stick] from him if it's up |N|Zulrg - (36.2, 31.8)| |C|Warrior/Shaman| |Z|Dustwallow Marsh|
 B Buy [Healing Potions] and [Scrolls] from her if they're up |N|Balai - (36.5, 30.4)| |Z|Dustwallow Marsh|
 N Buy the [First Aid Manuals] from her |N|(36.5, 30.4)| |Z|Dustwallow Marsh|
-C Balai |QID|873| |N|Balai - (36.5, 30.4)| |Z|Dustwallow Marsh|
+B Manual: Heavy Silk Bandage (1) |L|16112 1| |N|Balai - (36.5, 30.4)| |Z|Dustwallow Marsh|
 f Get the Brackenwall Village Flight Path |N|Shardi - (35.6, 31.9)| |O| |Z|Dustwallow Marsh|
 F Fly to Camp Taurajo |N|Shardi - (35.6, 31.9)| |O| |Z|Dustwallow Marsh|
 f Get the Brackenwall Village Flight Path |N|Shardi - (35.6, 31.9)| |Z|Dustwallow Marsh|
@@ -129,7 +129,7 @@ R Innkeeper Boorand |N|(52.0, 29.9)| |Z|The Barrens|
 B Stock up on [Flash Powder] and supplies for [Instant Poison] |N|Hula'mahi - (51.4, 30.2)| |C|Rogue| |Z|The Barrens|
 F Fly to Orgrimmar |N|Devrak - (51.5, 30.3)| |O| |C|Hunter| |Z|The Barrens|
 N Buy [Razor Arrows] from him |N|(48.1, 80.5)| |C|Hunter| |Z|Orgrimmar|
-C Trak'gen |QID|874| |N|Trak'gen - (48.1, 80.5)| |C|Hunter| |Z|Orgrimmar|
+B Trak'gen |L|3030 1800| |N|Trak'gen - (48.1, 80.5)| |C|Hunter| |Z|Orgrimmar|
 F Fly to Ratchet |N|Doras - (45.1, 63.9)| |O| |C|Hunter| |Z|Orgrimmar|
 F Fly to Ratchet |N|Devrak - (51.5, 30.3)| |O| |C|!Hunter| |Z|The Barrens|
 T Mahren Skyseer |QID|874| |N|Mahren - (65.8, 43.9)| |Z|The Barrens|
@@ -221,10 +221,10 @@ B Sell your junk, then restock on food if necessary |N|Innkeeper Boorand - (52.0
 t Training (425343) |N|Innkeeper Boorand - (52.0, 29.9)| |C|Shaman| |Z|The Barrens|
 F Fly to Orgrimmar |N|Devrak - (51.5, 30.3)| |C|!Mage| |Z|The Barrens|
 N Buy the [Shredder Operating Manual Pages] from the Auction House if they're available |N|(55.6, 62.9)| |Z|Orgrimmar|
-C Thathung |QID|6504| |N|Thathung - (55.6, 62.9)| |Z|Orgrimmar|
+B Thathung |L|16645 1| |N|Thathung - (55.6, 62.9)| |Z|Orgrimmar|
 B Buy a [Sturdy Recurve Bow] from her if it's available |N|Jin'sora - (78.1, 38.5)| |C|Hunter| |Z|Orgrimmar|
 N Buy [Razor Arrows] from him |N|(78.1, 38.5)| |C|Hunter| |Z|Orgrimmar|
-C WANTED: Syndicate Personnel |QID|549| |N|Jin'sora (78.1, 38.5)| |C|Hunter| |Z|Orgrimmar|
+B Jin'sora |L|3030 1800| |N|Jin'sora - (78.1, 38.5)| |C|Hunter| |Z|Orgrimmar|
 R Travel to Ashenvale |N|(91.8, 68.7)| |O| |Z|Ashenvale|
 R Travel north alongside the river into Ashenvale |N|(91.4, 65.9)| |O| |Z|Ashenvale|
 R Splintertree Post |N|(73.5, 63.5)| |Z|Ashenvale|

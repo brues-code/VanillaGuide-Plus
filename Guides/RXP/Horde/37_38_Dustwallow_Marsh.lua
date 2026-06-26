@@ -11,14 +11,14 @@ A The Black Shield |QID|1251| |N|the Black Shield above the fireplace - (29.6, 4
 A Hungry! |QID|1177| |N|Mudcrush - (35.1, 38.3)| |Z|Dustwallow Marsh|
 A Theramore Spies |QID|1201| |N|Nazeer - (35.2, 30.7)| |Z|Dustwallow Marsh|
 N Buy [Razor Arrows] from her |N|(35.5, 30.1)| |C|Hunter| |Z|Dustwallow Marsh|
-C Zanara |QID|1322| |N|Zanara - (35.5, 30.1)| |C|Hunter| |Z|Dustwallow Marsh|
+B Zanara |L|3030 2600| |N|Zanara - (35.5, 30.1)| |C|Hunter| |Z|Dustwallow Marsh|
 T Suspicious Hoofprints |QID|1268| |N|Krog - (36.4, 31.9)| |Z|Dustwallow Marsh|
 T Lieutenant Paval Reethe |QID|1269| |N|Krog - (36.4, 31.9)| |Z|Dustwallow Marsh|
 T The Black Shield |QID|1251| |N|Krog - (36.4, 31.9)| |Z|Dustwallow Marsh|
 A The Black Shield |QID|1321| |N|Krog - (36.4, 31.9)| |Z|Dustwallow Marsh|
 T The Black Shield |QID|1321| |N|Do'gol - (36.5, 30.8)| |Z|Dustwallow Marsh|
 A The Black Shield |QID|1322| |N|Do'gol - (36.5, 30.8)| |Z|Dustwallow Marsh|
-N Bloodfen Raptors |cRXP_WARN_share spawns with Darkfang spiders, so kill them too if needed |O| |Z|Dustwallow Marsh|
+N Bloodfen Raptors share spawns with Darkfang spiders, so kill them too if needed |O| |Z|Dustwallow Marsh|
 C The Black Shield |QID|1322| |N|Kill Darkfang Spiders. Loot them for their Venom Sacs| |O| |Z|Dustwallow Marsh|
 N This starts an escort quest! |N|(41.0, 36.7)| |Z|Dustwallow Marsh|
 N Be careful, this quest is hard as you must kill four mobs simultaneously. Find a group if needed, or skip this quest |N|(41.0, 36.7)| |Z|Dustwallow Marsh|
@@ -43,7 +43,7 @@ C Jarl Needs Eyes |QID|1206| |N|all Darkmist Spiders. Loot them for their Eyes (
 N They are stealthed |N|(40.5, 33.5)| |C|!Hunter| |Z|Dustwallow Marsh|
 N They are stealthed! Cast [Track Hidden] to find them more easily |N|(40.5, 33.5)| |C|Hunter| |Z|Dustwallow Marsh|
 C Theramore Spies |QID|1201| |N|Finish killing Theramore Infiltrators (40.5, 33.5)| |Z|Dustwallow Marsh|
-N Bloodfen Raptors |cRXP_WARN_share spawns with Darkfang spiders, so kill them too if needed |N|(37.0, 52.1)| |Z|Dustwallow Marsh|
+N Bloodfen Raptors share spawns with Darkfang spiders, so kill them too if needed |N|(37.0, 52.1)| |Z|Dustwallow Marsh|
 C The Black Shield |QID|1322| |N|Darkfang Spiders. Loot them for their Venom Sacs (37.0, 52.1)| |Z|Dustwallow Marsh|
 T Theramore Spies |QID|1201| |N|Nazeer - (35.2, 30.7)| |Z|Dustwallow Marsh|
 T The Lost Report |QID|1238| |N|Nazeer - (35.2, 30.7)| |Z|Dustwallow Marsh|
@@ -103,9 +103,9 @@ t Train your pet spells |N|Xao'tsu - (66.3, 14.8)| |C|Hunter| |Z|Orgrimmar|
 t Train your class spells |N|Ur'kyo - (35.6, 87.8)| |C|Priest| |Z|Orgrimmar|
 B Buy a [Massive Longbow] from him if it's available |N|Jin'sora - (78.1, 38.5)| |C|Hunter| |Z|Orgrimmar|
 N Buy [Razor Arrows] from him |N|(48.1, 80.5)| |C|Hunter| |Z|Orgrimmar|
-C Trak'gen |QID|232| |N|Trak'gen - (48.1, 80.5)| |C|Hunter| |Z|Orgrimmar|
+B Trak'gen |L|3030 2600| |N|Trak'gen - (48.1, 80.5)| |C|Hunter| |Z|Orgrimmar|
 N Buy [Jagged Arrows] from him |N|(48.1, 80.5)| |C|Hunter| |Z|Orgrimmar|
-C Trak'gen |QID|232| |N|Trak'gen - (48.1, 80.5)| |C|Hunter| |Z|Orgrimmar|
+B Trak'gen |L|11285 2600| |N|Trak'gen - (48.1, 80.5)| |C|Hunter| |Z|Orgrimmar|
 t Train [Wolf Riding] |N|Kildar and Ogunaro - (69.4, 13.1)| |O| |C|!Warlock| |R|Orc| |Z|Orgrimmar|
 B Buy a [Wolf] |N|Kildar and Ogunaro - (69.4, 13.1)| |O| |C|!Warlock| |R|Orc| |Z|Orgrimmar|
 t Train [Raptor Riding] |N|Xar'Ti and Zjolnir - (55.3, 75.5)| |O| |R|Troll| |Z|Durotar|
@@ -125,7 +125,7 @@ t Train your class spells |N|Anastasia - (85.1, 10.0)| |C|Mage| |Z|Undercity|
 t Train [Portal: Undercity] |N|Lexington - (84.2, 15.6)| |C|Mage| |Z|Undercity|
 T Bring the End |QID|3341| |N|Andrew - (74.0, 33.3) (RFD Dungeon Quest)| |C|Mage| |D|RFD| |Z|Undercity|
 N Buy two or more [Rune of Teleportation] from him |N|(82.8, 15.8)| |C|Mage| |Z|Undercity|
-C Hannah |N|Hannah - (82.8, 15.8)| |C|Mage| |Z|Undercity|
+B Hannah |L|17031 2| |N|Hannah - (82.8, 15.8)| |C|Mage| |Z|Undercity|
 R Travel toward Varimathras |N|(51.9, 64.7) (SM Dungeon Quest)| |D|SM| |Z|Undercity|
 T An Unholy Alliance |QID|6521| |N|Varimathras - (56.2, 92.2) (SM Dungeon Quest)| |D|SM| |Z|Undercity|
 A Into The Scarlet Monastery |QID|1048| |N|Varimathras - (56.2, 92.2) (SM Dungeon Quest)| |D|SM| |Z|Undercity|
@@ -139,7 +139,7 @@ C Compendium of the Fallen |QID|1049| |N|Loot the Compendium of the Fallen (SM D
 C Hearts of Zeal |QID|1113| |N|Kill Scarlet mobs. Loot them for their Hearts of Zeal (SM Dungeon Quest)| |D|SM| |Z|Eastern Kingdoms|
 N Houndmaster Loksey is located in the Library |N|(SM Dungeon Quest)| |D|SM| |Z|Eastern Kingdoms|
 N Herod is located in the Armory |N|(SM Dungeon Quest)| |D|SM| |Z|Eastern Kingdoms|
-N High Inquisitor Whitemane |cRXP_WARN_and Scarlet Commander Mograine are located in the Cathedral |N|(SM Dungeon Quest)| |D|SM| |Z|Eastern Kingdoms|
+N High Inquisitor Whitemane and Scarlet Commander Mograine are located in the Cathedral |N|(SM Dungeon Quest)| |D|SM| |Z|Eastern Kingdoms|
 C Into The Scarlet Monastery |QID|1048| |N|Kill Houndmaster Loksey, Herod, High Inquisitor Whitemane and Scarlet Commander Mograine (SM Dungeon Quest)| |D|SM| |Z|Eastern Kingdoms|
 N It's located in a bookshelf on the left in the last corner of the dungeon |N|(SM Dungeon Quest)| |R|!Undead| |D|SM| |Z|Eastern Kingdoms|
 C Compendium of the Fallen |QID|1049| |N|Loot the Compendium of the Fallen (SM Dungeon Quest)| |R|!Undead| |D|SM| |Z|Eastern Kingdoms|

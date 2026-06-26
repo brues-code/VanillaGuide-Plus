@@ -18,10 +18,10 @@ B Vendor Trash |N|Hraug - (40.6, 68.4)| |C|Warlock| |Z|Durotar|
 t Train [Immolate] |N|Nartok - (40.6, 68.5)| |C|Warlock| |Z|Durotar|
 N Buy [Refreshing Spring Water] from her |N|(42.6, 67.3)| |C|!Hunter/!Shaman| |Z|Durotar|
 N Buy [Rough Arrows] from her |N|(42.6, 67.3)| |C|Hunter| |Z|Durotar|
-C Duokna |QID|6394| |N|Duokna - (42.6, 67.3)| |C|!Hunter/!Shaman| |Z|Durotar|
-C Duokna |QID|6394| |N|Duokna - (42.6, 67.3)| |C|Hunter| |Z|Durotar|
+B Duokna |L|159 30| |N|Duokna - (42.6, 67.3)| |C|!Hunter/!Shaman| |Z|Durotar|
+B Duokna |L|2512 1000| |N|Duokna - (42.6, 67.3)| |C|Hunter| |Z|Durotar|
 N Buy [Refreshing Spring Water] from her |N|(42.6, 67.3)| |C|Warlock| |Z|Durotar|
-C Duokna |QID|6394| |N|Duokna - (42.6, 67.3)| |C|Warlock| |Z|Durotar|
+B Refreshing Spring Water (5) |L|159 5| |N|Duokna - (42.6, 67.3)| |C|Warlock| |Z|Durotar|
 N Try to get to level 2 before getting there |N|(43.6, 67.3)| |O| |C|Warlock| |Z|Durotar|
 C Cutting Teeth |QID|788| |N|Mottled Boars en route to the Burning Blade Coven Mottled Boar (10)| |O| |C|Warlock| |Z|Durotar|
 R Travel toward the Burning Blade Coven |N|(45.3, 56.4)| |C|Warlock| |Z|Durotar|
@@ -32,7 +32,7 @@ C Sarkoth |QID|790| |N|Sarkoth. Loot him for Sarkoth's Mangled Claw Sarkoth's Ma
 T Sarkoth |QID|790| |N|Hana'zua - (40.6, 62.6)| |Z|Durotar|
 A Sarkoth |QID|804| |N|Hana'zua - (40.6, 62.6)| |Z|Durotar|
 C Cutting Teeth |QID|788| |N|Mottled Boars Mottled Boar (10)| |Z|Durotar|
-N |cRXP_WARN_Grind Mottled Boars. Loot them until you have 1 silver worth of vendor items |O| |C|Warlock| |Z|Durotar|
+N Grind Mottled Boars. Loot them until you have 1 silver worth of vendor items |O| |C|Warlock| |Z|Durotar|
 B Vendor Trash |N|Duokna - (42.6, 67.3)| |C|Rogue| |Z|Durotar|
 T Vile Familiars |QID|1485| |N|Ruzan - (42.6, 69.0)| |C|Warlock| |Z|Durotar|
 A Vile Familiars |QID|1499| |N|Ruzan - (42.6, 69.0)| |C|Warlock| |Z|Durotar|
@@ -68,8 +68,8 @@ t Train [Corruption] |N|Nartok - (40.6, 68.5)| |C|Warlock| |Z|Durotar|
 A Galgar's Cactus Apple Surprise |QID|4402| |N|Galgar - (42.7, 67.2)| |Z|Durotar|
 N Buy [Refreshing Spring Water] from her |N|(42.6, 67.3)| |C|!Rogue/!Warrior/!Hunter/!Shaman| |Z|Durotar|
 N Buy [Rough Arrows] from her |N|(42.6, 67.3)| |C|Hunter| |Z|Durotar|
-C Duokna |QID|6394| |N|Duokna - (42.6, 67.3)| |C|!Rogue/!Warrior/!Hunter/!Shaman| |Z|Durotar|
-C Duokna |QID|6394| |N|Duokna - (42.6, 67.3)| |C|Hunter| |Z|Durotar|
+B Duokna |L|159 15| |N|Duokna - (42.6, 67.3)| |C|!Rogue/!Warrior/!Hunter/!Shaman| |Z|Durotar|
+B Duokna |L|2512 1000| |N|Duokna - (42.6, 67.3)| |C|Hunter| |Z|Durotar|
 B Vendor Trash |N|Duokna - (42.6, 67.3)| |C|!Rogue| |Z|Durotar|
 T Rune-Inscribed Tablet |QID|3084| |N|Shikrik - (42.4, 69.0)| |C|Shaman| |R|Troll| |Z|Durotar|
 T Rune-Inscribed Parchment |QID|3089| |N|Shikrik - (42.4, 69.0)| |C|Shaman| |R|Orc| |Z|Durotar|
@@ -80,7 +80,7 @@ T Etched Tablet |QID|3082| |N|Jen'shan - (42.8, 69.3)| |C|Hunter| |R|Troll| |Z|D
 T Etched Parchment |QID|3087| |N|Jen'shan - (42.8, 69.3)| |C|Hunter| |R|Orc| |Z|Durotar|
 T Simple Parchment |QID|2383| |N|Frang - (42.9, 69.4)| |C|Warrior| |R|Orc| |Z|Durotar|
 T Simple Tablet |QID|3065| |N|Frang - (42.9, 69.4)| |C|Warrior| |R|Troll| |Z|Durotar|
-C Kzan |QID|5441| |N|Kzan - (40.5, 68.0)| |C|Shaman| |Z|Durotar|
+C Collect Short Staff (1) |QID|5441| |L|2132 1| |N|Kzan (40.5, 68.0)| |C|Shaman| |Z|Durotar|
 A Lazy Peons |QID|5441| |N|Thazz'ril - (44.6, 68.7)| |Z|Durotar|
 C Galgar's Cactus Apple Surprise |QID|4402| |N|Loot the Cactus Apples near the Cacti Cactus Apple (10)| |O| |Z|Durotar|
 C Lazy Peons |QID|5441| |N|Use the [Foreman's Blackjack] on sleeping Lazy Peons Peons Awoken (5)| |O| |Z|Durotar|
@@ -91,8 +91,8 @@ C Lazy Peons |QID|5441| |N|Use the [Foreman's Blackjack] on sleeping Lazy Peons 
 T Galgar's Cactus Apple Surprise |QID|4402| |N|Galgar - (42.7, 67.2)| |Z|Durotar|
 N Buy [Refreshing Spring Water] from her |N|(42.6, 67.3)| |C|!Rogue/!Warrior/!Hunter/!Shaman| |Z|Durotar|
 N Buy [Rough Arrows] from her |N|(42.6, 67.3)| |C|Hunter| |Z|Durotar|
-C Duokna |QID|6394| |N|Duokna - (42.6, 67.3)| |C|!Rogue/!Warrior/!Hunter/!Shaman| |Z|Durotar|
-C Duokna |QID|6394| |N|Duokna - (42.6, 67.3)| |C|Hunter| |Z|Durotar|
+B Duokna |L|159 5| |N|Duokna - (42.6, 67.3)| |C|!Rogue/!Warrior/!Hunter/!Shaman| |Z|Durotar|
+B Duokna |L|2512 1000| |N|Duokna - (42.6, 67.3)| |C|Hunter| |Z|Durotar|
 B Vendor Trash |N|Duokna - (42.6, 67.3)| |Z|Durotar|
 T Sting of the Scorpid |QID|789| |N|Gornek - (42.1, 68.3)| |C|Shaman| |Z|Durotar|
 T Sting of the Scorpid |QID|789| |N|Gornek - (42.1, 68.3)| |C|!Shaman| |Z|Durotar|
@@ -126,7 +126,7 @@ A Carry Your Weight |QID|791| |N|Furl - (49.9, 40.4)| |Z|Durotar|
 t Train [Mining] |N|Krunn - (51.8, 40.9)| |C|Warrior/Rogue| |Z|Durotar|
 N This will allow you to find [Rough Stones] from nodes in order to craft [Sharpening Stones] (+2 Weapon Damage for 30 minutes) |N|(51.8, 40.9)| |C|Warrior/Rogue| |Z|Durotar|
 N Buy a [Mining Pick] from him |N|(51.9, 41.1)| |C|Warrior/Rogue| |Z|Durotar|
-C Vanquish the Betrayers |QID|784| |N|Wuark Mining Pick (1)| |C|Warrior/Rogue| |Z|Durotar|
+B Mining Pick (1) |L|2901 1| |N|Wuark - (51.9, 41.1)| |C|Warrior/Rogue| |Z|Durotar|
 t Train [Blacksmithing] |N|Dwukk - (52.0, 40.7)| |C|Warrior/Rogue| |Z|Durotar|
 T Thazz'ril's Pick |QID|6394| |N|Thazz'ril - (44.6, 68.7)| |Z|Durotar|
 T Galgar's Cactus Apple Surprise |QID|4402| |N|Galgar - (42.7, 67.2)| |Z|Durotar|
@@ -147,9 +147,9 @@ R Travel toward Rwag |N|(41.3, 68.0)| |O| |C|Rogue| |Z|Durotar|
 t Train [Sinister Strike] & [Gouge] |N|Rwag - (41.3, 68.0)| |C|Rogue| |Z|Durotar|
 R Travel toward Hraug |N|(40.6, 68.4)| |O| |C|Warlock| |Z|Durotar|
 N Buy the [Grimoire of Blood Pact] from him |N|(40.6, 68.4)| |C|Warlock| |Z|Durotar|
-C Hraug |QID|817| |N|Hraug - (40.6, 68.4)| |C|Warlock| |Z|Durotar|
+B Grimoire of Blood Pact |L|16321 1| |N|Hraug - (40.6, 68.4)| |C|Warlock| |Z|Durotar|
 B Vendor Trash |N|Hraug - (40.6, 68.4)| |C|Warlock| |Z|Durotar|
-t Training (6307) |N|Hraug - (40.6, 68.4)| |C|Warlock| |Z|Durotar|
+t Blood Pact (Rank 1) |N|Hraug - (40.6, 68.4)| |C|Warlock| |Z|Durotar|
 t Train [Shadow Bolt] & [Life Tap] |N|Nartok - (40.6, 68.5)| |C|Warlock| |Z|Durotar|
 R Travel toward the Shaman Shrine |N|(44.1, 76.4)| |O| |C|Shaman| |Z|Durotar|
 T Call of Earth |QID|1517| |N|the Manifestation - (44.0, 76.2)| |C|Shaman| |Z|Durotar|

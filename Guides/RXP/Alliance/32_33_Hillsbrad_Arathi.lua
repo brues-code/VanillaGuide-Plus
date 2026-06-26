@@ -6,14 +6,14 @@ N 32-33 Hillsbrad/Arathi |N|Converted from RestedXP guide|
 
 T James Hyal |QID|1301| |N|Vincent Hyal - (10.8, 60.4)| |Z|Wetlands|
 A James Hyal |QID|1302| |N|Vincent Hyal - (10.8, 60.4)| |Z|Wetlands|
-N |cRXP_WARN_Accepting this quest will make Tapoke "Slim" Jahn by the Inn entrance [Stealth] and run away outside |N|(10.6, 60.8)| |O| |Z|Wetlands|
+N Accepting this quest will make Tapoke "Slim" Jahn by the Inn entrance [Stealth] and run away outside |N|(10.6, 60.8)| |O| |Z|Wetlands|
 T The Missing Diplomat |QID|1248| |N|Mikhail - (10.6, 60.8)| |O| |Z|Wetlands|
 A The Missing Diplomat |QID|1249| |N|Mikhail - (10.6, 60.8)| |O| |Z|Wetlands|
-N |cRXP_WARN_Defeat Tapoke "Slim" Jahn. Slim's Friend will run away once Tapoke "Slim" Jahn submits |N|(10.8, 59.6)| |Z|Wetlands|
-N |cRXP_WARN_Use any Crowd Control (CC) on Slim's Friend if needed |N|(10.8, 59.6)| |Z|Wetlands|
+N Defeat Tapoke "Slim" Jahn. Slim's Friend will run away once Tapoke "Slim" Jahn submits |N|(10.8, 59.6)| |Z|Wetlands|
+N Use any Crowd Control (CC) on Slim's Friend if needed |N|(10.8, 59.6)| |Z|Wetlands|
 C The Missing Diplomat |QID|1249| |N|Quickly run outside! (10.8, 59.6)| |Z|Wetlands|
 N Buy a [Flagon of Dwarven Honeymead] from him |N|(10.7, 61.0)| |O| |Z|Wetlands|
-C The Third Fleet |QID|288| |N|Innkeeper Helbrek (10.7, 61.0)| |O| |Z|Wetlands|
+B Innkeeper Helbrek |L|2594 1| |N|Innkeeper Helbrek - (10.7, 61.0)| |O| |Z|Wetlands|
 N Wait out the RP |N|(10.6, 60.8)| |Z|Wetlands|
 T The Missing Diplomat |QID|1249| |N|Mikhail - (10.6, 60.8)| |Z|Wetlands|
 A The Missing Diplomat |QID|1250| |N|Tapoke "Slim" Jahn - (10.5, 60.3)| |Z|Wetlands|
@@ -43,17 +43,17 @@ C Stormwind Ho! |QID|562| |N|Daggerspine Sirens and Daggerspine Shorehunters (57
 T Stormwind Ho! |QID|562| |N|Lieutenant Farren Orinelle - (51.5, 58.4)| |Z|Hillsbrad Foothills|
 A Reassignment |QID|563| |N|Lieutenant Farren Orinelle - (51.5, 58.4)| |Z|Hillsbrad Foothills|
 N Buy 4 [Soothing Spices] and 1 [Fine Thread] from him |N|(48.9, 55.0)| |Z|Hillsbrad Foothills|
-C Micha Yance |QID|1218| |N|Micha Yance - (48.9, 55.0)| |Z|Hillsbrad Foothills|
+B Micha Yance |L|3713 4| |N|Micha Yance - (48.9, 55.0)| |Z|Hillsbrad Foothills|
 N Buy 4 [Soothing Spices] from him |N|(48.9, 55.0)| |Z|Hillsbrad Foothills|
-C Micha Yance |QID|1218| |N|Micha Yance - (48.9, 55.0)| |Z|Hillsbrad Foothills|
-B Restock on [Razor Arrows] |cRXP_BUY_if necessary| |N|Sarah Raycroft upstairs - (49.0, 55.2)| |C|Hunter| |Z|Hillsbrad Foothills|
+B Micha Yance |L|3713 4| |N|Micha Yance - (48.9, 55.0)| |Z|Hillsbrad Foothills|
+B Restock on [Razor Arrows] if necessary| |N|Sarah Raycroft upstairs - (49.0, 55.2)| |C|Hunter| |Z|Hillsbrad Foothills|
 A Bartolo's Yeti Fur Cloak |QID|565| |N|Bartolo Ginsetti - (49.4, 55.5)| |Z|Hillsbrad Foothills|
 R Enter the Darrow Hill Yeti Cave |N|(45.5, 31.2)| |O| |Z|Hillsbrad Foothills|
 C Bartolo's Yeti Fur Cloak |QID|565| |N|Kill Giant Yeti| |O| |Z|Hillsbrad Foothills|
 N Alterac Granite spawns throughout the entire Cave |N|(44.5, 29.7)| |Z|Hillsbrad Foothills|
 C A King's Tribute |QID|689| |N|the Alterac Granite on the ground (44.5, 29.7)| |Z|Hillsbrad Foothills|
 R Travel to Alterac Mountains |N|(36.6, 70.6)| |Z|Alterac Mountains|
-N |cRXP_WARN_If all of the Yeti's are dead inside of the cave you may kill the Yeti's to the north around Alterac Mountains as well |N|(31.2, 52.8)| |Z|Alterac Mountains|
+N If all of the Yeti's are dead inside of the cave you may kill the Yeti's to the north around Alterac Mountains as well |N|(31.2, 52.8)| |Z|Alterac Mountains|
 C Bartolo's Yeti Fur Cloak |QID|565| |N|Yeti's. Loot them for their Fur (31.2, 52.8)| |Z|Alterac Mountains|
 R Head to the Alterac Mountains hill located furthest west |N|(34.3, 83.5)| |Z|Alterac Mountains|
 N Check the westernmost hill for all spawns before you head east, kill all Hulking Mountain Lions you see as the objective is hard to complete if you skip mobs |N|(30.9, 84.6)| |O| |Z|Alterac Mountains|
@@ -66,16 +66,16 @@ C Syndicate Assassins |QID|505| |N|Kill Syndicate Thieves and Syndicate Footpads
 C Costly Menace |QID|564| |N|Finish off kiling Mountain Lions keep killing any Hulking Mountain Lions you see (38.8, 91.1)| |Z|Alterac Mountains|
 N Go up and down along the River until you've completed it |N|(69.7, 72.7)| |Z|Alterac Mountains|
 N Be careful not to run into Narillasanz a level 44 elite red dragon that may be patroling around the area |N|(69.7, 72.7)| |Z|Alterac Mountains|
-C Snapjaws. Loot them for their Turtle Meat |QID|555| |N|Snapjaws. Loot them for their Turtle Meat - (69.7, 72.7)| |Z|Alterac Mountains|
+C Snapjaws. Loot them for their Turtle Meat |QID|555| |L|3712 10| |N|Snapjaws. Loot them for their Turtle Meat - (69.7, 72.7)| |Z|Alterac Mountains|
 N Be careful not to run into Narillasanz a level 44 elite red dragon that may be patroling around the area |N|(61.8, 35.7)| |Z|Alterac Mountains|
 C Costly Menace |QID|564| |N|Finish off kiling Hulking Mountain Lions. If there's not enough spawns to complete the objective you can find more in the area north of Strahnbrad (61.8, 35.7)| |Z|Alterac Mountains|
 R Travel to Western Plaguelands |N|(42.9, 85.1)| |Z|Western Plaguelands|
 f Get the Western Plaguelands Flight Path |N|Bibilfaz Featherwhistle - (42.9, 85.1)| |Z|Western Plaguelands|
 F Fly to Southshore |N|Bibilfaz Featherwhistle - (42.9, 85.1)| |O| |Z|Western Plaguelands|
 N Buy 1 [Fine Thread] from him |N|(48.9, 55.0)| |Z|Hillsbrad Foothills|
-C Bartolo's Yeti Fur Cloak |QID|565| |N|Micha Yance (48.9, 55.0)| |Z|Hillsbrad Foothills|
+B Micha Yance |L|2321 1| |N|Micha Yance - (48.9, 55.0)| |Z|Hillsbrad Foothills|
 N Buy 1 [Soothing Spice] from him |N|(48.9, 55.0)| |Z|Hillsbrad Foothills|
-C Micha Yance |QID|555| |N|Micha Yance - (48.9, 55.0)| |Z|Hillsbrad Foothills|
+B Micha Yance |L|3713 1| |N|Micha Yance - (48.9, 55.0)| |Z|Hillsbrad Foothills|
 T Bartolo's Yeti Fur Cloak |QID|565| |N|Bartolo Ginsetti - (49.4, 55.5)| |Z|Hillsbrad Foothills|
 T Encrypted Letter |QID|511| |N|Loremaster Dibbs - (50.6, 57.1)| |Z|Hillsbrad Foothills|
 A Letter to Stormpike |QID|514| |N|Loremaster Dibbs - (50.6, 57.1)| |Z|Hillsbrad Foothills|
@@ -95,14 +95,14 @@ N Deneb Walker |N|(27.0, 58.8)| |O| |Z|Arathi Highlands|
 N Buy the [Expert First Aid - Under Wraps], [Manual: Heavy Silk Bandage] and [Manual: Mageweave Bandage] from him |N|(27.0, 58.8)| |O| |Z|Arathi Highlands|
 N Deneb Walker also has limited supply items such as [Scrolls] and [Potions] as well which you should buy |N|(27.0, 58.8)| |O| |C|!Warrior/!Rogue| |Z|Arathi Highlands|
 N Deneb Walker also has limited supply items such as [Scrolls] and [Potions] as well which you should buy |N|(27.0, 58.8)| |O| |C|Warrior/Rogue| |Z|Arathi Highlands|
-C Stromgarde Keep to further train your [First Aid] |N|Stromgarde Keep to further train your [First Aid] - (27.0, 58.8)| |O| |Z|Arathi Highlands|
+B Stromgarde Keep to further train your [First Aid] |L|16084 1| |N|Stromgarde Keep to further train your [First Aid] - (27.0, 58.8)| |O| |Z|Arathi Highlands|
 R Travel to Hillsbrad Foothills |N|(59.7, 20.2)| |O| |Z|Hillsbrad Foothills|
 N It respawns about every 7 minutes after being killed or reaching Tarren Mill |N|(59.7, 20.2)| |O| |Z|Hillsbrad Foothills|
 N Cast [Eagle Eye] to try and find the Forsaken Courier |N|(59.7, 20.2)| |O| |C|Hunter| |Z|Hillsbrad Foothills|
 N If you can't see them in Arathi, look for them in Hillsbrad after finishing Northfold Manor |N|(59.7, 20.2)| |O| |C|Hunter| |Z|Hillsbrad Foothills|
-C Hints of a New Plague? |QID|658| |N||cRXP_WARN_The Forsaken Courier spawns next to the Apothecary's hut in Go'shek farm (marked on your map) and walks all the way to Tarren Mill where it despawns. (59.7, 20.2)| |O| |Z|Hillsbrad Foothills|
+C Hints of a New Plague? |QID|658| |N|The Forsaken Courier spawns next to the Apothecary's hut in Go'shek farm (marked on your map) and walks all the way to Tarren Mill where it despawns. (59.7, 20.2)| |O| |Z|Hillsbrad Foothills|
 R Travel to Arathi Highlands |N|(33.9, 29.1)| |Z|Arathi Highlands|
-N |cRXP_WARN_Be aware Syndicate Highwaymen are in [Stealth] and can be found around the perimiter of Northfold Manor |N|(31.1, 29.5)| |Z|Arathi Highlands|
+N Be aware Syndicate Highwaymen are in [Stealth] and can be found around the perimiter of Northfold Manor |N|(31.1, 29.5)| |Z|Arathi Highlands|
 N Cast [Perception] to help spot Syndicate Highwaymen |N|(31.1, 29.5)| |R|Human| |Z|Arathi Highlands|
 C Northfold Manor |QID|681| |N|Syndicate Mercenaries and Syndicate Highwaymen (31.1, 29.5)| |Z|Arathi Highlands|
 N Buy food/water if needed |O| |C|Hunter| |Z|Arathi Highlands|
@@ -112,8 +112,8 @@ F Fly to Arathi Highlands |N|Darla Harris - (49.3, 52.3)| |C|Hunter| |Z|Hillsbra
 R Travel to Arathi Highlands |N|(46.4, 45.6)| |C|Hunter| |Z|Arathi Highlands|
 B Buy up to a stack of [Wild Hog Shank] to serve as pet food |N|Targot Jinglepocket - (46.4, 45.6)| |C|Hunter| |Z|Arathi Highlands|
 T Northfold Manor |QID|681| |N|Captain Nials - (45.8, 47.5)| |Z|Arathi Highlands|
-N Cast [Tame Beast] |cRXP_WARN_on a Plains Creeper to tame it |N|(48.0, 58.6)| |C|Hunter| |Z|Arathi Highlands|
-t Attack mobs with it to learn [Bite (Rank 5)] |N|Cast [Eagle Eye] |cRXP_WARN_to try and find a Plains Creeper. Some of their locations are marked on your map - (48.0, 58.6)| |C|Hunter| |Z|Arathi Highlands|
+N Cast [Tame Beast] on a Plains Creeper to tame it |N|(48.0, 58.6)| |C|Hunter| |Z|Arathi Highlands|
+t Attack mobs with it to learn [Bite (Rank 5)] |N|Cast [Eagle Eye] to try and find a Plains Creeper. Some of their locations are marked on your map - (48.0, 58.6)| |C|Hunter| |Z|Arathi Highlands|
 N Loganaar |N|(52.5, 40.6)| |C|Druid| |Z|Arathi Highlands|
 R Travel to Moonglade |N|(52.5, 40.6)| |C|Druid| |Z|Moonglade|
 t Train your class spells |N|Teleport to Moonglade - (52.5, 40.6)| |C|Druid| |Z|Moonglade|

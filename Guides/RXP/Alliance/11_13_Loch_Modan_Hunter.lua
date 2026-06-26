@@ -29,10 +29,10 @@ F Fly to Loch Modan |N|Gryth Thurden - (55.5, 47.7)| |Z|Ironforge|
 R Travel to Loch Modan |N|(37.2, 47.9)| |Z|Loch Modan|
 T Return to Brock |QID|6392| |N|Brock Stoneseeker - (37.0, 47.8)| |Z|Loch Modan|
 N Buy a [Hunter's Boomstick] if you can afford it |N|(35.8, 43.5)| |C|Hunter| |Z|Loch Modan|
-C Vrok Blunderblast |N|Vrok Blunderblast - (35.8, 43.5)| |C|Hunter| |Z|Loch Modan|
+B Vrok Blunderblast |L|2511 1| |N|Vrok Blunderblast - (35.8, 43.5)| |C|Hunter| |Z|Loch Modan|
 N Kill Mountain Boars. Loot them for their Boar Intestines |O| |Z|Loch Modan|
 N Kill Forest Lurkers. Loot them for their Ichor |O| |Z|Loch Modan|
-C Thelsamar Blood Sausages |QID|418| |N|Kill Elder Black Bears. Loot them for their Bear Meat Collect Boar Intestines (x3)| |O| |Z|Loch Modan|
+C Collect Boar Intestines (x3) |QID|418| |L|3172 3| |N|Kill Elder Black Bears. Loot them for their Bear Meat| |O| |Z|Loch Modan|
 R Travel north to the Algaz Station |N|(23.9, 17.9)| |O| |Z|Loch Modan|
 T Mountaineer Stormpike's Task |QID|1339| |N|Mountaineer Stormpike inside the bunker - (24.8, 18.4) (DM Dungeon Quest)| |D|DM| |Z|Loch Modan|
 A Stormpike's Order |QID|1338| |N|Mountaineer Stormpike inside the bunker - (24.8, 18.4) (DM Dungeon Quest)| |D|DM| |Z|Loch Modan|
@@ -41,18 +41,18 @@ T Mountaineer Stormpike's Task |QID|1339| |N|Mountaineer Stormpike inside the bu
 A Stormpike's Order |QID|1338| |N|Mountaineer Stormpike inside the bunker - (24.8, 18.4) (!DM Dungeon Quest)| |R|Human| |D|!DM| |Z|Loch Modan|
 A Filthy Paws |QID|307| |N|Mountaineer Stormpike inside the bunker - (24.8, 18.4) (!DM Dungeon Quest)| |R|Human| |D|!DM| |Z|Loch Modan|
 R Enter the Silver Stream Mine |N|(35.5, 19.0)| |O| |Z|Loch Modan|
-N |cRXP_WARN_The Miners' League Crates can be found all throughout the Mine |N|(35.9, 22.6)| |Z|Loch Modan|
+N The Miners' League Crates can be found all throughout the Mine |N|(35.9, 22.6)| |Z|Loch Modan|
 N You will be able to do this quest at a higher level if you wish to skip it for now |N|(35.9, 22.6)| |Z|Loch Modan|
 C Filthy Paws |QID|307| |N|the Miners' League Crates. Loot them for the Miners' Gear Miners' Gear (4)| |Z|Loch Modan|
 N Kill Mountain Boars. Loot them for their Boar Intestines |O| |Z|Loch Modan|
 N Kill Forest Lurkers. Loot them for their Ichor |O| |Z|Loch Modan|
-C Thelsamar Blood Sausages |QID|418| |N|Kill Elder Black Bears. Loot them for their Bear Meat Collect Boar Intestines (x3)| |O| |Z|Loch Modan|
+C Collect Boar Intestines (x3) |QID|418| |L|3172 3| |N|Kill Elder Black Bears. Loot them for their Bear Meat| |O| |Z|Loch Modan|
 T Filthy Paws |QID|307| |N|Mountaineer Stormpike - (24.8, 18.4)| |Z|Loch Modan|
 N Tunnel Rats can spawn throughout Loch Modan. Check your World Map for their locations |N|(35.5, 16.8)| |Z|Loch Modan|
 C Rat Catching |QID|416| |N|Tunnel Rats. Loot them for their Ears Collect Tunnel Rat Ear (x12)| |Z|Loch Modan|
 N Kill Mountain Boars. Loot them for their Boar Intestines |N|(26.9, 10.7)| |Z|Loch Modan|
 N Kill Forest Lurkers. Loot them for their Ichor |N|(26.9, 10.7)| |Z|Loch Modan|
-C Thelsamar Blood Sausages |QID|418| |N|Kill Elder Black Bears. Loot them for their Bear Meat Bear Meat (3)| |Z|Loch Modan|
+C Bear Meat (3) |QID|418| |L|3173 3| |N|Kill Elder Black Bears. Loot them for their Bear Meat (26.9, 10.7)| |Z|Loch Modan|
 N Mountaineer Kadrell patrols the road through Thelsamar |N|(36.8, 46.2)| |Z|Loch Modan|
 T Rat Catching |QID|416| |N|Mountaineer Kadrell - (36.8, 46.2)| |Z|Loch Modan|
 T Thelsamar Blood Sausages |QID|418| |N|Vidra Hearthstove - (34.8, 49.3)| |Z|Loch Modan|
@@ -64,13 +64,14 @@ R Ironband's Excavation Site |N|(64.9, 66.7)| |O| |Z|Loch Modan|
 A Excavation Progress Report |QID|298| |N|Prospector Ironband - (65.9, 65.6)| |Z|Loch Modan|
 R The Farstrider Lodge |N|(83.3, 63.0)| |O| |Z|Loch Modan|
 A A Hunter's Boast |QID|257| |N|Daryl the Youngling - (83.5, 65.4)| |Z|Loch Modan|
-N |cRXP_WARN_You must complete this quest and return to Daryl the Youngling within 15 minutes. If you fail the quest, abandon it and pick it up again |N|(80.1, 64.2)| |Z|Loch Modan|
+N You must complete this quest and return to Daryl the Youngling within 15 minutes. If you fail the quest, abandon it and pick it up again |N|(80.1, 64.2)| |Z|Loch Modan|
 C A Hunter's Boast |QID|257| |N|Mountain Buzzards Mountain Buzzard slain (6)| |Z|Loch Modan|
 T A Hunter's Boast |QID|257| |N|Daryl the Youngling - (83.5, 65.4)| |Z|Loch Modan|
 N Buy a [Simple Wood] and a [Flint and Tinder] from him |N|(82.5, 63.4)| |Z|Loch Modan|
 N This is used to make [Basic Campfires] on Boats or Trams to level your [Cooking] skill without losing time |N|(82.5, 63.4)| |Z|Loch Modan|
 N You need 50 [Cooking] for a quest in Duskwood later |N|(82.5, 63.4)| |Z|Loch Modan|
-C Xandar Goodbeard |N|Xandar Goodbeard - (82.5, 63.4)| |Z|Loch Modan|
+B Simple Wood (1) |L|4470 1| |N|Xandar Goodbeard - (82.5, 63.4)| |Z|Loch Modan|
+B Flint and Tinder (1) |L|4471 1| |N|Xandar Goodbeard - (82.5, 63.4)| |Z|Loch Modan|
 T Excavation Progress Report |QID|298| |N|Jern Hornhelm - (37.2, 47.4)| |Z|Loch Modan|
 A Report to Ironforge |QID|301| |N|Jern Hornhelm - (37.2, 47.4)| |Z|Loch Modan|
 F Fly to Ironforge |N|Thorgrum - (33.9, 51.0)| |Z|Loch Modan|
@@ -98,7 +99,7 @@ R the Dun Morogh -> Wetlands skip spot |N|(59.4, 42.9)| |O| |Z|Dun Morogh|
 R Travel to Wetlands |N|(15.1, 64.0)| |Z|Wetlands|
 R Watch the video guide for a reference on how to do the skip first! |N|(12.1, 60.3)| |Z|Wetlands|
 N Do the Deathless Dun Morogh -> Wetlands skip |N|(12.1, 60.3)| |Z|Wetlands|
-N |cRXP_WARN_Avoid the Wetlands Crocolisks and Murlocs when crossing the water |N|(12.1, 60.3)| |Z|Wetlands|
+N Avoid the Wetlands Crocolisks and Murlocs when crossing the water |N|(12.1, 60.3)| |Z|Wetlands|
 R Menethil Harbor |N|(12.1, 60.3)| |Z|Wetlands|
 f Get the Wetlands flight path |N|Shellei - (9.5, 59.7)| |Z|Wetlands|
 R the dock of the Auberdine boat |N|(4.6, 57.3)| |O| |Z|Wetlands|

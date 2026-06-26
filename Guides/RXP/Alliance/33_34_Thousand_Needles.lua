@@ -17,9 +17,9 @@ N Michael |N|(66.0, 45.5)| |C|Hunter| |Z|Dustwallow Marsh|
 N Innkeeper Janene |N|(66.6, 45.2)| |Z|Dustwallow Marsh|
 A Highperch Venom |QID|1135| |N|Fiora Longears - (66.5, 45.1)| |Z|Dustwallow Marsh|
 N Buy 3 [Soothing Spices] from her |N|(66.4, 51.5)| |Z|Dustwallow Marsh|
-C Helenia Olden |QID|1218| |N|Helenia Olden - (66.4, 51.5)| |Z|Dustwallow Marsh|
+B Helenia Olden |L|3713 3| |N|Helenia Olden - (66.4, 51.5)| |Z|Dustwallow Marsh|
 N Archmage Tervosh |N|(59.7, 41.2)| |Z|Dustwallow Marsh|
-N |cRXP_WARN_Stay in Archmage Tervosh's Line of Sight as he will buff you with [Proudmoore's Defense] which gives 10 Stamina and 40 Armor |N|(59.7, 41.2)| |Z|Dustwallow Marsh|
+N Stay in Archmage Tervosh's Line of Sight as he will buff you with [Proudmoore's Defense] which gives 10 Stamina and 40 Armor |N|(59.7, 41.2)| |Z|Dustwallow Marsh|
 C The Missing Diplomat |QID|1265| |N|the Sentry Point Tower (59.7, 41.2)| |Z|Dustwallow Marsh|
 T The Missing Diplomat |QID|1265| |N|the Sentry Point Tower - (59.7, 41.2)| |Z|Dustwallow Marsh|
 A The Missing Diplomat |QID|1266| |N|the Sentry Point Tower - (59.7, 41.2)| |Z|Dustwallow Marsh|
@@ -46,7 +46,7 @@ A Suspicious Hoofprints |QID|1284| |N|Click the Hoofprints on the ground - (29.7
 A Lieutenant Paval Reethe |QID|1252| |N|Click the Hoofprints on the ground - (29.7, 47.6)| |Z|Dustwallow Marsh|
 A The Black Shield |QID|1253| |N|(29.8, 48.2)| |Z|Dustwallow Marsh|
 R Travel to Thousand Needles |N|(32.1, 22.3)| |O| |Z|Thousand Needles|
-C [Henrig Lonebrow's Journal] from the ground next to the dwarf's corpse |N|[Henrig Lonebrow's Journal] from the ground next to the dwarf's corpse - (30.7, 24.3)| |Z|Thousand Needles|
+C [Henrig Lonebrow's Journal] from the ground next to the dwarf's corpse |L|5791 1| |N|[Henrig Lonebrow's Journal] from the ground next to the dwarf's corpse - (30.7, 24.3)| |Z|Thousand Needles|
 A Lonebrow's Journal |QID|1100| |Z|Thousand Needles|
 R Thalanaar |N|(89.5, 45.9)| |O| |Z|Feralas|
 f Get the Thalanaar flight path |N|Thyssiana - (89.5, 45.9)| |Z|Feralas|
@@ -60,7 +60,7 @@ C The Crone of the Kraul |QID|1101| |N|(RFK Dungeon Quest)| |D|RFK| |Z|Tirisfal 
 A Mortality Wanes |QID|1142| |N|(RFK Dungeon Quest)| |D|RFK| |Z|Tirisfal Glades|
 A Willix the Importer |QID|1144| |N|(RFK Dungeon Quest)| |D|RFK| |Z|Tirisfal Glades|
 C Mortality Wanes |QID|1142| |N|Kill all Monsters inside of RFK. Loot them for Treshala's Pendant (RFK Dungeon Quest)| |D|RFK| |Z|Tirisfal Glades|
-C Willix the Importer |QID|1144| |N||cRXP_WARN_Ensure you stay close to Willix otherwise the quest may not complete! (RFK Dungeon Quest)| |D|RFK| |Z|Tirisfal Glades|
+C Willix the Importer |QID|1144| |N|Ensure you stay close to Willix otherwise the quest may not complete! (RFK Dungeon Quest)| |D|RFK| |Z|Tirisfal Glades|
 C Mortality Wanes |QID|1142| |N|Kill all Monsters inside of RFK. Loot them for Treshala's Pendant (RFK Dungeon Quest)| |D|RFK| |Z|Tirisfal Glades|
 T Willix the Importer |QID|1144| |N|(RFK Dungeon Quest)| |D|RFK| |Z|Tirisfal Glades|
 C Mortality Wanes |QID|1142| |N|(RFK Dungeon Quest)| |D|RFK| |Z|Tirisfal Glades|

@@ -30,7 +30,7 @@ N He is located on the upper level in the Drag |N|(56.5, 46.4)| |Z|Orgrimmar|
 T Calm Before the Storm |QID|4509| |N|Zilzibin - (56.5, 46.4)| |Z|Orgrimmar|
 A Calm Before the Storm |QID|4511| |N|Zilzibin - (56.5, 46.4)| |Z|Orgrimmar|
 T Calm Before the Storm |QID|4511| |N|Karus - (49.7, 69.3)| |Z|Orgrimmar|
-C If you bought enough cloth earlier, go to the mailbox and retrieve the following: |N|If you bought enough cloth earlier, go to the mailbox and retrieve the following:| |O| |Z|Orgrimmar|
+C If you bought enough cloth earlier, go to the mailbox and retrieve the following |L|2592 60| |N|If you bought enough cloth earlier, go to the mailbox and retrieve the following:| |O| |Z|Orgrimmar|
 N Disable any other addons that automatically turn in reputation items, or you'll be told to buy cloth again later |N|(63.6, 51.2)| |Z|Orgrimmar|
 N Skip any of the donations which you do not have enough cloth for |N|(63.6, 51.2)| |Z|Orgrimmar|
 T A Donation of Wool |QID|7826| |N|Rashona - (63.6, 51.2)| |Z|Orgrimmar|

@@ -48,9 +48,9 @@ A Spiritual Unrest |QID|5535| |N|Loh'atu - (11.4, 78.2)| |Z|Azshara|
 A A Land Filled with Hatred |QID|5536| |N|Loh'atu - (11.4, 78.2)| |Z|Azshara|
 C Spiritual Unrest |QID|5535| |N|Highborne Apparitions and Highborne Lichlings (14.2, 72.7)| |O| |Z|Azshara|
 C A Land Filled with Hatred |QID|5536| |N|Haldarr Satyrs, Haldarr Tricksters and Haldarr Felsworns (20.6, 60.9)| |Z|Azshara|
-N |cRXP_WARN_Save an Ichor of Undeath for your Sunken Temple class quest later if you get one from them, if not you'll get one later |N|(17.1, 69.0)| |C|Priest| |Z|Azshara|
+N Save an Ichor of Undeath for your Sunken Temple class quest later if you get one from them, if not you'll get one later |N|(17.1, 69.0)| |C|Priest| |Z|Azshara|
 C Spiritual Unrest |QID|5535| |N|Highborne Apparitions and Highborne Lichlings (17.1, 69.0)| |Z|Azshara|
-C Highborne Apparitions and Highborne Lichlings |QID|8256| |N|Highborne Apparitions and Highborne Lichlings - (17.1, 69.0)| |C|Priest| |Z|Azshara|
+C Highborne Apparitions and Highborne Lichlings |QID|8256| |L|7972 1| |N|Highborne Apparitions and Highborne Lichlings - (17.1, 69.0)| |C|Priest| |Z|Azshara|
 C Spiritual Unrest |QID|5535| |N|Highborne Apparitions and Highborne Lichlings (17.1, 69.0)| |Z|Azshara|
 T Spiritual Unrest |QID|5535| |N|Loh'atu - (11.4, 78.2)| |Z|Azshara|
 T A Land Filled with Hatred |QID|5536| |N|Loh'atu - (11.4, 78.2)| |Z|Azshara|
@@ -64,8 +64,8 @@ A Forces of Jaedenar |QID|5155| |N|Greta Mosshoof - (51.2, 82.1)| |Z|Felwood|
 A Verifying the Corruption |QID|5156| |N|Taronn Redfeather - (50.9, 81.6)| |Z|Felwood|
 A The Corruption of the Jadefire |QID|4421| |N|Eridan Bluewind - (51.4, 81.5)| |Z|Felwood|
 C The Corruption of the Jadefire |QID|4421| |N|Kill Jadefire Felsworns, Jadefire Shadowstalkers, Jadefire Rogues and Xavathras (37.2, 68.9)| |Z|Felwood|
-C An Imp's Request |QID|8419| |N|Jadefire Satyrs and Jadefire Felsworns. Loot them for a Felcloth (39.5, 84.5)| |C|Warlock| |Z|Felwood|
-C Collect item |O| |Z|Felwood|
+C Jadefire Satyrs and Jadefire Felsworns. Loot them for a Felcloth |QID|8419| |L|14256 1| |N|Jadefire Satyrs and Jadefire Felsworns. Loot them for a Felcloth - (39.5, 84.5)| |C|Warlock| |Z|Felwood|
+C Collect item |L|11914 6| |O| |Z|Felwood|
 N Use the [Empty Cursed Ooze Jars] on their corpses |N|(40.8, 66.9)| |Z|Felwood|
 C A Little Slime Goes a Long Way |QID|4512| |N|Cursed Oozes (40.8, 66.9)| |Z|Felwood|
 T An Imp's Request |QID|8419| |N|Impsy - (41.5, 45.0)| |C|Warlock| |Z|Felwood|
@@ -84,9 +84,9 @@ A Further Corruption |QID|4906| |N|Eridan Bluewind - (51.4, 81.5)| |Z|Felwood|
 A Verifying the Corruption |QID|5156| |N|Taronn Redfeather - (50.9, 81.6)| |Z|Felwood|
 C Collection of the Corrupt Water |QID|5157| |N|(35.2, 59.8)| |Z|Felwood|
 C Verifying the Corruption |QID|5156| |N|Kill Entropic Beasts and Entropic Horrors (41.5, 43.0)| |Z|Felwood|
-N |cRXP_WARN_Use the [Flute of Xavaric] to start the quest |N|(39.0, 22.3)| |Z|Felwood|
+N Use the [Flute of Xavaric] to start the quest |N|(39.0, 22.3)| |Z|Felwood|
 C Further Corruption |QID|4906| |N|Xavaric. Loot him for the [Flute of Xavaric] (39.0, 22.3)| |Z|Felwood|
-C Flute of Xavaric |QID|939| |N|Xavaric. Loot him for the [Flute of Xavaric] (39.0, 22.3)| |Z|Felwood|
+C Xavaric. Loot him for the [Flute of Xavaric] |QID|939| |L|11668 1| |N|Xavaric. Loot him for the [Flute of Xavaric] - (39.0, 22.3)| |Z|Felwood|
 A Flute of Xavaric |QID|939| |N|Xavaric. Loot him for the [Flute of Xavaric] - (39.0, 22.3)| |Z|Felwood|
 C Further Corruption |QID|4906| |N|Jadefire Hellcallers, Jadefire Betrayers and Jadefire Trickster. Loot them for their Jadefire Felbinds (39.0, 22.3)| |Z|Felwood|
 C Flute of Xavaric |QID|939| |N|Jadefire Hellcallers, Jadefire Betrayers and Jadefire Trickster. Loot them for their Jadefire Felbinds (39.0, 22.3)| |Z|Felwood|
@@ -95,7 +95,7 @@ C Cleansing Felwood |QID|4101| |N|Warpwood Moss Flayers and Warpwood Shredders. 
 f Get the Felwood Flight Path |N|Mishellena - (62.5, 24.2)| |Z|Felwood|
 T Speak to Nafien |QID|8462| |N|Nafien - (64.8, 8.1)| |Z|Felwood|
 R Travel to Winterspring |N|(27.8, 34.6)| |O| |Z|Winterspring|
-N |cRXP_WARN_If you are not Unfriendly with Timbermaw Hold, Furbolgs will attack you |N|(27.8, 34.6)| |O| |Z|Winterspring|
+N If you are not Unfriendly with Timbermaw Hold, Furbolgs will attack you |N|(27.8, 34.6)| |O| |Z|Winterspring|
 T It's a Secret to Everybody |QID|3908| |N|Donova Snowden - (31.3, 45.2)| |Z|Winterspring|
 N Blizzard has adjusted the quest [The Videre Elixir] so it will no longer kill you on Official Hardcore Servers |N|(31.3, 45.2)| |Z|Winterspring|
 A The Videre Elixir |QID|3909| |N|Donova Snowden - (31.3, 45.2)| |Z|Winterspring|
@@ -105,15 +105,15 @@ C Moontouched Feathers on the ground |QID|978| |N|Moontouched Feathers on the gr
 R Azzleby |N|(60.4, 37.9)| |O| |C|Hunter| |Z|Winterspring|
 f Get the Winterspring Flight Path |N|Maethrya - (62.3, 36.6)| |Z|Winterspring|
 F Fly to Felwood |N|Maethrya - (62.3, 36.6)| |Z|Winterspring|
-t Attack mobs with it to learn [Bite (Rank 7)] |N|Cast [Tame Beast] |cRXP_WARN_on a Felpaw Ravager to tame it - (62.2, 17.1)| |C|Hunter| |Z|Felwood|
-N Cast [Tame Beast] |cRXP_WARN_on a Ironbeak Hunter or Angerclaw Mauler to tame it |N|(38.6, 50.2)| |C|Hunter| |Z|Felwood|
+t Attack mobs with it to learn [Bite (Rank 7)] |N|Cast [Tame Beast] on a Felpaw Ravager to tame it - (62.2, 17.1)| |C|Hunter| |Z|Felwood|
+N Cast [Tame Beast] on a Ironbeak Hunter or Angerclaw Mauler to tame it |N|(38.6, 50.2)| |C|Hunter| |Z|Felwood|
 t Attack mobs with it to learn [Claw (Rank 7)] |N|Abandon your current Felpaw Ravager - (38.6, 50.2)| |C|Hunter| |Z|Felwood|
 T The Wrong Stuff |QID|8421| |N|Impsy - (41.5, 45.0)| |C|Warlock| |Z|Felwood|
 A Trolls of a Feather |QID|8422| |N|Impsy - (41.5, 45.0) (ST Dungeon Quest)| |C|Warlock| |D|ST| |Z|Felwood|
 R Head south to the slime pools and die at the arrow location |N|(40.8, 66.8)| |O| |Z|Felwood|
 T Cleansing Felwood |QID|4101| |N|Arathandris Silversky - (54.1, 86.8)| |Z|Felwood|
 N Select the option: "I need a Cenarion beacon." |N|(54.1, 86.8)| |Z|Felwood|
-C Arathandris Silversky |N|Arathandris Silversky - (54.1, 86.8)| |Z|Felwood|
+C Arathandris Silversky |L|11511 1| |N|Arathandris Silversky - (54.1, 86.8)| |Z|Felwood|
 T Collection of the Corrupt Water |QID|5157| |N|Greta Mosshoof - (51.2, 82.1)| |Z|Felwood|
 A Seeking Spiritual Aid |QID|5158| |N|Greta Mosshoof - (51.2, 82.1)| |Z|Felwood|
 T Further Corruption |QID|4906| |N|Eridan Bluewind - (51.4, 81.5)| |Z|Felwood|
@@ -122,7 +122,7 @@ A Felbound Ancients |QID|4441| |N|Eridan Bluewind - (51.4, 81.5)| |Z|Felwood|
 T Verifying the Corruption |QID|5156| |N|Taronn Redfeather - (50.9, 81.6)| |Z|Felwood|
 T Cleansing Felwood |QID|4101| |N|Arathandris Silversky - (54.1, 86.8)| |Z|Felwood|
 N Select the option: "I need a Cenarion beacon." |N|(54.1, 86.8)| |Z|Felwood|
-C Arathandris Silversky |N|Arathandris Silversky - (54.1, 86.8)| |Z|Felwood|
+C Arathandris Silversky |L|11511 1| |N|Arathandris Silversky - (54.1, 86.8)| |Z|Felwood|
 N Buy food/water if needed |C|!Warrior/!Rogue| |Z|Felwood|
 N Buy food if needed |C|Warrior/Rogue| |Z|Felwood|
 F Fly to Feathermoon |N|Caylais Moonfeather - (36.3, 45.6) (!Mara Dungeon Quest)| |D|!Mara| |Z|Darkshore|

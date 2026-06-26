@@ -14,31 +14,23 @@ T Errand for Apothecary Zinge |QID|238| |N|Zinge - (50.1, 68.0)| |Z|Undercity|
 A Into the Field |QID|243| |N|Zinge - (50.1, 68.0)| |Z|Undercity|
 T Bring the End |QID|3341| |N|Andrew - (74.0, 33.3) (RFD Dungeon Quest)| |D|RFD| |Z|Undercity|
 B Buy a [Massive Longbow] from her if it's available |N|Abigail - (54.7, 38.8)| |C|Hunter| |Z|Undercity|
-C Geoffrey. Buy a [Falchion] from him |QID|503| |N|Geoffrey. Buy a [Falchion] from him - (58.7, 33.0)| |C|Rogue| |Z|Undercity|
-C Geoffrey. Buy a [Rondel] from him |QID|503| |N|Geoffrey. Buy a [Rondel] from him - (58.7, 33.0)| |C|Rogue| |Z|Undercity|
-C Zane. Buy a [Blackbone Wand] from him |QID|503| |N|Zane. Buy a [Blackbone Wand] from him - (69.5, 26.9)| |C|Priest| |Z|Undercity|
-C The Summoning |QID|1713| |N|NathanielBuy two stacks of [Gleaming Throwing Axe] from him (77.5, 49.6)| |C|Warrior| |Z|Undercity|
+B Geoffrey. Buy a [Falchion] from him |L|2528 1| |N|Geoffrey. Buy a [Falchion] from him - (58.7, 33.0)| |C|Rogue| |Z|Undercity|
+B Geoffrey. Buy a [Rondel] from him |L|2534 1| |N|Geoffrey. Buy a [Rondel] from him - (58.7, 33.0)| |C|Rogue| |Z|Undercity|
+B Zane. Buy a [Blackbone Wand] from him |L|5239 1| |N|Zane. Buy a [Blackbone Wand] from him - (69.5, 26.9)| |C|Priest| |Z|Undercity|
+B NathanielBuy two stacks of [Gleaming Throwing Axe] from him |L|15326 400| |N|NathanielBuy two stacks of [Gleaming Throwing Axe] from him - (77.5, 49.6)| |C|Warrior| |Z|Undercity|
 N If you have money leftover after buying [Nature Protection Potions], purchase the following items: |O| |C|Warrior| |Z|Undercity|
-C The Summoning |QID|1713| |N|Auctioneer Stockton in the Trade Quarter| |O| |C|Warrior| |Z|Undercity|
-C The Summoning |QID|1713| |N|Auctioneer Stockton in the Trade Quarter (71.4, 46.7)| |C|Warrior| |Z|Undercity|
+B Auctioneer Stockton in the Trade Quarter |L|4480 8| |N|Auctioneer Stockton in the Trade Quarter| |O| |C|Warrior| |Z|Undercity|
+C Auctioneer Stockton in the Trade Quarter |QID|1713| |L|6052 2| |N|Auctioneer Stockton in the Trade Quarter - (71.4, 46.7)| |C|Warrior| |Z|Undercity|
 N If you have money leftover, purchase the following items: |N|(71.4, 46.7)| |Z|Undercity|
-C Coolant Heads Prevail |QID|713| |N|Auctioneer Stockton in the Trade Quarter (71.4, 46.7)| |Z|Undercity|
-C Gyro... What? |QID|714| |N|Auctioneer Stockton in the Trade Quarter (71.4, 46.7)| |Z|Undercity|
-C Liquid Stone |QID|715| |N|Auctioneer Stockton in the Trade Quarter (71.4, 46.7)| |Z|Undercity|
-C Stone Is Better than Cloth |QID|716| |N|Auctioneer Stockton in the Trade Quarter (71.4, 46.7)| |Z|Undercity|
-C Pearl Diving |QID|705| |N|Auctioneer Stockton in the Trade Quarter (71.4, 46.7)| |Z|Undercity|
-C Barbecued Buzzard Wings |QID|703| |N|Auctioneer Stockton in the Trade Quarter (71.4, 46.7)| |Z|Undercity|
+B Auctioneer Stockton in the Trade Quarter |L|3829 1| |N|Auctioneer Stockton in the Trade Quarter - (71.4, 46.7)| |Z|Undercity|
 N If you have money leftover, purchase the following items: |N|(71.4, 46.7)| |Z|Undercity|
-C Coolant Heads Prevail |QID|713| |N|Auctioneer Stockton in the Trade Quarter (71.4, 46.7)| |Z|Undercity|
-C Gyro... What? |QID|714| |N|Auctioneer Stockton in the Trade Quarter (71.4, 46.7)| |Z|Undercity|
-C Pearl Diving |QID|705| |N|Auctioneer Stockton in the Trade Quarter (71.4, 46.7)| |Z|Undercity|
-C Barbecued Buzzard Wings |QID|703| |N|Auctioneer Stockton in the Trade Quarter (71.4, 46.7)| |Z|Undercity|
-C Soothing Turtle Bisque |QID|7321| |N|Ronald. Buy [Soothing Spices] from him (62.3, 43.1)| |Z|Undercity|
+B Auctioneer Stockton in the Trade Quarter |L|3829 1| |N|Auctioneer Stockton in the Trade Quarter - (71.4, 46.7)| |Z|Undercity|
+B Ronald. Buy [Soothing Spices] from him |L|3713 1| |N|Ronald. Buy [Soothing Spices] from him - (62.3, 43.1)| |Z|Undercity|
 R Travel to Arathi Highlands |N|(45.8, 43.6)| |O| |C|Warrior| |Z|Arathi Highlands|
-C The Summoning |QID|1713| |N|Cresting Exiles. Loot them for their [Cresting Charms] (66.7, 29.7)| |C|Warrior| |Z|Arathi Highlands|
+C Cresting Exiles. Loot them for their [Cresting Charms] |QID|1713| |L|4481 8| |N|Cresting Exiles. Loot them for their [Cresting Charms] - (66.7, 29.7)| |C|Warrior| |Z|Arathi Highlands|
 N Be careful! Thundering Exiles have high burst damage |N|(52.1, 50.6)| |C|Warrior| |Z|Arathi Highlands|
-C The Summoning |QID|1713| |N|Thundering Exiles. Loot them for their [Thundering Charms] (52.1, 50.6)| |C|Warrior| |Z|Arathi Highlands|
-C The Summoning |QID|1713| |N|Burning Exiles. Loot them for their [Burning Charms] (25.5, 30.1)| |C|Warrior| |Z|Arathi Highlands|
+C Thundering Exiles. Loot them for their [Thundering Charms] |QID|1713| |L|4480 8| |N|Thundering Exiles. Loot them for their [Thundering Charms] - (52.1, 50.6)| |C|Warrior| |Z|Arathi Highlands|
+C Burning Exiles. Loot them for their [Burning Charms] |QID|1713| |L|4479 8| |N|Burning Exiles. Loot them for their [Burning Charms] - (25.5, 30.1)| |C|Warrior| |Z|Arathi Highlands|
 F Fly to Tarren Mill |N|Michael - (63.3, 48.5)| |O| |Z|Undercity|
 A Bracers of Binding |QID|557| |N|Bel'varil and Wordeen - (61.6, 20.9)| |C|!Warrior| |Z|Undercity|
 R Travel to Hillsbrad Foothills |N|(61.6, 20.9)| |C|!Warrior| |Z|Hillsbrad Foothills|
@@ -74,7 +66,7 @@ A Dalaran Patrols |QID|545| |N|Bel'varil and Wordeen - (61.6, 20.9)| |C|Warrior|
 R Travel to Alterac Mountains |N|(39.9, 80.9)| |O| |Z|Alterac Mountains|
 C Dalaran Patrols |QID|545| |N|Dalaran Summoners and Elemental Slaves. Loot them for their Bracers (20.5, 75.2)| |Z|Alterac Mountains|
 C Bracers of Binding |QID|557| |N|Dalaran Summoners and Elemental Slaves. Loot them for their Bracers (20.5, 75.2)| |Z|Alterac Mountains|
-N |cRXP_WARN_Be mindful of Syndicate Assassins. Aliden uses Power Word: Shield, casts Renew, and will sleep pets and other players |N|(39.3, 14.5)| |Z|Alterac Mountains|
+N Be mindful of Syndicate Assassins. Aliden uses Power Word: Shield, casts Renew, and will sleep pets and other players |N|(39.3, 14.5)| |Z|Alterac Mountains|
 C Lord Aliden Perenolde |QID|507| |N|Kill Syndicate Assassin (39.3, 14.5)| |Z|Alterac Mountains|
 T Lord Aliden Perenolde |QID|507| |N|Elysa - (39.3, 14.3)| |Z|Alterac Mountains|
 A Taretha's Gift |QID|508| |N|Elysa - (39.3, 14.3)| |Z|Alterac Mountains|
@@ -109,7 +101,7 @@ C Foul Magics |QID|673| |N|Marez Cowl. Loot her for her Orb (29.6, 63.0)| |C|Rog
 N Be careful of Rumbling Exiles. Their stun has no diminishing return |N|(36.2, 57.3)| |Z|Arathi Highlands|
 T Stones of Binding |QID|651| |N|the Stone of Inner Binding - (36.2, 57.3)| |Z|Arathi Highlands|
 A Breaking the Keystone |QID|652| |N|the Stone of Inner Binding - (36.2, 57.3)| |Z|Arathi Highlands|
-N |cRXP_WARN_If you are in a group, hand in this quest while with your party! Thenan (level 42 Elite) will spawn. You can either kill him or run away and reset him if you're solo |N|(36.1, 58.1)| |Z|Arathi Highlands|
+N If you are in a group, hand in this quest while with your party! Thenan (level 42 Elite) will spawn. You can either kill him or run away and reset him if you're solo |N|(36.1, 58.1)| |Z|Arathi Highlands|
 T Breaking the Keystone |QID|652| |N|the Keystone - (36.1, 58.1)| |Z|Arathi Highlands|
 A Myzrael's Allies |QID|688| |N|the Keystone - (36.1, 58.1)| |Z|Arathi Highlands|
 C Guile of the Raptor |QID|701| |N|Kill Highland Fleshstalkers. Loot them for their Hearts| |O| |Z|Arathi Highlands|
@@ -117,7 +109,7 @@ N Be careful of the Magi's Frost Armor and Frost Nova |N|(53.7, 80.0)| |Z|Arathi
 N Be **EXTREMELY CAUTIOUS** of the rare spawn "Molok the Crusher" which is a non-elite that hits for 250-450 |N|(53.7, 80.0)| |Z|Arathi Highlands|
 C Call to Arms |QID|678| |N|Boulderfist Brutes and Boulderfist Magi (53.7, 80.0)| |Z|Arathi Highlands|
 C Guile of the Raptor |QID|701| |N|Highland Fleshstalkers. Loot them for their Hearts (48.6, 80.6)| |Z|Arathi Highlands|
-N |cRXP_WARN_If you are in a group, hand in this quest while with your party! Thenan, a level 42 Elite will spawn. You can either kill him or run away and reset him if you're solo |N|(36.1, 58.1)| |Z|Arathi Highlands|
+N If you are in a group, hand in this quest while with your party! Thenan, a level 42 Elite will spawn. You can either kill him or run away and reset him if you're solo |N|(36.1, 58.1)| |Z|Arathi Highlands|
 T Breaking the Keystone |QID|652| |N|the Keystone - (36.1, 58.1)| |Z|Arathi Highlands|
 A Myzrael's Allies |QID|688| |N|the Keystone - (36.1, 58.1)| |Z|Arathi Highlands|
 R Return to Hammerfall |N|(73.5, 33.2)| |O| |Z|Arathi Highlands|
@@ -163,7 +155,7 @@ T Land Ho! |QID|663| |N|Shakes O'Breen - (32.3, 81.4)| |Z|Arathi Highlands|
 A Deep Sea Salvage |QID|662| |N|Nilzlix - (32.8, 81.5)| |Z|Arathi Highlands|
 A Drowned Sorrows |QID|664| |N|Steelgut and Phizzlethorpe - (34.0, 80.8)| |Z|Arathi Highlands|
 A Sunken Treasure |QID|665| |N|Steelgut and Phizzlethorpe - (34.0, 80.8)| |Z|Arathi Highlands|
-N |cRXP_WARN_These mobs are level 40. Get them off of Phizzlethorpe as soon as you can |N|(35.7, 79.7)| |Z|Arathi Highlands|
+N These mobs are level 40. Get them off of Phizzlethorpe as soon as you can |N|(35.7, 79.7)| |Z|Arathi Highlands|
 C Sunken Treasure |QID|665| |N|Wait for Phizzlethorpe's roleplay, then kill the two Vengeful Surges that spawn. (35.7, 79.7)| |Z|Arathi Highlands|
 T Sunken Treasure |QID|665| |N|Doctor Draxlegauge - (33.8, 80.5)| |Z|Arathi Highlands|
 A Sunken Treasure |QID|666| |N|Doctor Draxlegauge - (33.8, 80.5)| |Z|Arathi Highlands|

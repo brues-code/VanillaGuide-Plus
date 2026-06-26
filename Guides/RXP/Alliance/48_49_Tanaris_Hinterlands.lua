@@ -21,12 +21,12 @@ T An Extraordinary Egg |QID|2747| |N|Curgle Cranklehop - (52.4, 26.9)| |O| |Z|Ta
 A Gadgetzan Water Survey |QID|992| |N|Senior Surveyor Fizzledowser - (50.2, 27.5)| |Z|Tanaris|
 N Don't go out of your way to finish this |O| |Z|Tanaris|
 C Rhapsody's Kalimdor Kocktail |QID|1452| |N|Kill Rocs. Loot them for their Gizzards| |O| |Z|Tanaris|
-C Gadgetzan Water Survey |QID|992| |N||cRXP_WARN_Two level 47/48 Centipaar Tunnelers will spawn once you fill the [Untapped Dowsing Widget]. You may kill them or run away to reset them (39.0, 29.2)| |Z|Tanaris|
+C Gadgetzan Water Survey |QID|992| |N|Two level 47/48 Centipaar Tunnelers will spawn once you fill the [Untapped Dowsing Widget]. You may kill them or run away to reset them (39.0, 29.2)| |Z|Tanaris|
 T Gadgetzan Water Survey |QID|992| |N|Senior Surveyor Fizzledowser - (50.2, 27.5)| |Z|Tanaris|
 A Noxious Lair Investigation |QID|82| |N|Senior Surveyor Fizzledowser - (50.2, 27.5)| |Z|Tanaris|
-N |cRXP_WARN_Be careful as all Centipaar cast [Thrash] |cRXP_WARN_(Charges 2 extra attacks every 10 seconds), Centipaar Sandreavers cast [Arcing Smash] |cRXP_WARN_(Deals an extra melee attack), Centipaar Swarmers cast [Silithid Swarm] |cRXP_WARN_(Summons a 1 health mob every 10 seconds that deals current-level attack damage, instantly dies to AoE), Centipaar Stingers cast [Venom Sting] |cRXP_WARN_(deals 11-12 damage every 5 seconds for 45 seconds), Centipaar Tunnelers cast [Pierce Armor] |cRXP_WARN_(Reduces armor by 50% for 20 seconds), and Centipaar Wasps cast [Poison] (deals 33-34 damage every 3 seconds for 30 seconds) |N|(35.7, 39.8)| |Z|Tanaris|
+N Be careful as all Centipaar cast [Thrash] (Charges 2 extra attacks every 10 seconds), Centipaar Sandreavers cast [Arcing Smash] (Deals an extra melee attack), Centipaar Swarmers cast [Silithid Swarm] (Summons a 1 health mob every 10 seconds that deals current-level attack damage, instantly dies to AoE), Centipaar Stingers cast [Venom Sting] (deals 11-12 damage every 5 seconds for 45 seconds), Centipaar Tunnelers cast [Pierce Armor] (Reduces armor by 50% for 20 seconds), and Centipaar Wasps cast [Poison] (deals 33-34 damage every 3 seconds for 30 seconds) |N|(35.7, 39.8)| |Z|Tanaris|
 C Noxious Lair Investigation |QID|82| |N|Centipaar Sandreavers, Centipaar Swarmers, Centipaar Stingers, Centipaar Tunnelers, and Centipaar Wasps. Loot them for Centipaar Insect Parts (35.7, 39.8)| |Z|Tanaris|
-N |cRXP_WARN_The Rocs share spawns with Starving Blisterpaws. You may need to kill Starving Blisterpaws to force Rocs to spawn |N|(44.6, 39.6)| |Z|Tanaris|
+N The Rocs share spawns with Starving Blisterpaws. You may need to kill Starving Blisterpaws to force Rocs to spawn |N|(44.6, 39.6)| |Z|Tanaris|
 C Rhapsody's Kalimdor Kocktail |QID|1452| |N|Rocs and Fire Rocs. Loot them for their Gizzards (44.6, 39.6)| |Z|Tanaris|
 T Noxious Lair Investigation |QID|82| |N|Alchemist Pestlezugg - (50.9, 27.0)| |Z|Tanaris|
 F Fly to Theramore |N|Bera Stonehammer - (51.0, 29.3)| |Z|Tanaris|
@@ -37,10 +37,10 @@ N These are scattered on the ground throughout all of The Hinterlands |O| |Z|The
 C Favored of Elune? |QID|3661| |N|Loot the Wildkin Feathers on the ground| |O| |Z|The Hinterlands|
 T Rhapsody's Kalimdor Kocktail |QID|1452| |N|Rhapsody Shindigger - (26.9, 48.6)| |Z|The Hinterlands|
 A Rhapsody's Tale |QID|1469| |N|Rhapsody Shindigger - (26.9, 48.6)| |Z|The Hinterlands|
-C Kill Witherbark Trolls. Loot them for their Tribal Necklaces |QID|2880| |N|Kill Witherbark Trolls. Loot them for their Tribal Necklaces| |O| |Z|The Hinterlands|
+C Witherbark Trolls. Loot them for their Tribal Necklaces |QID|2880| |L|9259 5| |N|Kill Witherbark Trolls. Loot them for their Tribal Necklaces| |O| |Z|The Hinterlands|
 C Witherbark Cages |QID|2988| |N|the Third Witherbark Cage (32.0, 57.3)| |Z|The Hinterlands|
 C Witherbark Cages |QID|2988| |N|Click the First Witherbark Cage and Second Witherbark Cage (23.3, 58.8)| |Z|The Hinterlands|
-C Witherbark Trolls. Loot them for their Tribal Necklaces |QID|2880| |N|Witherbark Trolls. Loot them for their Tribal Necklaces - (32.2, 58.2)| |Z|The Hinterlands|
+C Witherbark Trolls. Loot them for their Tribal Necklaces |QID|2880| |L|9259 5| |N|Witherbark Trolls. Loot them for their Tribal Necklaces - (32.2, 58.2)| |Z|The Hinterlands|
 A Troll Necklace Bounty |QID|2880| |N|Fraggar Thundermantle - (14.8, 44.6)| |Z|The Hinterlands|
 T Troll Necklace Bounty |QID|2880| |N|Fraggar Thundermantle - (14.8, 44.6)| |Z|The Hinterlands|
 A Skulk Rock Clean-up |QID|2877| |N|Fraggar Thundermantle - (14.8, 44.6)| |Z|The Hinterlands|
@@ -54,7 +54,7 @@ C Favored of Elune? |QID|3661| |N|the Wildkin Feathers on the ground (28.1, 58.1
 T Find OOX-09/HL! |QID|485| |N|the Homing Robot OOX-09/HL - (49.4, 37.7)| |Z|The Hinterlands|
 A Rescue OOX-09/HL! |QID|836| |N|the Homing Robot OOX-09/HL - (49.4, 37.7)| |Z|The Hinterlands|
 C Whiskey Slim's Lost Grog |QID|580| |N|Loot the Pupellyverbos Ports on the ground| |O| |Z|The Hinterlands|
-C The Super Snapper FX |QID|2944| |N||cRXP_WARN_This will cause Gammerita to agro you. Be ready to run away after using it (75.9, 63.8)| |Z|The Hinterlands|
+C The Super Snapper FX |QID|2944| |N|This will cause Gammerita to agro you. Be ready to run away after using it (75.9, 63.8)| |Z|The Hinterlands|
 C Whiskey Slim's Lost Grog |QID|580| |N|the Pupellyverbos Ports on the ground (77.9, 65.5)| |Z|The Hinterlands|
 T Cortello's Riddle |QID|626| |N|on Cortello's Treasure underwater - (80.8, 46.8)| |Z|The Hinterlands|
 

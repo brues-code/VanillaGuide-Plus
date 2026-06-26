@@ -10,13 +10,13 @@ R Take the lift down to the Undercity |N|(65.5, 43.6)| |O| |C|Rogue/Troll/Rogue|
 f Get the Undercity flight path |N|(63.2, 48.6)| |C|Rogue/Troll/Rogue| |R|Orc| |Z|Undercity|
 t Train 1h Swords |N|Archibald in the War Quarter - (57.3, 32.7)| |C|Rogue/Troll/Rogue| |R|Orc| |Z|Undercity|
 N Buy a [Cutlass] from him |N|(61.1, 40.9)| |O| |C|Rogue/Troll/Rogue| |R|Orc| |Z|Undercity|
-C Louis Warren in the Trade Quarter |QID|435| |N|Louis Warren in the Trade Quarter - (61.1, 40.9)| |O| |C|Rogue/Troll/Rogue| |R|Orc| |Z|Undercity|
+B Collect Cutlass (1) |L|851 1| |N|Louis Warren in the Trade Quarter - (61.1, 40.9)| |O| |C|Rogue/Troll/Rogue| |R|Orc| |Z|Undercity|
 N Buy a [Cutlass] from him |N|(61.1, 40.9)| |O| |C|Rogue/Troll/Rogue| |R|Orc| |Z|Undercity|
 N Alternatively, check the Auction House for something better or cheaper |N|(61.1, 40.9)| |O| |C|Rogue/Troll/Rogue| |R|Orc| |Z|Undercity|
-C Louis Warren in the Trade Quarter |QID|435| |N|Louis Warren in the Trade Quarter - (61.1, 40.9)| |O| |C|Rogue/Troll/Rogue| |R|Orc| |Z|Undercity|
+B Collect Cutlass (1) |L|851 1| |N|Louis Warren in the Trade Quarter - (61.1, 40.9)| |O| |C|Rogue/Troll/Rogue| |R|Orc| |Z|Undercity|
 N Buy Six [Discolored Worg Hearts] from the Auction House |N|(64.2, 49.6)| |O| |C|Rogue/Troll/Rogue| |R|Orc| |Z|Undercity|
 N Skip this if you want, it's only a small time saver |N|(64.2, 49.6)| |O| |C|Rogue/Troll/Rogue| |R|Orc| |Z|Undercity|
-C Auctioneer Rhyker |QID|429| |N|Auctioneer Rhyker - (64.2, 49.6)| |O| |C|Rogue/Troll/Rogue| |R|Orc| |Z|Undercity|
+B Collect Discolored Worg Heart (x6) |L|3164 6| |N|Auctioneer Rhyker - (64.2, 49.6)| |O| |C|Rogue/Troll/Rogue| |R|Orc| |Z|Undercity|
 R Brill |N|(61.5, 53.2)| |O| |Z|Tirisfal Glades|
 N Gretchen is on the second floor |N|(61.7, 52.3)| |Z|Tirisfal Glades|
 A Deaths in the Family |QID|354| |N|Coleman and Gretchen inside the inn - (61.7, 52.3)| |Z|Tirisfal Glades|
@@ -30,11 +30,11 @@ N Buy [Ice Cold Milk] from her |N|(61.7, 52.1)| |C|Mage/Priest/Shaman| |Z|Tirisf
 N Buy [Red-speckled Mushrooms] from her |N|(61.7, 52.1)| |C|Warrior/Rogue| |Z|Tirisfal Glades|
 N Buy [Ice Cold Milk] and [Red-speckled Mushrooms] from her |N|(61.7, 52.1)| |C|Warlock| |Z|Tirisfal Glades|
 B Vendor Trash |N|Innkeeper Renee - (61.7, 52.1)| |C|!Mage| |Z|Tirisfal Glades|
-C Innkeeper Renee |QID|367| |N|Innkeeper Renee - (61.7, 52.1)| |C|Mage/Priest/Shaman| |Z|Tirisfal Glades|
-C Innkeeper Renee |QID|367| |N|Innkeeper Renee - (61.7, 52.1)| |C|Rogue/Warrior| |Z|Tirisfal Glades|
-C Innkeeper Renee |QID|367| |N|Innkeeper Renee - (61.7, 52.1)| |C|Warlock| |Z|Tirisfal Glades|
+B Innkeeper Renee |L|1179 20| |N|Innkeeper Renee - (61.7, 52.1)| |C|Mage/Priest/Shaman| |Z|Tirisfal Glades|
+B Innkeeper Renee |L|4605 20| |N|Innkeeper Renee - (61.7, 52.1)| |C|Rogue/Warrior| |Z|Tirisfal Glades|
+B Innkeeper Renee |L|1179 15| |N|Innkeeper Renee - (61.7, 52.1)| |C|Warlock| |Z|Tirisfal Glades|
 N Buy one or more [Small Brown Pouches] from her |N|(61.1, 52.6)| |Z|Tirisfal Glades|
-C Mrs. Winters |QID|398| |N|Mrs. Winters - (61.1, 52.6)| |Z|Tirisfal Glades|
+B Small Brown Pouch (1) |L|4496 1| |N|Mrs. Winters - (61.1, 52.6)| |Z|Tirisfal Glades|
 A At War With The Scarlet Crusade |QID|427| |N|Zygand - (60.6, 51.8)| |Z|Tirisfal Glades|
 A Wanted: Maggot Eye |QID|398| |N|Wanted Poster - (60.7, 51.5)| |Z|Tirisfal Glades|
 A Graverobbers |QID|358| |N|Sevren inside the building - (61.3, 50.8)| |Z|Tirisfal Glades|
@@ -71,7 +71,7 @@ R Take the lift down to the Undercity |N|(65.5, 43.6)| |O| |C|Warlock/Mage| |Z|U
 f Get the Undercity flight path |N|Michael - (63.2, 48.6)| |C|Warlock/Mage| |Z|Undercity|
 N Buy Six [Discolored Worg Hearts] from the Auction House |N|(64.2, 49.6)| |O| |C|Warlock/Mage| |Z|Undercity|
 N Skip this if you want, it's only a small time saver |N|(64.2, 49.6)| |O| |C|Warlock/Mage| |Z|Undercity|
-C Auctioneer Rhyker |QID|429| |N|Auctioneer Rhyker - (64.2, 49.6)| |O| |C|Warlock/Mage| |Z|Undercity|
+B Collect Discolored Worg Heart (x6) |L|3164 6| |N|Auctioneer Rhyker - (64.2, 49.6)| |O| |C|Warlock/Mage| |Z|Undercity|
 T Halgar's Summons |QID|1478| |N|Carendin in the Magic Quarter - (85.1, 26.0)| |C|Warlock| |Z|Undercity|
 A Creature of the Void |QID|1473| |N|Carendin in the Magic Quarter - (85.1, 26.0)| |C|Warlock| |Z|Undercity|
 T Anatasia |QID|1881| |N|Anastasia in the Magic Quarter - (85.1, 10.1)| |C|Mage| |Z|Undercity|
@@ -81,7 +81,7 @@ R Travel to Undercity |N|(64.2, 39.8)| |O| |C|Priest| |R|Undead| |Z|Undercity|
 R Take the lift down to the Undercity |N|(65.5, 43.6)| |O| |C|Priest| |R|Undead| |Z|Undercity|
 N Buy Six [Discolored Worg Hearts] from the Auction House |N|(64.2, 49.6)| |O| |C|Priest| |R|Undead| |Z|Undercity|
 N Skip this if you want, it's only a small time saver |N|(64.2, 49.6)| |O| |C|Priest| |R|Undead| |Z|Undercity|
-C Auctioneer Rhyker |QID|429| |N|Auctioneer Rhyker - (64.2, 49.6)| |O| |C|Priest| |R|Undead| |Z|Undercity|
+B Collect Discolored Worg Heart (x6) |L|3164 6| |N|Auctioneer Rhyker - (64.2, 49.6)| |O| |C|Priest| |R|Undead| |Z|Undercity|
 T Touch of Weakness |QID|5660| |N|Aelthalyste - (49.0, 18.3)| |O| |C|Priest| |R|Undead| |Z|Undercity|
 A Touch of Weakness |QID|5658| |N|Aelthalyste - (49.0, 18.3)| |C|Priest| |R|Undead| |Z|Undercity|
 T Touch of Weakness |QID|5658| |N|Aelthalyste - (49.0, 18.3)| |C|Priest| |R|Undead| |Z|Undercity|
@@ -90,16 +90,16 @@ R Travel to Undercity |N|(64.2, 39.8)| |O| |C|Rogue| |Z|Undercity|
 R Take the lift down to the Undercity |N|(65.5, 43.6)| |O| |C|Rogue| |Z|Undercity|
 f Get the Undercity flight path |N|(63.2, 48.6)| |C|Rogue| |Z|Undercity|
 N Buy a [Cutlass] from him |N|(61.1, 40.9)| |O| |C|Rogue/Troll/Rogue| |R|Orc| |Z|Undercity|
-C Deaths in the Family |QID|354| |N|Louis Warren in the Trade Quarter Collect Cutlass (1)| |O| |C|Rogue/Troll/Rogue| |R|Orc| |Z|Undercity|
+B Collect Cutlass (1) |L|851 1| |N|Louis Warren in the Trade Quarter - (61.1, 40.9)| |O| |C|Rogue/Troll/Rogue| |R|Orc| |Z|Undercity|
 N Buy a [Cutlass] from him |N|(61.1, 40.9)| |O| |C|Rogue/Troll/Rogue| |R|Orc| |Z|Undercity|
 N Alternatively, check the Auction House for something better or cheaper |N|(61.1, 40.9)| |O| |C|Rogue/Troll/Rogue| |R|Orc| |Z|Undercity|
-C Deaths in the Family |QID|354| |N|Louis Warren in the Trade Quarter Collect Cutlass (1)| |O| |C|Rogue/Troll/Rogue| |R|Orc| |Z|Undercity|
+B Collect Cutlass (1) |L|851 1| |N|Louis Warren in the Trade Quarter - (61.1, 40.9)| |O| |C|Rogue/Troll/Rogue| |R|Orc| |Z|Undercity|
 T Mennet Carkad |QID|1885| |N|Mennet - (83.5, 69.1)| |C|Rogue| |R|Undead| |Z|Undercity|
 A The Deathstalkers |QID|1886| |N|Mennet - (83.5, 69.1)| |C|Rogue| |R|Undead| |Z|Undercity|
 t Train 1h Swords |N|Archibald in the War Quarter - (57.3, 32.7)| |C|Rogue| |Z|Undercity|
 N Buy Six [Discolored Worg Hearts] from the Auction House |N|(64.2, 49.6)| |O| |C|Rogue| |Z|Undercity|
 N Skip this if you want, it's only a small time saver |N|(64.2, 49.6)| |O| |C|Rogue| |Z|Undercity|
-C Auctioneer Rhyker |QID|429| |N|Auctioneer Rhyker - (64.2, 49.6)| |O| |C|Rogue| |Z|Undercity|
+B Collect Discolored Worg Heart (x6) |L|3164 6| |N|Auctioneer Rhyker - (64.2, 49.6)| |O| |C|Rogue| |Z|Undercity|
 R Travel to Tirisfal Glades |N|(51.1, 71.5)| |O| |C|Warlock/Mage/Rogue| |Z|Tirisfal Glades|
 N You don't have to complete this step now |O| |Z|Tirisfal Glades|
 C Proof of Demise |QID|374| |N|Collect Scarlet Insignia Rings Scarlet Insignia Ring (10)| |O| |Z|Tirisfal Glades|
@@ -114,7 +114,7 @@ T The Binding |QID|1471| |N|Carendin - (85.0, 26.0)| |C|Warlock| |Z|Undercity|
 R Travel to Tirisfal Glades |N|(61.9, 64.8)| |O| |C|Warlock| |Z|Tirisfal Glades|
 C The Chill of Death |QID|375| |N|Kill any Duskbat that you see. Loot them for their Pelts Duskbat Pelt (5)| |O| |Z|Tirisfal Glades|
 R Travel northwest toward Agamand Mills |N|(47.6, 44.0)| |O| |Z|Tirisfal Glades|
-C A Letter Undelivered |QID|361| |N|[Thurman's Letter] may drop from these mobs. Accept the quest if it does| |O| |Z|Tirisfal Glades|
+C Collect A Letter to Yvette (1) |QID|361| |L|2839 1| |N|[Thurman's Letter] may drop from these mobs. Accept the quest if it does| |O| |Z|Tirisfal Glades|
 A A Letter Undelivered |QID|361| |N|[Thurman's Letter] may drop from these mobs. Accept the quest if it does| |O| |Z|Tirisfal Glades|
 C The Mills Overrun |QID|426| |N|Kill Soldiers and Bonecasters. Loot them for their Ribs and Skulls Notched Rib (5)| |O| |Z|Tirisfal Glades|
 C The Haunted Mills |QID|362| |N|Devlin. Loot him for his Remains Devlin's Remains (1)| |O| |Z|Tirisfal Glades|
@@ -161,9 +161,9 @@ N Buy [Ice Cold Milk] from her |N|(61.7, 52.1)| |C|Mage/Priest/Shaman| |Z|Tirisf
 N Buy [Red-speckled Mushroom] from her |N|(61.7, 52.1)| |C|Warrior/Rogue| |Z|Tirisfal Glades|
 N Buy [Ice Cold Milk] and [Red-speckled Mushroom] from her |N|(61.7, 52.1)| |C|Warlock/Hunter| |Z|Tirisfal Glades|
 B Vendor Trash |N|Innkeeper Renee - (61.7, 52.1)| |C|!Mage| |Z|Tirisfal Glades|
-C Forsaken Duties |QID|359| |N|Innkeeper Renee (61.7, 52.1)| |C|Mage/Priest/Shaman| |Z|Tirisfal Glades|
-C Forsaken Duties |QID|359| |N|Innkeeper Renee (61.7, 52.1)| |C|Rogue/Warrior| |Z|Tirisfal Glades|
-C Forsaken Duties |QID|359| |N|Innkeeper Renee (61.7, 52.1)| |C|Warlock/Hunter| |Z|Tirisfal Glades|
+B Innkeeper Renee |L|1179 20| |N|Innkeeper Renee - (61.7, 52.1)| |C|Mage/Priest/Shaman| |Z|Tirisfal Glades|
+B Innkeeper Renee |L|4605 20| |N|Innkeeper Renee - (61.7, 52.1)| |C|Rogue/Warrior| |Z|Tirisfal Glades|
+B Innkeeper Renee |L|1179 15| |N|Innkeeper Renee - (61.7, 52.1)| |C|Warlock/Hunter| |Z|Tirisfal Glades|
 T Forsaken Duties |QID|359| |N|Linnea - (65.5, 60.2)| |O| |Z|Tirisfal Glades|
 A Return to the Magistrate |QID|360| |N|Linnea - (65.5, 60.2)| |O| |Z|Tirisfal Glades|
 A Rear Guard Patrol |QID|356| |N|Linnea - (65.5, 60.2)| |O| |Z|Tirisfal Glades|
@@ -171,12 +171,12 @@ C The Chill of Death |QID|375| |N|Kill any Duskbat that you see. Loot them for t
 C Rear Guard Patrol |QID|356| |N|Kill Bleeding Horrors and Wandering Spirits Bleeding Horror (8)| |O| |C|Mage| |Z|Tirisfal Glades|
 C The Balnir Farmstead |QID|1882| |N|any of the plants on the ground for a Balnir Snapdragon Balnir Snapdragons (1)| |C|Mage| |Z|Tirisfal Glades|
 C Rear Guard Patrol |QID|356| |N|Bleeding Horrors and Wandering Spirits Bleeding Horror (8)| |O| |Z|Tirisfal Glades|
-C Collect 3 stacks of [Linen Cloth] for your Lesser Magic Wand. This is the last chance to get enough before Silverpine Forest |QID|435| |N|Collect 3 stacks of [Linen Cloth] for your Lesser Magic Wand. This is the last chance to get enough before Silverpine Forest| |O| |C|Priest| |Z|Tirisfal Glades|
+C Linen Cloth (60) |QID|435| |L|2589 60| |N|Collect 3 stacks of [Linen Cloth] for your Lesser Magic Wand. This is the last chance to get enough before Silverpine Forest| |O| |C|Priest| |Z|Tirisfal Glades|
 C Proof of Demise |QID|374| |N|Collect Scarlet Insignia Rings Scarlet Insignia Ring (10)| |O| |Z|Tirisfal Glades|
 N Be careful! Scarlet Friars can cast [Lesser Heal] |N|(79.8, 56.4)| |O| |Z|Tirisfal Glades|
 C At War With The Scarlet Crusade |QID|371| |N|Captain Vachon and Scarlet Friars Captain Vachon (1)| |O| |Z|Tirisfal Glades|
 C Proof of Demise |QID|374| |N|Collect Scarlet Insignia Rings Scarlet Insignia Ring (10)| |O| |Z|Tirisfal Glades|
-C Collect 3 stacks of [Linen Cloth] for your Lesser Magic Wand. This is the last chance to get enough before Silverpine Forest |QID|435| |N|Collect 3 stacks of [Linen Cloth] for your Lesser Magic Wand. This is the last chance to get enough before Silverpine Forest - (79.8, 56.4)| |C|Priest| |Z|Tirisfal Glades|
+C Linen Cloth (60) |QID|435| |L|2589 60| |N|Collect 3 stacks of [Linen Cloth] for your Lesser Magic Wand. This is the last chance to get enough before Silverpine Forest (79.8, 56.4)| |C|Priest| |Z|Tirisfal Glades|
 C The Chill of Death |QID|375| |N|Kill any Duskbat that you see. Loot them for their Pelts Duskbat Pelt (5)| |O| |Z|Tirisfal Glades|
 C A New Plague |QID|369| |N|Vicious Night Web Spiders. Loot them for their Venom Vicious Night Web Spider Venom (4)| |O| |Z|Tirisfal Glades|
 R Travel back toward Linnea |N|(65.5, 60.2)| |O| |Z|Tirisfal Glades|
@@ -229,10 +229,10 @@ R Travel to Tirisfal Glades |N|(61.8, 65.1)| |O| |C|!Rogue/!Mage| |Z|Tirisfal Gl
 R Travel to Undercity |N|(64.2, 39.8)| |O| |C|!Rogue/!Mage| |Z|Undercity|
 R Take the lift down to the Undercity |N|(65.5, 43.6)| |O| |C|!Rogue/!Mage| |Z|Undercity|
 N Buy a [Cutlass] from him |N|(61.1, 40.9)| |O| |C|Rogue/Troll/Rogue| |R|Orc| |Z|Undercity|
-C Louis Warren in the Trade Quarter |N|Louis Warren in the Trade Quarter - (61.1, 40.9)| |O| |C|Rogue/Troll/Rogue| |R|Orc| |Z|Undercity|
+B Collect Cutlass (1) |L|851 1| |N|Louis Warren in the Trade Quarter - (61.1, 40.9)| |O| |C|Rogue/Troll/Rogue| |R|Orc| |Z|Undercity|
 N Buy a [Cutlass] from him |N|(61.1, 40.9)| |O| |C|Rogue/Troll/Rogue| |R|Orc| |Z|Undercity|
 N Alternatively, check the Auction House for something better or cheaper |N|(61.1, 40.9)| |O| |C|Rogue/Troll/Rogue| |R|Orc| |Z|Undercity|
-C Louis Warren in the Trade Quarter |N|Louis Warren in the Trade Quarter - (61.1, 40.9)| |O| |C|Rogue/Troll/Rogue| |R|Orc| |Z|Undercity|
+B Collect Cutlass (1) |L|851 1| |N|Louis Warren in the Trade Quarter - (61.1, 40.9)| |O| |C|Rogue/Troll/Rogue| |R|Orc| |Z|Undercity|
 T Mennet Carkad |QID|1885| |N|Mennet - (83.5, 69.1)| |C|Rogue| |R|Undead| |Z|Undercity|
 A The Deathstalkers |QID|1886| |N|Mennet - (83.5, 69.1)| |C|Rogue| |R|Undead| |Z|Undercity|
 t Train 1h Swords |N|Archibald in the War Quarter - (57.3, 32.7)| |C|Rogue| |Z|Undercity|
@@ -240,23 +240,23 @@ t Training (201) |O| |C|Rogue| |Z|Undercity|
 R Travel to Tirisfal Glades |N|(61.8, 65.1)| |O| |C|Warrior| |R|Undead| |Z|Tirisfal Glades|
 R Travel to Undercity |N|(64.2, 39.8)| |O| |C|Warrior| |R|Undead| |Z|Undercity|
 R Take the lift down to the Undercity |N|(65.5, 43.6)| |O| |C|Warrior| |R|Undead| |Z|Undercity|
-C Benijah. Buy a [Quarter Staff] from him |QID|435| |N|Benijah. Buy a [Quarter Staff] from him - (58.8, 32.8)| |C|Warrior/Undead/Warrior/Tauren/Shaman/Troll/Shaman/Orc/Shaman| |R|Troll| |Z|Undercity|
+B Collect Quarter Staff (1) |L|854 1| |N|Benijah. Buy a [Quarter Staff] from him - (58.8, 32.8)| |C|Warrior/Undead/Warrior/Tauren/Shaman/Troll/Shaman/Orc/Shaman| |R|Troll| |Z|Undercity|
 N Buy Six [Discolored Worg Hearts] from the Auction House |N|(64.2, 49.6)| |O| |Z|Undercity|
 N Skip this if you want, it's only a small time saver |N|(64.2, 49.6)| |O| |Z|Undercity|
-C Auctioneer Rhyker |QID|429| |N|Auctioneer Rhyker - (64.2, 49.6)| |O| |Z|Undercity|
+B Collect Discolored Worg Heart (x6) |L|3164 6| |N|Auctioneer Rhyker - (64.2, 49.6)| |O| |Z|Undercity|
 t Train [Enchanting] |N|Lavinia - (62.5, 61.8)| |C|Priest| |Z|Undercity|
 t Train [Tailoring] |N|Josef - (70.8, 30.7)| |C|Priest| |Z|Undercity|
-C Turn all your [Linen Cloth] into [Bolt of linen Linen Cloth] |QID|435| |N|Turn all your [Linen Cloth] into [Bolt of linen Linen Cloth] - (70.8, 30.7)| |C|Priest| |Z|Undercity|
+C Bolt of Linen Cloth (30) |QID|435| |L|2996 30| |N|Turn all your [Linen Cloth] into [Bolt of linen Linen Cloth] (70.8, 30.7)| |C|Priest| |Z|Undercity|
 t Train [Brown Linen Robe] |N|Josef - (70.8, 30.7)| |C|Priest| |Z|Undercity|
 N Buy [Coarse Thread] from her |N|(70.6, 30.2)| |C|Priest| |Z|Undercity|
-C Millie |QID|435| |N|Millie - (70.6, 30.2)| |C|Priest| |Z|Undercity|
-C Wanted: Maggot Eye |QID|398| |N|Create as many [Brown Linen Robes] as you can Brown Linen Robe(9)| |C|Priest| |Z|Undercity|
+B Coarse Thread (30) |L|2320 30| |N|Millie - (70.6, 30.2)| |C|Priest| |Z|Undercity|
+C Brown Linen Robe(9) |QID|398| |L|6238 9| |N|Create as many [Brown Linen Robes] as you can| |C|Priest| |Z|Undercity|
 N Disenchant all the [Brown Linen Robes] that you made and create a [Runed Copper Rod] |N|(62.4, 61.0)| |C|Priest| |Z|Undercity|
 N If you did not get a [Lesser Magic Essence] then buy one from Thaddeus if there is one available. Otherwise finish this step later |N|(62.4, 61.0)| |C|Priest| |Z|Undercity|
-C Thaddeus. Buy a [Copper Rod] and [Simple Wood] from him |QID|435| |N|Thaddeus. Buy a [Copper Rod] and [Simple Wood] from him - (62.4, 61.0)| |C|Priest| |Z|Undercity|
+B Runed Copper Rod (1) |L|6218 1| |N|Thaddeus. Buy a [Copper Rod] and [Simple Wood] from him - (62.4, 61.0)| |C|Priest| |Z|Undercity|
 t Train [Lesser Magic Wand] |N|Malcomb - (62.5, 60.3)| |C|Priest| |Z|Undercity|
 N If you did not get a [Lesser Magic Essence] then buy one from Thaddeus if there is one available. Otherwise finish this step later |C|Priest| |Z|Undercity|
-C Create a [Lesser Magic Wand] |QID|435| |N|Create a [Lesser Magic Wand]| |C|Priest| |Z|Undercity|
+B Lesser Magic Wand (1) |L|11287 1| |N|Create a [Lesser Magic Wand]| |C|Priest| |Z|Undercity|
 R Travel to Tirisfal Glades |N|(51.1, 71.5)| |Z|Tirisfal Glades|
 
 ]]

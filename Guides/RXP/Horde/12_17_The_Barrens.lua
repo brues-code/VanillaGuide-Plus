@@ -32,8 +32,8 @@ A Fungal Spores |QID|848| |N|Helbrim - (51.4, 30.1)| |Z|The Barrens|
 T Sample for Helbrim |QID|1358| |N|Helbrim - (51.4, 30.1)| |C|Undead/Rogue/Mage/Priest/Warlock| |Z|The Barrens|
 A Wharfmaster Dizzywig |QID|1492| |N|Helbrim - (51.4, 30.1)| |Z|The Barrens|
 T Sample for Helbrim |QID|1358| |N|Helbrim - (51.4, 30.1)| |C|Undead/Rogue/Mage/Priest/Warlock| |Z|The Barrens|
-C Disrupt the Attacks |QID|871| |N|Uthrok. Buy a [Laminated Recurve Bow] from him Collect Laminated Recurve Bow (1)| |C|Hunter/Troll/Hunter| |R|Orc| |Z|The Barrens|
-C Disrupt the Attacks |QID|871| |N|Uthrok. Buy a [Hunter's Boomstick] from him Collect Hunter's Boomstick (1)| |C|Hunter| |R|Tauren| |Z|The Barrens|
+B Collect Laminated Recurve Bow (1) |L|2507 1| |N|Uthrok. Buy a [Laminated Recurve Bow] from him - (51.1, 29.1)| |C|Hunter/Troll/Hunter| |R|Orc| |Z|The Barrens|
+B Collect Hunter's Boomstick (1) |L|2511 1| |N|Uthrok. Buy a [Hunter's Boomstick] from him - (51.1, 29.1)| |C|Hunter| |R|Tauren| |Z|The Barrens|
 A Raptor Thieves |QID|869| |N|Gazrog - (51.9, 30.3)| |C|!Shaman/!Warrior/Undead| |Z|The Barrens|
 R Innkeeper Boorand |N|(52.0, 29.9)| |C|!Shaman/!Warrior/Undead| |R|!Tauren| |Z|The Barrens|
 A Meats to Orgrimmar |QID|6365| |N|Zargh - (52.6, 29.8)| |C|!Warrior/!Shaman/Troll/!Warrior/!Shaman| |R|Orc| |Z|The Barrens|
@@ -41,10 +41,10 @@ C Plainstrider Menace |QID|844| |N|Kill Plainstriders. Loot them for their Beaks
 R the top of the mountain |N|(47.6, 19.2)| |O| |R|!Tauren/!Undead| |Z|The Barrens|
 R Go inside Dreadmist Den |N|(47.6, 19.2)| |O| |R|!Tauren/!Undead| |Z|The Barrens|
 N Make sure you have a [Flawed Power Stone] (30 minute duration) on you |N|(48.0, 19.1)| |R|!Tauren/!Undead| |Z|The Barrens|
-C Right click the Altar |QID|924| |N|Right click the Altar - (48.0, 19.1)| |R|!Tauren/!Undead| |Z|The Barrens|
+C Collect Flawed Power Stone |QID|924| |L|4986 1| |N|Right click the Altar (48.0, 19.1)| |R|!Tauren/!Undead| |Z|The Barrens|
 C a Razormane Water Seeker or Razormane Thornweaver. Loot them for a Fire Tar |QID|1525| |N|a Razormane Water Seeker or Razormane Thornweaver. Loot them for a Fire Tar - (53.6, 25.5)| |C|Shaman| |Z|The Barrens|
 C Disrupt the Attacks |QID|871| |N|Kill Water Seekers, Thornweavers and Hunters Razormane Water Seeker (8)| |O| |Z|The Barrens|
-C Chen's Empty Keg |QID|819| |N|Collect Chen's Empty Keg (55.7, 27.3)| |Z|The Barrens|
+C Collect Chen's Empty Keg |QID|819| |L|4926 1| |N|(55.7, 27.3)| |Z|The Barrens|
 A Chen's Empty Keg |QID|819| |N|(55.7, 27.3)| |Z|The Barrens|
 C Disrupt the Attacks |QID|871| |N|Water Seekers, Thornweavers and Hunters Razormane Water Seeker (8)| |Z|The Barrens|
 C Raptor Thieves |QID|869| |N|Kill every Raptor you see. Loot them for their Heads Raptor Head (12)| |O| |Z|The Barrens|
@@ -59,12 +59,12 @@ N He is at the top of the tower |N|(51.6, 30.9)| |Z|The Barrens|
 A Harpy Raiders |QID|867| |N|Darsok - (51.6, 30.9)| |Z|The Barrens|
 T Meats to Orgrimmar |QID|6365| |N|Devrak - (51.5, 30.3)| |C|!Warrior/!Shaman/Troll/!Warrior/!Shaman| |R|Orc| |Z|The Barrens|
 A Ride to Orgrimmar |QID|6384| |N|Devrak - (51.5, 30.3)| |C|!Warrior/!Shaman/Troll/!Warrior/!Shaman| |R|Orc| |Z|The Barrens|
-C Disrupt the Attacks |QID|871| |N|Uthrok. Buy a [Laminated Recurve Bow] from him Collect Laminated Recurve Bow (1)| |O| |C|Hunter/Troll/Hunter| |R|Orc| |Z|The Barrens|
-C Disrupt the Attacks |QID|871| |N|Uthrok. Buy a [Hunter's Boomstick] from him Collect Hunter's Boomstick (1)| |O| |C|Hunter| |R|Tauren| |Z|The Barrens|
+B Collect Laminated Recurve Bow (1) |L|2507 1| |N|Uthrok. Buy a [Laminated Recurve Bow] from him - (51.1, 29.1)| |O| |C|Hunter/Troll/Hunter| |R|Orc| |Z|The Barrens|
+B Collect Hunter's Boomstick (1) |L|2511 1| |N|Uthrok. Buy a [Hunter's Boomstick] from him - (51.1, 29.1)| |O| |C|Hunter| |R|Tauren| |Z|The Barrens|
 R Innkeeper Boorand |N|(52.0, 29.9)| |C|Warrior/Troll/Warrior/Orc/Shaman/Troll/Shaman| |R|Orc| |Z|The Barrens|
 B if Lizzarik is in the Crossroads. He sells potions and [Heavy Spiked Mace] which is a limited supply item |N|(52.5, 30.7)| |O| |C|Warrior/Troll/Warrior/Tauren/Warrior| |R|Orc| |Z|The Barrens|
 F Fly to Orgrimmar |N|Devrak - (51.5, 30.3) (RFC Dungeon Quest)| |R|!Undead/!Tauren| |D|RFC| |Z|The Barrens|
-C Chen's Empty Keg |QID|819| |N|Collect Chen's Empty Keg (RFC Dungeon Quest)| |R|Tauren| |D|RFC| |Z|The Barrens|
+C Collect Chen's Empty Keg |QID|819| |L|4926 1| |N|(55.8, 20.0) (RFC Dungeon Quest)| |R|Tauren| |D|RFC| |Z|The Barrens|
 A Chen's Empty Keg |QID|819| |N|(55.8, 20.0) (RFC Dungeon Quest)| |R|Tauren| |D|RFC| |Z|The Barrens|
 C The Disruption Ends |QID|872| |N|Razormane Geomancers and Razormane Defenders Razormane Geomancer (8) (RFC Dungeon Quest)| |R|Tauren| |D|RFC| |Z|The Barrens|
 N It has multiple spawn locations |N|(RFC Dungeon Quest)| |R|Tauren| |D|RFC| |Z|The Barrens|
@@ -83,7 +83,7 @@ C Call of Fire |QID|1526| |N|the Minor Manifestation of Fire. Loot him for a Glo
 T Call of Fire |QID|1526| |N|the Brazier on the ground - (39.0, 58.2) (RFC Dungeon Quest)| |C|Shaman| |R|Tauren| |D|RFC| |Z|Durotar|
 A Call of Fire |QID|1527| |N|the Brazier on the ground - (39.0, 58.2) (RFC Dungeon Quest)| |C|Shaman| |R|Tauren| |D|RFC| |Z|Durotar|
 T Call of Fire |QID|1527| |N|Kranal - (55.9, 19.9) (RFC Dungeon Quest)| |C|Shaman| |R|Tauren| |D|RFC| |Z|The Barrens|
-C Chen's Empty Keg |QID|819| |N|Wait for the respawn if it's not up Collect Chen's Empty Keg (RFC Dungeon Quest)| |C|Shaman| |R|Tauren| |D|RFC| |Z|The Barrens|
+C Collect Chen's Empty Keg |QID|819| |L|4926 1| |N|Wait for the respawn if it's not up (55.8, 20.0) (RFC Dungeon Quest)| |C|Shaman| |R|Tauren| |D|RFC| |Z|The Barrens|
 A Chen's Empty Keg |QID|819| |N|Wait for the respawn if it's not up - (55.8, 20.0) (RFC Dungeon Quest)| |C|Shaman| |R|Tauren| |D|RFC| |Z|The Barrens|
 R Travel to Orgrimmar |N|(49.0, 92.8) (RFC Dungeon Quest)| |R|Tauren| |D|RFC| |Z|Orgrimmar|
 N Don't fly anywhere! |N|(45.1, 63.9) (RFC Dungeon Quest)| |R|Tauren| |D|RFC| |Z|Orgrimmar|
@@ -121,7 +121,7 @@ T Returning the Lost Satchel |QID|5724| |N|Rahauro - (70.4, 29.6) (RFC Dungeon Q
 T Testing an Enemy's Strength |QID|5723| |N|Rahauro - (70.4, 29.6) (RFC Dungeon Quest)| |C|Warrior/Troll/Warrior/Orc/Shaman/Troll/Shaman| |R|Tauren/Orc| |D|RFC| |Z|Thunder Bluff|
 F Fly to Crossroads |N|Tal - (47.0, 49.8) (RFC Dungeon Quest)| |D|RFC| |Z|Thunder Bluff|
 R Travel to The Barrens |N|(55.8, 20.0)| |Z|The Barrens|
-C Chen's Empty Keg |QID|819| |N|Wait for the respawn if it's not up Collect Chen's Empty Keg| |Z|The Barrens|
+C Collect Chen's Empty Keg |QID|819| |L|4926 1| |N|Wait for the respawn if it's not up (55.8, 20.0)| |Z|The Barrens|
 A Chen's Empty Keg |QID|819| |N|Wait for the respawn if it's not up - (55.8, 20.0)| |Z|The Barrens|
 C The Disruption Ends |QID|872| |N|Razormane Geomancers and Razormane Defenders Razormane Geomancer (8)| |O| |Z|The Barrens|
 N It has multiple spawn locations |O| |Z|The Barrens|
@@ -145,28 +145,28 @@ A Call of Fire |QID|1527| |N|the Brazier on the ground - (39.0, 58.2)| |C|Shaman
 C Raptor Thieves |QID|869| |N|Kill every Raptor you see. Loot them for their Heads Raptor Head (12)| |O| |C|Shaman| |Z|Durotar|
 C The Zhevra |QID|845| |N|Kill any Zhevra you see. Loot them for their Hooves Zhevra Hooves (4) (RFC Dungeon Quest)| |C|Shaman| |D|RFC| |Z|Durotar|
 T Call of Fire |QID|1527| |N|Kranal - (55.9, 19.9)| |C|Shaman| |Z|The Barrens|
-C Chen's Empty Keg |QID|819| |N|Wait for the respawn if it's not up Collect Chen's Empty Keg| |C|Shaman| |Z|The Barrens|
+C Collect Chen's Empty Keg |QID|819| |L|4926 1| |N|Wait for the respawn if it's not up (55.8, 20.0)| |C|Shaman| |Z|The Barrens|
 A Chen's Empty Keg |QID|819| |N|Wait for the respawn if it's not up - (55.8, 20.0)| |C|Shaman| |Z|The Barrens|
 C The Zhevra |QID|845| |N|Zhevra Runners. Loot them for their Hooves Zhevra Hooves (4)| |O| |Z|The Barrens|
 A Southsea Freebooters |QID|887| |N|Gazlowe - (62.7, 36.2)| |Z|The Barrens|
 f Get the Ratchet flight path |N|Bragok - (63.1, 37.2)| |O| |Z|The Barrens|
 A Samophlange |QID|894| |N|Sputtervalve and the Wanted Poster - (63.0, 37.2)| |Z|The Barrens|
 A WANTED: Baron Longshore |QID|895| |N|Sputtervalve and the Wanted Poster - (63.0, 37.2)| |Z|The Barrens|
-C WANTED: Baron Longshore |QID|895| |N|Ironzar. Buy a [Espadon] from him Collect Espadon (1)| |C|Warrior| |R|Undead| |Z|The Barrens|
-C Ironzar. Buy a [Gnarled Staff] from him |QID|850| |N|Ironzar. Buy a [Gnarled Staff] from him - (62.2, 37.5)| |C|Warrior| |R|Troll| |Z|The Barrens|
-C Ironzar. Buy a [Bearded Axe] from him |QID|850| |N|Ironzar. Buy a [Bearded Axe] from him - (62.2, 37.5)| |C|Warrior| |R|Orc| |Z|The Barrens|
-C Ironzar. Buy a [Rock Hammer] from him |QID|850| |N|Ironzar. Buy a [Rock Hammer] from him - (62.2, 37.5)| |C|Warrior| |R|Tauren| |Z|The Barrens|
-C WANTED: Baron Longshore |QID|895| |N|Ironzar. Buy a [Gnarled Staff] from him Collect Gnarled Staff (1)| |C|Shaman| |Z|The Barrens|
-C WANTED: Baron Longshore |QID|895| |N|Ironzar. Buy a [Scimitar] from him Collect Scimitar (1)| |C|Rogue| |Z|The Barrens|
-C WANTED: Baron Longshore |QID|895| |N|Ironzar. Buy a second [Scimitar] from him for your off-hand Collect Scimitar(1)| |C|Rogue| |Z|The Barrens|
+B Collect Espadon (1) |L|2024 1| |N|Ironzar. Buy a [Espadon] from him - (62.2, 37.5)| |C|Warrior| |R|Undead| |Z|The Barrens|
+B Collect Gnarled Staff (1) |L|2030 1| |N|Ironzar. Buy a [Gnarled Staff] from him - (62.2, 37.5)| |C|Warrior| |R|Troll| |Z|The Barrens|
+B Collect Bearded Axe (1) |L|2025 1| |N|Ironzar. Buy a [Bearded Axe] from him - (62.2, 37.5)| |C|Warrior| |R|Orc| |Z|The Barrens|
+B Collect Rock Hammer (1) |L|2026 1| |N|Ironzar. Buy a [Rock Hammer] from him - (62.2, 37.5)| |C|Warrior| |R|Tauren| |Z|The Barrens|
+B Collect Gnarled Staff (1) |L|2030 1| |N|Ironzar. Buy a [Gnarled Staff] from him - (62.2, 37.5)| |C|Shaman| |Z|The Barrens|
+B Collect Scimitar (1) |L|2027 1| |N|Ironzar. Buy a [Scimitar] from him - (62.2, 37.5)| |C|Rogue| |Z|The Barrens|
+B Collect Scimitar(1) |L|2027 2| |N|Ironzar. Buy a second [Scimitar] from him for your off-hand - (62.2, 37.5)| |C|Rogue| |Z|The Barrens|
 T Chen's Empty Keg |QID|819| |N|Drohn - (62.3, 38.4)| |Z|The Barrens|
 A Chen's Empty Keg |QID|821| |N|Drohn - (62.3, 38.4)| |Z|The Barrens|
 N Buy [Longjaw Mud Snappers] from him |N|(62.0, 39.4)| |Z|The Barrens|
 N Buy [Melon Juice] from him |N|(62.0, 39.4)| |C|Mage/Warlock/Priest/Shaman/Druid| |Z|The Barrens|
 N [Longjaw Mud Snappers] are extremely cheap, buy as many as you want |N|(62.0, 39.4)| |Z|The Barrens|
 B Vendor Trash |N|Innkeeper Wiley - (62.0, 39.4)| |Z|The Barrens|
-C WANTED: Baron Longshore |QID|895| |N|Innkeeper Wiley Longjaw Mud Snapper (20)| |Z|The Barrens|
-C WANTED: Baron Longshore |QID|895| |N|Innkeeper Wiley (62.0, 39.4)| |C|Mage/Warlock/Priest/Shaman/Druid| |Z|The Barrens|
+B Longjaw Mud Snapper (20) |L|4592 20| |N|Innkeeper Wiley - (62.0, 39.4)| |Z|The Barrens|
+B Innkeeper Wiley |L|1205 10| |N|Innkeeper Wiley - (62.0, 39.4)| |C|Mage/Warlock/Priest/Shaman/Druid| |Z|The Barrens|
 C Southsea Freebooters |QID|887| |N|Kill Southsea Brigands and Southsea Cannoneers Southsea Brigand (12)| |O| |Z|The Barrens|
 N He patrols up and down the hill |O| |C|Rogue/Troll/Rogue| |R|Orc| |Z|The Barrens|
 C Kill Tazan. Loot him for his Satchel |QID|1963| |N|Kill Tazan. Loot him for his Satchel| |O| |C|Rogue/Troll/Rogue| |R|Orc| |Z|The Barrens|
@@ -184,13 +184,13 @@ A The Missing Shipment |QID|892| |N|Dizzywig - (63.4, 38.5)| |Z|The Barrens|
 A Miner's Fortune |QID|896| |N|Dizzywig - (63.4, 38.5)| |Z|The Barrens|
 T The Missing Shipment |QID|892| |N|Gazlowe - (62.7, 36.2)| |Z|The Barrens|
 A Stolen Booty |QID|888| |N|Gazlowe - (62.7, 36.2)| |Z|The Barrens|
-C Ironzar. Buy a [Espadon] from him |QID|850| |N|Ironzar. Buy a [Espadon] from him - (62.2, 37.5)| |C|Warrior| |R|Undead| |Z|The Barrens|
-C Ironzar. Buy a [Gnarled Staff] from him |QID|850| |N|Ironzar. Buy a [Gnarled Staff] from him - (62.2, 37.5)| |C|Warrior| |R|Troll| |Z|The Barrens|
-C Ironzar. Buy a [Bearded Axe] from him |QID|850| |N|Ironzar. Buy a [Bearded Axe] from him - (62.2, 37.5)| |C|Warrior| |R|Orc| |Z|The Barrens|
-C Ironzar. Buy a [Rock Hammer] from him |QID|850| |N|Ironzar. Buy a [Rock Hammer] from him - (62.2, 37.5)| |C|Warrior| |R|Tauren| |Z|The Barrens|
-C Ironzar. Buy a [Gnarled Staff] from him |QID|850| |N|Ironzar. Buy a [Gnarled Staff] from him - (62.2, 37.5)| |C|Shaman| |Z|The Barrens|
-C Ironzar. Buy a [Scimitar] from him |QID|850| |N|Ironzar. Buy a [Scimitar] from him - (62.2, 37.5)| |C|Rogue| |Z|The Barrens|
-C Ironzar. Buy a second [Scimitar] from him for your off-hand |QID|850| |N|Ironzar. Buy a second [Scimitar] from him for your off-hand - (62.2, 37.5)| |C|Rogue| |Z|The Barrens|
+B Collect Espadon (1) |L|2024 1| |N|Ironzar. Buy a [Espadon] from him - (62.2, 37.5)| |C|Warrior| |R|Undead| |Z|The Barrens|
+B Collect Gnarled Staff (1) |L|2030 1| |N|Ironzar. Buy a [Gnarled Staff] from him - (62.2, 37.5)| |C|Warrior| |R|Troll| |Z|The Barrens|
+B Collect Bearded Axe (1) |L|2025 1| |N|Ironzar. Buy a [Bearded Axe] from him - (62.2, 37.5)| |C|Warrior| |R|Orc| |Z|The Barrens|
+B Collect Rock Hammer (1) |L|2026 1| |N|Ironzar. Buy a [Rock Hammer] from him - (62.2, 37.5)| |C|Warrior| |R|Tauren| |Z|The Barrens|
+B Collect Gnarled Staff (1) |L|2030 1| |N|Ironzar. Buy a [Gnarled Staff] from him - (62.2, 37.5)| |C|Shaman| |Z|The Barrens|
+B Collect Scimitar (1) |L|2027 1| |N|Ironzar. Buy a [Scimitar] from him - (62.2, 37.5)| |C|Rogue| |Z|The Barrens|
+B Collect Scimitar (1) |L|2027 2| |N|Ironzar. Buy a second [Scimitar] from him for your off-hand - (62.2, 37.5)| |C|Rogue| |Z|The Barrens|
 F Fly to The Crossroads |N|Bragok - (63.1, 37.2)| |O| |Z|The Barrens|
 C Raptor Thieves |QID|869| |N|Kill every Raptor you see. Loot them for their Heads Raptor Head (12)| |O| |Z|The Barrens|
 C The Zhevra |QID|845| |N|Finish killing Zhevras. Loot them for their Hooves Zhevra Hooves (4)| |Z|The Barrens|
@@ -199,13 +199,13 @@ T The Disruption Ends |QID|872| |N|Thork and Sergra - (51.5, 30.9)| |Z|The Barre
 T The Zhevra |QID|845| |N|Thork and Sergra - (51.5, 30.9)| |Z|The Barrens|
 A Prowlers of the Barrens |QID|903| |N|Thork and Sergra - (51.5, 30.9)| |Z|The Barrens|
 N Buy [Sharp Arrows] from him |N|(51.7, 29.9)| |C|Hunter/Orc/Hunter| |R|Troll| |Z|The Barrens|
-C Barg |QID|850| |N|Barg - (51.7, 29.9)| |C|Hunter| |R|Troll| |Z|The Barrens|
+B Barg |L|2515 1200| |N|Barg - (51.7, 29.9)| |C|Hunter| |R|Troll| |Z|The Barrens|
 N Buy [Heavy Shots] from him |N|(51.7, 29.9)| |C|Hunter| |R|Tauren| |Z|The Barrens|
-C Barg |QID|850| |N|Barg - (51.7, 29.9)| |C|Hunter| |R|Tauren| |Z|The Barrens|
+B Barg |L|2519 1000| |N|Barg - (51.7, 29.9)| |C|Hunter| |R|Tauren| |Z|The Barrens|
 B Buy a [Fine Longbow] from him if it's available and stock up on arrows |N|Uthrok - (51.1, 29.1)| |C|Hunter/Orc/Hunter| |R|Troll| |Z|The Barrens|
 N If it's not up, buy a [Reinforced Bow] instead |N|(51.1, 29.1)| |C|Hunter/Orc/Hunter| |R|Troll| |Z|The Barrens|
-C The Forgotten Pools |QID|870| |N|Uthrok (51.1, 29.1)| |C|Hunter| |R|Troll| |Z|The Barrens|
-C Disrupt the Attacks |QID|871| |N|Uthrok. Buy a [Hunter's Boomstick] from him Collect Hunter's Boomstick (1)| |C|Hunter| |R|Tauren| |Z|The Barrens|
+B Uthrok |L|2515 1200| |N|Uthrok - (51.1, 29.1)| |C|Hunter| |R|Troll| |Z|The Barrens|
+B Collect Hunter's Boomstick (1) |L|2511 1| |N|Uthrok. Buy a [Hunter's Boomstick] from him - (51.1, 29.1)| |C|Hunter| |R|Tauren| |Z|The Barrens|
 C Chen's Empty Keg |QID|821| |N|Kill Plainstriders. Loot them for their Kidneys Plainstrider Kidney (5)| |O| |Z|The Barrens|
 C Raptor Thieves |QID|869| |N|Kill every Raptor you see. Loot them for their Heads Raptor Head (12)| |O| |Z|The Barrens|
 A Kolkar Leaders |QID|850| |N|Regthar - (45.4, 28.4)| |Z|The Barrens|
@@ -216,7 +216,7 @@ C Centaur Bracers |QID|855| |N|Kill Kolkar Wranglers and Kolkar Stormers. Loot t
 N This quest does not have to be completed now |O| |Z|The Barrens|
 C Fungal Spores |QID|848| |N|Collect Laden Mushrooms around The Forgotten Pools Collect Fungal Spores (x4)| |O| |Z|The Barrens|
 C The Forgotten Pools |QID|870| |N|Dive underwater to the Bubble Fissure Explore the waters of the Forgotten Pools| |Z|The Barrens|
-N |cRXP_WARN_Be careful as Barak Kodobane's melee hits deal a LOT of damage and he is protected by a Kolkar Wrangler. They can net you and shoot at you from ranged distance |N|(42.8, 23.5)| |Z|The Barrens|
+N Be careful as Barak Kodobane's melee hits deal a LOT of damage and he is protected by a Kolkar Wrangler. They can net you and shoot at you from ranged distance |N|(42.8, 23.5)| |Z|The Barrens|
 C Kolkar Leaders |QID|850| |N|Barak Kodobane. Loot him for his Head Kodobane's Head (1)| |Z|The Barrens|
 T Kolkar Leaders |QID|850| |N|Regthar - (45.4, 28.4)| |Z|The Barrens|
 A Verog the Dervish |QID|851| |N|Regthar - (45.4, 28.4)| |Z|The Barrens|
@@ -258,9 +258,9 @@ C The Escape |QID|863| |N|Two Venture Co. Mercenaries will spawn when the shredd
 C Chen's Empty Keg |QID|821| |N|Kill Plainstriders. Loot them for their Kidneys Plainstrider Kidney (5)| |O| |Z|The Barrens|
 N If it hasn't dropped after 25+ mobs, feel free to skip this quest |N|(61.5, 4.4)| |Z|The Barrens|
 C Miner's Fortune |QID|896| |N|Venture Co. Enforcers and Venture Co. Overseers. Loot them for Cats Eye Emerald Cats Eye Emerald (1)| |Z|The Barrens|
-C Venture Co. Overseers. Loot them for their [Flask of Oil] |QID|103| |N|Venture Co. Overseers. Loot them for their [Flask of Oil] - (61.5, 4.4) (DM Dungeon Quest)| |D|DM| |Z|The Barrens|
+C Flask of Oil (5) |QID|103| |L|814 5| |N|Venture Co. Overseers. Loot them for their [Flask of Oil] (61.5, 4.4) (DM Dungeon Quest)| |D|DM| |Z|The Barrens|
 N You could also buy them from the auction house instead |N|(61.5, 4.4) (DM Dungeon Quest)| |D|DM| |Z|The Barrens|
-C Venture Co. Overseers. Loot them for their [Flask of Oil] |QID|103| |N|Venture Co. Overseers. Loot them for their [Flask of Oil] - (61.5, 4.4) (DM Dungeon Quest)| |D|DM| |Z|The Barrens|
+B Flask of Oil (5) |L|814 5| |N|Venture Co. Overseers. Loot them for their [Flask of Oil] - (61.5, 4.4) (DM Dungeon Quest)| |D|DM| |Z|The Barrens|
 R Travel to Kalimdor |N|(56.8, 45.5)| |O| |Z|Kalimdor|
 t Train your class spells |N|Ur'kyo - (35.6, 87.8)| |O| |C|Priest| |Z|Orgrimmar|
 t Train your class spells |N|Pephredo - (38.4, 85.5)| |C|Mage| |Z|Orgrimmar|
@@ -278,23 +278,23 @@ T The Shattered Hand |QID|1963| |N|Therzok - (42.7, 53.5)| |C|Rogue/Troll/Rogue|
 A The Shattered Hand |QID|1858| |N|Therzok - (42.7, 53.5)| |C|Rogue/Troll/Rogue| |R|Orc| |Z|Orgrimmar|
 T Zando'zan |QID|2379| |N|Zando'zan - (42.7, 53.0)| |C|Rogue| |Z|Orgrimmar|
 A Wrenix of Ratchet |QID|2382| |N|Zando'zan - (42.7, 53.0)| |C|Rogue| |Z|Orgrimmar|
-C The Shattered Hand |QID|1858| |N|Rekkul. Buy a [Thieves' Tools] from him Collect Thieves' Tools (1)| |O| |C|Rogue/Troll/Rogue| |R|Orc| |Z|Orgrimmar|
+B Collect Thieves' Tools (1) |L|5060 1| |N|Rekkul. Buy a [Thieves' Tools] from him - (42.1, 49.5)| |O| |C|Rogue/Troll/Rogue| |R|Orc| |Z|Orgrimmar|
 C The Shattered Hand |QID|1858| |N|Use [Pick Lock] to open [Tazan's Satchel] Tazan's Logbook (1)| |C|Rogue/Troll/Rogue| |R|Orc| |Z|Orgrimmar|
 T The Shattered Hand |QID|1858| |N|Therzok - (42.7, 53.5)| |C|Rogue/Troll/Rogue| |R|Orc| |Z|Orgrimmar|
-C The Shattered Hand |QID|1858| |N|Use [Pick Pocket] on Gamon in the Inn. Use his key to open [Tazan's Satchel] Tazan's Key| |C|Rogue/Troll/Rogue| |R|Orc| |Z|Orgrimmar|
+C Tazan's Key |QID|1858| |L|7208 1| |N|Use [Pick Pocket] on Gamon in the Inn. Use his key to open [Tazan's Satchel] (54.0, 68.0)| |C|Rogue/Troll/Rogue| |R|Orc| |Z|Orgrimmar|
 T The Shattered Hand |QID|1858| |N|Therzok - (42.7, 53.5)| |C|Rogue/Troll/Rogue| |R|Orc| |Z|Orgrimmar|
 t Train your class spells |N|Mirket - (48.6, 47.0)| |C|Warlock| |Z|Orgrimmar|
-C Miner's Fortune |QID|896| |N|Kurgul and buy [Grimoire of Sacrifice] Grimoire of Sacrifice (Rank 1) (1)| |C|Warlock| |Z|Orgrimmar|
-C Miner's Fortune |QID|896| |N|Kurgul and buy [Grimoire of Firebolt (Rank 3)] Grimoire of Firebolt (Rank 3) (1)| |C|Warlock| |Z|Orgrimmar|
+B Grimoire of Sacrifice (Rank 1) (1) |L|16351 1| |N|Kurgul and buy [Grimoire of Sacrifice] - (47.5, 46.8)| |C|Warlock| |Z|Orgrimmar|
+B Grimoire of Firebolt (Rank 3) (1) |L|16316 1| |N|Kurgul and buy [Grimoire of Firebolt (Rank 3)] - (47.5, 46.8)| |C|Warlock| |Z|Orgrimmar|
 t Train your class spells |N|Grezz - (79.9, 31.4)| |C|Warrior| |Z|Orgrimmar|
 t Train your class spells |N|Ormak - (66.0, 18.5)| |C|Hunter| |Z|Orgrimmar|
 t Train your pet spells |N|Xao'tsu - (66.3, 14.8)| |C|Hunter| |Z|Orgrimmar|
 t Train Staves |N|Hanashi - (81.5, 19.6)| |C|Hunter/Orc/Hunter/Priest| |R|Troll| |Z|Orgrimmar|
 t Train Bows |N|Hanashi - (81.5, 19.6)| |C|Hunter| |R|Tauren| |Z|Orgrimmar|
 t Train Two-Handed Axes & Staves |N|Hanashi - (81.5, 19.6)| |C|Warrior/Tauren/Warrior/Undead/Warrior| |R|Troll| |Z|Orgrimmar|
-C Zendo'jian. Buy a [Reinforced Bow] from him |QID|3281| |N|Zendo'jian. Buy a [Reinforced Bow] from him - (81.2, 18.7)| |C|Hunter| |Z|Orgrimmar|
+B Collect Reinforced Bow (1) |L|3026 1| |N|Zendo'jian. Buy a [Reinforced Bow] from him - (81.2, 18.7)| |C|Hunter| |Z|Orgrimmar|
 t Training (227) |N|Zendo'jian. Buy a [Reinforced Bow] from him - (81.2, 18.7)| |C|Hunter| |Z|Orgrimmar|
-C Zendo'jian. Buy a [Battle Axe] from him |QID|3281| |N|Zendo'jian. Buy a [Battle Axe] from him - (81.2, 18.7)| |C|Warrior| |Z|Orgrimmar|
+B Collect Battle Axe (1) |L|926 1| |N|Zendo'jian. Buy a [Battle Axe] from him - (81.2, 18.7)| |C|Warrior| |Z|Orgrimmar|
 t Training (227) |N|Zendo'jian. Buy a [Battle Axe] from him - (81.2, 18.7)| |C|Warrior| |Z|Orgrimmar|
 F Fly to The Crossroads |N|Doras - (45.1, 63.9)| |O| |Z|Orgrimmar|
 B Sell your junk, then restock on food and water if necessary |N|Innkeeper Boorand - (52.0, 29.9)| |C|!Rogue/!Warrior| |Z|The Barrens|
@@ -317,12 +317,12 @@ A The Angry Scytheclaws |QID|905| |N|Sergra - (52.2, 31.0)| |Z|The Barrens|
 A Consumed by Hatred |QID|899| |N|Mankrik - (52.0, 31.6)| |Z|The Barrens|
 A Lost in Battle |QID|4921| |N|Mankrik - (52.0, 31.6)| |Z|The Barrens|
 N Buy [Sharp Arrows] from him |N|(51.7, 29.9)| |C|Hunter| |Z|The Barrens|
-C Stolen Booty |QID|888| |N|Barg (51.7, 29.9)| |C|Hunter| |Z|The Barrens|
+B Barg |L|2515 1800| |N|Barg - (51.7, 29.9)| |C|Hunter| |Z|The Barrens|
 F Fly to Ratchet |N|Devrak - (51.5, 30.3)| |O| |Z|The Barrens|
 T Wrenix of Ratchet |QID|2382| |N|Wrenix - (63.1, 36.3)| |C|Rogue| |Z|The Barrens|
 A Plundering the Plunderers |QID|2381| |N|Wrenix - (63.1, 36.3)| |C|Rogue| |Z|The Barrens|
 N Obtain an [E.C.A.C.] and a [Thieves' Tools] |N|(63.1, 36.3)| |C|Rogue| |Z|The Barrens|
-C Stolen Booty |QID|888| |N|Wrenix's Gizmotronic Apparatus E.C.A.C. (1)| |C|Rogue| |Z|The Barrens|
+C E.C.A.C. (1) |QID|888| |L|7970 1| |N|Wrenix's Gizmotronic Apparatus (63.1, 36.3)| |C|Rogue| |Z|The Barrens|
 T Samophlange |QID|902| |N|Sputtervalve and Dizzywig - (63.0, 37.2)| |Z|The Barrens|
 T The Escape |QID|863| |N|Sputtervalve and Dizzywig - (63.0, 37.2)| |Z|The Barrens|
 A Wenikee Boltbucket |QID|3921| |N|Sputtervalve and Dizzywig - (63.0, 37.2)| |C|Hunter| |Z|The Barrens|
@@ -340,8 +340,8 @@ N Buy [Longjaw Mud Snappers] from him |N|(62.0, 39.4)| |Z|The Barrens|
 N Buy [Melon Juice] from him |N|(62.0, 39.4)| |C|Mage/Warlock/Priest/Shaman/Druid| |Z|The Barrens|
 N [Longjaw Mud Snappers] are extremely cheap, buy as many as you want |N|(62.0, 39.4)| |Z|The Barrens|
 B Vendor Trash |N|Talk toInnkeeper Wiley - (62.0, 39.4)| |Z|The Barrens|
-C Stolen Booty |QID|888| |N|Talk toInnkeeper Wiley Longjaw Mud Snapper (20)| |Z|The Barrens|
-C Stolen Booty |QID|888| |N|Talk toInnkeeper Wiley (62.0, 39.4)| |C|Mage/Warlock/Priest/Shaman/Druid| |Z|The Barrens|
+B Longjaw Mud Snapper (20) |L|4592 20| |N|Talk toInnkeeper Wiley - (62.0, 39.4)| |Z|The Barrens|
+B Talk toInnkeeper Wiley |L|1205 10| |N|Talk toInnkeeper Wiley - (62.0, 39.4)| |C|Mage/Warlock/Priest/Shaman/Druid| |Z|The Barrens|
 N Use the [E.C.A.C.] on Polly |N|(65.0, 45.4)| |C|Rogue| |Z|The Barrens|
 C Plundering the Plunderers |QID|2381| |N|Once your lockpicking is 70, go to the bottom floor of the ship and open The Jewel of the Southsea Southsea Treasure (1)| |C|Rogue| |Z|The Barrens|
 C Stolen Booty |QID|888| |N|the Crate on the ground Telescopic Lens (1)| |Z|The Barrens|
@@ -349,12 +349,12 @@ C Stolen Booty |QID|888| |N|the Crate on the ground Shipment of Boots (1)| |Z|Th
 C Chen's Empty Keg |QID|821| |N|Kill Plainstriders. Loot them for their Kidneys Plainstrider Kidney (5)| |O| |Z|The Barrens|
 N Be careful as they cast [Thrash] (Charges 2 extra attacks every 10 seconds) |O| |Z|The Barrens|
 C Raptor Horns |QID|865| |N|Kill Sunscale Scytheclaws. Loot them for their Horns and Feathers Intact Raptor Horn (5)| |O| |Z|The Barrens|
-C The Angry Scytheclaws |QID|905| |N|Kill Sunscale Scytheclaws. Loot them for their Horns and Feathers Sunscale Feather (3)| |O| |Z|The Barrens|
+C Sunscale Feather (3) |QID|905| |L|5165 3| |N|Kill Sunscale Scytheclaws. Loot them for their Horns and Feathers| |O| |Z|The Barrens|
 C Stolen Silver |QID|3281| |N|the Stolen Silver on the ground Stolen Silver (1)| |Z|The Barrens|
 C Fungal Spores |QID|848| |N|Collect Laden Mushrooms around The Stagnant Oasis Collect Fungal Spores (x4)| |O| |Z|The Barrens|
 C The Stagnant Oasis |QID|877| |N|the Bubble Fissure underwater Test the Dried Seeds (1)| |Z|The Barrens|
 C Centaur Bracers |QID|855| |N|Kolkar around the oasis. Loot them for their Bracers Centaur Bracers (15)| |O| |Z|The Barrens|
-N |cRXP_WARN_He has a chance of spawning every time a Kolkar is killed |N|(53.0, 41.8)| |Z|The Barrens|
+N He has a chance of spawning every time a Kolkar is killed |N|(53.0, 41.8)| |Z|The Barrens|
 N On a highly populated server or fresh launch, your best option is camping his spawnpoint |N|(53.0, 41.8)| |Z|The Barrens|
 C Verog the Dervish |QID|851| |N|Verog. Loot him for his Head Verog's Head (1)| |Z|The Barrens|
 C Fungal Spores |QID|848| |N|Collect Laden Mushrooms around The Stagnant Oasis Collect Fungal Spores (x4)| |Z|The Barrens|
@@ -393,7 +393,7 @@ A Altered Beings |QID|880| |N|Mankrik, Tonga, Sergra and Gazrog - (52.0, 31.6)| 
 T The Angry Scytheclaws |QID|905| |N|(52.3, 31.9)| |Z|The Barrens|
 A Jorn Skyseer |QID|3261| |N|(52.3, 31.9)| |Z|The Barrens|
 T Stolen Silver |QID|3281| |N|(52.2, 31.0)| |Z|The Barrens|
-C Miner's Fortune |QID|896| |N|Uthrok. Buy a [Medium Quiver] from him Medium Quiver (1)| |C|Hunter| |Z|The Barrens|
+B Medium Quiver (1) |L|11362 1| |N|Uthrok. Buy a [Medium Quiver] from him - (51.1, 29.1)| |C|Hunter| |Z|The Barrens|
 T Verog the Dervish |QID|851| |N|Regthar - (45.4, 28.4)| |Z|The Barrens|
 A Hezrul Bloodmark |QID|852| |N|Regthar - (45.4, 28.4)| |Z|The Barrens|
 T Centaur Bracers |QID|855| |N|Regthar - (45.4, 28.4)| |Z|The Barrens|
@@ -418,7 +418,7 @@ T Centaur Bracers |QID|855| |N|Regthar - (45.4, 28.4)| |Z|The Barrens|
 T Counterattack! |QID|4021| |N|Regthar - (45.4, 28.4)| |Z|The Barrens|
 T Centaur Bracers |QID|855| |N|Regthar - (45.4, 28.4)| |Z|The Barrens|
 C Chen's Empty Keg |QID|821| |N|Kill Plainstriders. Loot them for their Kidneys Plainstrider Kidney (5)| |O| |Z|The Barrens|
-N |cRXP_WARN_Be careful as Witchwing Slayers cast [Execute] |cRXP_WARN_(deals a LOT of damage when you're at <20% health), and Witchwing Ambushers are [Stealthed] and patrol around |N|(40.1, 16.0)| |Z|The Barrens|
+N Be careful as Witchwing Slayers cast [Execute] (deals a LOT of damage when you're at <20% health), and Witchwing Ambushers are [Stealthed] and patrol around |N|(40.1, 16.0)| |Z|The Barrens|
 N Watch out for Witchwing Ambushers. They are stealthed and patrol in the area |N|(40.1, 16.0)| |Z|The Barrens|
 C Harpy Lieutenants |QID|875| |N|Witchwing Slayers. Loot them for their Rings Harpy Lieutenant Ring (6)| |Z|The Barrens|
 R Travel toward Seereth |N|(35.3, 27.9)| |O| |Z|The Barrens|

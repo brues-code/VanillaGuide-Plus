@@ -9,7 +9,7 @@ F Fly to Badlands |N|Gringer - (26.9, 77.1)| |O| |Z|Stranglethorn Vale|
 N You may have to wait for Thal'trak to finish his RP. Just follow him |N|(3.4, 48.1)| |Z|Badlands|
 A Dreadmaul Rock |QID|3821| |N|Thal'trak - (3.4, 48.1)| |Z|Badlands|
 N You will need the cloth for an upcoming quest. Badlands mobs have a substantially higher drop rate than Searing Gorge mobs |O| |Z|Badlands|
-C Caught! |QID|4449| |N|If you don't have 15 Silk Cloth, collect it from Shadowforge dwarves in Angor Fortress or the Hammertoe Dig Site| |O| |Z|Badlands|
+C If you don't have 15 Silk Cloth, collect it from Shadowforge dwarves in Angor Fortress or the Hammertoe Dig Site |QID|4449| |L|4306 15| |N|If you don't have 15 Silk Cloth, collect it from Shadowforge dwarves in Angor Fortress or the Hammertoe Dig Site| |O| |Z|Badlands|
 R Travel to Searing Gorge |N|(72.3, 55.5)| |Z|Searing Gorge|
 N You may need to travel between the northern camp and the southern digsite to complete this quest |N|(69.3, 33.4)| |Z|Searing Gorge|
 N Skip this quest for now if there is too much competition |N|(69.3, 33.4)| |Z|Searing Gorge|
@@ -66,7 +66,7 @@ C Set Them Ablaze! |QID|3463| |N|Climb the tower and click the Sentry Brazier (4
 N You may need to travel between the northern camp and the southern digsite to complete this quest |N|(69.3, 33.4)| |Z|Searing Gorge|
 C Caught! |QID|4449| |N|Dark Iron Geologists (69.3, 33.4)| |Z|Searing Gorge|
 T Caught! |QID|4449| |N|on the Wooden Outhouse - (65.6, 62.2)| |Z|Searing Gorge|
-C The Key to Freedom |QID|4451| |N|Use the [Grimesilt Outhouse Key] to accept the quest (65.6, 62.2)| |Z|Searing Gorge|
+C Use the [Grimesilt Outhouse Key] to accept the quest |QID|4451| |L|11818 1| |N|Use the [Grimesilt Outhouse Key] to accept the quest - (65.6, 62.2)| |Z|Searing Gorge|
 A The Key to Freedom |QID|4451| |N|Use the [Grimesilt Outhouse Key] to accept the quest - (65.6, 62.2)| |Z|Searing Gorge|
 T The Key to Freedom |QID|4451| |N|on the Wooden Outhouse - (65.6, 62.2)| |Z|Searing Gorge|
 N Be careful, it's possible to fall through the bridge on the northern side! Make sure you jump onto the bridge when leaving the tower |N|(50.1, 54.7)| |R|!Tauren| |Z|Searing Gorge|

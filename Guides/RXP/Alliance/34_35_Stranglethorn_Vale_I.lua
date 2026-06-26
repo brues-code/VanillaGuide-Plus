@@ -24,9 +24,9 @@ F Fly to Westfall |N|Gyll - (27.5, 77.8)| |Z|Stranglethorn Vale|
 R Travel to Duskwood |N|(17.7, 29.1)| |O| |Z|Duskwood|
 T A Daughter's Love |QID|231| |N|(17.7, 29.1)| |Z|Duskwood|
 R northern Stranglethorn Vale |N|(44.6, 87.6)| |O| |Z|Duskwood|
-N Private Thorsen |cRXP_WARN_will be attacked by 2 of Kurzen's Agents. If you don't see this event, ignore this step |N|(40.3, 8.4)| |O| |Z|Stranglethorn Vale|
+N Private Thorsen will be attacked by 2 of Kurzen's Agents. If you don't see this event, ignore this step |N|(40.3, 8.4)| |O| |Z|Stranglethorn Vale|
 N Kill both of Kurzen's Agents and then accept Private Thorsen's quest which becomes available after saving him |N|(40.3, 8.4)| |O| |Z|Stranglethorn Vale|
-A Jungle Secrets |QID|215| |N||cRXP_WARN_Keep an eye out for the special Private Thorsen event. He will patrol down the road from the Rebel camp every 30 minutes - (40.3, 8.4)| |O| |Z|Stranglethorn Vale|
+A Jungle Secrets |QID|215| |N|Keep an eye out for the special Private Thorsen event. He will patrol down the road from the Rebel camp every 30 minutes - (40.3, 8.4)| |O| |Z|Stranglethorn Vale|
 A The Second Rebellion |QID|203| |N|Sergeant Yohwa - (38.0, 3.3)| |Z|Stranglethorn Vale|
 A Bad Medicine |QID|204| |N|Sergeant Yohwa - (38.0, 3.3)| |Z|Stranglethorn Vale|
 A Bookie Herod |QID|200| |N|Lieutenant Doren - (38.0, 3.0)| |Z|Stranglethorn Vale|
@@ -59,7 +59,7 @@ C The Second Rebellion |QID|203| |N|Kurzen Jungle Fighters and Kurzen Medicine M
 C Bad Medicine |QID|204| |N|Kurzen Jungle Fighters and Kurzen Medicine Men. Loot the Kurzen Medicine Men for their Jungle Remedies (44.9, 10.2)| |Z|Stranglethorn Vale|
 C Tiger Mastery |QID|186| |N|Stranglethorn Tigers (46.8, 15.8)| |Z|Stranglethorn Vale|
 C Hostile Takeover |QID|213| |N|Kill Venture Co. Geologists. Loot them for their Crystals| |O| |Z|Stranglethorn Vale|
-C Goblin Sponsorship |QID|1182| |N|Foreman Cozzle atop the Oil Rig. Loot him for his Key (42.6, 18.4)| |Z|Stranglethorn Vale|
+C Foreman Cozzle atop the Oil Rig. Loot him for his Key |QID|1182| |L|5851 1| |N|Foreman Cozzle atop the Oil Rig. Loot him for his Key - (42.6, 18.4)| |Z|Stranglethorn Vale|
 C Goblin Sponsorship |QID|1182| |N|Cozzle's Footlocker. Loot it for the Fuel Regulator Blueprints (43.3, 20.3)| |Z|Stranglethorn Vale|
 C Hostile Takeover |QID|213| |N|Venture Co. Geologists. Loot them for their Crystals (45.5, 18.8)| |Z|Stranglethorn Vale|
 C Panther Mastery |QID|190| |N|Young Panthers (41.5, 12.0)| |Z|Stranglethorn Vale|
@@ -133,7 +133,7 @@ N [Elixir of Water Breathing] (If you have one) |N|(57.1, 73.0)| |C|!Warlock| |Z
 R Newton Burnside |N|(57.1, 73.0)| |Z|Stormwind City|
 N Deposit any [Green Hills of Stranglethorn - Pages] you found |N|(57.1, 73.0)| |Z|Stormwind City|
 N Buy a [Elixir of Water Breathing] from the Auction House |N|(57.1, 73.0)| |C|!Warlock| |Z|Stormwind City|
-C Newton Burnside |N|Newton Burnside - (57.1, 73.0)| |C|!Warlock| |Z|Stormwind City|
+B Newton Burnside |L|5996 1| |N|Newton Burnside - (57.1, 73.0)| |C|!Warlock| |Z|Stormwind City|
 R the Stormwind Cathedral |N|(42.5, 33.5)| |O| |C|Priest/Paladin| |Z|Stormwind City|
 N Arthur the Faithful |N|(38.8, 31.3)| |C|Paladin| |Z|Stormwind City|
 t Train your class spells |N|(38.7, 32.8)| |C|Paladin| |Z|Stormwind City|
@@ -142,7 +142,7 @@ t Train your class spells |N|Einris Brightspear - (61.6, 15.3)| |C|Hunter| |Z|St
 t Train your pet spells |N|Karrina Mekenda - (61.6, 16.0)| |C|Hunter| |Z|Stormwind City|
 R the Stormwind Keep |N|(71.7, 25.6)| |O| |Z|Stormwind City|
 T Reassignment |QID|563| |N|Major Samuelson - (72.6, 15.9)| |Z|Stormwind City|
-N |cRXP_WARN_If you found [An Old History Book] you may turn it in |N|(74.2, 7.5)| |Z|Stormwind City|
+N If you found [An Old History Book] you may turn it in |N|(74.2, 7.5)| |Z|Stormwind City|
 A An Old History Book |QID|337| |N|Milton Sheaf - (74.2, 7.5)| |Z|Stormwind City|
 T An Old History Book |QID|337| |N|Milton Sheaf - (74.2, 7.5)| |Z|Stormwind City|
 N Wu or Ilsa |N|(76.1, 50.1)| |C|Warrior| |Z|Stormwind City|

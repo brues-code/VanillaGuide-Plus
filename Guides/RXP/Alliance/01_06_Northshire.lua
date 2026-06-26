@@ -8,11 +8,11 @@ B Vendor your Body Armor, Shirt, Pants and Boots along with the Food and Water i
 A The Stolen Tome |QID|1598| |N|Drusilla La Salle - (49.9, 42.6)| |C|Warlock| |Z|Elwynn Forest|
 t Train [Immolate] |N|Drusilla La Salle - (49.9, 42.6)| |C|Warlock| |Z|Elwynn Forest|
 N Open the Stolen Books. Loot it for the Powers of the Void |N|(56.7, 44.0)| |C|Warlock| |Z|Elwynn Forest|
-N |cRXP_WARN_You can loot the Powers of the Void safely while inside the Tent! Watch the video on how to do this |N|(56.7, 44.0)| |C|Warlock| |Z|Elwynn Forest|
+N You can loot the Powers of the Void safely while inside the Tent! Watch the video on how to do this |N|(56.7, 44.0)| |C|Warlock| |Z|Elwynn Forest|
 C The Stolen Tome |QID|1598| |N|Run into the Tent at the Defias Camp Collect Powers of the Void (x1)| |C|Warlock| |Z|Elwynn Forest|
-R |cRXP_WARN_Remain inside the Tent so Defias Thugs can't hit you |N|(56.8, 43.7)| |O| |C|Warlock| |Z|Elwynn Forest|
+R Remain inside the Tent so Defias Thugs can't hit you |N|(56.8, 43.7)| |O| |C|Warlock| |Z|Elwynn Forest|
 N Open the Stolen Books. Loot it for the Powers of the Void |N|(56.7, 44.0)| |C|Warlock| |Z|Elwynn Forest|
-N |cRXP_WARN_You can loot the Powers of the Void safely while inside the Tent! Watch the video on how to do this |N|(56.7, 44.0)| |C|Warlock| |Z|Elwynn Forest|
+N You can loot the Powers of the Void safely while inside the Tent! Watch the video on how to do this |N|(56.7, 44.0)| |C|Warlock| |Z|Elwynn Forest|
 C The Stolen Tome |QID|1598| |N|Run into the Tent at the Defias Camp Collect Powers of the Void (x1)| |C|Warlock| |Z|Elwynn Forest|
 T The Stolen Tome |QID|1598| |N|Drusilla La Salle - (49.9, 42.6)| |C|Warlock| |Z|Elwynn Forest|
 A A Threat Within |QID|783| |N|Deputy Willem - (48.2, 42.9)| |Z|Elwynn Forest|
@@ -28,7 +28,7 @@ A Wolves Across The Border |QID|33| |N|Eagan Peltskinner - (48.9, 40.2)| |Z|Elwy
 N Brother Danil |N|(47.5, 41.6)| |O| |C|Priest/Mage/Warlock| |Z|Elwynn Forest|
 N Vendor Trash |N|(47.5, 41.6)| |O| |C|Priest/Mage/Warlock| |Z|Elwynn Forest|
 N Buy 10 [Refreshing Spring Water] from him |N|(47.5, 41.6)| |O| |C|Priest/Mage/Warlock| |Z|Elwynn Forest|
-C Once you have 50c worth of vendor trash |N|Once you have 50c worth of vendor trash - (47.5, 41.6)| |O| |C|Priest/Mage/Warlock| |Z|Elwynn Forest|
+B Collect Refreshing Spring Water (x10) |L|159 10| |N|Once you have 50c worth of vendor trash - (47.5, 41.6)| |O| |C|Priest/Mage/Warlock| |Z|Elwynn Forest|
 C Wolves Across The Border |QID|33| |N|Kill Timber Wolf Collect Tough Wolf Meat (x8)| |Z|Elwynn Forest|
 C Kobold Camp Cleanup |QID|7| |N|Kobold Vermins Kill Kobold Vermin (x10)| |Z|Elwynn Forest|
 T Wolves Across The Border |QID|33| |N|Eagan Peltskinner - (48.9, 40.2)| |C|Warrior/Paladin/Rogue| |Z|Elwynn Forest|
@@ -36,10 +36,10 @@ T Wolves Across The Border |QID|33| |N|Eagan Peltskinner - (48.9, 40.2)| |C|!War
 N Vendor Trash |N|(47.5, 41.6)| |C|Priest/Mage/Warlock| |Z|Elwynn Forest|
 N Buy 10 more [Refreshing Spring Water] from him |N|(47.5, 41.6)| |C|Priest/Mage/Warlock| |Z|Elwynn Forest|
 N Make sure you save 10c or more for later |N|(47.5, 41.6)| |C|Priest/Mage| |Z|Elwynn Forest|
-C Brother Danil |N|Brother Danil - (47.5, 41.6)| |C|Priest/Mage/Warlock| |Z|Elwynn Forest|
+B Collect Refreshing Spring Water (x10) |L|159 10| |N|Brother Danil - (47.5, 41.6)| |C|Priest/Mage/Warlock| |Z|Elwynn Forest|
 B Vendor Trash |N|Godric Rothgar - (47.7, 41.4)| |C|!Priest/!Mage/!Warlock/!Rogue| |Z|Elwynn Forest|
 B Buy a [Dirk] from him if you can afford it |N|Janos Hammerknuckle - (47.2, 41.9)| |C|Rogue| |Z|Elwynn Forest|
-C Janos Hammerknuckle |N|Janos Hammerknuckle - (47.2, 41.9)| |C|Rogue| |Z|Elwynn Forest|
+B Dirk (1) |L|2139 1| |N|Janos Hammerknuckle - (47.2, 41.9)| |C|Rogue| |Z|Elwynn Forest|
 T Kobold Camp Cleanup |QID|7| |N|Marshal McBride - (48.9, 41.6)| |Z|Elwynn Forest|
 A Investigate Echo Ridge |QID|15| |N|Marshal McBride - (48.9, 41.6)| |Z|Elwynn Forest|
 A Simple Letter |QID|3100| |N|Marshal McBride - (48.9, 41.6)| |C|Warrior| |Z|Elwynn Forest|

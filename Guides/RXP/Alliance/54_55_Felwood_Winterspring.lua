@@ -5,7 +5,7 @@ return [[
 N 54-55 Felwood/Winterspring |N|Converted from RestedXP guide|
 
 N Grind your way down south until you have 6 |O|
-C Loot Corrupted Soul Shards from any Mobs in Felwood |QID|5882| |N|Loot Corrupted Soul Shards from any Mobs in Felwood| |O|
+C Corrupted Soul Shards from any Mobs in Felwood |QID|5882| |L|11515 6| |N|Loot Corrupted Soul Shards from any Mobs in Felwood| |O|
 T Felbound Ancients |QID|4441| |N|Eridan Bluewind - (51.4, 81.5)| |Z|Felwood|
 T Cleansed Water Returns to Felwood |QID|5159| |N|Greta Mosshoof - (51.2, 82.1)| |Z|Felwood|
 A Dousing the Flames of Protection |QID|5165| |N|Greta Mosshoof - (51.2, 82.1)| |Z|Felwood|
@@ -14,26 +14,26 @@ A Purified! |QID|4442| |N|Eridan Bluewind - (51.4, 81.5)| |Z|Felwood|
 T Purified! |QID|4442| |N|Eridan Bluewind - (51.4, 81.5)| |Z|Felwood|
 N Turn in your 6 [Corrupted Soul Shards] you have to receive 2 [Cenarion Plant Salves] |N|(54.1, 86.8)| |Z|Felwood|
 N If you don't have 6 get them from the Furbolgs to the west |N|(54.1, 86.8)| |Z|Felwood|
-C Salve via Hunting |QID|5882| |N|Arathandris Silversky (54.1, 86.8)| |Z|Felwood|
+C Arathandris Silversky |QID|5882| |L|11515 6| |N|Arathandris Silversky - (54.1, 86.8)| |Z|Felwood|
 A Salve via Hunting |QID|5882| |N|Arathandris Silversky - (54.1, 86.8)| |Z|Felwood|
 T Salve via Hunting |QID|5882| |N|Arathandris Silversky - (54.1, 86.8)| |Z|Felwood|
 C Dousing the Flames of Protection |QID|5165| |N|Click the four Braziers on the ground (36.3, 56.3)| |O| |Z|Felwood|
-N |cRXP_WARN_Use the [Blood Red Key] to start the quest |Z|Felwood|
+N Use the [Blood Red Key] to start the quest |Z|Felwood|
 N This will begin an escort quest. Start this escort even if you still need to Extinguish Braziers |Z|Felwood|
-C A Strange Red Key |QID|5202| |N|Kill Jaedenar Enforcers, Jaedenar Darkweavers, Jaedenar Warlocks and Jaedenar Legionnaires. Loot them for a [Blood Red Key]| |Z|Felwood|
+C Jaedenar Enforcers, Jaedenar Darkweavers, Jaedenar Warlocks and Jaedenar Legionnaires. Loot them for a [Blood Red Key] |QID|5202| |L|13140 1| |N|Kill Jaedenar Enforcers, Jaedenar Darkweavers, Jaedenar Warlocks and Jaedenar Legionnaires. Loot them for a [Blood Red Key]| |Z|Felwood|
 A A Strange Red Key |QID|5202| |N|Kill Jaedenar Enforcers, Jaedenar Darkweavers, Jaedenar Warlocks and Jaedenar Legionnaires. Loot them for a [Blood Red Key]| |Z|Felwood|
 T A Strange Red Key |QID|5202| |N|Captured Arko'narin - (36.2, 55.5)| |Z|Felwood|
 A Rescue From Jaedenar |QID|5203| |N|Captured Arko'narin - (36.2, 55.5)| |Z|Felwood|
 C Dousing the Flames of Protection |QID|5165| |N|Click the four Braziers on the ground (36.3, 56.3)| |O| |Z|Felwood|
-N |cRXP_WARN_After exiting Shadow Hold, you will need to kill the Spirit of Trey Lightforge. Let Arko'narin tank him as much as possible |N|(35.4, 59.0)| |Z|Felwood|
-C Rescue From Jaedenar |QID|5203| |N||cRXP_WARN_Escort Arko'narin through Shadow Hold. Once you approach the final Brazier, 3 Felguards will spawn which you will have to deal with (35.4, 59.0)| |Z|Felwood|
+N After exiting Shadow Hold, you will need to kill the Spirit of Trey Lightforge. Let Arko'narin tank him as much as possible |N|(35.4, 59.0)| |Z|Felwood|
+C Rescue From Jaedenar |QID|5203| |N|Escort Arko'narin through Shadow Hold. Once you approach the final Brazier, 3 Felguards will spawn which you will have to deal with (35.4, 59.0)| |Z|Felwood|
 C Dousing the Flames of Protection |QID|5165| |N|Click the four Braziers on the ground (36.3, 56.3)| |Z|Felwood|
 R the Felwood graveyard |N|(49.5, 29.7)| |O| |Z|Felwood|
 N Use the [Flute of the Ancients] once you are at the graveyard to summon Arei |N|(49.6, 30.4)| |Z|Felwood|
 A Ancient Spirit |QID|4261| |N|Arei - (49.6, 30.4)| |Z|Felwood|
 C Ancient Spirit |QID|4261| |Z|Felwood|
 A Deadwood of the North |QID|8461| |N|Nafien - (64.8, 8.1)| |Z|Felwood|
-N |cRXP_WARN_If you find the [Deadwood Ritual Totem], don't start the quest from this item yet |N|(62.6, 10.1)| |Z|Felwood|
+N If you find the [Deadwood Ritual Totem], don't start the quest from this item yet |N|(62.6, 10.1)| |Z|Felwood|
 C Deadwood of the North |QID|8461| |N|Deadwood Den Watchers, Deadwood Den Avengers and Deadwood Den Shamans (62.6, 10.1)| |Z|Felwood|
 T Deadwood of the North |QID|8461| |N|Nafien - (64.8, 8.1)| |Z|Felwood|
 A Speak to Salfa |QID|8465| |N|Nafien - (64.8, 8.1)| |Z|Felwood|
@@ -50,13 +50,13 @@ T The New Springs |QID|980| |N|Donova Snowden - (31.3, 45.2)| |Z|Winterspring|
 A Strange Sources |QID|4842| |N|Donova Snowden - (31.3, 45.2)| |Z|Winterspring|
 A Threat of the Winterfall |QID|5082| |N|Donova Snowden - (31.3, 45.2)| |Z|Winterspring|
 C Threat of the Winterfall |QID|5082| |N|Winterfall Pathfinders, Winterfall Den Watchers and Winterfall Totemics (41.6, 42.8)| |Z|Winterspring|
-C Winterfall Firewater |QID|5083| |N|Kill Winterfall Furbolgs. Loot them for a [Empty Firewater Flask]| |Z|Winterspring|
+C Winterfall Furbolgs. Loot them for a [Empty Firewater Flask] |QID|5083| |L|12771 1| |N|Kill Winterfall Furbolgs. Loot them for a [Empty Firewater Flask]| |Z|Winterspring|
 A Winterfall Firewater |QID|5083| |N|Kill Winterfall Furbolgs. Loot them for a [Empty Firewater Flask]| |Z|Winterspring|
-N |cRXP_WARN_Be ready to move away from Donova Snowden quickly as after you turn in Winterfall Runners, 3 Winterfall Ambushers will attack her location |N|(31.3, 45.2)| |Z|Winterspring|
+N Be ready to move away from Donova Snowden quickly as after you turn in Winterfall Runners, 3 Winterfall Ambushers will attack her location |N|(31.3, 45.2)| |Z|Winterspring|
 T Threat of the Winterfall |QID|5082| |N|Donova Snowden - (31.3, 45.2)| |Z|Winterspring|
 T Winterfall Firewater |QID|5083| |N|Donova Snowden - (31.3, 45.2)| |Z|Winterspring|
 A Falling to Corruption |QID|5084| |N|Donova Snowden - (31.3, 45.2)| |Z|Winterspring|
-N |cRXP_WARN_If you create an escape path, you can simply click the Deadwood Cauldron and then run away. You don't need to kill all surrounding Furbolgs |N|(60.2, 5.8)| |Z|Felwood|
+N If you create an escape path, you can simply click the Deadwood Cauldron and then run away. You don't need to kill all surrounding Furbolgs |N|(60.2, 5.8)| |Z|Felwood|
 T Falling to Corruption |QID|5084| |N|the Deadwood Cauldron in the northern Furbolg camp - (60.2, 5.8)| |Z|Felwood|
 A Mystery Goo |QID|5085| |N|the Deadwood Cauldron in the northern Furbolg camp - (60.2, 5.8)| |Z|Felwood|
 T Mystery Goo |QID|5085| |N|Donova Snowden - (31.3, 45.2)| |Z|Winterspring|
@@ -113,7 +113,7 @@ C Retribution of the Light |QID|5204| |N|Rakaiah (38.5, 50.4)| |Z|Felwood|
 T Retribution of the Light |QID|5204| |N|the Remains of Trey Lightforge - (38.5, 50.4)| |Z|Felwood|
 A The Remains of Trey Lightforge |QID|5385| |N|the Remains of Trey Lightforge - (38.5, 50.4)| |Z|Felwood|
 N Kill Salia, Moora and Shadow Lord Fel'dan. Loot him for his Head |N|(38.8, 46.8)| |Z|Felwood|
-N |cRXP_WARN_Kill Salia first as she casts [Mind Control] |N|(38.8, 46.8)| |Z|Felwood|
+N Kill Salia first as she casts [Mind Control] |N|(38.8, 46.8)| |Z|Felwood|
 C A Final Blow |QID|5242| |N|Continue further into Shadow Hold (38.8, 46.8)| |Z|Felwood|
 C Silver Heart |QID|4084| |N|Kill Felpaw Scavenger (ST Dungeon Quest)| |D|ST| |Z|Felwood|
 C Silver Heart |QID|4084| |N|Irontree Stompers or Irontree Wanderers. Loot them for their Irontree Heart (51.8, 25.5) (ST Dungeon Quest)| |D|ST| |Z|Felwood|

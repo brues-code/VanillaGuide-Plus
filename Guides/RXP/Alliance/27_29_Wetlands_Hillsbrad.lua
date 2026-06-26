@@ -29,7 +29,7 @@ T Seeking Wisdom |QID|269| |N|Bishop Farthing - (39.1, 27.9)| |Z|Stormwind City|
 A The Doomed Fleet |QID|270| |N|Bishop Farthing - (39.1, 27.9)| |Z|Stormwind City|
 A Tinkmaster Overspark |QID|2923| |N|Brother Sarno - (40.6, 31.0)| |Z|Stormwind City|
 R the Stormwind Keep |N|(72.0, 21.5)| |O| |Z|Stormwind City|
-N |cRXP_WARN_If you found [An Old History Book] you may turn it in |N|(74.2, 7.5)| |Z|Stormwind City|
+N If you found [An Old History Book] you may turn it in |N|(74.2, 7.5)| |Z|Stormwind City|
 T An Old History Book |QID|337| |N|Milton Sheaf - (74.2, 7.5)| |Z|Stormwind City|
 t Train your class spells |N|Einris Brightspear - (61.6, 15.3)| |C|Hunter| |Z|Stormwind City|
 R Travel to Ironforge |N|(69.5, 50.3)| |Z|Ironforge|
@@ -65,7 +65,7 @@ C Digging Through the Ooze |QID|470| |N|Crimson Oozes, Monstrous Oozes and Black
 N You don't have to complete this objective now but try to make at least some progress |N|(43.0, 33.2)| |O| |Z|Wetlands|
 C Fire Taboo |QID|277| |N|the Mosshides on the way to the Orc camp. Loot them for their Crude Flints (43.0, 33.2)| |O| |Z|Wetlands|
 R Head to the Dragonmaw Orc encampment |N|(43.0, 41.6)| |Z|Wetlands|
-N |cRXP_WARN_Be aware the Dragonmaw Raiders will cast [Net] on you |N|(45.2, 44.3)| |Z|Wetlands|
+N Be aware the Dragonmaw Raiders will cast [Net] on you |N|(45.2, 44.3)| |Z|Wetlands|
 C War Banners |QID|464| |N|Dragonmaw Orcs. Loot them for their War Banners (45.2, 44.3)| |Z|Wetlands|
 R Head towards the mountain shortcut |N|(38.8, 49.0)| |O| |Z|Wetlands|
 A Ormer's Revenge |QID|294| |N|Ormer Ironbraid - (38.2, 50.9)| |C|!Hunter| |Z|Wetlands|
@@ -73,9 +73,9 @@ T In Search of The Excavation Team |QID|305| |N|Merrin Rockweaver and Prospector
 A In Search of The Excavation Team |QID|306| |N|Merrin Rockweaver and Prospector Whelgar - (38.9, 52.3)| |Z|Wetlands|
 A Uncovering the Past |QID|299| |N|Merrin Rockweaver and Prospector Whelgar - (38.9, 52.3)| |Z|Wetlands|
 C The Absent Minded Prospector |QID|943| |N|Flagongut's Fossil on the ground (38.9, 52.2)| |Z|Wetlands|
-N |cRXP_WARN_Don't go out of your way to complete this now. You will kill different Raptors later |C|Hunter| |Z|Wetlands|
+N Don't go out of your way to complete this now. You will kill different Raptors later |C|Hunter| |Z|Wetlands|
 C The Absent Minded Prospector |QID|943| |N|Kill Mottled Raptors and Mottled Screechers. Loot them for the Stone of Relu| |C|Hunter| |Z|Wetlands|
-N |cRXP_WARN_The Fragments have random spawn locations in the Excavation Site |N|(36.6, 42.2)| |C|Hunter| |Z|Wetlands|
+N The Fragments have random spawn locations in the Excavation Site |N|(36.6, 42.2)| |C|Hunter| |Z|Wetlands|
 C Uncovering the Past |QID|299| |N|the Ancient Relics and Loose Soil. Loot them for the Fragments (36.6, 42.2)| |C|Hunter| |Z|Wetlands|
 T Uncovering the Past |QID|299| |N|Prospector Whelgar - (38.8, 52.4)| |C|Hunter| |Z|Wetlands|
 C Fire Taboo |QID|277| |N|the Mosshides. Loot them for their Crude Flints (43.0, 33.2)| |Z|Wetlands|
@@ -102,7 +102,7 @@ C The Absent Minded Prospector |QID|943| |N|Kill Mottled Razormaw| |Z|Wetlands|
 C Ormer's Revenge |QID|294| |N|Mottled Raptors and Mottled Screechers (22.8, 50.6)| |C|!Hunter| |Z|Wetlands|
 T Ormer's Revenge |QID|294| |N|Ormer Ironbraid - (38.2, 50.9)| |C|!Hunter| |Z|Wetlands|
 A Ormer's Revenge |QID|295| |N|Ormer Ironbraid - (38.2, 50.9)| |C|!Hunter| |Z|Wetlands|
-N |cRXP_WARN_The Fragments have random spawn locations in the Excavation Site |N|(36.6, 42.2)| |O| |C|!Hunter| |Z|Wetlands|
+N The Fragments have random spawn locations in the Excavation Site |N|(36.6, 42.2)| |O| |C|!Hunter| |Z|Wetlands|
 C Uncovering the Past |QID|299| |N|the Ancient Relics and Loose Soil. Loot them for the Fragments (36.6, 42.2)| |O| |C|!Hunter| |Z|Wetlands|
 C Ormer's Revenge |QID|295| |N|Mottled Scytheclaws and Mottled Razormaws (34.3, 47.8)| |C|!Hunter| |Z|Wetlands|
 T Ormer's Revenge |QID|295| |N|Ormer Ironbraid - (38.2, 50.9)| |C|!Hunter| |Z|Wetlands|
@@ -110,7 +110,7 @@ A Ormer's Revenge |QID|296| |N|Ormer Ironbraid - (38.2, 50.9)| |C|!Hunter| |Z|We
 T Uncovering the Past |QID|299| |N|(38.8, 52.4)| |C|!Hunter| |Z|Wetlands|
 N Be careful as he can [Thrash] hitting you 3 times at once |N|(33.2, 51.5)| |C|!Hunter| |Z|Wetlands|
 C Ormer's Revenge |QID|296| |N|Sarltooth. Loot him for his Talon (33.2, 51.5)| |C|!Hunter| |Z|Wetlands|
-N |cRXP_WARN_The Fragments have random spawn locations in the Excavation Site |N|(36.6, 42.2)| |C|!Hunter| |Z|Wetlands|
+N The Fragments have random spawn locations in the Excavation Site |N|(36.6, 42.2)| |C|!Hunter| |Z|Wetlands|
 C Uncovering the Past |QID|299| |N|the Ancient Relics and Loose Soil. Loot them for the Fragments (36.6, 42.2)| |C|!Hunter| |Z|Wetlands|
 T Ormer's Revenge |QID|296| |N|Ormer Ironbraid and Prospector Whelgar - (38.2, 50.9)| |C|!Hunter| |Z|Wetlands|
 T Uncovering the Past |QID|299| |N|Ormer Ironbraid and Prospector Whelgar - (38.2, 50.9)| |C|!Hunter| |Z|Wetlands|
@@ -162,14 +162,14 @@ N Dark Iron Demolitionists will continously throw [Bombs] from range |N|(62.5, 2
 C The Dark Iron War |QID|303| |N|Dark Iron Dwarves, Dark Iron Tunnelers, Dark Iron Saboteurs and Dark Iron Demolitionists (62.5, 28.4)| |Z|Wetlands|
 T The Dark Iron War |QID|303| |N|Motley Garmason - (49.7, 18.2)| |Z|Wetlands|
 T A Grim Task |QID|304| |N|Longbraid the Grim - (49.8, 18.3)| |Z|Wetlands|
-N |cRXP_WARN_Ensure you are on full HP before going down the Spiral Staircase. There are 2 Elite Dark Iron Sabotuers. Cast any crowd-control abilities on them when once you go down and then run past them. Run back up and out after |N|(51.3, 8.0)| |Z|Wetlands|
+N Ensure you are on full HP before going down the Spiral Staircase. There are 2 Elite Dark Iron Sabotuers. Cast any crowd-control abilities on them when once you go down and then run past them. Run back up and out after |N|(51.3, 8.0)| |Z|Wetlands|
 T The Thandol Span |QID|631| |N|on Ebenezer Rustlocke's Corpse - (51.3, 8.0)| |Z|Wetlands|
 A The Thandol Span |QID|632| |N|on Ebenezer Rustlocke's Corpse - (51.3, 8.0)| |Z|Wetlands|
 T The Thandol Span |QID|632| |N|Rhag Garmason - (49.9, 18.2)| |Z|Wetlands|
 A The Thandol Span |QID|633| |N|Rhag Garmason - (49.9, 18.2)| |Z|Wetlands|
 N Open the Waterlogged Letter. Loot it for the [Waterlogged Envelope] |N|(44.3, 92.9)| |Z|Arathi Highlands|
-N |cRXP_WARN_Use the [Waterlogged Envelope] to start the quest |N|(44.3, 92.9)| |Z|Arathi Highlands|
-C Sully Balloo's Letter |QID|637| |N|Dive down underwater (44.3, 92.9)| |Z|Arathi Highlands|
+N Use the [Waterlogged Envelope] to start the quest |N|(44.3, 92.9)| |Z|Arathi Highlands|
+C Dive down underwater |QID|637| |L|4433 1| |N|Dive down underwater - (44.3, 92.9)| |Z|Arathi Highlands|
 A Sully Balloo's Letter |QID|637| |N|Dive down underwater - (44.3, 92.9)| |Z|Arathi Highlands|
 R Swim east toward the ramp here |N|(52.5, 90.4)| |O| |Z|Arathi Highlands|
 C The Thandol Span |QID|633| |N|the Cache of Explosives (48.8, 88.1)| |Z|Arathi Highlands|
@@ -181,14 +181,14 @@ f Get the Arathi Highlands Flight Path |N|Cedrik Prose - (45.7, 46.1) (SFK Dunge
 F Fly to Southshore |N|Cedrik Prose - (45.7, 46.1) (SFK Dungeon Quest)| |D|SFK| |Z|Arathi Highlands|
 f Get the Arathi Highlands Flight Path |N|Cedrik Prose - (45.7, 46.1) (!SFK Dungeon Quest)| |D|!SFK| |Z|Arathi Highlands|
 N If you manage to kill one you will be able to loot an item that starts a quest: [Assassin's Contract]. The event is rare and the mobs are hard to kill at this level so do not go out of your way to try to get it |O| |Z|Arathi Highlands|
-C Be careful while entering Southshore! Every now and then level 37-38 [Stealthed] Shadowy Assassins ambush the town! |N|Be careful while entering Southshore! Every now and then level 37-38 [Stealthed] Shadowy Assassins ambush the town!| |O| |Z|Arathi Highlands|
+C Be careful while entering Southshore! Every now and then level 37-38 [Stealthed] Shadowy Assassins ambush the town! |L|3668 1| |N|Be careful while entering Southshore! Every now and then level 37-38 [Stealthed] Shadowy Assassins ambush the town!| |O| |Z|Arathi Highlands|
 N Wesley |N|(50.4, 58.8)| |C|Hunter| |Z|Arathi Highlands|
 R Travel to Hillsbrad Foothills |N|(50.4, 58.8)| |C|Hunter| |Z|Hillsbrad Foothills|
 f Get the Southshore Flight Path |N|Darla Harris - (49.3, 52.3) (!SFK Dungeon Quest)| |D|!SFK| |Z|Hillsbrad Foothills|
-t Attack mobs with it to learn [Bite (Rank 4)] |N|Cast [Tame Beast] |cRXP_WARN_on a Elder Moss Creeper to tame it - (56.6, 53.8)| |C|Hunter| |Z|Hillsbrad Foothills|
+t Attack mobs with it to learn [Bite (Rank 4)] |N|Cast [Tame Beast] on a Elder Moss Creeper to tame it - (56.6, 53.8)| |C|Hunter| |Z|Hillsbrad Foothills|
 N Wesley |N|(50.4, 58.8)| |C|Hunter| |Z|Hillsbrad Foothills|
-C them for Turtle Meat. You will need 10 for a quest later. Don't go out of your way to farm it now |N|(65.4, 39.4)| |C|Hunter| |Z|Hillsbrad Foothills|
-C Collect item |N|(65.4, 39.4)| |O| |C|!Hunter| |Z|Hillsbrad Foothills|
+C them for Turtle Meat. You will need 10 for a quest later. Don't go out of your way to farm it now |L|3712 10| |N|(65.4, 39.4)| |C|Hunter| |Z|Hillsbrad Foothills|
+C Snapjaws along the river and farm about 5 Turtle Meat, you'll need 10 for a quest later, don't go out of your way to kill them |L|3712 5| |N|(65.4, 39.4)| |O| |C|!Hunter| |Z|Hillsbrad Foothills|
 T The Eye of Paleth |QID|292| |N|Glorin Steelbrow - (10.6, 60.6)| |Z|Wetlands|
 A Cleansing the Eye |QID|293| |N|Glorin Steelbrow - (10.6, 60.6)| |Z|Wetlands|
 A Lightforge Iron |QID|321| |N|Glorin Steelbrow - (10.6, 60.6)| |Z|Wetlands|

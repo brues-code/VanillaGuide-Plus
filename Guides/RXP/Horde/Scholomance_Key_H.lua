@@ -4,7 +4,7 @@ return [[
 
 N Scholomance Key (H) |N|Converted from RestedXP guide|
 
-C Fire Plume Forged |QID|5801| |N|Go to the Auction House in any Major city and buy 2 [Thorium Bars] Thorium Bar x2|
+B Thorium Bar x2 |L|12359 2| |N|Go to the Auction House in any Major city and buy 2 [Thorium Bars]|
 R Travel to Undercity |N|(66.1, 54.6)| |Z|Undercity|
 A A Call to Arms: The Plaguelands! |QID|5093| |N|Harbinger Balthaza - (70.8, 51.5)| |Z|Undercity|
 N This quest can be also be accepted in Orgrimmar or Thunder Bluff |N|(70.8, 51.5)| |Z|Undercity|
@@ -14,7 +14,7 @@ T A Call to Arms: The Plaguelands! |QID|5094| |N|Derrington - (83.2, 68.9)| |O| 
 A Scarlet Diversions |QID|5096| |N|Derrington - (83.2, 68.9)| |O| |Z|Tirisfal Glades|
 T A Call to Arms: The Plaguelands! |QID|5095| |N|Derrington - (83.2, 68.9)| |Z|Tirisfal Glades|
 A Scarlet Diversions |QID|5096| |N|Derrington - (83.2, 68.9)| |Z|Tirisfal Glades|
-C A Call to Arms: The Plaguelands! |QID|5095| |N|the Box of Incendiaries by the fire Flame in a Bottle (1)| |Z|Western Plaguelands|
+C Flame in a Bottle (1) |QID|5095| |L|12814 1| |N|the Box of Incendiaries by the fire (26.6, 56.2)| |Z|Western Plaguelands|
 A Scarlet Diversions |QID|5096| |N|Derrington - (83.2, 68.9)| |Z|Tirisfal Glades|
 R Travel to Western Plaguelands |N|(40.5, 51.8)| |Z|Western Plaguelands|
 C Scarlet Diversions |QID|5096| |N|These mobs are relatively difficult and can chain-pull each other, so be careful Destroy the command tent and plant the Scourge banner in the camp (1)| |Z|Western Plaguelands|
@@ -36,7 +36,7 @@ A Mold Rhymes With... |QID|5514| |N|Dithers - (83.3, 69.2)| |Z|Tirisfal Glades|
 N Turning in this quest requires you to pay 15 Gold |N|(51.5, 28.8)| |Z|Tanaris|
 T Mold Rhymes With... |QID|5514| |N|Krinkle Goodsteel - (51.5, 28.8)| |Z|Tanaris|
 A Fire Plume Forged |QID|5802| |N|Krinkle Goodsteel - (51.5, 28.8)| |Z|Tanaris|
-C Fire Plume Forged |QID|5802| |N|If you did not buy them earlier, go to the Auction House in any Major city and buy 2 [Thorium Bars] Thorium Bar x2| |Z|Tanaris|
+B Thorium Bar x2 |L|12359 2| |N|If you did not buy them earlier, go to the Auction House in any Major city and buy 2 [Thorium Bars]| |Z|Tanaris|
 F Fly to Un'Goro Crater |N|Runk - (48.7, 36.7)| |O| |Z|Silithus|
 R the top of the mountain at Fire Plume Ridge |N|(49.6, 47.6)| |O| |Z|Un'Goro Crater|
 C Fire Plume Forged |QID|5802| |N|Unfinished Skeleton Key (1)| |Z|Un'Goro Crater|

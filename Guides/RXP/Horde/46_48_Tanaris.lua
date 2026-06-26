@@ -14,7 +14,7 @@ A Report Back to Fizzlebub |QID|1122| |N|Kravel - (77.8, 77.3)| |Z|Thousand Need
 A Thistleshrub Valley |QID|3362| |N|Tran'rek - (51.6, 26.8)| |Z|Tanaris|
 T Safety First |QID|1188| |N|Shreev - (51.0, 27.3)| |Z|Tanaris|
 A Gadgetzan Water Survey |QID|992| |N|Fizzledowser - (50.2, 27.5)| |Z|Tanaris|
-C Gadgetzan Water Survey |QID|992| |N||cRXP_WARN_Be careful! Two Centipaar Tunnelers (level 48) will spawn after completion. Prepare to run away from them (39.1, 29.3)| |Z|Tanaris|
+C Gadgetzan Water Survey |QID|992| |N|Be careful! Two Centipaar Tunnelers (level 48) will spawn after completion. Prepare to run away from them (39.1, 29.3)| |Z|Tanaris|
 T Gadgetzan Water Survey |QID|992| |N|Fizzledowser - (50.2, 27.5)| |Z|Tanaris|
 A Noxious Lair Investigation |QID|82| |N|Fizzledowser - (50.2, 27.5)| |Z|Tanaris|
 A WANTED: Andre Firebeard |QID|2875| |N|the Wanted Poster by the giant cage - (51.9, 27.0)| |Z|Tanaris|
@@ -36,24 +36,24 @@ T Screecher Spirits |QID|3520| |N|Yeh'kinya - (67.0, 22.4)| |Z|Tanaris|
 A Southsea Shakedown |QID|8366| |N|Bilgewhizzle and Stoley - (67.1, 23.9)| |Z|Tanaris|
 A Stoley's Shipment |QID|2873| |N|Bilgewhizzle and Stoley - (67.1, 23.9)| |Z|Tanaris|
 N Open the [Pirate's Footlocker] until you find the [Ship Schedule] |O| |Z|Tanaris|
-N |cRXP_WARN_Don't start the quest for the [Ship Schedule] yet. This has a low drop chance, skip it if needed |O| |Z|Tanaris|
+N Don't start the quest for the [Ship Schedule] yet. This has a low drop chance, skip it if needed |O| |Z|Tanaris|
 C Southsea Shakedown |QID|8366| |N|Kill Southsea Pirates, Southsea Freebooters, Southsea Dock Workers and Southsea Swashbucklers. Loot them for their Pirate Hats and [Pirate's Footlocker]| |O| |Z|Tanaris|
 C Pirate Hats Ahoy! |QID|8365| |N|Kill Southsea Pirates, Southsea Freebooters, Southsea Dock Workers and Southsea Swashbucklers. Loot them for their Pirate Hats and [Pirate's Footlocker]| |O| |Z|Tanaris|
-C Ship Schedules |QID|2876| |N|Kill Southsea Pirates, Southsea Freebooters, Southsea Dock Workers and Southsea Swashbucklers. Loot them for their Pirate Hats and [Pirate's Footlocker]| |O| |Z|Tanaris|
+C Southsea Pirates, Southsea Freebooters, Southsea Dock Workers and Southsea Swashbucklers. Loot them for their Pirate Hats and [Pirate's Footlocker] |QID|2876| |L|9250 1| |N|Kill Southsea Pirates, Southsea Freebooters, Southsea Dock Workers and Southsea Swashbucklers. Loot them for their Pirate Hats and [Pirate's Footlocker]| |O| |Z|Tanaris|
 C Stoley's Shipment |QID|2873| |N|Loot the Stolen Cargo for Stoley's Shipment on the second floor of the western house| |O| |Z|Tanaris|
 N He pulls with nearby mobs. Split-pull him if you can |N|(73.4, 47.1)| |C|Mage/Warlock| |Z|Tanaris|
 C WANTED: Andre Firebeard |QID|2875| |N|Andre Firebeard. Loot him for his Head (73.4, 47.1)| |Z|Tanaris|
 C Stoley's Shipment |QID|2873| |N|the Stolen Cargo for Stoley's Shipment on the second floor of the western house (72.2, 46.8)| |Z|Tanaris|
 N Open the [Pirate's Footlocker] until you find the [Ship Schedule] |N|(71.1, 42.9)| |Z|Tanaris|
-N |cRXP_WARN_Don't start the quest for the [Ship Schedule] yet. This has a low drop chance, skip it if needed |N|(71.1, 42.9)| |Z|Tanaris|
+N Don't start the quest for the [Ship Schedule] yet. This has a low drop chance, skip it if needed |N|(71.1, 42.9)| |Z|Tanaris|
 C Southsea Shakedown |QID|8366| |N|Kill Southsea Pirates, Southsea Freebooters, Southsea Dock Workers and Southsea Swashbucklers. Loot them for their Pirate Hats and [Pirate's Footlocker] (71.1, 42.9)| |Z|Tanaris|
 C Pirate Hats Ahoy! |QID|8365| |N|Kill Southsea Pirates, Southsea Freebooters, Southsea Dock Workers and Southsea Swashbucklers. Loot them for their Pirate Hats and [Pirate's Footlocker] (75.2, 45.8)| |Z|Tanaris|
-C Ship Schedules |QID|2876| |N|Kill Southsea Pirates, Southsea Freebooters, Southsea Dock Workers and Southsea Swashbucklers. Loot them for their Pirate Hats and [Pirate's Footlocker] (72.2, 46.8)| |Z|Tanaris|
+C Southsea Pirates, Southsea Freebooters, Southsea Dock Workers and Southsea Swashbucklers. Loot them for their Pirate Hats and [Pirate's Footlocker] |QID|2876| |L|9250 1| |N|Kill Southsea Pirates, Southsea Freebooters, Southsea Dock Workers and Southsea Swashbucklers. Loot them for their Pirate Hats and [Pirate's Footlocker] (72.2, 46.8)| |Z|Tanaris|
 R Southsea Pirates |N|(72.2, 44.4)| |Z|Tanaris|
 T The Sunken Temple |QID|3380| |N|Marvon - (52.7, 45.9)| |O| |Z|Tanaris|
 A Gahz'ridian |QID|3161| |N|Marvon - (52.7, 45.9)| |Z|Tanaris|
 N Be careful of Centipaar Swarmers. They can spawn many minions and social aggro from great distances |N|(30.8, 46.1)| |Z|Tanaris|
-N All Centipaar cast [Thrash] |cRXP_WARN_(Charges 2 extra attacks every 10 seconds) |N|(30.8, 46.1)| |Z|Tanaris|
+N All Centipaar cast [Thrash] (Charges 2 extra attacks every 10 seconds) |N|(30.8, 46.1)| |Z|Tanaris|
 C Noxious Lair Investigation |QID|82| |N|Centipaar Silithids. Loot them for their Insect Parts (30.8, 46.1)| |Z|Tanaris|
 N Avoid Dunemaul Warlocks, as they have Curse of Thorns |O| |C|Rogue/Warrior/Shaman/Paladin/Hunter| |Z|Tanaris|
 C The Dunemaul Compound |QID|5863| |N|Kill Dunemaul Brutes and Dunemaul Enforcers| |O| |Z|Tanaris|
@@ -83,8 +83,8 @@ N You will fail the quest if you get too far away from him |N|(66.6, 25.6)| |Z|T
 N This quest has a 30 minute timer! |N|(66.6, 25.6)| |Z|Tanaris|
 C Guide Tooga toward Steamwheedle Port |QID|1560| |N|Guide Tooga toward Steamwheedle Port - (66.6, 25.6)| |Z|Tanaris|
 T Tooga's Quest |QID|1560| |N|Torta - (66.6, 25.6)| |Z|Tanaris|
-N |cRXP_WARN_You may need to accept this after turning in to Security Chief Bilgewhizzle and Stoley |Z|Tanaris|
-A Ship Schedules |QID|2876| |N||cRXP_WARN_Use the [Ship Schedule] to start the quest| |Z|Tanaris|
+N You may need to accept this after turning in to Security Chief Bilgewhizzle and Stoley |Z|Tanaris|
+A Ship Schedules |QID|2876| |N|Use the [Ship Schedule] to start the quest| |Z|Tanaris|
 T WANTED: Andre Firebeard |QID|2875| |N|Bilgewhizzle and Stoley - (67.1, 23.9)| |Z|Tanaris|
 T Southsea Shakedown |QID|8366| |N|Bilgewhizzle and Stoley - (67.1, 23.9)| |Z|Tanaris|
 T Ship Schedules |QID|2876| |N|Bilgewhizzle and Stoley - (67.1, 23.9)| |Z|Tanaris|
@@ -97,7 +97,7 @@ A Deliver to MacKinley |QID|2874| |N|Bilgewhizzle and Stoley - (67.1, 23.9)| |O|
 T Pirate Hats Ahoy! |QID|8365| |N|Haughty - (66.6, 22.3)| |Z|Tanaris|
 A The Prophecy of Mosh'aru |QID|3527| |N|Yeh'kinya again - (67.0, 22.4) (ZF Dungeon Quest)| |D|ZF| |Z|Tanaris|
 N Buy [Jagged Arrows] from him |N|(67.0, 22.0)| |C|Hunter| |Z|Tanaris|
-C The Scrimshank Redemption |QID|10| |N|Jabbey (67.0, 22.0)| |C|Hunter| |Z|Tanaris|
+B Jabbey |L|11285 2600| |N|Jabbey - (67.0, 22.0)| |C|Hunter| |Z|Tanaris|
 B Sell your junk, then restock on food and water if necessary |N|Dirge Quikcleave - (52.6, 28.1)| |C|!Rogue/!Warrior| |Z|Tanaris|
 B Sell your junk, then restock on food if necessary |N|Dirge Quikcleave - (52.6, 28.1)| |C|Rogue/Warrior| |Z|Tanaris|
 T The Thirsty Goblin |QID|2605| |N|Marin - (51.8, 28.6)| |Z|Tanaris|
@@ -109,7 +109,7 @@ A The Scrimshank Redemption |QID|10| |N|Fizzledowser - (50.2, 27.5)| |Z|Tanaris|
 T Thistleshrub Valley |QID|3362| |N|Tran'rek - (51.5, 26.8)| |Z|Tanaris|
 T The Dunemaul Compound |QID|5863| |N|Andi - (52.8, 27.4)| |Z|Tanaris|
 T Gahz'ridian |QID|3161| |N|Marvon - (52.7, 45.9)| |Z|Tanaris|
-N |cRXP_WARN_Be extremely cautious of Hazzali Swarmers as they can rapidly summon adds which deal high damage. They can also social aggro other mobs from extreme distances |N|(56.0, 71.2)| |Z|Tanaris|
+N Be extremely cautious of Hazzali Swarmers as they can rapidly summon adds which deal high damage. They can also social aggro other mobs from extreme distances |N|(56.0, 71.2)| |Z|Tanaris|
 C The Scrimshank Redemption |QID|10| |N|Enter the silithid hive, then click the Scrimshank's Surveying Gear console and loot Scrimshank's Surveying Gear (56.0, 71.2)| |Z|Tanaris|
 T Find OOX-17/TN! |QID|351| |N|Homing Robot OOX-17/TN - (60.2, 64.7)| |O| |Z|Tanaris|
 N This quest can be difficult. Eat/drink to full and apply any self-buffs (scrolls, food, elixirs, etc.) |N|(60.2, 64.7)| |O| |Z|Tanaris|
@@ -133,8 +133,8 @@ C Troll Temper |QID|3042| |N|Kill Trolls. Loot them for their Troll Temper (ZF D
 C Scarab Shells |QID|2865| |N|Kill Scarabs. Loot them for their Uncracked Scarab Shell (ZF Dungeon Quest)| |D|ZF| |Z|Tanaris|
 C The Prophecy of Mosh'aru |QID|3527| |N|Kill Theka the Martyr. Loot him for the First Mosh'aru Tablet (ZF Dungeon Quest)| |D|ZF| |Z|Tanaris|
 C Scarab Shells |QID|2865| |N|Kill Scarabs. Loot them for their Uncracked Scarab Shell (ZF Dungeon Quest)| |D|ZF| |Z|Tanaris|
-N Use the Executioner's Key |cRXP_WARN_on one of the Troll Cages to free Sergeant Bly and his band |N|(ZF Dungeon Quest)| |D|ZF| |Z|Tanaris|
-C Anyone in the party may loot the Key |N|Anyone in the party may loot the Key (ZF Dungeon Quest)| |D|ZF| |Z|Tanaris|
+N Use the Executioner's Key on one of the Troll Cages to free Sergeant Bly and his band |N|(ZF Dungeon Quest)| |D|ZF| |Z|Tanaris|
+C Ascend the Pyramid |L|8444 1| |N|Anyone in the party may loot the Key (ZF Dungeon Quest)| |D|ZF| |Z|Tanaris|
 N Kill Nekrum Gutchewer. Eat and drink then Sergeant Bly to fight him |N|(ZF Dungeon Quest)| |D|ZF| |Z|Tanaris|
 N Kill Sergeant Bly. Loot him for the Divino-matic Rod |N|(ZF Dungeon Quest)| |D|ZF| |Z|Tanaris|
 C Divino-matic Rod |QID|2768| |N|Defend Sergeant Bly and his band, then move down with them after a short period of time (ZF Dungeon Quest)| |D|ZF| |Z|Tanaris|
@@ -144,7 +144,7 @@ C Tiara of the Deep |QID|2846| |N|Kill Hydromancer Velratha. Loot her for the Ti
 C The Prophecy of Mosh'aru |QID|3527| |N|Kill Hydromancer Velratha. Loot her for the Second Mosh'aru Tablet (ZF Dungeon Quest)| |D|ZF| |Z|Tanaris|
 N Kill Gahz'rilla. Loot him for Gahz'rilla's Electrified Scale |N|(ZF Dungeon Quest)| |D|ZF| |Z|Tanaris|
 N If no one in your party has the [Mallet of Zul'Farrak] you will not be able to summon Gahz'rilla |N|(ZF Dungeon Quest)| |D|ZF| |Z|Tanaris|
-C Gahz'rilla |QID|2770| |N|Use the [Mallet of Zul'Farrak] |cRXP_WARN_on the Gong of Zul'Farrak to summon Gahz'rilla (ZF Dungeon Quest)| |D|ZF| |Z|Tanaris|
+C Gahz'rilla |QID|2770| |N|Use the [Mallet of Zul'Farrak] on the Gong of Zul'Farrak to summon Gahz'rilla (ZF Dungeon Quest)| |D|ZF| |Z|Tanaris|
 C Troll Temper |QID|3042| |N|Kill Trolls. Loot them for their Troll Temper (ZF Dungeon Quest)| |D|ZF| |Z|Tanaris|
 T Troll Temper |QID|3042| |N|Trenton Lighthammer - (51.4, 28.8) (ZF Dungeon Quest)| |D|ZF| |Z|Tanaris|
 T Divino-matic Rod |QID|2768| |N|Chief Engineer Bilgewhizzle - (52.5, 28.5) (ZF Dungeon Quest)| |D|ZF| |Z|Tanaris|

@@ -17,7 +17,7 @@ T The Woodland Protector |QID|458| |N|Tarindrella - (57.9, 45.1)| |C|Hunter| |Z|
 A The Woodland Protector |QID|459| |N|Tarindrella - (57.9, 45.1)| |C|Hunter| |Z|Teldrassil|
 B Vendor trash |N|Dellylah - (59.6, 40.7)| |C|Druid| |Z|Teldrassil|
 N Buy 15 [Refreshing Spring Water] |N|(59.6, 40.7)| |C|Druid| |Z|Teldrassil|
-C Dellylah |N|Dellylah - (59.6, 40.7)| |C|Druid| |Z|Teldrassil|
+B Collect Refreshing Spring Water (x15) |L|159 15| |N|Dellylah - (59.6, 40.7)| |C|Druid| |Z|Teldrassil|
 T The Balance of Nature |QID|456| |N|Conservator Ilthalaine - (58.7, 44.3)| |C|Hunter| |Z|Teldrassil|
 T The Balance of Nature |QID|456| |N|Conservator Ilthalaine - (58.7, 44.3)| |C|!Hunter| |Z|Teldrassil|
 A The Balance of Nature |QID|457| |N|Conservator Ilthalaine - (58.7, 44.3)| |Z|Teldrassil|
@@ -40,7 +40,7 @@ N Make sure that you have 1 silver leftover after leaving the vendor to be able 
 B Buy 2 stacks of [Rough Arrows] |N|Keina - (59.3, 41.1)| |O| |C|Hunter| |Z|Teldrassil|
 B Vendor trash |N|Dellylah - (59.6, 40.7)| |C|Druid| |Z|Teldrassil|
 N Buy 20 [Refreshing Spring Water] |N|(59.6, 40.7)| |C|Druid| |Z|Teldrassil|
-C Dellylah |N|Dellylah - (59.6, 40.7)| |C|Druid| |Z|Teldrassil|
+B Collect Refreshing Spring Water (x20) |L|159 20| |N|Dellylah - (59.6, 40.7)| |C|Druid| |Z|Teldrassil|
 A Webwood Venom |QID|916| |N|Gilshalan Windwalker - (57.8, 41.7)| |Z|Teldrassil|
 G Grind to level 4 |C|Hunter| |Z|Teldrassil|
 N Ayanna Everstride |N|(58.7, 40.4)| |C|Hunter| |Z|Teldrassil|

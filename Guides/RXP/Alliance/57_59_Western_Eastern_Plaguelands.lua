@@ -37,16 +37,16 @@ A Little Pamela |QID|5142| |N|Marlene Redpath - (49.2, 78.6)| |Z|Western Plaguel
 C All Along the Watchtowers |QID|5097| |N|(46.6, 71.2)| |Z|Western Plaguelands|
 N Freezing Ghouls cast [Flash Freeze]. This ability stuns for 5 seconds. Avoid agroing multiple at the same time |N|(53.7, 64.7)| |Z|Western Plaguelands|
 A The Wildlife Suffers Too |QID|4984| |N|Mulgris Deepriver - (53.7, 64.7)| |Z|Western Plaguelands|
-N Diseased Wolves |cRXP_WARN_share spawns with Carrion Lurkers. You may need to kill them to force Diseased Wolves to spawn |N|(46.6, 40.4)| |O| |Z|Western Plaguelands|
+N Diseased Wolves share spawns with Carrion Lurkers. You may need to kill them to force Diseased Wolves to spawn |N|(46.6, 40.4)| |O| |Z|Western Plaguelands|
 C The Wildlife Suffers Too |QID|4984| |N|Diseased Wolves (46.6, 40.4)| |O| |Z|Western Plaguelands|
 C All Along the Watchtowers |QID|5097| |N|(44.2, 63.1)| |Z|Western Plaguelands|
 N Click Mrs. Dalson's Diary on the ground |N|(47.8, 50.7)| |Z|Western Plaguelands|
 A Mrs. Dalson Diary |QID|5058| |N|Enter the Dalson's Tears Barn - (47.8, 50.7)| |Z|Western Plaguelands|
 T Mrs. Dalson Diary |QID|5058| |N|Enter the Dalson's Tears Barn - (47.8, 50.7)| |Z|Western Plaguelands|
-N |cRXP_WARN_The Wandering Skeleton patrols around the Dalson's Tear Barn and House |N|(47.9, 49.9)| |Z|Western Plaguelands|
-C the Wandering Skeleton. Loot it for the Dalson Outhouse Key |QID|5060| |N|the Wandering Skeleton. Loot it for the Dalson Outhouse Key - (47.9, 49.9)| |Z|Western Plaguelands|
+N The Wandering Skeleton patrols around the Dalson's Tear Barn and House |N|(47.9, 49.9)| |Z|Western Plaguelands|
+C the Wandering Skeleton. Loot it for the Dalson Outhouse Key |QID|5060| |L|12738 1| |N|the Wandering Skeleton. Loot it for the Dalson Outhouse Key - (47.9, 49.9)| |Z|Western Plaguelands|
 T Locked Away |QID|5059| |N|the Outhouse to summon Farmer Dalson - (48.1, 49.7)| |O| |Z|Western Plaguelands|
-C Farmer Dalson. Loot him for the Dalson Cabinet Key |QID|5060| |N|Farmer Dalson. Loot him for the Dalson Cabinet Key - (48.1, 49.8)| |Z|Western Plaguelands|
+C Farmer Dalson. Loot him for the Dalson Cabinet Key |QID|5060| |L|12739 1| |N|Farmer Dalson. Loot him for the Dalson Cabinet Key - (48.1, 49.8)| |Z|Western Plaguelands|
 T Locked Away |QID|5060| |N|the Locked Cabinet up stairs in the house - (47.4, 49.6)| |Z|Western Plaguelands|
 N Cauldron Lord Malvinious may spawn as you approach the Cauldron |N|(46.2, 52.4)| |Z|Western Plaguelands|
 C Target: Dalson's Tears |QID|5219| |N|Cauldron Lord Malvinious. Loot him for the Dalson's Tears Cauldron Key (46.2, 52.4)| |Z|Western Plaguelands|
@@ -56,11 +56,11 @@ R Go inside the house |N|(38.0, 54.6)| |O| |Z|Western Plaguelands|
 T Better Late Than Never |QID|5050| |N|Janice through the ground from the 1st floor - (38.4, 54.0)| |Z|Western Plaguelands|
 A Two Halves Become One |QID|5051| |N|Janice through the ground from the 1st floor - (38.4, 54.0)| |Z|Western Plaguelands|
 N He patrols around the Field |N|(38.2, 57.1)| |Z|Western Plaguelands|
-C Two Halves Become One |QID|5051| |N|the Jabbering Ghoul. Loot it for the [Good Luck Other-Half-Charm] (38.2, 57.1)| |Z|Western Plaguelands|
-C Two Halves Become One |QID|5051| |N|Use the [Good Luck Other-Half-Charm] to create the Good Luck Charm| |O| |Z|Western Plaguelands|
+C the Jabbering Ghoul. Loot it for the [Good Luck Other-Half-Charm] |QID|5051| |L|12722 1| |N|the Jabbering Ghoul. Loot it for the [Good Luck Other-Half-Charm] - (38.2, 57.1)| |Z|Western Plaguelands|
+C Use the [Good Luck Other-Half-Charm] to create the Good Luck Charm |QID|5051| |L|12723 1| |N|Use the [Good Luck Other-Half-Charm] to create the Good Luck Charm| |O| |Z|Western Plaguelands|
 R Go inside the house |N|(38.0, 54.6)| |O| |Z|Western Plaguelands|
 T Two Halves Become One |QID|5051| |N|Janice through the ground from the 1st floor - (38.4, 54.0)| |Z|Western Plaguelands|
-N Diseased Wolves |cRXP_WARN_share spawns with Carrion Lurkers. You may need to kill them to force Diseased Wolves to spawn |N|(46.6, 40.4)| |Z|Western Plaguelands|
+N Diseased Wolves share spawns with Carrion Lurkers. You may need to kill them to force Diseased Wolves to spawn |N|(46.6, 40.4)| |Z|Western Plaguelands|
 C The Wildlife Suffers Too |QID|4984| |N|Diseased Wolves (46.6, 40.4)| |Z|Western Plaguelands|
 C All Along the Watchtowers |QID|5097| |N|(42.4, 66.2)| |Z|Western Plaguelands|
 C All Along the Watchtowers |QID|5097| |N|(40.0, 71.7)| |Z|Western Plaguelands|
@@ -96,7 +96,7 @@ A Pamela's Doll |QID|5149| |N|Pamela Redpath - (36.5, 90.7)| |Z|Eastern Plaguela
 T Little Pamela |QID|5142| |N|Pamela Redpath - (36.5, 90.7)| |Z|Eastern Plaguelands|
 A Pamela's Doll |QID|5149| |N|Pamela Redpath - (36.5, 90.7)| |Z|Eastern Plaguelands|
 N They all spawn randomly in any of the 3 buildings in Darrowshire |N|(39.6, 90.1)| |Z|Eastern Plaguelands|
-C Pamela's Doll |QID|5149| |N|[Pamela's Doll's Head], [Pamela's Doll's Left Side] and [Pamela's Doll's Right Side] throughout the buildings (39.6, 90.1)| |Z|Eastern Plaguelands|
+C [Pamela's Doll's Head], [Pamela's Doll's Left Side] and [Pamela's Doll's Right Side] throughout the buildings |QID|5149| |L|12886 1| |N|[Pamela's Doll's Head], [Pamela's Doll's Left Side] and [Pamela's Doll's Right Side] throughout the buildings - (39.6, 90.1)| |Z|Eastern Plaguelands|
 C Pamela's Doll |QID|5149| |N|Use [Pamela's Doll's Head], [Pamela's Doll's Left Side] or [Pamela's Doll's Right Side] to combine them into Pamela's Doll| |Z|Eastern Plaguelands|
 T Pamela's Doll |QID|5149| |N|Pamela Redpath - (36.5, 90.7)| |Z|Eastern Plaguelands|
 A Auntie Marlene |QID|5152| |N|Pamela Redpath - (36.5, 90.7)| |Z|Eastern Plaguelands|
@@ -159,10 +159,10 @@ A The Annals of Darrowshire |QID|5154| |N|Chromie upstairs - (39.5, 66.8)| |Z|We
 A A Matter of Time |QID|4971| |N|Chromie upstairs - (39.5, 66.8)| |Z|Western Plaguelands|
 R Enter the Ruins of Andorhal Town Hall |N|(43.8, 69.2)| |O| |Z|Western Plaguelands|
 N Open the Musty Tomes. Loot them for the Annals of Darrowshire |N|(43.5, 69.5)| |Z|Western Plaguelands|
-N |cRXP_WARN_The correct Musty Tome will have its pages be a completely dark-shade, or have a brown stain. If it's only half white and half black, that is a trap |N|(43.5, 69.5)| |Z|Western Plaguelands|
-N |cRXP_WARN_There can be times where all Musty Tomes are traps and you must open them to force a correct one to spawn |N|(43.5, 69.5)| |Z|Western Plaguelands|
+N The correct Musty Tome will have its pages be a completely dark-shade, or have a brown stain. If it's only half white and half black, that is a trap |N|(43.5, 69.5)| |Z|Western Plaguelands|
+N There can be times where all Musty Tomes are traps and you must open them to force a correct one to spawn |N|(43.5, 69.5)| |Z|Western Plaguelands|
 C The Annals of Darrowshire |QID|5154| |N|Enter the Ruins of Andorhal Town Hall (43.5, 69.5)| |Z|Western Plaguelands|
-N |cRXP_WARN_Multiple Temporal Parasites can spawn at the same time, and once one dies, another one can instantly spawn. They will also keep casting [Slow] on you severely reducing your movement and attack speed |N|(48.1, 66.2)| |Z|Western Plaguelands|
+N Multiple Temporal Parasites can spawn at the same time, and once one dies, another one can instantly spawn. They will also keep casting [Slow] on you severely reducing your movement and attack speed |N|(48.1, 66.2)| |Z|Western Plaguelands|
 N The Parasites cannot swim! If you get overwhelmed try to run into [Water] to evade them |N|(48.1, 66.2)| |Z|Western Plaguelands|
 C A Matter of Time |QID|4971| |N|Temporal Parasites (48.1, 66.2)| |Z|Western Plaguelands|
 T A Matter of Time |QID|4971| |N|Chromie upstairs - (39.5, 66.8)| |Z|Western Plaguelands|
@@ -195,13 +195,13 @@ C Villains of Darrowshire |QID|5181| |N|the Shattered Sword of Marduk on the gro
 T Hameya's Plea |QID|6024| |N|the Mound of Dirt - (28.0, 86.2)| |Z|Eastern Plaguelands|
 T Of Lost Honor |QID|5845| |N|Tirion Fordring - (7.5, 43.6)| |Z|Eastern Plaguelands|
 A Of Love and Family |QID|5846| |N|Tirion Fordring - (7.5, 43.6)| |Z|Eastern Plaguelands|
-N Diseased Grizzlies |cRXP_WARN_share spawns with Plague Lurkers. You may need to kill them to force Diseased Grizzlies to spawn |O| |Z|Eastern Plaguelands|
+N Diseased Grizzlies share spawns with Plague Lurkers. You may need to kill them to force Diseased Grizzlies to spawn |O| |Z|Eastern Plaguelands|
 C The Wildlife Suffers Too |QID|4985| |N|Kill Diseased Grizzlies| |O| |Z|Eastern Plaguelands|
 N Cauldron Lord Soulwrath may spawn as you approach the Cauldron |N|(62.6, 58.9)| |Z|Western Plaguelands|
 C Target: Gahrron's Withering |QID|5225| |N|Cauldron Lord Soulwrath. Loot him for the Gahrron's Withering Cauldron Key (62.6, 58.9)| |Z|Western Plaguelands|
 T Target: Gahrron's Withering |QID|5225| |N|on the Scourge Cauldron - (62.6, 58.6)| |Z|Western Plaguelands|
 A Return to Chillwind Camp |QID|5226| |N|on the Scourge Cauldron - (62.6, 58.6)| |Z|Western Plaguelands|
-N Diseased Grizzlies |cRXP_WARN_share spawns with Plague Lurkers. You may need to kill them to force Diseased Grizzlies to spawn |N|(60.8, 50.8)| |Z|Western Plaguelands|
+N Diseased Grizzlies share spawns with Plague Lurkers. You may need to kill them to force Diseased Grizzlies to spawn |N|(60.8, 50.8)| |Z|Western Plaguelands|
 C The Wildlife Suffers Too |QID|4985| |N|Diseased Grizzlies (60.8, 50.8)| |Z|Western Plaguelands|
 N Freezing Ghouls cast [Flash Freeze]. This ability stuns for 5 seconds. Avoid agroing multiple at the same time |N|(53.7, 64.7)| |Z|Western Plaguelands|
 T The Wildlife Suffers Too |QID|4985| |N|Mulgris Deepriver - (53.7, 64.7)| |Z|Western Plaguelands|
@@ -209,8 +209,8 @@ A Glyphed Oaken Branch |QID|4986| |N|Mulgris Deepriver - (53.7, 64.7)| |Z|Wester
 T A Plague Upon Thee |QID|5904| |N|on the Northridge Lumber Mill Crate to place the Termite Barrel and then click on the Termite Barrel after - (48.3, 32.0)| |Z|Western Plaguelands|
 A A Plague Upon Thee |QID|6389| |N|on the Northridge Lumber Mill Crate to place the Termite Barrel and then click on the Termite Barrel after - (48.3, 32.0)| |Z|Western Plaguelands|
 A Unfinished Business |QID|6004| |N|Kirsta Deepshadow - (51.9, 28.1)| |Z|Western Plaguelands|
-N Scarlet Medics |cRXP_WARN_and Scarlet Hunters share spawns |N|(50.9, 40.7)| |Z|Western Plaguelands|
-N Scarlet Mages |cRXP_WARN_and Scarlet Knights share spawns |N|(50.9, 40.7)| |Z|Western Plaguelands|
+N Scarlet Medics and Scarlet Hunters share spawns |N|(50.9, 40.7)| |Z|Western Plaguelands|
+N Scarlet Mages and Scarlet Knights share spawns |N|(50.9, 40.7)| |Z|Western Plaguelands|
 C Unfinished Business |QID|6004| |N|Scarlet Medics, Scarlet Hunters, Scarlet Mages and Scarlet Knights (50.9, 40.7)| |Z|Western Plaguelands|
 T Unfinished Business |QID|6004| |N|Kirsta Deepshadow - (51.9, 28.1)| |Z|Western Plaguelands|
 A Unfinished Business |QID|6023| |N|Kirsta Deepshadow - (51.9, 28.1)| |Z|Western Plaguelands|
@@ -220,10 +220,10 @@ C Unfinished Business |QID|6023| |N|Cavalier Durgen (54.5, 23.8)| |Z|Western Pla
 T Unfinished Business |QID|6023| |N|Kirsta Deepshadow - (51.9, 28.1)| |Z|Western Plaguelands|
 A Unfinished Business |QID|6025| |N|Kirsta Deepshadow - (51.9, 28.1)| |Z|Western Plaguelands|
 N You may either run straight to the top and jump down or clear your way up |N|(45.7, 18.8)| |Z|Western Plaguelands|
-N |cRXP_WARN_Avoid High Protector Lorik who is a strong Elite that roams Hearthglen |N|(45.7, 18.8)| |Z|Western Plaguelands|
+N Avoid High Protector Lorik who is a strong Elite that roams Hearthglen |N|(45.7, 18.8)| |Z|Western Plaguelands|
 N This quest can be difficult. Skip it if you are not confident going into Hearthglen |N|(45.7, 18.8)| |Z|Western Plaguelands|
 C Unfinished Business |QID|6025| |N|Ascend the Hearthglen Tower (45.7, 18.8)| |Z|Western Plaguelands|
-N |cRXP_WARN_Avoid High Protector Lorik who is a strong Elite that roams Hearthglen |N|(42.5, 19.0)| |Z|Western Plaguelands|
+N Avoid High Protector Lorik who is a strong Elite that roams Hearthglen |N|(42.5, 19.0)| |Z|Western Plaguelands|
 N This quest can be difficult. Skip it if you are not confident going into Hearthglen |N|(42.5, 19.0)| |Z|Western Plaguelands|
 C Heroes of Darrowshire |QID|5168| |N|Davil's Libram on the table (42.5, 19.0)| |Z|Western Plaguelands|
 T Unfinished Business |QID|6025| |N|Kirsta Deepshadow - (51.9, 28.1)| |Z|Western Plaguelands|
@@ -242,7 +242,7 @@ T Defenders of Darrowshire |QID|5211| |N|Carlin Redpath - (81.5, 59.8)| |Z|Easte
 T Villains of Darrowshire |QID|5181| |N|Carlin Redpath - (81.5, 59.8)| |Z|Eastern Plaguelands|
 T Heroes of Darrowshire |QID|5168| |N|Carlin Redpath - (81.5, 59.8)| |Z|Eastern Plaguelands|
 T Villains of Darrowshire |QID|5181| |N|Carlin Redpath - (81.5, 59.8)| |Z|Eastern Plaguelands|
-R |cRXP_WARN_If you do not have the Reputation required to accept these quests, grind on nearby Undead until you are Friendly with the Argent Dawn |N|(50.0, 76.9)| |O| |Z|Western Plaguelands|
+R If you do not have the Reputation required to accept these quests, grind on nearby Undead until you are Friendly with the Argent Dawn |N|(50.0, 76.9)| |O| |Z|Western Plaguelands|
 N If you still have quests to turn in at Western Plaguelands fly there and turn them in, then grind any needed reputation still at Sorrow Hill in WPL. The location is marked on your map |N|(50.0, 76.9)| |O| |Z|Western Plaguelands|
 A Savage Flora |QID|9136| |N|Rayne - (81.2, 59.0)| |O| |Z|Eastern Plaguelands|
 T Savage Flora |QID|9136| |N|Rayne - (81.2, 59.0)| |O| |Z|Eastern Plaguelands|

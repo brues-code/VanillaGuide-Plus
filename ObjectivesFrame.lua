@@ -269,6 +269,14 @@ function TurtleGuide:UpdateObjectivePanel()
 			self:SetTurnedIn(row.i, f:GetChecked())
 		end)
 
+		row:SetScript("OnClick", function()
+			TurtleGuide:GoToObjective(row.i)
+		end)
+
+		detailhover:SetScript("OnClick", function()
+			TurtleGuide:GoToObjective(row.i)
+		end)
+
 		row.text = text
 		row.detail = detail
 		row.check = check
@@ -426,7 +434,7 @@ function TurtleGuide:UpdateOHPanel(value)
 
 			row.icon:SetTexture(self.icons[action])
 			if action ~= "ACCEPT" and action ~= "TURNIN" then row.icon:SetTexCoord(4 / 48, 44 / 48, 4 / 48, 44 / 48) end
-			row.text:SetText(name .. (optional and L[" |cff808080(Optional)"] or ""))
+			row.text:SetText(string.format("[%d] %s", idx, name) .. (optional and L[" |cff808080(Optional)"] or ""))
 			row.detail:SetText(progressText ~= "" and progressText or self:GetObjectiveTag("N", idx))
 			row.check:SetChecked(checked)
 
@@ -454,7 +462,7 @@ function TurtleGuide:UpdateOHPanel(value)
 		else
 			frame.currentIcon:SetTexCoord(0, 1, 0, 1)
 		end
-		frame.currentText:SetText(action .. ": " .. (name or "???"))
+		frame.currentText:SetText(string.format("[%d/%d] %s: %s", self.current, table.getn(self.actions), action, name or "???"))
 		frame.currentNote:SetText(note or "")
 	end
 end

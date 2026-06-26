@@ -36,7 +36,7 @@ A The Deserters |QID|1286| |N|Captain Garran Vimes - (68.2, 48.6)| |Z|Dustwallow
 T Morgan Stern |QID|1260| |N|Morgan Stern - (66.3, 45.5)| |C|!Warrior/!Rogue/!Druid/!Hunter| |Z|Dustwallow Marsh|
 A Mudrock Soup and Bugs |QID|1204| |N|Morgan Stern - (66.3, 45.5)| |Z|Dustwallow Marsh|
 C Mudrock Soup and Bugs |QID|1204| |N|Mudrock Spikeshells and Mudrock Tortoises. Loot them for their Tongues (59.7, 17.7)| |O| |Z|Dustwallow Marsh|
-N |cRXP_WARN_Be careful not to swim into a Coral Shark that patrols the waters in the area. It can [Thrash] you for upwards of 1200 damage instantly |N|(57.6, 21.6)| |Z|Dustwallow Marsh|
+N Be careful not to swim into a Coral Shark that patrols the waters in the area. It can [Thrash] you for upwards of 1200 damage instantly |N|(57.6, 21.6)| |Z|Dustwallow Marsh|
 C Hungry! |QID|1177| |N|the Mirefins. Loot them for their Heads (57.6, 21.6)| |Z|Dustwallow Marsh|
 C Mudrock Soup and Bugs |QID|1204| |N|Mudrock Spikeshells and Mudrock Tortoises. Loot them for their Tongues (60.2, 17.0)| |Z|Dustwallow Marsh|
 A Jarl Needs Eyes |QID|1206| |N|"Swamp Eye" Jarl - (55.4, 26.3)| |Z|Dustwallow Marsh|

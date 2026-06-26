@@ -13,13 +13,13 @@ A Rite of Vision |QID|767| |N|Ruul and Baine - (47.4, 62.0)| |Z|Mulgore|
 A Dwarven Digging |QID|746| |N|Ruul and Baine - (47.4, 62.0)| |Z|Mulgore|
 T A Task Unfinished |QID|1656| |N|Innkeeper Kauth - (46.6, 61.1)| |Z|Mulgore|
 B Vendor trash. Sell your weapon if it gives you enough money for a [Walking Stick] (5s 04c). You'll come back later if you don't have enough yet |N|Mahnott - (45.7, 58.6)| |C|Shaman/Druid| |Z|Mulgore|
-C Mahnott. Buy a [Walking Stick] from him |QID|761| |N|Mahnott. Buy a [Walking Stick] from him - (45.7, 58.6)| |C|Shaman/Druid| |Z|Mulgore|
+B Collect Walking Stick (1) |L|2495 1| |N|Mahnott. Buy a [Walking Stick] from him - (45.7, 58.6)| |C|Shaman/Druid| |Z|Mulgore|
 B Vendor trash. Sell your weapon if it gives you enough money for a [Wooden Mallet] (7s 1c). You'll come back later if you don't have enough yet |N|Mahnott - (45.7, 58.6)| |C|Warrior| |Z|Mulgore|
-C Mahnott. Buy a [Wooden Mallet] from him |QID|761| |N|Mahnott. Buy a [Wooden Mallet] from him - (45.7, 58.6)| |C|Warrior| |Z|Mulgore|
+B Collect Wooden Mallet (1) |L|2493 1| |N|Mahnott. Buy a [Wooden Mallet] from him - (45.7, 58.6)| |C|Warrior| |Z|Mulgore|
 B Vendor trash. Sell your weapon if it gives you enough money for a [Ornate Blunderbuss] (4s 14c). You'll come back later if you don't have enough yet |N|Kennah - (45.5, 58.5)| |C|Hunter| |Z|Mulgore|
-C Kennah. Buy a [Ornate Blunderbuss] from him |QID|761| |N|Kennah. Buy a [Ornate Blunderbuss] from him - (45.5, 58.5)| |C|Hunter| |Z|Mulgore|
+B Collect Ornate Blunderbuss (1) |L|2509 1| |N|Kennah. Buy a [Ornate Blunderbuss] from him - (45.5, 58.5)| |C|Hunter| |Z|Mulgore|
 N Buy [Light Shots] from him |N|(45.5, 58.5)| |C|Hunter| |Z|Mulgore|
-C The Hunt Continues |QID|750| |N|Kennah (45.5, 58.5)| |C|Hunter| |Z|Mulgore|
+B Kennah |L|2516 1000| |N|Kennah - (45.5, 58.5)| |C|Hunter| |Z|Mulgore|
 A Mazzranache |QID|766| |N|Maur, Zarlman, Harken and Mull - (47.0, 57.1)| |R|Tauren| |Z|Mulgore|
 T Rite of Vision |QID|767| |N|Maur, Zarlman, Harken and Mull - (47.0, 57.1)| |R|Tauren| |Z|Mulgore|
 A Rite of Vision |QID|771| |N|Maur, Zarlman, Harken and Mull - (47.0, 57.1)| |R|Tauren| |Z|Mulgore|
@@ -45,19 +45,19 @@ C Sharing the Land |QID|745| |N|Go back and forth between the two camps. Kill Pa
 N Buy [Ice Cold Milk] from her |N|(47.6, 61.5)| |C|Shaman/Druid| |Z|Mulgore|
 N Buy [Freshly Baked Bread] from her |N|(47.6, 61.5)| |C|Warrior| |Z|Mulgore|
 B Vendor trash |N|Jhwana - (47.6, 61.5)| |Z|Mulgore|
-C Dwarven Digging |QID|746| |N|Jhwana (47.6, 61.5)| |C|Shaman/Druid| |Z|Mulgore|
-C Dwarven Digging |QID|746| |N|Jhwana (47.6, 61.5)| |C|Warrior| |Z|Mulgore|
+B Jhwana |L|1179 10| |N|Jhwana - (47.6, 61.5)| |C|Shaman/Druid| |Z|Mulgore|
+B Jhwana |L|4541 10| |N|Jhwana - (47.6, 61.5)| |C|Warrior| |Z|Mulgore|
 T Winterhoof Cleansing |QID|754| |N|Mull and Baine - (48.5, 60.4)| |R|Tauren| |Z|Mulgore|
 A Thunderhorn Totem |QID|756| |N|Mull and Baine - (48.5, 60.4)| |R|Tauren| |Z|Mulgore|
 T Sharing the Land |QID|745| |N|Mull and Baine - (48.5, 60.4)| |R|Tauren| |Z|Mulgore|
 T Sharing the Land |QID|745| |N|Mull and Baine - (47.5, 60.2)| |R|!Tauren| |Z|Mulgore|
 t Train [First Aid] |N|Vira - (46.8, 60.9)| |C|Warrior| |Z|Mulgore|
 B Vendor trash. Sell your weapon if it gives you enough money for a [Walking Stick] (5s 04c). You'll come back later if you don't have enough yet |N|Mahnott - (45.7, 58.6)| |C|Shaman/Druid| |Z|Mulgore|
-C Mahnott. Buy a [Walking Stick] from him |QID|749| |N|Mahnott. Buy a [Walking Stick] from him - (45.7, 58.6)| |C|Shaman/Druid| |Z|Mulgore|
+B Collect Walking Stick (1) |L|2495 1| |N|Mahnott. Buy a [Walking Stick] from him - (45.7, 58.6)| |C|Shaman/Druid| |Z|Mulgore|
 B Vendor trash. Sell your weapon if it gives you enough money for a [Wooden Mallet] (7s 1c). You'll come back later if you don't have enough yet |N|Mahnott - (45.7, 58.6)| |C|Warrior| |Z|Mulgore|
-C Mahnott. Buy a [Wooden Mallet] from him |QID|749| |N|Mahnott. Buy a [Wooden Mallet] from him - (45.7, 58.6)| |C|Warrior| |Z|Mulgore|
+B Collect Wooden Mallet (1) |L|2493 1| |N|Mahnott. Buy a [Wooden Mallet] from him - (45.7, 58.6)| |C|Warrior| |Z|Mulgore|
 B Vendor trash. Sell your weapon if it gives you enough money for a [Ornate Blunderbuss] (4s 14c). You'll come back later if you don't have enough yet |N|Kennah - (45.5, 58.5)| |C|Hunter| |Z|Mulgore|
-C Kennah. Buy a [Ornate Blunderbuss] from him |QID|749| |N|Kennah. Buy a [Ornate Blunderbuss] from him - (45.5, 58.5)| |C|Hunter| |Z|Mulgore|
+B Collect Ornate Blunderbuss (1) |L|2509 1| |N|Kennah. Buy a [Ornate Blunderbuss] from him - (45.5, 58.5)| |C|Hunter| |Z|Mulgore|
 N Do not follow the wolf that spawns |N|(47.8, 57.5)| |Z|Mulgore|
 T Rite of Vision |QID|771| |N|Zarlman - (47.8, 57.5)| |Z|Mulgore|
 A Rite of Vision |QID|772| |N|Zarlman - (47.8, 57.5)| |Z|Mulgore|
@@ -76,12 +76,12 @@ R Travel back to Bloodhoof Village |N|(46.5, 55.5)| |O| |Z|Mulgore|
 t Train your class spells |N|Yaw - (47.8, 55.7)| |C|Hunter| |Z|Mulgore|
 T Mazzranache |QID|766| |N|Maur - (47.0, 57.1)| |Z|Mulgore|
 B Vendor trash. Sell your weapon if it gives you enough money for a [Walking Stick] (5s 04c). You'll come back later if you don't have enough yet |N|Mahnott - (45.7, 58.6)| |C|Shaman/Druid| |Z|Mulgore|
-C Dangers of the Windfury |QID|743| |N|Mahnott. Buy a [Walking Stick] from him Collect Walking Stick (1)| |C|Shaman/Druid| |Z|Mulgore|
+B Collect Walking Stick (1) |L|2495 1| |N|Mahnott. Buy a [Walking Stick] from him - (45.7, 58.6)| |C|Shaman/Druid| |Z|Mulgore|
 B Vendor trash. Sell your weapon if it gives you enough money for a [Wooden Mallet] (7s 1c). You'll come back later if you don't have enough yet |N|Mahnott - (45.7, 58.6)| |C|Warrior| |Z|Mulgore|
-C Dangers of the Windfury |QID|743| |N|Mahnott. Buy a [Wooden Mallet] from him Collect Wooden Mallet (1)| |C|Warrior| |Z|Mulgore|
+B Collect Wooden Mallet (1) |L|2493 1| |N|Mahnott. Buy a [Wooden Mallet] from him - (45.7, 58.6)| |C|Warrior| |Z|Mulgore|
 B Vendor trash. Sell your weapon if it gives you enough money for a [Ornate Blunderbuss] (4s 14c). You'll come back later if you don't have enough yet |N|Kennah - (45.5, 58.5)| |C|Hunter| |Z|Mulgore|
-C Dangers of the Windfury |QID|743| |N|Kennah. Buy a [Ornate Blunderbuss] from him Collect Ornate Blunderbuss (1)| |C|Hunter| |Z|Mulgore|
-C Dangers of the Windfury |QID|743| |N|Loorat (45.9, 57.7)| |C|Hunter| |Z|Mulgore|
+B Collect Ornate Blunderbuss (1) |L|2509 1| |N|Kennah. Buy a [Ornate Blunderbuss] from him - (45.5, 58.5)| |C|Hunter| |Z|Mulgore|
+B Loorat |L|2516 1000| |N|Loorat - (45.9, 57.7)| |C|Hunter| |Z|Mulgore|
 B Vendor trash and repair |N|Harant - (45.9, 58.7)| |O| |Z|Mulgore|
 T Swoop Hunting |QID|761| |N|Harken - (48.7, 59.3)| |Z|Mulgore|
 T Thunderhorn Totem |QID|756| |N|Mull - (48.5, 60.4)| |R|Tauren| |Z|Mulgore|
@@ -93,20 +93,20 @@ t Train your class spells |N|Yaw - (47.8, 55.7)| |C|Hunter| |Z|Mulgore|
 N Buy [Ice Cold Milk] from him |N|(46.6, 61.1)| |C|Shaman/Druid| |Z|Mulgore|
 N Buy [Freshly Baked Bread] from him |N|(46.6, 61.1)| |C|Warrior| |Z|Mulgore|
 B Vendor Trash |N|Innkeeper Kauth - (46.6, 61.1)| |C|!Hunter| |Z|Mulgore|
-C Dwarven Digging |QID|746| |N|Innkeeper Kauth (46.6, 61.1)| |C|Shaman/Druid| |Z|Mulgore|
-C Dwarven Digging |QID|746| |N|Innkeeper Kauth (46.6, 61.1)| |C|Warrior| |Z|Mulgore|
+B Innkeeper Kauth |L|1179 10| |N|Innkeeper Kauth - (46.6, 61.1)| |C|Shaman/Druid| |Z|Mulgore|
+B Innkeeper Kauth |L|4541 10| |N|Innkeeper Kauth - (46.6, 61.1)| |C|Warrior| |Z|Mulgore|
 C Mazzranache |QID|766| |N|Finish getting the items for Mazzranache Prairie Wolf Heart (1)| |O| |Z|Mulgore|
 C Swoop Hunting |QID|761| |N|Kill Swoops throughout Mulgore. Loot them for their Quills Trophy Swoop Quill (8)| |O| |Z|Mulgore|
 C Thunderhorn Cleansing |QID|758| |N|Use the [Thunderhorn Cleansing Totem] at the Well Cleanse the Thunderhorn Water Well (1)| |R|Tauren| |Z|Mulgore|
-N |cRXP_WARN_Be careful as Bael'dun Appraisers cast [Lesser Heal] (Ranged Cast: Heals themselves or a nearby mob below 50% health for about 75 health) |N|(31.3, 49.9)| |Z|Mulgore|
+N Be careful as Bael'dun Appraisers cast [Lesser Heal] (Ranged Cast: Heals themselves or a nearby mob below 50% health for about 75 health) |N|(31.3, 49.9)| |Z|Mulgore|
 C Dwarven Digging |QID|746| |N|Bael'dun Diggers and Bael'dun Appraisers. Loot them for their Prospector's Picks Broken Tools (5)| |Z|Mulgore|
 C Dangers of the Windfury |QID|743| |N|Windfury Wind Witches and Windfury Harpies. Loot them for their Talons Windfury Talon (8)| |Z|Mulgore|
 R Enter the cave just north of the Windfury Harpies |N|(33.4, 36.5)| |O| |Z|Mulgore|
 T Rite of Vision |QID|772| |N|Wiserunner - (32.7, 36.1)| |Z|Mulgore|
 A Rite of Wisdom |QID|773| |N|Wiserunner - (32.7, 36.1)| |Z|Mulgore|
 C Mazzranache |QID|766| |N|Finish getting the items for Mazzranache Prairie Wolf Heart (1)| |O| |Z|Mulgore|
-N |cRXP_WARN_Be careful as Ghost Howl is difficult due to being level 12 |O| |Z|Mulgore|
-C The Demon Scarred Cloak |QID|770| |N|Keep an eye out for Ghost Howl. Loot him for his [Demon Scarred Cloak]. Use it to start the quest| |O| |Z|Mulgore|
+N Be careful as Ghost Howl is difficult due to being level 12 |O| |Z|Mulgore|
+C Collect Demon Scarred Cloak |QID|770| |L|4854 1| |N|Keep an eye out for Ghost Howl. Loot him for his [Demon Scarred Cloak]. Use it to start the quest| |O| |Z|Mulgore|
 A The Demon Scarred Cloak |QID|770| |N|Keep an eye out for Ghost Howl. Loot him for his [Demon Scarred Cloak]. Use it to start the quest| |O| |Z|Mulgore|
 C Swoop Hunting |QID|761| |N|Kill Swoops throughout Mulgore. Loot them for their Quills Trophy Swoop Quill (8)| |O| |Z|Mulgore|
 A A Sacred Burial |QID|833| |N|Raintotem - (59.9, 25.6)| |Z|Mulgore|
@@ -136,7 +136,7 @@ T Swoop Hunting |QID|761| |N|(47.4, 62.0)| |R|!Tauren| |Z|Mulgore|
 T Dwarven Digging |QID|746| |N|Baine and Ruul - (47.5, 60.2)| |R|!Tauren| |Z|Mulgore|
 T Dangers of the Windfury |QID|743| |N|Baine and Ruul - (47.5, 60.2)| |R|!Tauren| |Z|Mulgore|
 N Buy [Heavy Shots] from him |N|(45.5, 58.5)| |C|Hunter| |Z|Mulgore|
-C Kennah |QID|6061| |N|Kennah - (45.5, 58.5)| |C|Hunter| |Z|Mulgore|
+B Kennah |L|2519 1000| |N|Kennah - (45.5, 58.5)| |C|Hunter| |Z|Mulgore|
 T Mazzranache |QID|766| |N|Maur - (47.0, 57.1)| |Z|Mulgore|
 t Train your class spells |N|Krang - (49.5, 60.6)| |C|Warrior| |Z|Mulgore|
 A Veteran Uzzek |QID|1505| |N|Krang - (49.5, 60.6)| |C|Warrior| |Z|Mulgore|
@@ -158,8 +158,8 @@ T Taming the Beast |QID|6088| |N|Yaw - (47.8, 55.7)| |C|Hunter| |Z|Mulgore|
 A Training the Beast |QID|6089| |N|Yaw - (47.8, 55.7)| |C|Hunter| |Z|Mulgore|
 N Buy [Ice Cold Milk] from her |N|(47.6, 61.5)| |C|Shaman/Druid| |Z|Mulgore|
 N Buy [Freshly Baked Bread] from her |N|(47.6, 61.5)| |C|Warrior| |Z|Mulgore|
-C Jhwana |QID|818| |N|Jhwana - (47.6, 61.5)| |C|Shaman/Druid| |Z|Mulgore|
-C Jhwana |QID|818| |N|Jhwana - (47.6, 61.5)| |C|Warrior| |Z|Mulgore|
+B Jhwana |L|1179 20| |N|Jhwana - (47.6, 61.5)| |C|Shaman/Druid| |Z|Mulgore|
+B Jhwana |L|4541 20| |N|Jhwana - (47.6, 61.5)| |C|Warrior| |Z|Mulgore|
 A The Hunter's Way |QID|861| |N|Skorn - (46.8, 60.2)| |Z|Mulgore|
 T The Ravaged Caravan |QID|751| |N|He patrols along the eastern road - (55.1, 60.6)| |Z|Mulgore|
 A The Venture Co |QID|764| |N|He patrols along the eastern road - (55.1, 60.6)| |Z|Mulgore|
@@ -188,7 +188,7 @@ T Back to Thunder Bluff |QID|5932| |N|Turak - (76.7, 27.3)| |C|Druid| |Z|Thunder
 A Body and Heart |QID|6002| |N|Turak - (76.7, 27.3)| |C|Druid| |Z|Thunder Bluff|
 F Fly to Camp Taurajo |N|Tal - (47.0, 49.8)| |O| |C|Druid| |Z|Thunder Bluff|
 R Travel to The Barrens |N|(42.0, 60.9)| |C|Druid| |Z|The Barrens|
-N |cRXP_WARN_Be careful! Lunaclaw casts [Thrash] (Charges 2 extra attacks every 10 seconds) |N|(42.0, 60.9)| |C|Druid| |Z|The Barrens|
+N Be careful! Lunaclaw casts [Thrash] (Charges 2 extra attacks every 10 seconds) |N|(42.0, 60.9)| |C|Druid| |Z|The Barrens|
 N Steer clear of the Thunderheads in the area |N|(42.0, 60.9)| |C|Druid| |Z|The Barrens|
 C Body and Heart |QID|6002| |N|Kill Lunaclaw as he spawns. the Lunaclaw Spirit afterwards Face Lunaclaw and earn the strength of body and heart it possesses. (1)| |C|Druid| |Z|The Barrens|
 A Journey to the Crossroads |QID|854| |N|Kirge Sternhorn - (44.9, 58.6)| |R|Tauren| |Z|The Barrens|
@@ -198,12 +198,12 @@ T Journey to the Crossroads |QID|854| |N|Thork - (51.5, 30.8)| |R|Tauren| |Z|The
 A Fungal Spores |QID|848| |N|Helbrim - (51.4, 30.1)| |Z|The Barrens|
 f Get the The Crossroads flight path |N|Devrak - (51.5, 30.3)| |Z|The Barrens|
 A A Bundle of Hides |QID|6361| |N|Jahan - (51.2, 29.1)| |Z|The Barrens|
-N |cRXP_WARN_Keep maximum distance from Kolkar as you loot the mushrooms. They are level 12-14 |O| |Z|The Barrens|
-N |cRXP_WARN_The follow-up of this quest has the powerful Cauldron Stirrer as a reward. You can skip this quest for now if you do not intend to use it |O| |Z|The Barrens|
+N Keep maximum distance from Kolkar as you loot the mushrooms. They are level 12-14 |O| |Z|The Barrens|
+N The follow-up of this quest has the powerful Cauldron Stirrer as a reward. You can skip this quest for now if you do not intend to use it |O| |Z|The Barrens|
 C Fungal Spores |QID|848| |N|Collect Laden Mushrooms around The Forgotten Pools Collect Fungal Spores (x4)| |O| |Z|The Barrens|
 C The Forgotten Pools |QID|870| |N|Dive underwater to the Bubble Fissure Explore the waters of the Forgotten Pools| |Z|The Barrens|
-N |cRXP_WARN_Keep maximum distance from Kolkar in the area. They are level 12-14 |N|(43.9, 24.4)| |Z|The Barrens|
-N |cRXP_WARN_The follow-up of this quest has the powerful Cauldron Stirrer as a reward. You can skip this quest for now if you do not intend to use it |N|(43.9, 24.4)| |Z|The Barrens|
+N Keep maximum distance from Kolkar in the area. They are level 12-14 |N|(43.9, 24.4)| |Z|The Barrens|
+N The follow-up of this quest has the powerful Cauldron Stirrer as a reward. You can skip this quest for now if you do not intend to use it |N|(43.9, 24.4)| |Z|The Barrens|
 C Fungal Spores |QID|848| |N|Collect Laden Mushrooms around The Forgotten Pools Collect Fungal Spores (x4)| |Z|The Barrens|
 T The Forgotten Pools |QID|870| |N|Tonga - (52.3, 31.9)| |Z|The Barrens|
 A The Stagnant Oasis |QID|877| |N|Tonga - (52.3, 31.9)| |Z|The Barrens|
@@ -236,10 +236,10 @@ R the Elder Rise |N|(71.6, 30.1)| |O| |C|Druid| |Z|Thunder Bluff|
 T Body and Heart |QID|6002| |N|Turak - (76.5, 27.2)| |C|Druid| |Z|Thunder Bluff|
 A Gathering Leather |QID|768| |N|Veren - (44.4, 44.7)| |Z|Thunder Bluff|
 N Buy Twelve [Light Leather] from the Auction House |N|(40.4, 51.8)| |Z|Thunder Bluff|
-C Gathering Leather |QID|768| |N|Auctioneer Stampi Light Leather (12)| |Z|Thunder Bluff|
+B Light Leather (12) |L|2318 12| |N|Auctioneer Stampi - (40.4, 51.8)| |Z|Thunder Bluff|
 T Gathering Leather |QID|768| |N|Veren - (44.4, 44.7)| |Z|Thunder Bluff|
 N Buy [Tough Jerky] from her to feed your pet |N|(52.3, 47.8)| |C|Hunter| |Z|Thunder Bluff|
-C Preparation for Ceremony |QID|744| |N|Kaga Tough Jerky (5)| |C|Hunter| |Z|Thunder Bluff|
+B Tough Jerky (5) |L|117 5| |N|Kaga - (52.3, 47.8)| |C|Hunter| |Z|Thunder Bluff|
 C The Hunter's Way |QID|861| |N|Kill Flatland Prowlers. Loot them for their Claws Flatland Prowler Claw (4)| |O| |Z|Thunder Bluff|
 R Travel to Mulgore |N|(31.7, 28.2)| |Z|Mulgore|
 N Kill Windfury Matriarchs. Loot them for their Bronze Feathers |N|(30.2, 19.5)| |Z|Mulgore|
@@ -282,7 +282,7 @@ T Sergra Darkthorn |QID|860| |N|Sergra - (52.2, 31.0)| |Z|The Barrens|
 A Plainstrider Menace |QID|844| |N|Sergra - (52.2, 31.0)| |Z|The Barrens|
 A Raptor Thieves |QID|869| |N|Gazrog - (51.9, 30.3)| |Z|The Barrens|
 N You can get it later if it's not there |O| |C|Shaman| |Z|The Barrens|
-C Chen's Empty Keg |QID|819| |N|Check for Chen's Empty Keg next to Kranal. Loot it and start the quest| |O| |C|Shaman| |Z|The Barrens|
+C Collect Chen's Empty Keg |QID|819| |L|4926 1| |N|Check for Chen's Empty Keg next to Kranal. Loot it and start the quest| |O| |C|Shaman| |Z|The Barrens|
 A Chen's Empty Keg |QID|819| |N|Check for Chen's Empty Keg next to Kranal. Loot it and start the quest| |O| |C|Shaman| |Z|The Barrens|
 T Call of Fire |QID|2984| |N|Kranal - (55.9, 19.9)| |C|Shaman| |Z|The Barrens|
 A Call of Fire |QID|1524| |N|Kranal - (55.9, 19.9)| |C|Shaman| |Z|The Barrens|

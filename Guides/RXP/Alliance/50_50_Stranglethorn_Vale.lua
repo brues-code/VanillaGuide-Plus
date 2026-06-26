@@ -16,21 +16,21 @@ T Rescue OOX-17/TN! |QID|648| |N|Oglethorpe Obnoticus - (28.4, 76.4)| |Z|Strangl
 T Rescue OOX-09/HL! |QID|836| |N|Oglethorpe Obnoticus - (28.4, 76.4)| |Z|Stranglethorn Vale|
 A An OOX of Your Own |QID|3721| |N|Oglethorpe Obnoticus - (28.4, 76.4)| |Z|Stranglethorn Vale|
 T An OOX of Your Own |QID|3721| |N|Oglethorpe Obnoticus - (28.4, 76.4)| |Z|Stranglethorn Vale|
-N |cRXP_WARN_Use the [Carefully Folded Note] to start the quest |N|(32.4, 82.2)| |O| |Z|Stranglethorn Vale|
-C Message in a Bottle |QID|594| |N|the Half-Buried Bottles along the coast. Loot them for a [Carefully Folded Note] (32.4, 82.2)| |O| |Z|Stranglethorn Vale|
+N Use the [Carefully Folded Note] to start the quest |N|(32.4, 82.2)| |O| |Z|Stranglethorn Vale|
+C the Half-Buried Bottles along the coast. Loot them for a [Carefully Folded Note] |QID|594| |L|4098 1| |N|the Half-Buried Bottles along the coast. Loot them for a [Carefully Folded Note] - (32.4, 82.2)| |O| |Z|Stranglethorn Vale|
 A Message in a Bottle |QID|594| |N|the Half-Buried Bottles along the coast. Loot them for a [Carefully Folded Note] - (32.4, 82.2)| |O| |Z|Stranglethorn Vale|
 N They are each found on a Bloodsail Ship, on the second floor |N|(29.3, 88.3)| |Z|Stranglethorn Vale|
 C The Bloodsail Buccaneers |QID|608| |N|Kill Captain Keelhaul, Fleet Master Firallon and Captain Stillwater (29.3, 88.3)| |Z|Stranglethorn Vale|
 N If you can't find any, go back to the mainland and check there |N|(38.7, 61.8)| |Z|Stranglethorn Vale|
-N |cRXP_WARN_Use the [Carefully Folded Note] to start the quest |N|(38.7, 61.8)| |Z|Stranglethorn Vale|
-C Message in a Bottle |QID|594| |N|the Half-Buried Bottles on Jaguero Isle. Loot them for a [Carefully Folded Note] (38.7, 61.8)| |Z|Stranglethorn Vale|
+N Use the [Carefully Folded Note] to start the quest |N|(38.7, 61.8)| |Z|Stranglethorn Vale|
+C the Half-Buried Bottles on Jaguero Isle. Loot them for a [Carefully Folded Note] |QID|594| |L|4098 1| |N|the Half-Buried Bottles on Jaguero Isle. Loot them for a [Carefully Folded Note] - (38.7, 61.8)| |Z|Stranglethorn Vale|
 A Message in a Bottle |QID|594| |N|the Half-Buried Bottles on Jaguero Isle. Loot them for a [Carefully Folded Note] - (38.7, 61.8)| |Z|Stranglethorn Vale|
-N |cRXP_WARN_Beware of Jaguero Stalkers in [Stealth] throughout the Island |N|(38.5, 80.6)| |Z|Stranglethorn Vale|
+N Beware of Jaguero Stalkers in [Stealth] throughout the Island |N|(38.5, 80.6)| |Z|Stranglethorn Vale|
 T Message in a Bottle |QID|594| |N|Princess Poobah - (38.5, 80.6)| |Z|Stranglethorn Vale|
 A Message in a Bottle |QID|630| |N|Princess Poobah - (38.5, 80.6)| |Z|Stranglethorn Vale|
-N |cRXP_WARN_You can kite King Mukla around the large tree |N|(40.9, 83.9)| |C|Hunter| |Z|Stranglethorn Vale|
+N You can kite King Mukla around the large tree |N|(40.9, 83.9)| |C|Hunter| |Z|Stranglethorn Vale|
 C Message in a Bottle |QID|630| |N|King Mukla. Loot him for the Shackle Key (40.9, 83.9)| |C|Hunter| |Z|Stranglethorn Vale|
-N |cRXP_WARN_You can kite King Mukla around the large tree |N|(40.9, 83.9)| |C|!Hunter| |Z|Stranglethorn Vale|
+N You can kite King Mukla around the large tree |N|(40.9, 83.9)| |C|!Hunter| |Z|Stranglethorn Vale|
 C Message in a Bottle |QID|630| |N|King Mukla. Loot him for the Shackle Key (40.9, 83.9)| |C|!Hunter| |Z|Stranglethorn Vale|
 T Message in a Bottle |QID|630| |N|Princess Poobah - (38.5, 80.6)| |Z|Stranglethorn Vale|
 N Don't try to solo him unless you're in a group or have cooldowns/potion CDs ready |N|(37.0, 69.7)| |C|Rogue/Warrior/Paladin| |Z|Stranglethorn Vale|
@@ -38,10 +38,10 @@ N Try to kite him if required to the Booty Bay enterance so guards assist you |N
 C The Captain's Chest |QID|8551| |N|Gorlash. Loot him for Smotts' Chest (37.0, 69.7)| |Z|Stranglethorn Vale|
 N Turn in your 10 [Gorilla Fangs] to summon Mokk the Savage |N|(35.3, 60.4)| |Z|Stranglethorn Vale|
 N Kill Mokk the Savage. Loot him for the Heart of Mokk |N|(35.3, 60.4)| |Z|Stranglethorn Vale|
-N |cRXP_WARN_You'll have to deal with 3 waves of attacking Gorillas. Focus killing Mokk the Savage then running away on the final wave |N|(35.3, 60.4)| |Z|Stranglethorn Vale|
+N You'll have to deal with 3 waves of attacking Gorillas. Focus killing Mokk the Savage then running away on the final wave |N|(35.3, 60.4)| |Z|Stranglethorn Vale|
 N This can be difficult to solo. Find a group if required |N|(35.3, 60.4)| |Z|Stranglethorn Vale|
 C Stranglethorn Fever |QID|348| |N|Witch Doctor Unbagwa (35.3, 60.4)| |Z|Stranglethorn Vale|
-C Witch Doctor Unbagwa |N|Witch Doctor Unbagwa - (35.3, 60.4)| |Z|Stranglethorn Vale|
+C Witch Doctor Unbagwa |L|2799 10| |N|Witch Doctor Unbagwa - (35.3, 60.4)| |Z|Stranglethorn Vale|
 R Booty Bay |N|(29.0, 73.0)| |O| |Z|Stranglethorn Vale|
 T The Captain's Chest |QID|8551| |N|Captain Hecklebury Smotts - (26.7, 73.6)| |Z|Stranglethorn Vale|
 T The Monogrammed Sash |QID|8552| |N|Captain Hecklebury Smotts - (26.7, 73.6)| |Z|Stranglethorn Vale|
@@ -58,7 +58,7 @@ t Train your class spells |N|Jennea - (36.9, 81.1)| |C|Mage| |Z|Stormwind City|
 R Newton Burnside |N|(57.1, 73.0)| |Z|Stormwind City|
 N 15 [Silk Cloth] (If you have them) |N|(57.1, 73.0)| |Z|Stormwind City|
 N Buy [Silk Cloth] from the Auction House for a quest later in Searing Gorge |N|(53.6, 59.8)| |Z|Stormwind City|
-C Auctioneer Jaxon |QID|4449| |N|Auctioneer Jaxon - (53.6, 59.8)| |Z|Stormwind City|
+B Auctioneer Jaxon |L|4306 15| |N|Auctioneer Jaxon - (53.6, 59.8)| |Z|Stormwind City|
 R Innkeeper Allison |N|(52.6, 65.7)| |Z|Stormwind City|
 t Train your class spells |N|Sheldras Moontree - (20.9, 55.5)| |C|Druid| |Z|Stormwind City|
 R the Stormwind Cathedral |N|(42.5, 33.5)| |O| |C|Priest/Paladin| |Z|Stormwind City|

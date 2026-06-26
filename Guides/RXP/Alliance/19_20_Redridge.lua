@@ -16,7 +16,7 @@ t Train your class spells |N|Arthur the Faithful - (38.7, 32.8)| |C|Paladin| |Z|
 t Train your class spells |N|Brother Joshua - (38.5, 26.9)| |C|Priest| |R|!NightElf| |Z|Stormwind City|
 N Buy a [Burning Wand] if it's an upgrade |N|(42.6, 67.2)| |C|Warlock/Priest| |Z|Stormwind City|
 N It's important to buy a non-shadow damage wand. You'll have to deal with mobs resistant to shadow damage later |N|(42.6, 67.2)| |C|Warlock/Priest| |Z|Stormwind City|
-C Ardwyn Cailen |N|(42.9, 65.1)| |C|Warlock/Priest| |Z|Stormwind City|
+B Ardwyn Cailen |L|5210 1| |N|(42.9, 65.1)| |C|Warlock/Priest| |Z|Stormwind City|
 R The Slaughtered Lamb and go downstairs |N|(27.2, 78.1)| |O| |C|Warlock| |Z|Stormwind City|
 t Train your class spells |N|Ursula Deline - (26.1, 77.2)| |C|Warlock| |Z|Stormwind City|
 N Ensure you train [Lockpicking] as well as you will need it for your Rogue class quest soon |N|(74.6, 52.8)| |C|Rogue| |Z|Stormwind City|
@@ -34,10 +34,10 @@ T The Tome of Divinity |QID|1644| |N|Stephanie Turner - (57.1, 61.7)| |C|Paladin
 N You will need 10 [Linen Cloth] |N|(57.1, 61.7)| |C|Paladin| |R|Human| |Z|Stormwind City|
 N Buy a [Kris] or something better from the Auction House |N|(57.4, 56.8)| |C|Rogue| |Z|Stormwind City|
 N Equip it once you're level 19 |N|(57.4, 56.8)| |C|Rogue| |Z|Stormwind City|
-C Marda Weller |N|Marda Weller - (57.4, 56.8)| |C|Rogue| |Z|Stormwind City|
+B Kris |L|2209 1| |N|Marda Weller - (57.4, 56.8)| |C|Rogue| |Z|Stormwind City|
 N Buy a [Kris] |N|(57.4, 56.8)| |C|Rogue| |Z|Stormwind City|
 N Equip it once you're level 19 |N|(57.4, 56.8)| |C|Rogue| |Z|Stormwind City|
-C Marda Weller |N|Marda Weller - (57.4, 56.8)| |C|Rogue| |Z|Stormwind City|
+B Kris |L|2209 1| |N|Marda Weller - (57.4, 56.8)| |C|Rogue| |Z|Stormwind City|
 f Get the Stormwind City Flight Path |N|Dungar Longdrink - (66.3, 62.1)| |O| |C|!Warlock| |R|!Human| |Z|Stormwind City|
 F Fly to Westfall |N|Dungar Longdrink - (66.3, 62.1) (DM Dungeon Quest)| |R|!NightElf| |D|DM| |Z|Stormwind City|
 A The Defias Brotherhood |QID|65| |N|(56.3, 47.5) (DM Dungeon Quest)| |R|!NightElf| |D|DM| |Z|Stormwind City|
@@ -66,11 +66,11 @@ T The Defias Brotherhood |QID|141| |N|Gryan Stoutmantle - (56.3, 47.5) (DM Dunge
 A The Defias Brotherhood |QID|142| |N|Gryan Stoutmantle - (56.3, 47.5) (DM Dungeon Quest)| |D|DM| |Z|Westfall|
 R Moonbrook |N|(44.5, 69.6) (DM Dungeon Quest)| |D|DM| |Z|Westfall|
 N He has a 4-5 minute respawn timer |N|(44.5, 69.6) (DM Dungeon Quest)| |D|DM| |Z|Westfall|
-C The Defias Brotherhood |QID|142| |N||cRXP_WARN_The Defias Messenger spawns in Moonbrook. He walks along the road north of Moonbrook, to the Gold Coast Quarry and Jangolode Mine. If you don't see him along the road, wait for him to spawn in Moonbrook A Mysterious Message (1) (DM Dungeon Quest)| |D|DM| |Z|Westfall|
+C The Defias Brotherhood |QID|142| |N|The Defias Messenger spawns in Moonbrook. He walks along the road north of Moonbrook, to the Gold Coast Quarry and Jangolode Mine. If you don't see him along the road, wait for him to spawn in Moonbrook A Mysterious Message (1) (DM Dungeon Quest)| |D|DM| |Z|Westfall|
 T The Defias Brotherhood |QID|142| |N|Gryan Stoutmantle - (56.3, 47.5) (DM Dungeon Quest)| |D|DM| |Z|Westfall|
-N |cRXP_WARN_You may need to wait for The Defias Traitor to spawn if he's not there |N|(55.7, 47.5) (DM Dungeon Quest)| |D|DM| |Z|Westfall|
+N You may need to wait for The Defias Traitor to spawn if he's not there |N|(55.7, 47.5) (DM Dungeon Quest)| |D|DM| |Z|Westfall|
 A The Defias Brotherhood |QID|155| |N|The Defias Traitor - (55.7, 47.5) (DM Dungeon Quest)| |D|DM| |Z|Westfall|
-N |cRXP_WARN_Stay beside The Defias Traitor at all times! Be ready to fight The Defias upon reaching Moonbrook |N|(42.6, 71.7) (DM Dungeon Quest)| |D|DM| |Z|Westfall|
+N Stay beside The Defias Traitor at all times! Be ready to fight The Defias upon reaching Moonbrook |N|(42.6, 71.7) (DM Dungeon Quest)| |D|DM| |Z|Westfall|
 C The Defias Brotherhood |QID|155| |N|Escort the The Defias Traitor to The Deadmines Escort The Defias Traitor to discover where VanCleef is hiding (1) (DM Dungeon Quest)| |D|DM| |Z|Westfall|
 T The Defias Brotherhood |QID|155| |N|Gryan Stoutmantle - (56.3, 47.5) (DM Dungeon Quest)| |D|DM| |Z|Westfall|
 A The Defias Brotherhood |QID|166| |N|Gryan Stoutmantle - (56.3, 47.5) (DM Dungeon Quest)| |D|DM| |Z|Westfall|
@@ -86,9 +86,9 @@ N This is completed OUTSIDE of the Dungeon |N|(41.1, 80.1) (DM Dungeon Quest)| |
 C Collecting Memories |QID|168| |N|Skeletal Miners, Undead Dynamiters and Undead Excavators. Loot them for their Cards Miners' Union Card (4) (DM Dungeon Quest)| |D|DM| |Z|Westfall|
 C Red Silk Bandanas |QID|214| |N|Kill the Defias inside The Deadmines. Loot them for their Bandanas Red Silk Bandana (10) (DM Dungeon Quest)| |D|DM| |Z|Westfall|
 C Underground Assault |QID|2040| |N|Gnoam Sprecklesprocket (1) (DM Dungeon Quest)| |D|DM| |Z|Westfall|
-C The Unsent Letter |QID|373| |N||cRXP_WARN_Use [An Unsent Letter] to start the quest (DM Dungeon Quest)| |D|DM| |Z|Westfall|
-C The Defias Brotherhood |QID|166| |N||cRXP_WARN_Use [An Unsent Letter] to start the quest Head of VanCleef (1) (DM Dungeon Quest)| |D|DM| |Z|Westfall|
-A The Unsent Letter |QID|373| |N||cRXP_WARN_Use [An Unsent Letter] to start the quest (DM Dungeon Quest)| |D|DM| |Z|Westfall|
+C An Unsent Letter (1) |QID|373| |L|2874 1| |N|Use [An Unsent Letter] to start the quest (DM Dungeon Quest)| |D|DM| |Z|Westfall|
+C The Defias Brotherhood |QID|166| |N|Use [An Unsent Letter] to start the quest Head of VanCleef (1) (DM Dungeon Quest)| |D|DM| |Z|Westfall|
+A The Unsent Letter |QID|373| |N|Use [An Unsent Letter] to start the quest (DM Dungeon Quest)| |D|DM| |Z|Westfall|
 R Sentinel Hill |N|(56.3, 47.5) (DM Dungeon Quest)| |D|DM| |Z|Westfall|
 T The Defias Brotherhood |QID|166| |N|(56.3, 47.5) (DM Dungeon Quest)| |D|DM| |Z|Westfall|
 F Fly to Stormwind |N|Thor - (56.5, 52.6) (DM Dungeon Quest)| |D|DM| |Z|Westfall|
@@ -103,7 +103,7 @@ A Devourer of Souls |QID|1716| |N|Gakin the Darkbinder - (25.2, 78.6) (DM Dungeo
 A The Corruption Abroad |QID|3765| |N|Argos Nightwhisper - (21.4, 55.8) (DM Dungeon Quest)| |D|DM| |Z|Stormwind City|
 t Train [Cat Form] |N|(20.9, 55.5) (DM Dungeon Quest)| |C|Druid| |D|DM| |Z|Stormwind City|
 R the Stormwind Cathedral |N|(42.5, 33.5) (DM Dungeon Quest)| |C|Paladin/Priest| |D|DM| |Z|Stormwind City|
-C The Tome of Valor |QID|1649| |N|Duthorian Rall. He will give you the [Tome of Valor] (39.8, 29.8) (DM Dungeon Quest)| |C|Paladin| |D|DM| |Z|Stormwind City|
+C Tome of Valor (1) |QID|1649| |L|6776 1| |N|Duthorian Rall. He will give you the [Tome of Valor] (39.8, 29.8) (DM Dungeon Quest)| |C|Paladin| |D|DM| |Z|Stormwind City|
 A The Tome of Valor |QID|1649| |N|Duthorian Rall. He will give you the [Tome of Valor] - (39.8, 29.8) (DM Dungeon Quest)| |C|Paladin| |D|DM| |Z|Stormwind City|
 T The Tome of Valor |QID|1649| |N|Duthorian Rall - (39.8, 29.8) (DM Dungeon Quest)| |C|Paladin| |D|DM| |Z|Stormwind City|
 A The Tome of Valor |QID|1650| |N|Duthorian Rall - (39.8, 29.8) (DM Dungeon Quest)| |C|Paladin| |D|DM| |Z|Stormwind City|
@@ -120,14 +120,14 @@ A Mathias and the Defias |QID|2360| |N|(75.8, 59.8) (DM Dungeon Quest)| |C|Rogue
 t Train your class spells |N|(78.7, 45.8) (DM Dungeon Quest)| |C|Warrior| |D|DM| |Z|Stormwind City|
 N Buy a [Longsword] and equip it at 21 |N|(57.4, 56.8) (DM Dungeon Quest)| |C|Rogue| |D|DM| |Z|Stormwind City|
 N Buy something from the Auction House if there's something cheaper/better |N|(57.4, 56.8) (DM Dungeon Quest)| |C|Rogue| |D|DM| |Z|Stormwind City|
-C Marda Weller |N|Marda Weller - (57.4, 56.8) (DM Dungeon Quest)| |C|Rogue| |D|DM| |Z|Stormwind City|
+B Longsword (1) |L|923 1| |N|Marda Weller - (57.4, 56.8) (DM Dungeon Quest)| |C|Rogue| |D|DM| |Z|Stormwind City|
 N Buy a [Longsword] and equip it at 21 |N|(57.4, 56.8) (DM Dungeon Quest)| |C|Rogue| |D|DM| |Z|Stormwind City|
-C Marda Weller |N|Marda Weller - (57.4, 56.8) (DM Dungeon Quest)| |C|Rogue| |D|DM| |Z|Stormwind City|
+B Longsword (1) |L|923 1| |N|Marda Weller - (57.4, 56.8) (DM Dungeon Quest)| |C|Rogue| |D|DM| |Z|Stormwind City|
 N Buy a [Dacian Falx] if you have enough money. Equip it at 21 |N|(57.5, 57.1) (DM Dungeon Quest)| |C|Warrior/Paladin| |D|DM| |Z|Stormwind City|
 N Buy something from the Auction House if there's something cheaper/better |N|(57.5, 57.1) (DM Dungeon Quest)| |C|Warrior/Paladin| |D|DM| |Z|Stormwind City|
-C Gunther Weller |N|Gunther Weller - (57.5, 57.1) (DM Dungeon Quest)| |C|Warrior/Paladin| |D|DM| |Z|Stormwind City|
+B Dacian Falx (1) |L|922 1| |N|Gunther Weller - (57.5, 57.1) (DM Dungeon Quest)| |C|Warrior/Paladin| |D|DM| |Z|Stormwind City|
 N Buy a [Dacian Falx] if you have enough money. Equip it at 21 |N|(57.5, 57.1) (DM Dungeon Quest)| |C|Warrior/Paladin| |D|DM| |Z|Stormwind City|
-C Gunther Weller |N|Gunther Weller - (57.5, 57.1) (DM Dungeon Quest)| |C|Warrior/Paladin| |D|DM| |Z|Stormwind City|
+B Dacian Falx (1) |L|922 1| |N|Gunther Weller - (57.5, 57.1) (DM Dungeon Quest)| |C|Warrior/Paladin| |D|DM| |Z|Stormwind City|
 T Bazil Thredd |QID|389| |N|Warden Thelwater - (41.1, 58.1) (DM Dungeon Quest)| |D|DM| |Z|Stormwind City|
 R Exit Stormwind. Travel to Goldshire |N|(32.2, 49.7) (DM Dungeon Quest)| |D|DM| |Z|Elwynn Forest|
 T The Price of Shoes |QID|118| |N|Smith Argus - (41.7, 65.5) (DM Dungeon Quest)| |D|DM| |Z|Elwynn Forest|
@@ -169,24 +169,24 @@ N Kill Tarantulas. Loot them for their Crisp Spider Meat |O| |Z|Redridge Mountai
 N Kill Dire Condors. Loot them for their Tough Condor Meat |O| |Z|Redridge Mountains|
 N Do NOT sell any of these items until you turn the Redridge Goulash quest |O| |Z|Redridge Mountains|
 N Save any [Chunks of Boar Meat] you loot as well as you can use them to level [Cooking] to 50 which is required for Duskwood later |O| |Z|Redridge Mountains|
-C Redridge Goulash |QID|92| |N|Kill Great Goretusks. Loot them for their Great Goretusk Snouts| |O| |Z|Redridge Mountains|
+B Great Goretusks. Loot them for their Great Goretusk Snouts |L|2296 5| |N|Kill Great Goretusks. Loot them for their Great Goretusk Snouts| |O| |Z|Redridge Mountains|
 A Encroaching Gnolls |QID|244| |N|Guard Parker - (15.3, 71.5)| |Z|Redridge Mountains|
 T A Free Lunch |QID|129| |N|Guard Parker - (15.3, 71.5)| |Z|Redridge Mountains|
 A Visit the Herbalist |QID|130| |N|Guard Parker - (15.3, 71.5)| |Z|Redridge Mountains|
 T Encroaching Gnolls |QID|244| |N|Deputy Feldon - (30.7, 60.0)| |Z|Redridge Mountains|
 A Assessing the Threat |QID|246| |N|Deputy Feldon - (30.7, 60.0)| |Z|Redridge Mountains|
-C Redridge Goulash |QID|92| |N|Tarantulas. Loot them for their Crisp Spider Meat (18.9, 73.6)| |Z|Redridge Mountains|
+C Tarantulas. Loot them for their Crisp Spider Meat |QID|92| |L|1081 5| |N|Tarantulas. Loot them for their Crisp Spider Meat - (18.9, 73.6)| |Z|Redridge Mountains|
 C Assessing the Threat |QID|246| |N|Redridge Mongrels and Redridge Poachers Redridge Mongrel (10)| |Z|Redridge Mountains|
-N |cRXP_WARN_Be aware this area is a hyperspawn, meaning the Murlocs respawn quickly |N|(49.0, 70.0)| |Z|Redridge Mountains|
+N Be aware this area is a hyperspawn, meaning the Murlocs respawn quickly |N|(49.0, 70.0)| |Z|Redridge Mountains|
 C Selling Fish |QID|127| |N|Murloc Shorestrikers and Murloc Minor Tidecallers. Loot them for their Fins and Sunfish (49.0, 70.0)| |Z|Redridge Mountains|
-C Murloc Shorestrikers and Murloc Minor Tidecallers. Loot them for their Fins and Sunfish |QID|150| |N|Murloc Shorestrikers and Murloc Minor Tidecallers. Loot them for their Fins and Sunfish - (49.0, 70.0)| |Z|Redridge Mountains|
-N |cRXP_WARN_Be aware the Blackrock Outrunners will cast [Net] on you |N|(74.0, 79.0)| |Z|Redridge Mountains|
+C Murloc Shorestrikers and Murloc Minor Tidecallers. Loot them for their Fins and Sunfish |QID|150| |L|1468 8| |N|Murloc Shorestrikers and Murloc Minor Tidecallers. Loot them for their Fins and Sunfish - (49.0, 70.0)| |Z|Redridge Mountains|
+N Be aware the Blackrock Outrunners will cast [Net] on you |N|(74.0, 79.0)| |Z|Redridge Mountains|
 C Blackrock Menace |QID|20| |N|Kill Blackrock Grunts and Blackrock Outrunners. Loot them for their Axes Battleworn Axe (10)| |Z|Redridge Mountains|
-C Redridge Goulash |QID|92| |N|Dire Condors. Loot them for their Tough Condor Meat (61.4, 77.1)| |Z|Redridge Mountains|
+C Dire Condors. Loot them for their Tough Condor Meat |QID|92| |L|1080 5| |N|Dire Condors. Loot them for their Tough Condor Meat - (61.4, 77.1)| |Z|Redridge Mountains|
 N Open the Sunken Chest. Loot it for Oslow's Toolbox |N|(41.5, 54.7)| |Z|Redridge Mountains|
 C The Lost Tools |QID|125| |N|Jump into the Lake Oslow's Toolbox (1)| |Z|Redridge Mountains|
 R You MUST do this for your [Poisons] quest later |N|(51.8, 45.1)| |C|Rogue| |Z|Redridge Mountains|
-N |cRXP_WARN_Stand on the waypoint location. Position your camera and cursor until you can click 3 Practice Lockboxes at once without having to move anything |N|(51.8, 45.1)| |C|Rogue| |Z|Redridge Mountains|
+N Stand on the waypoint location. Position your camera and cursor until you can click 3 Practice Lockboxes at once without having to move anything |N|(51.8, 45.1)| |C|Rogue| |Z|Redridge Mountains|
 C Alther's Mill |QID|2282| |N|Lucius's Lockbox. Loot it for the Token of Thievery Token of Thievery| |C|Rogue| |Z|Redridge Mountains|
 R Lakeshire |N|(33.5, 49.0)| |O| |Z|Redridge Mountains|
 T Blackrock Menace |QID|20| |N|Marshal Marris - (33.5, 49.0)| |Z|Redridge Mountains|
@@ -211,14 +211,14 @@ f Get the Redridge Mountains flight path |N|Ariena Stormfeather - (30.6, 59.4) (
 F Fly to Stormwind City |N|Ariena Stormfeather - (30.6, 59.4) (!DM Dungeon Quest)| |D|!DM| |Z|Redridge Mountains|
 N Buy a [Longsword] and equip it at 21 |N|(57.4, 56.8) (!DM Dungeon Quest)| |C|Rogue| |D|!DM| |Z|Stormwind City|
 N Buy something from the Auction House if there's something cheaper/better |N|(57.4, 56.8) (!DM Dungeon Quest)| |C|Rogue| |D|!DM| |Z|Stormwind City|
-C Marda Weller |N|Marda Weller - (57.4, 56.8) (!DM Dungeon Quest)| |C|Rogue| |D|!DM| |Z|Stormwind City|
+B Longsword (1) |L|923 1| |N|Marda Weller - (57.4, 56.8) (!DM Dungeon Quest)| |C|Rogue| |D|!DM| |Z|Stormwind City|
 N Buy a [Longsword] and equip it at 21 |N|(57.4, 56.8) (!DM Dungeon Quest)| |C|Rogue| |D|!DM| |Z|Stormwind City|
-C Marda Weller |N|Marda Weller - (57.4, 56.8) (!DM Dungeon Quest)| |C|Rogue| |D|!DM| |Z|Stormwind City|
+B Longsword (1) |L|923 1| |N|Marda Weller - (57.4, 56.8) (!DM Dungeon Quest)| |C|Rogue| |D|!DM| |Z|Stormwind City|
 N Buy a [Dacian Falx] if you have enough money. Equip it at 21 |N|(57.5, 57.1) (!DM Dungeon Quest)| |C|Warrior/Paladin| |D|!DM| |Z|Stormwind City|
 N Buy something from the Auction House if there's something cheaper/better |N|(57.5, 57.1) (!DM Dungeon Quest)| |C|Warrior/Paladin| |D|!DM| |Z|Stormwind City|
-C Gunther Weller |N|Gunther Weller - (57.5, 57.1) (!DM Dungeon Quest)| |C|Warrior/Paladin| |D|!DM| |Z|Stormwind City|
+B Dacian Falx (1) |L|922 1| |N|Gunther Weller - (57.5, 57.1) (!DM Dungeon Quest)| |C|Warrior/Paladin| |D|!DM| |Z|Stormwind City|
 N Buy a [Dacian Falx] if you have enough money. Equip it at 21 |N|(57.5, 57.1) (!DM Dungeon Quest)| |C|Warrior/Paladin| |D|!DM| |Z|Stormwind City|
-C Gunther Weller |N|Gunther Weller - (57.5, 57.1) (!DM Dungeon Quest)| |C|Warrior/Paladin| |D|!DM| |Z|Stormwind City|
+B Dacian Falx (1) |L|922 1| |N|Gunther Weller - (57.5, 57.1) (!DM Dungeon Quest)| |C|Warrior/Paladin| |D|!DM| |Z|Stormwind City|
 R The Slaughtered Lamb and go downstairs |N|(27.2, 78.1) (!DM Dungeon Quest)| |C|Warlock| |D|!DM| |Z|Stormwind City|
 t Train your class spells |N|Ursula Deline - (26.1, 77.2) (!DM Dungeon Quest)| |C|Warlock| |D|!DM| |Z|Stormwind City|
 A Devourer of Souls |QID|1716| |N|Gakin the Darkbinder - (25.2, 78.6)| |C|Warlock| |Z|Stormwind City|
@@ -228,7 +228,7 @@ t Train [Teleport: Stormwind] |N|Larimaine - (39.7, 79.5) (!DM Dungeon Quest)| |
 A The Corruption Abroad |QID|3765| |N|Argos Nightwhisper - (21.4, 55.8) (!DM Dungeon Quest)| |D|!DM| |Z|Stormwind City|
 t Train [Cat Form] |N|(20.9, 55.5) (!DM Dungeon Quest)| |C|Druid| |D|!DM| |Z|Stormwind City|
 R the Stormwind Cathedral |N|(42.5, 33.5) (!DM Dungeon Quest)| |C|Paladin/Priest| |D|!DM| |Z|Stormwind City|
-C The Tome of Valor |QID|1649| |N|Duthorian Rall. He will give you the [Tome of Valor] Tome of Valor (1) (!DM Dungeon Quest)| |C|Paladin| |D|!DM| |Z|Stormwind City|
+C Tome of Valor (1) |QID|1649| |L|6776 1| |N|Duthorian Rall. He will give you the [Tome of Valor] (39.8, 29.8) (!DM Dungeon Quest)| |C|Paladin| |D|!DM| |Z|Stormwind City|
 A The Tome of Valor |QID|1649| |N|Duthorian Rall. He will give you the [Tome of Valor] - (39.8, 29.8) (!DM Dungeon Quest)| |C|Paladin| |D|!DM| |Z|Stormwind City|
 T The Tome of Valor |QID|1649| |N|Duthorian Rall - (39.8, 29.8) (!DM Dungeon Quest)| |C|Paladin| |D|!DM| |Z|Stormwind City|
 A The Tome of Valor |QID|1650| |N|Duthorian Rall - (39.8, 29.8) (!DM Dungeon Quest)| |C|Paladin| |D|!DM| |Z|Stormwind City|
@@ -248,25 +248,25 @@ N You MUST do this quest your [Poisons] |N|(68.5, 70.1)| |C|Rogue| |Z|Westfall|
 T Mathias and the Defias |QID|2360| |N|Agent Kearnen - (68.5, 70.1)| |C|Rogue| |Z|Westfall|
 A Klaven's Tower |QID|2359| |N|Agent Kearnen - (68.5, 70.1)| |C|Rogue| |Z|Westfall|
 N You must be in [Stealth] to use [Pick Pocket] |N|(69.6, 73.1)| |C|Rogue| |Z|Westfall|
-N |cRXP_WARN_The Malformed Defias Drone spawns at the entrance to the tower, then patrols around the outside of it |N|(69.6, 73.1)| |C|Rogue| |Z|Westfall|
+N The Malformed Defias Drone spawns at the entrance to the tower, then patrols around the outside of it |N|(69.6, 73.1)| |C|Rogue| |Z|Westfall|
 N Be careful as he deals a LOT of damage. If your [Stealth] breaks, quickly use [Sprint] and run away |N|(69.6, 73.1)| |C|Rogue| |Z|Westfall|
 C Klaven's Tower |QID|2359| |N|[Pick Pocket] the Malformed Defias Drone. Loot it for the Defias Tower Key Collect Defias Tower Key (x1)| |C|Rogue| |Z|Westfall|
-R Travel up to 2nd top floor of the tower. Whilst in [Stealth] |cRXP_WARN_and the Defias Tower Sentries aren't next to you, Jump onto the chair, then onto the lamp, then onto the bookshelf on top of the waypoint location |N|(70.4, 74.0)| |C|Rogue| |Z|Westfall|
+R Travel up to 2nd top floor of the tower. Whilst in [Stealth] and the Defias Tower Sentries aren't next to you, Jump onto the chair, then onto the lamp, then onto the bookshelf on top of the waypoint location |N|(70.4, 74.0)| |C|Rogue| |Z|Westfall|
 N NOTE: Your [Stealth] will temporarily stop working after looting Klaven Mortwake's Journal |N|(70.4, 74.0)| |C|Rogue| |Z|Westfall|
-N |cRXP_WARN_Be prepared to run if you don't kill the Defias Tower Sentries on the 2nd floor. They will most likely aggro you permanently (but not attack you) when you are on top of the bookshelf as it is an evade spot |N|(70.4, 74.0)| |C|Rogue| |Z|Westfall|
-N If you have a [Dagger] in your bags or equipped, you can cast [Ambush] |cRXP_WARN_on the Defias Tower Patrollers and Defias Tower Sentries inside to kill them instantly. Be prepared to run after you kill the first Defias Tower Sentry and remember you can be hit from above. This is slower, but a LOT safer |N|(70.4, 74.0)| |C|Rogue| |Z|Westfall|
-N |cRXP_WARN_Be careful as the Malformed Defias Drone and Defias Drones can be at the entrance of the tower if you have to run out of it |N|(70.4, 74.0)| |C|Rogue| |Z|Westfall|
-C Klaven's Tower |QID|2359| |N|Manually [Unstealth]|cRXP_WARN_, then press your "Interact with Target" keybind to open the Duskwood Chest. Loot it for Klaven Mortwake's Journal Collect Klaven Mortwake's Journal (x1)| |C|Rogue| |Z|Westfall|
-C Craft an [Anti-Venom] |C|Rogue| |R|!Dwarf| |Z|Westfall|
-t Training (7934) |C|Rogue| |R|!Dwarf| |Z|Westfall|
+N Be prepared to run if you don't kill the Defias Tower Sentries on the 2nd floor. They will most likely aggro you permanently (but not attack you) when you are on top of the bookshelf as it is an evade spot |N|(70.4, 74.0)| |C|Rogue| |Z|Westfall|
+N If you have a [Dagger] in your bags or equipped, you can cast [Ambush] on the Defias Tower Patrollers and Defias Tower Sentries inside to kill them instantly. Be prepared to run after you kill the first Defias Tower Sentry and remember you can be hit from above. This is slower, but a LOT safer |N|(70.4, 74.0)| |C|Rogue| |Z|Westfall|
+N Be careful as the Malformed Defias Drone and Defias Drones can be at the entrance of the tower if you have to run out of it |N|(70.4, 74.0)| |C|Rogue| |Z|Westfall|
+C Klaven's Tower |QID|2359| |N|Manually [Unstealth], then press your "Interact with Target" keybind to open the Duskwood Chest. Loot it for Klaven Mortwake's Journal Collect Klaven Mortwake's Journal (x1)| |C|Rogue| |Z|Westfall|
+C Craft an [Anti-Venom] |L|6452 1| |C|Rogue| |R|!Dwarf| |Z|Westfall|
+t Anti Venom spell trained |C|Rogue| |R|!Dwarf| |Z|Westfall|
 F Fly to Stormwind |N|Thor - (56.5, 52.6)| |O| |C|Rogue| |Z|Westfall|
 R Travel to Stormwind City |N|(41.7, 28.0)| |O| |C|Rogue| |R|!Dwarf| |Z|Stormwind City|
 R Travel toward Shaina Fuller |N|(43.1, 26.2)| |O| |C|Rogue| |R|!Dwarf| |Z|Stormwind City|
 R Shaina Fuller |N|(43.1, 26.2)| |C|Rogue| |R|!Dwarf| |Z|Stormwind City|
 N If you have a Paladin or Druid friend, ask them to remove the [Touch of Zanzil] for you instead |N|(43.1, 26.2)| |C|Rogue| |R|!Dwarf| |Z|Stormwind City|
 t Train [Anti-Venom] |N|Shaina Fuller - (43.1, 26.2)| |C|Rogue| |R|!Dwarf| |Z|Stormwind City|
-C Craft an [Anti-Venom] |C|Rogue| |R|!Dwarf| |Z|Stormwind City|
-t Training (7934) |C|Rogue| |R|!Dwarf| |Z|Stormwind City|
+C Craft an [Anti-Venom] |L|6452 1| |C|Rogue| |R|!Dwarf| |Z|Stormwind City|
+t Anti Venom spell trained |C|Rogue| |R|!Dwarf| |Z|Stormwind City|
 R Enter the SI:7 Headquarters. Travel up stairs toward Master Mathias Shaw |N|(78.7, 60.1)| |O| |C|Rogue| |Z|Stormwind City|
 N Remember to re-equip your main weapon if you switched to a [Dagger] earlier |N|(75.8, 59.8)| |C|Rogue| |Z|Stormwind City|
 T Klaven's Tower |QID|2359| |N|Master Mathias Shaw - (75.8, 59.8)| |C|Rogue| |Z|Stormwind City|
@@ -296,7 +296,7 @@ T Visit the Herbalist |QID|130| |N|Martie Jainrose - (21.9, 46.3)| |Z|Redridge M
 A Delivering Daffodils |QID|131| |N|Martie Jainrose - (21.9, 46.3)| |Z|Redridge Mountains|
 C Underbelly Scales |QID|122| |N|Kill Black Dragon Whelps. Loot them for their Scales Underbelly Whelp Scale (6)| |O| |Z|Redridge Mountains|
 N Save any [Chunks of Boar Meat] you loot as well as you can use them to level [Cooking] to 50 which is required for Duskwood later |N|(15.7, 52.8)| |Z|Redridge Mountains|
-C Redridge Goulash |QID|92| |N|Kill Great Goretusks. Loot them for their Great Goretusk Snouts (15.7, 52.8)| |Z|Redridge Mountains|
+C Great Goretusks. Loot them for their Great Goretusk Snouts |QID|92| |L|2296 5| |N|Kill Great Goretusks. Loot them for their Great Goretusk Snouts (15.7, 52.8)| |Z|Redridge Mountains|
 A Redridge Goulash |QID|92| |N|Chef Breanna - (22.7, 43.8)| |O| |Z|Redridge Mountains|
 T Redridge Goulash |QID|92| |N|Chef Breanna - (22.7, 43.8)| |O| |Z|Redridge Mountains|
 C Underbelly Scales |QID|122| |N|Kill Black Dragon Whelps. Loot them for their Scales Underbelly Whelp Scale (6)| |O| |Z|Redridge Mountains|

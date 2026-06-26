@@ -16,7 +16,7 @@ C Fragments of the Orb of Orahil |QID|1799| |N|Kill Burning Blade Summoners. Loo
 C Shard of a Felhound |QID|4962| |N|Kill Mage Hunter| |O| |C|Warlock| |Z|Desolace|
 N Kill Nether Sisters, Nether Maidens and Nether Sorceresses. Loot them for their Wings |N|(51.7, 83.9)| |Z|Desolace|
 N Kill Doomwarder Captains. Loot them for their Blood |N|(51.7, 83.9)| |Z|Desolace|
-N |cRXP_WARN_Prioritize Doomwarder Captains as you may need to wait for their respawns. Regular Doomwarders do not drop Blood. You could also ask someone to invite you so you change layers |N|(51.7, 83.9)| |Z|Desolace|
+N Prioritize Doomwarder Captains as you may need to wait for their respawns. Regular Doomwarders do not drop Blood. You could also ask someone to invite you so you change layers |N|(51.7, 83.9)| |Z|Desolace|
 C Reagents for Reclaimers Inc. |QID|1466| |N|Ley Hunters, Mana Eaters and Mage Hunters. Loot them for their Brains (51.7, 83.9)| |Z|Desolace|
 C Fragments of the Orb of Orahil |QID|1799| |N|Kill Burning Blade Summoners. Loot them for their Infernal Orb| |O| |C|Warlock| |Z|Desolace|
 C Shard of a Felhound |QID|4962| |N|Kill Mage Hunter (53.6, 77.6)| |C|Warlock| |Z|Desolace|
@@ -52,7 +52,7 @@ F Fly to Theramore |N|Baritanas Skyriver - (64.7, 10.5)| |C|!Mage| |Z|Desolace|
 R Travel to Dustwallow Marsh |N|(71.5, 56.3)| |C|!Mage| |Z|Dustwallow Marsh|
 t Train your class spells |N|Dink - (27.2, 8.6)| |C|Mage| |Z|Ironforge|
 B Buy [Rune of Teleportations] if needed |N|Ginny Longberry - (31.3, 27.8)| |C|Mage| |Z|Ironforge|
-C Ginny Longberry |N|Ginny Longberry - (31.3, 27.8)| |C|Mage| |Z|Ironforge|
+B Ginny Longberry |L|17031 10| |N|Ginny Longberry - (31.3, 27.8)| |C|Mage| |Z|Ironforge|
 F Fly to Ironforge |N|Shellei - (9.5, 59.7)| |C|!Mage| |Z|Wetlands|
 T Mythology of the Titans |QID|1050| |N|Librarian Mae Paledust - (75.0, 12.5) (SM Dungeon Quest)| |D|SM| |Z|Ironforge|
 

@@ -5,7 +5,7 @@ return [[
 N 24-27 Duskwood/Redridge |N|Converted from RestedXP guide|
 
 N Buy [Stormwind Seasoning Herbs] from her |N|(64.2, 60.6)| |Z|Stormwind City|
-C Felicia Gump inside |QID|90| |N|Felicia Gump inside - (64.2, 60.6)| |Z|Stormwind City|
+B Felicia Gump inside |L|2665 1| |N|Felicia Gump inside - (64.2, 60.6)| |Z|Stormwind City|
 R Go into The Slaughtered Lamb. Go downstairs |N|(27.2, 78.1)| |O| |C|Warlock| |Z|Stormwind City|
 t Train your class spells |N|Ursula Deline - (26.1, 77.2)| |C|Warlock| |Z|Stormwind City|
 B Buy [Grimoires] for your [Succubus] which you will have in a second. If you have extra gold also buy them for your [Voidwalker] |N|Spackle Thornberry - (25.7, 77.6)| |C|Warlock| |Z|Stormwind City|
@@ -38,7 +38,7 @@ t Train 1h Swords |N|Woo Ping - (57.1, 57.7)| |C|Mage/Rogue/Warlock| |Z|Stormwin
 t Train Daggers |N|Woo Ping - (57.1, 57.7)| |C|Mage/Druid/Priest| |Z|Stormwind City|
 t Train 2h Swords |N|Woo Ping - (57.1, 57.7)| |C|Warrior/Paladin/Hunter| |Z|Stormwind City|
 B Buy a [Rune of Teleportation] from her |N|Kyra Boucher - (56.1, 65.2)| |O| |C|Mage| |Z|Stormwind City|
-C Kyra Boucher |N|Kyra Boucher - (56.1, 65.2)| |O| |C|Mage| |Z|Stormwind City|
+B Kyra Boucher |L|17031 1| |N|Kyra Boucher - (56.1, 65.2)| |O| |C|Mage| |Z|Stormwind City|
 F Fly to Redridge Mountains |N|Dungar Longdrink - (66.3, 62.1) (DM Dungeon Quest)| |R|NightElf| |D|DM| |Z|Stormwind City|
 F Fly to Redridge Mountains |N|Dungar Longdrink - (66.3, 62.1)| |O| |R|!NightElf| |Z|Stormwind City|
 F Fly to Westfall |N|Dungar Longdrink - (66.3, 62.1) (DM Dungeon Quest)| |R|!Human| |D|DM| |Z|Stormwind City|
@@ -46,12 +46,12 @@ F Fly to Westfall |N|Dungar Longdrink - (66.3, 62.1)| |O| |R|Human| |Z|Stormwind
 N Do NOT accept the quest Sven's Revenge from Sven Yorgen |N|(7.7, 33.3)| |Z|Duskwood|
 A Wolves at Our Heels |QID|226| |N|Lars - (7.7, 33.3)| |Z|Duskwood|
 R Darkshire |N|(75.8, 45.3)| |O| |Z|Duskwood|
-N |cRXP_WARN_Be careful as Starving Dire Wolves have [Increased Aggro Range] and Rabid Dire Wolves cast [Rabies] (Reduces ALL health regen by 50%) |O| |Z|Duskwood|
-N |cRXP_WARN_You don't have to kill all Wolves now. Save the Lean Wolf Flanks for a later quest |O| |Z|Duskwood|
+N Be careful as Starving Dire Wolves have [Increased Aggro Range] and Rabid Dire Wolves cast [Rabies] (Reduces ALL health regen by 50%) |O| |Z|Duskwood|
+N You don't have to kill all Wolves now. Save the Lean Wolf Flanks for a later quest |O| |Z|Duskwood|
 C Wolves at Our Heels |QID|226| |N|Kill Starving Dire Wolves and Rabid Dire Wolves en route. Loot them for their Lean Wolf Flanks| |O| |Z|Duskwood|
-C Kill Starving Dire Wolves and Rabid Dire Wolves en route. Loot them for their Lean Wolf Flanks |QID|90| |N|Kill Starving Dire Wolves and Rabid Dire Wolves en route. Loot them for their Lean Wolf Flanks| |O| |Z|Duskwood|
-N |cRXP_WARN_Be careful as Starving Dire Wolves have [Increased Aggro Range] and Rabid Dire Wolves cast [Rabies] (Reduces ALL health regen by 50%) |O| |Z|Duskwood|
-N |cRXP_WARN_You don't have to kill all Wolves now |O| |Z|Duskwood|
+C Starving Dire Wolves and Rabid Dire Wolves en route. Loot them for their Lean Wolf Flanks |QID|90| |L|1015 10| |N|Kill Starving Dire Wolves and Rabid Dire Wolves en route. Loot them for their Lean Wolf Flanks| |O| |Z|Duskwood|
+N Be careful as Starving Dire Wolves have [Increased Aggro Range] and Rabid Dire Wolves cast [Rabies] (Reduces ALL health regen by 50%) |O| |Z|Duskwood|
+N You don't have to kill all Wolves now |O| |Z|Duskwood|
 C Wolves at Our Heels |QID|226| |N|Kill Starving Dire Wolves and Rabid Dire Wolves en route| |O| |Z|Duskwood|
 A The Legend of Stalvan |QID|66| |N|Madame Eva inside - (75.8, 45.3)| |Z|Duskwood|
 A The Totem of Infliction |QID|101| |N|Madame Eva inside - (75.8, 45.3)| |Z|Duskwood|
@@ -74,11 +74,11 @@ A Look To The Stars |QID|175| |N|Viktori Prism'Antras - (79.8, 48.0)| |Z|Duskwoo
 T Look To The Stars |QID|175| |N|Blind Mary - (81.5, 59.0)| |Z|Duskwood|
 A Look To The Stars |QID|177| |N|Blind Mary - (81.5, 59.0)| |Z|Duskwood|
 N Don't start the quest for it yet |O| |Z|Duskwood|
-C |cRXP_WARN_Keep at eye out for [An Old History Book]. This is a zone-wide drop in Duskwood |QID|337| |N||cRXP_WARN_Keep at eye out for [An Old History Book]. This is a zone-wide drop in Duskwood| |O| |Z|Duskwood|
+C Keep at eye out for [An Old History Book]. This is a zone-wide drop in Duskwood |QID|337| |L|2794 1| |N|Keep at eye out for [An Old History Book]. This is a zone-wide drop in Duskwood| |O| |Z|Duskwood|
 N Skeletal Warriors apply [Hamstring] |O| |Z|Duskwood|
 N Skeletal Mages cast [Frostbolt] and also snare with [Frost Armor] |O| |Z|Duskwood|
 C The Night Watch |QID|56| |N|Kill Skeletal Warriors and Skeletal Mages| |O| |Z|Duskwood|
-N |cRXP_WARN_The Insane Ghoul may be inside of the chapel or walking around outside |N|(81.0, 71.7)| |Z|Duskwood|
+N The Insane Ghoul may be inside of the chapel or walking around outside |N|(81.0, 71.7)| |Z|Duskwood|
 C Look To The Stars |QID|177| |N|the Insane Ghoul. Loot him for Mary's Looking Glass (81.0, 71.7)| |Z|Duskwood|
 N Skeletal Warriors apply [Hamstring] |N|(79.4, 70.3)| |Z|Duskwood|
 N Skeletal Mages cast [Frostbolt] and also snare with [Frost Armor] |N|(79.4, 70.3)| |Z|Duskwood|
@@ -88,17 +88,17 @@ A Jitters' Growling Gut |QID|5| |N|Jitters - (18.2, 56.2)| |Z|Duskwood|
 N Don't go out of your way to do this quest, skip it if necessary |O| |Z|Duskwood|
 C Kill Pygmy Venom Web Spiders |QID|245| |N|Kill Pygmy Venom Web Spiders| |O| |Z|Duskwood|
 C Wolves at Our Heels |QID|226| |N|Starving Dire Wolves and Rabid Dire Wolves. Loot them for their Lean Wolf Flanks (36.2, 24.7)| |Z|Duskwood|
-C Seasoned Wolf Kabobs |QID|90| |N|Starving Dire Wolves and Rabid Dire Wolves. Loot them for their Lean Wolf Flanks (36.2, 24.7)| |Z|Duskwood|
+C Starving Dire Wolves and Rabid Dire Wolves. Loot them for their Lean Wolf Flanks |QID|90| |L|1015 10| |N|Starving Dire Wolves and Rabid Dire Wolves. Loot them for their Lean Wolf Flanks - (36.2, 24.7)| |Z|Duskwood|
 C Wolves at Our Heels |QID|226| |N|Starving Dire Wolves and Rabid Dire Wolves (36.2, 24.7)| |Z|Duskwood|
-C Seasoned Wolf Kabobs |QID|90| |N|Kill Black Ravager Mastiff| |O| |Z|Duskwood|
+C Wolves throughout Duskwood. Loot them for their Lean Wolf Flanks |QID|90| |L|1015 10| |O| |Z|Duskwood|
 T Deliveries to Sven |QID|164| |N|Sven Yorgen - (7.8, 34.1)| |Z|Duskwood|
 A Sven's Revenge |QID|95| |N|Sven Yorgen - (7.8, 34.1)| |Z|Duskwood|
 N Lars |N|(7.7, 33.3)| |Z|Duskwood|
 T The Hermit |QID|165| |N|Abercrombie - (28.1, 31.5)| |Z|Duskwood|
 A Supplies from Darkshire |QID|148| |N|Abercrombie - (28.1, 31.5)| |Z|Duskwood|
-N |cRXP_WARN_You will also need 1 Small Venom Sac for your upcoming Rogue quest |N|(12.8, 55.6)| |C|Rogue| |R|!Dwarf| |Z|Duskwood|
-C Spiders in Duskwood. Loot them for their Gooey Spider Legs |QID|93| |N|Spiders in Duskwood. Loot them for their Gooey Spider Legs - (12.8, 55.6)| |Z|Duskwood|
-C Spiders in Duskwood. Loot them for their Gooey Spider Legs |QID|2359| |N|Spiders in Duskwood. Loot them for their Gooey Spider Legs - (12.8, 55.6)| |C|Rogue| |R|!Dwarf| |Z|Duskwood|
+N You will also need 1 Small Venom Sac for your upcoming Rogue quest |N|(12.8, 55.6)| |C|Rogue| |R|!Dwarf| |Z|Duskwood|
+C Spiders in Duskwood. Loot them for their Gooey Spider Legs |QID|93| |L|2251 6| |N|Spiders in Duskwood. Loot them for their Gooey Spider Legs - (12.8, 55.6)| |Z|Duskwood|
+C Spiders in Duskwood. Loot them for their Gooey Spider Legs |QID|2359| |L|1475 1| |N|Spiders in Duskwood. Loot them for their Gooey Spider Legs - (12.8, 55.6)| |C|Rogue| |R|!Dwarf| |Z|Duskwood|
 R Travel to Westfall |N|(38.8, 61.4)| |O| |Z|Westfall|
 N Dust Devils can spawn throughout all of Westfall. Their spawn locations are marked on the map |N|(34.8, 67.4)| |O| |Z|Westfall|
 N Cast [Eagle Eye] to try and find them |N|(34.8, 67.4)| |O| |C|Hunter| |Z|Westfall|
@@ -110,16 +110,16 @@ N You MUST do this quest your [Poisons] |N|(68.5, 70.1)| |C|Rogue| |Z|Westfall|
 T Mathias and the Defias |QID|2360| |N|Agent Kearnen - (68.5, 70.1)| |C|Rogue| |Z|Westfall|
 A Klaven's Tower |QID|2359| |N|Agent Kearnen - (68.5, 70.1)| |C|Rogue| |Z|Westfall|
 N You must be in [Stealth] to use [Pick Pocket] |N|(69.6, 73.1)| |C|Rogue| |Z|Westfall|
-N |cRXP_WARN_The Malformed Defias Drone spawns at the entrance to the tower, then patrols around the outside of it |N|(69.6, 73.1)| |C|Rogue| |Z|Westfall|
+N The Malformed Defias Drone spawns at the entrance to the tower, then patrols around the outside of it |N|(69.6, 73.1)| |C|Rogue| |Z|Westfall|
 N Be careful as he deals a LOT of damage. If your [Stealth] breaks, quickly use [Sprint] and run away |N|(69.6, 73.1)| |C|Rogue| |Z|Westfall|
 C Klaven's Tower |QID|2359| |N|[Pick Pocket] the Malformed Defias Drone. Loot it for the Defias Tower Key (69.6, 73.1)| |C|Rogue| |Z|Westfall|
-N Travel up to 2nd top floor of the tower. Whilst in [Stealth] |cRXP_WARN_and the Defias Tower Sentries aren't next to you, Jump onto the chair, then onto the lamp, then onto the bookshelf on top of the waypoint location |N|(70.4, 74.0)| |C|Rogue| |Z|Westfall|
+N Travel up to 2nd top floor of the tower. Whilst in [Stealth] and the Defias Tower Sentries aren't next to you, Jump onto the chair, then onto the lamp, then onto the bookshelf on top of the waypoint location |N|(70.4, 74.0)| |C|Rogue| |Z|Westfall|
 N NOTE: Your [Stealth] will temporarily stop working after looting Klaven Mortwake's Journal |N|(70.4, 74.0)| |C|Rogue| |Z|Westfall|
-N |cRXP_WARN_Be prepared to run if you don't kill the Defias Tower Sentries on the 2nd floor. They will most likely aggro you permanently (but not attack you) when you are on top of the bookshelf as it is an evade spot |N|(70.4, 74.0)| |C|Rogue| |Z|Westfall|
-N If you have a [Dagger] in your bags or equipped, you can cast [Ambush] |cRXP_WARN_on the Defias Tower Patrollers and Defias Tower Sentries inside to kill them instantly. Be prepared to run after you kill the first Defias Tower Sentry and remember you can be hit from above. This is slower, but a LOT safer |N|(70.4, 74.0)| |C|Rogue| |Z|Westfall|
-N |cRXP_WARN_Be careful as the Malformed Defias Drone and Defias Drones can be at the entrance of the tower if you have to run out of it |N|(70.4, 74.0)| |C|Rogue| |Z|Westfall|
-C Klaven's Tower |QID|2359| |N|Manually [Unstealth]|cRXP_WARN_, then press your "Interact with Target" keybind to open the Duskwood Chest. Loot it for Klaven Mortwake's Journal (70.4, 74.0)| |C|Rogue| |Z|Westfall|
-C Craft an [Anti-Venom] |C|Rogue| |R|!Dwarf| |Z|Westfall|
+N Be prepared to run if you don't kill the Defias Tower Sentries on the 2nd floor. They will most likely aggro you permanently (but not attack you) when you are on top of the bookshelf as it is an evade spot |N|(70.4, 74.0)| |C|Rogue| |Z|Westfall|
+N If you have a [Dagger] in your bags or equipped, you can cast [Ambush] on the Defias Tower Patrollers and Defias Tower Sentries inside to kill them instantly. Be prepared to run after you kill the first Defias Tower Sentry and remember you can be hit from above. This is slower, but a LOT safer |N|(70.4, 74.0)| |C|Rogue| |Z|Westfall|
+N Be careful as the Malformed Defias Drone and Defias Drones can be at the entrance of the tower if you have to run out of it |N|(70.4, 74.0)| |C|Rogue| |Z|Westfall|
+C Klaven's Tower |QID|2359| |N|Manually [Unstealth], then press your "Interact with Target" keybind to open the Duskwood Chest. Loot it for Klaven Mortwake's Journal (70.4, 74.0)| |C|Rogue| |Z|Westfall|
+C Craft an [Anti-Venom] |L|6452 1| |C|Rogue| |R|!Dwarf| |Z|Westfall|
 t Training (7934) |C|Rogue| |R|!Dwarf| |Z|Westfall|
 N Dust Devils can spawn throughout all of Westfall. Their spawn locations are marked on the map |N|(34.8, 67.4)| |Z|Westfall|
 C Devils in Westfall |QID|1076| |N|Dust Devils. Loot them for their Debris (34.8, 67.4)| |Z|Westfall|
@@ -127,12 +127,12 @@ T The Legend of Stalvan |QID|67| |N|the Old Footlocker on the ground - (41.5, 66
 A The Legend of Stalvan |QID|68| |N|the Old Footlocker on the ground - (41.5, 66.7)| |Z|Westfall|
 A The Coastal Menace |QID|104| |N|Captain Grayson - (30.0, 86.0)| |Z|Westfall|
 A Keeper of the Flame |QID|103| |N|Captain Grayson - (30.0, 86.0)| |Z|Westfall|
-C The Coastal Menace |QID|104| |N|Old Murk-Eye |cRXP_WARN_patrols up and down the Longshore. If you don't see him along the Longshore, wait for him to spawn in the most southern Murloc camp (34.4, 83.9)| |Z|Westfall|
+C The Coastal Menace |QID|104| |N|Old Murk-Eye patrols up and down the Longshore. If you don't see him along the Longshore, wait for him to spawn in the most southern Murloc camp (34.4, 83.9)| |Z|Westfall|
 T The Coastal Menace |QID|104| |N|Captain Grayson - (30.0, 86.0)| |Z|Westfall|
 T Keeper of the Flame |QID|103| |N|Captain Grayson - (30.0, 86.0)| |Z|Westfall|
 T The Coastal Menace |QID|104| |N|Captain Grayson - (30.0, 86.0)| |Z|Westfall|
 R Swim out to sea |N|(17.9, 33.1)| |O| |C|Druid| |Z|Westfall|
-C the Strange Lockbox. Loot it for the Half Pendant of Aquatic Endurance |QID|272| |N|the Strange Lockbox. Loot it for the Half Pendant of Aquatic Endurance - (17.9, 33.1)| |C|Druid| |Z|Westfall|
+C the Strange Lockbox. Loot it for the Half Pendant of Aquatic Endurance |QID|272| |L|15882 1| |N|the Strange Lockbox. Loot it for the Half Pendant of Aquatic Endurance - (17.9, 33.1)| |C|Druid| |Z|Westfall|
 R Travel to Moonglade |N|(36.0, 41.4)| |C|Druid| |Z|Moonglade|
 C Complete task |QID|272| |N|(36.0, 41.4)| |C|Druid| |Z|Moonglade|
 N This will save you time from running back |O| |C|Druid| |Z|Moonglade|
@@ -151,7 +151,7 @@ R Travel toward Shaina Fuller |N|(43.1, 26.2)| |O| |C|Rogue| |R|!Dwarf| |Z|Storm
 R Shaina Fuller |N|(43.1, 26.2)| |C|Rogue| |R|!Dwarf| |Z|Stormwind City|
 N If you have a Paladin or Druid friend, ask them to remove the [Touch of Zanzil] for you instead |N|(43.1, 26.2)| |C|Rogue| |R|!Dwarf| |Z|Stormwind City|
 t Train [Anti-Venom] |N|Shaina Fuller - (43.1, 26.2)| |C|Rogue| |R|!Dwarf| |Z|Stormwind City|
-C Craft an [Anti-Venom] |C|Rogue| |R|!Dwarf| |Z|Stormwind City|
+C Craft an [Anti-Venom] |L|6452 1| |C|Rogue| |R|!Dwarf| |Z|Stormwind City|
 t Training (7934) |C|Rogue| |R|!Dwarf| |Z|Stormwind City|
 R Enter the SI:7 Headquarters. Travel up stairs toward Master Mathias Shaw |N|(78.7, 60.1)| |O| |C|Rogue| |Z|Stormwind City|
 N Remember to re-equip your main weapon if you switched to a [Dagger] earlier |N|(75.8, 59.8)| |C|Rogue| |Z|Stormwind City|
@@ -201,19 +201,19 @@ C An Unwelcome Guest |QID|34| |N|Bellygrub. Loot him for his Tusk (15.7, 49.3)| 
 T An Unwelcome Guest |QID|34| |N|Martie Jainrose - (21.9, 46.3)| |C|Hunter| |Z|Redridge Mountains|
 A Selling Fish |QID|127| |N|Dockmaster Baren - (27.7, 47.4)| |Z|Redridge Mountains|
 A Murloc Poachers |QID|150| |N|Dockmaster Baren - (27.7, 47.4)| |Z|Redridge Mountains|
-C Murloc Poachers |QID|150| |N|Murloc Scouts and Murloc Tidecallers. Loot them for their Fins and Sunfish (56.4, 51.8)| |O| |Z|Redridge Mountains|
+C Murloc Scouts and Murloc Tidecallers. Loot them for their Fins and Sunfish |QID|150| |L|1468 8| |N|Murloc Scouts and Murloc Tidecallers. Loot them for their Fins and Sunfish - (56.4, 51.8)| |O| |Z|Redridge Mountains|
 C Selling Fish |QID|127| |N|Murloc Scouts and Murloc Tidecallers. Loot them for their Fins and Sunfish (56.4, 51.8)| |O| |Z|Redridge Mountains|
-N |cRXP_WARN_Be aware the Blackrock Outrunners will cast [Net] on you |N|(61.8, 43.5)| |Z|Redridge Mountains|
-N |cRXP_WARN_Alternate between killing Orcs and the Murlocs marked on the map southwest |N|(61.8, 43.5)| |Z|Redridge Mountains|
+N Be aware the Blackrock Outrunners will cast [Net] on you |N|(61.8, 43.5)| |Z|Redridge Mountains|
+N Alternate between killing Orcs and the Murlocs marked on the map southwest |N|(61.8, 43.5)| |Z|Redridge Mountains|
 C Blackrock Menace |QID|20| |N|Kill Blackrock Grunts and Blackrock Outrunners. Loot them for their Axes (61.8, 43.5)| |Z|Redridge Mountains|
-C Murloc Poachers |QID|150| |N|Murloc Scouts and Murloc Tidecallers. Loot them for their Fins and Sunfish (56.4, 51.8)| |Z|Redridge Mountains|
+C Murloc Scouts and Murloc Tidecallers. Loot them for their Fins and Sunfish |QID|150| |L|1468 8| |N|Murloc Scouts and Murloc Tidecallers. Loot them for their Fins and Sunfish - (56.4, 51.8)| |Z|Redridge Mountains|
 C Selling Fish |QID|127| |N|Murloc Scouts and Murloc Tidecallers. Loot them for their Fins and Sunfish (56.4, 51.8)| |Z|Redridge Mountains|
 T Blackrock Menace |QID|20| |N|Marshal Marris - (33.5, 49.0)| |Z|Redridge Mountains|
 T Selling Fish |QID|127| |N|Dockmaster Baren - (27.7, 47.4)| |Z|Redridge Mountains|
 T Murloc Poachers |QID|150| |N|Dockmaster Baren - (27.7, 47.4)| |Z|Redridge Mountains|
 A Solomon's Law |QID|91| |N|Bailiff Conacher - (29.7, 44.3)| |C|Hunter| |Z|Redridge Mountains|
 F Fly to Duskwood |N|Ariena Stormfeather - (30.6, 59.4)| |O| |Z|Redridge Mountains|
-C Seasoned Wolf Kabobs |QID|90| |N|Kill Black Ravager Mastiff| |O| |Z|Redridge Mountains|
+C Wolves throughout Duskwood. Loot them for their Lean Wolf Flanks |QID|90| |L|1015 10| |O| |Z|Redridge Mountains|
 T Ghost Hair Thread |QID|149| |N|Blind Mary - (82.0, 59.1)| |Z|Duskwood|
 A Return the Comb |QID|154| |N|Blind Mary - (82.0, 59.1)| |Z|Duskwood|
 T Return the Comb |QID|154| |N|Madame Eva inside - (75.8, 45.3)| |Z|Duskwood|
@@ -249,7 +249,7 @@ N Kill Dextren Ward on the west prison wing. Loot him for his Hand |N|(Stockades
 C Kill Targorr the Dread. Loot him for his Head. Targorr has a random spawn location |N|Kill Targorr the Dread. Loot him for his Head. Targorr has a random spawn location (Stockades Dungeon Quest)| |D|Stockades| |Z|Stormwind City|
 N Ensure you have 3 [Silk Cloth] for the follow up of this quest chain |N|(Stockades Dungeon Quest)| |D|Stockades| |Z|Stormwind City|
 C The Stockade Riots |QID|391| |N|Kill Bazil Thredd on the east prison wing. Loot him for his Head (Stockades Dungeon Quest)| |D|Stockades| |Z|Stormwind City|
-C Kill Bazil Thredd on the east prison wing. Loot him for his Head |QID|2746| |N|Kill Bazil Thredd on the east prison wing. Loot him for his Head (Stockades Dungeon Quest)| |D|Stockades| |Z|Stormwind City|
+C Bazil Thredd on the east prison wing. Loot him for his Head |QID|2746| |L|4306 3| |N|Kill Bazil Thredd on the east prison wing. Loot him for his Head (Stockades Dungeon Quest)| |D|Stockades| |Z|Stormwind City|
 T Quell The Uprising |QID|387| |N|Warden Thelwater - (41.1, 58.1) (Stockades Dungeon Quest)| |D|Stockades| |Z|Stormwind City|
 T The Stockade Riots |QID|391| |N|Warden Thelwater - (41.1, 58.1) (Stockades Dungeon Quest)| |D|Stockades| |Z|Stormwind City|
 A The Curious Visitor |QID|392| |N|Warden Thelwater - (41.1, 58.1) (Stockades Dungeon Quest)| |D|Stockades| |Z|Stormwind City|
@@ -275,7 +275,7 @@ N Automatic quest accept has been turned off for this step. Note you may not be 
 T Items of Some Consequence |QID|2746| |N|Tyrion - (69.2, 14.4) (Stockades Dungeon Quest)| |D|Stockades| |Z|Stormwind City|
 A The Attack! |QID|434| |N|Tyrion - (69.2, 14.4) (Stockades Dungeon Quest)| |D|Stockades| |Z|Stormwind City|
 N Kill Lord Gregor Lescovar and Marzon the Silent Blade |N|(68.0, 14.1) (Stockades Dungeon Quest)| |D|Stockades| |Z|Stormwind City|
-C The Attack! |QID|434| |N||cRXP_WARN_Wait in the center of the courtyard for Lord Gregor Lescovar and Marzon the Silent Blade to arrive. This takes roughly 2 minutes (68.0, 14.1) (Stockades Dungeon Quest)| |D|Stockades| |Z|Stormwind City|
+C The Attack! |QID|434| |N|Wait in the center of the courtyard for Lord Gregor Lescovar and Marzon the Silent Blade to arrive. This takes roughly 2 minutes (68.0, 14.1) (Stockades Dungeon Quest)| |D|Stockades| |Z|Stormwind City|
 T The Attack! |QID|434| |N|Elling Trias up stairs - (59.9, 64.2) (Stockades Dungeon Quest)| |D|Stockades| |Z|Stormwind City|
 A The Head of the Beast |QID|394| |N|Elling Trias up stairs - (59.9, 64.2) (Stockades Dungeon Quest)| |D|Stockades| |Z|Stormwind City|
 R Enter the SI:7 Headquarters. Travel up stairs toward Master Mathias Shaw |N|(78.7, 60.1) (Stockades Dungeon Quest)| |D|Stockades| |Z|Stormwind City|
@@ -304,7 +304,7 @@ N Wu or Ilsa |N|(76.1, 50.1)| |C|Warrior| |Z|Stormwind City|
 t Train your class spells |N|(78.7, 45.8)| |C|Warrior| |Z|Stormwind City|
 t Train your class spells |N|Osborne - (74.7, 52.8)| |C|Rogue| |Z|Stormwind City|
 B Buy 2 [Rune of Teleportation] from her |N|Kyra Boucher - (56.1, 65.2)| |O| |C|Mage| |Z|Stormwind City|
-C Kyra Boucher |N|Kyra Boucher - (56.1, 65.2)| |O| |C|Mage| |Z|Stormwind City|
+B Kyra Boucher |L|17031 2| |N|Kyra Boucher - (56.1, 65.2)| |O| |C|Mage| |Z|Stormwind City|
 F Fly to Duskwood |N|Dungar Longdrink - (66.3, 62.1)| |O| |Z|Stormwind City|
 A Look To The Stars |QID|174| |N|Viktori Prism'Antras - (79.8, 48.0)| |Z|Duskwood|
 T Look To The Stars |QID|174| |N|Viktori Prism'Antras - (79.8, 48.0)| |Z|Duskwood|
@@ -312,8 +312,8 @@ A Look To The Stars |QID|175| |N|Viktori Prism'Antras - (79.8, 48.0)| |Z|Duskwoo
 T Look To The Stars |QID|175| |N|Blind Mary - (81.5, 59.0)| |Z|Duskwood|
 A Look To The Stars |QID|177| |N|Blind Mary - (81.5, 59.0)| |Z|Duskwood|
 N Don't start the quest for it yet |O| |Z|Duskwood|
-C |cRXP_WARN_Keep at eye out for [An Old History Book]. This is a zone-wide drop in Duskwood |QID|337| |N||cRXP_WARN_Keep at eye out for [An Old History Book]. This is a zone-wide drop in Duskwood| |O| |Z|Duskwood|
-N |cRXP_WARN_The Insane Ghoul may be inside of the chapel or walking around outside |N|(81.0, 71.7)| |Z|Duskwood|
+C Keep at eye out for [An Old History Book]. This is a zone-wide drop in Duskwood |QID|337| |L|2794 1| |N|Keep at eye out for [An Old History Book]. This is a zone-wide drop in Duskwood| |O| |Z|Duskwood|
+N The Insane Ghoul may be inside of the chapel or walking around outside |N|(81.0, 71.7)| |Z|Duskwood|
 C Look To The Stars |QID|177| |N|the Insane Ghoul. Loot him for Mary's Looking Glass (81.0, 71.7)| |Z|Duskwood|
 T Look To The Stars |QID|177| |N|Viktori Prism'Antras - (79.8, 48.0)| |Z|Duskwood|
 A Worgen in the Woods |QID|173| |N|Calor - (75.3, 48.0)| |Z|Duskwood|
@@ -331,13 +331,13 @@ A Seasoned Wolf Kabobs |QID|90| |N|Chef Grual in the inn's kitchen - (73.8, 44.0
 T Seasoned Wolf Kabobs |QID|90| |N|Chef Grual in the inn's kitchen - (73.8, 44.0)| |Z|Duskwood|
 T Dusky Crab Cakes |QID|93| |N|Chef Grual in the inn's kitchen - (73.9, 43.5)| |Z|Duskwood|
 A Return to Jitters |QID|240| |N|Chef Grual in the inn's kitchen - (73.9, 43.5)| |Z|Duskwood|
-C Seasoned Wolf Kabobs |QID|90| |N|Kill Black Ravager Mastiff| |O| |Z|Duskwood|
+C Wolves throughout Duskwood. Loot them for their Lean Wolf Flanks |QID|90| |L|1015 10| |O| |Z|Duskwood|
 R Raven Hill Cemetery |N|(22.9, 44.8)| |O| |Z|Duskwood|
 T Finding the Shadowy Figure |QID|453| |N|Jitters - (18.4, 56.4)| |Z|Duskwood|
 A Return to Sven |QID|268| |N|Jitters - (18.4, 56.4)| |Z|Duskwood|
 T Return to Jitters |QID|240| |N|Jitters - (18.4, 56.4)| |Z|Duskwood|
 N Don't start the quest for it yet |O| |Z|Duskwood|
-C |cRXP_WARN_Keep at eye out for [An Old History Book]. This is a zone-wide drop in Duskwood |QID|337| |N||cRXP_WARN_Keep at eye out for [An Old History Book]. This is a zone-wide drop in Duskwood| |O| |Z|Duskwood|
+C Keep at eye out for [An Old History Book]. This is a zone-wide drop in Duskwood |QID|337| |L|2794 1| |N|Keep at eye out for [An Old History Book]. This is a zone-wide drop in Duskwood| |O| |Z|Duskwood|
 C The Night Watch |QID|57| |N|Skeletal Fiends and Skeletal Horrors. Loot them for their Rot Blossoms (21.2, 47.1)| |Z|Duskwood|
 C Gather Rot Blossoms |QID|156| |N|Skeletal Fiends and Skeletal Horrors. Loot them for their Rot Blossoms (21.2, 47.1)| |Z|Duskwood|
 T Return to Sven |QID|268| |N|Sven Yorgen - (7.8, 34.1)| |Z|Duskwood|

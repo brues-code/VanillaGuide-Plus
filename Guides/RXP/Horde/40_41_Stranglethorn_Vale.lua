@@ -28,7 +28,7 @@ T The Troll Witchdoctor |QID|1240| |N|Kin'weelay - (32.2, 27.8)| |Z|Stranglethor
 A Bloodscalp Clan Heads |QID|584| |N|Nimboya - (32.1, 27.8)| |Z|Stranglethorn Vale|
 A Split Bone Necklace |QID|598| |N|Kin'weelay - (32.2, 27.7)| |Z|Stranglethorn Vale|
 R the Ruins of Zul'Kunda |N|(23.8, 10.8)| |O| |Z|Stranglethorn Vale|
-N |cRXP_WARN_Be careful. Nezzliok casts [Shock]. An instant 280 damage spell |N|(23.5, 9.5)| |Z|Stranglethorn Vale|
+N Be careful. Nezzliok casts [Shock]. An instant 280 damage spell |N|(23.5, 9.5)| |Z|Stranglethorn Vale|
 C Bloodscalp Clan Heads |QID|584| |N|Nezzliok the Dire. Loot him for his Head (23.5, 9.5)| |Z|Stranglethorn Vale|
 C Bloodscalp Clan Heads |QID|584| |N|Gan'zulah. Loot him for his Head (23.4, 8.1)| |Z|Stranglethorn Vale|
 T Bloodscalp Clan Heads |QID|584| |N|on the Bubbling Cauldron - (32.2, 27.6)| |Z|Stranglethorn Vale|
@@ -47,16 +47,16 @@ C Skullsplitter Tusks |QID|209| |N|Finish killing Skullsplitter Trolls. Loot the
 C Split Bone Necklace |QID|598| |N|Finish killing Skullsplitter Trolls. Loot them for their Tusks and Necklaces (43.4, 37.9)| |Z|Stranglethorn Vale|
 N Bhag'thera can spawn north or west of the Mosh'Ogg Ogre Mound |N|(47.3, 24.0)| |Z|Stranglethorn Vale|
 N Before engaging Bhag'thera, clear the area of Shadowmaw Panthers to avoid adds |N|(47.3, 24.0)| |Z|Stranglethorn Vale|
-N Cast [Eagle Eye] |cRXP_WARN_to try and locate Bhag'thera |N|(47.3, 24.0)| |C|Hunter| |Z|Stranglethorn Vale|
-N Cast [Far Sight] |cRXP_WARN_to try and locate Bhag'thera |N|(47.3, 24.0)| |C|Shaman| |Z|Stranglethorn Vale|
+N Cast [Eagle Eye] to try and locate Bhag'thera |N|(47.3, 24.0)| |C|Hunter| |Z|Stranglethorn Vale|
+N Cast [Far Sight] to try and locate Bhag'thera |N|(47.3, 24.0)| |C|Shaman| |Z|Stranglethorn Vale|
 C Panther Mastery |QID|193| |N|Bhag'thera. Loot him for his Fang (47.3, 24.0)| |Z|Stranglethorn Vale|
 C Some Assembly Required |QID|577| |N|Snapjaw Crocolisks along the river. Loot them for their Skin (41.4, 21.9)| |Z|Stranglethorn Vale|
 B Sell your junk, then restock on food and water if necessary |N|Innkeeper Thulbek - (31.5, 29.8)| |C|!Rogue/!Warrior| |Z|Stranglethorn Vale|
 B Sell your junk, then restock on food if necessary |N|Innkeeper Thulbek - (31.5, 29.8)| |C|Rogue/Warrior| |Z|Stranglethorn Vale|
 N Buy [Razor Arrows] from him |N|(31.6, 27.9)| |C|Hunter| |Z|Stranglethorn Vale|
-C Sunken Treasure |QID|669| |N|Uthok (31.6, 27.9)| |C|Hunter| |Z|Stranglethorn Vale|
+B Uthok |L|3030 2600| |N|Uthok - (31.6, 27.9)| |C|Hunter| |Z|Stranglethorn Vale|
 N Buy [Jagged Arrows] from him |N|(31.6, 27.9)| |C|Hunter| |Z|Stranglethorn Vale|
-C Sunken Treasure |QID|669| |N|Uthok (31.6, 27.9)| |C|Hunter| |Z|Stranglethorn Vale|
+B Uthok |L|11285 2600| |N|Uthok - (31.6, 27.9)| |C|Hunter| |Z|Stranglethorn Vale|
 T Mok'thardin's Enchantment |QID|572| |N|Far Seer Mok'thardin - (32.1, 29.2)| |Z|Stranglethorn Vale|
 T Split Bone Necklace |QID|598| |N|Kin'weelay - (32.2, 27.8)| |Z|Stranglethorn Vale|
 T Speaking with Nezzliok |QID|585| |N|Click on the Bubbling Cauldron| |Z|Stranglethorn Vale|

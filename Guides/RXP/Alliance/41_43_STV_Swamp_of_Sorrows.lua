@@ -65,7 +65,7 @@ A The Curse of the Tides |QID|611| |N|Catelyn the Blade - (27.3, 77.5)| |Z|Stran
 A Up to Snuff |QID|587| |N|Deeg - (26.9, 77.3)| |C|!Warlock| |Z|Stranglethorn Vale|
 T The Bloodsail Buccaneers |QID|599| |N|Fleet Master Seahorn - (27.2, 77.0)| |Z|Stranglethorn Vale|
 A Keep An Eye Out |QID|576| |N|Dizzy One-Eye - (28.6, 75.9)| |Z|Stranglethorn Vale|
-C Keep any [Gorilla Fangs] you might loot. You will need 10 for a quest later |N|Keep any [Gorilla Fangs] you might loot. You will need 10 for a quest later| |O| |Z|Stranglethorn Vale|
+C Keep any [Gorilla Fangs] you might loot. You will need 10 for a quest later |L|2799 10| |N|Keep any [Gorilla Fangs] you might loot. You will need 10 for a quest later| |O| |Z|Stranglethorn Vale|
 C Scaring Shaky |QID|606| |N|Elder Mistvale Gorillas. Loot them for their Mistvale Giblets and Gorilla Fangs (33.5, 65.2)| |Z|Stranglethorn Vale|
 C Raptor Mastery |QID|196| |N|Jungle Stalkers (31.9, 40.9)| |Z|Stranglethorn Vale|
 N Tethis can spawn in any of the spots marked on your map |N|(31.1, 43.2)| |O| |Z|Stranglethorn Vale|
@@ -106,23 +106,23 @@ R Head through the bridge to the island |N|(26.1, 67.0)| |O| |Z|Stranglethorn Va
 C Akiris by the Bundle |QID|617| |N|Naga Explorers on the island. Loot them for their Akiris Reeds (26.0, 62.5)| |Z|Stranglethorn Vale|
 R Head to the beach east of booty bay |N|(32.9, 74.1)| |Z|Stranglethorn Vale|
 N Don't start the quest for this yet |O| |Z|Stranglethorn Vale|
-C Open the Half-Buried Bottles along the coast. Loot them for a [Carefully Folded Note] |QID|594| |N|Open the Half-Buried Bottles along the coast. Loot them for a [Carefully Folded Note]| |O| |Z|Stranglethorn Vale|
+C the Half-Buried Bottles along the coast. Loot them for a [Carefully Folded Note] |QID|594| |L|4098 1| |N|Open the Half-Buried Bottles along the coast. Loot them for a [Carefully Folded Note]| |O| |Z|Stranglethorn Vale|
 C Up to Snuff |QID|587| |N|Kill the Bloodsail. Loot them for their Snuff and Dizzy's Eye| |O| |Z|Stranglethorn Vale|
 C Keep An Eye Out |QID|576| |N|Kill the Bloodsail. Loot them for their Snuff and Dizzy's Eye| |O| |Z|Stranglethorn Vale|
 N Loot the Bloodsail Charts and Bloodsail Orders. These can spawn randomly at one of the camps or in the small rowboat |N|(27.0, 83.2)| |Z|Stranglethorn Vale|
 C The Bloodsail Buccaneers |QID|604| |N|Bloodsail Swashbucklers (27.0, 83.2)| |Z|Stranglethorn Vale|
 N Don't start the quest for this yet |O| |Z|Stranglethorn Vale|
-C Open the Half-Buried Bottles along the coast. Loot them for a [Carefully Folded Note] |QID|594| |N|Open the Half-Buried Bottles along the coast. Loot them for a [Carefully Folded Note]| |O| |Z|Stranglethorn Vale|
+C the Half-Buried Bottles along the coast. Loot them for a [Carefully Folded Note] |QID|594| |L|4098 1| |N|Open the Half-Buried Bottles along the coast. Loot them for a [Carefully Folded Note]| |O| |Z|Stranglethorn Vale|
 C Up to Snuff |QID|587| |N|Kill the Bloodsail. Loot them for their Snuff and Dizzy's Eye| |O| |Z|Stranglethorn Vale|
 C Keep An Eye Out |QID|576| |N|Kill the Bloodsail. Loot them for their Snuff and Dizzy's Eye| |O| |Z|Stranglethorn Vale|
 N Loot the Bloodsail Charts and Bloodsail Orders. These can spawn randomly at one of the camps or in the small rowboat |N|(27.0, 83.2)| |Z|Stranglethorn Vale|
 C The Bloodsail Buccaneers |QID|604| |N|Bloodsail Swashbucklers (27.0, 83.2)| |Z|Stranglethorn Vale|
-N |cRXP_WARN_Use [Cortello's Riddle] to start the quest |N|(29.3, 88.3)| |Z|Stranglethorn Vale|
+N Use [Cortello's Riddle] to start the quest |N|(29.3, 88.3)| |Z|Stranglethorn Vale|
 N Cast [Eagle Eye] to try and find which location it is in |N|(29.3, 88.3)| |C|Hunter| |Z|Stranglethorn Vale|
-C Cortello's Riddle |QID|624| |N|Search the Bloodsail Ships for [Cortello's Riddle]. It can spawn on any of the 3 ships (30.7, 88.6)| |Z|Stranglethorn Vale|
+C Search the Bloodsail Ships for [Cortello's Riddle]. It can spawn on any of the 3 ships |QID|624| |L|4056 1| |N|(30.7, 88.6)| |Z|Stranglethorn Vale|
 A Cortello's Riddle |QID|624| |N|(30.7, 88.6)| |Z|Stranglethorn Vale|
 N Don't start the quest for this yet |O| |Z|Stranglethorn Vale|
-C Open the Half-Buried Bottles along the coast. Loot them for a [Carefully Folded Note] |QID|594| |N|Open the Half-Buried Bottles along the coast. Loot them for a [Carefully Folded Note]| |O| |Z|Stranglethorn Vale|
+C the Half-Buried Bottles along the coast. Loot them for a [Carefully Folded Note] |QID|594| |L|4098 1| |N|Open the Half-Buried Bottles along the coast. Loot them for a [Carefully Folded Note]| |O| |Z|Stranglethorn Vale|
 C Up to Snuff |QID|587| |N|the Bloodsail. Loot them for their Snuff and Dizzy's Eye (27.0, 83.2)| |Z|Stranglethorn Vale|
 C Keep An Eye Out |QID|576| |N|the Bloodsail. Loot them for their Snuff and Dizzy's Eye (27.0, 83.2)| |Z|Stranglethorn Vale|
 C Zanzil's Secret |QID|621| |N|the Zanzils. Loot them for their Mixtures (34.9, 51.8)| |O| |Z|Stranglethorn Vale|
@@ -138,7 +138,7 @@ C Tethis. Loot him for his Talon |QID|197| |N|Tethis. Loot him for his Talon - (
 R Nesingwary's Expedition |N|(35.7, 10.8)| |O| |Z|Stranglethorn Vale|
 T Raptor Mastery |QID|197| |N|Sir S. J. Erlgadin and Hemet Nesingwary - (35.7, 10.8)| |Z|Stranglethorn Vale|
 A Big Game Hunter |QID|208| |N|Sir S. J. Erlgadin and Hemet Nesingwary - (35.7, 10.8)| |Z|Stranglethorn Vale|
-N King Bangalash |cRXP_WARN_will spawn 2 Panthers at 50% health. Try to CC him just before 50% if possible so it prevents him from spawning any |N|(38.2, 35.6)| |Z|Stranglethorn Vale|
+N King Bangalash will spawn 2 Panthers at 50% health. Try to CC him just before 50% if possible so it prevents him from spawning any |N|(38.2, 35.6)| |Z|Stranglethorn Vale|
 N If you saved the [Flash Bomb] from the Badlands you can use it to [Fear] him. This fear DOES NOT break on damage making it very useful for bringing him below the 50% threshold while CCd |N|(38.2, 35.6)| |Z|Stranglethorn Vale|
 C Big Game Hunter |QID|208| |N|King Bangalash. Loot him for the Head of Bangalash (38.2, 35.6)| |Z|Stranglethorn Vale|
 T Big Game Hunter |QID|208| |N|Hemet Nesingwary - (35.7, 10.8)| |Z|Stranglethorn Vale|

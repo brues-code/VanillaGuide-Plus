@@ -20,7 +20,7 @@ T Deliver to MacKinley |QID|2874| |N|"Sea Wolf" - (27.7, 77.1)| |Z|Stranglethorn
 T Whiskey Slim's Lost Grog |QID|580| |N|Whiskey Slim - (27.1, 77.5)| |Z|Stranglethorn Vale|
 T Report Back to Fizzlebub |QID|1122| |N|Crank - (27.1, 77.3)| |Z|Stranglethorn Vale|
 T Facing Negolash |QID|619| |N|the Ruined Lifeboat - (32.5, 81.9)| |Z|Stranglethorn Vale|
-C Message in a Bottle |QID|594| |N|the Half-Burried Bottles along the southeastern coast (32.4, 82.2)| |Z|Stranglethorn Vale|
+C the Half-Burried Bottles along the southeastern coast |QID|594| |L|4098 1| |N|the Half-Burried Bottles along the southeastern coast - (32.4, 82.2)| |Z|Stranglethorn Vale|
 A Message in a Bottle |QID|594| |N|the Half-Burried Bottles along the southeastern coast - (32.4, 82.2)| |Z|Stranglethorn Vale|
 T Message in a Bottle |QID|594| |N|Princess Poobah - (38.5, 80.6)| |Z|Stranglethorn Vale|
 A Message in a Bottle |QID|630| |N|Princess Poobah - (38.5, 80.6)| |Z|Stranglethorn Vale|
@@ -44,17 +44,17 @@ R Travel to Blasted Lands |N|(48.0, 34.4)| |C|Warrior| |Z|Blasted Lands|
 C Warrior Kinship |QID|8423| |N|Helboars in the Blasted Lands (50.8, 36.0)| |C|Warrior| |Z|Blasted Lands|
 T Warrior Kinship |QID|8423| |N|the Fallen Hero of the Horde - (34.2, 66.0)| |C|Warrior| |Z|Swamp of Sorrows|
 A War on the Shadowsworn |QID|8424| |N|the Fallen Hero of the Horde - (34.2, 66.0)| |C|Warrior| |Z|Swamp of Sorrows|
-C Everything Counts In Large Amounts |QID|3501| |N|As you're questing, keep an eye out for [Imperfect Draenethyst Fragments] and a [Flawless Draenethyst Sphere]| |O| |Z|Swamp of Sorrows|
+C As you're questing, keep an eye out for [Imperfect Draenethyst Fragments] and a [Flawless Draenethyst Sphere] |QID|3501| |L|10593 1| |N|As you're questing, keep an eye out for [Imperfect Draenethyst Fragments] and a [Flawless Draenethyst Sphere]| |O| |Z|Swamp of Sorrows|
 R Travel to Blasted Lands |N|(56.7, 29.2)| |O| |C|Hunter/Rogue| |Z|Blasted Lands|
 R Vultures. Loot them for their Gizzards |N|(62.5, 28.0)| |O| |C|Hunter/Rogue| |Z|Blasted Lands|
 N Kill Basilisks. Loot them for their Brains |N|(62.5, 28.0)| |O| |C|Hunter/Rogue| |Z|Blasted Lands|
 N Kill Boars. Loot them for their Lungs |N|(62.5, 28.0)| |O| |C|Hunter/Rogue| |Z|Blasted Lands|
 N Kill Scorpids. Loot them for their Pincers |N|(62.5, 28.0)| |O| |C|Hunter/Rogue| |Z|Blasted Lands|
 N Kill Hyenas. Loot them for their Jowls |N|(62.5, 28.0)| |O| |C|Hunter/Rogue| |Z|Blasted Lands|
-N |cRXP_WARN_Prioritize Scorpids, Vultures and Boars so you can receive the 25 Agility buff |N|(62.5, 28.0)| |O| |C|Hunter/Rogue| |Z|Blasted Lands|
-N |cRXP_WARN_Basilisks share spawns with Boars, and Hyenas share spawns with Scorpids |N|(62.5, 28.0)| |O| |C|Hunter/Rogue| |Z|Blasted Lands|
-N |cRXP_WARN_Once you have 3 Pincers, 2 Gizzards and 1 Lung turn in the quest for the 25 Agility buff |N|(50.5, 14.2)| |C|Hunter/Rogue| |Z|Blasted Lands|
-C The Decisive Striker |QID|2585| |N|Ambassador Ardalan (50.5, 14.2)| |C|Hunter/Rogue| |Z|Blasted Lands|
+N Prioritize Scorpids, Vultures and Boars so you can receive the 25 Agility buff |N|(62.5, 28.0)| |O| |C|Hunter/Rogue| |Z|Blasted Lands|
+N Basilisks share spawns with Boars, and Hyenas share spawns with Scorpids |N|(62.5, 28.0)| |O| |C|Hunter/Rogue| |Z|Blasted Lands|
+N Once you have 3 Pincers, 2 Gizzards and 1 Lung turn in the quest for the 25 Agility buff |N|(50.5, 14.2)| |C|Hunter/Rogue| |Z|Blasted Lands|
+C Ambassador Ardalan |QID|2585| |L|8393 3| |N|Ambassador Ardalan - (50.5, 14.2)| |C|Hunter/Rogue| |Z|Blasted Lands|
 A The Decisive Striker |QID|2585| |N|Ambassador Ardalan - (50.5, 14.2)| |C|Hunter/Rogue| |Z|Blasted Lands|
 T The Decisive Striker |QID|2585| |N|Ambassador Ardalan - (50.5, 14.2)| |C|Hunter/Rogue| |Z|Blasted Lands|
 A The Decisive Striker |QID|2585| |N|Ambassador Ardalan - (50.5, 14.2)| |C|Hunter/Rogue| |Z|Blasted Lands|
@@ -64,10 +64,10 @@ N Kill Basilisks. Loot them for their Brains |N|(62.5, 28.0)| |O| |C|Druid/Shama
 N Kill Boars. Loot them for their Lungs |N|(62.5, 28.0)| |O| |C|Druid/Shaman/Warrior| |Z|Blasted Lands|
 N Kill Scorpids. Loot them for their Pincers |N|(62.5, 28.0)| |O| |C|Druid/Shaman/Warrior| |Z|Blasted Lands|
 N Kill Hyenas. Loot them for their Jowls |N|(62.5, 28.0)| |O| |C|Druid/Shaman/Warrior| |Z|Blasted Lands|
-N |cRXP_WARN_Prioritize Hyenas, Boars and Scorpids so you can receive the 25 Strength buff |N|(62.5, 28.0)| |O| |C|Druid/Shaman/Warrior| |Z|Blasted Lands|
-N |cRXP_WARN_Basilisks share spawns with Boars, and Hyenas share spawns with Scorpids |N|(62.5, 28.0)| |O| |C|Druid/Shaman/Warrior| |Z|Blasted Lands|
-N |cRXP_WARN_Once you have 3 Jowls, 2 Lungs and 1 Pincer turn in the quest for the 25 Strength buff |N|(50.5, 14.2)| |C|Druid/Shaman/Warrior| |Z|Blasted Lands|
-C Snickerfang Jowls |QID|2581| |N|Ambassador Ardalan (50.5, 14.2)| |C|Druid/Shaman/Warrior| |Z|Blasted Lands|
+N Prioritize Hyenas, Boars and Scorpids so you can receive the 25 Strength buff |N|(62.5, 28.0)| |O| |C|Druid/Shaman/Warrior| |Z|Blasted Lands|
+N Basilisks share spawns with Boars, and Hyenas share spawns with Scorpids |N|(62.5, 28.0)| |O| |C|Druid/Shaman/Warrior| |Z|Blasted Lands|
+N Once you have 3 Jowls, 2 Lungs and 1 Pincer turn in the quest for the 25 Strength buff |N|(50.5, 14.2)| |C|Druid/Shaman/Warrior| |Z|Blasted Lands|
+C Ambassador Ardalan |QID|2581| |L|8391 3| |N|Ambassador Ardalan - (50.5, 14.2)| |C|Druid/Shaman/Warrior| |Z|Blasted Lands|
 A Snickerfang Jowls |QID|2581| |N|Ambassador Ardalan - (50.5, 14.2)| |C|Druid/Shaman/Warrior| |Z|Blasted Lands|
 T Snickerfang Jowls |QID|2581| |N|Ambassador Ardalan - (50.5, 14.2)| |C|Druid/Shaman/Warrior| |Z|Blasted Lands|
 A Snickerfang Jowls |QID|2581| |N|Bloodmage Drazial - (50.5, 14.2)| |C|Druid/Shaman/Warrior| |Z|Blasted Lands|
@@ -77,7 +77,7 @@ N Kill Basilisks. Loot them for their Brains |N|(62.5, 28.0)| |Z|Blasted Lands|
 N Kill Boars. Loot them for their Lungs |N|(62.5, 28.0)| |Z|Blasted Lands|
 N Kill Scorpids. Loot them for their Pincers |N|(62.5, 28.0)| |Z|Blasted Lands|
 N Kill Hyenas. Loot them for their Jowls |N|(62.5, 28.0)| |Z|Blasted Lands|
-N |cRXP_WARN_Basilisks share spawns with Boars, and Hyenas share spawns with Scorpids |N|(62.5, 28.0)| |Z|Blasted Lands|
+N Basilisks share spawns with Boars, and Hyenas share spawns with Scorpids |N|(62.5, 28.0)| |Z|Blasted Lands|
 A The Basilisk's Bite |QID|2601| |N|Bloodmage Lynnore and Bloodmage Drazial - (50.6, 14.3)| |Z|Blasted Lands|
 T The Basilisk's Bite |QID|2601| |N|Bloodmage Lynnore and Bloodmage Drazial - (50.6, 14.3)| |Z|Blasted Lands|
 A Vulture's Vigor |QID|2603| |N|Bloodmage Lynnore and Bloodmage Drazial - (50.6, 14.3)| |Z|Blasted Lands|
@@ -90,10 +90,10 @@ A Snickerfang Jowls |QID|2581| |N|Bloodmage Lynnore and Bloodmage Drazial - (50.
 T Snickerfang Jowls |QID|2581| |N|Bloodmage Lynnore and Bloodmage Drazial - (50.6, 14.3)| |Z|Blasted Lands|
 A Everything Counts In Large Amounts |QID|3501| |N|Kum'isha the Collector - (51.8, 35.6)| |O| |Z|Blasted Lands|
 T Everything Counts In Large Amounts |QID|3501| |N|Kum'isha the Collector - (51.8, 35.6)| |O| |Z|Blasted Lands|
-C Everything Counts In Large Amounts |QID|3501| |N|Kum'isha the Collector (51.8, 35.6)| |O| |Z|Blasted Lands|
+C Kum'isha the Collector |QID|3501| |L|10593 1| |N|Kum'isha the Collector - (51.8, 35.6)| |O| |Z|Blasted Lands|
 A To Serve Kum'isha |QID|2521| |N|Kum'isha the Collector - (51.8, 35.6)| |O| |Z|Blasted Lands|
 T To Serve Kum'isha |QID|2521| |N|Kum'isha the Collector - (51.8, 35.6)| |O| |Z|Blasted Lands|
-C To Serve Kum'isha |QID|2521| |N|Kum'isha the Collector (51.8, 35.6)| |O| |Z|Blasted Lands|
+C Kum'isha the Collector |QID|2521| |L|8244 1| |N|Kum'isha the Collector - (51.8, 35.6)| |O| |Z|Blasted Lands|
 C War on the Shadowsworn |QID|8424| |N|Kill +Shadowsworn Thug (63.6, 39.2)| |C|Warrior| |Z|Blasted Lands|
 T War on the Shadowsworn |QID|8424| |N|the Fallen Hero of the Horde - (34.2, 66.0)| |C|Warrior| |Z|Swamp of Sorrows|
 B Buy [Superior Healing Potions] from him if they're up |N|Thultazor - (45.8, 52.9)| |Z|Swamp of Sorrows|

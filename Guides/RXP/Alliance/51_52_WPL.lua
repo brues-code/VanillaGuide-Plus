@@ -80,7 +80,7 @@ R Exit the house |N|(38.0, 54.6)| |O| |Z|Western Plaguelands|
 R Go inside the barn |N|(38.6, 55.3)| |O| |Z|Western Plaguelands|
 N This has a 5 second cast time |N|(38.7, 55.2)| |Z|Western Plaguelands|
 N You can do this from behind the wall to avoid aggroing anything inside |N|(38.7, 55.2)| |Z|Western Plaguelands|
-N |cRXP_WARN_Avoid aggroing the Scarlets outside the barn. If you do, run away |N|(38.7, 55.2)| |Z|Western Plaguelands|
+N Avoid aggroing the Scarlets outside the barn. If you do, run away |N|(38.7, 55.2)| |Z|Western Plaguelands|
 T Better Late Than Never |QID|5021| |N|Janice's Parcel on the ground - (38.7, 55.2)| |Z|Western Plaguelands|
 A Better Late Than Never |QID|5022| |N|Janice's Parcel on the ground - (38.7, 55.2)| |Z|Western Plaguelands|
 N If you are not yet close, do one more Cauldron quest to get you where you need to be |C|Hunter| |Z|Western Plaguelands|

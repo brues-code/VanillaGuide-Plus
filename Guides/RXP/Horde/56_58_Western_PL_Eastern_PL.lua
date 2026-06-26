@@ -7,7 +7,7 @@ N 56-58 Western PL/Eastern PL |N|Converted from RestedXP guide|
 R Travel to Tirisfal Glades |N|(61.9, 64.8)| |O| |C|Mage| |Z|Tirisfal Glades|
 T A Call to Arms: The Plaguelands! |QID|5095| |N|the Bulwark, then Derrington - (83.2, 68.9)| |Z|Tirisfal Glades|
 A Scarlet Diversions |QID|5096| |N|the Bulwark, then Derrington - (83.2, 68.9)| |Z|Tirisfal Glades|
-C Scarlet Diversions |QID|5096| |N|the Box of Incendiaries by the fire (26.6, 56.2)| |Z|Western Plaguelands|
+C the Box of Incendiaries by the fire |QID|5096| |L|12814 1| |N|the Box of Incendiaries by the fire - (26.6, 56.2)| |Z|Western Plaguelands|
 T The Everlook Report |QID|6029| |N|Garush - (83.2, 68.5)| |Z|Tirisfal Glades|
 T Argent Dawn Commission |QID|5405| |N|Garush - (83.2, 68.5)| |Z|Tirisfal Glades|
 A A Plague Upon Thee |QID|5901| |N|Mickey - (83.3, 72.3)| |Z|Tirisfal Glades|
@@ -32,9 +32,9 @@ T Target: Dalson's Tears |QID|5231| |N|the Scourge Cauldron roiling atop the dai
 A Return to the Bulwark |QID|5232| |N|the Scourge Cauldron roiling atop the dais - (46.2, 52.0)| |Z|Western Plaguelands|
 T Mrs. Dalson's Diary |QID|5058| |N|Mrs. Dalson's Diary - (47.8, 50.6)| |Z|Western Plaguelands|
 N Grind Bone Fragments if the skeleton isn't spawned |N|(47.5, 51.0)| |Z|Western Plaguelands|
-C the Wandering Skeleton. Loot it for its Outhouse Key |N|the Wandering Skeleton. Loot it for its Outhouse Key - (47.5, 51.0)| |Z|Western Plaguelands|
+C the Wandering Skeleton. Loot it for its Outhouse Key |L|12738 1| |N|the Wandering Skeleton. Loot it for its Outhouse Key - (47.5, 51.0)| |Z|Western Plaguelands|
 T Locked Away |QID|5059| |N|the Outhouse - (48.2, 49.7)| |O| |Z|Western Plaguelands|
-C Locked Away |QID|5060| |N|Farmer Dalson. Loot him for his Cabinet Key (48.2, 49.7)| |Z|Western Plaguelands|
+C Farmer Dalson. Loot him for his Cabinet Key |QID|5060| |L|12739 1| |N|Farmer Dalson. Loot him for his Cabinet Key - (48.2, 49.7)| |Z|Western Plaguelands|
 T Locked Away |QID|5060| |N|the Locked Cabinet on the top floor of the house - (47.4, 49.7)| |Z|Western Plaguelands|
 A A Matter of Time |QID|4971| |N|Chromie on the top floor of the inn - (39.5, 66.8)| |Z|Western Plaguelands|
 C All Along the Watchtowers |QID|5098| |N|Do not engage the elite inside (44.2, 63.1)| |Z|Western Plaguelands|
@@ -98,11 +98,11 @@ A Un-Life's Little Annoyances |QID|6042| |N|Nathanos - (26.6, 74.7)| |Z|Eastern 
 T Sister Pamela |QID|5601| |N|Pamela - (36.5, 90.8)| |Z|Eastern Plaguelands|
 A Pamela's Doll |QID|5149| |N|Pamela - (36.5, 90.8)| |Z|Eastern Plaguelands|
 N Clicking the doll pieces can spawn a few Ghosts of the Past which have ice armor and frost shock |N|(38.1, 92.2)| |Z|Eastern Plaguelands|
-C Pamela's Doll |QID|5149| |N|the 3 Doll Parts on the floor in ruined buildings (38.1, 92.2)| |Z|Eastern Plaguelands|
+C the 3 Doll Parts on the floor in ruined buildings |QID|5149| |L|12886 1| |N|the 3 Doll Parts on the floor in ruined buildings - (38.1, 92.2)| |Z|Eastern Plaguelands|
 N Clicking the doll pieces can spawn a few Ghosts of the Past which have ice armor and frost shock |N|(39.6, 92.5)| |Z|Eastern Plaguelands|
-C Pamela's Doll |QID|5149| |N|the 3 Doll Parts on the floor in ruined buildings (39.6, 92.5)| |Z|Eastern Plaguelands|
+C the 3 Doll Parts on the floor in ruined buildings |QID|5149| |L|12887 1| |N|the 3 Doll Parts on the floor in ruined buildings - (39.6, 92.5)| |Z|Eastern Plaguelands|
 N Clicking the doll pieces can spawn a few Ghosts of the Past which have ice armor and frost shock |N|(39.7, 90.2)| |Z|Eastern Plaguelands|
-C Pamela's Doll |QID|5149| |N|the 3 Doll Parts on the floor in ruined buildings (39.7, 90.2)| |Z|Eastern Plaguelands|
+C the 3 Doll Parts on the floor in ruined buildings |QID|5149| |L|12888 1| |N|the 3 Doll Parts on the floor in ruined buildings - (39.7, 90.2)| |Z|Eastern Plaguelands|
 C Pamela's Doll |QID|5149| |N|(36.5, 90.8)| |Z|Eastern Plaguelands|
 T Pamela's Doll |QID|5149| |N|Pamela - (36.5, 90.8)| |Z|Eastern Plaguelands|
 A Auntie Marlene |QID|5152| |N|Pamela - (36.5, 90.8)| |Z|Eastern Plaguelands|
@@ -112,7 +112,7 @@ C Demon Dogs |QID|5542| |N|Plaguebats and Plaguehound Runts (34.2, 82.2)| |Z|Eas
 C Demon Dogs |QID|5542| |N|Kill Plaguehound and Noxious Plaguebats| |O| |Z|Eastern Plaguelands|
 C Un-Life's Little Annoyances |QID|6042| |N|Kill Plaguehound and Noxious Plaguebats| |O| |Z|Eastern Plaguelands|
 N Groups of elites patrol the north and east road. Invisible mobs patrol inside of Corrin's Crossing, so try to pull mobs out |O| |Z|Eastern Plaguelands|
-C Kill Undead. Loot them for their Living Rot. |N|Kill Undead. Loot them for their Living Rot.| |O| |Z|Eastern Plaguelands|
+C Undead. Loot them for their Living Rot. |L|15447 7| |N|Kill Undead. Loot them for their Living Rot.| |O| |Z|Eastern Plaguelands|
 C To Kill With Purpose |QID|6022| |N|(58.0, 67.6)| |Z|Eastern Plaguelands|
 C Demon Dogs |QID|5542| |N|Plaguehound and Noxious Plaguebats (77.9, 69.6)| |Z|Eastern Plaguelands|
 C Un-Life's Little Annoyances |QID|6042| |N|Plaguehound and Noxious Plaguebats (77.9, 69.6)| |Z|Eastern Plaguelands|
@@ -189,8 +189,8 @@ N [Filled Vial Labeled #2] |N|(66.0, 44.9)| |Z|Undercity|
 N [Filled Vial Labeled #3] |N|(66.0, 44.9)| |Z|Undercity|
 N [Filled Vial Labeled #4] |N|(66.0, 44.9)| |Z|Undercity|
 N Buy 240 of each type of cloth on the auction house |N|(67.7, 35.9)| |O| |Z|Undercity|
-C Cain |N|Cain - (67.7, 35.9)| |O| |Z|Undercity|
-C Collect item |N|(68.2, 38.3)| |O| |Z|Undercity|
+B Cain |L|2592 240| |N|Cain - (67.7, 35.9)| |O| |Z|Undercity|
+C the mailbox and retrieve the following |L|2592 60| |N|(68.2, 38.3)| |O| |Z|Undercity|
 N Disable any other addons that automatically turn in reputation items, or you'll be told to buy cloth again later |N|(71.7, 29.2)| |Z|Undercity|
 N Skip any of the donations which you do not have enough cloth for |N|(71.7, 29.2)| |Z|Undercity|
 T A Donation of Wool |QID|7813| |N|Ralston - (71.7, 29.2)| |Z|Undercity|
@@ -205,12 +205,8 @@ T Delivery to Andron Gant |QID|3542| |N|Andron - (54.8, 76.3)| |Z|Undercity|
 A Andron's Payment to Jediga |QID|3564| |N|Andron - (54.8, 76.3)| |Z|Undercity|
 N Buy the following items from the Auction House. You will need these later for multiple free quest turn ins in EPL |N|(71.4, 46.7)| |Z|Undercity|
 N There are 5 different quests and each require 30. If you can't get 30 of one type then skip it |N|(71.4, 46.7)| |Z|Undercity|
-C Savage Flora |QID|9136| |N|Auctioneer Stockton in the Trade Quarter (71.4, 46.7)| |Z|Undercity|
-C Bonescythe Digs |QID|9126| |N|Auctioneer Stockton in the Trade Quarter (71.4, 46.7)| |Z|Undercity|
-C Cryptstalker Armor Doesn't Make Itself... |QID|9124| |N|Auctioneer Stockton in the Trade Quarter (71.4, 46.7)| |Z|Undercity|
-C The Elemental Equation |QID|9128| |N|Auctioneer Stockton in the Trade Quarter (71.4, 46.7)| |Z|Undercity|
-C Binding the Dreadnaught |QID|9131| |N|Auctioneer Stockton in the Trade Quarter (71.4, 46.7)| |Z|Undercity|
-C A Taste of Flame |QID|4022| |N|Take out [Black Dragonflight Molt] from your bank if you completed the quest in Searing Gorge for it earlier. You will need it (BRD Dungeon Quest)| |D|BRD| |Z|Undercity|
+B Auctioneer Stockton in the Trade Quarter |L|22529 30| |N|Auctioneer Stockton in the Trade Quarter - (71.4, 46.7)| |Z|Undercity|
+C Take out [Black Dragonflight Molt] from your bank if you completed the quest in Searing Gorge for it earlier. You will need it |QID|4022| |L|10575 1| |N|Take out [Black Dragonflight Molt] from your bank if you completed the quest in Searing Gorge for it earlier. You will need it (BRD Dungeon Quest)| |D|BRD| |Z|Undercity|
 R Enter the Royal Quarter |N|(52.9, 89.6)| |O| |Z|Undercity|
 A The Champion of the Banshee Queen |QID|5961| |N|Sylvanas - (58.1, 91.8)| |Z|Undercity|
 F Fly to Light's Hope Chapel |N|Michael - (63.3, 48.5)| |O| |Z|Undercity|
@@ -248,8 +244,8 @@ T A Plague Upon Thee |QID|5902| |N|Enter the mill. Click the Northridge Lumber M
 A A Plague Upon Thee |QID|6390| |N|Enter the mill. Click the Northridge Lumber Mill Crate by the ramp, then click the Termite Barrel - (48.4, 32.0)| |Z|Western Plaguelands|
 A Unfinished Business |QID|6025| |N|Leave Hearthglen, then Kirsta - (51.9, 28.1)| |Z|Western Plaguelands|
 N Be mindful that mobs have no Z axis range. They can hit you from the bottom of the tower if they're directly below you |N|(45.6, 18.6)| |Z|Western Plaguelands|
-N |cRXP_WARN_Be careful of High Protector Lorik (level 61 elite), he patrols around |N|(45.6, 18.6)| |Z|Western Plaguelands|
-N |cRXP_WARN_Be careful of the Scarlet Executioner that might patrol at the top of the tower |N|(45.6, 18.6)| |Z|Western Plaguelands|
+N Be careful of High Protector Lorik (level 61 elite), he patrols around |N|(45.6, 18.6)| |Z|Western Plaguelands|
+N Be careful of the Scarlet Executioner that might patrol at the top of the tower |N|(45.6, 18.6)| |Z|Western Plaguelands|
 C Unfinished Business |QID|6025| |N|Run up to the top of the tower. Be careful as Scarlet Paladins outside can heal (45.6, 18.6)| |Z|Western Plaguelands|
 T Unfinished Business |QID|6025| |N|Leave Hearthglen, then Kirsta - (51.9, 28.1)| |Z|Western Plaguelands|
 N You can her from outside at the back of the building |N|(38.4, 54.0)| |Z|Western Plaguelands|
@@ -261,7 +257,7 @@ T Two Halves Become One |QID|5051| |N|Janice on the 2nd floor - (38.4, 54.0)| |Z
 T Return to the Bulwark |QID|5236| |N|Vandis - (83.0, 71.9)| |Z|Tirisfal Glades|
 T A Plague Upon Thee |QID|6390| |N|Mickey - (83.3, 72.3)| |Z|Tirisfal Glades|
 T Mission Accomplished! |QID|5238| |N|Derrington - (83.2, 68.9)| |Z|Tirisfal Glades|
-N |cRXP_WARN_If you do not have the Reputation required to accept these quests, grind on nearby Undead until you are Friendly with the Argent Dawn |O| |Z|Tirisfal Glades|
+N If you do not have the Reputation required to accept these quests, grind on nearby Undead until you are Friendly with the Argent Dawn |O| |Z|Tirisfal Glades|
 A Savage Flora |QID|9136| |N|Rayne - (81.2, 59.0)| |O| |Z|Eastern Plaguelands|
 T Savage Flora |QID|9136| |N|Rayne - (81.2, 59.0)| |O| |Z|Eastern Plaguelands|
 A Cryptstalker Armor Doesn't Make Itself... |QID|9124| |N|Huntsman Leopold - (81.5, 58.6)| |O| |Z|Eastern Plaguelands|
@@ -290,7 +286,7 @@ T A Taste of Flame |QID|4022| |N|Cyrus Therepentous - (95.1, 31.6) (BRD Dungeon 
 N If you are missing the [Black Dragonflight Molt] and cannot complete the quest, Cyrus and select the option: "I do not possess any proof, Cyrus." |N|(95.1, 31.6) (BRD Dungeon Quest)| |D|BRD| |Z|Burning Steppes|
 N This will spawn a level 54 Elite Dragon at the entrance of the small cave. Ensure you have party members with you to help kill it, then loot it for the [Black Dragonflight Molt] |N|(95.1, 31.6) (BRD Dungeon Quest)| |D|BRD| |Z|Burning Steppes|
 N Select the option after: "I present you with proof of my deeds, Cyrus." |N|(95.1, 31.6) (BRD Dungeon Quest)| |D|BRD| |Z|Burning Steppes|
-C A Taste of Flame |QID|4022| |N|Cyrus Therepentous (95.1, 31.6) (BRD Dungeon Quest)| |D|BRD| |Z|Burning Steppes|
+C Cyrus Therepentous |QID|4022| |L|10575 1| |N|Cyrus Therepentous - (95.1, 31.6) (BRD Dungeon Quest)| |D|BRD| |Z|Burning Steppes|
 A A Taste of Flame |QID|4022| |N|Cyrus Therepentous - (95.1, 31.6) (BRD Dungeon Quest)| |D|BRD| |Z|Burning Steppes|
 T A Taste of Flame |QID|4022| |N|Cyrus Therepentous - (95.1, 31.6) (BRD Dungeon Quest)| |D|BRD| |Z|Burning Steppes|
 A A Taste of Flame |QID|4024| |N|Cyrus Therepentous - (95.1, 31.6) (BRD Dungeon Quest)| |D|BRD| |Z|Burning Steppes|
@@ -359,8 +355,8 @@ N Click on the 3 Thunderbrew Lager Kegs to destroy them, forcing Hurley Blackbre
 N Kill Hurley Blackbreath. Loot him for the Lost Thunderbrew Recipe |N|(BRD Dungeon Quest)| |D|BRD| |Z|Badlands|
 C Lost Thunderbrew Recipe |QID|4134| |N|Enter the Bar and go into the small room on the left. Do NOT attack any of the neutral mobs while running through the Bar (BRD Dungeon Quest)| |D|BRD| |Z|Badlands|
 C Attunement to the Core |QID|7848| |N|Loot the Core Fragment on the ground outside of the Molten Core instance portal (BRD Dungeon Quest)| |D|BRD| |Z|Badlands|
-N |cRXP_WARN_You must NOT kill Princess Moira Bronzebeard in order to complete and turn in this quest |N|(BRD Dungeon Quest)| |D|BRD| |Z|Badlands|
-N |cRXP_WARN_Have a party member kite Princess Moira Bronzebeard while the rest of the group kills Emperor Dagran Thaurissan |N|(BRD Dungeon Quest)| |D|BRD| |Z|Badlands|
+N You must NOT kill Princess Moira Bronzebeard in order to complete and turn in this quest |N|(BRD Dungeon Quest)| |D|BRD| |Z|Badlands|
+N Have a party member kite Princess Moira Bronzebeard while the rest of the group kills Emperor Dagran Thaurissan |N|(BRD Dungeon Quest)| |D|BRD| |Z|Badlands|
 C The Royal Rescue |QID|4003| |N|Kill Emperor Dagran Thaurissan (BRD Dungeon Quest)| |D|BRD| |Z|Badlands|
 T The Royal Rescue |QID|4003| |N|Princess Moira Bronzebeard (BRD Dungeon Quest)| |D|BRD| |Z|Badlands|
 A The Princess Saved? |QID|4004| |N|Princess Moira Bronzebeard (BRD Dungeon Quest)| |D|BRD| |Z|Badlands|

@@ -8,10 +8,10 @@ T Mathystra Relics |QID|951| |N|Onu - (43.6, 76.3)| |O| |Z|Darkshore|
 C Kerlonian's Chest. Loot it for the [Horn of Awakening] |QID|5321| |N|Kerlonian's Chest. Loot it for the [Horn of Awakening] - (44.4, 76.3)| |O| |Z|Darkshore|
 N You may have to wait for him to respawn or for others to finish the escort |N|(35.7, 83.7)| |Z|Darkshore|
 T The Absent Minded Prospector |QID|729| |N|Prospector Remtravel - (35.7, 83.7)| |Z|Darkshore|
-C Kill Twilight Disciples and Twilight Thugs. Loot them for the [Book: The Powers Below] |QID|968| |N|Kill Twilight Disciples and Twilight Thugs. Loot them for the [Book: The Powers Below]| |O| |Z|Darkshore|
-C |cRXP_WARN_Escort Therylune out of The Masters Glaive |QID|945| |N||cRXP_WARN_Escort Therylune out of The Masters Glaive - (40.5, 87.1)| |Z|Darkshore|
+C Book: The Powers Below (1) |QID|968| |L|5352 1| |N|Kill Twilight Disciples and Twilight Thugs. Loot them for the [Book: The Powers Below]| |O| |Z|Darkshore|
+C Escort Therylune out of The Masters Glaive |QID|945| |N|Escort Therylune out of The Masters Glaive - (40.5, 87.1)| |Z|Darkshore|
 A Beached Sea Creature |QID|4733| |N|the Beached Sea Creature - (31.3, 87.4)| |O| |Z|Darkshore|
-N |cRXP_WARN_This quest can be VERY difficult. Engage the Murlocs 1 by 1, otherwise you may agro multiple at the same time |N|(31.3, 87.4)| |O| |Z|Darkshore|
+N This quest can be VERY difficult. Engage the Murlocs 1 by 1, otherwise you may agro multiple at the same time |N|(31.3, 87.4)| |O| |Z|Darkshore|
 A Beached Sea Turtle |QID|4732| |N|the Beached Sea Turtle - (31.2, 85.6)| |O| |Z|Darkshore|
 A Beached Sea Turtle |QID|4731| |N|the Beached Sea Turtle - (31.7, 83.7)| |O| |Z|Darkshore|
 A Beached Sea Creature |QID|4730| |N|the Beached Sea Creature - (32.6, 80.7)| |O| |Z|Darkshore|
@@ -29,9 +29,9 @@ C Escape Through Force |QID|994| |N|Escort Volcor Help Volcor to the road (1)| |
 T Mathystra Relics |QID|951| |N|Onu - (43.6, 76.3)| |Z|Darkshore|
 C Kerlonian's Chest. Loot it for the [Horn of Awakening] |QID|5321| |N|Kerlonian's Chest. Loot it for the [Horn of Awakening] - (44.4, 76.3)| |Z|Darkshore|
 R Travel to Ashenvale |N|(29.7, 13.6)| |O| |Z|Ashenvale|
-C Kill and loot Ghostpaw Runners you encounter while questing. Keep any [Lean Wolf Flanks] you get. You will need 10 for a cooking quest later |N|Kill and loot Ghostpaw Runners you encounter while questing. Keep any [Lean Wolf Flanks] you get. You will need 10 for a cooking quest later| |O| |Z|Ashenvale|
+C and loot Ghostpaw Runners you encounter while questing. Keep any [Lean Wolf Flanks] you get. You will need 10 for a cooking quest later |L|1015 10| |N|Kill and loot Ghostpaw Runners you encounter while questing. Keep any [Lean Wolf Flanks] you get. You will need 10 for a cooking quest later| |O| |Z|Ashenvale|
 N Avoid running on the main road as much as possible. Enemies will only spawn if you're on the road |N|(27.3, 35.6)| |Z|Ashenvale|
-C |cRXP_WARN_Escort Kerlonian to Maestra's Post in Ashenvale |QID|5321| |N||cRXP_WARN_Escort Kerlonian to Maestra's Post in Ashenvale - (27.3, 35.6)| |Z|Ashenvale|
+C Escort Kerlonian to Maestra's Post in Ashenvale |QID|5321| |N|Escort Kerlonian to Maestra's Post in Ashenvale - (27.3, 35.6)| |Z|Ashenvale|
 T The Sleeper Has Awakened |QID|5321| |N|Liadris Moonriver - (27.3, 35.6)| |Z|Ashenvale|
 T The Tower of Althalaxx |QID|967| |N|Delgren the Purifier - (26.2, 38.7)| |Z|Ashenvale|
 A The Tower of Althalaxx |QID|970| |N|Delgren the Purifier - (26.2, 38.7)| |Z|Ashenvale|
@@ -48,10 +48,10 @@ T Bathran's Hair |QID|1010| |N|Orendil Broadleaf - (26.4, 38.6)| |Z|Ashenvale|
 A Orendil's Cure |QID|1020| |N|Orendil Broadleaf - (26.4, 38.6)| |Z|Ashenvale|
 T The Tower of Althalaxx |QID|970| |N|Delgren the Purifier - (26.2, 38.7)| |Z|Ashenvale|
 A The Tower of Althalaxx |QID|973| |N|Delgren the Purifier - (26.2, 38.7)| |Z|Ashenvale|
-C Kill and loot Ghostpaw Runners you encounter while questing. Keep any [Lean Wolf Flanks] you get. You will need 10 for a cooking quest later |N|Kill and loot Ghostpaw Runners you encounter while questing. Keep any [Lean Wolf Flanks] you get. You will need 10 for a cooking quest later| |O| |Z|Ashenvale|
+C and loot Ghostpaw Runners you encounter while questing. Keep any [Lean Wolf Flanks] you get. You will need 10 for a cooking quest later |L|1015 10| |N|Kill and loot Ghostpaw Runners you encounter while questing. Keep any [Lean Wolf Flanks] you get. You will need 10 for a cooking quest later| |O| |Z|Ashenvale|
 T Therylune's Escape |QID|945| |N|Therysil - (22.6, 51.9)| |Z|Ashenvale|
 R Head up the ramp to the north-west |N|(522.9, 2716.1)| |C|Hunter| |Z|1440/1|
-C Save up to 6 Gooey Spider Legs looted from the Spiders in the zone for later |QID|93| |N|Save up to 6 Gooey Spider Legs looted from the Spiders in the zone for later| |O| |Z|1440/1|
+C Gooey Spider Legs |QID|93| |L|2251 6| |N|Save up to 6 Gooey Spider Legs looted from the Spiders in the zone for later| |O| |Z|1440/1|
 t Train your pet skills |N|Bolyun - (18.0, 60.0)| |C|Hunter| |Z|Ashenvale|
 t Train your class skills & [Aspect of the Cheetah] |N|Alenndaar Lapidaar - (18.0, 59.8)| |C|Hunter| |Z|Ashenvale|
 f Get the Astranaar Flight Path |N|Daelyshia - (34.4, 48.0)| |Z|Ashenvale|
@@ -65,7 +65,7 @@ B Buy food and water if necessary |N|Maliynn - (36.6, 49.8)| |Z|Ashenvale|
 T Orendil's Cure |QID|1020| |N|Pelturas Whitemoon - (37.4, 51.8)| |Z|Ashenvale|
 A Elune's Tear |QID|1033| |N|Pelturas Whitemoon - (37.4, 51.8)| |Z|Ashenvale|
 B Restock on Ammo if necessary |N|Haljan Oakheart - (34.8, 50.8)| |C|Hunter| |Z|Ashenvale|
-C Save up to 6 Gooey Spider Legs looted from the Spiders in the zone. You will need them for a quest later |QID|93| |N|Save up to 6 Gooey Spider Legs looted from the Spiders in the zone. You will need them for a quest later| |O| |Z|Ashenvale|
+C Gooey Spider Legs |QID|93| |L|2251 6| |N|Save up to 6 Gooey Spider Legs looted from the Spiders in the zone. You will need them for a quest later| |O| |Z|Ashenvale|
 C Elune's Tear |QID|1033| |N|Elune's Tear on the ground (46.4, 46.4)| |Z|Ashenvale|
 T Elune's Tear |QID|1033| |N|Pelturas Whitemoon - (37.4, 51.8)| |Z|Ashenvale|
 A The Ruins of Stardust |QID|1034| |N|Pelturas Whitemoon - (37.4, 51.8)| |Z|Ashenvale|
@@ -76,32 +76,32 @@ R Run straight north while climbing the mountain |N|(31.2, 61.6)| |O| |Z|Ashenva
 R Climb the hill next to the big tree to the right of the Fire Scar Shrine entrance |N|(27.5, 60.8)| |O| |Z|Ashenvale|
 N Jump over the tree root and hug the right to avoid aggroing mobs |N|(27.5, 60.8)| |O| |Z|Ashenvale|
 N Ilkrud Magthrull will cast [Ilkrud's Guardians] which is a 5 second long cast and will summon 2 Voidwalkers. Stop this cast if you're able to |N|(25.3, 60.7)| |Z|Ashenvale|
-N |cRXP_WARN_Clear an exit path if needed so you can reset them along with the Succubus if needed. You may skip this and do it at level 23 if you wish |N|(25.3, 60.7)| |Z|Ashenvale|
+N Clear an exit path if needed so you can reset them along with the Succubus if needed. You may skip this and do it at level 23 if you wish |N|(25.3, 60.7)| |Z|Ashenvale|
 C The Tower of Althalaxx |QID|973| |N|Ilkrud Magthrull. Loot him for his Tome (25.3, 60.7)| |Z|Ashenvale|
 T The Tower of Althalaxx |QID|973| |N|Delgren the Purifier - (26.2, 38.7)| |Z|Ashenvale|
-C Save up to 6 Gooey Spider Legs looted from the Spiders in the zone. You will need them for a quest later |QID|93| |N|Save up to 6 Gooey Spider Legs looted from the Spiders in the zone. You will need them for a quest later| |O| |Z|Ashenvale|
-C Kill and loot Ghostpaw Runners you encounter while questing. Keep any [Lean Wolf Flanks] you get. You will need 10 for a cooking quest later |N|Kill and loot Ghostpaw Runners you encounter while questing. Keep any [Lean Wolf Flanks] you get. You will need 10 for a cooking quest later| |O| |Z|Ashenvale|
+C Gooey Spider Legs |QID|93| |L|2251 6| |N|Save up to 6 Gooey Spider Legs looted from the Spiders in the zone. You will need them for a quest later| |O| |Z|Ashenvale|
+C and loot Ghostpaw Runners you encounter while questing. Keep any [Lean Wolf Flanks] you get. You will need 10 for a cooking quest later |L|1015 10| |N|Kill and loot Ghostpaw Runners you encounter while questing. Keep any [Lean Wolf Flanks] you get. You will need 10 for a cooking quest later| |O| |Z|Ashenvale|
 A The Ancient Statuette |QID|1007| |N|Talen - (14.8, 31.3)| |Z|Ashenvale|
 N Don't go out of your way to complete this yet |O| |Z|Ashenvale|
 C The Zoram Strand |QID|1008| |N|Kill Wrathtail Nagas. Loot them for their Heads| |O| |Z|Ashenvale|
 C The Ancient Statuette |QID|1007| |N|the Ancient Statuette on the ground (14.2, 20.6)| |Z|Ashenvale|
 T The Ancient Statuette |QID|1007| |N|Talen - (14.8, 31.3)| |Z|Ashenvale|
 A Ruuzel |QID|1009| |N|Talen - (14.8, 31.3)| |Z|Ashenvale|
-N Ruuzel |cRXP_WARN_patrols the island with a Wrathtail Myrmidon and Wrathtail Sea Witch. Kill one of them and then reset them if needed |N|(6.5, 13.4)| |Z|Ashenvale|
+N Ruuzel patrols the island with a Wrathtail Myrmidon and Wrathtail Sea Witch. Kill one of them and then reset them if needed |N|(6.5, 13.4)| |Z|Ashenvale|
 N If you have any [Bombs]/[Grenades] you can also use them to split pull Ruuzel |N|(6.5, 13.4)| |Z|Ashenvale|
-N Lady Vespia |cRXP_WARN_is a rarespawn that can also drop the Ring of Zoram if you see her |N|(6.5, 13.4)| |Z|Ashenvale|
+N Lady Vespia is a rarespawn that can also drop the Ring of Zoram if you see her |N|(6.5, 13.4)| |Z|Ashenvale|
 C Ruuzel |QID|1009| |N|Ruuzel. Loot her for the Ring of Zoram (6.5, 13.4)| |Z|Ashenvale|
-N Ruuzel |cRXP_WARN_patrols the island with a Wrathtail Myrmidon and Wrathtail Sea Witch. Kill one of them and then reset them if needed |N|(6.5, 13.4)| |Z|Ashenvale|
-N Lady Vespia |cRXP_WARN_is a rarespawn that can also drop the Ring of Zoram if you see her |N|(6.5, 13.4)| |Z|Ashenvale|
+N Ruuzel patrols the island with a Wrathtail Myrmidon and Wrathtail Sea Witch. Kill one of them and then reset them if needed |N|(6.5, 13.4)| |Z|Ashenvale|
+N Lady Vespia is a rarespawn that can also drop the Ring of Zoram if you see her |N|(6.5, 13.4)| |Z|Ashenvale|
 C Ruuzel |QID|1009| |N|Ruuzel. Loot her for the Ring of Zoram (6.5, 13.4)| |Z|Ashenvale|
 C The Zoram Strand |QID|1008| |N|Wrathtail Nagas. Loot them for their Heads (14.5, 17.1)| |Z|Ashenvale|
 T Ruuzel |QID|1009| |N|Talen - (14.8, 31.3)| |Z|Ashenvale|
-C Save up to 6 Gooey Spider Legs looted from the Spiders in the zone. You will need them for a quest later |QID|93| |N|Save up to 6 Gooey Spider Legs looted from the Spiders in the zone. You will need them for a quest later| |O| |Z|Ashenvale|
-C Kill and loot Ghostpaw Runners you encounter while questing. Keep any [Lean Wolf Flanks] you get. You will need 10 for a cooking quest later |N|Kill and loot Ghostpaw Runners you encounter while questing. Keep any [Lean Wolf Flanks] you get. You will need 10 for a cooking quest later| |O| |Z|Ashenvale|
+C Gooey Spider Legs |QID|93| |L|2251 6| |N|Save up to 6 Gooey Spider Legs looted from the Spiders in the zone. You will need them for a quest later| |O| |Z|Ashenvale|
+C and loot Ghostpaw Runners you encounter while questing. Keep any [Lean Wolf Flanks] you get. You will need 10 for a cooking quest later |L|1015 10| |N|Kill and loot Ghostpaw Runners you encounter while questing. Keep any [Lean Wolf Flanks] you get. You will need 10 for a cooking quest later| |O| |Z|Ashenvale|
 T Raene's Cleansing |QID|991| |N|Teronis' Corpse - (20.3, 42.3)| |Z|Ashenvale|
 A Raene's Cleansing |QID|1023| |N|Teronis' Corpse - (20.3, 42.3)| |Z|Ashenvale|
-C Keep any [Murloc Fins] you might loot. You will need 8 for a quest later |N|Keep any [Murloc Fins] you might loot. You will need 8 for a quest later| |O| |Z|Ashenvale|
-N |cRXP_WARN_Be careful as the Oracles can heal, and have a 90 damage instant-cast shock spell every few seconds |N|(20.3, 42.3)| |Z|Ashenvale|
+C Murloc Fin(8) |L|1468 8| |N|Keep any [Murloc Fins] you might loot. You will need 8 for a quest later| |O| |Z|Ashenvale|
+N Be careful as the Oracles can heal, and have a 90 damage instant-cast shock spell every few seconds |N|(20.3, 42.3)| |Z|Ashenvale|
 C Raene's Cleansing |QID|1023| |N|Saltspittle Murlocs. Loot them for the Glowing Gem (20.3, 42.3)| |Z|Ashenvale|
 R Astranaar |N|(34.4, 48.0)| |O| |R|!Dwarf/!Hunter| |Z|Ashenvale|
 F Fly to Darkshore |N|Daelyshia - (34.4, 48.0)| |R|!Dwarf/!Hunter| |Z|Ashenvale|

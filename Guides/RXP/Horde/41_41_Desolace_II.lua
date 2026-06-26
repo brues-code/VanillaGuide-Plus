@@ -35,7 +35,7 @@ T Khan Jehn |QID|1374| |N|Uthek the Wise - (36.3, 79.3)| |Z|Desolace|
 A Khan Hratha |QID|1380| |N|Uthek the Wise - (36.3, 79.3)| |Z|Desolace|
 T Khan Jehn |QID|1374| |N|Uthek the Wise - (36.3, 79.3)| |Z|Desolace|
 N This has a low droprate, it can take a while |N|(30.2, 57.8)| |Z|Desolace|
-C Khan Hratha |QID|1380| |N|Maraudine Centaurs. Loot them for the [War Horn Mouthpiece] (30.2, 57.8)| |Z|Desolace|
+C Maraudine Centaurs. Loot them for the [War Horn Mouthpiece] |QID|1380| |L|6074 1| |N|Maraudine Centaurs. Loot them for the [War Horn Mouthpiece] - (30.2, 57.8)| |Z|Desolace|
 C Khan Hratha |QID|1380| |N|the Mouthpiece Mount on the summit overlooking Maraudon, then kill waves of Maraudine centaur until Khan Hratha spawns. Kill him, then loot his Key Fragment (29.7, 53.5)| |Z|Desolace|
 N Be careful, as this quest is HARD |N|(33.9, 53.6)| |Z|Desolace|
 A Get Me Out of Here! |QID|6132| |N|Melizza to start the escort - (33.9, 53.6)| |Z|Desolace|
