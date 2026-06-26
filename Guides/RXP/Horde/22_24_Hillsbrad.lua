@@ -30,7 +30,7 @@ R Tarren Mill |N|(62.1, 20.2)| |O| |Z|Hillsbrad Foothills|
 f Get the Tarren Mill Flight Path |N|Zarise - (60.1, 18.6)| |Z|Hillsbrad Foothills|
 T Hinott's Assistance |QID|2479| |N|Hinott - (61.5, 19.2)| |C|Rogue| |Z|Hillsbrad Foothills|
 A Hinott's Assistance |QID|2480| |N|Hinott - (61.5, 19.2)| |C|Rogue| |Z|Hillsbrad Foothills|
-C Hinott's Assistance |QID|2480| |N|Wait for Hinott to complete the cure (61.5, 19.2)| |C|Rogue| |Z|Hillsbrad Foothills|
+C Hinott's Assistance |QID|2480| |OIDX|1| |N|Wait for Hinott to complete the cure (61.5, 19.2)| |C|Rogue| |Z|Hillsbrad Foothills|
 T Hinott's Assistance |QID|2480| |N|Hinott - (61.6, 19.2)| |C|Rogue| |Z|Hillsbrad Foothills|
 C Craft [Instant Poisons] |QID|1067| |L|6947 20| |N|Craft [Instant Poisons]| |O| |C|Rogue| |Z|Hillsbrad Foothills|
 T Journey to Tarren Mill |QID|1065| |N|Apothecary Lydon - (61.4, 19.1)| |Z|Hillsbrad Foothills|
@@ -41,7 +41,7 @@ A Elixir of Pain |QID|501| |N|Apothecary Lydon - (61.4, 19.1)| |Z|Hillsbrad Foot
 T Journey to Tarren Mill |QID|1065| |N|Apothecary Lydon - (61.4, 19.1)| |O| |Z|Hillsbrad Foothills|
 A Blood of Innocents |QID|1066| |N|Apothecary Lydon - (61.4, 19.1)| |O| |Z|Hillsbrad Foothills|
 T Journey to Hillsbrad Foothills |QID|493| |N|Apothecary Lydon - (61.4, 19.1)| |O| |Z|Hillsbrad Foothills|
-C Complete task |QID|1536| |N|(62.2, 20.8)| |C|Shaman| |Z|Hillsbrad Foothills|
+C Complete task |QID|1536| |OIDX|1| |N|(62.2, 20.8)| |C|Shaman| |Z|Hillsbrad Foothills|
 T Time To Strike |QID|494| |N|High Executor Darthalia - (62.4, 20.3)| |Z|Hillsbrad Foothills|
 A Battle of Hillsbrad |QID|527| |N|High Executor Darthalia - (62.4, 20.3)| |Z|Hillsbrad Foothills|
 T Time To Strike |QID|494| |N|High Executor Darthalia - (62.4, 20.3)| |O| |Z|Hillsbrad Foothills|
@@ -60,16 +60,16 @@ R Theodore |N|(62.3, 19.7)| |O| |C|Hunter| |Z|Hillsbrad Foothills|
 t Train [Tame Beast] & [Claw (Rank 3)] & [Tame Beast] & [Bite (Rank 3)] |N|(61.8, 36.2)| |C|Hunter| |Z|Hillsbrad Foothills|
 R Theodore |N|(62.3, 19.7)| |C|Hunter| |Z|Hillsbrad Foothills|
 N Avoid Elder Gray Bears and Giant Moss Creepers as they're high level and not worth killing |O| |Z|Hillsbrad Foothills|
-C Elixir of Suffering |QID|496| |N|Kill Bears and Spiders en route. Loot them for their Tongues and Ichor| |O| |Z|Hillsbrad Foothills|
+C Elixir of Suffering |QID|496| |OIDX|1| |N|Kill Bears and Spiders en route. Loot them for their Tongues and Ichor| |O| |Z|Hillsbrad Foothills|
 R Run to Durnholde Keep |N|(76.6, 46.5)| |Z|Hillsbrad Foothills|
 N Loot the Shadow Mages for their Vials of Innocent Blood |O| |Z|Hillsbrad Foothills|
-C WANTED: Syndicate Personnel |QID|549| |N|Kill Syndicate Rogues, Watchmen, and Shadow Mages.| |O| |Z|Hillsbrad Foothills|
-C Blood of Innocents |QID|1066| |N|Kill Syndicate Rogues, Watchmen, and Shadow Mages.| |O| |Z|Hillsbrad Foothills|
+C WANTED: Syndicate Personnel |QID|549| |OIDX|1| |N|Kill Syndicate Rogues, Watchmen, and Shadow Mages.| |O| |Z|Hillsbrad Foothills|
+C Blood of Innocents |QID|1066| |OIDX|1| |N|Kill Syndicate Rogues, Watchmen, and Shadow Mages.| |O| |Z|Hillsbrad Foothills|
 N He can be found in front of Tog'thar's Barracks, or in front of Drull |N|(79.5, 41.9)| |O| |Z|Hillsbrad Foothills|
 C Jailor Eston. Loot him for his Iron Key |QID|498| |L|3467 1| |N|Jailor Eston. Loot him for his Iron Key - (79.5, 41.9)| |O| |Z|Hillsbrad Foothills|
 N He can be found in front of Tog'thar or at the bottom of the tower |N|(78.0, 40.2)| |Z|Hillsbrad Foothills|
 C Jailor Marlgen. Loot him for his Gold Key |QID|498| |L|3499 1| |N|Jailor Marlgen. Loot him for his Gold Key - (78.0, 40.2)| |Z|Hillsbrad Foothills|
-C The Rescue |QID|498| |N|the Ball and Chain on the ground (79.8, 39.6)| |Z|Hillsbrad Foothills|
+C The Rescue |QID|498| |OIDX|2| |N|the Ball and Chain on the ground (79.8, 39.6)| |Z|Hillsbrad Foothills|
 N Buy [Stalking Pants] and [Wolf Bracers] from her if they're up |N|(80.1, 38.9)| |C|Rogue/Hunter/Shaman| |Z|Hillsbrad Foothills|
 B Vendor and Repair |N|Kris - (80.1, 38.9)| |C|Rogue/Hunter/Shaman| |Z|Hillsbrad Foothills|
 N Buy [Stalking Pants] from her if they're up |N|(80.1, 38.9)| |C|Rogue/Hunter/Shaman/Druid| |Z|Hillsbrad Foothills|
@@ -79,14 +79,14 @@ B Vendor and Repair |N|Kris - (80.1, 38.9)| |C|Rogue/Hunter/Shaman/Druid| |Z|Hil
 B Vendor and Repair |N|Kris - (80.1, 38.9)| |C|!Rogue/!Hunter/!Shaman/!Druid| |Z|Hillsbrad Foothills|
 N He can be found in front of Tog'thar's Barracks, or in front of Drull |N|(75.3, 41.6)| |Z|Hillsbrad Foothills|
 C Jailor Eston. Loot him for his Iron Key |QID|498| |L|3467 1| |N|Jailor Eston. Loot him for his Iron Key - (75.3, 41.6)| |Z|Hillsbrad Foothills|
-C The Rescue |QID|498| |N|the Ball and Chain on the ground (75.3, 41.5)| |Z|Hillsbrad Foothills|
-C WANTED: Syndicate Personnel |QID|549| |N|Kill Syndicate Rogues and Syndicate Watchmen| |O| |Z|Hillsbrad Foothills|
+C The Rescue |QID|498| |OIDX|1| |N|the Ball and Chain on the ground (75.3, 41.5)| |Z|Hillsbrad Foothills|
+C WANTED: Syndicate Personnel |QID|549| |OIDX|1| |N|Kill Syndicate Rogues and Syndicate Watchmen| |O| |Z|Hillsbrad Foothills|
 N More of them can be found at the tower just southwest of the keep |N|(67.2, 45.9)| |Z|Hillsbrad Foothills|
-C Blood of Innocents |QID|1066| |N|Syndicate Shadow Mages. Loot them for their Vials (67.2, 45.9)| |Z|Hillsbrad Foothills|
+C Blood of Innocents |QID|1066| |OIDX|1| |N|Syndicate Shadow Mages. Loot them for their Vials (67.2, 45.9)| |Z|Hillsbrad Foothills|
 N More of them can be found at the tower just southwest of the keep |N|(67.2, 45.9)| |Z|Hillsbrad Foothills|
-C WANTED: Syndicate Personnel |QID|549| |N|Syndicate Rogues and Syndicate Watchmen (67.2, 45.9)| |Z|Hillsbrad Foothills|
+C WANTED: Syndicate Personnel |QID|549| |OIDX|1| |N|Syndicate Rogues and Syndicate Watchmen (67.2, 45.9)| |Z|Hillsbrad Foothills|
 N Avoid Elder Gray Bears and Giant Moss Creepers as they're high level and not worth killing |O| |Z|Hillsbrad Foothills|
-C Elixir of Suffering |QID|496| |N|Kill Bears and Spiders  en route back to Tarren Mill. Loot them for their Tongues and Ichor| |O| |Z|Hillsbrad Foothills|
+C Elixir of Suffering |QID|496| |OIDX|1| |N|Kill Bears and Spiders  en route back to Tarren Mill. Loot them for their Tongues and Ichor| |O| |Z|Hillsbrad Foothills|
 T The Rescue |QID|498| |N|Krusk and Darthalia - (63.2, 20.6)| |Z|Hillsbrad Foothills|
 T WANTED: Syndicate Personnel |QID|549| |N|Krusk and Darthalia - (63.2, 20.6)| |Z|Hillsbrad Foothills|
 N Buy [Sharp Arrows] from him |N|(62.6, 19.9)| |C|Hunter| |Z|Hillsbrad Foothills|
@@ -103,20 +103,20 @@ T Blood of Innocents |QID|1066| |N|Lydon and Umpi - (61.4, 19.1)| |Z|Hillsbrad F
 A Elixir of Suffering |QID|499| |N|Lydon and Umpi - (61.4, 19.1)| |Z|Hillsbrad Foothills|
 T Elixir of Suffering |QID|499| |N|Lydon and Umpi - (61.4, 19.1)| |Z|Hillsbrad Foothills|
 T Blood of Innocents |QID|1066| |N|Lydon - (61.4, 19.1)| |Z|Hillsbrad Foothills|
-C Elixir of Suffering |QID|496| |N|Kill Gray Bears and Starving Mountain Lions. Loot them for their Gray Bear Tongues and Mountain Lion Blood| |O| |Z|Hillsbrad Foothills|
-C Elixir of Pain |QID|501| |N|Kill Gray Bears and Starving Mountain Lions. Loot them for their Gray Bear Tongues and Mountain Lion Blood| |O| |Z|Hillsbrad Foothills|
-C Elixir of Pain |QID|501| |N|Kill Starving Mountain Lions. Loot them for their Mountain Lion Blood| |O| |Z|Hillsbrad Foothills|
+C Elixir of Suffering |QID|496| |OIDX|1| |N|Kill Gray Bears and Starving Mountain Lions. Loot them for their Gray Bear Tongues and Mountain Lion Blood| |O| |Z|Hillsbrad Foothills|
+C Elixir of Pain |QID|501| |OIDX|1| |N|Kill Gray Bears and Starving Mountain Lions. Loot them for their Gray Bear Tongues and Mountain Lion Blood| |O| |Z|Hillsbrad Foothills|
+C Elixir of Pain |QID|501| |OIDX|1| |N|Kill Starving Mountain Lions. Loot them for their Mountain Lion Blood| |O| |Z|Hillsbrad Foothills|
 N Be careful. Hillsbrad Farmers can [Disarm] you |O| |C|Rogue/Warrior/Shaman| |Z|Hillsbrad Foothills|
-C Battle of Hillsbrad |QID|527| |N|Kill Hillsbrad Farmers and Hillsbrad Farmhands in and around the fields| |O| |Z|Hillsbrad Foothills|
+C Battle of Hillsbrad |QID|527| |OIDX|1| |N|Kill Hillsbrad Farmers and Hillsbrad Farmhands in and around the fields| |O| |Z|Hillsbrad Foothills|
 N He has three different spawn locations. In the house, barn, or field |N|(35.1, 41.0)| |Z|Hillsbrad Foothills|
-C Battle of Hillsbrad |QID|527| |N|Farmer Getz (35.1, 41.0)| |Z|Hillsbrad Foothills|
+C Battle of Hillsbrad |QID|527| |OIDX|4| |N|Farmer Getz (35.1, 41.0)| |Z|Hillsbrad Foothills|
 N He can spawn outside under the grapevine or in the 1st or 2nd floor of the house |N|(33.3, 34.6)| |Z|Hillsbrad Foothills|
-C Battle of Hillsbrad |QID|527| |N|Farmer Ray (33.3, 34.6)| |Z|Hillsbrad Foothills|
+C Battle of Hillsbrad |QID|527| |OIDX|3| |N|Farmer Ray (33.3, 34.6)| |Z|Hillsbrad Foothills|
 N Be careful. Hillsbrad Farmers can [Disarm] you |N|(35.5, 40.4)| |C|Rogue/Warrior/Shaman| |Z|Hillsbrad Foothills|
-C Battle of Hillsbrad |QID|527| |N|Hillsbrad Farmers and Hillsbrad Farmhands in and around the fields (35.5, 40.4)| |Z|Hillsbrad Foothills|
-C Elixir of Suffering |QID|496| |N|Kill Gray Bears and Starving Mountain Lions. Loot them for their Gray Bear Tongues and Mountain Lion Blood| |O| |Z|Hillsbrad Foothills|
-C Elixir of Pain |QID|501| |N|Kill Gray Bears and Starving Mountain Lions. Loot them for their Gray Bear Tongues and Mountain Lion Blood| |O| |Z|Hillsbrad Foothills|
-C Elixir of Pain |QID|501| |N|Kill Starving Mountain Lions. Loot them for their Mountain Lion Blood| |O| |Z|Hillsbrad Foothills|
+C Battle of Hillsbrad |QID|527| |OIDX|1| |N|Hillsbrad Farmers and Hillsbrad Farmhands in and around the fields (35.5, 40.4)| |Z|Hillsbrad Foothills|
+C Elixir of Suffering |QID|496| |OIDX|1| |N|Kill Gray Bears and Starving Mountain Lions. Loot them for their Gray Bear Tongues and Mountain Lion Blood| |O| |Z|Hillsbrad Foothills|
+C Elixir of Pain |QID|501| |OIDX|1| |N|Kill Gray Bears and Starving Mountain Lions. Loot them for their Gray Bear Tongues and Mountain Lion Blood| |O| |Z|Hillsbrad Foothills|
+C Elixir of Pain |QID|501| |OIDX|1| |N|Kill Starving Mountain Lions. Loot them for their Mountain Lion Blood| |O| |Z|Hillsbrad Foothills|
 T Elixir of Suffering |QID|496| |N|Lydon, Darthalia and Samsa - (61.4, 19.1)| |O| |Z|Hillsbrad Foothills|
 A Elixir of Suffering |QID|499| |N|Lydon, Darthalia and Samsa - (61.4, 19.1)| |O| |Z|Hillsbrad Foothills|
 T Elixir of Pain |QID|501| |N|Lydon, Darthalia and Samsa - (61.4, 19.1)| |O| |Z|Hillsbrad Foothills|
@@ -143,27 +143,27 @@ A Battle of Hillsbrad |QID|528| |N|Darthalia and Samsa - (62.4, 20.3)| |O| |Z|Hi
 A Souvenirs of Death |QID|546| |N|Darthalia and Samsa - (62.4, 20.3)| |O| |Z|Hillsbrad Foothills|
 B Sell your junk, then restock on food and water if necessary |N|Innkeeper Shay - (62.8, 19.1)| |C|!Rogue/!Warrior| |Z|Hillsbrad Foothills|
 B Sell your junk, then restock on food if necessary |N|Innkeeper Shay - (62.8, 19.1)| |C|Rogue/Warrior| |Z|Hillsbrad Foothills|
-C Elixir of Suffering |QID|496| |N|Kill Gray Bears and Starving Mountain Lions. Loot them for their Gray Bear Tongues and Mountain Lion Blood| |O| |Z|Hillsbrad Foothills|
-C Elixir of Pain |QID|501| |N|Kill Gray Bears and Starving Mountain Lions. Loot them for their Gray Bear Tongues and Mountain Lion Blood| |O| |Z|Hillsbrad Foothills|
-C Elixir of Suffering |QID|496| |N|Kill Gray Bears. Loot them for their Gray Bear Tongues| |O| |Z|Hillsbrad Foothills|
-C Elixir of Pain |QID|501| |N|Kill Starving Mountain Lions. Loot them for their Mountain Lion Blood| |O| |Z|Hillsbrad Foothills|
+C Elixir of Suffering |QID|496| |OIDX|1| |N|Kill Gray Bears and Starving Mountain Lions. Loot them for their Gray Bear Tongues and Mountain Lion Blood| |O| |Z|Hillsbrad Foothills|
+C Elixir of Pain |QID|501| |OIDX|1| |N|Kill Gray Bears and Starving Mountain Lions. Loot them for their Gray Bear Tongues and Mountain Lion Blood| |O| |Z|Hillsbrad Foothills|
+C Elixir of Suffering |QID|496| |OIDX|1| |N|Kill Gray Bears. Loot them for their Gray Bear Tongues| |O| |Z|Hillsbrad Foothills|
+C Elixir of Pain |QID|501| |OIDX|1| |N|Kill Starving Mountain Lions. Loot them for their Mountain Lion Blood| |O| |Z|Hillsbrad Foothills|
 N This quest does not need to be completed now |O| |Z|Hillsbrad Foothills|
-C Souvenirs of Death |QID|546| |N|Kill Hillsbrad Humans. Loot them for their Skulls.| |O| |Z|Hillsbrad Foothills|
+C Souvenirs of Death |QID|546| |OIDX|1| |N|Kill Hillsbrad Humans. Loot them for their Skulls.| |O| |Z|Hillsbrad Foothills|
 N Wait out the RP, then kill Enraged Stanley |N|(32.7, 35.3)| |O| |Z|Hillsbrad Foothills|
 N Enraged Stanley gives a full quest's worth of experience |N|(32.7, 35.3)| |O| |Z|Hillsbrad Foothills|
 T Elixir of Pain |QID|502| |N|Stanley - (32.7, 35.3)| |O| |Z|Hillsbrad Foothills|
 N He patrols around the roads of the town |N|(32.6, 40.0)| |Z|Hillsbrad Foothills|
-C Dangerous! |QID|567| |N|Citizen Wilkes (32.6, 40.0)| |Z|Hillsbrad Foothills|
+C Dangerous! |QID|567| |OIDX|2| |N|Citizen Wilkes (32.6, 40.0)| |Z|Hillsbrad Foothills|
 N Wait out the RP, then kill Enraged Stanley |N|(32.7, 35.3)| |Z|Hillsbrad Foothills|
 N Enraged Stanley gives a full quest's worth of experience |N|(32.7, 35.3)| |Z|Hillsbrad Foothills|
 T Elixir of Pain |QID|502| |N|Stanley - (32.7, 35.3)| |Z|Hillsbrad Foothills|
-C Battle of Hillsbrad |QID|528| |N|Kill Hillsbrad Peasants| |O| |Z|Hillsbrad Foothills|
-C Dangerous! |QID|567| |N|Farmer Kalaba (36.0, 46.5)| |Z|Hillsbrad Foothills|
-C Battle of Hillsbrad |QID|528| |N|Hillsbrad Peasants (36.5, 47.5)| |Z|Hillsbrad Foothills|
-C Elixir of Pain |QID|501| |N|Finish killing Mountain Lions. Loot them for their Blood| |O| |Z|Hillsbrad Foothills|
-C Elixir of Suffering |QID|496| |N|Finish killing Bears. Loot them for their Tongues (66.5, 34.5)| |Z|Hillsbrad Foothills|
-C Elixir of Pain |QID|501| |N|Finish killing Mountain Lions. Loot them for their Blood (66.5, 34.5)| |Z|Hillsbrad Foothills|
-C Elixir of Suffering |QID|496| |N|Finish killing Forest Moss Creepers and Giant Moss Creepers. Loot them for their Ichor (67.6, 37.6)| |Z|Hillsbrad Foothills|
+C Battle of Hillsbrad |QID|528| |OIDX|1| |N|Kill Hillsbrad Peasants| |O| |Z|Hillsbrad Foothills|
+C Dangerous! |QID|567| |OIDX|4| |N|Farmer Kalaba (36.0, 46.5)| |Z|Hillsbrad Foothills|
+C Battle of Hillsbrad |QID|528| |OIDX|1| |N|Hillsbrad Peasants (36.5, 47.5)| |Z|Hillsbrad Foothills|
+C Elixir of Pain |QID|501| |OIDX|1| |N|Finish killing Mountain Lions. Loot them for their Blood| |O| |Z|Hillsbrad Foothills|
+C Elixir of Suffering |QID|496| |OIDX|1| |N|Finish killing Bears. Loot them for their Tongues (66.5, 34.5)| |Z|Hillsbrad Foothills|
+C Elixir of Pain |QID|501| |OIDX|1| |N|Finish killing Mountain Lions. Loot them for their Blood (66.5, 34.5)| |Z|Hillsbrad Foothills|
+C Elixir of Suffering |QID|496| |OIDX|2| |N|Finish killing Forest Moss Creepers and Giant Moss Creepers. Loot them for their Ichor (67.6, 37.6)| |Z|Hillsbrad Foothills|
 T Elixir of Suffering |QID|496| |N|Lydon - (61.4, 19.1)| |Z|Hillsbrad Foothills|
 A Elixir of Suffering |QID|499| |N|Lydon - (61.4, 19.1)| |Z|Hillsbrad Foothills|
 T Elixir of Pain |QID|501| |N|Lydon - (61.4, 19.1)| |Z|Hillsbrad Foothills|
@@ -189,9 +189,9 @@ B Buy a [Broad Bladed Knife] from him if it's up and you don't have it yet |N|Ot
 N Wait out the RP, then kill Enraged Stanley |N|(32.7, 35.3)| |O| |Z|Hillsbrad Foothills|
 N Enraged Stanley gives a full quest's worth of experience |N|(32.7, 35.3)| |O| |Z|Hillsbrad Foothills|
 T Elixir of Pain |QID|502| |N|Stanley - (32.7, 35.3)| |O| |Z|Hillsbrad Foothills|
-C Battle of Hillsbrad |QID|529| |N|Kill Blacksmith Verringtan and Hillsbrad Apprentice Blacksmiths| |O| |Z|Hillsbrad Foothills|
-C Battle of Hillsbrad |QID|529| |N|the Shipment of Iron for the [Shipment of Iron] (32.0, 45.5)| |Z|Hillsbrad Foothills|
-C Battle of Hillsbrad |QID|529| |N|Blacksmith Verringtan and Hillsbrad Apprentice Blacksmiths (32.2, 45.3)| |Z|Hillsbrad Foothills|
+C Battle of Hillsbrad |QID|529| |OIDX|1| |N|Kill Blacksmith Verringtan and Hillsbrad Apprentice Blacksmiths| |O| |Z|Hillsbrad Foothills|
+C Battle of Hillsbrad |QID|529| |OIDX|3| |N|the Shipment of Iron for the [Shipment of Iron] (32.0, 45.5)| |Z|Hillsbrad Foothills|
+C Battle of Hillsbrad |QID|529| |OIDX|1| |N|Blacksmith Verringtan and Hillsbrad Apprentice Blacksmiths (32.2, 45.3)| |Z|Hillsbrad Foothills|
 N Wait out the RP, then kill Enraged Stanley |N|(32.7, 35.3)| |Z|Hillsbrad Foothills|
 N Enraged Stanley gives a full quest's worth of experience |N|(32.7, 35.3)| |Z|Hillsbrad Foothills|
 T Elixir of Pain |QID|502| |N|Stanley - (32.7, 35.3)| |Z|Hillsbrad Foothills|
@@ -200,8 +200,8 @@ F Fly to The Sepulcher |N|Zarise - (60.1, 18.6) (SFK Dungeon Quest)| |D|SFK| |Z|
 A Deathstalkers in Shadowfang |QID|1098| |N|Hadrec - (43.4, 40.9) (SFK Dungeon Quest)| |D|SFK| |Z|Silverpine Forest|
 A Arugal Must Die |QID|1014| |N|Dalar - (44.2, 39.8) (SFK Dungeon Quest)| |D|SFK| |Z|Silverpine Forest|
 T Deathstalkers in Shadowfang |QID|1098| |N|Vincent (SFK Dungeon Quest)| |D|SFK| |Z|Silverpine Forest|
-C The Book of Ur |QID|1013| |N|Loot the Book of Ur from the bookshelf in Fenrus the Devourer's room (SFK Dungeon Quest)| |D|SFK| |Z|Silverpine Forest|
-C Arugal Must Die |QID|1014| |N|Kill Archmage Arugal. Loot him for his Head (SFK Dungeon Quest)| |D|SFK| |Z|Silverpine Forest|
+C The Book of Ur |QID|1013| |OIDX|1| |N|Loot the Book of Ur from the bookshelf in Fenrus the Devourer's room (SFK Dungeon Quest)| |D|SFK| |Z|Silverpine Forest|
+C Arugal Must Die |QID|1014| |OIDX|1| |N|Kill Archmage Arugal. Loot him for his Head (SFK Dungeon Quest)| |D|SFK| |Z|Silverpine Forest|
 T Deathstalkers in Shadowfang |QID|1098| |N|Hadrec - (43.4, 40.9) (SFK Dungeon Quest)| |D|SFK| |Z|Silverpine Forest|
 T Arugal Must Die |QID|1014| |N|Dalar - (44.2, 39.8) (SFK Dungeon Quest)| |D|SFK| |Z|Silverpine Forest|
 F Fly to the Undercity |N|Karos - (45.6, 42.6) (SFK Dungeon Quest)| |C|!Mage| |D|SFK| |Z|Silverpine Forest|

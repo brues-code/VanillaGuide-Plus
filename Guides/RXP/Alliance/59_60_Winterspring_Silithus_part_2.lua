@@ -18,14 +18,14 @@ N Buy food if needed |C|Warrior/Rogue| |Z|Tanaris|
 T Chillwind Horns |QID|4809| |N|Felnok Steelspring - (61.6, 38.6)| |Z|Winterspring|
 T Are We There, Yeti? |QID|5163| |N|Umi Rumplesnicker - (60.9, 37.6)| |Z|Winterspring|
 N Don't go out of your way to complete this yet |O| |Z|Winterspring|
-C Chillwind Horns |QID|4809| |N|Kill Fledgling Chillwinds, Chillwind Chimaeras and Chillwind Ravagers. Loot them for their Uncracked Chillwind Horns| |O| |Z|Winterspring|
+C Chillwind Horns |QID|4809| |OIDX|1| |N|Kill Fledgling Chillwinds, Chillwind Chimaeras and Chillwind Ravagers. Loot them for their Uncracked Chillwind Horns| |O| |Z|Winterspring|
 T Find Ranshalla |QID|979| |N|Ranshalla - (63.1, 59.5)| |Z|Winterspring|
 A Guardians of the Altar |QID|4901| |N|Ranshalla - (63.1, 59.5)| |Z|Winterspring|
 N Guardians of the Altar will begin an escort quest. If you're in a party ensure everyone has turned in Find Ranshalla first. Auto accept has been turned off for Guardians of the Altar |N|(63.1, 59.5)| |Z|Winterspring|
 N Click the Fire of Elune torches inside the caves when Ranshalla begins channelling her spell on them, and then the Altar of Elune at the end |N|(64.8, 63.8)| |Z|Winterspring|
-C Guardians of the Altar |QID|4901| |N|Escort Ranshalla through Owl Wing Thicket (64.8, 63.8)| |Z|Winterspring|
+C Guardians of the Altar |QID|4901| |OIDX|1| |N|Escort Ranshalla through Owl Wing Thicket (64.8, 63.8)| |Z|Winterspring|
 T Chillwind Horns |QID|4809| |N|Felnok Steelspring - (61.6, 38.6)| |Z|Winterspring|
-C Chillwind Horns |QID|4809| |N|Kill Fledgling Chillwinds, Chillwind Chimaeras and Chillwind Ravagers. Loot them for their Uncracked Chillwind Horns (66.4, 47.2)| |O| |Z|Winterspring|
+C Chillwind Horns |QID|4809| |OIDX|1| |N|Kill Fledgling Chillwinds, Chillwind Chimaeras and Chillwind Ravagers. Loot them for their Uncracked Chillwind Horns (66.4, 47.2)| |O| |Z|Winterspring|
 T Chillwind Horns |QID|4809| |N|(60.2, 24.6)| |O| |Z|Winterspring|
 R Felnok Steelspring |N|(61.6, 38.6)| |O| |Z|Winterspring|
 F Fly to Moonglade |N|Maethrya - (62.3, 36.6)| |C|!Druid| |Z|Winterspring|
@@ -81,12 +81,12 @@ A Dark Iron Legacy |QID|3801| |N|Franclorn Forgewright - (48.6, 64.2) (BRD Dunge
 T Dark Iron Legacy |QID|3801| |N|Franclorn Forgewright - (48.6, 64.2) (BRD Dungeon Quest)| |D|BRD| |Z|Westfall|
 A Dark Iron Legacy |QID|3802| |N|Franclorn Forgewright - (48.6, 64.2) (BRD Dungeon Quest)| |D|BRD| |Z|Westfall|
 A Attunement to the Core |QID|7848| |N|Lothos Riftwaker - (48.4, 63.8) (BRD Dungeon Quest)| |D|BRD| |Z|Westfall|
-C Overmaster Pyron |QID|4262| |N|Overmaster Pyron patrols outside of the BRD instance portal (BRD Dungeon Quest)| |D|BRD| |Z|Westfall|
-C The Good Stuff |QID|4286| |N|(BRD Dungeon Quest)| |D|BRD| |Z|Westfall|
+C Overmaster Pyron |QID|4262| |OIDX|1| |N|Overmaster Pyron patrols outside of the BRD instance portal (BRD Dungeon Quest)| |D|BRD| |Z|Westfall|
+C The Good Stuff |QID|4286| |OIDX|1| |N|(BRD Dungeon Quest)| |D|BRD| |Z|Westfall|
 T Kharan Mighthammer |QID|4341| |N|If your group does not have a Rogue you may need to kill High Interrogator Gerstahn for the Prison Cell Key to open the doors (BRD Dungeon Quest)| |D|BRD| |Z|Westfall|
 A Kharan's Tale |QID|4342| |N|If your group does not have a Rogue you may need to kill High Interrogator Gerstahn for the Prison Cell Key to open the doors (BRD Dungeon Quest)| |D|BRD| |Z|Westfall|
 A Kharan's Tale |QID|4342| |N|(BRD Dungeon Quest)| |D|BRD| |Z|Westfall|
-C Kharan's Tale |QID|4342| |N|(BRD Dungeon Quest)| |D|BRD| |Z|Westfall|
+C Kharan's Tale |QID|4342| |OIDX|1| |N|(BRD Dungeon Quest)| |D|BRD| |Z|Westfall|
 T Kharan's Tale |QID|4342| |N|(BRD Dungeon Quest)| |D|BRD| |Z|Westfall|
 A The Bearer of Bad News |QID|4361| |N|(BRD Dungeon Quest)| |D|BRD| |Z|Westfall|
 T Marshal Windsor |QID|4241| |N|If your group does not have a Rogue you may need to kill High Interrogator Gerstahn for the Prison Cell Key to open the doors (BRD Dungeon Quest)| |D|BRD| |Z|Westfall|
@@ -100,30 +100,30 @@ N The quest chain will stop here until you find [A Crumpled Up Note] at BRD |N|(
 T Abandoned Hope |QID|4242| |N|Marshal Maxwell - (84.7, 69.0) (BRD Dungeon Quest)| |D|BRD| |Z|Burning Steppes|
 T Overmaster Pyron |QID|4262| |N|Jalinda Sprig - (85.4, 70.1) (BRD Dungeon Quest)| |D|BRD| |Z|Burning Steppes|
 A Incendius! |QID|4263| |N|Jalinda Sprig - (85.4, 70.1) (BRD Dungeon Quest)| |D|BRD| |Z|Burning Steppes|
-C The Heart of the Mountain |QID|4123| |N|There is a trick which allows you to loot it without having to open the safe. View the link below to see how it is done (BRD Dungeon Quest)| |D|BRD| |Z|Burning Steppes|
-C Dark Iron Legacy |QID|3802| |N|(BRD Dungeon Quest)| |D|BRD| |Z|Burning Steppes|
-C Incendius! |QID|4263| |N|(BRD Dungeon Quest)| |D|BRD| |Z|Burning Steppes|
+C The Heart of the Mountain |QID|4123| |OIDX|1| |N|There is a trick which allows you to loot it without having to open the safe. View the link below to see how it is done (BRD Dungeon Quest)| |D|BRD| |Z|Burning Steppes|
+C Dark Iron Legacy |QID|3802| |OIDX|1| |N|(BRD Dungeon Quest)| |D|BRD| |Z|Burning Steppes|
+C Incendius! |QID|4263| |OIDX|1| |N|(BRD Dungeon Quest)| |D|BRD| |Z|Burning Steppes|
 T Dark Iron Legacy |QID|3802| |N|Click the Monument of Franclorn Forgewright (BRD Dungeon Quest)| |D|BRD| |Z|Burning Steppes|
-C A Taste of Flame |QID|4024| |N|Kill Bael'Gar (BRD Dungeon Quest)| |D|BRD| |Z|Burning Steppes|
+C A Taste of Flame |QID|4024| |OIDX|1| |N|Kill Bael'Gar (BRD Dungeon Quest)| |D|BRD| |Z|Burning Steppes|
 N If you still have not found this by now clear around the Detention Block until it drops |N|(BRD Dungeon Quest)| |D|BRD| |Z|Burning Steppes|
 C Dwarves at BRD. Loot them for [A Crumpled Up Note] |QID|4264| |L|11446 1| |N|It is important you do this before killing bosses General Angerforge and Golem Lord Argelmach (BRD Dungeon Quest)| |D|BRD| |Z|Burning Steppes|
 A A Crumpled Up Note |QID|4264| |N|It is important you do this before killing bosses General Angerforge and Golem Lord Argelmach (BRD Dungeon Quest)| |D|BRD| |Z|Burning Steppes|
 T A Crumpled Up Note |QID|4264| |N|(BRD Dungeon Quest)| |D|BRD| |Z|Burning Steppes|
 A A Shred of Hope |QID|4282| |N|(BRD Dungeon Quest)| |D|BRD| |Z|Burning Steppes|
-C A Shred of Hope |QID|4282| |N|(BRD Dungeon Quest)| |D|BRD| |Z|Burning Steppes|
+C A Shred of Hope |QID|4282| |OIDX|1| |N|(BRD Dungeon Quest)| |D|BRD| |Z|Burning Steppes|
 N Accepting this quest will begin the Jail Break escort. Ensure you have cleared all of the Detention Block area for an easier time escorting Marshal Windsor |N|(BRD Dungeon Quest)| |D|BRD| |Z|Burning Steppes|
 T A Shred of Hope |QID|4282| |N|ENSURE ALL PARTY MEMBERS HAVE AUTO ACCEPT OFF FOR THIS STEP! RestedXP HAS AUTO ACCEPT OFF FOR THIS STEP (BRD Dungeon Quest)| |D|BRD| |Z|Burning Steppes|
 A Jail Break! |QID|4322| |N|ENSURE ALL PARTY MEMBERS HAVE AUTO ACCEPT OFF FOR THIS STEP! RestedXP HAS AUTO ACCEPT OFF FOR THIS STEP (BRD Dungeon Quest)| |D|BRD| |Z|Burning Steppes|
-C Jail Break! |QID|4322| |N|(BRD Dungeon Quest)| |D|BRD| |Z|Burning Steppes|
+C Jail Break! |QID|4322| |OIDX|1| |N|(BRD Dungeon Quest)| |D|BRD| |Z|Burning Steppes|
 N Kill Hurley Blackbreath. Loot him for the Lost Thunderbrew Recipe |N|(BRD Dungeon Quest)| |D|BRD| |Z|Burning Steppes|
-C Hurley Blackbreath |QID|4126| |N|Click on the 3 Thunderbrew Lager Kegs to destroy them, forcing Hurley Blackbreath and his 3 Blackbreath Cronies to engage (BRD Dungeon Quest)| |D|BRD| |Z|Burning Steppes|
+C Hurley Blackbreath |QID|4126| |OIDX|1| |N|Click on the 3 Thunderbrew Lager Kegs to destroy them, forcing Hurley Blackbreath and his 3 Blackbreath Cronies to engage (BRD Dungeon Quest)| |D|BRD| |Z|Burning Steppes|
 N To engage Ribbly Screwspigot have your tank him, then bring him back along with his Cronies into the room with the kegs |N|(BRD Dungeon Quest)| |D|BRD| |Z|Burning Steppes|
-C Ribbly Screwspigot |QID|4136| |N|Kill Ribbly Screwspigot. Loot him for his Head (BRD Dungeon Quest)| |D|BRD| |Z|Burning Steppes|
+C Ribbly Screwspigot |QID|4136| |OIDX|1| |N|Kill Ribbly Screwspigot. Loot him for his Head (BRD Dungeon Quest)| |D|BRD| |Z|Burning Steppes|
 N Kill Hurley Blackbreath. Loot him for the Lost Thunderbrew Recipe |N|(BRD Dungeon Quest)| |D|BRD| |Z|Burning Steppes|
-C Hurley Blackbreath |QID|4126| |N|Click on the 3 Thunderbrew Lager Kegs to destroy them, forcing Hurley Blackbreath and his 3 Blackbreath Cronies to engage (BRD Dungeon Quest)| |D|BRD| |Z|Burning Steppes|
-C Attunement to the Core |QID|7848| |N|(BRD Dungeon Quest)| |D|BRD| |Z|Burning Steppes|
+C Hurley Blackbreath |QID|4126| |OIDX|1| |N|Click on the 3 Thunderbrew Lager Kegs to destroy them, forcing Hurley Blackbreath and his 3 Blackbreath Cronies to engage (BRD Dungeon Quest)| |D|BRD| |Z|Burning Steppes|
+C Attunement to the Core |QID|7848| |OIDX|1| |N|(BRD Dungeon Quest)| |D|BRD| |Z|Burning Steppes|
 N Have a party member kite Princess Moira Bronzebeard while the rest of the group kills Emperor Dagran Thaurissan |N|(BRD Dungeon Quest)| |D|BRD| |Z|Burning Steppes|
-C The Fate of the Kingdom |QID|4362| |N|You must NOT kill Princess Moira Bronzebeard in order to complete and turn in this quest (BRD Dungeon Quest)| |D|BRD| |Z|Burning Steppes|
+C The Fate of the Kingdom |QID|4362| |OIDX|1| |N|You must NOT kill Princess Moira Bronzebeard in order to complete and turn in this quest (BRD Dungeon Quest)| |D|BRD| |Z|Burning Steppes|
 T The Fate of the Kingdom |QID|4362| |N|(BRD Dungeon Quest)| |D|BRD| |Z|Burning Steppes|
 A The Princess's Surprise |QID|4363| |N|(BRD Dungeon Quest)| |D|BRD| |Z|Burning Steppes|
 T The Princess's Surprise |QID|4363| |N|King Magni Bronzebeard - (39.1, 56.2) (BRD Dungeon Quest)| |D|BRD| |Z|Ironforge|
@@ -144,7 +144,7 @@ N IF YOU ARE IN A PARTY ENSURE NO ONE AUTO ACCEPTS The Great Masquerade. AUTO AC
 T Stormwind Rendezvous |QID|6402| |N|Squire Rowe and Reginald Windsor - (69.7, 86.1) (BRD Dungeon Quest)| |D|BRD| |Z|Stormwind City|
 A The Great Masquerade |QID|6403| |N|Squire Rowe and Reginald Windsor - (69.7, 86.1) (BRD Dungeon Quest)| |D|BRD| |Z|Stormwind City|
 N Do not assist Reginald Windsor in combat while inside the Keep. If you do so there is a high chance you may die. Stay back at the arrow location and let the event finish on its own. It will take a few minutes |N|(76.9, 20.8) (BRD Dungeon Quest)| |D|BRD| |Z|Stormwind City|
-C The Great Masquerade |QID|6403| |N|Escort Reginald Windsor into Stormwind Keep (76.9, 20.8) (BRD Dungeon Quest)| |D|BRD| |Z|Stormwind City|
+C The Great Masquerade |QID|6403| |OIDX|1| |N|Escort Reginald Windsor into Stormwind Keep (76.9, 20.8) (BRD Dungeon Quest)| |D|BRD| |Z|Stormwind City|
 T The Great Masquerade |QID|6403| |N|Highlord Bolvar Fordragon - (77.6, 18.9) (BRD Dungeon Quest)| |D|BRD| |Z|Stormwind City|
 A The Dragon's Eye |QID|6501| |N|Highlord Bolvar Fordragon - (77.6, 18.9) (BRD Dungeon Quest)| |D|BRD| |Z|Stormwind City|
 N You can either turn this in now or the next time you are in Blackrock Mountain |N|(48.4, 63.8) (BRD Dungeon Quest)| |D|BRD| |Z|Westfall|

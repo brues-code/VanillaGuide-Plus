@@ -22,23 +22,23 @@ A Larion and Muigin |QID|4145| |N|Larion - (45.5, 8.7)| |Z|Un'Goro Crater|
 A Shizzle's Flyer |QID|4503| |N|Shizzle - (12.8, 8.1)| |Z|Tanaris|
 C Collect Un'Goro Soil as you quest throught Un'Goro |L|11018 25| |N|Collect Un'Goro Soil as you quest throught Un'Goro| |O| |Z|Tanaris|
 N This does not need to be finished now |O| |Z|Tanaris|
-C Beware of Pterrordax |QID|4501| |N|Kill some of the Pterrordax found north of the Northern Pylon. Loot them for their Scales| |O| |Z|Tanaris|
-C Shizzle's Flyer |QID|4503| |N|Kill some of the Pterrordax found north of the Northern Pylon. Loot them for their Scales| |O| |Z|Tanaris|
+C Beware of Pterrordax |QID|4501| |OIDX|1| |N|Kill some of the Pterrordax found north of the Northern Pylon. Loot them for their Scales| |O| |Z|Tanaris|
+C Shizzle's Flyer |QID|4503| |OIDX|2| |N|Kill some of the Pterrordax found north of the Northern Pylon. Loot them for their Scales| |O| |Z|Tanaris|
 R Travel to Un'Goro Crater |N|(56.6, 16.6)| |O| |Z|Un'Goro Crater|
 N Their poison deals high damage. Do not focus on this. You can finish it later |N|(60.6, 20.6)| |O| |C|Warrior/Rogue| |Z|Un'Goro Crater|
 N Their poison deals high damage and drains mana. Do not focus on this. You can finish it later |N|(60.6, 20.6)| |O| |C|!Warrior/!Rogue| |Z|Un'Goro Crater|
-C Larion and Muigin |QID|4145| |N|On your way to Fungal Rock, kill Bloodpetal Flayers (60.6, 20.6)| |O| |Z|Un'Goro Crater|
+C Larion and Muigin |QID|4145| |OIDX|3| |N|On your way to Fungal Rock, kill Bloodpetal Flayers (60.6, 20.6)| |O| |Z|Un'Goro Crater|
 N Be careful! Un'Goro Gorillas call for help in a 90 yard range. Un'Goro Thunderers have a high-damage, instant shock spell |N|(62.9, 18.2)| |Z|Un'Goro Crater|
-C The Apes of Un'Goro |QID|4289| |N|Un'Goro Stompers, Un'Goro Thunderers. and Un'Goro gorillas. Loot them for their Pelts (62.9, 18.2)| |Z|Un'Goro Crater|
+C The Apes of Un'Goro |QID|4289| |OIDX|2| |N|Un'Goro Stompers, Un'Goro Thunderers. and Un'Goro gorillas. Loot them for their Pelts (62.9, 18.2)| |Z|Un'Goro Crater|
 N Be careful of Elder Diemetradons' Pummel ability, which interrupts spells |O| |C|Warlock/Priest/Mage/Shaman/Druid| |Z|Un'Goro Crater|
-C Roll the Bones |QID|3882| |N|Kill Diemetradons. Loot them for their Bones and Scales| |O| |Z|Un'Goro Crater|
-C Shizzle's Flyer |QID|4503| |N|Kill Diemetradons. Loot them for their Bones and Scales| |O| |Z|Un'Goro Crater|
+C Roll the Bones |QID|3882| |OIDX|1| |N|Kill Diemetradons. Loot them for their Bones and Scales| |O| |Z|Un'Goro Crater|
+C Shizzle's Flyer |QID|4503| |OIDX|1| |N|Kill Diemetradons. Loot them for their Bones and Scales| |O| |Z|Un'Goro Crater|
 N Their poison deals high damage and they can disarm |N|(60.0, 39.4)| |C|Warrior/Rogue/Shaman| |Z|Un'Goro Crater|
 N Their poison deals high damage and drains mana |N|(60.0, 39.4)| |C|!Warrior/!Rogue/!Shaman| |Z|Un'Goro Crater|
-C Larion and Muigin |QID|4145| |N|Bloodpetal Threshers, Bloodpetal Lashers and Bloodpetal Flayers (60.0, 39.4)| |Z|Un'Goro Crater|
-C Expedition Salvation |QID|3881| |N|the Crate of Foodstuffs on the ground (68.5, 36.5)| |Z|Un'Goro Crater|
-C The Eastern Pylon |QID|4287| |N|the Eastern Crystal Pylon (77.2, 50.0)| |Z|Un'Goro Crater|
-C The Bait for Lar'korwi |QID|4292| |N|Kill Lar'korwi as he spawns. Loot him for his Head (79.9, 49.9)| |Z|Un'Goro Crater|
+C Larion and Muigin |QID|4145| |OIDX|4| |N|Bloodpetal Threshers, Bloodpetal Lashers and Bloodpetal Flayers (60.0, 39.4)| |Z|Un'Goro Crater|
+C Expedition Salvation |QID|3881| |OIDX|1| |N|the Crate of Foodstuffs on the ground (68.5, 36.5)| |Z|Un'Goro Crater|
+C The Eastern Pylon |QID|4287| |OIDX|1| |N|the Eastern Crystal Pylon (77.2, 50.0)| |Z|Un'Goro Crater|
+C The Bait for Lar'korwi |QID|4292| |OIDX|1| |N|Kill Lar'korwi as he spawns. Loot him for his Head (79.9, 49.9)| |Z|Un'Goro Crater|
 T The Apes of Un'Goro |QID|4289| |N|Torwa - (71.6, 76.0) (ST Dungeon Quest)| |C|Druid| |D|ST| |Z|Un'Goro Crater|
 T The Bait for Lar'korwi |QID|4292| |N|Torwa - (71.6, 76.0) (ST Dungeon Quest)| |C|Druid| |D|ST| |Z|Un'Goro Crater|
 A The Mighty U'cha |QID|4301| |N|Torwa - (71.6, 76.0) (ST Dungeon Quest)| |C|Druid| |D|ST| |Z|Un'Goro Crater|
@@ -46,62 +46,62 @@ A Bloodpetal Poison |QID|9052| |N|Torwa - (71.6, 76.0) (ST Dungeon Quest)| |C|Dr
 T The Apes of Un'Goro |QID|4289| |N|Torwa - (71.6, 76.0)| |Z|Un'Goro Crater|
 T The Bait for Lar'korwi |QID|4292| |N|Torwa - (71.6, 76.0)| |Z|Un'Goro Crater|
 A The Mighty U'cha |QID|4301| |N|Torwa - (71.6, 76.0)| |Z|Un'Goro Crater|
-C Bloodpetal Poison |QID|9052| |N|Loot Bloodpetal Sprouts around the zone until you have 8 Bloodcaps (ST Dungeon Quest)| |C|Druid| |D|ST| |Z|Un'Goro Crater|
+C Bloodpetal Poison |QID|9052| |OIDX|2| |N|Loot Bloodpetal Sprouts around the zone until you have 8 Bloodcaps (ST Dungeon Quest)| |C|Druid| |D|ST| |Z|Un'Goro Crater|
 N Kill Gorishi Silithid. Loot them for a Gorishi Scent Gland and for Gorishi Stings |N|(50.6, 77.1) (ST Dungeon Quest)| |C|Druid| |D|ST| |Z|Un'Goro Crater|
-C Bungle in the Jungle |QID|4496| |N|Gorishi Silithid. Loot them for a Gorishi Scent Gland (50.6, 77.1) (ST Dungeon Quest)| |C|Druid| |D|ST| |Z|Un'Goro Crater|
-C Bloodpetal Poison |QID|9052| |N|Gorishi Silithid. Loot them for a Gorishi Scent Gland (50.6, 77.1) (ST Dungeon Quest)| |C|Druid| |D|ST| |Z|Un'Goro Crater|
-C Bungle in the Jungle |QID|4496| |N|Gorishi Silithid. Loot them for a Gorishi Scent Gland (50.6, 77.1)| |O| |Z|Un'Goro Crater|
+C Bungle in the Jungle |QID|4496| |OIDX|1| |N|Gorishi Silithid. Loot them for a Gorishi Scent Gland (50.6, 77.1) (ST Dungeon Quest)| |C|Druid| |D|ST| |Z|Un'Goro Crater|
+C Bloodpetal Poison |QID|9052| |OIDX|1| |N|Gorishi Silithid. Loot them for a Gorishi Scent Gland (50.6, 77.1) (ST Dungeon Quest)| |C|Druid| |D|ST| |Z|Un'Goro Crater|
+C Bungle in the Jungle |QID|4496| |OIDX|1| |N|Gorishi Silithid. Loot them for a Gorishi Scent Gland (50.6, 77.1)| |O| |Z|Un'Goro Crater|
 R Enter the Silithid cave |N|(50.0, 81.7)| |Z|Un'Goro Crater|
 R Enter the room on the left |N|(49.2, 84.5)| |O| |Z|Un'Goro Crater|
-C Alien Ecology |QID|3883| |N|(48.7, 85.3)| |Z|Un'Goro Crater|
+C Alien Ecology |QID|3883| |OIDX|1| |N|(48.7, 85.3)| |Z|Un'Goro Crater|
 N Kill Gorishi Silithid. Loot them for a Gorishi Scent Gland and for Gorishi Stings |N|(51.7, 75.4) (ST Dungeon Quest)| |C|Druid| |D|ST| |Z|Un'Goro Crater|
-C Bungle in the Jungle |QID|4496| |N|Gorishi Silithid. Loot them for a Gorishi Scent Gland (51.7, 75.4) (ST Dungeon Quest)| |C|Druid| |D|ST| |Z|Un'Goro Crater|
-C Bloodpetal Poison |QID|9052| |N|Gorishi Silithid. Loot them for a Gorishi Scent Gland (51.7, 75.4) (ST Dungeon Quest)| |C|Druid| |D|ST| |Z|Un'Goro Crater|
-C Bungle in the Jungle |QID|4496| |N|Gorishi Silithid. Loot them for a Gorishi Scent Gland (51.7, 75.4)| |Z|Un'Goro Crater|
+C Bungle in the Jungle |QID|4496| |OIDX|1| |N|Gorishi Silithid. Loot them for a Gorishi Scent Gland (51.7, 75.4) (ST Dungeon Quest)| |C|Druid| |D|ST| |Z|Un'Goro Crater|
+C Bloodpetal Poison |QID|9052| |OIDX|1| |N|Gorishi Silithid. Loot them for a Gorishi Scent Gland (51.7, 75.4) (ST Dungeon Quest)| |C|Druid| |D|ST| |Z|Un'Goro Crater|
+C Bungle in the Jungle |QID|4496| |OIDX|1| |N|Gorishi Silithid. Loot them for a Gorishi Scent Gland (51.7, 75.4)| |Z|Un'Goro Crater|
 N This does not need to be finished now |N|(44.1, 91.6)| |O| |Z|Un'Goro Crater|
-C Shizzle's Flyer |QID|4503| |N|the Pterrordax you kill for their Scales (44.1, 91.6)| |O| |Z|Un'Goro Crater|
-C Beware of Pterrordax |QID|4501| |N|Pterrordax in the southern mountains (43.6, 92.4)| |Z|Un'Goro Crater|
-C Bloodpetal Poison |QID|9052| |N|Finish looting Bloodpetal Sprouts around the zone until you have 8 Bloodcaps (ST Dungeon Quest)| |C|Druid| |D|ST| |Z|Un'Goro Crater|
+C Shizzle's Flyer |QID|4503| |OIDX|2| |N|the Pterrordax you kill for their Scales (44.1, 91.6)| |O| |Z|Un'Goro Crater|
+C Beware of Pterrordax |QID|4501| |OIDX|1| |N|Pterrordax in the southern mountains (43.6, 92.4)| |Z|Un'Goro Crater|
+C Bloodpetal Poison |QID|9052| |OIDX|2| |N|Finish looting Bloodpetal Sprouts around the zone until you have 8 Bloodcaps (ST Dungeon Quest)| |C|Druid| |D|ST| |Z|Un'Goro Crater|
 T Bloodpetal Poison |QID|9052| |N|Torwa - (71.6, 76.0) (ST Dungeon Quest)| |C|Druid| |D|ST| |Z|Un'Goro Crater|
 N Their poison deals high damage, and they can cast entangling roots |O| |C|Warrior/Rogue/Shaman| |Z|Un'Goro Crater|
 N Their poison deals high damage and drains mana. They can cast entangling roots |O| |C|!Warrior/!Rogue/!Shaman| |Z|Un'Goro Crater|
-C Larion and Muigin |QID|4145| |N|Kill Bloodpetal Trappers| |O| |Z|Un'Goro Crater|
-C Roll the Bones |QID|3882| |N|Kill Diemetradons. Loot them for their Bones and Scales| |O| |Z|Un'Goro Crater|
-C Shizzle's Flyer |QID|4503| |N|Kill Diemetradons. Loot them for their Bones and Scales| |O| |Z|Un'Goro Crater|
-C Expedition Salvation |QID|3881| |N|the Research Equipment boxes on the ground (38.5, 66.1)| |Z|Un'Goro Crater|
-C The Western Pylon |QID|4288| |N|the Western Crsytal Pylon (23.9, 59.2)| |Z|Un'Goro Crater|
-C Beware of Pterrordax |QID|4501| |N|Frenzied Pterrordax. Loot them for their Scales (36.8, 35.5)| |O| |Z|Un'Goro Crater|
-C Shizzle's Flyer |QID|4503| |N|Frenzied Pterrordax. Loot them for their Scales (36.8, 35.5)| |O| |Z|Un'Goro Crater|
+C Larion and Muigin |QID|4145| |OIDX|2| |N|Kill Bloodpetal Trappers| |O| |Z|Un'Goro Crater|
+C Roll the Bones |QID|3882| |OIDX|1| |N|Kill Diemetradons. Loot them for their Bones and Scales| |O| |Z|Un'Goro Crater|
+C Shizzle's Flyer |QID|4503| |OIDX|1| |N|Kill Diemetradons. Loot them for their Bones and Scales| |O| |Z|Un'Goro Crater|
+C Expedition Salvation |QID|3881| |OIDX|2| |N|the Research Equipment boxes on the ground (38.5, 66.1)| |Z|Un'Goro Crater|
+C The Western Pylon |QID|4288| |OIDX|1| |N|the Western Crsytal Pylon (23.9, 59.2)| |Z|Un'Goro Crater|
+C Beware of Pterrordax |QID|4501| |OIDX|2| |N|Frenzied Pterrordax. Loot them for their Scales (36.8, 35.5)| |O| |Z|Un'Goro Crater|
+C Shizzle's Flyer |QID|4503| |OIDX|2| |N|Frenzied Pterrordax. Loot them for their Scales (36.8, 35.5)| |O| |Z|Un'Goro Crater|
 A Finding the Source |QID|974| |N|Krakle - (30.9, 50.4)| |Z|Un'Goro Crater|
 R Take the lava path shortcut on the west side of the volcano to the top |N|(48.6, 49.8)| |O| |Z|Un'Goro Crater|
-C Volcanic Activity |QID|4502| |N|Kill Fire Elementals. Loot them for their Ash| |O| |Z|Un'Goro Crater|
-C Finding the Source |QID|974| |N|(49.6, 45.7)| |Z|Un'Goro Crater|
+C Volcanic Activity |QID|4502| |OIDX|1| |N|Kill Fire Elementals. Loot them for their Ash| |O| |Z|Un'Goro Crater|
+C Finding the Source |QID|974| |OIDX|1| |N|(49.6, 45.7)| |Z|Un'Goro Crater|
 N Their poison deals high damage, and they can cast entangling roots |O| |C|Warrior/Rogue/Shaman| |Z|Un'Goro Crater|
 N Their poison deals high damage and drains mana. They can cast entangling roots |O| |C|!Warrior/!Rogue/!Shaman| |Z|Un'Goro Crater|
-C Larion and Muigin |QID|4145| |N|Kill Bloodpetal Trappers| |O| |Z|Un'Goro Crater|
-C Roll the Bones |QID|3882| |N|Kill Diemetradons. Loot them for their Bones and Scales| |O| |Z|Un'Goro Crater|
-C Shizzle's Flyer |QID|4503| |N|Kill Diemetradons. Loot them for their Bones and Scales| |O| |Z|Un'Goro Crater|
-C Beware of Pterrordax |QID|4501| |N|Kill Frenzied Pterrordax. Loot them for their Scales| |O| |Z|Un'Goro Crater|
-C Shizzle's Flyer |QID|4503| |N|Kill Frenzied Pterrordax. Loot them for their Scales| |O| |Z|Un'Goro Crater|
+C Larion and Muigin |QID|4145| |OIDX|2| |N|Kill Bloodpetal Trappers| |O| |Z|Un'Goro Crater|
+C Roll the Bones |QID|3882| |OIDX|1| |N|Kill Diemetradons. Loot them for their Bones and Scales| |O| |Z|Un'Goro Crater|
+C Shizzle's Flyer |QID|4503| |OIDX|1| |N|Kill Diemetradons. Loot them for their Bones and Scales| |O| |Z|Un'Goro Crater|
+C Beware of Pterrordax |QID|4501| |OIDX|2| |N|Kill Frenzied Pterrordax. Loot them for their Scales| |O| |Z|Un'Goro Crater|
+C Shizzle's Flyer |QID|4503| |OIDX|2| |N|Kill Frenzied Pterrordax. Loot them for their Scales| |O| |Z|Un'Goro Crater|
 T Finding the Source |QID|974| |N|Krakle - (30.9, 50.4)| |Z|Un'Goro Crater|
 A The New Springs |QID|980| |N|Krakle - (30.9, 50.4)| |Z|Un'Goro Crater|
 N Be careful of Elder Diemetradons' Pummel ability, which interrupts spells |O| |C|Warlock/Priest/Mage/Shaman/Druid| |Z|Un'Goro Crater|
-C Roll the Bones |QID|3882| |N|Kill Diemetradons. Loot them for their Bones and Scales| |O| |Z|Un'Goro Crater|
-C Shizzle's Flyer |QID|4503| |N|Kill Diemetradons. Loot them for their Bones and Scales| |O| |Z|Un'Goro Crater|
-C Beware of Pterrordax |QID|4501| |N|Kill Frenzied Pterrordax. Loot them for their Scales| |O| |Z|Un'Goro Crater|
-C Shizzle's Flyer |QID|4503| |N|Kill Frenzied Pterrordax. Loot them for their Scales| |O| |Z|Un'Goro Crater|
+C Roll the Bones |QID|3882| |OIDX|1| |N|Kill Diemetradons. Loot them for their Bones and Scales| |O| |Z|Un'Goro Crater|
+C Shizzle's Flyer |QID|4503| |OIDX|1| |N|Kill Diemetradons. Loot them for their Bones and Scales| |O| |Z|Un'Goro Crater|
+C Beware of Pterrordax |QID|4501| |OIDX|2| |N|Kill Frenzied Pterrordax. Loot them for their Scales| |O| |Z|Un'Goro Crater|
+C Shizzle's Flyer |QID|4503| |OIDX|2| |N|Kill Frenzied Pterrordax. Loot them for their Scales| |O| |Z|Un'Goro Crater|
 N Their poison deals high damage, and they can cast entangling roots |N|(29.4, 43.1)| |C|Warrior/Rogue/Shaman| |Z|Un'Goro Crater|
 N Their poison deals high damage and drains mana. They can cast entangling roots |N|(29.4, 43.1)| |C|!Warrior/!Rogue/!Shaman| |Z|Un'Goro Crater|
-C Larion and Muigin |QID|4145| |N|Bloodpetal Trappers (29.4, 43.1)| |Z|Un'Goro Crater|
-C Beware of Pterrordax |QID|4501| |N|Frenzied Pterrordax. Loot them for their Scales (30.8, 59.6)| |Z|Un'Goro Crater|
-C Shizzle's Flyer |QID|4503| |N|Frenzied Pterrordax. Loot them for their Scales (30.8, 59.6)| |Z|Un'Goro Crater|
-C Roll the Bones |QID|3882| |N|Diemetradons. Loot them for their Bones and Scales (30.8, 59.6)| |Z|Un'Goro Crater|
-C Shizzle's Flyer |QID|4503| |N|Diemetradons. Loot them for their Bones and Scales (30.8, 59.6)| |Z|Un'Goro Crater|
-C Volcanic Activity |QID|4502| |N|Fire Elementals. Loot them for their Ash (47.8, 50.9)| |Z|Un'Goro Crater|
+C Larion and Muigin |QID|4145| |OIDX|2| |N|Bloodpetal Trappers (29.4, 43.1)| |Z|Un'Goro Crater|
+C Beware of Pterrordax |QID|4501| |OIDX|2| |N|Frenzied Pterrordax. Loot them for their Scales (30.8, 59.6)| |Z|Un'Goro Crater|
+C Shizzle's Flyer |QID|4503| |OIDX|2| |N|Frenzied Pterrordax. Loot them for their Scales (30.8, 59.6)| |Z|Un'Goro Crater|
+C Roll the Bones |QID|3882| |OIDX|1| |N|Diemetradons. Loot them for their Bones and Scales (30.8, 59.6)| |Z|Un'Goro Crater|
+C Shizzle's Flyer |QID|4503| |OIDX|1| |N|Diemetradons. Loot them for their Bones and Scales (30.8, 59.6)| |Z|Un'Goro Crater|
+C Volcanic Activity |QID|4502| |OIDX|1| |N|Fire Elementals. Loot them for their Ash (47.8, 50.9)| |Z|Un'Goro Crater|
 R Enter the cave on the east side of the volcano |N|(52.4, 51.0)| |O| |Z|Un'Goro Crater|
 T Lost! |QID|4492| |N|Ringo - (51.9, 49.9)| |Z|Un'Goro Crater|
 A A Little Help From My Friends |QID|4491| |N|Ringo - (51.9, 49.9)| |Z|Un'Goro Crater|
-C A Little Help From My Friends |QID|4491| |N|Be careful not to ride away too fast from Ringo (43.6, 8.5)| |Z|Un'Goro Crater|
+C A Little Help From My Friends |QID|4491| |OIDX|1| |N|Be careful not to ride away too fast from Ringo (43.6, 8.5)| |Z|Un'Goro Crater|
 T Beware of Pterrordax |QID|4501| |N|Spraggle - (43.6, 8.5)| |Z|Un'Goro Crater|
 T Alien Ecology |QID|3883| |N|Hol'anyee and Williden - (43.9, 7.2)| |Z|Un'Goro Crater|
 T Expedition Salvation |QID|3881| |N|Hol'anyee and Williden - (43.9, 7.2)| |Z|Un'Goro Crater|
@@ -114,14 +114,14 @@ T Shizzle's Flyer |QID|4503| |N|Shizzle - (44.2, 11.6)| |Z|Un'Goro Crater|
 T Larion and Muigin |QID|4145| |N|Larion - (45.5, 8.7)| |Z|Un'Goro Crater|
 A Marvon's Workshop |QID|4147| |N|Larion - (45.5, 8.7)| |Z|Un'Goro Crater|
 A Chasing A-Me 01 |QID|4243| |N|Karna - (46.4, 13.4)| |Z|Un'Goro Crater|
-C The Northern Pylon |QID|4285| |N|the Northern Crystal Pylon (56.5, 12.4)| |Z|Un'Goro Crater|
+C The Northern Pylon |QID|4285| |OIDX|1| |N|the Northern Crystal Pylon (56.5, 12.4)| |Z|Un'Goro Crater|
 T Chasing A-Me 01 |QID|4243| |N|Hug the right wall as you enter the cave, then A-Me 01 - (67.7, 16.8)| |Z|Un'Goro Crater|
-C The Mighty U'cha |QID|4301| |N|U'cha in the back of the cave. Loot him for his Pelt (68.0, 13.2)| |Z|Un'Goro Crater|
+C The Mighty U'cha |QID|4301| |OIDX|1| |N|U'cha in the back of the cave. Loot him for his Pelt (68.0, 13.2)| |Z|Un'Goro Crater|
 T Chasing A-Me 01 |QID|4243| |N|A-Me - (67.7, 16.8)| |Z|Un'Goro Crater|
 A Chasing A-Me 01 |QID|4244| |N|A-Me - (67.7, 16.8)| |Z|Un'Goro Crater|
 T Chasing A-Me 01 |QID|4244| |N|A-Me - (67.7, 16.8)| |Z|Un'Goro Crater|
 A Chasing A-Me 01 |QID|4245| |N|A-Me - (67.7, 16.8)| |Z|Un'Goro Crater|
-C Chasing A-Me 01 |QID|4245| |N|Escort A-Me 01 back to the outside of Marshal's Refuge (46.4, 13.4)| |Z|Un'Goro Crater|
+C Chasing A-Me 01 |QID|4245| |OIDX|1| |N|Escort A-Me 01 back to the outside of Marshal's Refuge (46.4, 13.4)| |Z|Un'Goro Crater|
 T Chasing A-Me 01 |QID|4245| |N|Karna - (46.4, 13.4)| |Z|Un'Goro Crater|
 T The Northern Pylon |QID|4285| |N|J.D. Collie inside the cave - (41.9, 2.6)| |Z|Un'Goro Crater|
 A Making Sense of It |QID|4321| |N|J.D. Collie inside the cave - (41.9, 2.6)| |Z|Un'Goro Crater|
@@ -131,7 +131,7 @@ A Toxic Test |QID|9051| |N|Torwa - (71.6, 76.0) (ST Dungeon Quest)| |C|Druid| |D
 N Do not engage a |cRXPTyrant Devilsaur; their fear ability is deadly |N|(ST Dungeon Quest)| |C|Druid| |D|ST| |Z|Un'Goro Crater|
 N Spam Hibernate on the Devilsaur, and nothing else. If it breaks, spam it again. |N|(ST Dungeon Quest)| |C|Druid| |D|ST| |Z|Un'Goro Crater|
 N Devilsaur have 170% movement speed; they cannot be outrun |N|(ST Dungeon Quest)| |C|Druid| |D|ST| |Z|Un'Goro Crater|
-C Toxic Test |QID|9051| |N|Track a Devilsaur or Ironhide Devilsaur (ST Dungeon Quest)| |C|Druid| |D|ST| |Z|Un'Goro Crater|
+C Toxic Test |QID|9051| |OIDX|1| |N|Track a Devilsaur or Ironhide Devilsaur (ST Dungeon Quest)| |C|Druid| |D|ST| |Z|Un'Goro Crater|
 T Toxic Test |QID|9051| |N|Torwa - (71.6, 76.0) (ST Dungeon Quest)| |C|Druid| |D|ST| |Z|Un'Goro Crater|
 A A Better Ingredient |QID|9053| |N|Torwa - (71.6, 76.0) (ST Dungeon Quest)| |C|Druid| |D|ST| |Z|Un'Goro Crater|
 C Collect Un'Goro Soil from mobs or Un'Goro Dirt Piles |L|11018 25| |N|Collect Un'Goro Soil from mobs or Un'Goro Dirt Piles - (57.9, 44.8)| |Z|Un'Goro Crater|
@@ -150,14 +150,14 @@ C the Evoroot inside the Ruins |QID|3909| |L|11242 1| |N|the Evoroot inside the 
 N Blizzard has adjusted the quest [The Videre Elixir] so it will no longer kill you on Official Hardcore Servers |N|(45.1, 25.6)| |Z|Feralas|
 A The Videre Elixir |QID|4041| |N|Gregan Brewspewer - (45.1, 25.6)| |Z|Feralas|
 T The Videre Elixir |QID|4041| |N|Gregan Brewspewer - (45.1, 25.6)| |Z|Feralas|
-C The Videre Elixir |QID|3909| |N|Gregan Brewspewer (45.1, 25.6)| |Z|Feralas|
+C The Videre Elixir |QID|3909| |OIDX|1| |N|Gregan Brewspewer (45.1, 25.6)| |Z|Feralas|
 N You may safely complete this quest as part of the quest chain for [The Videre Elixir] |N|(45.1, 25.6)| |Z|Feralas|
 A The Videre Elixir |QID|4041| |N|Gregan Brewspewer - (45.1, 25.6)| |Z|Feralas|
 T The Videre Elixir |QID|4041| |N|Gregan Brewspewer - (45.1, 25.6)| |Z|Feralas|
-C The Videre Elixir |QID|3909| |N|Gregan Brewspewer (45.1, 25.6)| |Z|Feralas|
+C The Videre Elixir |QID|3909| |OIDX|1| |N|Gregan Brewspewer (45.1, 25.6)| |Z|Feralas|
 A The Videre Elixir |QID|4041| |N|Gregan Brewspewer - (45.1, 25.6)| |Z|Feralas|
 T The Videre Elixir |QID|4041| |N|Gregan Brewspewer - (45.1, 25.6)| |Z|Feralas|
-C The Videre Elixir |QID|3909| |N|Gregan Brewspewer (45.1, 25.6)| |Z|Feralas|
+C The Videre Elixir |QID|3909| |OIDX|1| |N|Gregan Brewspewer (45.1, 25.6)| |Z|Feralas|
 F Fly to Thunder Bluff |N|Omusa - (44.5, 59.1)| |C|!Mage| |Z|The Barrens|
 t Train your class spells |N|Thurston - (25.2, 20.9)| |C|Mage| |Z|Thunder Bluff|
 N He patrols the terraces, so you may have to look around for him |N|(41.5, 57.9)| |O| |Z|Thunder Bluff|

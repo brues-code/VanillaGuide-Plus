@@ -48,7 +48,7 @@ F Fly to The Hinterlands |N|Thorgrum - (33.9, 51.0)| |Z|Loch Modan|
 F Fly to The Hinterlands |N|Gryth Thurden - (55.5, 47.8)| |Z|Ironforge|
 T The Altar of Zul |QID|2989| |N|Gryphon Master Talonaxe - (9.8, 44.5)| |Z|The Hinterlands|
 T Skulk Rock Clean-up |QID|2877| |N|Fraggar Thundermantle - (14.8, 44.6)| |Z|The Hinterlands|
-C Sprinkle's Secret Ingredient |QID|2641| |N|the Violet Tragan underwater (40.6, 59.6)| |Z|The Hinterlands|
+C Sprinkle's Secret Ingredient |QID|2641| |OIDX|1| |N|the Violet Tragan underwater (40.6, 59.6)| |Z|The Hinterlands|
 F Fly to Western Plaguelands |N|Guthrum Thunderfist - (11.1, 46.2)| |O| |Z|The Hinterlands|
 T A Call to Arms: The Plaguelands! |QID|5066| |N|Commander Ashlam Valorfist - (42.7, 84.0)| |O| |Z|Western Plaguelands|
 A Clear the Way |QID|5092| |N|Commander Ashlam Valorfist - (42.7, 84.0)| |O| |Z|Western Plaguelands|
@@ -60,8 +60,8 @@ T Chillwind Point |QID|8415| |N|Commander Ashlam Valorfist - (42.7, 84.0)| |C|Pa
 A Dispelling Evil |QID|8414| |N|Commander Ashlam Valorfist - (42.7, 84.0)| |C|Paladin| |Z|Western Plaguelands|
 A Argent Dawn Commission |QID|5401| |N|Argent Officer Pureheart - (43.0, 83.5)| |Z|Western Plaguelands|
 T Argent Dawn Commission |QID|5401| |N|Argent Officer Pureheart - (43.0, 83.5)| |Z|Western Plaguelands|
-C Dispelling Evil |QID|8414| |N|Kill any of the Scourge. Loot them for their Minion's Scourgestones| |O| |C|Paladin| |Z|Western Plaguelands|
-C Clear the Way |QID|5092| |N|Skeletal Flayers and Slavering Ghouls (50.0, 76.9)| |Z|Western Plaguelands|
+C Dispelling Evil |QID|8414| |OIDX|1| |N|Kill any of the Scourge. Loot them for their Minion's Scourgestones| |O| |C|Paladin| |Z|Western Plaguelands|
+C Clear the Way |QID|5092| |OIDX|1| |N|Skeletal Flayers and Slavering Ghouls (50.0, 76.9)| |Z|Western Plaguelands|
 T Dispelling Evil |QID|8414| |N|High Priest Thel'danis - (52.0, 82.8)| |O| |C|Paladin| |Z|Western Plaguelands|
 A Inert Scourgestones |QID|8416| |N|High Priest Thel'danis - (52.0, 82.8)| |O| |C|Paladin| |Z|Western Plaguelands|
 T Clear the Way |QID|5092| |N|Commander Ashlam Valorfist - (42.7, 84.0)| |Z|Western Plaguelands|
@@ -71,7 +71,7 @@ A Forging the Mightstone |QID|8418| |N|Commander Ashlam Valorfist - (42.7, 84.0)
 T The Scourge Cauldrons |QID|5215| |N|High Priestess MacDonnell - (43.0, 84.5)| |Z|Western Plaguelands|
 A Target: Felstone Field |QID|5216| |N|High Priestess MacDonnell - (43.0, 84.5)| |Z|Western Plaguelands|
 N Cauldron Lord Bilemaw may spawn as you approach the Cauldron |N|(37.0, 57.1)| |Z|Western Plaguelands|
-C Target: Felstone Field |QID|5216| |N|Cauldron Lord Bilemaw. Loot him for the Felstone Field Cauldron Key (37.0, 57.1)| |Z|Western Plaguelands|
+C Target: Felstone Field |QID|5216| |OIDX|1| |N|Cauldron Lord Bilemaw. Loot him for the Felstone Field Cauldron Key (37.0, 57.1)| |Z|Western Plaguelands|
 T Target: Felstone Field |QID|5216| |N|on the Scourge Cauldron - (37.2, 56.9)| |Z|Western Plaguelands|
 A Return to Chillwind Camp |QID|5217| |N|on the Scourge Cauldron - (37.2, 56.9)| |Z|Western Plaguelands|
 R Go inside the house |N|(38.0, 54.6)| |O| |Z|Western Plaguelands|
@@ -84,7 +84,7 @@ N Avoid aggroing the Scarlets outside the barn. If you do, run away |N|(38.7, 55
 T Better Late Than Never |QID|5021| |N|Janice's Parcel on the ground - (38.7, 55.2)| |Z|Western Plaguelands|
 A Better Late Than Never |QID|5022| |N|Janice's Parcel on the ground - (38.7, 55.2)| |Z|Western Plaguelands|
 N If you are not yet close, do one more Cauldron quest to get you where you need to be |C|Hunter| |Z|Western Plaguelands|
-C Dispelling Evil |QID|8414| |N|any of the Scourge. Loot them for their Minion's Scourgestones (37.2, 56.9)| |C|Paladin| |Z|Western Plaguelands|
+C Dispelling Evil |QID|8414| |OIDX|1| |N|any of the Scourge. Loot them for their Minion's Scourgestones (37.2, 56.9)| |C|Paladin| |Z|Western Plaguelands|
 T Return to Chillwind Camp |QID|5217| |N|High Priestess MacDonnell - (43.0, 84.5)| |Z|Western Plaguelands|
 T Dispelling Evil |QID|8414| |N|High Priest Thel'danis - (52.0, 82.8)| |C|Paladin| |Z|Western Plaguelands|
 A Inert Scourgestones |QID|8416| |N|High Priest Thel'danis - (52.0, 82.8)| |C|Paladin| |Z|Western Plaguelands|

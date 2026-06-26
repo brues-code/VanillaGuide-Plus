@@ -14,7 +14,7 @@ A Report Back to Fizzlebub |QID|1122| |N|Kravel - (77.8, 77.3)| |Z|Thousand Need
 A Thistleshrub Valley |QID|3362| |N|Tran'rek - (51.6, 26.8)| |Z|Tanaris|
 T Safety First |QID|1188| |N|Shreev - (51.0, 27.3)| |Z|Tanaris|
 A Gadgetzan Water Survey |QID|992| |N|Fizzledowser - (50.2, 27.5)| |Z|Tanaris|
-C Gadgetzan Water Survey |QID|992| |N|Be careful! Two Centipaar Tunnelers (level 48) will spawn after completion. Prepare to run away from them (39.1, 29.3)| |Z|Tanaris|
+C Gadgetzan Water Survey |QID|992| |OIDX|1| |N|Be careful! Two Centipaar Tunnelers (level 48) will spawn after completion. Prepare to run away from them (39.1, 29.3)| |Z|Tanaris|
 T Gadgetzan Water Survey |QID|992| |N|Fizzledowser - (50.2, 27.5)| |Z|Tanaris|
 A Noxious Lair Investigation |QID|82| |N|Fizzledowser - (50.2, 27.5)| |Z|Tanaris|
 A WANTED: Andre Firebeard |QID|2875| |N|the Wanted Poster by the giant cage - (51.9, 27.0)| |Z|Tanaris|
@@ -37,51 +37,51 @@ A Southsea Shakedown |QID|8366| |N|Bilgewhizzle and Stoley - (67.1, 23.9)| |Z|Ta
 A Stoley's Shipment |QID|2873| |N|Bilgewhizzle and Stoley - (67.1, 23.9)| |Z|Tanaris|
 N Open the [Pirate's Footlocker] until you find the [Ship Schedule] |O| |Z|Tanaris|
 N Don't start the quest for the [Ship Schedule] yet. This has a low drop chance, skip it if needed |O| |Z|Tanaris|
-C Southsea Shakedown |QID|8366| |N|Kill Southsea Pirates, Southsea Freebooters, Southsea Dock Workers and Southsea Swashbucklers. Loot them for their Pirate Hats and [Pirate's Footlocker]| |O| |Z|Tanaris|
-C Pirate Hats Ahoy! |QID|8365| |N|Kill Southsea Pirates, Southsea Freebooters, Southsea Dock Workers and Southsea Swashbucklers. Loot them for their Pirate Hats and [Pirate's Footlocker]| |O| |Z|Tanaris|
+C Southsea Shakedown |QID|8366| |OIDX|1| |N|Kill Southsea Pirates, Southsea Freebooters, Southsea Dock Workers and Southsea Swashbucklers. Loot them for their Pirate Hats and [Pirate's Footlocker]| |O| |Z|Tanaris|
+C Pirate Hats Ahoy! |QID|8365| |OIDX|1| |N|Kill Southsea Pirates, Southsea Freebooters, Southsea Dock Workers and Southsea Swashbucklers. Loot them for their Pirate Hats and [Pirate's Footlocker]| |O| |Z|Tanaris|
 C Southsea Pirates, Southsea Freebooters, Southsea Dock Workers and Southsea Swashbucklers. Loot them for their Pirate Hats and [Pirate's Footlocker] |QID|2876| |L|9250 1| |N|Kill Southsea Pirates, Southsea Freebooters, Southsea Dock Workers and Southsea Swashbucklers. Loot them for their Pirate Hats and [Pirate's Footlocker]| |O| |Z|Tanaris|
-C Stoley's Shipment |QID|2873| |N|Loot the Stolen Cargo for Stoley's Shipment on the second floor of the western house| |O| |Z|Tanaris|
+C Stoley's Shipment |QID|2873| |OIDX|1| |N|Loot the Stolen Cargo for Stoley's Shipment on the second floor of the western house| |O| |Z|Tanaris|
 N He pulls with nearby mobs. Split-pull him if you can |N|(73.4, 47.1)| |C|Mage/Warlock| |Z|Tanaris|
-C WANTED: Andre Firebeard |QID|2875| |N|Andre Firebeard. Loot him for his Head (73.4, 47.1)| |Z|Tanaris|
-C Stoley's Shipment |QID|2873| |N|the Stolen Cargo for Stoley's Shipment on the second floor of the western house (72.2, 46.8)| |Z|Tanaris|
+C WANTED: Andre Firebeard |QID|2875| |OIDX|1| |N|Andre Firebeard. Loot him for his Head (73.4, 47.1)| |Z|Tanaris|
+C Stoley's Shipment |QID|2873| |OIDX|1| |N|the Stolen Cargo for Stoley's Shipment on the second floor of the western house (72.2, 46.8)| |Z|Tanaris|
 N Open the [Pirate's Footlocker] until you find the [Ship Schedule] |N|(71.1, 42.9)| |Z|Tanaris|
 N Don't start the quest for the [Ship Schedule] yet. This has a low drop chance, skip it if needed |N|(71.1, 42.9)| |Z|Tanaris|
-C Southsea Shakedown |QID|8366| |N|Kill Southsea Pirates, Southsea Freebooters, Southsea Dock Workers and Southsea Swashbucklers. Loot them for their Pirate Hats and [Pirate's Footlocker] (71.1, 42.9)| |Z|Tanaris|
-C Pirate Hats Ahoy! |QID|8365| |N|Kill Southsea Pirates, Southsea Freebooters, Southsea Dock Workers and Southsea Swashbucklers. Loot them for their Pirate Hats and [Pirate's Footlocker] (75.2, 45.8)| |Z|Tanaris|
+C Southsea Shakedown |QID|8366| |OIDX|1| |N|Kill Southsea Pirates, Southsea Freebooters, Southsea Dock Workers and Southsea Swashbucklers. Loot them for their Pirate Hats and [Pirate's Footlocker] (71.1, 42.9)| |Z|Tanaris|
+C Pirate Hats Ahoy! |QID|8365| |OIDX|1| |N|Kill Southsea Pirates, Southsea Freebooters, Southsea Dock Workers and Southsea Swashbucklers. Loot them for their Pirate Hats and [Pirate's Footlocker] (75.2, 45.8)| |Z|Tanaris|
 C Southsea Pirates, Southsea Freebooters, Southsea Dock Workers and Southsea Swashbucklers. Loot them for their Pirate Hats and [Pirate's Footlocker] |QID|2876| |L|9250 1| |N|Kill Southsea Pirates, Southsea Freebooters, Southsea Dock Workers and Southsea Swashbucklers. Loot them for their Pirate Hats and [Pirate's Footlocker] (72.2, 46.8)| |Z|Tanaris|
 R Southsea Pirates |N|(72.2, 44.4)| |Z|Tanaris|
 T The Sunken Temple |QID|3380| |N|Marvon - (52.7, 45.9)| |O| |Z|Tanaris|
 A Gahz'ridian |QID|3161| |N|Marvon - (52.7, 45.9)| |Z|Tanaris|
 N Be careful of Centipaar Swarmers. They can spawn many minions and social aggro from great distances |N|(30.8, 46.1)| |Z|Tanaris|
 N All Centipaar cast [Thrash] (Charges 2 extra attacks every 10 seconds) |N|(30.8, 46.1)| |Z|Tanaris|
-C Noxious Lair Investigation |QID|82| |N|Centipaar Silithids. Loot them for their Insect Parts (30.8, 46.1)| |Z|Tanaris|
+C Noxious Lair Investigation |QID|82| |OIDX|1| |N|Centipaar Silithids. Loot them for their Insect Parts (30.8, 46.1)| |Z|Tanaris|
 N Avoid Dunemaul Warlocks, as they have Curse of Thorns |O| |C|Rogue/Warrior/Shaman/Paladin/Hunter| |Z|Tanaris|
-C The Dunemaul Compound |QID|5863| |N|Kill Dunemaul Brutes and Dunemaul Enforcers| |O| |Z|Tanaris|
+C The Dunemaul Compound |QID|5863| |OIDX|1| |N|Kill Dunemaul Brutes and Dunemaul Enforcers| |O| |Z|Tanaris|
 N Be careful of his heavy damage output and Mortal Strike |N|(41.5, 57.8)| |Z|Tanaris|
-C The Dunemaul Compound |QID|5863| |N|Gor'marok in the cave (41.5, 57.8)| |Z|Tanaris|
+C The Dunemaul Compound |QID|5863| |OIDX|3| |N|Gor'marok in the cave (41.5, 57.8)| |Z|Tanaris|
 N Gahz'ridian will appear on your minimap. Many can be found in and around the Eastmoon and Southmoon ruins |O| |Z|Tanaris|
-C Gahz'ridian |QID|3161| |N|Loot the Piles of Sand for Gahz'ridian Ornaments| |O| |Z|Tanaris|
+C Gahz'ridian |QID|3161| |OIDX|1| |N|Loot the Piles of Sand for Gahz'ridian Ornaments| |O| |Z|Tanaris|
 N Avoid Dunemaul Warlocks, as they have Curse of Thorns |N|(39.9, 73.2)| |C|Rogue/Warrior/Shaman/Paladin/Hunter| |Z|Tanaris|
-C The Dunemaul Compound |QID|5863| |N|Dunemaul Brutes and Dunemaul Enforcers (39.9, 73.2)| |Z|Tanaris|
+C The Dunemaul Compound |QID|5863| |OIDX|1| |N|Dunemaul Brutes and Dunemaul Enforcers (39.9, 73.2)| |Z|Tanaris|
 N Be careful! There are elite Dune Giants in the area. Follow the waypoint arrow to avoid agro |N|(37.6, 81.4) (ULDA Dungeon Quest)| |D|ULDA| |Z|Tanaris|
 T Seeing What Happens |QID|2966| |N|the Uldum Pedestal - (37.6, 81.4) (ULDA Dungeon Quest)| |D|ULDA| |Z|Tanaris|
 A The Stone Watcher |QID|2954| |N|the Uldum Pedestal - (37.6, 81.4) (ULDA Dungeon Quest)| |D|ULDA| |Z|Tanaris|
-C The Stone Watcher |QID|2954| |N|the Stone Watcher of Norgannon (37.6, 81.4) (ULDA Dungeon Quest)| |D|ULDA| |Z|Tanaris|
+C The Stone Watcher |QID|2954| |OIDX|1| |N|the Stone Watcher of Norgannon (37.6, 81.4) (ULDA Dungeon Quest)| |D|ULDA| |Z|Tanaris|
 T The Stone Watcher |QID|2954| |N|the Uldum Pedestal - (37.6, 81.4) (ULDA Dungeon Quest)| |D|ULDA| |Z|Tanaris|
 A Return to Thunder Bluff |QID|2967| |N|the Uldum Pedestal - (37.6, 81.4) (ULDA Dungeon Quest)| |D|ULDA| |Z|Tanaris|
 N This has a low drop rate and its spawn is shared with other mob types, so kill everything to make them spawn faster |O| |Z|Tanaris|
-C The Thirsty Goblin |QID|2605| |N|Kill Thistleshrub Dew Collectors. Loot them for a Laden Dew Gland| |O| |Z|Tanaris|
-C Thistleshrub Valley |QID|3362| |N|Gnarled Thistleshrubs and Thistleshrub Rootshaper (30.6, 63.8)| |Z|Tanaris|
+C The Thirsty Goblin |QID|2605| |OIDX|1| |N|Kill Thistleshrub Dew Collectors. Loot them for a Laden Dew Gland| |O| |Z|Tanaris|
+C Thistleshrub Valley |QID|3362| |OIDX|1| |N|Gnarled Thistleshrubs and Thistleshrub Rootshaper (30.6, 63.8)| |Z|Tanaris|
 N This has a low drop rate and its spawn is shared with other mob types, so kill everything to make them spawn faster |N|(30.6, 63.8)| |Z|Tanaris|
-C The Thirsty Goblin |QID|2605| |N|Thistleshrub Dew Collectors. Loot them for a Laden Dew Gland (30.6, 63.8)| |Z|Tanaris|
+C The Thirsty Goblin |QID|2605| |OIDX|1| |N|Thistleshrub Dew Collectors. Loot them for a Laden Dew Gland (30.6, 63.8)| |Z|Tanaris|
 N You will fail the quest if you get too far away from him |O| |Z|Tanaris|
 N This quest has a 30 minute timer! |O| |Z|Tanaris|
-C Guide Tooga toward Steamwheedle Port |QID|1560| |N|Guide Tooga toward Steamwheedle Port| |O| |Z|Tanaris|
+C Guide Tooga toward Steamwheedle Port |QID|1560| |OIDX|1| |N|Guide Tooga toward Steamwheedle Port| |O| |Z|Tanaris|
 N Gahz'ridian will appear on your minimap. Many can be found in and around the Eastmoon and Southmoon ruins |N|(39.9, 73.2)| |Z|Tanaris|
-C Gahz'ridian |QID|3161| |N|Loot the Piles of Sand for Gahz'ridian Ornaments (39.9, 73.2)| |Z|Tanaris|
+C Gahz'ridian |QID|3161| |OIDX|1| |N|Loot the Piles of Sand for Gahz'ridian Ornaments (39.9, 73.2)| |Z|Tanaris|
 N You will fail the quest if you get too far away from him |N|(66.6, 25.6)| |Z|Tanaris|
 N This quest has a 30 minute timer! |N|(66.6, 25.6)| |Z|Tanaris|
-C Guide Tooga toward Steamwheedle Port |QID|1560| |N|Guide Tooga toward Steamwheedle Port - (66.6, 25.6)| |Z|Tanaris|
+C Guide Tooga toward Steamwheedle Port |QID|1560| |OIDX|1| |N|Guide Tooga toward Steamwheedle Port - (66.6, 25.6)| |Z|Tanaris|
 T Tooga's Quest |QID|1560| |N|Torta - (66.6, 25.6)| |Z|Tanaris|
 N You may need to accept this after turning in to Security Chief Bilgewhizzle and Stoley |Z|Tanaris|
 A Ship Schedules |QID|2876| |N|Use the [Ship Schedule] to start the quest| |Z|Tanaris|
@@ -110,13 +110,13 @@ T Thistleshrub Valley |QID|3362| |N|Tran'rek - (51.5, 26.8)| |Z|Tanaris|
 T The Dunemaul Compound |QID|5863| |N|Andi - (52.8, 27.4)| |Z|Tanaris|
 T Gahz'ridian |QID|3161| |N|Marvon - (52.7, 45.9)| |Z|Tanaris|
 N Be extremely cautious of Hazzali Swarmers as they can rapidly summon adds which deal high damage. They can also social aggro other mobs from extreme distances |N|(56.0, 71.2)| |Z|Tanaris|
-C The Scrimshank Redemption |QID|10| |N|Enter the silithid hive, then click the Scrimshank's Surveying Gear console and loot Scrimshank's Surveying Gear (56.0, 71.2)| |Z|Tanaris|
+C The Scrimshank Redemption |QID|10| |OIDX|1| |N|Enter the silithid hive, then click the Scrimshank's Surveying Gear console and loot Scrimshank's Surveying Gear (56.0, 71.2)| |Z|Tanaris|
 T Find OOX-17/TN! |QID|351| |N|Homing Robot OOX-17/TN - (60.2, 64.7)| |O| |Z|Tanaris|
 N This quest can be difficult. Eat/drink to full and apply any self-buffs (scrolls, food, elixirs, etc.) |N|(60.2, 64.7)| |O| |Z|Tanaris|
 A Rescue OOX-17/TN! |QID|648| |N|Homing Robot OOX-17/TN again to start the escort quest - (60.2, 64.7)| |O| |Z|Tanaris|
 N A pack of 3 level 46-47 Scorpions will spawn at the next mountain chain |N|(67.1, 23.2)| |O| |Z|Tanaris|
 N A pack of 3 level 43-45 Wastewander mobs will spawn around Waterspring Field. Focus the Scofflaw. It EXECUTES when you're below 20% health |N|(67.1, 23.2)| |O| |Z|Tanaris|
-C Rescue OOX-17/TN! |QID|648| |N|Escort Homing Robot OOX-17/TN to Steamwheedle Port (67.1, 23.2)| |O| |Z|Tanaris|
+C Rescue OOX-17/TN! |QID|648| |OIDX|1| |N|Escort Homing Robot OOX-17/TN to Steamwheedle Port (67.1, 23.2)| |O| |Z|Tanaris|
 B Sell your junk, then restock on food and water if necessary |N|Dirge - (52.6, 28.1)| |C|!Rogue/!Warrior| |Z|Tanaris|
 B Sell your junk, then restock on food if necessary |N|Dirge - (52.6, 28.1)| |C|Rogue/Warrior| |Z|Tanaris|
 T The Scrimshank Redemption |QID|10| |N|Fizzledowser - (50.2, 27.5)| |Z|Tanaris|
@@ -129,23 +129,23 @@ A Troll Temper |QID|3042| |N|Trenton Lighthammer - (51.4, 28.8) (ZF Dungeon Ques
 A Divino-matic Rod |QID|2768| |N|Chief Engineer Bilgewhizzle - (52.5, 28.5) (ZF Dungeon Quest)| |D|ZF| |Z|Tanaris|
 A Scarab Shells |QID|2865| |N|Tran'rek - (51.6, 26.8) (ZF Dungeon Quest)| |D|ZF| |Z|Tanaris|
 A Gahz'rilla |QID|2770| |N|Have somebody in your group share the following quest if somebody has the Mallet of Zul'Farrak (ZF Dungeon Quest)| |D|ZF| |Z|Tanaris|
-C Troll Temper |QID|3042| |N|Kill Trolls. Loot them for their Troll Temper (ZF Dungeon Quest)| |D|ZF| |Z|Tanaris|
-C Scarab Shells |QID|2865| |N|Kill Scarabs. Loot them for their Uncracked Scarab Shell (ZF Dungeon Quest)| |D|ZF| |Z|Tanaris|
-C The Prophecy of Mosh'aru |QID|3527| |N|Kill Theka the Martyr. Loot him for the First Mosh'aru Tablet (ZF Dungeon Quest)| |D|ZF| |Z|Tanaris|
-C Scarab Shells |QID|2865| |N|Kill Scarabs. Loot them for their Uncracked Scarab Shell (ZF Dungeon Quest)| |D|ZF| |Z|Tanaris|
+C Troll Temper |QID|3042| |OIDX|1| |N|Kill Trolls. Loot them for their Troll Temper (ZF Dungeon Quest)| |D|ZF| |Z|Tanaris|
+C Scarab Shells |QID|2865| |OIDX|1| |N|Kill Scarabs. Loot them for their Uncracked Scarab Shell (ZF Dungeon Quest)| |D|ZF| |Z|Tanaris|
+C The Prophecy of Mosh'aru |QID|3527| |OIDX|1| |N|Kill Theka the Martyr. Loot him for the First Mosh'aru Tablet (ZF Dungeon Quest)| |D|ZF| |Z|Tanaris|
+C Scarab Shells |QID|2865| |OIDX|1| |N|Kill Scarabs. Loot them for their Uncracked Scarab Shell (ZF Dungeon Quest)| |D|ZF| |Z|Tanaris|
 N Use the Executioner's Key on one of the Troll Cages to free Sergeant Bly and his band |N|(ZF Dungeon Quest)| |D|ZF| |Z|Tanaris|
 C Ascend the Pyramid |L|8444 1| |N|Anyone in the party may loot the Key (ZF Dungeon Quest)| |D|ZF| |Z|Tanaris|
 N Kill Nekrum Gutchewer. Eat and drink then Sergeant Bly to fight him |N|(ZF Dungeon Quest)| |D|ZF| |Z|Tanaris|
 N Kill Sergeant Bly. Loot him for the Divino-matic Rod |N|(ZF Dungeon Quest)| |D|ZF| |Z|Tanaris|
-C Divino-matic Rod |QID|2768| |N|Defend Sergeant Bly and his band, then move down with them after a short period of time (ZF Dungeon Quest)| |D|ZF| |Z|Tanaris|
-C Tiara of the Deep |QID|2846| |N|Kill Hydromancer Velratha. Loot her for the Tiara of the Deep and the Second Mosh'aru Tablet (ZF Dungeon Quest)| |D|ZF| |Z|Tanaris|
-C The Prophecy of Mosh'aru |QID|3527| |N|Kill Hydromancer Velratha. Loot her for the Tiara of the Deep and the Second Mosh'aru Tablet (ZF Dungeon Quest)| |D|ZF| |Z|Tanaris|
-C Tiara of the Deep |QID|2846| |N|Kill Hydromancer Velratha. Loot her for the Tiara of the Deep (ZF Dungeon Quest)| |D|ZF| |Z|Tanaris|
-C The Prophecy of Mosh'aru |QID|3527| |N|Kill Hydromancer Velratha. Loot her for the Second Mosh'aru Tablet (ZF Dungeon Quest)| |D|ZF| |Z|Tanaris|
+C Divino-matic Rod |QID|2768| |OIDX|1| |N|Defend Sergeant Bly and his band, then move down with them after a short period of time (ZF Dungeon Quest)| |D|ZF| |Z|Tanaris|
+C Tiara of the Deep |QID|2846| |OIDX|1| |N|Kill Hydromancer Velratha. Loot her for the Tiara of the Deep and the Second Mosh'aru Tablet (ZF Dungeon Quest)| |D|ZF| |Z|Tanaris|
+C The Prophecy of Mosh'aru |QID|3527| |OIDX|2| |N|Kill Hydromancer Velratha. Loot her for the Tiara of the Deep and the Second Mosh'aru Tablet (ZF Dungeon Quest)| |D|ZF| |Z|Tanaris|
+C Tiara of the Deep |QID|2846| |OIDX|1| |N|Kill Hydromancer Velratha. Loot her for the Tiara of the Deep (ZF Dungeon Quest)| |D|ZF| |Z|Tanaris|
+C The Prophecy of Mosh'aru |QID|3527| |OIDX|2| |N|Kill Hydromancer Velratha. Loot her for the Second Mosh'aru Tablet (ZF Dungeon Quest)| |D|ZF| |Z|Tanaris|
 N Kill Gahz'rilla. Loot him for Gahz'rilla's Electrified Scale |N|(ZF Dungeon Quest)| |D|ZF| |Z|Tanaris|
 N If no one in your party has the [Mallet of Zul'Farrak] you will not be able to summon Gahz'rilla |N|(ZF Dungeon Quest)| |D|ZF| |Z|Tanaris|
-C Gahz'rilla |QID|2770| |N|Use the [Mallet of Zul'Farrak] on the Gong of Zul'Farrak to summon Gahz'rilla (ZF Dungeon Quest)| |D|ZF| |Z|Tanaris|
-C Troll Temper |QID|3042| |N|Kill Trolls. Loot them for their Troll Temper (ZF Dungeon Quest)| |D|ZF| |Z|Tanaris|
+C Gahz'rilla |QID|2770| |OIDX|1| |N|Use the [Mallet of Zul'Farrak] on the Gong of Zul'Farrak to summon Gahz'rilla (ZF Dungeon Quest)| |D|ZF| |Z|Tanaris|
+C Troll Temper |QID|3042| |OIDX|1| |N|Kill Trolls. Loot them for their Troll Temper (ZF Dungeon Quest)| |D|ZF| |Z|Tanaris|
 T Troll Temper |QID|3042| |N|Trenton Lighthammer - (51.4, 28.8) (ZF Dungeon Quest)| |D|ZF| |Z|Tanaris|
 T Divino-matic Rod |QID|2768| |N|Chief Engineer Bilgewhizzle - (52.5, 28.5) (ZF Dungeon Quest)| |D|ZF| |Z|Tanaris|
 T Scarab Shells |QID|2865| |N|Tran'rek - (51.6, 26.8) (ZF Dungeon Quest)| |D|ZF| |Z|Tanaris|
@@ -164,14 +164,14 @@ A The Brood of Onyxia |QID|1172| |N|Draz'Zilb - (37.1, 33.0)| |Z|Dustwallow Mars
 N Be careful, as this area hyperspawns |N|(31.1, 66.1)| |Z|Dustwallow Marsh|
 T Cortello's Riddle |QID|625| |N|Enter the cave, then click the Musty Scroll on the rock - (31.1, 66.1)| |Z|Dustwallow Marsh|
 A Cortello's Riddle |QID|626| |N|Enter the cave, then click the Musty Scroll on the rock - (31.1, 66.1)| |Z|Dustwallow Marsh|
-C The Brood of Onyxia |QID|1172| |N|Eggs of Onyxia to destroy them (53.6, 72.5)| |Z|Dustwallow Marsh|
+C The Brood of Onyxia |QID|1172| |OIDX|1| |N|Eggs of Onyxia to destroy them (53.6, 72.5)| |Z|Dustwallow Marsh|
 T Tiara of the Deep |QID|2846| |N|Tabetha - (46.0, 57.1) (ZF Dungeon Quest)| |D|ZF| |Z|Dustwallow Marsh|
 T The Brood of Onyxia |QID|1172| |N|Draz'Zilb - (37.1, 33.1)| |Z|Dustwallow Marsh|
 N Accepting this quest turns Overlord Mok'Morokk hostile. He hits extremely hard and should be kited. Be prepared |N|(36.3, 31.5)| |Z|Dustwallow Marsh|
 A Challenge Overlord Mok'Morokk |QID|1173| |N|Mok'Morokk - (36.3, 31.5)| |Z|Dustwallow Marsh|
 N He hits extremely hard and should be kited |N|(36.3, 31.5)| |Z|Dustwallow Marsh|
 N He can be feared |N|(36.3, 31.5)| |C|Warlock/Priest/Warrior| |Z|Dustwallow Marsh|
-C Challenge Overlord Mok'Morokk |QID|1173| |N|Defeat Overlord Mok'Morokk by reducing his health to about 30% (36.3, 31.5)| |Z|Dustwallow Marsh|
+C Challenge Overlord Mok'Morokk |QID|1173| |OIDX|1| |N|Defeat Overlord Mok'Morokk by reducing his health to about 30% (36.3, 31.5)| |Z|Dustwallow Marsh|
 T Challenge Overlord Mok'Morokk |QID|1173| |N|Draz'Zilb - (37.1, 33.0)| |Z|Dustwallow Marsh|
 F Fly to Thunder Bluff |N|Shardi - (35.6, 31.9) (ULDA Dungeon Quest)| |C|!Mage| |D|ULDA| |Z|Dustwallow Marsh|
 F Fly to Thunder Bluff |N|Bulkrek - (51.6, 25.4) (ULDA Dungeon Quest)| |C|!Mage| |D|ULDA| |Z|Tanaris|

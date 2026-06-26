@@ -23,15 +23,15 @@ B Duokna |L|2512 1000| |N|Duokna - (42.6, 67.3)| |C|Hunter| |Z|Durotar|
 N Buy [Refreshing Spring Water] from her |N|(42.6, 67.3)| |C|Warlock| |Z|Durotar|
 B Refreshing Spring Water (5) |L|159 5| |N|Duokna - (42.6, 67.3)| |C|Warlock| |Z|Durotar|
 N Try to get to level 2 before getting there |N|(43.6, 67.3)| |O| |C|Warlock| |Z|Durotar|
-C Cutting Teeth |QID|788| |N|Mottled Boars en route to the Burning Blade Coven Mottled Boar (10)| |O| |C|Warlock| |Z|Durotar|
+C Cutting Teeth |QID|788| |OIDX|1| |N|Mottled Boars en route to the Burning Blade Coven Mottled Boar (10)| |O| |C|Warlock| |Z|Durotar|
 R Travel toward the Burning Blade Coven |N|(45.3, 56.4)| |C|Warlock| |Z|Durotar|
-C Vile Familiars |QID|1485| |N|Vile Familiars. Loot them for Vile Familiar Heads Vile Familiar Head (6)| |C|Warlock| |Z|Durotar|
-C Cutting Teeth |QID|788| |N|Mottled Boars Mottled Boar (10)| |O| |Z|Durotar|
+C Vile Familiars |QID|1485| |OIDX|1| |N|Vile Familiars. Loot them for Vile Familiar Heads Vile Familiar Head (6)| |C|Warlock| |Z|Durotar|
+C Cutting Teeth |QID|788| |OIDX|1| |N|Mottled Boars Mottled Boar (10)| |O| |Z|Durotar|
 A Sarkoth |QID|790| |N|Hana'zua - (40.6, 62.6)| |Z|Durotar|
-C Sarkoth |QID|790| |N|Sarkoth. Loot him for Sarkoth's Mangled Claw Sarkoth's Mangled Claw (1)| |Z|Durotar|
+C Sarkoth |QID|790| |OIDX|1| |N|Sarkoth. Loot him for Sarkoth's Mangled Claw Sarkoth's Mangled Claw (1)| |Z|Durotar|
 T Sarkoth |QID|790| |N|Hana'zua - (40.6, 62.6)| |Z|Durotar|
 A Sarkoth |QID|804| |N|Hana'zua - (40.6, 62.6)| |Z|Durotar|
-C Cutting Teeth |QID|788| |N|Mottled Boars Mottled Boar (10)| |Z|Durotar|
+C Cutting Teeth |QID|788| |OIDX|1| |N|Mottled Boars Mottled Boar (10)| |Z|Durotar|
 N Grind Mottled Boars. Loot them until you have 1 silver worth of vendor items |O| |C|Warlock| |Z|Durotar|
 B Vendor Trash |N|Duokna - (42.6, 67.3)| |C|Rogue| |Z|Durotar|
 T Vile Familiars |QID|1485| |N|Ruzan - (42.6, 69.0)| |C|Warlock| |Z|Durotar|
@@ -82,12 +82,12 @@ T Simple Parchment |QID|2383| |N|Frang - (42.9, 69.4)| |C|Warrior| |R|Orc| |Z|Du
 T Simple Tablet |QID|3065| |N|Frang - (42.9, 69.4)| |C|Warrior| |R|Troll| |Z|Durotar|
 C Collect Short Staff (1) |QID|5441| |L|2132 1| |N|Kzan (40.5, 68.0)| |C|Shaman| |Z|Durotar|
 A Lazy Peons |QID|5441| |N|Thazz'ril - (44.6, 68.7)| |Z|Durotar|
-C Galgar's Cactus Apple Surprise |QID|4402| |N|Loot the Cactus Apples near the Cacti Cactus Apple (10)| |O| |Z|Durotar|
-C Lazy Peons |QID|5441| |N|Use the [Foreman's Blackjack] on sleeping Lazy Peons Peons Awoken (5)| |O| |Z|Durotar|
-C Sting of the Scorpid |QID|789| |N|Kill Scorpid Workers. Loot them for Scorpid Worker Tails Scorpid Worker Tail (10)| |O| |C|!Warlock| |Z|Durotar|
-C Vile Familiars |QID|792| |N|Kill Vile Familiar Vile Familiar (12)| |C|!Warlock| |Z|Durotar|
-C Sting of the Scorpid |QID|789| |N|Scorpid Workers. Loot them for Scorpid Worker Tails Scorpid Worker Tail (10)| |Z|Durotar|
-C Lazy Peons |QID|5441| |N|Use the [Foreman's Blackjack] on sleeping Lazy Peons Peons Awoken (5)| |Z|Durotar|
+C Galgar's Cactus Apple Surprise |QID|4402| |OIDX|1| |N|Loot the Cactus Apples near the Cacti Cactus Apple (10)| |O| |Z|Durotar|
+C Lazy Peons |QID|5441| |OIDX|1| |N|Use the [Foreman's Blackjack] on sleeping Lazy Peons Peons Awoken (5)| |O| |Z|Durotar|
+C Sting of the Scorpid |QID|789| |OIDX|1| |N|Kill Scorpid Workers. Loot them for Scorpid Worker Tails Scorpid Worker Tail (10)| |O| |C|!Warlock| |Z|Durotar|
+C Vile Familiars |QID|792| |OIDX|1| |N|Kill Vile Familiar Vile Familiar (12)| |C|!Warlock| |Z|Durotar|
+C Sting of the Scorpid |QID|789| |OIDX|1| |N|Scorpid Workers. Loot them for Scorpid Worker Tails Scorpid Worker Tail (10)| |Z|Durotar|
+C Lazy Peons |QID|5441| |OIDX|1| |N|Use the [Foreman's Blackjack] on sleeping Lazy Peons Peons Awoken (5)| |Z|Durotar|
 T Galgar's Cactus Apple Surprise |QID|4402| |N|Galgar - (42.7, 67.2)| |Z|Durotar|
 N Buy [Refreshing Spring Water] from her |N|(42.6, 67.3)| |C|!Rogue/!Warrior/!Hunter/!Shaman| |Z|Durotar|
 N Buy [Rough Arrows] from her |N|(42.6, 67.3)| |C|Hunter| |Z|Durotar|
@@ -111,13 +111,13 @@ t Train [Serpent Sting] |N|Jen'shan - (42.8, 69.3)| |C|Hunter| |Z|Durotar|
 t Train [Charge] & [Rend] |N|Frang - (42.9, 69.4)| |C|Warrior| |Z|Durotar|
 T Lazy Peons |QID|5441| |N|Thazz'ril - (44.6, 68.7)| |Z|Durotar|
 A Thazz'ril's Pick |QID|6394| |N|Thazz'ril - (44.6, 68.7)| |Z|Durotar|
-C Galgar's Cactus Apple Surprise |QID|4402| |N|the Cactus Apples near the Cacti Cactus Apple (10)| |Z|Durotar|
+C Galgar's Cactus Apple Surprise |QID|4402| |OIDX|1| |N|the Cactus Apples near the Cacti Cactus Apple (10)| |Z|Durotar|
 R Enter the cave |N|(45.4, 56.3)| |O| |Z|Durotar|
 R Travel toward Thazz'ril's Pick |N|(43.7, 53.8)| |O| |Z|Durotar|
-C Call of Earth |QID|1516| |N|Kill Felstalkers. Loot them for Felstalker Hooves Felstalker Hoof (2)| |O| |C|Shaman| |Z|Durotar|
-C Thazz'ril's Pick |QID|6394| |N|Thazz'ril's Pick against the wall Thazz'ril's Pick (1)| |Z|Durotar|
-C Burning Blade Medallion |QID|794| |N|Yarrog Baneshadow. Loot him for the Burning Blade Medallion Burning Blade Medallion (1)| |Z|Durotar|
-C Call of Earth |QID|1516| |N|Felstalkers. Loot them for Felstalker Hooves Felstalker Hoof (2)| |C|Shaman| |Z|Durotar|
+C Call of Earth |QID|1516| |OIDX|1| |N|Kill Felstalkers. Loot them for Felstalker Hooves Felstalker Hoof (2)| |O| |C|Shaman| |Z|Durotar|
+C Thazz'ril's Pick |QID|6394| |OIDX|1| |N|Thazz'ril's Pick against the wall Thazz'ril's Pick (1)| |Z|Durotar|
+C Burning Blade Medallion |QID|794| |OIDX|1| |N|Yarrog Baneshadow. Loot him for the Burning Blade Medallion Burning Blade Medallion (1)| |Z|Durotar|
+C Call of Earth |QID|1516| |OIDX|1| |N|Felstalkers. Loot them for Felstalker Hooves Felstalker Hoof (2)| |C|Shaman| |Z|Durotar|
 N You can him from outside or on top of the bunker |N|(52.0, 43.5)| |Z|Durotar|
 A Vanquish the Betrayers |QID|784| |N|Gar'thok - (52.0, 43.5)| |Z|Durotar|
 R Travel toward the tower |N|(49.7, 40.4)| |O| |Z|Durotar|

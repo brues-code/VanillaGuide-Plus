@@ -43,21 +43,21 @@ A Filthy Paws |QID|307| |N|Mountaineer Stormpike inside the bunker - (24.8, 18.4
 R Enter the Silver Stream Mine |N|(35.5, 19.0)| |O| |Z|Loch Modan|
 N The Miners' League Crates can be found all throughout the Mine |N|(35.9, 22.6)| |Z|Loch Modan|
 N You will be able to do this quest at a higher level if you wish to skip it for now |N|(35.9, 22.6)| |Z|Loch Modan|
-C Filthy Paws |QID|307| |N|the Miners' League Crates. Loot them for the Miners' Gear Miners' Gear (4)| |Z|Loch Modan|
+C Filthy Paws |QID|307| |OIDX|1| |N|the Miners' League Crates. Loot them for the Miners' Gear Miners' Gear (4)| |Z|Loch Modan|
 N Kill Mountain Boars. Loot them for their Boar Intestines |O| |Z|Loch Modan|
 N Kill Forest Lurkers. Loot them for their Ichor |O| |Z|Loch Modan|
 C Collect Boar Intestines (x3) |QID|418| |L|3172 3| |N|Kill Elder Black Bears. Loot them for their Bear Meat| |O| |Z|Loch Modan|
 T Filthy Paws |QID|307| |N|Mountaineer Stormpike - (24.8, 18.4)| |Z|Loch Modan|
 N Tunnel Rats can spawn throughout Loch Modan. Check your World Map for their locations |N|(35.5, 16.8)| |Z|Loch Modan|
-C Rat Catching |QID|416| |N|Tunnel Rats. Loot them for their Ears Collect Tunnel Rat Ear (x12)| |Z|Loch Modan|
+C Rat Catching |QID|416| |OIDX|1| |N|Tunnel Rats. Loot them for their Ears Collect Tunnel Rat Ear (x12)| |Z|Loch Modan|
 N Kill Mountain Boars. Loot them for their Boar Intestines |N|(26.9, 10.7)| |Z|Loch Modan|
 N Kill Forest Lurkers. Loot them for their Ichor |N|(26.9, 10.7)| |Z|Loch Modan|
 C Bear Meat (3) |QID|418| |L|3173 3| |N|Kill Elder Black Bears. Loot them for their Bear Meat (26.9, 10.7)| |Z|Loch Modan|
 N Mountaineer Kadrell patrols the road through Thelsamar |N|(36.8, 46.2)| |Z|Loch Modan|
 T Rat Catching |QID|416| |N|Mountaineer Kadrell - (36.8, 46.2)| |Z|Loch Modan|
 T Thelsamar Blood Sausages |QID|418| |N|Vidra Hearthstove - (34.8, 49.3)| |Z|Loch Modan|
-C In Defense of the King's Lands |QID|224| |N|Stonesplinter Troggs and Stonesplinter Scouts. Loot them for their Teeth Kill Stonesplinter Trogg (x10)| |Z|Loch Modan|
-C The Trogg Threat |QID|267| |N|Stonesplinter Troggs and Stonesplinter Scouts. Loot them for their Teeth Collect Trogg Stone Tooth (x8)| |Z|Loch Modan|
+C In Defense of the King's Lands |QID|224| |OIDX|1| |N|Stonesplinter Troggs and Stonesplinter Scouts. Loot them for their Teeth Kill Stonesplinter Trogg (x10)| |Z|Loch Modan|
+C The Trogg Threat |QID|267| |OIDX|1| |N|Stonesplinter Troggs and Stonesplinter Scouts. Loot them for their Teeth Collect Trogg Stone Tooth (x8)| |Z|Loch Modan|
 T In Defense of the King's Lands |QID|224| |N|Mountaineer Cobbleflint - (22.1, 73.1)| |Z|Loch Modan|
 T The Trogg Threat |QID|267| |N|Captain Rugelfuss - (23.2, 73.7)| |Z|Loch Modan|
 R Ironband's Excavation Site |N|(64.9, 66.7)| |O| |Z|Loch Modan|
@@ -65,7 +65,7 @@ A Excavation Progress Report |QID|298| |N|Prospector Ironband - (65.9, 65.6)| |Z
 R The Farstrider Lodge |N|(83.3, 63.0)| |O| |Z|Loch Modan|
 A A Hunter's Boast |QID|257| |N|Daryl the Youngling - (83.5, 65.4)| |Z|Loch Modan|
 N You must complete this quest and return to Daryl the Youngling within 15 minutes. If you fail the quest, abandon it and pick it up again |N|(80.1, 64.2)| |Z|Loch Modan|
-C A Hunter's Boast |QID|257| |N|Mountain Buzzards Mountain Buzzard slain (6)| |Z|Loch Modan|
+C A Hunter's Boast |QID|257| |OIDX|1| |N|Mountain Buzzards Mountain Buzzard slain (6)| |Z|Loch Modan|
 T A Hunter's Boast |QID|257| |N|Daryl the Youngling - (83.5, 65.4)| |Z|Loch Modan|
 N Buy a [Simple Wood] and a [Flint and Tinder] from him |N|(82.5, 63.4)| |Z|Loch Modan|
 N This is used to make [Basic Campfires] on Boats or Trams to level your [Cooking] skill without losing time |N|(82.5, 63.4)| |Z|Loch Modan|
@@ -79,7 +79,7 @@ t Train [Cooking] |N|Daryl Riknussun - (60.1, 36.4)| |Z|Ironforge|
 T Report to Ironforge |QID|301| |N|Prospector Stormpike - (74.6, 11.7)| |Z|Ironforge|
 N Monty on the middle platform |N|(74.4, 51.1)| |Z|Ironforge|
 A Deeprun Rat Roundup |QID|6661| |N|Enter the Deeprun Tram - (74.4, 51.1)| |Z|Ironforge|
-C Deeprun Rat Roundup |QID|6661| |N|Kill Deeprun Rat Rats Captured (x5)| |Z|Ironforge|
+C Deeprun Rat Roundup |QID|6661| |OIDX|1| |N|Kill Deeprun Rat Rats Captured (x5)| |Z|Ironforge|
 T Deeprun Rat Roundup |QID|6661| |N|Monty| |Z|Ironforge|
 A Me Brother, Nipsy |QID|6662| |N|Monty| |Z|Ironforge|
 N Level your [First Aid] and [Cooking] if needed while waiting for the Tram |O| |Z|Ironforge|

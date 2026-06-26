@@ -188,13 +188,13 @@ In addition to the original optimized leveling paths, this fork integrates full 
   - **Alliance (1-60)**: Custom starting routes for Northshire (Human), Coldridge Valley (Dwarf/Gnome), and Shadowglen (Night Elf), merging into a fully optimized 13-60 speedrun route.
   - **Horde (1-60)**: Custom starting routes for Durotar (Orc/Troll), Mulgore (Tauren), and Tirisfal Glades (Undead), merging into a fully optimized 12-60 speedrun route.
 
-To switch route packs, click the status bar, select **Options**, click the **Route** button, and choose your preferred route pack (Optimized Path, RestedXP).
+To switch route packs, click the status bar, select **Config**, click the **Route** button, and choose your preferred route pack (Optimized Path, RestedXP).
 
 ## Dungeon Selection System (RXP Guides Only)
 
 This fork introduces dungeon selection support integrated directly with the RestedXP (RXP) routes. You can toggle specific dungeons on or off from the options menu:
 
-1. Open the options panel with `/vg` or by clicking the status bar and selecting **Options**.
+1. Open the options panel with `/vg` or by clicking the status bar and selecting **Config**.
 2. Click the **Dungeons** button next to the Route selector.
 3. Toggle the dungeons you plan to run (e.g., Deadmines, Scarlet Monastery, Wailing Caverns).
 4. TurtleGuide will automatically recalculate the active guide to include or exclude the dungeon objectives and their prerequisite setups.

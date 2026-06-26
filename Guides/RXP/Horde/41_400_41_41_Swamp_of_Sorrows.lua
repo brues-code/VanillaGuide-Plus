@@ -13,7 +13,7 @@ R Deadwind Pass |N|(88.5, 41.0)| |O| |Z|Duskwood|
 R Travel to Deadwind Pass |N|(59.9, 41.2)| |Z|Deadwind Pass|
 R Travel to Swamp of Sorrows |N|(15.1, 65.5)| |O| |Z|Swamp of Sorrows|
 N Don't focus on this. Kill all of the whelps once. You'll finish it later |N|(15.1, 65.5)| |O| |Z|Swamp of Sorrows|
-C Dream Dust in the Swamp |QID|1116| |N|Adolescent Whelps and Dreaming Whelps. Loot them for their Dream Dust (15.1, 65.5)| |O| |Z|Swamp of Sorrows|
+C Dream Dust in the Swamp |QID|1116| |OIDX|1| |N|Adolescent Whelps and Dreaming Whelps. Loot them for their Dream Dust (15.1, 65.5)| |O| |Z|Swamp of Sorrows|
 A Lack of Surplus |QID|698| |N|Dar - (44.7, 57.1)| |Z|Swamp of Sorrows|
 B Buy [Superior Healing Potions] from him if they're up |N|Rartar inside the inn - (45.4, 56.9)| |Z|Swamp of Sorrows|
 B Buy [Superior Healing Potions] from him if they're up |N|Thultazor - (45.8, 52.9)| |Z|Swamp of Sorrows|
@@ -27,33 +27,33 @@ t Train your class spells |N|Kartosh - (48.6, 55.6)| |C|Warlock| |Z|Swamp of Sor
 B Buy any pet upgrades you can afford |N|Greshka - (48.6, 55.3)| |C|Warlock| |Z|Swamp of Sorrows|
 t Train your class spells |N|Greshka - (48.2, 57.9)| |C|Shaman| |Z|Swamp of Sorrows|
 t Train your class spells |N|Malosh - (44.9, 57.6)| |C|Warrior| |Z|Swamp of Sorrows|
-C Lack of Surplus |QID|698| |N|Kill Sawtooth Crocolisks and Sawtooth Snappers. Loot them for their Sawtooth Flanks| |O| |Z|Swamp of Sorrows|
+C Lack of Surplus |QID|698| |OIDX|1| |N|Kill Sawtooth Crocolisks and Sawtooth Snappers. Loot them for their Sawtooth Flanks| |O| |Z|Swamp of Sorrows|
 N Noboru the Cudgel patrols the zone's top-center |N|(32.2, 36.7)| |Z|Swamp of Sorrows|
 C Noboru the Cudgel. Loot him for [Noboru's Cudgel]. Use it to start the quest |QID|1392| |L|6196 1| |N|Noboru the Cudgel. Loot him for [Noboru's Cudgel]. Use it to start the quest - (32.2, 36.7)| |Z|Swamp of Sorrows|
 A Noboru the Cudgel |QID|1392| |N|Noboru the Cudgel. Loot him for [Noboru's Cudgel]. Use it to start the quest - (32.2, 36.7)| |Z|Swamp of Sorrows|
 A Draenethyst Crystals |QID|1389| |N|Magtoor - (26.0, 31.4)| |Z|Swamp of Sorrows|
 T Noboru the Cudgel |QID|1392| |N|Magtoor - (26.0, 31.4)| |Z|Swamp of Sorrows|
 N Ongeku can be found all over the Fallow Sanctuary |O| |Z|Swamp of Sorrows|
-C Ongeku |QID|1373| |N|Kill Ongeku. Loot him for his Shard| |O| |Z|Swamp of Sorrows|
-C Draenethyst Crystals |QID|1389| |N|Loot the blue Draenethyst Crystals on the ground| |O| |Z|Swamp of Sorrows|
+C Ongeku |QID|1373| |OIDX|1| |N|Kill Ongeku. Loot him for his Shard| |O| |Z|Swamp of Sorrows|
+C Draenethyst Crystals |QID|1389| |OIDX|1| |N|Loot the blue Draenethyst Crystals on the ground| |O| |Z|Swamp of Sorrows|
 N Before starting, pre-clear mobs to the immediate southwest of Galen as best you can |N|(65.5, 18.2)| |Z|Swamp of Sorrows|
 A Galen's Escape |QID|1393| |N|Galen to start his escort - (65.5, 18.2)| |Z|Swamp of Sorrows|
-C Galen's Escape |QID|1393| |N|Escort Galen Goodward safely out of the Fallow Sanctuary (53.0, 29.6)| |Z|Swamp of Sorrows|
-C Draenethyst Crystals |QID|1389| |N|Loot the blue Draenethyst Crystals on the ground| |O| |Z|Swamp of Sorrows|
+C Galen's Escape |QID|1393| |OIDX|1| |N|Escort Galen Goodward safely out of the Fallow Sanctuary (53.0, 29.6)| |Z|Swamp of Sorrows|
+C Draenethyst Crystals |QID|1389| |OIDX|1| |N|Loot the blue Draenethyst Crystals on the ground| |O| |Z|Swamp of Sorrows|
 N Ongeku can be found all over the Fallow Sanctuary |N|(64.7, 22.5)| |Z|Swamp of Sorrows|
-C Ongeku |QID|1373| |N|Ongeku. Loot him for his Shard (64.7, 22.5)| |Z|Swamp of Sorrows|
-C Draenethyst Crystals |QID|1389| |N|Finish looting the blue Draenethyst Crystals on the ground (63.9, 24.4)| |Z|Swamp of Sorrows|
+C Ongeku |QID|1373| |OIDX|1| |N|Ongeku. Loot him for his Shard (64.7, 22.5)| |Z|Swamp of Sorrows|
+C Draenethyst Crystals |QID|1389| |OIDX|1| |N|Finish looting the blue Draenethyst Crystals on the ground (63.9, 24.4)| |Z|Swamp of Sorrows|
 T Galen's Escape |QID|1393| |N|on Galen's Strongbox - (47.8, 39.8)| |Z|Swamp of Sorrows|
-C Lack of Surplus |QID|698| |N|Sawtooth Crocolisks and Sawtooth Snappers. Loot them for their Sawtooth Flanks (64.0, 32.2)| |Z|Swamp of Sorrows|
+C Lack of Surplus |QID|698| |OIDX|1| |N|Sawtooth Crocolisks and Sawtooth Snappers. Loot them for their Sawtooth Flanks (64.0, 32.2)| |Z|Swamp of Sorrows|
 N The artifacts have different models. Open your menu, click System, then Graphics, then adjust the Environmental Clutter slider (at the very bottom) to 0 |O| |Z|Swamp of Sorrows|
-C Pool of Tears |QID|1424| |N|Loot the Atal'ai Artifacts scattered all around the Pool of Tears' shore, or at the bottom of the Pool of Tears itself| |O| |Z|Swamp of Sorrows|
+C Pool of Tears |QID|1424| |OIDX|1| |N|Loot the Atal'ai Artifacts scattered all around the Pool of Tears' shore, or at the bottom of the Pool of Tears itself| |O| |Z|Swamp of Sorrows|
 T Lack of Surplus |QID|698| |N|Tok'Kar - (81.4, 81.0)| |Z|Swamp of Sorrows|
 A Lack of Surplus |QID|699| |N|Tok'Kar - (81.4, 81.0)| |Z|Swamp of Sorrows|
 N The artifacts have different models. Open your menu, click System, then Graphics, then adjust the Environmental Clutter slider (at the very bottom) to 0 |N|(75.0, 50.8)| |Z|Swamp of Sorrows|
-C Pool of Tears |QID|1424| |N|the Atal'ai Artifacts scattered all around the Pool of Tears' shore, or at the bottom of the Pool of Tears itself (75.0, 50.8)| |Z|Swamp of Sorrows|
+C Pool of Tears |QID|1424| |OIDX|1| |N|the Atal'ai Artifacts scattered all around the Pool of Tears' shore, or at the bottom of the Pool of Tears itself (75.0, 50.8)| |Z|Swamp of Sorrows|
 T Pool of Tears |QID|1424| |N|Return to Fel'zerul in Stonard - (48.0, 54.9)| |Z|Swamp of Sorrows|
 T Draenethyst Crystals |QID|1389| |N|Magtoor - (25.9, 31.5)| |Z|Swamp of Sorrows|
-C Dream Dust in the Swamp |QID|1116| |N|Finish killing Adolescent Whelps and Dreaming Whelps. Loot them for their Dream Dust (12.2, 57.1)| |Z|Swamp of Sorrows|
+C Dream Dust in the Swamp |QID|1116| |OIDX|1| |N|Finish killing Adolescent Whelps and Dreaming Whelps. Loot them for their Dream Dust (12.2, 57.1)| |Z|Swamp of Sorrows|
 F Fly to Booty Bay |N|Thysta - (32.5, 29.3)| |O| |Z|Stranglethorn Vale|
 A Goblin Sponsorship |QID|1183| |N|Then Baron Revilgaz - (27.1, 77.0)| |Z|Stranglethorn Vale|
 T Sunken Treasure |QID|669| |N|Fleet Master Seahorn - (27.1, 77.0)| |Z|Stranglethorn Vale|

@@ -20,7 +20,7 @@ N Use the [Carefully Folded Note] to start the quest |N|(32.4, 82.2)| |O| |Z|Str
 C the Half-Buried Bottles along the coast. Loot them for a [Carefully Folded Note] |QID|594| |L|4098 1| |N|the Half-Buried Bottles along the coast. Loot them for a [Carefully Folded Note] - (32.4, 82.2)| |O| |Z|Stranglethorn Vale|
 A Message in a Bottle |QID|594| |N|the Half-Buried Bottles along the coast. Loot them for a [Carefully Folded Note] - (32.4, 82.2)| |O| |Z|Stranglethorn Vale|
 N They are each found on a Bloodsail Ship, on the second floor |N|(29.3, 88.3)| |Z|Stranglethorn Vale|
-C The Bloodsail Buccaneers |QID|608| |N|Kill Captain Keelhaul, Fleet Master Firallon and Captain Stillwater (29.3, 88.3)| |Z|Stranglethorn Vale|
+C The Bloodsail Buccaneers |QID|608| |OIDX|2| |N|Kill Captain Keelhaul, Fleet Master Firallon and Captain Stillwater (29.3, 88.3)| |Z|Stranglethorn Vale|
 N If you can't find any, go back to the mainland and check there |N|(38.7, 61.8)| |Z|Stranglethorn Vale|
 N Use the [Carefully Folded Note] to start the quest |N|(38.7, 61.8)| |Z|Stranglethorn Vale|
 C the Half-Buried Bottles on Jaguero Isle. Loot them for a [Carefully Folded Note] |QID|594| |L|4098 1| |N|the Half-Buried Bottles on Jaguero Isle. Loot them for a [Carefully Folded Note] - (38.7, 61.8)| |Z|Stranglethorn Vale|
@@ -29,18 +29,18 @@ N Beware of Jaguero Stalkers in [Stealth] throughout the Island |N|(38.5, 80.6)|
 T Message in a Bottle |QID|594| |N|Princess Poobah - (38.5, 80.6)| |Z|Stranglethorn Vale|
 A Message in a Bottle |QID|630| |N|Princess Poobah - (38.5, 80.6)| |Z|Stranglethorn Vale|
 N You can kite King Mukla around the large tree |N|(40.9, 83.9)| |C|Hunter| |Z|Stranglethorn Vale|
-C Message in a Bottle |QID|630| |N|King Mukla. Loot him for the Shackle Key (40.9, 83.9)| |C|Hunter| |Z|Stranglethorn Vale|
+C Message in a Bottle |QID|630| |OIDX|1| |N|King Mukla. Loot him for the Shackle Key (40.9, 83.9)| |C|Hunter| |Z|Stranglethorn Vale|
 N You can kite King Mukla around the large tree |N|(40.9, 83.9)| |C|!Hunter| |Z|Stranglethorn Vale|
-C Message in a Bottle |QID|630| |N|King Mukla. Loot him for the Shackle Key (40.9, 83.9)| |C|!Hunter| |Z|Stranglethorn Vale|
+C Message in a Bottle |QID|630| |OIDX|1| |N|King Mukla. Loot him for the Shackle Key (40.9, 83.9)| |C|!Hunter| |Z|Stranglethorn Vale|
 T Message in a Bottle |QID|630| |N|Princess Poobah - (38.5, 80.6)| |Z|Stranglethorn Vale|
 N Don't try to solo him unless you're in a group or have cooldowns/potion CDs ready |N|(37.0, 69.7)| |C|Rogue/Warrior/Paladin| |Z|Stranglethorn Vale|
 N Try to kite him if required to the Booty Bay enterance so guards assist you |N|(37.0, 69.7)| |Z|Stranglethorn Vale|
-C The Captain's Chest |QID|8551| |N|Gorlash. Loot him for Smotts' Chest (37.0, 69.7)| |Z|Stranglethorn Vale|
+C The Captain's Chest |QID|8551| |OIDX|1| |N|Gorlash. Loot him for Smotts' Chest (37.0, 69.7)| |Z|Stranglethorn Vale|
 N Turn in your 10 [Gorilla Fangs] to summon Mokk the Savage |N|(35.3, 60.4)| |Z|Stranglethorn Vale|
 N Kill Mokk the Savage. Loot him for the Heart of Mokk |N|(35.3, 60.4)| |Z|Stranglethorn Vale|
 N You'll have to deal with 3 waves of attacking Gorillas. Focus killing Mokk the Savage then running away on the final wave |N|(35.3, 60.4)| |Z|Stranglethorn Vale|
 N This can be difficult to solo. Find a group if required |N|(35.3, 60.4)| |Z|Stranglethorn Vale|
-C Stranglethorn Fever |QID|348| |N|Witch Doctor Unbagwa (35.3, 60.4)| |Z|Stranglethorn Vale|
+C Stranglethorn Fever |QID|348| |OIDX|1| |N|Witch Doctor Unbagwa (35.3, 60.4)| |Z|Stranglethorn Vale|
 C Witch Doctor Unbagwa |L|2799 10| |N|Witch Doctor Unbagwa - (35.3, 60.4)| |Z|Stranglethorn Vale|
 R Booty Bay |N|(29.0, 73.0)| |O| |Z|Stranglethorn Vale|
 T The Captain's Chest |QID|8551| |N|Captain Hecklebury Smotts - (26.7, 73.6)| |Z|Stranglethorn Vale|

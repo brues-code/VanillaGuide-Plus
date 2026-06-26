@@ -35,10 +35,10 @@ A The Corrupter |QID|1481| |N|Maurin - (52.2, 53.5)| |Z|Desolace|
 A Khan Dez'hepah |QID|1365| |N|Felgur and Gurda - (56.2, 59.6)| |Z|Desolace|
 A Gelkis Alliance |QID|1368| |N|Felgur and Gurda - (56.2, 59.6)| |Z|Desolace|
 N He has 3 different spawn locations in the camp |N|(74.8, 48.8)| |Z|Desolace|
-C Khan Dez'hepah |QID|1365| |N|Khan Dez'hepah. Loot him for his Head (74.8, 48.8)| |Z|Desolace|
-C The Corrupter |QID|1481| |N|Kill Hatefury Shadowstalkers. Loot them for a Scalp| |O| |Z|Desolace|
-C Befouled by Satyr |QID|1434| |N|Hatefury Satyrs. Prioritize killing the Hatefury Rogues (73.8, 25.7)| |Z|Desolace|
-C The Corrupter |QID|1481| |N|Hatefury Shadowstalkers. Loot them for a Scalp (73.8, 25.7)| |Z|Desolace|
+C Khan Dez'hepah |QID|1365| |OIDX|1| |N|Khan Dez'hepah. Loot him for his Head (74.8, 48.8)| |Z|Desolace|
+C The Corrupter |QID|1481| |OIDX|1| |N|Kill Hatefury Shadowstalkers. Loot them for a Scalp| |O| |Z|Desolace|
+C Befouled by Satyr |QID|1434| |OIDX|1| |N|Hatefury Satyrs. Prioritize killing the Hatefury Rogues (73.8, 25.7)| |Z|Desolace|
+C The Corrupter |QID|1481| |OIDX|1| |N|Hatefury Shadowstalkers. Loot them for a Scalp (73.8, 25.7)| |Z|Desolace|
 A Bone Collector |QID|5501| |N|Bibbly - (62.3, 39.0)| |Z|Desolace|
 R Ghost Walker Post |N|(56.3, 57.1)| |O| |Z|Desolace|
 T Befouled by Satyr |QID|1434| |N|Takata - (52.6, 54.4)| |Z|Desolace|
@@ -50,16 +50,16 @@ T Khan Dez'hepah |QID|1365| |N|Felgur - (56.2, 59.5)| |Z|Desolace|
 A Centaur Bounty |QID|1366| |N|Felgur - (56.2, 59.5)| |Z|Desolace|
 A Kodo Roundup |QID|5561| |N|Smeed - (60.8, 61.9)| |Z|Desolace|
 N Be careful of Magram Pack Runners as they have two Hyenas (level 37-38) with them |N|(69.6, 77.8)| |Z|Desolace|
-C Centaur Bounty |QID|1366| |N|Magram Centaur. Loot them for their Ears (69.6, 77.8)| |Z|Desolace|
+C Centaur Bounty |QID|1366| |OIDX|1| |N|Magram Centaur. Loot them for their Ears (69.6, 77.8)| |Z|Desolace|
 R Continue grinding Magram Centaur until your reputation with the Gelkis Centaur is Friendly |N|(69.6, 77.8)| |Z|Desolace|
 N Be careful of Magram Pack Runners as they have two Hyenas (level 37-38) with them |N|(69.6, 77.8)| |Z|Desolace|
 N Click on the Kodo after each trip to progress the quest |N|(60.9, 61.9)| |O| |Z|Desolace|
-C Kodo Roundup |QID|5561| |N|Use the [Kodo Kombobulator] on Kodos, then escort them to Smeed (60.9, 61.9)| |O| |Z|Desolace|
+C Kodo Roundup |QID|5561| |OIDX|1| |N|Use the [Kodo Kombobulator] on Kodos, then escort them to Smeed (60.9, 61.9)| |O| |Z|Desolace|
 N Be careful as high level Kodos can spawn after looting the Kodo Bones |N|(49.0, 60.0)| |C|!Rogue/!Druid| |Z|Desolace|
 N Be careful as high level Kodos can spawn after looting the Kodo Bones. Immediately stealthing will often prevent them from attacking you |N|(49.0, 60.0)| |C|Rogue/Druid| |Z|Desolace|
-C Bone Collector |QID|5501| |N|the Kodo Bones on the ground around the Kodo Graveyard (49.0, 60.0)| |Z|Desolace|
+C Bone Collector |QID|5501| |OIDX|1| |N|the Kodo Bones on the ground around the Kodo Graveyard (49.0, 60.0)| |Z|Desolace|
 N Click on the Kodo after each trip to progress the quest |N|(60.9, 61.9)| |Z|Desolace|
-C Kodo Roundup |QID|5561| |N|Use the [Kodo Kombobulator] on Kodos, then escort them to Smeed (60.9, 61.9)| |Z|Desolace|
+C Kodo Roundup |QID|5561| |OIDX|1| |N|Use the [Kodo Kombobulator] on Kodos, then escort them to Smeed (60.9, 61.9)| |Z|Desolace|
 T Kodo Roundup |QID|5561| |N|Smeed - (60.8, 61.9)| |Z|Desolace|
 T Centaur Bounty |QID|1366| |N|Felgur - (56.2, 59.6)| |Z|Desolace|
 T Gelkis Alliance |QID|1368| |N|Uthek - (36.3, 79.2)| |Z|Desolace|
@@ -75,31 +75,31 @@ N Buy [Razor Arrows] from him |N|(24.9, 71.8)| |C|Hunter| |Z|Desolace|
 B Tukk |L|3030 2600| |N|Tukk - (24.9, 71.8)| |C|Hunter| |Z|Desolace|
 R northern Desolace |N|(62.3, 39.0)| |O| |Z|Desolace|
 T Bone Collector |QID|5501| |N|Bibbly - (62.3, 39.0)| |Z|Desolace|
-C The Burning of Spirits |QID|1435| |N|Use the [Burning Gem] to get the killing blow (100 damage per tick)| |O| |Z|Desolace|
-C Sceptre of Light |QID|5741| |N|the Burning Blade Seer at the top of the tower. Loot it for the Sceptre (55.2, 30.1)| |Z|Desolace|
+C The Burning of Spirits |QID|1435| |OIDX|1| |N|Use the [Burning Gem] to get the killing blow (100 damage per tick)| |O| |Z|Desolace|
+C Sceptre of Light |QID|5741| |OIDX|1| |N|the Burning Blade Seer at the top of the tower. Loot it for the Sceptre (55.2, 30.1)| |Z|Desolace|
 R Enter the large building |N|(55.3, 27.6)| |O| |Z|Desolace|
 N Kill the Demon Spirit after it spawns. Loot it for the Demon Box |N|(54.9, 26.7)| |Z|Desolace|
-C Hand of Iruxos |QID|5381| |N|Use the [Demon Pick] on the Hand of Iruxos Crystal (54.9, 26.7)| |Z|Desolace|
-C The Burning of Spirits |QID|1435| |N|Use the [Burning Gem] to get the killing blow (100 damage per tick) (56.4, 21.6)| |Z|Desolace|
+C Hand of Iruxos |QID|5381| |OIDX|1| |N|Use the [Demon Pick] on the Hand of Iruxos Crystal (54.9, 26.7)| |Z|Desolace|
+C The Burning of Spirits |QID|1435| |OIDX|1| |N|Use the [Burning Gem] to get the killing blow (100 damage per tick) (56.4, 21.6)| |Z|Desolace|
 T Sceptre of Light |QID|5741| |N|Return to Azore - (38.9, 27.1)| |Z|Desolace|
 A Book of the Ancients |QID|6027| |N|Return to Azore - (38.9, 27.1)| |Z|Desolace|
 A Claim Rackmore's Treasure! |QID|6161| |N|Rackmore's Log, resting on a barrel - (36.1, 30.4)| |Z|Desolace|
 N Slitherblade Oracles share spawns with other Slitherblade Nagas; you may have to kill them |O| |Z|Desolace|
-C The Corrupter |QID|1482| |N|Kill Slitherblade Oracles. Loot them for an Oracle Crystal| |O| |Z|Desolace|
-C Claim Rackmore's Treasure! |QID|6161| |N|Kill Slitherblade Nagas. Loot them for the Golden Key| |O| |Z|Desolace|
-C Claim Rackmore's Treasure! |QID|6161| |N|Kill Drysnap Pincers and Crawlers. Loot them for the Silver Key| |O| |Z|Desolace|
-C Other Fish to Fry |QID|6143| |N|Kill Slitherblade Naga, Myrmidons, and Sorceresses| |O| |Z|Desolace|
-C Clam Bait |QID|6142| |N|Enraged Reef Crawlers can also drop the Giant Softshell Clams (33.0, 28.6)| |Z|Desolace|
-C Claim Rackmore's Treasure! |QID|6161| |N|Drysnap Pincers and Crawlers. Loot them for the Silver Key (33.0, 28.6)| |Z|Desolace|
+C The Corrupter |QID|1482| |OIDX|1| |N|Kill Slitherblade Oracles. Loot them for an Oracle Crystal| |O| |Z|Desolace|
+C Claim Rackmore's Treasure! |QID|6161| |OIDX|2| |N|Kill Slitherblade Nagas. Loot them for the Golden Key| |O| |Z|Desolace|
+C Claim Rackmore's Treasure! |QID|6161| |OIDX|1| |N|Kill Drysnap Pincers and Crawlers. Loot them for the Silver Key| |O| |Z|Desolace|
+C Other Fish to Fry |QID|6143| |OIDX|1| |N|Kill Slitherblade Naga, Myrmidons, and Sorceresses| |O| |Z|Desolace|
+C Clam Bait |QID|6142| |OIDX|1| |N|Enraged Reef Crawlers can also drop the Giant Softshell Clams (33.0, 28.6)| |Z|Desolace|
+C Claim Rackmore's Treasure! |QID|6161| |OIDX|1| |N|Drysnap Pincers and Crawlers. Loot them for the Silver Key (33.0, 28.6)| |Z|Desolace|
 T Claim Rackmore's Treasure! |QID|6161| |N|Rackmore's Chest - (30.0, 8.8)| |Z|Desolace|
 N Kill everything around the Serpent Statue first! |N|(28.2, 6.6)| |Z|Desolace|
-C Book of the Ancients |QID|6027| |N|the Serpent Statue to summon Lord Kragaru. Kill him and loot him for his Book (28.2, 6.6)| |Z|Desolace|
-C Claim Rackmore's Treasure! |QID|6161| |N|Slitherblade Nagas. Loot them for the Golden Key (30.0, 11.2)| |Z|Desolace|
+C Book of the Ancients |QID|6027| |OIDX|1| |N|the Serpent Statue to summon Lord Kragaru. Kill him and loot him for his Book (28.2, 6.6)| |Z|Desolace|
+C Claim Rackmore's Treasure! |QID|6161| |OIDX|2| |N|Slitherblade Nagas. Loot them for the Golden Key (30.0, 11.2)| |Z|Desolace|
 T Claim Rackmore's Treasure! |QID|6161| |N|Rackmore's Chest - (30.0, 8.8)| |Z|Desolace|
-C Other Fish to Fry |QID|6143| |N|Kill Slitherblade Naga, Myrmidons, and Sorceresses| |O| |Z|Desolace|
+C Other Fish to Fry |QID|6143| |OIDX|1| |N|Kill Slitherblade Naga, Myrmidons, and Sorceresses| |O| |Z|Desolace|
 N Slitherblade Oracles share spawns with other Slitherblade Nagas; you may have to kill them |N|(30.0, 11.2)| |Z|Desolace|
-C The Corrupter |QID|1482| |N|Slitherblade Oracles. Loot them for an Oracle Crystal (30.0, 11.2)| |Z|Desolace|
-C Other Fish to Fry |QID|6143| |N|Slitherblade Naga, Myrmidons, and Sorceresses (34.7, 24.1)| |Z|Desolace|
+C The Corrupter |QID|1482| |OIDX|1| |N|Slitherblade Oracles. Loot them for an Oracle Crystal (30.0, 11.2)| |Z|Desolace|
+C Other Fish to Fry |QID|6143| |OIDX|1| |N|Slitherblade Naga, Myrmidons, and Sorceresses (34.7, 24.1)| |Z|Desolace|
 T Book of the Ancients |QID|6027| |N|Return to Azore - (38.9, 27.2)| |Z|Desolace|
 R Ghost Walker Post |N|(56.3, 57.1)| |O| |Z|Desolace|
 T The Burning of Spirits |QID|1435| |N|Return to Maurin - (52.2, 53.4)| |Z|Desolace|
@@ -112,7 +112,7 @@ T The Corrupter |QID|1484| |N|Return to Takata - (52.6, 54.4)| |Z|Desolace|
 A Alliance Relations |QID|1436| |N|Return to Takata - (52.6, 54.4)| |Z|Desolace|
 B Sell your junk, then restock on food and water if necessary |N|Harnor - (51.2, 53.3)| |C|!Rogue/!Warrior| |Z|Desolace|
 B Sell your junk, then restock on food if necessary |N|Harnor - (51.2, 53.3)| |C|Rogue/Warrior| |Z|Desolace|
-C Stealing Supplies |QID|1370| |N|the Sacks of Meat around Magram Village for their Meat (73.7, 72.9)| |Z|Desolace|
+C Stealing Supplies |QID|1370| |OIDX|1| |N|the Sacks of Meat around Magram Village for their Meat (73.7, 72.9)| |Z|Desolace|
 T Stealing Supplies |QID|1370| |N|Uthek the Wise - (36.2, 79.2)| |Z|Desolace|
 A Ongeku |QID|1373| |N|Uthek the Wise - (36.2, 79.2)| |Z|Desolace|
 R Aboda |N|(24.9, 68.7)| |O| |C|Hunter| |Z|Desolace|

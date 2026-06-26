@@ -31,14 +31,14 @@ B Collect Hornwood Recurve Bow (1) |L|2506 1| |N|Trayexir. Buy a [Hornwood Recur
 t Train [Fireball] & [Fire Blast] |N|Un'Thuwa - (56.3, 75.1)| |C|Mage| |Z|Durotar|
 C Cast [Find Minerals] and mine any Copper Vein you find for [Rough Stones]. Make [Sharpening Stones] from them |QID|786| |L|2862 1| |O| |C|Warrior/Rogue| |Z|Durotar|
 t Mining Trained |O| |C|Warrior/Rogue| |Z|Durotar|
-C A Solvent Spirit |QID|818| |N|Run down the beach. Kill Crawlers and Makruras. Loot them for their Mucus and Eyes. You do not have to finish this step here. Crawler Mucus (8)| |O| |Z|Durotar|
+C A Solvent Spirit |QID|818| |OIDX|2| |N|Run down the beach. Kill Crawlers and Makruras. Loot them for their Mucus and Eyes. You do not have to finish this step here. Crawler Mucus (8)| |O| |Z|Durotar|
 R Reach the end of the beach |N|(52.2, 83.0)| |Z|Durotar|
-C Carry Your Weight |QID|791| |N|Kill Kolkar Drudges and Kolkar Outrunners. Loot them for their Canvas Scraps Canvas Scraps (8)| |O| |Z|Durotar|
+C Carry Your Weight |QID|791| |OIDX|1| |N|Kill Kolkar Drudges and Kolkar Outrunners. Loot them for their Canvas Scraps Canvas Scraps (8)| |O| |Z|Durotar|
 R Enter the Kolkar base |N|(50.9, 79.2)| |Z|Durotar|
 C Linen Cloth (60) |L|2589 60| |N|Start collecting 3 stacks of [Linen Cloth] as you quest throughout Durotar. This will be used to make your wand later| |O| |C|Priest| |Z|Durotar|
-C Thwarting Kolkar Aggression |QID|786| |N|Burn the Attack Plan inside the tent on the ground Attack Plan: Valley of Trials destroyed (1)| |Z|Durotar|
-C Thwarting Kolkar Aggression |QID|786| |N|Burn the Attack Plan on the ground Attack Plan: Sen'jin Village destroyed (1)| |Z|Durotar|
-C Thwarting Kolkar Aggression |QID|786| |N|Burn the Attack Plan on the ground Attack Plan: Orgrimmar destroyed (1)| |Z|Durotar|
+C Thwarting Kolkar Aggression |QID|786| |OIDX|1| |N|Burn the Attack Plan inside the tent on the ground Attack Plan: Valley of Trials destroyed (1)| |Z|Durotar|
+C Thwarting Kolkar Aggression |QID|786| |OIDX|2| |N|Burn the Attack Plan on the ground Attack Plan: Sen'jin Village destroyed (1)| |Z|Durotar|
+C Thwarting Kolkar Aggression |QID|786| |OIDX|3| |N|Burn the Attack Plan on the ground Attack Plan: Orgrimmar destroyed (1)| |Z|Durotar|
 R Leave the Kolkar base |N|(51.0, 79.1)| |O| |Z|Durotar|
 T Thwarting Kolkar Aggression |QID|786| |N|Lar. He patrols a little - (54.2, 73.4)| |C|Shaman| |Z|Durotar|
 T Thwarting Kolkar Aggression |QID|786| |N|Lar. He patrols a little - (54.2, 73.4)| |C|!Shaman| |Z|Durotar|
@@ -80,18 +80,18 @@ t Mining Trained |O| |C|Warrior/Rogue| |Z|Durotar|
 N Grind mobs on the way |N|(54.4, 62.6)| |Z|Durotar|
 N Grind mobs on the way |N|(57.3, 54.7)| |Z|Durotar|
 R Move toward the second floor of the keep |N|(59.3, 57.9)| |O| |Z|Durotar|
-C Vanquish the Betrayers |QID|784| |N|Kill Kul Tiras Sailors and Kul Tiras Marines. Loot them for their Canvas Scraps Kul Tiras Sailor (10)| |O| |Z|Durotar|
-C Carry Your Weight |QID|791| |N|Kill Kul Tiras Sailors and Kul Tiras Marines. Loot them for their Canvas Scraps Canvas Scraps (8)| |O| |Z|Durotar|
-C Vanquish the Betrayers |QID|784| |N|Lieutenant Benedict. Loot him for his Key Lieutenant Benedict (1)| |Z|Durotar|
+C Vanquish the Betrayers |QID|784| |OIDX|1| |N|Kill Kul Tiras Sailors and Kul Tiras Marines. Loot them for their Canvas Scraps Kul Tiras Sailor (10)| |O| |Z|Durotar|
+C Carry Your Weight |QID|791| |OIDX|1| |N|Kill Kul Tiras Sailors and Kul Tiras Marines. Loot them for their Canvas Scraps Canvas Scraps (8)| |O| |Z|Durotar|
+C Vanquish the Betrayers |QID|784| |OIDX|3| |N|Lieutenant Benedict. Loot him for his Key Lieutenant Benedict (1)| |Z|Durotar|
 C Collect Benedict's Key (1) |QID|830| |L|4882 1| |N|Lieutenant Benedict. Loot him for his Key (59.8, 58.3)| |Z|Durotar|
 N Open Benedict's Chest. Loot it for the [Aged Envelope] |N|(59.3, 57.6)| |Z|Durotar|
 N Use the [Aged Envelope] to start the quest |N|(59.3, 57.6)| |Z|Durotar|
 C Collect Aged Envelope (1) |QID|830| |L|4881 1| |N|Go upstairs in the keep (59.3, 57.6)| |Z|Durotar|
 A The Admiral's Orders |QID|830| |N|Go upstairs in the keep - (59.3, 57.6)| |Z|Durotar|
-C Vanquish the Betrayers |QID|784| |N|Kul Tiras Sailors and Kul Tiras Marines. Loot them for their Canvas Scraps Kul Tiras Sailor (10)| |Z|Durotar|
-C Carry Your Weight |QID|791| |N|Kul Tiras Sailors and Kul Tiras Marines. Loot them for their Canvas Scraps Canvas Scraps (8)| |Z|Durotar|
-C Vanquish the Betrayers |QID|784| |N|Kul Tiras Sailors and Kul Tiras Marines Kul Tiras Sailor (10)| |O| |Z|Durotar|
-C Carry Your Weight |QID|791| |N|Kul Tiras Sailors and Kul Tiras Marines. Loot them for their Canvas Scraps Canvas Scraps (8)| |O| |Z|Durotar|
+C Vanquish the Betrayers |QID|784| |OIDX|1| |N|Kul Tiras Sailors and Kul Tiras Marines. Loot them for their Canvas Scraps Kul Tiras Sailor (10)| |Z|Durotar|
+C Carry Your Weight |QID|791| |OIDX|1| |N|Kul Tiras Sailors and Kul Tiras Marines. Loot them for their Canvas Scraps Canvas Scraps (8)| |Z|Durotar|
+C Vanquish the Betrayers |QID|784| |OIDX|1| |N|Kul Tiras Sailors and Kul Tiras Marines Kul Tiras Sailor (10)| |O| |Z|Durotar|
+C Carry Your Weight |QID|791| |OIDX|1| |N|Kul Tiras Sailors and Kul Tiras Marines. Loot them for their Canvas Scraps Canvas Scraps (8)| |O| |Z|Durotar|
 T Report to Orgnil |QID|823| |N|Orgnil, Gar'Thok and Torka - (52.2, 43.1)| |Z|Durotar|
 A Dark Storms |QID|806| |N|Orgnil, Gar'Thok and Torka - (52.2, 43.1)| |Z|Durotar|
 T Vanquish the Betrayers |QID|784| |N|Orgnil, Gar'Thok and Torka - (52.2, 43.1)| |Z|Durotar|
@@ -154,39 +154,39 @@ t Train your class spells |N|Kaplak - (52.0, 43.7)| |C|Rogue| |Z|Durotar|
 T In Favor of Spirituality |QID|5649| |N|Tai'jin - (54.3, 42.9)| |C|Priest| |Z|Durotar|
 A Garments of Spirituality |QID|5648| |N|Tai'jin - (54.3, 42.9)| |C|Priest| |Z|Durotar|
 t Train [Lesser Heal Rank 2] |N|Tai'jin - (54.3, 42.9)| |C|Priest| |Z|Durotar|
-C Garments of Spirituality |QID|5648| |N|Cast [Lesser Heal] and [Power Word: Fortitude] on Kor'ja Heal and fortify Grunt Kor'ja| |C|Priest| |Z|Durotar|
+C Garments of Spirituality |QID|5648| |OIDX|1| |N|Cast [Lesser Heal] and [Power Word: Fortitude] on Kor'ja Heal and fortify Grunt Kor'ja| |C|Priest| |Z|Durotar|
 T Garments of Spirituality |QID|5648| |N|Tai'jin - (54.3, 42.9)| |C|Priest| |Z|Durotar|
 t Train your class spells |N|Tai'jin - (54.3, 42.9)| |C|Priest| |Z|Durotar|
 t Train [First Aid] |N|Rawrk - (54.2, 41.9)| |C|Rogue/Warrior| |Z|Durotar|
 N Buy a [Small Brown Pouch] from him |N|(54.4, 42.2)| |Z|Durotar|
 B Small Brown Pouch (1) |L|4496 1| |N|Jark - (54.4, 42.2)| |Z|Durotar|
 N Kill Makrura Shellhides and Makrura Clackers. Loot them for their Eyes |O| |Z|Durotar|
-C A Solvent Spirit |QID|818| |N|Kill Pygmy Surf Crawlers and Surf Crawlers. Loot them for their Mucus Crawler Mucus (8)| |O| |Z|Durotar|
-C From The Wreckage.... |QID|825| |N|the Gnomish Toolboxes inside and around the boats Gnomish Tools (3)| |Z|Durotar|
+C A Solvent Spirit |QID|818| |OIDX|2| |N|Kill Pygmy Surf Crawlers and Surf Crawlers. Loot them for their Mucus Crawler Mucus (8)| |O| |Z|Durotar|
+C From The Wreckage.... |QID|825| |OIDX|1| |N|the Gnomish Toolboxes inside and around the boats Gnomish Tools (3)| |Z|Durotar|
 R Swim to the Island |N|(67.1, 69.3)| |O| |Z|Durotar|
-C Practical Prey |QID|817| |N|Kill Durotar Tigers. Loot them for their Fur Durotar Tiger Fur (4)| |O| |Z|Durotar|
+C Practical Prey |QID|817| |OIDX|1| |N|Kill Durotar Tigers. Loot them for their Fur Durotar Tiger Fur (4)| |O| |Z|Durotar|
 N Kill Makrura Shellhides and Makrura Clackers. Loot them for their Eyes |O| |Z|Durotar|
-C A Solvent Spirit |QID|818| |N|Kill Pygmy Surf Crawlers and Surf Crawlers. Loot them for their Mucus Crawler Mucus (8)| |O| |Z|Durotar|
+C A Solvent Spirit |QID|818| |OIDX|2| |N|Kill Pygmy Surf Crawlers and Surf Crawlers. Loot them for their Mucus Crawler Mucus (8)| |O| |Z|Durotar|
 N They're usually guarded by a Bloodtalon Taillasher |N|(67.7, 69.9)| |Z|Durotar|
-C Break a Few Eggs |QID|815| |N|the Taillasher Eggs on the ground Taillasher Egg (3)| |Z|Durotar|
+C Break a Few Eggs |QID|815| |OIDX|1| |N|the Taillasher Eggs on the ground Taillasher Egg (3)| |Z|Durotar|
 N Kill Makrura Shellhides and Makrura Clackers. Loot them for their Eyes |O| |Z|Durotar|
-C A Solvent Spirit |QID|818| |N|Kill Pygmy Surf Crawlers and Surf Crawlers. Loot them for their Mucus Crawler Mucus (8)| |O| |Z|Durotar|
+C A Solvent Spirit |QID|818| |OIDX|2| |N|Kill Pygmy Surf Crawlers and Surf Crawlers. Loot them for their Mucus Crawler Mucus (8)| |O| |Z|Durotar|
 R Swim to the main island |N|(66.9, 84.4)| |Z|Durotar|
-C Zalazane |QID|826| |N|Kill Hexed Trolls and Voodoo Trolls Hexed Troll (8)| |O| |Z|Durotar|
+C Zalazane |QID|826| |OIDX|1| |N|Kill Hexed Trolls and Voodoo Trolls Hexed Troll (8)| |O| |Z|Durotar|
 N Save your [Earth Shock] for when he casts [Healing Wave] |O| |C|Shaman| |Z|Durotar|
 N Save your [Gouge] for when he casts [Healing Wave] |O| |C|Rogue| |Z|Durotar|
-C Zalazane |QID|826| |N|Kill Zalazane. Loot him for his Head Zalazane's Head (1)| |O| |Z|Durotar|
-C Minshina's Skull |QID|808| |N|one of the Skulls on the ground Minshina's Skull (1)| |Z|Durotar|
+C Zalazane |QID|826| |OIDX|3| |N|Kill Zalazane. Loot him for his Head Zalazane's Head (1)| |O| |Z|Durotar|
+C Minshina's Skull |QID|808| |OIDX|1| |N|one of the Skulls on the ground Minshina's Skull (1)| |Z|Durotar|
 N Save your [Earth Shock] for when he casts [Healing Wave] |N|(67.4, 87.8)| |C|Shaman| |Z|Durotar|
 N Save your [Gouge] for when he casts [Healing Wave] |N|(67.4, 87.8)| |C|Rogue| |Z|Durotar|
-C Zalazane |QID|826| |N|Zalazane. Loot him for his Head Zalazane's Head (1)| |Z|Durotar|
-C Practical Prey |QID|817| |N|Kill Durotar Tigers. Loot them for their Fur Durotar Tiger Fur (4)| |O| |Z|Durotar|
-C Zalazane |QID|826| |N|Hexed Trolls and Voodoo Trolls Hexed Troll (8)| |Z|Durotar|
+C Zalazane |QID|826| |OIDX|3| |N|Zalazane. Loot him for his Head Zalazane's Head (1)| |Z|Durotar|
+C Practical Prey |QID|817| |OIDX|1| |N|Kill Durotar Tigers. Loot them for their Fur Durotar Tiger Fur (4)| |O| |Z|Durotar|
+C Zalazane |QID|826| |OIDX|1| |N|Hexed Trolls and Voodoo Trolls Hexed Troll (8)| |Z|Durotar|
 N Kill Makrura Shellhides and Makrura Clackers. Loot them for their Eyes |O| |Z|Durotar|
-C A Solvent Spirit |QID|818| |N|Kill Pygmy Surf Crawlers and Surf Crawlers. Loot them for their Mucus Crawler Mucus (8)| |O| |Z|Durotar|
-C Practical Prey |QID|817| |N|Durotar Tigers. Loot them for their Fur Durotar Tiger Fur (4)| |Z|Durotar|
+C A Solvent Spirit |QID|818| |OIDX|2| |N|Kill Pygmy Surf Crawlers and Surf Crawlers. Loot them for their Mucus Crawler Mucus (8)| |O| |Z|Durotar|
+C Practical Prey |QID|817| |OIDX|1| |N|Durotar Tigers. Loot them for their Fur Durotar Tiger Fur (4)| |Z|Durotar|
 N Kill Makrura Shellhides and Makrura Clackers. Loot them for their Eyes |N|(53.8, 83.1)| |Z|Durotar|
-C A Solvent Spirit |QID|818| |N|Pygmy Surf Crawlers and Surf Crawlers. Loot them for their Mucus Crawler Mucus (8)| |Z|Durotar|
+C A Solvent Spirit |QID|818| |OIDX|2| |N|Pygmy Surf Crawlers and Surf Crawlers. Loot them for their Mucus Crawler Mucus (8)| |Z|Durotar|
 N Jump into the hut |N|(56.5, 73.1)| |Z|Durotar|
 B Vendor trash and repair |N|Trayexir - (56.5, 73.1)| |Z|Durotar|
 t Train your class spells |N|Un'Thuwa - (56.3, 75.1)| |C|Mage| |Z|Durotar|
@@ -195,8 +195,8 @@ T Zalazane |QID|826| |N|Gadrin, Vornal and Vel'rin - (56.0, 74.7)| |C|Shaman| |Z
 T Zalazane |QID|826| |N|Gadrin, Vornal and Vel'rin - (56.0, 74.7)| |C|!Shaman| |Z|Durotar|
 T A Solvent Spirit |QID|818| |N|Gadrin, Vornal and Vel'rin - (56.0, 74.7)| |Z|Durotar|
 T Practical Prey |QID|817| |N|(56.0, 74.4)| |Z|Durotar|
-C Encroachment |QID|837| |N|Razormane Quilboars and Razormane Scouts Razormane Quilboar (4)| |Z|Durotar|
-C Encroachment |QID|837| |N|Razormane Dustrunners and Razormane Battleguards Razormane Dustrunner (4)| |Z|Durotar|
+C Encroachment |QID|837| |OIDX|1| |N|Razormane Quilboars and Razormane Scouts Razormane Quilboar (4)| |Z|Durotar|
+C Encroachment |QID|837| |OIDX|3| |N|Razormane Dustrunners and Razormane Battleguards Razormane Dustrunner (4)| |Z|Durotar|
 T Break a Few Eggs |QID|815| |N|Torka and Gar'Thok - (51.1, 42.5)| |C|Hunter| |Z|Durotar|
 T From The Wreckage.... |QID|825| |N|Torka and Gar'Thok - (51.1, 42.5)| |C|Hunter| |Z|Durotar|
 T Encroachment |QID|837| |N|Torka and Gar'Thok - (51.1, 42.5)| |C|Hunter| |Z|Durotar|
@@ -205,17 +205,17 @@ A Taming the Beast |QID|6062| |N|Go inside the bunker - (51.9, 43.5)| |C|Hunter|
 t Train your class spells |N|Go inside the bunker - (51.9, 43.5)| |C|Hunter| |Z|Durotar|
 B Sharp Arrow (1200) |L|2515 1200| |N|Ghrawt. Buy [Sharp Arrows] and a [Medium Quiver] from him - (53.0, 41.0)| |C|Hunter| |Z|Durotar|
 B Sharp Arrow (1200) |L|2515 1200| |N|Ghrawt. Buy [Sharp Arrows] from him - (53.0, 41.0)| |C|Hunter| |Z|Durotar|
-C Taming the Beast |QID|6062| |N|Kill Dire Mottled Boar Tame a Dire Mottled Boar| |C|Hunter| |Z|Durotar|
+C Taming the Beast |QID|6062| |OIDX|1| |N|Kill Dire Mottled Boar Tame a Dire Mottled Boar| |C|Hunter| |Z|Durotar|
 N Thotar inside |N|(51.9, 43.5)| |C|Hunter| |Z|Durotar|
 T Taming the Beast |QID|6062| |N|Go inside the bunker - (51.9, 43.5)| |C|Hunter| |Z|Durotar|
 A Taming the Beast |QID|6083| |N|Go inside the bunker - (51.9, 43.5)| |C|Hunter| |Z|Durotar|
 N Thotar inside |N|(51.9, 43.5)| |C|Hunter| |Z|Durotar|
 A Taming the Beast |QID|6083| |N|Go inside the bunker - (51.9, 43.5)| |C|Hunter| |Z|Durotar|
-C Taming the Beast |QID|6083| |N|Don't kill the Armored Scorpids you see. You'll need them later Tame a Surf Crawler| |C|Hunter| |Z|Durotar|
+C Taming the Beast |QID|6083| |OIDX|1| |N|Don't kill the Armored Scorpids you see. You'll need them later Tame a Surf Crawler| |C|Hunter| |Z|Durotar|
 N Thotar inside |N|(51.9, 43.5)| |C|Hunter| |Z|Durotar|
 T Taming the Beast |QID|6083| |N|Go inside the bunker - (51.9, 43.5)| |C|Hunter| |Z|Durotar|
 A Taming the Beast |QID|6082| |N|Go inside the bunker - (51.9, 43.5)| |C|Hunter| |Z|Durotar|
-C Taming the Beast |QID|6082| |N|Kill Armored Scorpid Tame an Armored Scorpid| |C|Hunter| |Z|Durotar|
+C Taming the Beast |QID|6082| |OIDX|1| |N|Kill Armored Scorpid Tame an Armored Scorpid| |C|Hunter| |Z|Durotar|
 N Thotar inside |N|(51.9, 43.5)| |C|Hunter| |Z|Durotar|
 T Taming the Beast |QID|6082| |N|Go inside the bunker - (51.9, 43.5)| |C|Hunter| |Z|Durotar|
 A Training the Beast |QID|6081| |N|Go inside the bunker - (51.9, 43.5)| |C|Hunter| |Z|Durotar|
@@ -225,7 +225,7 @@ B Tough Jerky (5) |L|117 5| |N|Grimtak - (51.1, 42.6)| |C|Hunter| |Z|Durotar|
 A Lost But Not Forgotten |QID|816| |N|Misha - (43.1, 30.2)| |C|Hunter/Shaman/Warrior| |Z|Durotar|
 R Rezlak |N|(46.4, 22.9)| |O| |Z|Durotar|
 A Winds in the Desert |QID|834| |N|Rezlak - (46.4, 22.9)| |Z|Durotar|
-C Winds in the Desert |QID|834| |N|the Stolen Supply Sacks from the ground Sack of Supplies (5)| |Z|Durotar|
+C Winds in the Desert |QID|834| |OIDX|1| |N|the Stolen Supply Sacks from the ground Sack of Supplies (5)| |Z|Durotar|
 T Winds in the Desert |QID|834| |N|Rezlak - (46.4, 22.9)| |Z|Durotar|
 A Securing the Lines |QID|835| |N|Rezlak - (46.4, 22.9)| |Z|Durotar|
 R Jump into Thunder Ridge |N|(41.7, 25.7)| |O| |C|!Hunter/!Warlock| |Z|Durotar|
@@ -239,7 +239,7 @@ N You can cast [Polymorph] on Fizzle and kill the Imp first |N|(42.1, 26.7)| |C|
 N Kill the imp first |N|(42.1, 26.7)| |C|Warrior/Warlock/Priest| |Z|Durotar|
 N Use a [Minor Healing Potion] if you have it and your [Faintly Glowing Skull] if needed |N|(42.1, 26.7)| |C|!Warlock| |Z|Durotar|
 N Use a [Minor Healing Potion], [Minor Healthstone] if you have it and your [Faintly Glowing Skull] if needed |N|(42.1, 26.7)| |C|Warlock| |Z|Durotar|
-C Dark Storms |QID|806| |N|Fizzle Darkstorm and loot him for his Claw Fizzle's Claw (1)| |Z|Durotar|
+C Dark Storms |QID|806| |OIDX|1| |N|Fizzle Darkstorm and loot him for his Claw Fizzle's Claw (1)| |Z|Durotar|
 N Be careful. Kill the patrolling Burning Blade Fanatic and the Lightning Hides in the back before you pull him |N|(42.1, 26.7)| |Z|Durotar|
 N Pull him backwards towards the Lightning Hides you just killed. Otherwise you may bodypull additional Burning Blade mobs |N|(42.1, 26.7)| |Z|Durotar|
 N Kill the imp first. Use [Gouge] when he casts [Soul Siphon] |N|(42.1, 26.7)| |C|Rogue| |Z|Durotar|
@@ -248,7 +248,7 @@ N You can cast [Polymorph] on Fizzle and kill the Imp first |N|(42.1, 26.7)| |C|
 N Kill the imp first |N|(42.1, 26.7)| |C|Warrior/Warlock/Priest| |Z|Durotar|
 N Use a [Minor Healing Potion] if you have it and your [Faintly Glowing Skull] if needed |N|(42.1, 26.7)| |C|!Warlock| |Z|Durotar|
 N Use a [Minor Healing Potion], [Minor Healthstone] if you have it and your [Faintly Glowing Skull] if needed |N|(42.1, 26.7)| |C|Warlock| |Z|Durotar|
-C Dark Storms |QID|806| |N|Fizzle Darkstorm and loot him for his Claw Fizzle's Claw (1)| |Z|Durotar|
+C Dark Storms |QID|806| |OIDX|1| |N|Fizzle Darkstorm and loot him for his Claw Fizzle's Claw (1)| |Z|Durotar|
 R Fight your way out of Thunder Ridge |N|(39.2, 32.0)| |C|Warrior/Shaman/Hunter| |Z|Durotar|
 N This will start a 45 minute timer for the quest. Do NOT go AFK or log out for the next 5 minutes |N|(41.5, 18.6)| |C|Warrior/Shaman/Hunter| |Z|Durotar|
 A Need for a Cure |QID|812| |N|Rhinag - (41.5, 18.6)| |C|Warrior/Shaman/Hunter| |Z|Durotar|

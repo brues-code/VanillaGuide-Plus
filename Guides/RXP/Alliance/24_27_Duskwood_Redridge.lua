@@ -17,8 +17,8 @@ A The Binding |QID|1739| |N|Gakin the Darkbinder - (25.2, 78.5)| |O| |C|Warlock|
 T Heartswood |QID|1738| |N|Gakin the Darkbinder - (25.2, 78.5)| |O| |C|Warlock| |Z|Stormwind City|
 A The Binding |QID|1739| |N|Gakin the Darkbinder - (25.2, 78.5)| |O| |C|Warlock| |Z|Stormwind City|
 R the bottom of The Slaughtered Lamb |N|(25.2, 77.4)| |O| |C|Warlock| |Z|Stormwind City|
-C The Binding |QID|1739| |N|Kill Summoned Succubus (25.2, 77.4)| |C|Warlock| |Z|Stormwind City|
-C The Binding |QID|1739| |N|the bottom of The Slaughtered Lamb (25.2, 77.4)| |C|Warlock| |Z|Stormwind City|
+C The Binding |QID|1739| |OIDX|1| |N|Kill Summoned Succubus (25.2, 77.4)| |C|Warlock| |Z|Stormwind City|
+C The Binding |QID|1739| |OIDX|1| |N|the bottom of The Slaughtered Lamb (25.2, 77.4)| |C|Warlock| |Z|Stormwind City|
 T The Binding |QID|1739| |N|Gakin the Darkbinder - (25.2, 78.5)| |C|Warlock| |Z|Stormwind City|
 T A Scroll from Mauren |QID|1075| |N|Collin Mauren - (43.1, 80.4)| |Z|Stormwind City|
 A Devils in Westfall |QID|1076| |N|Collin Mauren - (43.1, 80.4)| |O| |Z|Stormwind City|
@@ -48,11 +48,11 @@ A Wolves at Our Heels |QID|226| |N|Lars - (7.7, 33.3)| |Z|Duskwood|
 R Darkshire |N|(75.8, 45.3)| |O| |Z|Duskwood|
 N Be careful as Starving Dire Wolves have [Increased Aggro Range] and Rabid Dire Wolves cast [Rabies] (Reduces ALL health regen by 50%) |O| |Z|Duskwood|
 N You don't have to kill all Wolves now. Save the Lean Wolf Flanks for a later quest |O| |Z|Duskwood|
-C Wolves at Our Heels |QID|226| |N|Kill Starving Dire Wolves and Rabid Dire Wolves en route. Loot them for their Lean Wolf Flanks| |O| |Z|Duskwood|
+C Wolves at Our Heels |QID|226| |OIDX|1| |N|Kill Starving Dire Wolves and Rabid Dire Wolves en route. Loot them for their Lean Wolf Flanks| |O| |Z|Duskwood|
 C Starving Dire Wolves and Rabid Dire Wolves en route. Loot them for their Lean Wolf Flanks |QID|90| |L|1015 10| |N|Kill Starving Dire Wolves and Rabid Dire Wolves en route. Loot them for their Lean Wolf Flanks| |O| |Z|Duskwood|
 N Be careful as Starving Dire Wolves have [Increased Aggro Range] and Rabid Dire Wolves cast [Rabies] (Reduces ALL health regen by 50%) |O| |Z|Duskwood|
 N You don't have to kill all Wolves now |O| |Z|Duskwood|
-C Wolves at Our Heels |QID|226| |N|Kill Starving Dire Wolves and Rabid Dire Wolves en route| |O| |Z|Duskwood|
+C Wolves at Our Heels |QID|226| |OIDX|1| |N|Kill Starving Dire Wolves and Rabid Dire Wolves en route| |O| |Z|Duskwood|
 A The Legend of Stalvan |QID|66| |N|Madame Eva inside - (75.8, 45.3)| |Z|Duskwood|
 A The Totem of Infliction |QID|101| |N|Madame Eva inside - (75.8, 45.3)| |Z|Duskwood|
 R Innkeeper Trelayne |N|(73.9, 44.4)| |Z|Duskwood|
@@ -77,19 +77,19 @@ N Don't start the quest for it yet |O| |Z|Duskwood|
 C Keep at eye out for [An Old History Book]. This is a zone-wide drop in Duskwood |QID|337| |L|2794 1| |N|Keep at eye out for [An Old History Book]. This is a zone-wide drop in Duskwood| |O| |Z|Duskwood|
 N Skeletal Warriors apply [Hamstring] |O| |Z|Duskwood|
 N Skeletal Mages cast [Frostbolt] and also snare with [Frost Armor] |O| |Z|Duskwood|
-C The Night Watch |QID|56| |N|Kill Skeletal Warriors and Skeletal Mages| |O| |Z|Duskwood|
+C The Night Watch |QID|56| |OIDX|1| |N|Kill Skeletal Warriors and Skeletal Mages| |O| |Z|Duskwood|
 N The Insane Ghoul may be inside of the chapel or walking around outside |N|(81.0, 71.7)| |Z|Duskwood|
-C Look To The Stars |QID|177| |N|the Insane Ghoul. Loot him for Mary's Looking Glass (81.0, 71.7)| |Z|Duskwood|
+C Look To The Stars |QID|177| |OIDX|1| |N|the Insane Ghoul. Loot him for Mary's Looking Glass (81.0, 71.7)| |Z|Duskwood|
 N Skeletal Warriors apply [Hamstring] |N|(79.4, 70.3)| |Z|Duskwood|
 N Skeletal Mages cast [Frostbolt] and also snare with [Frost Armor] |N|(79.4, 70.3)| |Z|Duskwood|
-C The Night Watch |QID|56| |N|Kill Skeletal Warriors and Skeletal Mages (79.4, 70.3)| |Z|Duskwood|
+C The Night Watch |QID|56| |OIDX|1| |N|Kill Skeletal Warriors and Skeletal Mages (79.4, 70.3)| |Z|Duskwood|
 T Raven Hill |QID|163| |N|Jitters - (18.2, 56.2)| |Z|Duskwood|
 A Jitters' Growling Gut |QID|5| |N|Jitters - (18.2, 56.2)| |Z|Duskwood|
 N Don't go out of your way to do this quest, skip it if necessary |O| |Z|Duskwood|
-C Kill Pygmy Venom Web Spiders |QID|245| |N|Kill Pygmy Venom Web Spiders| |O| |Z|Duskwood|
-C Wolves at Our Heels |QID|226| |N|Starving Dire Wolves and Rabid Dire Wolves. Loot them for their Lean Wolf Flanks (36.2, 24.7)| |Z|Duskwood|
+C Kill Pygmy Venom Web Spiders |QID|245| |OIDX|1| |N|Kill Pygmy Venom Web Spiders| |O| |Z|Duskwood|
+C Wolves at Our Heels |QID|226| |OIDX|1| |N|Starving Dire Wolves and Rabid Dire Wolves. Loot them for their Lean Wolf Flanks (36.2, 24.7)| |Z|Duskwood|
 C Starving Dire Wolves and Rabid Dire Wolves. Loot them for their Lean Wolf Flanks |QID|90| |L|1015 10| |N|Starving Dire Wolves and Rabid Dire Wolves. Loot them for their Lean Wolf Flanks - (36.2, 24.7)| |Z|Duskwood|
-C Wolves at Our Heels |QID|226| |N|Starving Dire Wolves and Rabid Dire Wolves (36.2, 24.7)| |Z|Duskwood|
+C Wolves at Our Heels |QID|226| |OIDX|1| |N|Starving Dire Wolves and Rabid Dire Wolves (36.2, 24.7)| |Z|Duskwood|
 C Wolves throughout Duskwood. Loot them for their Lean Wolf Flanks |QID|90| |L|1015 10| |O| |Z|Duskwood|
 T Deliveries to Sven |QID|164| |N|Sven Yorgen - (7.8, 34.1)| |Z|Duskwood|
 A Sven's Revenge |QID|95| |N|Sven Yorgen - (7.8, 34.1)| |Z|Duskwood|
@@ -102,7 +102,7 @@ C Spiders in Duskwood. Loot them for their Gooey Spider Legs |QID|2359| |L|1475 
 R Travel to Westfall |N|(38.8, 61.4)| |O| |Z|Westfall|
 N Dust Devils can spawn throughout all of Westfall. Their spawn locations are marked on the map |N|(34.8, 67.4)| |O| |Z|Westfall|
 N Cast [Eagle Eye] to try and find them |N|(34.8, 67.4)| |O| |C|Hunter| |Z|Westfall|
-C Devils in Westfall |QID|1076| |N|Dust Devils. Loot them for their Debris (34.8, 67.4)| |O| |Z|Westfall|
+C Devils in Westfall |QID|1076| |OIDX|1| |N|Dust Devils. Loot them for their Debris (34.8, 67.4)| |O| |Z|Westfall|
 f Get the Westfall flight path |N|Thor - (56.5, 52.6)| |Z|Westfall|
 N Check "Enable Interact Key" and bind the "Interact with Target" option to a key |O| |C|Rogue| |Z|Westfall|
 N Additionally, it's recommended you enable Enemy Nameplates (Default Key: V) as it allows you to see enemies behind some of the corners inside the tower |O| |C|Rogue| |Z|Westfall|
@@ -112,29 +112,29 @@ A Klaven's Tower |QID|2359| |N|Agent Kearnen - (68.5, 70.1)| |C|Rogue| |Z|Westfa
 N You must be in [Stealth] to use [Pick Pocket] |N|(69.6, 73.1)| |C|Rogue| |Z|Westfall|
 N The Malformed Defias Drone spawns at the entrance to the tower, then patrols around the outside of it |N|(69.6, 73.1)| |C|Rogue| |Z|Westfall|
 N Be careful as he deals a LOT of damage. If your [Stealth] breaks, quickly use [Sprint] and run away |N|(69.6, 73.1)| |C|Rogue| |Z|Westfall|
-C Klaven's Tower |QID|2359| |N|[Pick Pocket] the Malformed Defias Drone. Loot it for the Defias Tower Key (69.6, 73.1)| |C|Rogue| |Z|Westfall|
+C Klaven's Tower |QID|2359| |OIDX|2| |N|[Pick Pocket] the Malformed Defias Drone. Loot it for the Defias Tower Key (69.6, 73.1)| |C|Rogue| |Z|Westfall|
 N Travel up to 2nd top floor of the tower. Whilst in [Stealth] and the Defias Tower Sentries aren't next to you, Jump onto the chair, then onto the lamp, then onto the bookshelf on top of the waypoint location |N|(70.4, 74.0)| |C|Rogue| |Z|Westfall|
 N NOTE: Your [Stealth] will temporarily stop working after looting Klaven Mortwake's Journal |N|(70.4, 74.0)| |C|Rogue| |Z|Westfall|
 N Be prepared to run if you don't kill the Defias Tower Sentries on the 2nd floor. They will most likely aggro you permanently (but not attack you) when you are on top of the bookshelf as it is an evade spot |N|(70.4, 74.0)| |C|Rogue| |Z|Westfall|
 N If you have a [Dagger] in your bags or equipped, you can cast [Ambush] on the Defias Tower Patrollers and Defias Tower Sentries inside to kill them instantly. Be prepared to run after you kill the first Defias Tower Sentry and remember you can be hit from above. This is slower, but a LOT safer |N|(70.4, 74.0)| |C|Rogue| |Z|Westfall|
 N Be careful as the Malformed Defias Drone and Defias Drones can be at the entrance of the tower if you have to run out of it |N|(70.4, 74.0)| |C|Rogue| |Z|Westfall|
-C Klaven's Tower |QID|2359| |N|Manually [Unstealth], then press your "Interact with Target" keybind to open the Duskwood Chest. Loot it for Klaven Mortwake's Journal (70.4, 74.0)| |C|Rogue| |Z|Westfall|
+C Klaven's Tower |QID|2359| |OIDX|1| |N|Manually [Unstealth], then press your "Interact with Target" keybind to open the Duskwood Chest. Loot it for Klaven Mortwake's Journal (70.4, 74.0)| |C|Rogue| |Z|Westfall|
 C Craft an [Anti-Venom] |L|6452 1| |C|Rogue| |R|!Dwarf| |Z|Westfall|
 t Training (7934) |C|Rogue| |R|!Dwarf| |Z|Westfall|
 N Dust Devils can spawn throughout all of Westfall. Their spawn locations are marked on the map |N|(34.8, 67.4)| |Z|Westfall|
-C Devils in Westfall |QID|1076| |N|Dust Devils. Loot them for their Debris (34.8, 67.4)| |Z|Westfall|
+C Devils in Westfall |QID|1076| |OIDX|1| |N|Dust Devils. Loot them for their Debris (34.8, 67.4)| |Z|Westfall|
 T The Legend of Stalvan |QID|67| |N|the Old Footlocker on the ground - (41.5, 66.7)| |Z|Westfall|
 A The Legend of Stalvan |QID|68| |N|the Old Footlocker on the ground - (41.5, 66.7)| |Z|Westfall|
 A The Coastal Menace |QID|104| |N|Captain Grayson - (30.0, 86.0)| |Z|Westfall|
 A Keeper of the Flame |QID|103| |N|Captain Grayson - (30.0, 86.0)| |Z|Westfall|
-C The Coastal Menace |QID|104| |N|Old Murk-Eye patrols up and down the Longshore. If you don't see him along the Longshore, wait for him to spawn in the most southern Murloc camp (34.4, 83.9)| |Z|Westfall|
+C The Coastal Menace |QID|104| |OIDX|1| |N|Old Murk-Eye patrols up and down the Longshore. If you don't see him along the Longshore, wait for him to spawn in the most southern Murloc camp (34.4, 83.9)| |Z|Westfall|
 T The Coastal Menace |QID|104| |N|Captain Grayson - (30.0, 86.0)| |Z|Westfall|
 T Keeper of the Flame |QID|103| |N|Captain Grayson - (30.0, 86.0)| |Z|Westfall|
 T The Coastal Menace |QID|104| |N|Captain Grayson - (30.0, 86.0)| |Z|Westfall|
 R Swim out to sea |N|(17.9, 33.1)| |O| |C|Druid| |Z|Westfall|
 C the Strange Lockbox. Loot it for the Half Pendant of Aquatic Endurance |QID|272| |L|15882 1| |N|the Strange Lockbox. Loot it for the Half Pendant of Aquatic Endurance - (17.9, 33.1)| |C|Druid| |Z|Westfall|
 R Travel to Moonglade |N|(36.0, 41.4)| |C|Druid| |Z|Moonglade|
-C Complete task |QID|272| |N|(36.0, 41.4)| |C|Druid| |Z|Moonglade|
+C Complete task |QID|272| |OIDX|1| |N|(36.0, 41.4)| |C|Druid| |Z|Moonglade|
 N This will save you time from running back |O| |C|Druid| |Z|Moonglade|
 T Trial of the Sea Lion |QID|272| |N|Dendrite Starblaze - (56.2, 30.6)| |C|Druid| |Z|Moonglade|
 A Aquatic Form |QID|5061| |N|Dendrite Starblaze - (56.2, 30.6)| |C|Druid| |Z|Moonglade|
@@ -156,19 +156,19 @@ t Training (7934) |C|Rogue| |R|!Dwarf| |Z|Stormwind City|
 R Enter the SI:7 Headquarters. Travel up stairs toward Master Mathias Shaw |N|(78.7, 60.1)| |O| |C|Rogue| |Z|Stormwind City|
 N Remember to re-equip your main weapon if you switched to a [Dagger] earlier |N|(75.8, 59.8)| |C|Rogue| |Z|Stormwind City|
 T Klaven's Tower |QID|2359| |N|Master Mathias Shaw - (75.8, 59.8)| |C|Rogue| |Z|Stormwind City|
-C Type /lay on the chat and wait until the quest complete itself |QID|2608| |N|Type /lay on the chat and wait until the quest complete itself - (78.1, 59.0)| |Z|Stormwind City|
+C Type /lay on the chat and wait until the quest complete itself |QID|2608| |OIDX|1| |N|Type /lay on the chat and wait until the quest complete itself - (78.1, 59.0)| |Z|Stormwind City|
 T The Touch of Zanzil |QID|2608| |N|Doc Mixilpixil - (78.0, 58.8)| |Z|Stormwind City|
 A The Touch of Zanzil |QID|2609| |N|Doc Mixilpixil - (78.0, 58.8)| |Z|Stormwind City|
-C The Touch of Zanzil |QID|2609| |N|Buy a Leaded Vial from the Shady Dealer (78.2, 59.0)| |Z|Stormwind City|
-C The Touch of Zanzil |QID|2609| |N|Head to the flower vendor (64.3, 60.8)| |Z|Stormwind City|
-C The Touch of Zanzil |QID|2609| |N|Buy a Bronze Tube at the Auction House (53.6, 59.3)| |Z|Stormwind City|
+C The Touch of Zanzil |QID|2609| |OIDX|2| |N|Buy a Leaded Vial from the Shady Dealer (78.2, 59.0)| |Z|Stormwind City|
+C The Touch of Zanzil |QID|2609| |OIDX|1| |N|Head to the flower vendor (64.3, 60.8)| |Z|Stormwind City|
+C The Touch of Zanzil |QID|2609| |OIDX|3| |N|Buy a Bronze Tube at the Auction House (53.6, 59.3)| |Z|Stormwind City|
 R Head to the shop next to the bridge between the Cathedral Square and the Park |N|(53.6, 59.3)| |Z|Stormwind City|
 R If you can't find a bronze tube, you will have to skip this quest, train First Aid to 80, farm a small venom sac from spiders in Duskwood, craft an Anti-Venom and remove the Zanzil poison. |N|(39.8, 46.5)| |Z|Stormwind City|
 T The Touch of Zanzil |QID|2609| |N|Doc Mixilpixil - (78.0, 58.9)| |Z|Stormwind City|
 F Fly to Duskwood |N|Dungar Longdrink - (66.3, 62.1)| |C|Rogue| |Z|Stormwind City|
 T The Tome of Valor |QID|1650| |N|Daphne Stilwell - (42.5, 88.6)| |C|Paladin| |Z|Westfall|
 A The Tome of Valor |QID|1651| |N|Daphne Stilwell - (42.5, 88.6)| |C|Paladin| |Z|Westfall|
-C The Tome of Valor |QID|1651| |N|(42.5, 88.6)| |C|Paladin| |Z|Westfall|
+C The Tome of Valor |QID|1651| |OIDX|1| |N|(42.5, 88.6)| |C|Paladin| |Z|Westfall|
 T The Tome of Valor |QID|1651| |N|(42.5, 88.6)| |C|Paladin| |Z|Westfall|
 A The Tome of Valor |QID|1652| |N|(42.5, 88.6)| |C|Paladin| |Z|Westfall|
 N Buy food/water if needed |C|!Warrior/!Rogue| |Z|Westfall|
@@ -197,17 +197,17 @@ R Travel to Redridge Mountains |N|(33.5, 49.0)| |Z|Redridge Mountains|
 A Blackrock Menace |QID|20| |N|Marshal Marris - (33.5, 49.0)| |Z|Redridge Mountains|
 A What Comes Around... |QID|386| |N|Guard Berton - (26.3, 46.6) (Stockades Dungeon Quest)| |D|Stockades| |Z|Redridge Mountains|
 A An Unwelcome Guest |QID|34| |N|Martie Jainrose - (21.9, 46.3)| |C|Hunter| |Z|Redridge Mountains|
-C An Unwelcome Guest |QID|34| |N|Bellygrub. Loot him for his Tusk (15.7, 49.3)| |C|Hunter| |Z|Redridge Mountains|
+C An Unwelcome Guest |QID|34| |OIDX|1| |N|Bellygrub. Loot him for his Tusk (15.7, 49.3)| |C|Hunter| |Z|Redridge Mountains|
 T An Unwelcome Guest |QID|34| |N|Martie Jainrose - (21.9, 46.3)| |C|Hunter| |Z|Redridge Mountains|
 A Selling Fish |QID|127| |N|Dockmaster Baren - (27.7, 47.4)| |Z|Redridge Mountains|
 A Murloc Poachers |QID|150| |N|Dockmaster Baren - (27.7, 47.4)| |Z|Redridge Mountains|
 C Murloc Scouts and Murloc Tidecallers. Loot them for their Fins and Sunfish |QID|150| |L|1468 8| |N|Murloc Scouts and Murloc Tidecallers. Loot them for their Fins and Sunfish - (56.4, 51.8)| |O| |Z|Redridge Mountains|
-C Selling Fish |QID|127| |N|Murloc Scouts and Murloc Tidecallers. Loot them for their Fins and Sunfish (56.4, 51.8)| |O| |Z|Redridge Mountains|
+C Selling Fish |QID|127| |OIDX|1| |N|Murloc Scouts and Murloc Tidecallers. Loot them for their Fins and Sunfish (56.4, 51.8)| |O| |Z|Redridge Mountains|
 N Be aware the Blackrock Outrunners will cast [Net] on you |N|(61.8, 43.5)| |Z|Redridge Mountains|
 N Alternate between killing Orcs and the Murlocs marked on the map southwest |N|(61.8, 43.5)| |Z|Redridge Mountains|
-C Blackrock Menace |QID|20| |N|Kill Blackrock Grunts and Blackrock Outrunners. Loot them for their Axes (61.8, 43.5)| |Z|Redridge Mountains|
+C Blackrock Menace |QID|20| |OIDX|1| |N|Kill Blackrock Grunts and Blackrock Outrunners. Loot them for their Axes (61.8, 43.5)| |Z|Redridge Mountains|
 C Murloc Scouts and Murloc Tidecallers. Loot them for their Fins and Sunfish |QID|150| |L|1468 8| |N|Murloc Scouts and Murloc Tidecallers. Loot them for their Fins and Sunfish - (56.4, 51.8)| |Z|Redridge Mountains|
-C Selling Fish |QID|127| |N|Murloc Scouts and Murloc Tidecallers. Loot them for their Fins and Sunfish (56.4, 51.8)| |Z|Redridge Mountains|
+C Selling Fish |QID|127| |OIDX|1| |N|Murloc Scouts and Murloc Tidecallers. Loot them for their Fins and Sunfish (56.4, 51.8)| |Z|Redridge Mountains|
 T Blackrock Menace |QID|20| |N|Marshal Marris - (33.5, 49.0)| |Z|Redridge Mountains|
 T Selling Fish |QID|127| |N|Dockmaster Baren - (27.7, 47.4)| |Z|Redridge Mountains|
 T Murloc Poachers |QID|150| |N|Dockmaster Baren - (27.7, 47.4)| |Z|Redridge Mountains|
@@ -222,7 +222,7 @@ T Sven's Revenge |QID|95| |N|the Mound of loose dirt on the ground - (49.9, 77.7
 A Sven's Camp |QID|230| |N|the Mound of loose dirt on the ground - (49.9, 77.7)| |Z|Duskwood|
 T Eight-Legged Menaces |QID|245| |N|Watcher Dodds - (45.1, 67.0)| |Z|Duskwood|
 N Don't go out of your way to complete this objective now, you will complete it later |O| |Z|Duskwood|
-C The Totem of Infliction |QID|101| |N|Kill Black Widow Hatchlings on the way to Abercrombie. Loot them for [Vials of Spider Venom]| |O| |Z|Duskwood|
+C The Totem of Infliction |QID|101| |OIDX|2| |N|Kill Black Widow Hatchlings on the way to Abercrombie. Loot them for [Vials of Spider Venom]| |O| |Z|Duskwood|
 T Deliver the Thread |QID|157| |N|Abercrombie - (28.1, 31.5)| |Z|Duskwood|
 A Zombie Juice |QID|158| |N|Abercrombie - (28.1, 31.5)| |Z|Duskwood|
 T Sven's Camp |QID|230| |N|Sven Yorgen - (7.8, 34.1)| |Z|Duskwood|
@@ -235,7 +235,7 @@ R Go upstairs |N|(43.9, 66.5)| |O| |Z|Elwynn Forest|
 t Train your class spells |N|Zaldimar Wefhellt - (43.2, 66.2)| |C|Mage| |Z|Elwynn Forest|
 t Train your class spells |N|Priestess Josetta - (43.3, 65.7)| |C|Priest| |Z|Elwynn Forest|
 t Train your class spells |N|Keryn Sylvius - (43.9, 65.9)| |C|Rogue| |Z|Elwynn Forest|
-C The Legend of Stalvan |QID|70| |N|the Storage Chest. Loot it for An Undelivered Letter (44.3, 65.8)| |Z|Elwynn Forest|
+C The Legend of Stalvan |QID|70| |OIDX|1| |N|the Storage Chest. Loot it for An Undelivered Letter (44.3, 65.8)| |Z|Elwynn Forest|
 R Travel to Stormwind City |N|(43.1, 80.4)| |O| |C|Mage| |Z|Stormwind City|
 t Train your class spells |N|Jennea - (36.9, 81.1)| |C|Mage| |Z|Stormwind City|
 A Retrieval for Mauren |QID|1078| |N|Collin Mauren - (43.1, 80.4)| |C|!Hunter| |Z|Stormwind City|
@@ -243,12 +243,12 @@ T Devils in Westfall |QID|1076| |N|Collin Mauren - (43.1, 80.4)| |Z|Stormwind Ci
 A The Color of Blood |QID|388| |N|Nikova Raskol patrols in Old Town - (72.4, 47.7) (Stockades Dungeon Quest)| |D|Stockades| |Z|Stormwind City|
 A The Stockade Riots |QID|391| |N|Warden Thelwater - (41.1, 58.1) (Stockades Dungeon Quest)| |D|Stockades| |Z|Stormwind City|
 A Quell The Uprising |QID|387| |N|Warden Thelwater - (41.1, 58.1) (Stockades Dungeon Quest)| |D|Stockades| |Z|Stormwind City|
-C Quell The Uprising |QID|387| |N|Kill the Defias. Loot them for their Bandanas (Stockades Dungeon Quest)| |D|Stockades| |Z|Stormwind City|
-C The Color of Blood |QID|388| |N|Kill the Defias. Loot them for their Bandanas (Stockades Dungeon Quest)| |D|Stockades| |Z|Stormwind City|
+C Quell The Uprising |QID|387| |OIDX|1| |N|Kill the Defias. Loot them for their Bandanas (Stockades Dungeon Quest)| |D|Stockades| |Z|Stormwind City|
+C The Color of Blood |QID|388| |OIDX|1| |N|Kill the Defias. Loot them for their Bandanas (Stockades Dungeon Quest)| |D|Stockades| |Z|Stormwind City|
 N Kill Dextren Ward on the west prison wing. Loot him for his Hand |N|(Stockades Dungeon Quest)| |D|Stockades| |Z|Stormwind City|
 C Kill Targorr the Dread. Loot him for his Head. Targorr has a random spawn location |N|Kill Targorr the Dread. Loot him for his Head. Targorr has a random spawn location (Stockades Dungeon Quest)| |D|Stockades| |Z|Stormwind City|
 N Ensure you have 3 [Silk Cloth] for the follow up of this quest chain |N|(Stockades Dungeon Quest)| |D|Stockades| |Z|Stormwind City|
-C The Stockade Riots |QID|391| |N|Kill Bazil Thredd on the east prison wing. Loot him for his Head (Stockades Dungeon Quest)| |D|Stockades| |Z|Stormwind City|
+C The Stockade Riots |QID|391| |OIDX|1| |N|Kill Bazil Thredd on the east prison wing. Loot him for his Head (Stockades Dungeon Quest)| |D|Stockades| |Z|Stormwind City|
 C Bazil Thredd on the east prison wing. Loot him for his Head |QID|2746| |L|4306 3| |N|Kill Bazil Thredd on the east prison wing. Loot him for his Head (Stockades Dungeon Quest)| |D|Stockades| |Z|Stormwind City|
 T Quell The Uprising |QID|387| |N|Warden Thelwater - (41.1, 58.1) (Stockades Dungeon Quest)| |D|Stockades| |Z|Stormwind City|
 T The Stockade Riots |QID|391| |N|Warden Thelwater - (41.1, 58.1) (Stockades Dungeon Quest)| |D|Stockades| |Z|Stormwind City|
@@ -267,7 +267,7 @@ T Infiltrating the Castle |QID|2745| |N|Tyrion - (69.2, 14.4) (Stockades Dungeon
 A Items of Some Consequence |QID|2746| |N|Tyrion - (69.2, 14.4) (Stockades Dungeon Quest)| |D|Stockades| |Z|Stormwind City|
 R Exit Stormwind. Travel to Clara's Farm House in Elwynn Forest |N|(32.4, 49.9) (Stockades Dungeon Quest)| |D|Stockades| |Z|Elwynn Forest|
 N If you still need [Silk Cloth] buy some from the Auction House |N|(34.0, 57.2) (Stockades Dungeon Quest)| |D|Stockades| |Z|Elwynn Forest|
-C Items of Some Consequence |QID|2746| |N|Loot Clara's Fresh Apples on the table (34.0, 57.2) (Stockades Dungeon Quest)| |D|Stockades| |Z|Elwynn Forest|
+C Items of Some Consequence |QID|2746| |OIDX|2| |N|Loot Clara's Fresh Apples on the table (34.0, 57.2) (Stockades Dungeon Quest)| |D|Stockades| |Z|Elwynn Forest|
 R Travel to Stormwind City |N|(70.3, 27.2) (Stockades Dungeon Quest)| |D|Stockades| |Z|Stormwind City|
 R the Stormwind Keep |N|(72.0, 21.5) (Stockades Dungeon Quest)| |D|Stockades| |Z|Stormwind City|
 N Ensure your party has all turned in Items of Some Consequence before you accept The Attack! |N|(69.2, 14.4) (Stockades Dungeon Quest)| |D|Stockades| |Z|Stormwind City|
@@ -275,7 +275,7 @@ N Automatic quest accept has been turned off for this step. Note you may not be 
 T Items of Some Consequence |QID|2746| |N|Tyrion - (69.2, 14.4) (Stockades Dungeon Quest)| |D|Stockades| |Z|Stormwind City|
 A The Attack! |QID|434| |N|Tyrion - (69.2, 14.4) (Stockades Dungeon Quest)| |D|Stockades| |Z|Stormwind City|
 N Kill Lord Gregor Lescovar and Marzon the Silent Blade |N|(68.0, 14.1) (Stockades Dungeon Quest)| |D|Stockades| |Z|Stormwind City|
-C The Attack! |QID|434| |N|Wait in the center of the courtyard for Lord Gregor Lescovar and Marzon the Silent Blade to arrive. This takes roughly 2 minutes (68.0, 14.1) (Stockades Dungeon Quest)| |D|Stockades| |Z|Stormwind City|
+C The Attack! |QID|434| |OIDX|1| |N|Wait in the center of the courtyard for Lord Gregor Lescovar and Marzon the Silent Blade to arrive. This takes roughly 2 minutes (68.0, 14.1) (Stockades Dungeon Quest)| |D|Stockades| |Z|Stormwind City|
 T The Attack! |QID|434| |N|Elling Trias up stairs - (59.9, 64.2) (Stockades Dungeon Quest)| |D|Stockades| |Z|Stormwind City|
 A The Head of the Beast |QID|394| |N|Elling Trias up stairs - (59.9, 64.2) (Stockades Dungeon Quest)| |D|Stockades| |Z|Stormwind City|
 R Enter the SI:7 Headquarters. Travel up stairs toward Master Mathias Shaw |N|(78.7, 60.1) (Stockades Dungeon Quest)| |D|Stockades| |Z|Stormwind City|
@@ -314,7 +314,7 @@ A Look To The Stars |QID|177| |N|Blind Mary - (81.5, 59.0)| |Z|Duskwood|
 N Don't start the quest for it yet |O| |Z|Duskwood|
 C Keep at eye out for [An Old History Book]. This is a zone-wide drop in Duskwood |QID|337| |L|2794 1| |N|Keep at eye out for [An Old History Book]. This is a zone-wide drop in Duskwood| |O| |Z|Duskwood|
 N The Insane Ghoul may be inside of the chapel or walking around outside |N|(81.0, 71.7)| |Z|Duskwood|
-C Look To The Stars |QID|177| |N|the Insane Ghoul. Loot him for Mary's Looking Glass (81.0, 71.7)| |Z|Duskwood|
+C Look To The Stars |QID|177| |OIDX|1| |N|the Insane Ghoul. Loot him for Mary's Looking Glass (81.0, 71.7)| |Z|Duskwood|
 T Look To The Stars |QID|177| |N|Viktori Prism'Antras - (79.8, 48.0)| |Z|Duskwood|
 A Worgen in the Woods |QID|173| |N|Calor - (75.3, 48.0)| |Z|Duskwood|
 T The Shadowy Figure |QID|262| |N|Madame Eva inside - (75.8, 45.3)| |Z|Duskwood|
@@ -338,13 +338,13 @@ A Return to Sven |QID|268| |N|Jitters - (18.4, 56.4)| |Z|Duskwood|
 T Return to Jitters |QID|240| |N|Jitters - (18.4, 56.4)| |Z|Duskwood|
 N Don't start the quest for it yet |O| |Z|Duskwood|
 C Keep at eye out for [An Old History Book]. This is a zone-wide drop in Duskwood |QID|337| |L|2794 1| |N|Keep at eye out for [An Old History Book]. This is a zone-wide drop in Duskwood| |O| |Z|Duskwood|
-C The Night Watch |QID|57| |N|Skeletal Fiends and Skeletal Horrors. Loot them for their Rot Blossoms (21.2, 47.1)| |Z|Duskwood|
-C Gather Rot Blossoms |QID|156| |N|Skeletal Fiends and Skeletal Horrors. Loot them for their Rot Blossoms (21.2, 47.1)| |Z|Duskwood|
+C The Night Watch |QID|57| |OIDX|1| |N|Skeletal Fiends and Skeletal Horrors. Loot them for their Rot Blossoms (21.2, 47.1)| |Z|Duskwood|
+C Gather Rot Blossoms |QID|156| |OIDX|1| |N|Skeletal Fiends and Skeletal Horrors. Loot them for their Rot Blossoms (21.2, 47.1)| |Z|Duskwood|
 T Return to Sven |QID|268| |N|Sven Yorgen - (7.8, 34.1)| |Z|Duskwood|
 A Proving Your Worth |QID|323| |N|Sven Yorgen - (7.8, 34.1)| |Z|Duskwood|
 N Enter the Dawning Wood Catacombs for the Skeletal Warders |N|(16.0, 38.8)| |Z|Duskwood|
 N Mor'Ladim a level 35 Elite patrols around the cemetery. Be cautious of him |N|(16.0, 38.8)| |Z|Duskwood|
-C Proving Your Worth |QID|323| |N|Skeletal Raiders, Skeletal Healers and Skeletal Warders (16.0, 38.8)| |Z|Duskwood|
+C Proving Your Worth |QID|323| |OIDX|1| |N|Skeletal Raiders, Skeletal Healers and Skeletal Warders (16.0, 38.8)| |Z|Duskwood|
 T Proving Your Worth |QID|323| |N|Sven Yorgen - (7.8, 34.1)| |Z|Duskwood|
 A Seeking Wisdom |QID|269| |N|Sven Yorgen - (7.8, 34.1)| |Z|Duskwood|
 N Grind mobs until your Hearthstone is off cooldown |O| |Z|Duskwood|
@@ -373,26 +373,26 @@ A Wanted: Gath'Ilzogg |QID|169| |N|on The Wanted Poster - (29.6, 46.2)| |Z|Redri
 A Solomon's Law |QID|91| |N|Bailiff Conacher - (29.7, 44.3)| |Z|Redridge Mountains|
 A Wanted: Lieutenant Fangore |QID|180| |N|on The Wanted Poster - (26.8, 46.4)| |Z|Redridge Mountains|
 A An Unwelcome Guest |QID|34| |N|Martie Jainrose - (21.9, 46.3)| |Z|Redridge Mountains|
-C An Unwelcome Guest |QID|34| |N|Bellygrub. Loot him for his Tusk (15.7, 49.3)| |Z|Redridge Mountains|
+C An Unwelcome Guest |QID|34| |OIDX|1| |N|Bellygrub. Loot him for his Tusk (15.7, 49.3)| |Z|Redridge Mountains|
 T An Unwelcome Guest |QID|34| |N|Martie Jainrose - (21.9, 46.3)| |Z|Redridge Mountains|
 N Split pull him using [Blizzard] or [Flamestrike] |N|(27.6, 21.8)| |C|Mage| |Z|Redridge Mountains|
-C Howling in the Hills |QID|126| |N|Yowler. Loot him for his Paw (27.6, 21.8)| |Z|Redridge Mountains|
+C Howling in the Hills |QID|126| |OIDX|1| |N|Yowler. Loot him for his Paw (27.6, 21.8)| |Z|Redridge Mountains|
 T A Watchful Eye |QID|94| |N|the Old Lion Statue - (84.5, 46.8)| |Z|Redridge Mountains|
 A Looking Further |QID|248| |N|the Old Lion Statue - (84.5, 46.8)| |Z|Redridge Mountains|
-C Solomon's Law |QID|91| |N|the Shadowhides. Loot them for their Pendants (77.5, 36.3)| |Z|Redridge Mountains|
-C Shadow Magic |QID|115| |N|Kill Blackrock Shadowcasters. Loot them for their Orbs| |O| |Z|Redridge Mountains|
-C Tharil'zun |QID|19| |N|Tharil'zun. Loot him for his Head (71.4, 55.1)| |O| |Z|Redridge Mountains|
+C Solomon's Law |QID|91| |OIDX|1| |N|the Shadowhides. Loot them for their Pendants (77.5, 36.3)| |Z|Redridge Mountains|
+C Shadow Magic |QID|115| |OIDX|1| |N|Kill Blackrock Shadowcasters. Loot them for their Orbs| |O| |Z|Redridge Mountains|
+C Tharil'zun |QID|19| |OIDX|1| |N|Tharil'zun. Loot him for his Head (71.4, 55.1)| |O| |Z|Redridge Mountains|
 N Kill Gath'Ilzogg. Loot him for his Head |N|(69.6, 55.8)| |Z|Redridge Mountains|
-C Wanted: Gath'Ilzogg |QID|169| |N|Enter Stonewatch Keep (69.6, 55.8)| |Z|Redridge Mountains|
-C Shadow Magic |QID|115| |N|Kill Blackrock Shadowcasters. Loot them for their Orbs| |O| |Z|Redridge Mountains|
-C Tharil'zun |QID|19| |N|Tharil'zun. Loot him for his Head (71.4, 55.1)| |Z|Redridge Mountains|
-C Shadow Magic |QID|115| |N|Blackrock Shadowcasters. Loot them for their Orbs (66.7, 56.3)| |Z|Redridge Mountains|
+C Wanted: Gath'Ilzogg |QID|169| |OIDX|1| |N|Enter Stonewatch Keep (69.6, 55.8)| |Z|Redridge Mountains|
+C Shadow Magic |QID|115| |OIDX|1| |N|Kill Blackrock Shadowcasters. Loot them for their Orbs| |O| |Z|Redridge Mountains|
+C Tharil'zun |QID|19| |OIDX|1| |N|Tharil'zun. Loot him for his Head (71.4, 55.1)| |Z|Redridge Mountains|
+C Shadow Magic |QID|115| |OIDX|1| |N|Blackrock Shadowcasters. Loot them for their Orbs (66.7, 56.3)| |Z|Redridge Mountains|
 N Don't accept the follow up |N|(63.2, 49.8)| |Z|Redridge Mountains|
 T Looking Further |QID|248| |N|An Empty Jar on the barrel at the top of Stonewatch Tower - (63.2, 49.8)| |Z|Redridge Mountains|
-C Blackrock Bounty |QID|128| |N|Blackrock Champions (28.9, 13.2)| |Z|Redridge Mountains|
+C Blackrock Bounty |QID|128| |OIDX|1| |N|Blackrock Champions (28.9, 13.2)| |Z|Redridge Mountains|
 A Missing In Action |QID|219| |N|Corporal Keeshan in the back of Render's Rock - (28.4, 12.6)| |Z|Redridge Mountains|
 N Be careful to not pull too many mobs right after you leave the cave |N|(33.4, 48.5)| |Z|Redridge Mountains|
-C Missing In Action |QID|219| |N|Escort Corporal Keeshan back to Lakeshire (33.4, 48.5)| |Z|Redridge Mountains|
+C Missing In Action |QID|219| |OIDX|1| |N|Escort Corporal Keeshan back to Lakeshire (33.4, 48.5)| |Z|Redridge Mountains|
 T Tharil'zun |QID|19| |N|Marshal Marris - (33.5, 49.0)| |Z|Redridge Mountains|
 T Shadow Magic |QID|115| |N|Marshal Marris - (33.5, 49.0)| |Z|Redridge Mountains|
 T Wanted: Gath'Ilzogg |QID|169| |N|Magistrate Solomon - (30.0, 44.5)| |Z|Redridge Mountains|

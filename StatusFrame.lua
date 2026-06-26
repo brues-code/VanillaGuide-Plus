@@ -260,6 +260,7 @@ function TurtleGuide:UpdateStatusFrame()
 			elseif action == "COMPLETE" then incomplete = not complete and (not optional or logi)
 			elseif action == "NOTE" or action == "KILL" then incomplete = not optional or haslootitem
 			elseif action == "GRIND" then incomplete = needlevel
+			elseif action == "TRAIN" then incomplete = not self:IsTrainingCompleted(name)
 			else incomplete = not logi end
 
 			if incomplete then nextstep = i end

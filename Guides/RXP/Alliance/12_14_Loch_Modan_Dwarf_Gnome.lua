@@ -51,10 +51,10 @@ N Kill Mountain Boars. Loot them for their Boar Intestines |O| |Z|Ironforge|
 N Kill Forest Lurkers. Loot them for their Ichor |O| |Z|Ironforge|
 C Collect Boar Intestines (x3) |QID|418| |L|3172 3| |N|Kill Elder Black Bears. Loot them for their Bear Meat| |O| |Z|Ironforge|
 R Travel to Loch Modan |N|(37.7, 16.8)| |O| |Z|Loch Modan|
-C Collect Tunnel Rat Ear (x12) |QID|416| |N|(37.7, 16.8)| |O| |Z|Loch Modan|
+C Collect Tunnel Rat Ear (x12) |QID|416| |OIDX|1| |N|(37.7, 16.8)| |O| |Z|Loch Modan|
 R Enter the Silver Stream Mine |N|(35.5, 19.0)| |O| |Z|Loch Modan|
-C the Miners' League Crates inside the mine. Loot them for the Miners' Gear |QID|307| |N|the Miners' League Crates inside the mine. Loot them for the Miners' Gear - (35.9, 22.6)| |C|!Paladin/!Warrior| |Z|Loch Modan|
-C Tunnel Rats. Loot them for their Ears |QID|416| |N|Tunnel Rats. Loot them for their Ears - (35.5, 16.8)| |Z|Loch Modan|
+C the Miners' League Crates inside the mine. Loot them for the Miners' Gear |QID|307| |OIDX|1| |N|the Miners' League Crates inside the mine. Loot them for the Miners' Gear - (35.9, 22.6)| |C|!Paladin/!Warrior| |Z|Loch Modan|
+C Tunnel Rats. Loot them for their Ears |QID|416| |OIDX|1| |N|Tunnel Rats. Loot them for their Ears - (35.5, 16.8)| |Z|Loch Modan|
 R Travel to Ironforge |N|(81.0, 43.5)| |O| |Z|Ironforge|
 C x20,cooking --Chunk of Boar Meat (1-10) |QID|2178| |L|769 10| |N|Mountain Boars. Loot them for their [Chunks of Boar Meat] (80.6, 36.0)| |O| |Z|Ironforge|
 N Don't go out of your way to farm this now. Simply kill and loot all the boars you're passing by |N|(80.6, 36.0)| |O| |Z|Ironforge|
@@ -86,7 +86,7 @@ B Simple Wood (1) |L|4470 1| |N|Yanni Stoutheart - (34.8, 48.6)| |Z|Loch Modan|
 B Flint and Tinder (1) |L|4471 1| |N|Yanni Stoutheart - (34.8, 48.6)| |Z|Loch Modan|
 N Be careful as Stonesplinter Scouts cast [Shoot] (Ranged Cast: Deals 14-20 damage) |N|(26.7, 56.9)| |Z|Loch Modan|
 N This is a hyperspawn area. You should not need to move from here |N|(26.7, 56.9)| |Z|Loch Modan|
-C Stonesplinter Troggs and Stonesplinter Scouts. Loot them for their Trogg Stone Teeth |QID|224| |N|Stonesplinter Troggs and Stonesplinter Scouts. Loot them for their Trogg Stone Teeth - (26.7, 56.9)| |Z|Loch Modan|
+C Stonesplinter Troggs and Stonesplinter Scouts. Loot them for their Trogg Stone Teeth |QID|224| |OIDX|1| |N|Stonesplinter Troggs and Stonesplinter Scouts. Loot them for their Trogg Stone Teeth - (26.7, 56.9)| |Z|Loch Modan|
 R Run up the dirt path then drop down into the bunker |N|(23.7, 75.5)| |O| |Z|Loch Modan|
 T The Trogg Threat |QID|267| |N|Captain Rugelfuss inside the bunker - (23.2, 73.7)| |Z|Loch Modan|
 T In Defense of the King's Lands |QID|224| |N|Mountaineer Cobbleflint - (22.1, 73.1)| |Z|Loch Modan|
@@ -95,7 +95,7 @@ R Travel to Ironforge |N|(84.3, 51.4)| |O| |C|Paladin| |R|Dwarf| |Z|Ironforge|
 R Travel to Dun Morogh |N|(78.3, 58.1)| |O| |C|Paladin| |R|Dwarf| |Z|Dun Morogh|
 T The Tome of Divinity |QID|1783| |N|Narm Faulk - (78.3, 58.1)| |C|Paladin| |R|Dwarf| |Z|Dun Morogh|
 A The Tome of Divinity |QID|1784| |N|Narm Faulk - (78.3, 58.1)| |C|Paladin| |R|Dwarf| |Z|Dun Morogh|
-C The Tome of Divinity |QID|1784| |N|Dark Iron Spies. Loot them for the Dark Iron Script Dark Iron Script (1)| |C|Paladin| |R|Dwarf| |Z|Dun Morogh|
+C The Tome of Divinity |QID|1784| |OIDX|1| |N|Dark Iron Spies. Loot them for the Dark Iron Script Dark Iron Script (1)| |C|Paladin| |R|Dwarf| |Z|Dun Morogh|
 R Travel to Ironforge |N|(21.1, 17.3)| |C|Mage/Priest/Warlock| |Z|Ironforge|
 N Buy a [Smoldering Wand] from him |N|(23.1, 15.9)| |C|Mage/Priest/Warlock| |Z|Ironforge|
 B Smoldering Wand (1) |L|5208 1| |N|Harick Boulderdrum downstairs - (23.1, 15.9)| |C|Mage/Priest/Warlock| |Z|Ironforge|

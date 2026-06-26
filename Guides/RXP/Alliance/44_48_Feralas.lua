@@ -29,11 +29,11 @@ T Return to Feathermoon Stronghold |QID|2867| |N|Shandris Feathermoon and Latron
 A Against the Hatecrest |QID|3130| |N|Shandris Feathermoon and Latronicus Moonspear - (30.3, 46.2)| |Z|Feralas|
 T Against the Hatecrest |QID|3130| |N|Shandris Feathermoon and Latronicus Moonspear - (30.3, 46.2)| |Z|Feralas|
 A Against the Hatecrest |QID|2869| |N|Shandris Feathermoon and Latronicus Moonspear - (30.3, 46.2)| |Z|Feralas|
-C Against the Hatecrest |QID|2869| |N|Hatecrest Screamers, Hatecrest Wave Riders, Hatecrest Warriors and Hatecrest Sirens. Loot them for their Naga Scales (26.6, 53.4)| |Z|Feralas|
+C Against the Hatecrest |QID|2869| |OIDX|1| |N|Hatecrest Screamers, Hatecrest Wave Riders, Hatecrest Warriors and Hatecrest Sirens. Loot them for their Naga Scales (26.6, 53.4)| |Z|Feralas|
 T Against the Hatecrest |QID|2869| |N|Latronicus Moonspear - (30.4, 46.2)| |Z|Feralas|
 A Against Lord Shalzaru |QID|2870| |N|Latronicus Moonspear - (30.4, 46.2)| |Z|Feralas|
 R the Isle of Dread. Enter Shalzaru's Lair |N|(26.1, 67.4)| |O| |Z|Feralas|
-C Against Lord Shalzaru |QID|2870| |N|Lord Shalzaru. Loot him for the Mysterious Relic (28.5, 70.6)| |Z|Feralas|
+C Against Lord Shalzaru |QID|2870| |OIDX|1| |N|Lord Shalzaru. Loot him for the Mysterious Relic (28.5, 70.6)| |Z|Feralas|
 N Don't start the quest for this yet |Z|Feralas|
 C Do loops around the cave grinding Nagas until you get the [OOX-22/FE Distress Beacon] |QID|2766| |L|8705 1| |N|Do loops around the cave grinding Nagas until you get the [OOX-22/FE Distress Beacon]| |Z|Feralas|
 R Exit the naga cave and head southeast towards the ocean |N|(38.7, 75.1)| |O| |Z|Feralas|
@@ -58,29 +58,29 @@ A Delivering the Relic |QID|2871| |N|Latronicus Moonspear - (30.4, 46.2)| |Z|Fer
 T Delivering the Relic |QID|2871| |N|Vestia Moonspear - (30.1, 45.1)| |Z|Feralas|
 R Swim to the mainland |N|(45.1, 44.9)| |O| |Z|Feralas|
 N the Screecher Spirit |N|(57.8, 50.8)| |O| |Z|Feralas|
-C Screecher Spirits |QID|3520| |N|Vale Screechers and Rogue Vale Screechers (57.8, 50.8)| |O| |Z|Feralas|
-C Rhapsody's Kalimdor Kocktail |QID|1452| |N|Ironfur Bears, Grizzled Ironfur Bears and Groddoc Apes. Loot them for their Livers (58.8, 59.0)| |O| |Z|Feralas|
+C Screecher Spirits |QID|3520| |OIDX|1| |N|Vale Screechers and Rogue Vale Screechers (57.8, 50.8)| |O| |Z|Feralas|
+C Rhapsody's Kalimdor Kocktail |QID|1452| |OIDX|2| |N|Ironfur Bears, Grizzled Ironfur Bears and Groddoc Apes. Loot them for their Livers (58.8, 59.0)| |O| |Z|Feralas|
 C Collect item |QID|2766| |L|8705 1| |Z|Feralas|
 A Find OOX-22/FE! |QID|2766| |Z|Feralas|
 T Find OOX-22/FE! |QID|2766| |N|the Homing Robot OOX-22/FE - (53.4, 55.7)| |Z|Feralas|
 A Rescue OOX-22/FE! |QID|2767| |N|the Homing Robot OOX-22/FE - (53.4, 55.7)| |Z|Feralas|
 C a Hippogryph Egg from a nest |QID|2741| |L|8564 1| |N|a Hippogryph Egg from a nest - (55.9, 76.0)| |Z|Feralas|
 N Prioritize killing Gordunni Shamans. You may need to kill other Gordunni Ogres to force Gordunni Shamans to spawn |N|(59.5, 63.1)| |Z|Feralas|
-C The High Wilderness |QID|2982| |N|Kill Gordunni Shamans, Gordunni Warlocks and Gordunni Brutes (59.5, 63.1)| |Z|Feralas|
-C Rhapsody's Kalimdor Kocktail |QID|1452| |N|Ironfur Bears, Grizzled Ironfur Bears and Groddoc Apes. Loot them for their Livers (59.3, 60.5)| |O| |Z|Feralas|
+C The High Wilderness |QID|2982| |OIDX|2| |N|Kill Gordunni Shamans, Gordunni Warlocks and Gordunni Brutes (59.5, 63.1)| |Z|Feralas|
+C Rhapsody's Kalimdor Kocktail |QID|1452| |OIDX|2| |N|Ironfur Bears, Grizzled Ironfur Bears and Groddoc Apes. Loot them for their Livers (59.3, 60.5)| |O| |Z|Feralas|
 N the Screecher Spirit |N|(58.6, 58.8)| |Z|Feralas|
-C Screecher Spirits |QID|3520| |N|Vale Screechers and Rogue Vale Screechers (58.6, 58.8)| |Z|Feralas|
-C Rhapsody's Kalimdor Kocktail |QID|1452| |N|Ironfur Bears, Grizzled Ironfur Bears and Groddoc Apes. Loot them for their Livers (59.3, 60.5)| |Z|Feralas|
+C Screecher Spirits |QID|3520| |OIDX|1| |N|Vale Screechers and Rogue Vale Screechers (58.6, 58.8)| |Z|Feralas|
+C Rhapsody's Kalimdor Kocktail |QID|1452| |OIDX|2| |N|Ironfur Bears, Grizzled Ironfur Bears and Groddoc Apes. Loot them for their Livers (59.3, 60.5)| |Z|Feralas|
 N Grimtotem Raiders cast [Net] which immobilizes movement for 10 seconds |N|(65.9, 45.7)| |Z|Feralas|
 N Kindal Moonweaver |N|(65.9, 45.7)| |Z|Feralas|
 A Freedom for All Creatures |QID|2969| |N|some of the Grimtotem around the giant cage containing Captured Sprite Darters before accepting this escort quest - (65.9, 45.7)| |Z|Feralas|
 N Kill any Grimtotem that are attacking the Captured Sprite Darters |N|(66.7, 46.8)| |Z|Feralas|
 N Grimtotem Raiders cast [Net] which immobilizes movement for 10 seconds |N|(66.7, 46.8)| |Z|Feralas|
-C Freedom for All Creatures |QID|2969| |N|the Cage Door to release the Captured Sprite Darters (66.7, 46.8)| |Z|Feralas|
+C Freedom for All Creatures |QID|2969| |OIDX|1| |N|the Cage Door to release the Captured Sprite Darters (66.7, 46.8)| |Z|Feralas|
 T Freedom for All Creatures |QID|2969| |N|Kindal Moonweaver and Jer'kai Moonweaver - (65.9, 45.7)| |Z|Feralas|
 A Doling Justice |QID|2970| |N|Kindal Moonweaver and Jer'kai Moonweaver - (65.9, 45.7)| |Z|Feralas|
 N Grimtotem Raiders cast [Net] which immobilizes movement for 10 seconds |N|(66.8, 38.8)| |Z|Feralas|
-C Doling Justice |QID|2970| |N|Grimtotem Naturalists, Grimtotem Raiders and Grimtotem Shamans (66.8, 38.8)| |Z|Feralas|
+C Doling Justice |QID|2970| |OIDX|1| |N|Grimtotem Naturalists, Grimtotem Raiders and Grimtotem Shamans (66.8, 38.8)| |Z|Feralas|
 T Doling Justice |QID|2970| |N|Jer'kai Moonweaver - (65.9, 45.6)| |Z|Feralas|
 A Doling Justice |QID|2972| |N|Jer'kai Moonweaver - (65.9, 45.6)| |Z|Feralas|
 T The Woodpaw Gnolls |QID|4131| |N|the Large Leather Backpacks on the tree - (73.3, 56.3)| |Z|Feralas|
@@ -91,7 +91,7 @@ R Enter The Writhering Deep Hive from the lower southwest entrance |N|(72.8, 64.
 N You must leave your shapeshift form to turn in this quest |N|(72.1, 63.7)| |C|Druid| |Z|Feralas|
 T The Writhing Deep |QID|4135| |N|the Zukk'ash Pod - (72.1, 63.7)| |Z|Feralas|
 A Freed from the Hive |QID|4265| |N|the Zukk'ash Pod - (72.1, 63.7)| |Z|Feralas|
-C Freed from the Hive |QID|4265| |N|Wait out the RP (72.1, 63.7)| |Z|Feralas|
+C Freed from the Hive |QID|4265| |OIDX|1| |N|Wait out the RP (72.1, 63.7)| |Z|Feralas|
 N Buy food/water if needed |N|(66.7, 46.6)| |C|!Warrior/!Rogue| |Z|Feralas|
 N Buy food if needed |N|(66.7, 46.6)| |C|Warrior/Rogue| |Z|Feralas|
 T The Mark of Quality |QID|2821| |N|Pratt McGrubben - (30.6, 42.7)| |Z|Feralas|
@@ -138,25 +138,25 @@ A A Sign of Hope |QID|721| |N|(53.4, 43.4) (Ulda Dungeon Quest)| |D|Ulda| |Z|Bad
 A Solution to Doom |QID|709| |N|Theldurin the Lost - (51.4, 76.9) (Ulda Dungeon Quest)| |D|Ulda| |Z|Badlands|
 R Travel to Westfall |N|(54.5, 57.8) (Ulda Dungeon Quest)| |D|Ulda| |Z|Westfall|
 N This can be only be completed OUTSIDE of Uldaman |N|(Ulda Dungeon Quest)| |D|Ulda| |Z|Westfall|
-C Agmond's Fate |QID|704| |N|Loot the Carved Stone Urns on the ground (Ulda Dungeon Quest)| |D|Ulda| |Z|Westfall|
+C Agmond's Fate |QID|704| |OIDX|1| |N|Loot the Carved Stone Urns on the ground (Ulda Dungeon Quest)| |D|Ulda| |Z|Westfall|
 N This can be completed INSIDE and OUTSIDE of Uldaman |N|(Ulda Dungeon Quest)| |D|Ulda| |Z|Westfall|
-C Uldaman Reagent Run |QID|17| |N|Loot the Magenta Fungus Caps on the ground (Ulda Dungeon Quest)| |D|Ulda| |Z|Westfall|
+C Uldaman Reagent Run |QID|17| |OIDX|1| |N|Loot the Magenta Fungus Caps on the ground (Ulda Dungeon Quest)| |D|Ulda| |Z|Westfall|
 T A Sign of Hope |QID|721| |N|Hammertoe Grez - (54.0, 57.7) (Ulda Dungeon Quest)| |D|Ulda| |Z|Westfall|
 A Amulet of Secrets |QID|722| |N|Hammertoe Grez - (54.0, 57.7) (Ulda Dungeon Quest)| |D|Ulda| |Z|Westfall|
 N This is completed OUTSIDE of Uldaman |N|(54.1, 58.2) (Ulda Dungeon Quest)| |D|Ulda| |Z|Westfall|
-C Amulet of Secrets |QID|722| |N|Magregan Deepshadow. Loot him for Hammertoe's Amulet (54.1, 58.2) (Ulda Dungeon Quest)| |D|Ulda| |Z|Westfall|
+C Amulet of Secrets |QID|722| |OIDX|1| |N|Magregan Deepshadow. Loot him for Hammertoe's Amulet (54.1, 58.2) (Ulda Dungeon Quest)| |D|Ulda| |Z|Westfall|
 N This is completed OUTSIDE of Uldaman |N|(54.1, 58.2) (Ulda Dungeon Quest)| |D|Ulda| |Z|Westfall|
-C Solution to Doom |QID|709| |N|the Ancient Chest. Loot it for the Tablet of Ryun'eh (54.1, 58.2) (Ulda Dungeon Quest)| |D|Ulda| |Z|Westfall|
+C Solution to Doom |QID|709| |OIDX|1| |N|the Ancient Chest. Loot it for the Tablet of Ryun'eh (54.1, 58.2) (Ulda Dungeon Quest)| |D|Ulda| |Z|Westfall|
 N This is completed OUTSIDE of Uldaman |N|(53.9, 58.6) (Ulda Dungeon Quest)| |D|Ulda| |Z|Westfall|
-C Reclaimed Treasures |QID|1360| |N|Krom Stoutarm's Treasure on the ground (53.9, 58.6) (Ulda Dungeon Quest)| |D|Ulda| |Z|Westfall|
+C Reclaimed Treasures |QID|1360| |OIDX|1| |N|Krom Stoutarm's Treasure on the ground (53.9, 58.6) (Ulda Dungeon Quest)| |D|Ulda| |Z|Westfall|
 T Amulet of Secrets |QID|722| |N|Hammertoe Grez - (54.0, 57.7) (Ulda Dungeon Quest)| |D|Ulda| |Z|Westfall|
 A Prospect of Faith |QID|723| |N|Hammertoe Grez - (54.0, 57.7) (Ulda Dungeon Quest)| |D|Ulda| |Z|Westfall|
 N Prioritize the Carved Stone Urns. This can only be completed OUTSIDE of Uldaman. You can finish the Magenta Fungus Caps once inside |N|(53.9, 57.8) (Ulda Dungeon Quest)| |D|Ulda| |Z|Westfall|
-C Agmond's Fate |QID|704| |N|the Carved Stone Urns and Magenta Fungus Caps on the ground (53.9, 57.8) (Ulda Dungeon Quest)| |D|Ulda| |Z|Westfall|
-C Uldaman Reagent Run |QID|17| |N|the Carved Stone Urns and Magenta Fungus Caps on the ground (53.9, 57.8) (Ulda Dungeon Quest)| |D|Ulda| |Z|Westfall|
+C Agmond's Fate |QID|704| |OIDX|1| |N|the Carved Stone Urns and Magenta Fungus Caps on the ground (53.9, 57.8) (Ulda Dungeon Quest)| |D|Ulda| |Z|Westfall|
+C Uldaman Reagent Run |QID|17| |OIDX|1| |N|the Carved Stone Urns and Magenta Fungus Caps on the ground (53.9, 57.8) (Ulda Dungeon Quest)| |D|Ulda| |Z|Westfall|
 N This can be only be completed OUTSIDE of Uldaman |N|(53.9, 57.8) (Ulda Dungeon Quest)| |D|Ulda| |Z|Westfall|
-C Agmond's Fate |QID|704| |N|the Carved Stone Urns on the ground (53.9, 57.8) (Ulda Dungeon Quest)| |D|Ulda| |Z|Westfall|
-C Uldaman Reagent Run |QID|17| |N|Loot the Magenta Fungus Caps on the ground (Ulda Dungeon Quest)| |D|Ulda| |Z|Westfall|
+C Agmond's Fate |QID|704| |OIDX|1| |N|the Carved Stone Urns on the ground (53.9, 57.8) (Ulda Dungeon Quest)| |D|Ulda| |Z|Westfall|
+C Uldaman Reagent Run |QID|17| |OIDX|1| |N|Loot the Magenta Fungus Caps on the ground (Ulda Dungeon Quest)| |D|Ulda| |Z|Westfall|
 T The Lost Dwarves |QID|2398| |N|(Ulda Dungeon Quest)| |D|Ulda| |Z|Westfall|
 A The Hidden Chamber |QID|2240| |N|(Ulda Dungeon Quest)| |D|Ulda| |Z|Westfall|
 N Kill Revelosh. Loot him for [The Shaft of Tsol] |N|(Ulda Dungeon Quest)| |D|Ulda| |Z|Westfall|
@@ -164,10 +164,10 @@ N Note other party members can loot these items, and then combine them to create
 C Baelog's Chest. Loot it for the [Gni'kiv Medallion] |QID|2240| |L|7740 1| |N|Open Baelog's Chest. Loot it for the [Gni'kiv Medallion] (Ulda Dungeon Quest)| |D|Ulda| |Z|Westfall|
 N Use the [Staff of Prehistoria] on the Keystone to summon Ironaya |N|(Ulda Dungeon Quest)| |D|Ulda| |Z|Westfall|
 N Kill Ironaya. Run into the Hidden Chamber she came from after |N|(Ulda Dungeon Quest)| |D|Ulda| |Z|Westfall|
-C The Hidden Chamber |QID|2240| |N|Use the [Gni'kiv Medallion] and [The Shaft of Tsol] to combine them into the [Staff of Prehistoria] (Ulda Dungeon Quest)| |D|Ulda| |Z|Westfall|
-C Uldaman Reagent Run |QID|17| |N|(Ulda Dungeon Quest)| |D|Ulda| |Z|Westfall|
+C The Hidden Chamber |QID|2240| |OIDX|1| |N|Use the [Gni'kiv Medallion] and [The Shaft of Tsol] to combine them into the [Staff of Prehistoria] (Ulda Dungeon Quest)| |D|Ulda| |Z|Westfall|
+C Uldaman Reagent Run |QID|17| |OIDX|1| |N|(Ulda Dungeon Quest)| |D|Ulda| |Z|Westfall|
 A The Platinum Discs |QID|2278| |N|Click The Discs of Norgannon (Ulda Dungeon Quest)| |D|Ulda| |Z|Westfall|
-C The Platinum Discs |QID|2278| |N|(Ulda Dungeon Quest)| |D|Ulda| |Z|Westfall|
+C The Platinum Discs |QID|2278| |OIDX|1| |N|(Ulda Dungeon Quest)| |D|Ulda| |Z|Westfall|
 T The Platinum Discs |QID|2278| |N|(Ulda Dungeon Quest)| |D|Ulda| |Z|Westfall|
 A The Platinum Discs |QID|2279| |N|(Ulda Dungeon Quest)| |D|Ulda| |Z|Westfall|
 T Solution to Doom |QID|709| |N|Theldurin the Lost - (51.4, 76.9) (Ulda Dungeon Quest)| |D|Ulda| |Z|Badlands|
@@ -192,7 +192,7 @@ T The Shattered Necklace |QID|2198| |N|(36.4, 3.6) (Ulda Dungeon Quest)| |D|Ulda
 A Lore for a Price |QID|2199| |N|(36.4, 3.6) (Ulda Dungeon Quest)| |D|Ulda| |Z|Ironforge|
 N Bring 5 [Silver Bars] to Talvash del Kissel |N|(36.4, 3.6) (Ulda Dungeon Quest)| |D|Ulda| |Z|Ironforge|
 N If you are unable to acquire them, abandon this quest |N|(36.4, 3.6) (Ulda Dungeon Quest)| |D|Ulda| |Z|Ironforge|
-C Lore for a Price |QID|2199| |N|Talvash del Kissel (36.4, 3.6) (Ulda Dungeon Quest)| |D|Ulda| |Z|Ironforge|
+C Lore for a Price |QID|2199| |OIDX|1| |N|Talvash del Kissel (36.4, 3.6) (Ulda Dungeon Quest)| |D|Ulda| |Z|Ironforge|
 T Lore for a Price |QID|2199| |N|Talvash del Kissel - (36.4, 3.6) (Ulda Dungeon Quest)| |D|Ulda| |Z|Ironforge|
 N Buy food/water if needed |C|!Warrior/!Rogue| |Z|Ironforge|
 N Buy food if needed |C|Warrior/Rogue| |Z|Ironforge|

@@ -29,28 +29,28 @@ A Bloodscalp Clan Heads |QID|584| |N|Nimboya - (32.1, 27.8)| |Z|Stranglethorn Va
 A Split Bone Necklace |QID|598| |N|Kin'weelay - (32.2, 27.7)| |Z|Stranglethorn Vale|
 R the Ruins of Zul'Kunda |N|(23.8, 10.8)| |O| |Z|Stranglethorn Vale|
 N Be careful. Nezzliok casts [Shock]. An instant 280 damage spell |N|(23.5, 9.5)| |Z|Stranglethorn Vale|
-C Bloodscalp Clan Heads |QID|584| |N|Nezzliok the Dire. Loot him for his Head (23.5, 9.5)| |Z|Stranglethorn Vale|
-C Bloodscalp Clan Heads |QID|584| |N|Gan'zulah. Loot him for his Head (23.4, 8.1)| |Z|Stranglethorn Vale|
+C Bloodscalp Clan Heads |QID|584| |OIDX|2| |N|Nezzliok the Dire. Loot him for his Head (23.5, 9.5)| |Z|Stranglethorn Vale|
+C Bloodscalp Clan Heads |QID|584| |OIDX|1| |N|Gan'zulah. Loot him for his Head (23.4, 8.1)| |Z|Stranglethorn Vale|
 T Bloodscalp Clan Heads |QID|584| |N|on the Bubbling Cauldron - (32.2, 27.6)| |Z|Stranglethorn Vale|
 A Speaking with Nezzliok |QID|585| |N|on the Bubbling Cauldron - (32.2, 27.6)| |Z|Stranglethorn Vale|
-C Raptor Mastery |QID|196| |N|Jungle Stalkers. Loot them for their Feathers (33.9, 38.5)| |Z|Stranglethorn Vale|
-C Mok'thardin's Enchantment |QID|572| |N|Jungle Stalkers. Loot them for their Feathers (33.9, 38.5)| |Z|Stranglethorn Vale|
-C Venture Company Mining |QID|600| |N|Venture Co. Goblins. Loot them for their Crystals (41.4, 40.4)| |Z|Stranglethorn Vale|
+C Raptor Mastery |QID|196| |OIDX|1| |N|Jungle Stalkers. Loot them for their Feathers (33.9, 38.5)| |Z|Stranglethorn Vale|
+C Mok'thardin's Enchantment |QID|572| |OIDX|1| |N|Jungle Stalkers. Loot them for their Feathers (33.9, 38.5)| |Z|Stranglethorn Vale|
+C Venture Company Mining |QID|600| |OIDX|1| |N|Venture Co. Goblins. Loot them for their Crystals (41.4, 40.4)| |Z|Stranglethorn Vale|
 N The Necklaces can be completed later |O| |Z|Stranglethorn Vale|
-C Skullsplitter Tusks |QID|209| |N|Kill Skullsplitter Trolls. Loot them for their Tusks and Necklaces| |O| |Z|Stranglethorn Vale|
-C Split Bone Necklace |QID|598| |N|Kill Skullsplitter Trolls. Loot them for their Tusks and Necklaces| |O| |Z|Stranglethorn Vale|
-C Speaking with Nezzliok |QID|585| |N|the Ziata'jai Trophy Skulls for its Trophy (42.2, 36.1)| |Z|Stranglethorn Vale|
-C Speaking with Nezzliok |QID|585| |N|the Zul'Mamwe Trophy Skulls for its Trophy (47.6, 39.6)| |Z|Stranglethorn Vale|
-C Speaking with Nezzliok |QID|585| |N|the Balia'mah Trophy Skulls for its Trophy (46.1, 32.3)| |Z|Stranglethorn Vale|
+C Skullsplitter Tusks |QID|209| |OIDX|1| |N|Kill Skullsplitter Trolls. Loot them for their Tusks and Necklaces| |O| |Z|Stranglethorn Vale|
+C Split Bone Necklace |QID|598| |OIDX|1| |N|Kill Skullsplitter Trolls. Loot them for their Tusks and Necklaces| |O| |Z|Stranglethorn Vale|
+C Speaking with Nezzliok |QID|585| |OIDX|2| |N|the Ziata'jai Trophy Skulls for its Trophy (42.2, 36.1)| |Z|Stranglethorn Vale|
+C Speaking with Nezzliok |QID|585| |OIDX|3| |N|the Zul'Mamwe Trophy Skulls for its Trophy (47.6, 39.6)| |Z|Stranglethorn Vale|
+C Speaking with Nezzliok |QID|585| |OIDX|1| |N|the Balia'mah Trophy Skulls for its Trophy (46.1, 32.3)| |Z|Stranglethorn Vale|
 N The Necklaces can be completed later |N|(43.4, 37.9)| |Z|Stranglethorn Vale|
-C Skullsplitter Tusks |QID|209| |N|Finish killing Skullsplitter Trolls. Loot them for their Tusks and Necklaces (43.4, 37.9)| |Z|Stranglethorn Vale|
-C Split Bone Necklace |QID|598| |N|Finish killing Skullsplitter Trolls. Loot them for their Tusks and Necklaces (43.4, 37.9)| |Z|Stranglethorn Vale|
+C Skullsplitter Tusks |QID|209| |OIDX|1| |N|Finish killing Skullsplitter Trolls. Loot them for their Tusks and Necklaces (43.4, 37.9)| |Z|Stranglethorn Vale|
+C Split Bone Necklace |QID|598| |OIDX|1| |N|Finish killing Skullsplitter Trolls. Loot them for their Tusks and Necklaces (43.4, 37.9)| |Z|Stranglethorn Vale|
 N Bhag'thera can spawn north or west of the Mosh'Ogg Ogre Mound |N|(47.3, 24.0)| |Z|Stranglethorn Vale|
 N Before engaging Bhag'thera, clear the area of Shadowmaw Panthers to avoid adds |N|(47.3, 24.0)| |Z|Stranglethorn Vale|
 N Cast [Eagle Eye] to try and locate Bhag'thera |N|(47.3, 24.0)| |C|Hunter| |Z|Stranglethorn Vale|
 N Cast [Far Sight] to try and locate Bhag'thera |N|(47.3, 24.0)| |C|Shaman| |Z|Stranglethorn Vale|
-C Panther Mastery |QID|193| |N|Bhag'thera. Loot him for his Fang (47.3, 24.0)| |Z|Stranglethorn Vale|
-C Some Assembly Required |QID|577| |N|Snapjaw Crocolisks along the river. Loot them for their Skin (41.4, 21.9)| |Z|Stranglethorn Vale|
+C Panther Mastery |QID|193| |OIDX|1| |N|Bhag'thera. Loot him for his Fang (47.3, 24.0)| |Z|Stranglethorn Vale|
+C Some Assembly Required |QID|577| |OIDX|1| |N|Snapjaw Crocolisks along the river. Loot them for their Skin (41.4, 21.9)| |Z|Stranglethorn Vale|
 B Sell your junk, then restock on food and water if necessary |N|Innkeeper Thulbek - (31.5, 29.8)| |C|!Rogue/!Warrior| |Z|Stranglethorn Vale|
 B Sell your junk, then restock on food if necessary |N|Innkeeper Thulbek - (31.5, 29.8)| |C|Rogue/Warrior| |Z|Stranglethorn Vale|
 N Buy [Razor Arrows] from him |N|(31.6, 27.9)| |C|Hunter| |Z|Stranglethorn Vale|

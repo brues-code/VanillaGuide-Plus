@@ -23,12 +23,12 @@ A Lost Necklace |QID|85| |N|Ma Stonefield and "Auntie" Bernice Stonefield - (34.
 T Lost Necklace |QID|85| |N|Billy Maclure - (43.1, 85.7)| |Z|Elwynn Forest|
 A Pie for Billy |QID|86| |N|Billy Maclure - (43.1, 85.7)| |Z|Elwynn Forest|
 N The level 5 mobs may turn gray during this quest. Still finish it as you need to complete this quest to unlock the follow up's |O| |Z|Elwynn Forest|
-C Kobold Candles |QID|60| |N|Kill Kobold Tunnelers and Kobold Miners. Loot them for their Candles and Dust Kobold Candle (8)| |O| |Z|Elwynn Forest|
-C Gold Dust Exchange |QID|47| |N|Kill Kobold Tunnelers and Kobold Miners. Loot them for their Candles and Dust Gold Dust (10)| |O| |Z|Elwynn Forest|
-C The Fargodeep Mine |QID|62| |N|Enter and explore Fargodeep Mine Scout Through the Fargodeep Mine| |Z|Elwynn Forest|
+C Kobold Candles |QID|60| |OIDX|1| |N|Kill Kobold Tunnelers and Kobold Miners. Loot them for their Candles and Dust Kobold Candle (8)| |O| |Z|Elwynn Forest|
+C Gold Dust Exchange |QID|47| |OIDX|1| |N|Kill Kobold Tunnelers and Kobold Miners. Loot them for their Candles and Dust Gold Dust (10)| |O| |Z|Elwynn Forest|
+C The Fargodeep Mine |QID|62| |OIDX|1| |N|Enter and explore Fargodeep Mine Scout Through the Fargodeep Mine| |Z|Elwynn Forest|
 N The level 5 mobs may turn gray during this quest. Still finish it as you need to complete this quest to unlock the follow up's |N|(40.5, 82.3)| |Z|Elwynn Forest|
-C Kobold Candles |QID|60| |N|Kobold Tunnelers and Kobold Miners. Loot them for their Candles and Dust Kobold Candle (8)| |Z|Elwynn Forest|
-C Gold Dust Exchange |QID|47| |N|Kobold Tunnelers and Kobold Miners. Loot them for their Candles and Dust Gold Dust (10)| |Z|Elwynn Forest|
+C Kobold Candles |QID|60| |OIDX|1| |N|Kobold Tunnelers and Kobold Miners. Loot them for their Candles and Dust Kobold Candle (8)| |Z|Elwynn Forest|
+C Gold Dust Exchange |QID|47| |OIDX|1| |N|Kobold Tunnelers and Kobold Miners. Loot them for their Candles and Dust Gold Dust (10)| |Z|Elwynn Forest|
 N Do NOT vendor the [Bag of Marbles] reward. This is an incredibly valuable item all the way through to level 60 |N|(42.1, 67.3)| |Z|Elwynn Forest|
 T Gold Dust Exchange |QID|47| |N|Remy "Two Times" - (42.1, 67.3)| |Z|Elwynn Forest|
 T The Fargodeep Mine |QID|62| |N|Marshal Dughan - (42.1, 65.9)| |C|Warlock| |Z|Elwynn Forest|
@@ -49,17 +49,17 @@ T Further Concerns |QID|35| |N|Guard Thomas - (74.0, 72.2)| |Z|Elwynn Forest|
 A Find the Lost Guards |QID|37| |N|Guard Thomas - (74.0, 72.2)| |Z|Elwynn Forest|
 A Protect the Frontier |QID|52| |N|Guard Thomas - (74.0, 72.2)| |Z|Elwynn Forest|
 N Prioritize killing any Young Forest Bears you see |O| |Z|Elwynn Forest|
-C Protect the Frontier |QID|52| |N|Kill Prowlers and Young Forest Bears Kill Prowler (x8)| |O| |Z|Elwynn Forest|
+C Protect the Frontier |QID|52| |OIDX|1| |N|Kill Prowlers and Young Forest Bears Kill Prowler (x8)| |O| |Z|Elwynn Forest|
 T Find the Lost Guards |QID|37| |N|Click A half-eaten body on the ground - (72.7, 60.3)| |Z|Elwynn Forest|
 A Discover Rolf's Fate |QID|45| |N|Click A half-eaten body on the ground - (72.7, 60.3)| |Z|Elwynn Forest|
 A A Bundle of Trouble |QID|5545| |N|Supervisor Raelen - (81.4, 66.1)| |Z|Elwynn Forest|
-C A Bundle of Trouble |QID|5545| |N|Loot the Bundle of Wood on the ground. They are found beneath the trees Bundle of Wood (8)| |O| |Z|Elwynn Forest|
+C A Bundle of Trouble |QID|5545| |OIDX|1| |N|Loot the Bundle of Wood on the ground. They are found beneath the trees Bundle of Wood (8)| |O| |Z|Elwynn Forest|
 N Be careful as nearby Murlocs may agro once you click Rolf's corpse |N|(79.8, 55.5)| |Z|Elwynn Forest|
 N Murloc Foragers will cast [Drink Minor Potion] which heals themselves for 61-68 |N|(79.8, 55.5)| |Z|Elwynn Forest|
 T Discover Rolf's Fate |QID|45| |N|Rolf's corpse on the ground - (79.8, 55.5)| |Z|Elwynn Forest|
 A Report to Thomas |QID|71| |N|Rolf's corpse on the ground - (79.8, 55.5)| |Z|Elwynn Forest|
-C Protect the Frontier |QID|52| |N|Prowlers and Young Forest Bears Kill Prowler (x8)| |Z|Elwynn Forest|
-C A Bundle of Trouble |QID|5545| |N|the Bundle of Wood on the ground. They are found beneath the trees Bundle of Wood (8)| |Z|Elwynn Forest|
+C Protect the Frontier |QID|52| |OIDX|1| |N|Prowlers and Young Forest Bears Kill Prowler (x8)| |Z|Elwynn Forest|
+C A Bundle of Trouble |QID|5545| |OIDX|1| |N|the Bundle of Wood on the ground. They are found beneath the trees Bundle of Wood (8)| |Z|Elwynn Forest|
 T A Bundle of Trouble |QID|5545| |N|Supervisor Raelen - (81.4, 66.1)| |Z|Elwynn Forest|
 A Red Linen Goods |QID|83| |N|Sara Timberlain - (79.5, 68.8)| |Z|Elwynn Forest|
 T Protect the Frontier |QID|52| |N|Guard Thomas - (74.0, 72.2)| |Z|Elwynn Forest|
@@ -72,16 +72,16 @@ A Furlbrow's Deed |QID|184| |N|Kill Defias Bandits. Loot them for the [Westfall 
 N Kill Morgan the Collector. Loot him for The Collector's Ring |N|(71.1, 80.7)| |C|Warlock| |Z|Elwynn Forest|
 N Focus on killing Surena Caledon very quickly |N|(71.1, 80.7)| |C|Warlock| |Z|Elwynn Forest|
 N Cast [Fear] on Morgan the Collector continously |N|(71.1, 80.7)| |C|Warlock| |Z|Elwynn Forest|
-C Surena Caledon. Loot her for her Choker |QID|1688| |N|Surena Caledon. Loot her for her Choker - (71.1, 80.7)| |C|Warlock| |Z|Elwynn Forest|
-C Manhunt |QID|147| |N|Surena Caledon. Loot her for her Choker The Collector's Ring (1)| |C|Warlock| |Z|Elwynn Forest|
+C Surena Caledon. Loot her for her Choker |QID|1688| |OIDX|1| |N|Surena Caledon. Loot her for her Choker - (71.1, 80.7)| |C|Warlock| |Z|Elwynn Forest|
+C Manhunt |QID|147| |OIDX|1| |N|Surena Caledon. Loot her for her Choker The Collector's Ring (1)| |C|Warlock| |Z|Elwynn Forest|
 N Focus on killing Surena Caledon very quickly |N|(71.1, 80.7)| |C|Warlock| |Z|Elwynn Forest|
 N Cast [Fear] on Morgan the Collector continously |N|(71.1, 80.7)| |C|Warlock| |Z|Elwynn Forest|
-C Surena Caledon. Loot her for her Choker |QID|1688| |N|Surena Caledon. Loot her for her Choker - (71.1, 80.7)| |C|Warlock| |Z|Elwynn Forest|
-C Red Linen Goods |QID|83| |N|Kill Defias Bandits. Loot them for their Bandanas Collect Red Linen Bandana (x6)| |O| |Z|Elwynn Forest|
+C Surena Caledon. Loot her for her Choker |QID|1688| |OIDX|1| |N|Surena Caledon. Loot her for her Choker - (71.1, 80.7)| |C|Warlock| |Z|Elwynn Forest|
+C Red Linen Goods |QID|83| |OIDX|1| |N|Kill Defias Bandits. Loot them for their Bandanas Collect Red Linen Bandana (x6)| |O| |Z|Elwynn Forest|
 N Princess will agro with both of her Porcine Entourage |N|(69.3, 79.0)| |Z|Elwynn Forest|
 N Princess will also cast [Rushing Charge] which deals heavy damage |N|(69.3, 79.0)| |Z|Elwynn Forest|
-C Princess Must Die! |QID|88| |N|Princess. Loot her for her Collar (69.3, 79.0)| |Z|Elwynn Forest|
-C Red Linen Goods |QID|83| |N|Kill Defias Bandits. Loot them for their Bandanas Collect Red Linen Bandana (x6)| |Z|Elwynn Forest|
+C Princess Must Die! |QID|88| |OIDX|1| |N|Princess. Loot her for her Collar (69.3, 79.0)| |Z|Elwynn Forest|
+C Red Linen Goods |QID|83| |OIDX|1| |N|Kill Defias Bandits. Loot them for their Bandanas Collect Red Linen Bandana (x6)| |Z|Elwynn Forest|
 T Red Linen Goods |QID|83| |N|Sara Timberlain - (79.5, 68.8)| |Z|Elwynn Forest|
 R Travel to Redridge Mountains |N|(17.4, 69.6)| |O| |Z|Redridge Mountains|
 A Encroaching Gnolls |QID|244| |N|Guard Parker - (17.4, 69.6)| |Z|Redridge Mountains|
@@ -96,7 +96,7 @@ t Train your class spells |N|Ursula Deline - (26.1, 77.2)| |C|Warlock| |Z|Stormw
 T Surena Caledon |QID|1688| |N|Gakin the Darkbinder - (25.2, 78.6)| |C|Warlock| |Z|Stormwind City|
 A The Binding |QID|1689| |N|Gakin the Darkbinder - (25.2, 78.6)| |C|Warlock| |Z|Stormwind City|
 R the bottom of The Slaughtered Lamb |N|(25.2, 77.4)| |O| |C|Warlock| |Z|Stormwind City|
-C The Binding |QID|1689| |N|Kill Summoned Voidwalker Kill Summoned Voidwalker (x1)| |C|Warlock| |Z|Stormwind City|
+C The Binding |QID|1689| |OIDX|1| |N|Kill Summoned Voidwalker Kill Summoned Voidwalker (x1)| |C|Warlock| |Z|Stormwind City|
 T The Binding |QID|1689| |N|Gakin the Darkbinder - (25.2, 78.6)| |C|Warlock| |Z|Stormwind City|
 R Travel to Elwynn Forest |N|(42.1, 65.9)| |Z|Elwynn Forest|
 T Manhunt |QID|147| |N|Marshal Dughan - (42.1, 65.9)| |C|Warlock| |Z|Elwynn Forest|

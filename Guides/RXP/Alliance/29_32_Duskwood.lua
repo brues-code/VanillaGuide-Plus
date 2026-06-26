@@ -63,7 +63,7 @@ N Blind Mary |N|(81.5, 59.0)| |Z|Duskwood|
 T Look To The Stars |QID|175| |N|Head south towards the chapel - (81.5, 59.0)| |Z|Duskwood|
 A Look To The Stars |QID|177| |N|Head south towards the chapel - (81.5, 59.0)| |Z|Duskwood|
 N The Insane Ghoul may be inside of the chapel or walking around outside |N|(81.0, 71.7)| |Z|Duskwood|
-C Look To The Stars |QID|177| |N|the Insane Ghoul. Loot him for Mary's Looking Glass (81.0, 71.7)| |Z|Duskwood|
+C Look To The Stars |QID|177| |OIDX|1| |N|the Insane Ghoul. Loot him for Mary's Looking Glass (81.0, 71.7)| |Z|Duskwood|
 T Look To The Stars |QID|177| |N|Viktori Prism'Antras - (79.8, 48.0)| |Z|Duskwood|
 A Look To The Stars |QID|181| |N|Viktori Prism'Antras - (79.8, 48.0)| |Z|Duskwood|
 A Worgen in the Woods |QID|173| |N|Calor - (75.8, 47.6)| |Z|Duskwood|
@@ -72,39 +72,39 @@ A The Night Watch |QID|58| |N|Commander Althea Ebonlocke - (73.6, 46.9)| |Z|Dusk
 N Innkeeper Trelayne |N|(73.9, 44.4)| |Z|Duskwood|
 T The Missing Diplomat |QID|1243| |N|(72.5, 33.5)| |Z|Duskwood|
 A The Missing Diplomat |QID|1244| |N|(72.5, 33.5)| |Z|Duskwood|
-C Worgen in the Woods |QID|173| |N|Nightbane Shadow Weavers (63.6, 41.2)| |Z|Duskwood|
+C Worgen in the Woods |QID|173| |OIDX|1| |N|Nightbane Shadow Weavers (63.6, 41.2)| |Z|Duskwood|
 T Worgen in the Woods |QID|173| |N|Calor - (75.3, 48.0)| |Z|Duskwood|
 A Worgen in the Woods |QID|221| |N|Calor - (75.3, 48.0)| |Z|Duskwood|
 N Nightbane Dark Runners move very fast and have a larger than normal agro radius |N|(61.4, 41.2)| |Z|Duskwood|
-C Worgen in the Woods |QID|221| |N|Nightbane Dark Runners (61.4, 41.2)| |Z|Duskwood|
+C Worgen in the Woods |QID|221| |OIDX|1| |N|Nightbane Dark Runners (61.4, 41.2)| |Z|Duskwood|
 R the Eastvale Logging Camp |N|(84.6, 69.4)| |O| |Z|Elwynn Forest|
 T The Legend of Stalvan |QID|74| |N|Marshal Haggard - (84.6, 69.4)| |Z|Elwynn Forest|
 A The Legend of Stalvan |QID|75| |N|Marshal Haggard - (84.6, 69.4)| |Z|Elwynn Forest|
 N Open Marshal Haggard's Chest. Loot it for A Faded Journal Page |N|(85.7, 69.5)| |Z|Elwynn Forest|
-C The Legend of Stalvan |QID|75| |N|Head upstairs in the House (85.7, 69.5)| |Z|Elwynn Forest|
+C The Legend of Stalvan |QID|75| |OIDX|1| |N|Head upstairs in the House (85.7, 69.5)| |Z|Elwynn Forest|
 T The Legend of Stalvan |QID|75| |N|Marshal Haggard - (84.6, 69.4)| |Z|Elwynn Forest|
 A The Legend of Stalvan |QID|78| |N|Marshal Haggard - (84.6, 69.4)| |Z|Elwynn Forest|
 R Travel towards Abercrombie in Duskwood |N|(28.1, 31.5)| |O| |Z|Duskwood|
 N Don't go out of your way to complete this objective now, you will complete it later |O| |Z|Duskwood|
-C The Totem of Infliction |QID|101| |N|Kill Black Widow Hatchlings on the way to Abercrombie. Loot them for [Vials of Spider Venom]| |O| |Z|Duskwood|
+C The Totem of Infliction |QID|101| |OIDX|2| |N|Kill Black Widow Hatchlings on the way to Abercrombie. Loot them for [Vials of Spider Venom]| |O| |Z|Duskwood|
 T Juice Delivery |QID|159| |N|Abercrombie - (28.1, 31.5)| |Z|Duskwood|
 A Ghoulish Effigy |QID|133| |N|Abercrombie - (28.1, 31.5)| |Z|Duskwood|
 N Other Ghouls may also drop Ribs and Fangs but focus on Plague Spreaders |N|(24.3, 32.9)| |Z|Duskwood|
-C The Night Watch |QID|58| |N|Plague Spreaders. Loot them for their Ribs and Fangs (24.3, 32.9)| |Z|Duskwood|
-C Ghoulish Effigy |QID|133| |N|Plague Spreaders. Loot them for their Ribs and Fangs (24.3, 32.9)| |Z|Duskwood|
-C The Totem of Infliction |QID|101| |N|Plague Spreaders. Loot them for their Ribs and Fangs (24.3, 32.9)| |Z|Duskwood|
+C The Night Watch |QID|58| |OIDX|1| |N|Plague Spreaders. Loot them for their Ribs and Fangs (24.3, 32.9)| |Z|Duskwood|
+C Ghoulish Effigy |QID|133| |OIDX|1| |N|Plague Spreaders. Loot them for their Ribs and Fangs (24.3, 32.9)| |Z|Duskwood|
+C The Totem of Infliction |QID|101| |OIDX|1| |N|Plague Spreaders. Loot them for their Ribs and Fangs (24.3, 32.9)| |Z|Duskwood|
 T Ghoulish Effigy |QID|133| |N|Abercrombie - (28.1, 31.5)| |Z|Duskwood|
 A Ogre Thieves |QID|134| |N|Abercrombie - (28.1, 31.5)| |Z|Duskwood|
 N Don't go out of your way to complete this objective now, you will complete it later |O| |Z|Duskwood|
-C The Totem of Infliction |QID|101| |N|Kill Black Widow Hatchlings on the way south. Loot them for [Vials of Spider Venom]| |O| |Z|Duskwood|
-C The Missing Diplomat |QID|1244| |N|the Defias Strongbox. Loot it for the Defias Docket (23.9, 72.1)| |Z|Duskwood|
-C Ogre Thieves |QID|134| |N|Abercrombie's Crate on the ground (33.4, 76.4)| |Z|Duskwood|
+C The Totem of Infliction |QID|101| |OIDX|2| |N|Kill Black Widow Hatchlings on the way south. Loot them for [Vials of Spider Venom]| |O| |Z|Duskwood|
+C The Missing Diplomat |QID|1244| |OIDX|1| |N|the Defias Strongbox. Loot it for the Defias Docket (23.9, 72.1)| |Z|Duskwood|
+C Ogre Thieves |QID|134| |OIDX|1| |N|Abercrombie's Crate on the ground (33.4, 76.4)| |Z|Duskwood|
 R Enter the Vul'Gol Ogre Cave |N|(34.6, 77.9)| |O| |Z|Duskwood|
 N Zzarc' Vul has 2 spawn points inside the Cave |N|(36.8, 83.8)| |Z|Duskwood|
-C Look To The Stars |QID|181| |N|Zzarc' Vul. Loot him for his Monocle (36.8, 83.8)| |Z|Duskwood|
-C The Totem of Infliction |QID|101| |N|Black Widow Hatchlings and Carrion Recluses. Loot them for their Spider Venom (23.6, 36.6)| |O| |Z|Duskwood|
-C The Totem of Infliction |QID|101| |N|Skeletal Fiends and Skeletal Horrors. Loot them for their Fingers (21.2, 47.1)| |Z|Duskwood|
-C The Totem of Infliction |QID|101| |N|Black Widow Hatchlings and Carrion Recluses. Finish off looting them for their Spider Venom (23.6, 36.6)| |Z|Duskwood|
+C Look To The Stars |QID|181| |OIDX|1| |N|Zzarc' Vul. Loot him for his Monocle (36.8, 83.8)| |Z|Duskwood|
+C The Totem of Infliction |QID|101| |OIDX|2| |N|Black Widow Hatchlings and Carrion Recluses. Loot them for their Spider Venom (23.6, 36.6)| |O| |Z|Duskwood|
+C The Totem of Infliction |QID|101| |OIDX|3| |N|Skeletal Fiends and Skeletal Horrors. Loot them for their Fingers (21.2, 47.1)| |Z|Duskwood|
+C The Totem of Infliction |QID|101| |OIDX|2| |N|Black Widow Hatchlings and Carrion Recluses. Finish off looting them for their Spider Venom (23.6, 36.6)| |Z|Duskwood|
 T Ogre Thieves |QID|134| |N|Abercrombie - (28.1, 31.5)| |Z|Duskwood|
 A Note to the Mayor |QID|160| |N|Abercrombie - (28.1, 31.5)| |Z|Duskwood|
 A The Weathered Grave |QID|225| |N|Click A Weathered Grave - (17.7, 29.1)| |Z|Duskwood|
@@ -144,9 +144,9 @@ T Worgen in the Woods |QID|221| |N|Calor - (75.3, 48.0)| |Z|Duskwood|
 A Worgen in the Woods |QID|222| |N|Calor - (75.3, 48.0)| |Z|Duskwood|
 T The Missing Diplomat |QID|1244| |N|(72.5, 33.5)| |Z|Duskwood|
 A The Missing Diplomat |QID|1245| |N|(72.5, 33.5)| |Z|Duskwood|
-C A Noble Brew |QID|335| |N|the Tear of Tilloa on the ground (78.3, 36.0)| |Z|Duskwood|
+C A Noble Brew |QID|335| |OIDX|1| |N|the Tear of Tilloa on the ground (78.3, 36.0)| |Z|Duskwood|
 N Stalvan Mistmantle can hit quite hard. Kite him back to town and get help from the Watchers if needed |N|(77.3, 36.2)| |Z|Duskwood|
-C The Legend of Stalvan |QID|98| |N|Stalvan Mistmantle. Loot him for his Family Ring (77.3, 36.2)| |Z|Duskwood|
+C The Legend of Stalvan |QID|98| |OIDX|1| |N|Stalvan Mistmantle. Loot him for his Family Ring (77.3, 36.2)| |Z|Duskwood|
 T The Legend of Stalvan |QID|98| |N|Madame Eva inside - (75.8, 45.3)| |Z|Duskwood|
 T The Totem of Infliction |QID|101| |N|Madame Eva inside - (75.8, 45.3)| |Z|Duskwood|
 T Look To The Stars |QID|181| |N|Viktori Prism'Antras - (79.8, 48.0)| |Z|Duskwood|
@@ -155,7 +155,7 @@ N Don't start the quest for it yet |N|(64.1, 68.5)| |O| |Z|Duskwood|
 C Nightbane Worgens. Loot them for [An Old History Book] |QID|337| |L|2794 1| |N|Nightbane Worgens. Loot them for [An Old History Book] - (64.1, 68.5)| |O| |Z|Duskwood|
 N Be careful as all the mobs in the area respawn at once after 4.75-6.5 minutes of killing the first one |N|(71.9, 72.1)| |Z|Duskwood|
 N This area is a popular grinding spot for mages and may be constested. If you feel like there's too much competition you can complete this objective in the Roland's Doom area (cave, marked on your map) |N|(71.9, 72.1)| |Z|Duskwood|
-C Worgen in the Woods |QID|222| |N|Nightbane Vile Fangs and Nightbane Tainted Ones (71.9, 72.1)| |Z|Duskwood|
+C Worgen in the Woods |QID|222| |OIDX|1| |N|Nightbane Vile Fangs and Nightbane Tainted Ones (71.9, 72.1)| |Z|Duskwood|
 N Kill Nightbane Worgens until your Hearthstone cooldown is <25 minutes |N|(64.1, 68.5)| |Z|Duskwood|
 N If you know that you will be leveling in one session or generally not getting a lot of rested experience up to level 38, consider grinding to level 32 instead. This will help you reach a level 38 xp gate that is required later on |N|(64.1, 68.5)| |Z|Duskwood|
 N Don't start the quest for it yet |N|(64.1, 68.5)| |Z|Duskwood|
@@ -164,7 +164,7 @@ N Kill Eliza. Loot her for the Embalmer's Heart |N|(28.9, 30.8)| |Z|Duskwood|
 N Eliza will cast [Frostbolt] and [Frost Nova] along with summoning multiple Guards |N|(28.9, 30.8)| |Z|Duskwood|
 N You can avoid dealing with Eliza's Guards by using the Wagon to jump on top of Abercrombie's Hut |N|(28.9, 30.8)| |C|Hunter/Mage/Warlock/Priest| |Z|Duskwood|
 N You can evade Eliza's Guards by using the Wagon to jump on top of Abercrombie's Hut. Eliza will continue to cast [Frostbolt] at you if you do this while she's alive |N|(28.9, 30.8)| |C|Warrior/Rogue/Druid/Paladin| |Z|Duskwood|
-C Bride of the Embalmer |QID|253| |N|Eliza's Grave Dirt to summon Eliza (28.9, 30.8)| |Z|Duskwood|
+C Bride of the Embalmer |QID|253| |OIDX|1| |N|Eliza's Grave Dirt to summon Eliza (28.9, 30.8)| |Z|Duskwood|
 N Clear your way to the 2nd floor of the house |O| |Z|Duskwood|
 N Use [Morbent's Bane] on Morbent Fel to weaken him |O| |Z|Duskwood|
 N Remember to equip your weapon/off-hand slot after weakening him |O| |Z|Duskwood|
@@ -177,9 +177,9 @@ A Welcome to the Jungle |QID|583| |N|Barnil Stonepot and Hemet Nesingwary - (35.
 T Welcome to the Jungle |QID|583| |N|Barnil Stonepot and Hemet Nesingwary - (35.7, 10.5)| |Z|Stranglethorn Vale|
 A Tiger Mastery |QID|185| |N|Ajeck Rouack and Sir S. J. Erlgadin - (35.6, 10.6)| |Z|Stranglethorn Vale|
 A Panther Mastery |QID|190| |N|Ajeck Rouack and Sir S. J. Erlgadin - (35.6, 10.6)| |Z|Stranglethorn Vale|
-C Panther Mastery |QID|190| |N|Kill Young Panthers| |O| |Z|Stranglethorn Vale|
-C Tiger Mastery |QID|185| |N|Young Stranglethorn Tigers (35.4, 12.5)| |Z|Stranglethorn Vale|
-C Panther Mastery |QID|190| |N|Young Panthers (41.5, 12.0)| |Z|Stranglethorn Vale|
+C Panther Mastery |QID|190| |OIDX|1| |N|Kill Young Panthers| |O| |Z|Stranglethorn Vale|
+C Tiger Mastery |QID|185| |OIDX|1| |N|Young Stranglethorn Tigers (35.4, 12.5)| |Z|Stranglethorn Vale|
+C Panther Mastery |QID|190| |OIDX|1| |N|Young Panthers (41.5, 12.0)| |Z|Stranglethorn Vale|
 N Don't accept the follow ups yet |N|(35.6, 10.6)| |Z|Stranglethorn Vale|
 T Tiger Mastery |QID|185| |N|Ajeck Rouack and Sir S. J. Erlgadin - (35.6, 10.6)| |Z|Stranglethorn Vale|
 T Panther Mastery |QID|190| |N|Ajeck Rouack and Sir S. J. Erlgadin - (35.6, 10.6)| |Z|Stranglethorn Vale|
@@ -226,7 +226,7 @@ T The Missing Diplomat |QID|1246| |N|Dashel Stonefist - (70.5, 44.9)| |O| |Z|Sto
 A The Missing Diplomat |QID|1447| |N|Dashel Stonefist - (70.5, 44.9)| |O| |Z|Stormwind City|
 N Dashel Stonefist will also attack with 2 Old Town Thugs. Ignore them and focus on Dashel Stonefist |N|(70.5, 44.9)| |Z|Stormwind City|
 N Be careful as the Old Town Thugs will reset when you defeat Dashel but then become hostile again after returning to their original locations |N|(70.5, 44.9)| |Z|Stormwind City|
-C The Missing Diplomat |QID|1447| |N|Defeat Dashel Stonefist (70.5, 44.9)| |Z|Stormwind City|
+C The Missing Diplomat |QID|1447| |OIDX|1| |N|Defeat Dashel Stonefist (70.5, 44.9)| |Z|Stormwind City|
 T The Missing Diplomat |QID|1447| |N|Dashel Stonefist - (70.5, 44.9)| |Z|Stormwind City|
 A The Missing Diplomat |QID|1247| |N|Dashel Stonefist - (70.5, 44.9)| |Z|Stormwind City|
 T The Missing Diplomat |QID|1247| |N|Elling Trias - (59.9, 64.2)| |Z|Stormwind City|
@@ -278,7 +278,7 @@ A Gnogaine |QID|2926| |N|Ozzie Togglevolt - (45.9, 49.4) (Gnomer Dungeon Quest)|
 N Innkeeper Belm inside |N|(47.4, 52.5) (Gnomer Dungeon Quest)| |D|Gnomer| |Z|Dun Morogh|
 R Gnomeregan |N|(43.4, 53.8) (Gnomer Dungeon Quest)| |D|Gnomer| |Z|Westfall|
 N This quest is completed while OUTSIDE of the dungeon |N|(43.4, 53.4) (Gnomer Dungeon Quest)| |D|Gnomer| |Z|Westfall|
-C Gnogaine |QID|2926| |N|The Irradiated Invader or Irradiated Pillager must be ALIVE when you use it (43.4, 53.4) (Gnomer Dungeon Quest)| |D|Gnomer| |Z|Westfall|
+C Gnogaine |QID|2926| |OIDX|1| |N|The Irradiated Invader or Irradiated Pillager must be ALIVE when you use it (43.4, 53.4) (Gnomer Dungeon Quest)| |D|Gnomer| |Z|Westfall|
 R Ozzie Togglevolt in Kharanos |N|(46.0, 48.6) (Gnomer Dungeon Quest)| |D|Gnomer| |Z|Dun Morogh|
 N You will get a follow up for when you go inside the dungeon |N|(46.0, 48.6) (Gnomer Dungeon Quest)| |D|Gnomer| |Z|Dun Morogh|
 T Gnogaine |QID|2926| |N|Ozzie Togglevolt - (45.9, 49.4) (Gnomer Dungeon Quest)| |D|Gnomer| |Z|Dun Morogh|
@@ -286,26 +286,26 @@ A The Only Cure is More Green Glow |QID|2962| |N|Ozzie Togglevolt - (45.9, 49.4)
 R Gnomeregan |N|(43.4, 53.8) (Gnomer Dungeon Quest)| |D|Gnomer| |Z|Westfall|
 C Troggs and Gnomes. Loot them for a [White Punch Card] |QID|2930| |L|9279 1| |N|Troggs and Gnomes. Loot them for a [White Punch Card] - (43.1, 52.8) (Gnomer Dungeon Quest)| |D|Gnomer| |Z|Westfall|
 N This quest is completed while OUTSIDE of the dungeon |N|(43.1, 52.8) (Gnomer Dungeon Quest)| |D|Gnomer| |Z|Westfall|
-C Save Techbot's Brain! |QID|2922| |N|Troggs and Gnomes. Loot them for a [White Punch Card] (43.1, 52.8) (Gnomer Dungeon Quest)| |D|Gnomer| |Z|Westfall|
+C Save Techbot's Brain! |QID|2922| |OIDX|1| |N|Troggs and Gnomes. Loot them for a [White Punch Card] (43.1, 52.8) (Gnomer Dungeon Quest)| |D|Gnomer| |Z|Westfall|
 C Troggs and Gnomes. Loot them for a [White Punch Card] |L|9279 1| |N|Troggs and Gnomes. Loot them for a [White Punch Card] - (43.4, 53.4) (Gnomer Dungeon Quest)| |D|Gnomer| |Z|Westfall|
 N This quest is completed while OUTSIDE of the dungeon |N|(43.4, 52.7) (Gnomer Dungeon Quest)| |D|Gnomer| |Z|Westfall|
 C Use the [White Punch Card] at the Matrix Punchograph 3005-A |QID|2930| |L|9280 1| |N|Use the [White Punch Card] at the Matrix Punchograph 3005-A - (43.4, 52.7) (Gnomer Dungeon Quest)| |D|Gnomer| |Z|Westfall|
-C Gyrodrillmatic Excavationators |QID|2928| |N|Kill all Gnomeregan Mobs. Loot them for their Robo-mechanical Guts (Gnomer Dungeon Quest)| |D|Gnomer| |Z|Westfall|
+C Gyrodrillmatic Excavationators |QID|2928| |OIDX|1| |N|Kill all Gnomeregan Mobs. Loot them for their Robo-mechanical Guts (Gnomer Dungeon Quest)| |D|Gnomer| |Z|Westfall|
 N The console looking machine is located at the gnomish safe zone at the bottom floor, next to the big circular room where the slimes are located |N|(Gnomer Dungeon Quest)| |D|Gnomer| |Z|Westfall|
 C Use the [Yellow Punch Card] at the Matrix Punchograph 3005-B |QID|2930| |L|9282 1| |N|Use the [Yellow Punch Card] at the Matrix Punchograph 3005-B (Gnomer Dungeon Quest)| |D|Gnomer| |Z|Westfall|
 N This will start an escort quest. Kernobee spawns randomly in The Dormitory, right outside of the gnomish safe zone |N|(Gnomer Dungeon Quest)| |D|Gnomer| |Z|Westfall|
 A A Fine Mess |QID|2904| |N|Kernobee (Gnomer Dungeon Quest)| |D|Gnomer| |Z|Westfall|
-C A Fine Mess |QID|2904| |N|Escort Kernobee back to the start of the dungeon (Gnomer Dungeon Quest)| |D|Gnomer| |Z|Westfall|
+C A Fine Mess |QID|2904| |OIDX|1| |N|Escort Kernobee back to the start of the dungeon (Gnomer Dungeon Quest)| |D|Gnomer| |Z|Westfall|
 N Note: You must turn this quest in within 2 hours of acquiring the [High Potency Radioactive Fallout] |N|(Gnomer Dungeon Quest)| |D|Gnomer| |Z|Westfall|
-C The Only Cure is More Green Glow |QID|2962| |N|The Irradiated Slime, Irradiated Lurker or Irradiated Horror must be ALIVE when you use it (Gnomer Dungeon Quest)| |D|Gnomer| |Z|Westfall|
-C Essential Artificials |QID|2924| |N|Open the Artificial Extrapolators. Loot them for Essential Artificials (Gnomer Dungeon Quest)| |D|Gnomer| |Z|Westfall|
+C The Only Cure is More Green Glow |QID|2962| |OIDX|1| |N|The Irradiated Slime, Irradiated Lurker or Irradiated Horror must be ALIVE when you use it (Gnomer Dungeon Quest)| |D|Gnomer| |Z|Westfall|
+C Essential Artificials |QID|2924| |OIDX|1| |N|Open the Artificial Extrapolators. Loot them for Essential Artificials (Gnomer Dungeon Quest)| |D|Gnomer| |Z|Westfall|
 N The Punchograph is located on the suspended platform right next to the Electrocutioner 6000 |N|(Gnomer Dungeon Quest)| |D|Gnomer| |Z|Westfall|
 C Use the [Blue Punch Card] at the Matrix Punchograph 3005-C |QID|2930| |L|9281 1| |N|Use the [Blue Punch Card] at the Matrix Punchograph 3005-C (Gnomer Dungeon Quest)| |D|Gnomer| |Z|Westfall|
-C Data Rescue |QID|2930| |N|Use the [Red Punch Card] at the Matrix Punchograph 3005-D (Gnomer Dungeon Quest)| |D|Gnomer| |Z|Westfall|
-C The Grand Betrayal |QID|2929| |N|Kill Mekgineer Thermaplugg (Gnomer Dungeon Quest)| |D|Gnomer| |Z|Westfall|
+C Data Rescue |QID|2930| |OIDX|1| |N|Use the [Red Punch Card] at the Matrix Punchograph 3005-D (Gnomer Dungeon Quest)| |D|Gnomer| |Z|Westfall|
+C The Grand Betrayal |QID|2929| |OIDX|1| |N|Kill Mekgineer Thermaplugg (Gnomer Dungeon Quest)| |D|Gnomer| |Z|Westfall|
 N If you still haven't finished this quest, go back to places where you looted them before, since they respawn after a few minutes |N|(Gnomer Dungeon Quest)| |D|Gnomer| |Z|Westfall|
-C Essential Artificials |QID|2924| |N|Open the Artificial Extrapolators. Loot them for Essential Artificials (Gnomer Dungeon Quest)| |D|Gnomer| |Z|Westfall|
-C Gyrodrillmatic Excavationators |QID|2928| |N|Kill all Gnomeregan Mobs. Loot them for their Robo-mechanical Guts (Gnomer Dungeon Quest)| |D|Gnomer| |Z|Westfall|
+C Essential Artificials |QID|2924| |OIDX|1| |N|Open the Artificial Extrapolators. Loot them for Essential Artificials (Gnomer Dungeon Quest)| |D|Gnomer| |Z|Westfall|
+C Gyrodrillmatic Excavationators |QID|2928| |OIDX|1| |N|Kill all Gnomeregan Mobs. Loot them for their Robo-mechanical Guts (Gnomer Dungeon Quest)| |D|Gnomer| |Z|Westfall|
 A Grime-Encrusted Ring |QID|2945| |N|Use the [Grime-Encrusted Ring] to start the quest (Gnomer Dungeon Quest)| |D|Gnomer| |Z|Westfall|
 C Use the [Grime-Encrusted Ring] to start the quest |QID|2945| |L|9326 1| |N|Use the [Grime-Encrusted Ring] to start the quest (Gnomer Dungeon Quest)| |D|Gnomer| |Z|Westfall|
 T Grime-Encrusted Ring |QID|2945| |N|Take the [Grime-Encrusted Ring] to The Sparklematic 5200 in The Clean Zone (Gnomer Dungeon Quest)| |D|Gnomer| |Z|Westfall|

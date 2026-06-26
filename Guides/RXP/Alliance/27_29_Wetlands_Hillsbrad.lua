@@ -58,32 +58,32 @@ A Search More Hovels |QID|285| |N|the Sealed Barrel on the ground - (13.6, 38.2)
 T Search More Hovels |QID|285| |N|the Half-buried Barrel on the ground - (13.9, 34.8)| |Z|Wetlands|
 A Return the Statuette |QID|286| |N|the Half-buried Barrel on the ground - (13.9, 34.8)| |Z|Wetlands|
 N Do this en route to other quests |N|(22.2, 20.4)| |O| |Z|Wetlands|
-C Apprentice's Duties |QID|471| |N|Giant Wetlands Crocolisks. Loot them for their Skin (22.2, 20.4)| |O| |Z|Wetlands|
-C The Cursed Crew |QID|289| |N|Cursed Sailors, Cursed Marines and First Mate Snellig. Loot him for his Snuffbox (15.0, 24.0)| |Z|Wetlands|
-C Fire Taboo |QID|277| |N|the Mosshides. Loot them for their Crude Flints (43.0, 33.2)| |O| |Z|Wetlands|
-C Digging Through the Ooze |QID|470| |N|Crimson Oozes, Monstrous Oozes and Black Oozes. Loot them for Sida's Bag (44.2, 25.6)| |Z|Wetlands|
+C Apprentice's Duties |QID|471| |OIDX|1| |N|Giant Wetlands Crocolisks. Loot them for their Skin (22.2, 20.4)| |O| |Z|Wetlands|
+C The Cursed Crew |QID|289| |OIDX|1| |N|Cursed Sailors, Cursed Marines and First Mate Snellig. Loot him for his Snuffbox (15.0, 24.0)| |Z|Wetlands|
+C Fire Taboo |QID|277| |OIDX|1| |N|the Mosshides. Loot them for their Crude Flints (43.0, 33.2)| |O| |Z|Wetlands|
+C Digging Through the Ooze |QID|470| |OIDX|1| |N|Crimson Oozes, Monstrous Oozes and Black Oozes. Loot them for Sida's Bag (44.2, 25.6)| |Z|Wetlands|
 N You don't have to complete this objective now but try to make at least some progress |N|(43.0, 33.2)| |O| |Z|Wetlands|
-C Fire Taboo |QID|277| |N|the Mosshides on the way to the Orc camp. Loot them for their Crude Flints (43.0, 33.2)| |O| |Z|Wetlands|
+C Fire Taboo |QID|277| |OIDX|1| |N|the Mosshides on the way to the Orc camp. Loot them for their Crude Flints (43.0, 33.2)| |O| |Z|Wetlands|
 R Head to the Dragonmaw Orc encampment |N|(43.0, 41.6)| |Z|Wetlands|
 N Be aware the Dragonmaw Raiders will cast [Net] on you |N|(45.2, 44.3)| |Z|Wetlands|
-C War Banners |QID|464| |N|Dragonmaw Orcs. Loot them for their War Banners (45.2, 44.3)| |Z|Wetlands|
+C War Banners |QID|464| |OIDX|1| |N|Dragonmaw Orcs. Loot them for their War Banners (45.2, 44.3)| |Z|Wetlands|
 R Head towards the mountain shortcut |N|(38.8, 49.0)| |O| |Z|Wetlands|
 A Ormer's Revenge |QID|294| |N|Ormer Ironbraid - (38.2, 50.9)| |C|!Hunter| |Z|Wetlands|
 T In Search of The Excavation Team |QID|305| |N|Merrin Rockweaver and Prospector Whelgar - (38.9, 52.3)| |Z|Wetlands|
 A In Search of The Excavation Team |QID|306| |N|Merrin Rockweaver and Prospector Whelgar - (38.9, 52.3)| |Z|Wetlands|
 A Uncovering the Past |QID|299| |N|Merrin Rockweaver and Prospector Whelgar - (38.9, 52.3)| |Z|Wetlands|
-C The Absent Minded Prospector |QID|943| |N|Flagongut's Fossil on the ground (38.9, 52.2)| |Z|Wetlands|
+C The Absent Minded Prospector |QID|943| |OIDX|2| |N|Flagongut's Fossil on the ground (38.9, 52.2)| |Z|Wetlands|
 N Don't go out of your way to complete this now. You will kill different Raptors later |C|Hunter| |Z|Wetlands|
-C The Absent Minded Prospector |QID|943| |N|Kill Mottled Raptors and Mottled Screechers. Loot them for the Stone of Relu| |C|Hunter| |Z|Wetlands|
+C The Absent Minded Prospector |QID|943| |OIDX|1| |N|Kill Mottled Raptors and Mottled Screechers. Loot them for the Stone of Relu| |C|Hunter| |Z|Wetlands|
 N The Fragments have random spawn locations in the Excavation Site |N|(36.6, 42.2)| |C|Hunter| |Z|Wetlands|
-C Uncovering the Past |QID|299| |N|the Ancient Relics and Loose Soil. Loot them for the Fragments (36.6, 42.2)| |C|Hunter| |Z|Wetlands|
+C Uncovering the Past |QID|299| |OIDX|1| |N|the Ancient Relics and Loose Soil. Loot them for the Fragments (36.6, 42.2)| |C|Hunter| |Z|Wetlands|
 T Uncovering the Past |QID|299| |N|Prospector Whelgar - (38.8, 52.4)| |C|Hunter| |Z|Wetlands|
-C Fire Taboo |QID|277| |N|the Mosshides. Loot them for their Crude Flints (43.0, 33.2)| |Z|Wetlands|
+C Fire Taboo |QID|277| |OIDX|1| |N|the Mosshides. Loot them for their Crude Flints (43.0, 33.2)| |Z|Wetlands|
 T Fire Taboo |QID|277| |N|Rethiel the Greenwarden - (56.4, 40.4)| |Z|Wetlands|
 A Blisters on The Land |QID|275| |N|Rethiel the Greenwarden - (56.4, 40.4)| |Z|Wetlands|
 T Fire Taboo |QID|277| |N|Rethiel the Greenwarden - (56.4, 40.4)| |Z|Wetlands|
 A Blisters on The Land |QID|275| |N|Rethiel the Greenwarden - (56.4, 40.4)| |Z|Wetlands|
-C A Noble Brew |QID|335| |N|the Musquash Root on the ground (64.8, 75.3)| |Z|Wetlands|
+C A Noble Brew |QID|335| |OIDX|2| |N|the Musquash Root on the ground (64.8, 75.3)| |Z|Wetlands|
 N Buy food/water if needed |O| |C|!Warrior/!Rogue| |Z|Wetlands|
 N Buy food if needed |O| |C|Warrior/Rogue| |Z|Wetlands|
 N Buy some extra [Mutton Chops] to serve as pet food if needed |O| |C|Hunter| |Z|Wetlands|
@@ -98,37 +98,37 @@ R Travel upstairs in Menethil Keep |N|(9.7, 57.9)| |O| |Z|Wetlands|
 T War Banners |QID|464| |N|Captain Stoutfist - (9.9, 57.5)| |Z|Wetlands|
 A Nek'rosh's Gambit |QID|465| |N|Captain Stoutfist - (9.9, 57.5)| |Z|Wetlands|
 T In Search of The Excavation Team |QID|306| |N|Tarrel Rockweaver - (11.5, 52.2)| |Z|Wetlands|
-C The Absent Minded Prospector |QID|943| |N|Kill Mottled Razormaw| |Z|Wetlands|
-C Ormer's Revenge |QID|294| |N|Mottled Raptors and Mottled Screechers (22.8, 50.6)| |C|!Hunter| |Z|Wetlands|
+C The Absent Minded Prospector |QID|943| |OIDX|1| |N|Kill Mottled Razormaw| |Z|Wetlands|
+C Ormer's Revenge |QID|294| |OIDX|1| |N|Mottled Raptors and Mottled Screechers (22.8, 50.6)| |C|!Hunter| |Z|Wetlands|
 T Ormer's Revenge |QID|294| |N|Ormer Ironbraid - (38.2, 50.9)| |C|!Hunter| |Z|Wetlands|
 A Ormer's Revenge |QID|295| |N|Ormer Ironbraid - (38.2, 50.9)| |C|!Hunter| |Z|Wetlands|
 N The Fragments have random spawn locations in the Excavation Site |N|(36.6, 42.2)| |O| |C|!Hunter| |Z|Wetlands|
-C Uncovering the Past |QID|299| |N|the Ancient Relics and Loose Soil. Loot them for the Fragments (36.6, 42.2)| |O| |C|!Hunter| |Z|Wetlands|
-C Ormer's Revenge |QID|295| |N|Mottled Scytheclaws and Mottled Razormaws (34.3, 47.8)| |C|!Hunter| |Z|Wetlands|
+C Uncovering the Past |QID|299| |OIDX|1| |N|the Ancient Relics and Loose Soil. Loot them for the Fragments (36.6, 42.2)| |O| |C|!Hunter| |Z|Wetlands|
+C Ormer's Revenge |QID|295| |OIDX|1| |N|Mottled Scytheclaws and Mottled Razormaws (34.3, 47.8)| |C|!Hunter| |Z|Wetlands|
 T Ormer's Revenge |QID|295| |N|Ormer Ironbraid - (38.2, 50.9)| |C|!Hunter| |Z|Wetlands|
 A Ormer's Revenge |QID|296| |N|Ormer Ironbraid - (38.2, 50.9)| |C|!Hunter| |Z|Wetlands|
 T Uncovering the Past |QID|299| |N|(38.8, 52.4)| |C|!Hunter| |Z|Wetlands|
 N Be careful as he can [Thrash] hitting you 3 times at once |N|(33.2, 51.5)| |C|!Hunter| |Z|Wetlands|
-C Ormer's Revenge |QID|296| |N|Sarltooth. Loot him for his Talon (33.2, 51.5)| |C|!Hunter| |Z|Wetlands|
+C Ormer's Revenge |QID|296| |OIDX|1| |N|Sarltooth. Loot him for his Talon (33.2, 51.5)| |C|!Hunter| |Z|Wetlands|
 N The Fragments have random spawn locations in the Excavation Site |N|(36.6, 42.2)| |C|!Hunter| |Z|Wetlands|
-C Uncovering the Past |QID|299| |N|the Ancient Relics and Loose Soil. Loot them for the Fragments (36.6, 42.2)| |C|!Hunter| |Z|Wetlands|
+C Uncovering the Past |QID|299| |OIDX|1| |N|the Ancient Relics and Loose Soil. Loot them for the Fragments (36.6, 42.2)| |C|!Hunter| |Z|Wetlands|
 T Ormer's Revenge |QID|296| |N|Ormer Ironbraid and Prospector Whelgar - (38.2, 50.9)| |C|!Hunter| |Z|Wetlands|
 T Uncovering the Past |QID|299| |N|Ormer Ironbraid and Prospector Whelgar - (38.2, 50.9)| |C|!Hunter| |Z|Wetlands|
 N Fen Creepers are in [Stealth] along the river streams |O| |Z|Wetlands|
-C Blisters on The Land |QID|275| |N|Kill Fen Creepers| |O| |Z|Wetlands|
-C Apprentice's Duties |QID|471| |N|any Giant Wetlands Crocolisks you encounter on the way. Loot them for their Skin (18.0, 27.0)| |O| |Z|Wetlands|
+C Blisters on The Land |QID|275| |OIDX|1| |N|Kill Fen Creepers| |O| |Z|Wetlands|
+C Apprentice's Duties |QID|471| |OIDX|1| |N|any Giant Wetlands Crocolisks you encounter on the way. Loot them for their Skin (18.0, 27.0)| |O| |Z|Wetlands|
 N Kill Captain Halyndor. Loot him for the Strongbox Key |N|(15.4, 23.6)| |Z|Wetlands|
 N Be careful he can cast [Ward of the Eye] making him REFLECT SPELLS for 6 seconds |N|(15.4, 23.6)| |Z|Wetlands|
-C Lifting the Curse |QID|290| |N|Run up the rudder of the ship (15.4, 23.6)| |Z|Wetlands|
+C Lifting the Curse |QID|290| |OIDX|1| |N|Run up the rudder of the ship (15.4, 23.6)| |Z|Wetlands|
 N Click Intrepid's Locked Strongbox on the ground |N|(14.4, 24.0)| |Z|Wetlands|
 T Lifting the Curse |QID|290| |N|Enter through the large hole on the side of the ship - (14.4, 24.0)| |Z|Wetlands|
 A The Eye of Paleth |QID|292| |N|Enter through the large hole on the side of the ship - (14.4, 24.0)| |Z|Wetlands|
 N Fen Creepers are in [Stealth] along the river streams |O| |Z|Wetlands|
-C Blisters on The Land |QID|275| |N|Kill Fen Creepers| |O| |Z|Wetlands|
-C Apprentice's Duties |QID|471| |N|Giant Wetlands Crocolisks. Loot them for their Skin (18.0, 27.0)| |Z|Wetlands|
+C Blisters on The Land |QID|275| |OIDX|1| |N|Kill Fen Creepers| |O| |Z|Wetlands|
+C Apprentice's Duties |QID|471| |OIDX|1| |N|Giant Wetlands Crocolisks. Loot them for their Skin (18.0, 27.0)| |Z|Wetlands|
 N Fen Creepers are in [Stealth] along the river streams |N|(20.7, 28.7)| |O| |Z|Wetlands|
 N You don't have to complete this objective now but you should encounter around 8-10 of them while heading east if no one killed them beforehand |N|(20.7, 28.7)| |O| |Z|Wetlands|
-C Blisters on The Land |QID|275| |N|all Fen Creepers you can find as you head towards the Dragonmaw Orc encampment (20.7, 28.7)| |O| |Z|Wetlands|
+C Blisters on The Land |QID|275| |OIDX|1| |N|all Fen Creepers you can find as you head towards the Dragonmaw Orc encampment (20.7, 28.7)| |O| |Z|Wetlands|
 T Nek'rosh's Gambit |QID|465| |N|the Dragonmaw Catapult - (47.5, 47.0)| |Z|Wetlands|
 A Defeat Nek'rosh |QID|474| |N|the Dragonmaw Catapult - (47.5, 47.0)| |C|Hunter/Warlock/Mage| |Z|Wetlands|
 T Nek'rosh's Gambit |QID|465| |N|the Dragonmaw Catapult - (47.5, 47.0)| |Z|Wetlands|
@@ -138,16 +138,16 @@ N You can split pull Nek'Rosh from the mobs around him by using [Blizzard] |N|(5
 N Chieftain Nek'rosh is snareable |N|(53.2, 56.0)| |C|Hunter/Warlock/Mage| |Z|Wetlands|
 N Chieftain Nek'rosh can be [Feared] |N|(53.2, 56.0)| |C|Warlock| |Z|Wetlands|
 N Chieftain Nek'rosh is immune to Fire damage |N|(53.2, 56.0)| |C|Mage/Warlock| |Z|Wetlands|
-C Defeat Nek'rosh |QID|474| |N|Chieftain Nek'rosh. Loot him for his Head (53.2, 56.0)| |C|Hunter/Warlock/Mage| |Z|Wetlands|
+C Defeat Nek'rosh |QID|474| |OIDX|1| |N|Chieftain Nek'rosh. Loot him for his Head (53.2, 56.0)| |C|Hunter/Warlock/Mage| |Z|Wetlands|
 N You can split pull Nek'Rosh from the mobs around him by using [Rain of Fire] |N|(53.2, 56.0)| |C|Warlock| |Z|Wetlands|
 N You can split pull Nek'Rosh from the mobs around him by using [Blizzard] |N|(53.2, 56.0)| |C|Mage| |Z|Wetlands|
 N Chieftain Nek'rosh is snareable |N|(53.2, 56.0)| |Z|Wetlands|
 N Chieftain Nek'rosh can be [Feared] |N|(53.2, 56.0)| |C|Warlock/Priest| |Z|Wetlands|
 N Chieftain Nek'rosh is immune to Fire damage |N|(53.2, 56.0)| |C|Mage/Warlock| |Z|Wetlands|
-C Defeat Nek'rosh |QID|474| |N|Chieftain Nek'rosh. Loot him for his Head (53.2, 56.0)| |Z|Wetlands|
+C Defeat Nek'rosh |QID|474| |OIDX|1| |N|Chieftain Nek'rosh. Loot him for his Head (53.2, 56.0)| |Z|Wetlands|
 N Fen Creepers are in [Stealth] |N|(51.1, 32.7)| |Z|Wetlands|
 N Skip this quest if you can't find any and you aren't close to completing it |N|(51.1, 32.7)| |Z|Wetlands|
-C Blisters on The Land |QID|275| |N|Finish off killing Fen Creepers, there should be spawns in the ponds north and south of the Greenwarden (marked on your map) (51.1, 32.7)| |Z|Wetlands|
+C Blisters on The Land |QID|275| |OIDX|1| |N|Finish off killing Fen Creepers, there should be spawns in the ponds north and south of the Greenwarden (marked on your map) (51.1, 32.7)| |Z|Wetlands|
 T Blisters on The Land |QID|275| |N|Rethiel the Greenwarden - (56.4, 40.4)| |Z|Wetlands|
 T Fall of Dun Modr |QID|472| |N|Longbraid the Grim and Rhag Garmason - (49.8, 18.3)| |Z|Wetlands|
 A The Thandol Span |QID|631| |N|Longbraid the Grim and Rhag Garmason - (49.8, 18.3)| |Z|Wetlands|
@@ -155,11 +155,11 @@ A The Dark Iron War |QID|303| |N|(49.7, 18.2)| |Z|Wetlands|
 A A Grim Task |QID|304| |N|(49.7, 18.2)| |Z|Wetlands|
 N Dark Iron Saboteurs will cast [Sapper Explode] as they die which deals Fire damage in close proximity |N|(62.5, 28.4)| |O| |Z|Wetlands|
 N Dark Iron Demolitionists will continously throw [Bombs] from range |N|(62.5, 28.4)| |O| |Z|Wetlands|
-C The Dark Iron War |QID|303| |N|Dark Iron Dwarves, Dark Iron Tunnelers, Dark Iron Saboteurs and Dark Iron Demolitionists (62.5, 28.4)| |O| |Z|Wetlands|
-C A Grim Task |QID|304| |N|Balgaras the Foul. Loot him for his Ear (62.5, 28.4)| |Z|Wetlands|
+C The Dark Iron War |QID|303| |OIDX|1| |N|Dark Iron Dwarves, Dark Iron Tunnelers, Dark Iron Saboteurs and Dark Iron Demolitionists (62.5, 28.4)| |O| |Z|Wetlands|
+C A Grim Task |QID|304| |OIDX|1| |N|Balgaras the Foul. Loot him for his Ear (62.5, 28.4)| |Z|Wetlands|
 N Dark Iron Saboteurs will cast [Sapper Explode] as they die which deals Fire damage in close proximity |N|(62.5, 28.4)| |Z|Wetlands|
 N Dark Iron Demolitionists will continously throw [Bombs] from range |N|(62.5, 28.4)| |Z|Wetlands|
-C The Dark Iron War |QID|303| |N|Dark Iron Dwarves, Dark Iron Tunnelers, Dark Iron Saboteurs and Dark Iron Demolitionists (62.5, 28.4)| |Z|Wetlands|
+C The Dark Iron War |QID|303| |OIDX|1| |N|Dark Iron Dwarves, Dark Iron Tunnelers, Dark Iron Saboteurs and Dark Iron Demolitionists (62.5, 28.4)| |Z|Wetlands|
 T The Dark Iron War |QID|303| |N|Motley Garmason - (49.7, 18.2)| |Z|Wetlands|
 T A Grim Task |QID|304| |N|Longbraid the Grim - (49.8, 18.3)| |Z|Wetlands|
 N Ensure you are on full HP before going down the Spiral Staircase. There are 2 Elite Dark Iron Sabotuers. Cast any crowd-control abilities on them when once you go down and then run past them. Run back up and out after |N|(51.3, 8.0)| |Z|Wetlands|
@@ -172,7 +172,7 @@ N Use the [Waterlogged Envelope] to start the quest |N|(44.3, 92.9)| |Z|Arathi H
 C Dive down underwater |QID|637| |L|4433 1| |N|Dive down underwater - (44.3, 92.9)| |Z|Arathi Highlands|
 A Sully Balloo's Letter |QID|637| |N|Dive down underwater - (44.3, 92.9)| |Z|Arathi Highlands|
 R Swim east toward the ramp here |N|(52.5, 90.4)| |O| |Z|Arathi Highlands|
-C The Thandol Span |QID|633| |N|the Cache of Explosives (48.8, 88.1)| |Z|Arathi Highlands|
+C The Thandol Span |QID|633| |OIDX|1| |N|the Cache of Explosives (48.8, 88.1)| |Z|Arathi Highlands|
 T The Thandol Span |QID|633| |N|Rhag Garmason - (49.9, 18.2)| |Z|Wetlands|
 A Plea To The Alliance |QID|634| |N|Rhag Garmason - (49.9, 18.2)| |Z|Wetlands|
 R Refuge Point |N|(45.8, 47.5)| |O| |Z|Arathi Highlands|
@@ -199,7 +199,7 @@ T The Absent Minded Prospector |QID|943| |N|Archaeologist Flagongut - (10.8, 60.
 B Restock on  [Razor Arrows] if needed |N|Edwina Monzor - (11.0, 58.6)| |C|Hunter| |Z|Wetlands|
 T Lightforge Iron |QID|321| |N|Click the Waterlogged Chest - (12.1, 64.2)| |Z|Wetlands|
 A The Lost Ingots |QID|324| |N|Click the Waterlogged Chest - (12.1, 64.2)| |Z|Wetlands|
-C The Lost Ingots |QID|324| |N|Bluegill Raiders. Loot them for Ingots (12.6, 65.2)| |Z|Wetlands|
+C The Lost Ingots |QID|324| |OIDX|1| |N|Bluegill Raiders. Loot them for Ingots (12.6, 65.2)| |Z|Wetlands|
 T Apprentice's Duties |QID|471| |N|James Halloran - (8.5, 55.7)| |Z|Wetlands|
 T Defeat Nek'rosh |QID|474| |N|(9.9, 57.5)| |C|Hunter/Warlock/Mage| |Z|Wetlands|
 T Defeat Nek'rosh |QID|474| |N|(9.9, 57.5)| |Z|Wetlands|

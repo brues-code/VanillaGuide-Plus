@@ -36,13 +36,13 @@ C x20,cooking --Chunk of Boar Meat (10-50) |QID|2178| |L|769 50| |N|Mountain Boa
 N Kill Mountain Boars. Loot them for their Boar Intestines |O| |Z|Ironforge|
 N Kill Forest Lurkers. Loot them for their Spider Ichor |O| |Z|Ironforge|
 C Collect Bear Meat (x3) |QID|418| |L|3173 3| |N|Kill Elder Black Bears. Loot them for their Bear Meat| |O| |Z|Ironforge|
-C Rat Catching |QID|416| |N|Kill Tunnel Rats. Loot them for their Tunnel Rat Ears Collect Tunnel Rat Ear (x12)| |O| |Z|Ironforge|
+C Rat Catching |QID|416| |OIDX|1| |N|Kill Tunnel Rats. Loot them for their Tunnel Rat Ears Collect Tunnel Rat Ear (x12)| |O| |Z|Ironforge|
 R the Silver Stream Mine, kill Kobolds for [Ears] on the way |N|(35.5, 19.0)| |O| |Z|Loch Modan|
 N The Miners' League Crates can be found all throughout the Mine |N|(35.9, 22.6)| |Z|Loch Modan|
 N You will be able to do this quest at a higher level if you wish to skip it for now |N|(35.9, 22.6)| |Z|Loch Modan|
-C Filthy Paws |QID|307| |N|the Miners' League Crates. Loot them for the Miners' Gear Miners' Gear (4)| |Z|Loch Modan|
+C Filthy Paws |QID|307| |OIDX|1| |N|the Miners' League Crates. Loot them for the Miners' Gear Miners' Gear (4)| |Z|Loch Modan|
 N Ensure you have 10 [Linen Cloth] for your upcoming Paladin class quest |N|(35.5, 16.8)| |C|Paladin| |Z|Loch Modan|
-C Rat Catching |QID|416| |N|Tunnel Rats. Loot them for their Ears Collect Tunnel Rat Ear (x12)| |Z|Loch Modan|
+C Rat Catching |QID|416| |OIDX|1| |N|Tunnel Rats. Loot them for their Ears Collect Tunnel Rat Ear (x12)| |Z|Loch Modan|
 C Tunnel Rats. Loot them for their Ears |QID|1644| |L|2589 10| |N|Tunnel Rats. Loot them for their Ears - (35.5, 16.8)| |C|Paladin| |R|Human| |Z|Loch Modan|
 R Travel to Ironforge |N|(81.0, 43.5)| |O| |Z|Ironforge|
 C x20,cooking --Chunk of Boar Meat (1-10) |QID|2178| |L|769 10| |N|Mountain Boars. Loot them for their [Chunks of Boar Meat] (80.6, 36.0)| |O| |Z|Ironforge|
@@ -70,8 +70,8 @@ R Run up the dirt path then drop down into the bunker |N|(23.7, 75.5)| |O| |Z|Lo
 A The Trogg Threat |QID|267| |N|Captain Rugelfuss in the bunker - (23.2, 73.7)| |Z|Loch Modan|
 A In Defense of the King's Lands |QID|224| |N|Mountaineer Cobbleflint - (22.1, 73.1)| |Z|Loch Modan|
 N Ensure you have 10 [Linen Cloth] for your upcoming Paladin class quest |N|(27.3, 56.7)| |C|Paladin| |Z|Loch Modan|
-C In Defense of the King's Lands |QID|224| |N|Stonesplinter Troggs and Stonesplinter Scouts. Loot them for their Teeth Kill Stonesplinter Trogg (x10)| |Z|Loch Modan|
-C The Trogg Threat |QID|267| |N|Stonesplinter Troggs and Stonesplinter Scouts. Loot them for their Teeth Collect Trogg Stone Tooth (x8)| |Z|Loch Modan|
+C In Defense of the King's Lands |QID|224| |OIDX|1| |N|Stonesplinter Troggs and Stonesplinter Scouts. Loot them for their Teeth Kill Stonesplinter Trogg (x10)| |Z|Loch Modan|
+C The Trogg Threat |QID|267| |OIDX|1| |N|Stonesplinter Troggs and Stonesplinter Scouts. Loot them for their Teeth Collect Trogg Stone Tooth (x8)| |Z|Loch Modan|
 C Stonesplinter Troggs and Stonesplinter Scouts. Loot them for their Teeth |QID|1644| |L|2589 10| |N|Stonesplinter Troggs and Stonesplinter Scouts. Loot them for their Teeth - (27.3, 56.7)| |C|Paladin| |R|Human| |Z|Loch Modan|
 R Run up the dirt path then drop down into the bunker |N|(23.7, 75.5)| |O| |Z|Loch Modan|
 T The Trogg Threat |QID|267| |N|Captain Rugelfuss - (23.2, 73.7)| |Z|Loch Modan|

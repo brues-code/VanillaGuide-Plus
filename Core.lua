@@ -337,6 +337,37 @@ local options = {
             end,
             order = 17,
         },
+        DebugTrain = {
+            name = "Debug Train",
+            desc = "Debug training detection",
+            type = "execute",
+            func = function()
+                TurtleGuide:Print("--- Skill Lines ---")
+                local numSkills = GetNumSkillLines()
+                TurtleGuide:Print("GetNumSkillLines: " .. tostring(numSkills))
+                for i = 1, numSkills do
+                    local name, isHeader, isExpanded, rank, maxRank = GetSkillLineInfo(i)
+                    TurtleGuide:Print(string.format("%d: %s (Header=%s, Rank=%s)", i, tostring(name), tostring(isHeader), tostring(rank)))
+                end
+                
+                TurtleGuide:Print("--- Spellbook ---")
+                local i = 1
+                while true do
+                    local name, rank = GetSpellName(i, "spell")
+                    if not name then break end
+                    if string.find(string.lower(name), "blacksmith") or string.find(string.lower(name), "mining") then
+                        TurtleGuide:Print(string.format("Spell %d: %s (%s)", i, tostring(name), tostring(rank)))
+                    end
+                    i = i + 1
+                end
+                
+                TurtleGuide:Print("--- Training Check ---")
+                TurtleGuide:Print("IsProfessionLearned('Blacksmithing'): " .. tostring(TurtleGuide:IsProfessionLearned("Blacksmithing")))
+                TurtleGuide:Print("IsSpellLearned('Blacksmithing'): " .. tostring(TurtleGuide:IsSpellLearned("Blacksmithing")))
+                TurtleGuide:Print("IsTrainingCompleted('Train [Blacksmithing]'): " .. tostring(TurtleGuide:IsTrainingCompleted("Train [Blacksmithing]")))
+            end,
+            order = 17,
+        },
         ListGuides = {
             name = "List Guides",
             desc = "List all loaded guides",
@@ -702,9 +733,78 @@ function TurtleGuide:LoadNextGuide()
     return true
 end
 
+function TurtleGuide:IsProfessionLearned(skillName)
+    if not skillName then return false end
+    for i = 1, GetNumSkillLines() do
+        local name, isHeader = GetSkillLineInfo(i)
+        if not isHeader and name and string.lower(name) == string.lower(skillName) then
+            return true
+        end
+    end
+    return false
+end
+
+function TurtleGuide:IsSpellLearned(spellName)
+    if not spellName then return false end
+    local i = 1
+    while true do
+        local name, rank = GetSpellName(i, "spell")
+        if not name then break end
+        if string.lower(name) == string.lower(spellName) then
+            return true
+        end
+        i = i + 1
+    end
+    
+    local i = 1
+    while true do
+        local name, rank = GetSpellName(i, "pet")
+        if not name then break end
+        if string.lower(name) == string.lower(spellName) then
+            return true
+        end
+        i = i + 1
+    end
+    
+    return false
+end
+
+function TurtleGuide:IsTrainingCompleted(stepName)
+    if not stepName then return false end
+    
+    local _, _, name = string.find(stepName, "%[([^%]]+)%]")
+    if not name then
+        name = stepName
+    end
+    
+    if name then
+        name = string.gsub(name, "^Train%s+", "")
+        name = string.gsub(name, "^Training%s+", "")
+        name = string.gsub(name, "%s*%(Rank%s*%d+%)", "")
+        name = string.gsub(name, "%s*%(.*%)", "")
+        name = string.gsub(name, "%s*Part%s*%d+", "")
+        name = TurtleGuide.trim(name)
+        
+        if string.len(name) > 0 then
+            if self:IsProfessionLearned(name) then
+                return true
+            end
+            
+            if self:IsSpellLearned(name) then
+                return true
+            end
+        end
+    end
+    
+    return false
+end
+
 function TurtleGuide:GetQuestLogIndexByName(name)
     name = name or self.quests[self.current]
-    name = string.gsub(name, L.PART_GSUB, "")
+    if name then
+        name = string.gsub(name, "@.*@", "")
+        name = string.gsub(name, L.PART_GSUB, "")
+    end
     for i = 1, GetNumQuestLogEntries() do
         local title, _, _, isHeader = GetQuestLogTitle(i)
         title = string.gsub(title, "%[[0-9%+%-]+]%s", "")
@@ -712,15 +812,24 @@ function TurtleGuide:GetQuestLogIndexByName(name)
     end
 end
 
-function TurtleGuide:GetQuestDetails(name)
+function TurtleGuide:GetQuestDetails(name, oidx)
     if not name then return end
     local i = self:GetQuestLogIndexByName(name)
     if not i or i < 1 then return end
     local _, _, _, _, _, _, isComplete = GetQuestLogTitle(i)
     local complete = i and isComplete and isComplete == 1
 
-    -- Fallback: check if all quest objectives are done via leaderboard
-    if not complete and i then
+    if oidx and not complete then
+        -- Check only the specific objective index
+        local numObjectives = GetNumQuestLeaderBoards(i)
+        if numObjectives and oidx <= numObjectives then
+            local text, objType, finished = GetQuestLogLeaderBoard(oidx, i)
+            complete = not not finished
+        else
+            complete = false
+        end
+    elseif not complete and i then
+        -- Fallback: check if all quest objectives are done via leaderboard
         local numObjectives = GetNumQuestLeaderBoards(i)
         if numObjectives and numObjectives > 0 then
             complete = true
@@ -759,7 +868,9 @@ function TurtleGuide:GetObjectiveStatus(i)
     if not self.actions[i] then return end
 
     local turnedin = self.turnedin[self.quests[i]]
-    local logi, complete = self:GetQuestDetails(self.quests[i])
+    local oidx_str = self:GetObjectiveTag("OIDX", i)
+    local oidx = oidx_str and tonumber(oidx_str) or nil
+    local logi, complete = self:GetQuestDetails(self.quests[i], oidx)
 
     -- Server-side completion check for TURNIN and RUN actions with QID
     if not turnedin then

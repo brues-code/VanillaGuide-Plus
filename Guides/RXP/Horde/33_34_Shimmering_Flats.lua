@@ -25,29 +25,29 @@ A Hardened Shells |QID|1105| |N|Fizzle and Wizzle - (78.1, 77.1)| |Z|Thousand Ne
 A The Rumormonger |QID|1115| |N|Kravel - (77.8, 77.3)| |Z|Thousand Needles|
 A Load Lightening |QID|1176| |N|Pozzik - (80.2, 75.9)| |Z|Thousand Needles|
 A A Bump in the Road |QID|1175| |N|Zherin - (81.6, 78.0)| |Z|Thousand Needles|
-C Load Lightening |QID|1176| |N|Loot Rocket Car Rubble and kill Scorpids, Vultures, Basilisks and Tortoises on the way (69.7, 86.0)| |Z|Thousand Needles|
-C Hardened Shells |QID|1105| |N|Loot Rocket Car Rubble and kill Scorpids, Vultures, Basilisks and Tortoises on the way (69.7, 86.0)| |Z|Thousand Needles|
-C Salt Flat Venom |QID|1104| |N|Loot Rocket Car Rubble and kill Scorpids, Vultures, Basilisks and Tortoises on the way (69.7, 86.0)| |Z|Thousand Needles|
-C A Bump in the Road |QID|1175| |N|Loot Rocket Car Rubble and kill Scorpids, Vultures, Basilisks and Tortoises on the way (69.7, 86.0)| |Z|Thousand Needles|
-C Rocket Car Parts |QID|1110| |N|Loot Rocket Car Rubble and kill Scorpids, Vultures, Basilisks and Tortoises on the way (69.7, 86.0)| |Z|Thousand Needles|
+C Load Lightening |QID|1176| |OIDX|1| |N|Loot Rocket Car Rubble and kill Scorpids, Vultures, Basilisks and Tortoises on the way (69.7, 86.0)| |Z|Thousand Needles|
+C Hardened Shells |QID|1105| |OIDX|1| |N|Loot Rocket Car Rubble and kill Scorpids, Vultures, Basilisks and Tortoises on the way (69.7, 86.0)| |Z|Thousand Needles|
+C Salt Flat Venom |QID|1104| |OIDX|1| |N|Loot Rocket Car Rubble and kill Scorpids, Vultures, Basilisks and Tortoises on the way (69.7, 86.0)| |Z|Thousand Needles|
+C A Bump in the Road |QID|1175| |OIDX|1| |N|Loot Rocket Car Rubble and kill Scorpids, Vultures, Basilisks and Tortoises on the way (69.7, 86.0)| |Z|Thousand Needles|
+C Rocket Car Parts |QID|1110| |OIDX|1| |N|Loot Rocket Car Rubble and kill Scorpids, Vultures, Basilisks and Tortoises on the way (69.7, 86.0)| |Z|Thousand Needles|
 N Be careful! They cry for help when attacked, you could accidently agro multiple nearby mobs |O| |Z|Thousand Needles|
-C The Swarm Grows |QID|1147| |N|Kill Silithid Invaders, Silithid Invaders and Silithid Invaders| |O| |Z|Thousand Needles|
+C The Swarm Grows |QID|1147| |OIDX|3| |N|Kill Silithid Invaders, Silithid Invaders and Silithid Invaders| |O| |Z|Thousand Needles|
 C the Silithid mobs for a [Cracked Silithid Carapace]. Use it to start the quest |QID|1148| |L|5877 1| |N|the Silithid mobs for a [Cracked Silithid Carapace]. Use it to start the quest - (67.5, 82.3)| |Z|Thousand Needles|
 A Parts of the Swarm |QID|1148| |N|the Silithid mobs for a [Cracked Silithid Carapace]. Use it to start the quest - (67.5, 82.3)| |Z|Thousand Needles|
 N Be careful! They cry for help when attacked, you could accidently agro multiple nearby mobs |N|(67.5, 82.3)| |Z|Thousand Needles|
-C The Swarm Grows |QID|1147| |N|Silithid Invaders, Silithid Searchers and Silithid Hive Drones. Loot them for their Hearts, Talons and Carapaces (67.5, 82.3)| |Z|Thousand Needles|
-C Parts of the Swarm |QID|1148| |N|Silithid Invaders, Silithid Searchers and Silithid Hive Drones. Loot them for their Hearts, Talons and Carapaces (67.5, 82.3)| |Z|Thousand Needles|
+C The Swarm Grows |QID|1147| |OIDX|3| |N|Silithid Invaders, Silithid Searchers and Silithid Hive Drones. Loot them for their Hearts, Talons and Carapaces (67.5, 82.3)| |Z|Thousand Needles|
+C Parts of the Swarm |QID|1148| |OIDX|1| |N|Silithid Invaders, Silithid Searchers and Silithid Hive Drones. Loot them for their Hearts, Talons and Carapaces (67.5, 82.3)| |Z|Thousand Needles|
 T The Swarm Grows |QID|1147| |N|Return to Moktar - (67.6, 64.0)| |O| |Z|Thousand Needles|
 N Kill Salt Flats Scavengers and Salt Flats Vultures. Loot them for their Bones |N|(87.5, 65.6)| |Z|Thousand Needles|
 N Kill Sparkleshell Tortoises, Sparkleshell Borers and Sparkleshell Snappers. Loot them for their Shells |N|(87.5, 65.6)| |Z|Thousand Needles|
 N Kill Scorpid Reavers and Scorpid Terrors. Loot them for their Venom |N|(87.5, 65.6)| |Z|Thousand Needles|
 N Kill Saltstone Basilisks, Saltstone Crystalhides and Saltstone Gazers |N|(87.5, 65.6)| |Z|Thousand Needles|
 N Open the Rocket Car Rubble. Loot it for the Rocket Car Parts |N|(87.5, 65.6)| |Z|Thousand Needles|
-C Load Lightening |QID|1176| |N|Run circles around The Shimmering Flats until all objectives are complete (87.5, 65.6)| |Z|Thousand Needles|
-C Hardened Shells |QID|1105| |N|Run circles around The Shimmering Flats until all objectives are complete (87.5, 65.6)| |Z|Thousand Needles|
-C Salt Flat Venom |QID|1104| |N|Run circles around The Shimmering Flats until all objectives are complete (82.6, 54.8)| |Z|Thousand Needles|
-C A Bump in the Road |QID|1175| |N|Run circles around The Shimmering Flats until all objectives are complete (71.8, 73.4)| |Z|Thousand Needles|
-C Rocket Car Parts |QID|1110| |N|Run circles around The Shimmering Flats until all objectives are complete (77.7, 87.3)| |Z|Thousand Needles|
+C Load Lightening |QID|1176| |OIDX|1| |N|Run circles around The Shimmering Flats until all objectives are complete (87.5, 65.6)| |Z|Thousand Needles|
+C Hardened Shells |QID|1105| |OIDX|1| |N|Run circles around The Shimmering Flats until all objectives are complete (87.5, 65.6)| |Z|Thousand Needles|
+C Salt Flat Venom |QID|1104| |OIDX|1| |N|Run circles around The Shimmering Flats until all objectives are complete (82.6, 54.8)| |Z|Thousand Needles|
+C A Bump in the Road |QID|1175| |OIDX|1| |N|Run circles around The Shimmering Flats until all objectives are complete (71.8, 73.4)| |Z|Thousand Needles|
+C Rocket Car Parts |QID|1110| |OIDX|1| |N|Run circles around The Shimmering Flats until all objectives are complete (77.7, 87.3)| |Z|Thousand Needles|
 T The Swarm Grows |QID|1147| |N|Return to Moktar - (67.6, 64.0)| |Z|Thousand Needles|
 T Rocket Car Parts |QID|1110| |N|Return to Kravel - (77.8, 77.3)| |Z|Thousand Needles|
 A Hemet Nesingwary |QID|5762| |N|Return to Kravel - (77.8, 77.3)| |Z|Thousand Needles|

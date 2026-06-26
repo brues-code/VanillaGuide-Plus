@@ -38,9 +38,9 @@ T Hunting in Stranglethorn |QID|5763| |N|Barnil, Hemet, Ajeck and S. J. Erlgadin
 A Raptor Mastery |QID|194| |N|Barnil, Hemet, Ajeck and S. J. Erlgadin - (35.7, 10.5)| |Z|Stranglethorn Vale|
 A Tiger Mastery |QID|185| |N|(35.7, 10.8)| |Z|Stranglethorn Vale|
 A Panther Mastery |QID|190| |N|(35.6, 10.6)| |Z|Stranglethorn Vale|
-C Supply and Demand |QID|575| |N|Kill River Crocolisks along the river. Loot them for their Skin| |O| |Z|Stranglethorn Vale|
-C Tiger Mastery |QID|185| |N|Kill Young Stranglethorn Tigers| |O| |Z|Stranglethorn Vale|
-C Panther Mastery |QID|190| |N|Young Panthers (41.0, 13.7)| |Z|Stranglethorn Vale|
+C Supply and Demand |QID|575| |OIDX|1| |N|Kill River Crocolisks along the river. Loot them for their Skin| |O| |Z|Stranglethorn Vale|
+C Tiger Mastery |QID|185| |OIDX|1| |N|Kill Young Stranglethorn Tigers| |O| |Z|Stranglethorn Vale|
+C Panther Mastery |QID|190| |OIDX|1| |N|Young Panthers (41.0, 13.7)| |Z|Stranglethorn Vale|
 N [Jungle Remedy] can be used to dispell long lasting poison effects later in the guide |N|(44.0, 10.5)| |C|Warrior| |Z|Stranglethorn Vale|
 N You can decide for yourself how much [Jungle Remedy] you would like to grind |N|(44.0, 10.5)| |C|Warrior| |Z|Stranglethorn Vale|
 N Jungle Fighters and Medicine Men share spawns, so you'll have to kill both |N|(44.0, 10.5)| |C|Warrior| |Z|Stranglethorn Vale|
@@ -55,34 +55,34 @@ N [Jungle Remedy] can be used to dispell long lasting poison effects later in th
 N You can decide for yourself how much of these items you would like to grind |N|(44.0, 10.5)| |C|Rogue| |Z|Stranglethorn Vale|
 N Jungle Fighters and Medicine Men share spawns, so you'll have to kill both |N|(44.0, 10.5)| |C|Rogue| |Z|Stranglethorn Vale|
 C Kurzen Medicine Men. Loot them for [Fadeleaf] and [Jungle Remedy] |QID|191| |L|3818 5| |N|Kurzen Medicine Men. Loot them for [Fadeleaf] and [Jungle Remedy] - (44.0, 10.5)| |C|Rogue| |Z|Stranglethorn Vale|
-C Supply and Demand |QID|575| |N|Kill River Crocolisks along the river. Loot them for their Skin| |O| |Z|Stranglethorn Vale|
-C Tiger Mastery |QID|185| |N|Young Stranglethorn Tigers (34.1, 11.3)| |Z|Stranglethorn Vale|
+C Supply and Demand |QID|575| |OIDX|1| |N|Kill River Crocolisks along the river. Loot them for their Skin| |O| |Z|Stranglethorn Vale|
+C Tiger Mastery |QID|185| |OIDX|1| |N|Young Stranglethorn Tigers (34.1, 11.3)| |Z|Stranglethorn Vale|
 T Tiger Mastery |QID|185| |N|Ajeck and S. J. Erlgadin - (35.6, 10.6)| |Z|Stranglethorn Vale|
 A Tiger Mastery |QID|186| |N|Ajeck and S. J. Erlgadin - (35.6, 10.6)| |Z|Stranglethorn Vale|
 T Panther Mastery |QID|190| |N|Ajeck and S. J. Erlgadin - (35.6, 10.6)| |Z|Stranglethorn Vale|
 A Panther Mastery |QID|191| |N|Ajeck and S. J. Erlgadin - (35.6, 10.6)| |Z|Stranglethorn Vale|
-C Supply and Demand |QID|575| |N|Kill River Crocolisks along the river. Loot them for their Skin| |O| |Z|Stranglethorn Vale|
-C Panther Mastery |QID|191| |N|Panthers and Stranglethorn Tigers (30.6, 13.9)| |Z|Stranglethorn Vale|
-C Tiger Mastery |QID|186| |N|Panthers and Stranglethorn Tigers (30.6, 13.9)| |Z|Stranglethorn Vale|
-C Raptor Mastery |QID|194| |N|Stranglethorn Raptors (27.8, 14.3)| |Z|Stranglethorn Vale|
+C Supply and Demand |QID|575| |OIDX|1| |N|Kill River Crocolisks along the river. Loot them for their Skin| |O| |Z|Stranglethorn Vale|
+C Panther Mastery |QID|191| |OIDX|1| |N|Panthers and Stranglethorn Tigers (30.6, 13.9)| |Z|Stranglethorn Vale|
+C Tiger Mastery |QID|186| |OIDX|1| |N|Panthers and Stranglethorn Tigers (30.6, 13.9)| |Z|Stranglethorn Vale|
+C Raptor Mastery |QID|194| |OIDX|1| |N|Stranglethorn Raptors (27.8, 14.3)| |Z|Stranglethorn Vale|
 T Panther Mastery |QID|191| |N|S. J. Erlgadin, Ajeck and Hemet - (35.5, 10.6)| |Z|Stranglethorn Vale|
 A Panther Mastery |QID|192| |N|S. J. Erlgadin, Ajeck and Hemet - (35.5, 10.6)| |Z|Stranglethorn Vale|
 T Tiger Mastery |QID|186| |N|S. J. Erlgadin, Ajeck and Hemet - (35.5, 10.6)| |Z|Stranglethorn Vale|
 A Tiger Mastery |QID|187| |N|S. J. Erlgadin, Ajeck and Hemet - (35.5, 10.6)| |Z|Stranglethorn Vale|
 T Raptor Mastery |QID|194| |N|(35.6, 10.6)| |Z|Stranglethorn Vale|
 A Raptor Mastery |QID|195| |N|(35.6, 10.6)| |Z|Stranglethorn Vale|
-C Supply and Demand |QID|575| |N|River Crocolisks along the river. Loot them for their Skin (39.8, 14.4)| |Z|Stranglethorn Vale|
-C Tiger Mastery |QID|187| |N|Kill Elder Stranglethorn Tigers| |O| |Z|Stranglethorn Vale|
+C Supply and Demand |QID|575| |OIDX|1| |N|River Crocolisks along the river. Loot them for their Skin (39.8, 14.4)| |Z|Stranglethorn Vale|
+C Tiger Mastery |QID|187| |OIDX|1| |N|Kill Elder Stranglethorn Tigers| |O| |Z|Stranglethorn Vale|
 N Kill Bloodscalp Shamans. Loot them for a Bloodscalp Totem |N|(33.9, 15.6)| |Z|Stranglethorn Vale|
-C Hunt for Yenniku |QID|581| |N|Bloodscalp Trolls. Loot them for their Tusks, Ears and Necklaces (33.9, 15.6)| |Z|Stranglethorn Vale|
-C Bloodscalp Ears |QID|189| |N|Bloodscalp Trolls. Loot them for their Tusks, Ears and Necklaces (33.9, 15.6)| |Z|Stranglethorn Vale|
-C Bloody Bone Necklaces |QID|596| |N|Bloodscalp Trolls. Loot them for their Tusks, Ears and Necklaces (33.9, 15.6)| |Z|Stranglethorn Vale|
-C Bloodscalp Trolls. Loot them for their Tusks, Ears and Necklaces |QID|9436| |N|Bloodscalp Trolls. Loot them for their Tusks, Ears and Necklaces - (33.9, 15.6)| |Z|Stranglethorn Vale|
-C Tiger Mastery |QID|187| |N|Elder Stranglethorn Tigers (34.2, 17.6)| |Z|Stranglethorn Vale|
+C Hunt for Yenniku |QID|581| |OIDX|1| |N|Bloodscalp Trolls. Loot them for their Tusks, Ears and Necklaces (33.9, 15.6)| |Z|Stranglethorn Vale|
+C Bloodscalp Ears |QID|189| |OIDX|1| |N|Bloodscalp Trolls. Loot them for their Tusks, Ears and Necklaces (33.9, 15.6)| |Z|Stranglethorn Vale|
+C Bloody Bone Necklaces |QID|596| |OIDX|1| |N|Bloodscalp Trolls. Loot them for their Tusks, Ears and Necklaces (33.9, 15.6)| |Z|Stranglethorn Vale|
+C Bloodscalp Trolls. Loot them for their Tusks, Ears and Necklaces |QID|9436| |OIDX|1| |N|Bloodscalp Trolls. Loot them for their Tusks, Ears and Necklaces - (33.9, 15.6)| |Z|Stranglethorn Vale|
+C Tiger Mastery |QID|187| |OIDX|1| |N|Elder Stranglethorn Tigers (34.2, 17.6)| |Z|Stranglethorn Vale|
 N Be careful. Lashtail Raptors can stun and [Disarm] you |N|(31.9, 20.9)| |C|Rogue/Warrior/Shaman/Pala| |Z|Stranglethorn Vale|
 N Be careful. Lashtail Raptors can stun you |N|(31.9, 20.9)| |C|!Rogue/!Warrior/!Shaman| |Z|Stranglethorn Vale|
-C The Defense of Grom'gol |QID|568| |N|Lashtail Raptors (31.9, 20.9)| |Z|Stranglethorn Vale|
-C Raptor Mastery |QID|195| |N|Lashtail Raptors (31.9, 20.9)| |Z|Stranglethorn Vale|
+C The Defense of Grom'gol |QID|568| |OIDX|1| |N|Lashtail Raptors (31.9, 20.9)| |Z|Stranglethorn Vale|
+C Raptor Mastery |QID|195| |OIDX|1| |N|Lashtail Raptors (31.9, 20.9)| |Z|Stranglethorn Vale|
 T Hunt for Yenniku |QID|581| |N|Nimboya - (32.2, 27.8)| |Z|Stranglethorn Vale|
 A Headhunting |QID|582| |N|Nimboya - (32.2, 27.8)| |Z|Stranglethorn Vale|
 A The Vile Reef |QID|629| |N|Kin'weelay - (32.2, 27.8)| |Z|Stranglethorn Vale|
@@ -92,40 +92,40 @@ N Buy [Razor Arrows] from him |N|(31.6, 27.9)| |C|Hunter| |Z|Stranglethorn Vale|
 B Uthok |L|3030 2600| |N|Uthok - (31.6, 27.9)| |C|Hunter| |Z|Stranglethorn Vale|
 t Train your class spells |N|Kragg - (31.2, 28.7)| |C|Hunter| |Z|Stranglethorn Vale|
 N There are two Tablets located on either side of the wall. Loot the one on the outside of the wall. This way you won't agro any of the elite Saltscale Murlocs |N|(24.8, 22.9)| |Z|Stranglethorn Vale|
-C The Vile Reef |QID|629| |N|the Gri'lek the Wanderer for the Tablet Shard (24.8, 22.9)| |Z|Stranglethorn Vale|
+C The Vile Reef |QID|629| |OIDX|1| |N|the Gri'lek the Wanderer for the Tablet Shard (24.8, 22.9)| |Z|Stranglethorn Vale|
 N You have to go back and forth here forcing dynamic respawns |N|(27.0, 19.8)| |Z|Stranglethorn Vale|
-C Singing Blue Shards |QID|605| |N|Crystal Spine Basilisks. Loot them for their Crystal Shards (27.0, 19.8)| |Z|Stranglethorn Vale|
+C Singing Blue Shards |QID|605| |OIDX|1| |N|Crystal Spine Basilisks. Loot them for their Crystal Shards (27.0, 19.8)| |Z|Stranglethorn Vale|
 N [Shrunken Heads] only drop from Bloodscalp Headhunters |N|(19.7, 13.3)| |C|Warrior| |Z|Stranglethorn Vale|
-C Bloodscalp Ears |QID|189| |N|Bloodscalp Trolls. Loot them for their Ears, Heads, Necklaces and Tusks (19.7, 13.3)| |C|Warrior| |Z|Stranglethorn Vale|
-C Headhunting |QID|582| |N|Bloodscalp Trolls. Loot them for their Ears, Heads, Necklaces and Tusks (19.7, 13.3)| |C|Warrior| |Z|Stranglethorn Vale|
-C Bloody Bone Necklaces |QID|596| |N|Bloodscalp Trolls. Loot them for their Ears, Heads, Necklaces and Tusks (19.7, 13.3)| |C|Warrior| |Z|Stranglethorn Vale|
-C Cyclonian |QID|1712| |N|Bloodscalp Trolls. Loot them for their Ears, Heads, Necklaces and Tusks (19.7, 13.3)| |C|Warrior| |Z|Stranglethorn Vale|
+C Bloodscalp Ears |QID|189| |OIDX|1| |N|Bloodscalp Trolls. Loot them for their Ears, Heads, Necklaces and Tusks (19.7, 13.3)| |C|Warrior| |Z|Stranglethorn Vale|
+C Headhunting |QID|582| |OIDX|1| |N|Bloodscalp Trolls. Loot them for their Ears, Heads, Necklaces and Tusks (19.7, 13.3)| |C|Warrior| |Z|Stranglethorn Vale|
+C Bloody Bone Necklaces |QID|596| |OIDX|1| |N|Bloodscalp Trolls. Loot them for their Ears, Heads, Necklaces and Tusks (19.7, 13.3)| |C|Warrior| |Z|Stranglethorn Vale|
+C Cyclonian |QID|1712| |OIDX|2| |N|Bloodscalp Trolls. Loot them for their Ears, Heads, Necklaces and Tusks (19.7, 13.3)| |C|Warrior| |Z|Stranglethorn Vale|
 N [Shrunken Heads] only drop from Bloodscalp Headhunters |N|(19.7, 13.3)| |Z|Stranglethorn Vale|
-C Bloodscalp Ears |QID|189| |N|Bloodscalp Trolls. Loot them for their Ears, Heads and Necklaces (19.7, 13.3)| |Z|Stranglethorn Vale|
-C Headhunting |QID|582| |N|Bloodscalp Trolls. Loot them for their Ears, Heads and Necklaces (19.7, 13.3)| |Z|Stranglethorn Vale|
-C Bloody Bone Necklaces |QID|596| |N|Bloodscalp Trolls. Loot them for their Ears, Heads and Necklaces (19.7, 13.3)| |Z|Stranglethorn Vale|
+C Bloodscalp Ears |QID|189| |OIDX|1| |N|Bloodscalp Trolls. Loot them for their Ears, Heads and Necklaces (19.7, 13.3)| |Z|Stranglethorn Vale|
+C Headhunting |QID|582| |OIDX|1| |N|Bloodscalp Trolls. Loot them for their Ears, Heads and Necklaces (19.7, 13.3)| |Z|Stranglethorn Vale|
+C Bloody Bone Necklaces |QID|596| |OIDX|1| |N|Bloodscalp Trolls. Loot them for their Ears, Heads and Necklaces (19.7, 13.3)| |Z|Stranglethorn Vale|
 T Headhunting |QID|582| |N|Nimboya and Kin'weelay - (32.2, 27.7)| |Z|Stranglethorn Vale|
 T Bloody Bone Necklaces |QID|596| |N|Nimboya and Kin'weelay - (32.2, 27.7)| |Z|Stranglethorn Vale|
 T The Vile Reef |QID|629| |N|Nimboya and Kin'weelay - (32.2, 27.7)| |Z|Stranglethorn Vale|
 t Train your class spells |N|Kragg - (31.2, 28.7)| |C|Hunter| |Z|Stranglethorn Vale|
 N Only do this when waiting for Mosh'Ogg Ogre respawns |N|(36.9, 34.9)| |O| |Z|Stranglethorn Vale|
 N Shadowmaw Panthers are stealthed mobs. Search any vacant areas |N|(36.9, 34.9)| |O| |Z|Stranglethorn Vale|
-C Mok'thardin's Enchantment |QID|570| |N|Shadowmaw Panthers and Stranglethorn Tigresses across the river (36.9, 34.9)| |O| |Z|Stranglethorn Vale|
-C Panther Mastery |QID|192| |N|Shadowmaw Panthers and Stranglethorn Tigresses across the river (36.9, 34.9)| |O| |Z|Stranglethorn Vale|
+C Mok'thardin's Enchantment |QID|570| |OIDX|1| |N|Shadowmaw Panthers and Stranglethorn Tigresses across the river (36.9, 34.9)| |O| |Z|Stranglethorn Vale|
+C Panther Mastery |QID|192| |OIDX|1| |N|Shadowmaw Panthers and Stranglethorn Tigresses across the river (36.9, 34.9)| |O| |Z|Stranglethorn Vale|
 N There are not enough Mosh'Ogg Brutes so you will have to wait for respawns at least once |N|(36.5, 31.6)| |Z|Stranglethorn Vale|
-C The Defense of Grom'gol |QID|569| |N|Mosh'Ogg Brutes and Mosh'Ogg Witch Doctors (36.5, 31.6)| |Z|Stranglethorn Vale|
-C Hostile Takeover |QID|213| |N|Kill Venture Co. Geologists. Loot them for their Crystals| |O| |Z|Stranglethorn Vale|
+C The Defense of Grom'gol |QID|569| |OIDX|1| |N|Mosh'Ogg Brutes and Mosh'Ogg Witch Doctors (36.5, 31.6)| |Z|Stranglethorn Vale|
+C Hostile Takeover |QID|213| |OIDX|1| |N|Kill Venture Co. Geologists. Loot them for their Crystals| |O| |Z|Stranglethorn Vale|
 C Climb to the oil rig's top level, then kill Foreman Cozzle. Loot him for his Key |L|5851 1| |N|Climb to the oil rig's top level, then kill Foreman Cozzle. Loot him for his Key - (42.7, 18.4)| |Z|Stranglethorn Vale|
 R Enter the house |N|(43.5, 20.3)| |O| |Z|Stranglethorn Vale|
-C Goblin Sponsorship |QID|1182| |N|Cozzle's Footlocker for the Fuel Regulator Blueprints (43.3, 20.3)| |Z|Stranglethorn Vale|
-C The Defense of Grom'gol |QID|569| |N|Return to the Mizjah Ruins and finish killing Mosh'Ogg Brutes and Mosh'Ogg Witch Doctors (35.6, 30.6)| |Z|Stranglethorn Vale|
-C Hostile Takeover |QID|213| |N|Finish killing Venture Co. Geologists. Loot them for their Crystals (43.6, 19.3)| |Z|Stranglethorn Vale|
-C Mok'thardin's Enchantment |QID|570| |N|Kill Stranglethorn Tigresses. Loot them for a Pristine Tigress Fang| |O| |Z|Stranglethorn Vale|
+C Goblin Sponsorship |QID|1182| |OIDX|1| |N|Cozzle's Footlocker for the Fuel Regulator Blueprints (43.3, 20.3)| |Z|Stranglethorn Vale|
+C The Defense of Grom'gol |QID|569| |OIDX|1| |N|Return to the Mizjah Ruins and finish killing Mosh'Ogg Brutes and Mosh'Ogg Witch Doctors (35.6, 30.6)| |Z|Stranglethorn Vale|
+C Hostile Takeover |QID|213| |OIDX|1| |N|Finish killing Venture Co. Geologists. Loot them for their Crystals (43.6, 19.3)| |Z|Stranglethorn Vale|
+C Mok'thardin's Enchantment |QID|570| |OIDX|2| |N|Kill Stranglethorn Tigresses. Loot them for a Pristine Tigress Fang| |O| |Z|Stranglethorn Vale|
 N These are stealthed mobs. Search any vacant areas |N|(47.8, 21.2)| |Z|Stranglethorn Vale|
-C Mok'thardin's Enchantment |QID|570| |N|Shadowmaw Panthers. Loot them for their Claws (47.8, 21.2)| |Z|Stranglethorn Vale|
-C Panther Mastery |QID|192| |N|Shadowmaw Panthers. Loot them for their Claws (47.8, 21.2)| |Z|Stranglethorn Vale|
-C Mok'thardin's Enchantment |QID|570| |N|Stranglethorn Tigresses. Loot them for a Pristine Tigress Fang (47.8, 21.2)| |Z|Stranglethorn Vale|
-C Supply and Demand |QID|575| |N|Finish killing River Crocolisks along the river. Loot them for their Skin (39.8, 14.4)| |Z|Stranglethorn Vale|
+C Mok'thardin's Enchantment |QID|570| |OIDX|1| |N|Shadowmaw Panthers. Loot them for their Claws (47.8, 21.2)| |Z|Stranglethorn Vale|
+C Panther Mastery |QID|192| |OIDX|1| |N|Shadowmaw Panthers. Loot them for their Claws (47.8, 21.2)| |Z|Stranglethorn Vale|
+C Mok'thardin's Enchantment |QID|570| |OIDX|2| |N|Stranglethorn Tigresses. Loot them for a Pristine Tigress Fang (47.8, 21.2)| |Z|Stranglethorn Vale|
+C Supply and Demand |QID|575| |OIDX|1| |N|Finish killing River Crocolisks along the river. Loot them for their Skin (39.8, 14.4)| |Z|Stranglethorn Vale|
 T Panther Mastery |QID|192| |N|S. J. Erlgadin, Ajeck and Hemet - (35.5, 10.6)| |Z|Stranglethorn Vale|
 A Panther Mastery |QID|193| |N|S. J. Erlgadin, Ajeck and Hemet - (35.5, 10.6)| |Z|Stranglethorn Vale|
 T Tiger Mastery |QID|187| |N|S. J. Erlgadin, Ajeck and Hemet - (35.5, 10.6)| |Z|Stranglethorn Vale|
@@ -133,7 +133,7 @@ A Tiger Mastery |QID|188| |N|S. J. Erlgadin, Ajeck and Hemet - (35.5, 10.6)| |Z|
 T Raptor Mastery |QID|195| |N|(35.6, 10.6)| |Z|Stranglethorn Vale|
 A Raptor Mastery |QID|196| |N|(35.6, 10.6)| |Z|Stranglethorn Vale|
 N Sin'Dall is either atop the plateau, or patrolling its base |N|(32.2, 17.4)| |Z|Stranglethorn Vale|
-C Tiger Mastery |QID|188| |N|Sin'Dall. Loot her for her Paw (32.2, 17.4)| |Z|Stranglethorn Vale|
+C Tiger Mastery |QID|188| |OIDX|1| |N|Sin'Dall. Loot her for her Paw (32.2, 17.4)| |Z|Stranglethorn Vale|
 T Tiger Mastery |QID|188| |N|Ajeck - (35.6, 10.6)| |Z|Stranglethorn Vale|
 A Trollbane |QID|638| |N|Nimboya - (32.2, 27.7)| |Z|Stranglethorn Vale|
 T The Defense of Grom'gol |QID|569| |N|Commander Aggro'gosh - (32.2, 28.9)| |Z|Stranglethorn Vale|

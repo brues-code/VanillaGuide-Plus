@@ -24,22 +24,22 @@ N All 4 [Relic Fragments] |N|(61.5, 37.0)| |Z|Winterspring|
 N Their spawn point is on the west side of Winterspring near the Timbermaw tunnel. Their patrol route is marked on your map |O| |Z|Winterspring|
 N Use [Eagle Eye] to try and find them |O| |C|Hunter| |Z|Winterspring|
 N If you don't find them now you will do it later |O| |Z|Winterspring|
-C Winterfall Runners |QID|5087| |N|Kill the Winterfall Runners. Loot them for their Winterfall Crate| |O| |Z|Winterspring|
+C Winterfall Runners |QID|5087| |OIDX|1| |N|Kill the Winterfall Runners. Loot them for their Winterfall Crate| |O| |Z|Winterspring|
 T Enraged Wildkin |QID|4861| |N|the Damaged Crate on the ground - (59.0, 59.8)| |Z|Winterspring|
 A Enraged Wildkin |QID|4863| |N|the Damaged Crate on the ground - (59.0, 59.8)| |Z|Winterspring|
 T Enraged Wildkin |QID|4863| |N|on Jaron's Wagon - (61.4, 60.7)| |Z|Winterspring|
 A Enraged Wildkin |QID|4864| |N|on Jaron's Wagon - (61.4, 60.7)| |Z|Winterspring|
-C Enraged Wildkin |QID|4864| |N|Jaron's Supplies on the ground (61.4, 60.7)| |Z|Winterspring|
-C Enraged Wildkin |QID|4864| |N|Kill Crazed Owlbeasts, Moontouched Owlbeasts and Berserk Owlbeasts. Loot them for a Blue-feathered Amulet| |O| |Z|Winterspring|
+C Enraged Wildkin |QID|4864| |OIDX|1| |N|Jaron's Supplies on the ground (61.4, 60.7)| |Z|Winterspring|
+C Enraged Wildkin |QID|4864| |OIDX|2| |N|Kill Crazed Owlbeasts, Moontouched Owlbeasts and Berserk Owlbeasts. Loot them for a Blue-feathered Amulet| |O| |Z|Winterspring|
 T Find Ranshalla |QID|979| |N|Ranshalla - (63.1, 59.5)| |C|!Hunter| |Z|Winterspring|
 N Skip the follow up escort quest |N|(63.1, 59.5)| |C|!Hunter| |Z|Winterspring|
 T Find Ranshalla |QID|979| |N|Ranshalla - (63.1, 59.5)| |C|Hunter| |Z|Winterspring|
 A Guardians of the Altar |QID|4901| |N|Ranshalla - (63.1, 59.5)| |C|Hunter| |Z|Winterspring|
 N Guardians of the Altar will begin an escort quest. If you're in a party ensure everyone has turned in Find Ranshalla first |N|(63.1, 59.5)| |C|Hunter| |Z|Winterspring|
 N Click the Fire of Elune torches inside the caves when Ranshalla begins channelling her spell on them, and then the Altar of Elune at the end |N|(64.8, 63.8)| |C|Hunter| |Z|Winterspring|
-C Guardians of the Altar |QID|4901| |N|Escort Ranshalla through Owl Wing Thicket (64.8, 63.8)| |C|Hunter| |Z|Winterspring|
-C Enraged Wildkin |QID|4864| |N|Crazed Owlbeasts, Moontouched Owlbeasts and Berserk Owlbeasts. Loot them for a Blue-feathered Amulet (65.5, 60.3)| |Z|Winterspring|
-C Strange Sources |QID|4842| |N|Explore Darkwhisper Gorge. You can do this without agroing any of the nearby Elites (59.9, 74.0)| |Z|Winterspring|
+C Guardians of the Altar |QID|4901| |OIDX|1| |N|Escort Ranshalla through Owl Wing Thicket (64.8, 63.8)| |C|Hunter| |Z|Winterspring|
+C Enraged Wildkin |QID|4864| |OIDX|2| |N|Crazed Owlbeasts, Moontouched Owlbeasts and Berserk Owlbeasts. Loot them for a Blue-feathered Amulet (65.5, 60.3)| |Z|Winterspring|
+C Strange Sources |QID|4842| |OIDX|1| |N|Explore Darkwhisper Gorge. You can do this without agroing any of the nearby Elites (59.9, 74.0)| |Z|Winterspring|
 N Buy food/water if needed |C|!Warrior/!Rogue| |Z|Winterspring|
 N Buy food if needed |C|Warrior/Rogue| |Z|Winterspring|
 N Buy food/water if needed |C|!Warrior/!Rogue| |Z|Winterspring|
@@ -48,7 +48,7 @@ T Luck Be With You |QID|969| |N|Witch Doctor Mau'ari - (61.9, 38.3)| |Z|Wintersp
 T Enraged Wildkin |QID|4864| |N|Jaron Stoneshaper - (52.1, 30.4)| |Z|Winterspring|
 N Their spawn point is on the west side of Winterspring near the Timbermaw tunnel. Their patrol route is marked on your map |Z|Winterspring|
 N Use [Eagle Eye] to try and find them |C|Hunter| |Z|Winterspring|
-C Winterfall Runners |QID|5087| |N|Kill the Winterfall Runners. Loot them for their Winterfall Crate| |Z|Winterspring|
+C Winterfall Runners |QID|5087| |OIDX|1| |N|Kill the Winterfall Runners. Loot them for their Winterfall Crate| |Z|Winterspring|
 T Strange Sources |QID|4842| |N|Donova Snowden - (31.3, 45.2)| |Z|Winterspring|
 T Winterfall Runners |QID|5087| |N|Donova Snowden - (31.3, 45.2)| |Z|Winterspring|
 A High Chief Winterfall |QID|5121| |N|Donova Snowden - (31.3, 45.2)| |Z|Winterspring|

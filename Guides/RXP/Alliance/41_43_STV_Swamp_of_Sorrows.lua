@@ -54,10 +54,10 @@ A Akiris by the Bundle |QID|617| |N|Privateer Bloads - (26.8, 76.4)| |Z|Strangle
 A Scaring Shaky |QID|606| |N|"Sea Wolf" MacKinley - (27.8, 77.1)| |Z|Stranglethorn Vale|
 A Excelsior |QID|628| |N|Drizzlik - (28.3, 77.6)| |Z|Stranglethorn Vale|
 A The Bloodsail Buccaneers |QID|595| |N|First Mate Crazz - (28.1, 76.2)| |Z|Stranglethorn Vale|
-C "Pretty Boy" Duncan |QID|610| |N|Kill "Pretty Boy" Duncan. Loot him for Catelyn's Blade| |O| |Z|Stranglethorn Vale|
+C "Pretty Boy" Duncan |QID|610| |OIDX|1| |N|Kill "Pretty Boy" Duncan. Loot him for Catelyn's Blade| |O| |Z|Stranglethorn Vale|
 T The Bloodsail Buccaneers |QID|595| |N|the Bloodsail Correspondence on top of the barrel - (27.3, 69.5)| |Z|Stranglethorn Vale|
 A The Bloodsail Buccaneers |QID|597| |N|the Bloodsail Correspondence on top of the barrel - (27.3, 69.5)| |Z|Stranglethorn Vale|
-C "Pretty Boy" Duncan |QID|610| |N|"Pretty Boy" Duncan. Loot him for Catelyn's Blade (27.4, 69.4)| |Z|Stranglethorn Vale|
+C "Pretty Boy" Duncan |QID|610| |OIDX|1| |N|"Pretty Boy" Duncan. Loot him for Catelyn's Blade (27.4, 69.4)| |Z|Stranglethorn Vale|
 T The Bloodsail Buccaneers |QID|597| |N|First Mate Crazz - (28.1, 76.2)| |Z|Stranglethorn Vale|
 A The Bloodsail Buccaneers |QID|599| |N|First Mate Crazz - (28.1, 76.2)| |Z|Stranglethorn Vale|
 T "Pretty Boy" Duncan |QID|610| |N|Catelyn the Blade - (27.3, 77.5)| |Z|Stranglethorn Vale|
@@ -66,25 +66,25 @@ A Up to Snuff |QID|587| |N|Deeg - (26.9, 77.3)| |C|!Warlock| |Z|Stranglethorn Va
 T The Bloodsail Buccaneers |QID|599| |N|Fleet Master Seahorn - (27.2, 77.0)| |Z|Stranglethorn Vale|
 A Keep An Eye Out |QID|576| |N|Dizzy One-Eye - (28.6, 75.9)| |Z|Stranglethorn Vale|
 C Keep any [Gorilla Fangs] you might loot. You will need 10 for a quest later |L|2799 10| |N|Keep any [Gorilla Fangs] you might loot. You will need 10 for a quest later| |O| |Z|Stranglethorn Vale|
-C Scaring Shaky |QID|606| |N|Elder Mistvale Gorillas. Loot them for their Mistvale Giblets and Gorilla Fangs (33.5, 65.2)| |Z|Stranglethorn Vale|
-C Raptor Mastery |QID|196| |N|Jungle Stalkers (31.9, 40.9)| |Z|Stranglethorn Vale|
+C Scaring Shaky |QID|606| |OIDX|1| |N|Elder Mistvale Gorillas. Loot them for their Mistvale Giblets and Gorilla Fangs (33.5, 65.2)| |Z|Stranglethorn Vale|
+C Raptor Mastery |QID|196| |OIDX|1| |N|Jungle Stalkers (31.9, 40.9)| |Z|Stranglethorn Vale|
 N Tethis can spawn in any of the spots marked on your map |N|(31.1, 43.2)| |O| |Z|Stranglethorn Vale|
 N You can use your [Eagle Eye] to find him |N|(31.1, 43.2)| |O| |C|Hunter| |Z|Stranglethorn Vale|
-C Tethis. Loot him for his Talon |QID|197| |N|Tethis. Loot him for his Talon - (31.1, 43.2)| |O| |Z|Stranglethorn Vale|
-C Venture Company Mining |QID|600| |N|Venture Co. Foremen, Venture Co. Surveyors, Venture Co. Strip Miners and Venture Co. Tinkerers. Loot them for their Singing Blue Crystals (41.6, 43.7)| |Z|Stranglethorn Vale|
+C Tethis. Loot him for his Talon |QID|197| |OIDX|1| |N|Tethis. Loot him for his Talon - (31.1, 43.2)| |O| |Z|Stranglethorn Vale|
+C Venture Company Mining |QID|600| |OIDX|1| |N|Venture Co. Foremen, Venture Co. Surveyors, Venture Co. Strip Miners and Venture Co. Tinkerers. Loot them for their Singing Blue Crystals (41.6, 43.7)| |Z|Stranglethorn Vale|
 N Kill Skullsplitter Mystics and Skullsplitter Witch Doctors. Loot them for their Skullsplitter Fetishes |N|(45.8, 42.3)| |Z|Stranglethorn Vale|
-C Skullsplitter Tusks |QID|209| |N|any Skullsplitter Trolls. Loot them for their Skullsplitter Tusks (45.8, 42.3)| |Z|Stranglethorn Vale|
-C Troll Witchery |QID|205| |N|any Skullsplitter Trolls. Loot them for their Skullsplitter Tusks (45.8, 42.3)| |Z|Stranglethorn Vale|
+C Skullsplitter Tusks |QID|209| |OIDX|1| |N|any Skullsplitter Trolls. Loot them for their Skullsplitter Tusks (45.8, 42.3)| |Z|Stranglethorn Vale|
+C Troll Witchery |QID|205| |OIDX|1| |N|any Skullsplitter Trolls. Loot them for their Skullsplitter Tusks (45.8, 42.3)| |Z|Stranglethorn Vale|
 N Bhag'thera can spawn north or west of the Mosh'Ogg Ogre Mound |N|(48.4, 19.2)| |Z|Stranglethorn Vale|
 N Cast [Eagle Eye] to try and locate Bhag'thera |N|(48.4, 19.2)| |C|Hunter| |Z|Stranglethorn Vale|
-C Panther Mastery |QID|193| |N|Bhag'thera. Loot him for the Fang of Bhag'thera (48.4, 19.2)| |Z|Stranglethorn Vale|
+C Panther Mastery |QID|193| |OIDX|1| |N|Bhag'thera. Loot him for the Fang of Bhag'thera (48.4, 19.2)| |Z|Stranglethorn Vale|
 R Enter The Stockpile (Kurzen's Cave) |N|(46.3, 7.6)| |O| |Z|Stranglethorn Vale|
 T Troll Witchery |QID|205| |N|Brother Nimetz - (37.8, 3.6)| |Z|Stranglethorn Vale|
 T Colonel Kurzen |QID|202| |N|Lieutenant Doren - (38.0, 3.0)| |Z|Stranglethorn Vale|
 T Return to Corporal Kaleb |QID|622| |N|Corporal Kaleb - (37.7, 3.3)| |O| |Z|Stranglethorn Vale|
-C Excelsior |QID|628| |N|a Elder Saltwater Crocolisk. Loot it for its Elder Crocolisk Skin (21.6, 16.6)| |Z|Stranglethorn Vale|
+C Excelsior |QID|628| |OIDX|1| |N|a Elder Saltwater Crocolisk. Loot it for its Elder Crocolisk Skin (21.6, 16.6)| |Z|Stranglethorn Vale|
 N PAY CLOSE ATTENTION TO YOUR BREATH BAR IF YOU DO NOT HAVE ONE! |O| |C|!Warlock/!Druid| |Z|Stranglethorn Vale|
-C The Curse of the Tides |QID|611| |N|Gazban. Loot him for the Stone of the Tides (25.0, 23.6)| |Z|Stranglethorn Vale|
+C The Curse of the Tides |QID|611| |OIDX|1| |N|Gazban. Loot him for the Stone of the Tides (25.0, 23.6)| |Z|Stranglethorn Vale|
 N Buy food/water if needed |O| |C|!Warrior/!Rogue| |Z|Stranglethorn Vale|
 N Buy food if needed |O| |C|Warrior/Rogue| |Z|Stranglethorn Vale|
 T Venture Company Mining |QID|600| |N|Crank Fizzlebub - (27.1, 77.2)| |Z|Stranglethorn Vale|
@@ -103,44 +103,44 @@ A Voodoo Dues |QID|609| |N|"Sea Wolf" MacKinley - (27.8, 77.1)| |Z|Stranglethorn
 T Excelsior |QID|628| |N|Drizzlik - (28.3, 77.6)| |Z|Stranglethorn Vale|
 R Head past the pirate camp north of Booty Bay |N|(27.6, 70.0)| |O| |Z|Stranglethorn Vale|
 R Head through the bridge to the island |N|(26.1, 67.0)| |O| |Z|Stranglethorn Vale|
-C Akiris by the Bundle |QID|617| |N|Naga Explorers on the island. Loot them for their Akiris Reeds (26.0, 62.5)| |Z|Stranglethorn Vale|
+C Akiris by the Bundle |QID|617| |OIDX|1| |N|Naga Explorers on the island. Loot them for their Akiris Reeds (26.0, 62.5)| |Z|Stranglethorn Vale|
 R Head to the beach east of booty bay |N|(32.9, 74.1)| |Z|Stranglethorn Vale|
 N Don't start the quest for this yet |O| |Z|Stranglethorn Vale|
 C the Half-Buried Bottles along the coast. Loot them for a [Carefully Folded Note] |QID|594| |L|4098 1| |N|Open the Half-Buried Bottles along the coast. Loot them for a [Carefully Folded Note]| |O| |Z|Stranglethorn Vale|
-C Up to Snuff |QID|587| |N|Kill the Bloodsail. Loot them for their Snuff and Dizzy's Eye| |O| |Z|Stranglethorn Vale|
-C Keep An Eye Out |QID|576| |N|Kill the Bloodsail. Loot them for their Snuff and Dizzy's Eye| |O| |Z|Stranglethorn Vale|
+C Up to Snuff |QID|587| |OIDX|1| |N|Kill the Bloodsail. Loot them for their Snuff and Dizzy's Eye| |O| |Z|Stranglethorn Vale|
+C Keep An Eye Out |QID|576| |OIDX|1| |N|Kill the Bloodsail. Loot them for their Snuff and Dizzy's Eye| |O| |Z|Stranglethorn Vale|
 N Loot the Bloodsail Charts and Bloodsail Orders. These can spawn randomly at one of the camps or in the small rowboat |N|(27.0, 83.2)| |Z|Stranglethorn Vale|
-C The Bloodsail Buccaneers |QID|604| |N|Bloodsail Swashbucklers (27.0, 83.2)| |Z|Stranglethorn Vale|
+C The Bloodsail Buccaneers |QID|604| |OIDX|1| |N|Bloodsail Swashbucklers (27.0, 83.2)| |Z|Stranglethorn Vale|
 N Don't start the quest for this yet |O| |Z|Stranglethorn Vale|
 C the Half-Buried Bottles along the coast. Loot them for a [Carefully Folded Note] |QID|594| |L|4098 1| |N|Open the Half-Buried Bottles along the coast. Loot them for a [Carefully Folded Note]| |O| |Z|Stranglethorn Vale|
-C Up to Snuff |QID|587| |N|Kill the Bloodsail. Loot them for their Snuff and Dizzy's Eye| |O| |Z|Stranglethorn Vale|
-C Keep An Eye Out |QID|576| |N|Kill the Bloodsail. Loot them for their Snuff and Dizzy's Eye| |O| |Z|Stranglethorn Vale|
+C Up to Snuff |QID|587| |OIDX|1| |N|Kill the Bloodsail. Loot them for their Snuff and Dizzy's Eye| |O| |Z|Stranglethorn Vale|
+C Keep An Eye Out |QID|576| |OIDX|1| |N|Kill the Bloodsail. Loot them for their Snuff and Dizzy's Eye| |O| |Z|Stranglethorn Vale|
 N Loot the Bloodsail Charts and Bloodsail Orders. These can spawn randomly at one of the camps or in the small rowboat |N|(27.0, 83.2)| |Z|Stranglethorn Vale|
-C The Bloodsail Buccaneers |QID|604| |N|Bloodsail Swashbucklers (27.0, 83.2)| |Z|Stranglethorn Vale|
+C The Bloodsail Buccaneers |QID|604| |OIDX|1| |N|Bloodsail Swashbucklers (27.0, 83.2)| |Z|Stranglethorn Vale|
 N Use [Cortello's Riddle] to start the quest |N|(29.3, 88.3)| |Z|Stranglethorn Vale|
 N Cast [Eagle Eye] to try and find which location it is in |N|(29.3, 88.3)| |C|Hunter| |Z|Stranglethorn Vale|
 C Search the Bloodsail Ships for [Cortello's Riddle]. It can spawn on any of the 3 ships |QID|624| |L|4056 1| |N|(30.7, 88.6)| |Z|Stranglethorn Vale|
 A Cortello's Riddle |QID|624| |N|(30.7, 88.6)| |Z|Stranglethorn Vale|
 N Don't start the quest for this yet |O| |Z|Stranglethorn Vale|
 C the Half-Buried Bottles along the coast. Loot them for a [Carefully Folded Note] |QID|594| |L|4098 1| |N|Open the Half-Buried Bottles along the coast. Loot them for a [Carefully Folded Note]| |O| |Z|Stranglethorn Vale|
-C Up to Snuff |QID|587| |N|the Bloodsail. Loot them for their Snuff and Dizzy's Eye (27.0, 83.2)| |Z|Stranglethorn Vale|
-C Keep An Eye Out |QID|576| |N|the Bloodsail. Loot them for their Snuff and Dizzy's Eye (27.0, 83.2)| |Z|Stranglethorn Vale|
-C Zanzil's Secret |QID|621| |N|the Zanzils. Loot them for their Mixtures (34.9, 51.8)| |O| |Z|Stranglethorn Vale|
-C Voodoo Dues |QID|609| |N|Chucky "Ten Thumbs". Loot him for his Huge Ring (40.0, 58.2)| |Z|Stranglethorn Vale|
-C Zanzil's Secret |QID|621| |N|the Zanzils. Loot them for their Mixtures (34.9, 51.8)| |O| |Z|Stranglethorn Vale|
-C Voodoo Dues |QID|609| |N|Jon-Jon the Crow. Loot him for his Golden Spyglass (34.9, 51.8)| |O| |Z|Stranglethorn Vale|
-C Voodoo Dues |QID|609| |N|Maury "Club Foot" Wilkins. Loot him for his Clubbed Foot (35.3, 51.3)| |Z|Stranglethorn Vale|
-C Voodoo Dues |QID|609| |N|Jon-Jon the Crow. Loot him for his Golden Spyglass (34.9, 51.8)| |Z|Stranglethorn Vale|
-C Zanzil's Secret |QID|621| |N|the Zanzils. Loot them for their Mixtures (40.0, 58.2)| |Z|Stranglethorn Vale|
+C Up to Snuff |QID|587| |OIDX|1| |N|the Bloodsail. Loot them for their Snuff and Dizzy's Eye (27.0, 83.2)| |Z|Stranglethorn Vale|
+C Keep An Eye Out |QID|576| |OIDX|1| |N|the Bloodsail. Loot them for their Snuff and Dizzy's Eye (27.0, 83.2)| |Z|Stranglethorn Vale|
+C Zanzil's Secret |QID|621| |OIDX|1| |N|the Zanzils. Loot them for their Mixtures (34.9, 51.8)| |O| |Z|Stranglethorn Vale|
+C Voodoo Dues |QID|609| |OIDX|3| |N|Chucky "Ten Thumbs". Loot him for his Huge Ring (40.0, 58.2)| |Z|Stranglethorn Vale|
+C Zanzil's Secret |QID|621| |OIDX|1| |N|the Zanzils. Loot them for their Mixtures (34.9, 51.8)| |O| |Z|Stranglethorn Vale|
+C Voodoo Dues |QID|609| |OIDX|2| |N|Jon-Jon the Crow. Loot him for his Golden Spyglass (34.9, 51.8)| |O| |Z|Stranglethorn Vale|
+C Voodoo Dues |QID|609| |OIDX|1| |N|Maury "Club Foot" Wilkins. Loot him for his Clubbed Foot (35.3, 51.3)| |Z|Stranglethorn Vale|
+C Voodoo Dues |QID|609| |OIDX|2| |N|Jon-Jon the Crow. Loot him for his Golden Spyglass (34.9, 51.8)| |Z|Stranglethorn Vale|
+C Zanzil's Secret |QID|621| |OIDX|1| |N|the Zanzils. Loot them for their Mixtures (40.0, 58.2)| |Z|Stranglethorn Vale|
 N Tethis can spawn in any of the spots marked on your map |N|(31.1, 43.2)| |Z|Stranglethorn Vale|
 N You can use your [Eagle Eye] to find him |N|(31.1, 43.2)| |C|Hunter| |Z|Stranglethorn Vale|
-C Tethis. Loot him for his Talon |QID|197| |N|Tethis. Loot him for his Talon - (31.1, 43.2)| |Z|Stranglethorn Vale|
+C Tethis. Loot him for his Talon |QID|197| |OIDX|1| |N|Tethis. Loot him for his Talon - (31.1, 43.2)| |Z|Stranglethorn Vale|
 R Nesingwary's Expedition |N|(35.7, 10.8)| |O| |Z|Stranglethorn Vale|
 T Raptor Mastery |QID|197| |N|Sir S. J. Erlgadin and Hemet Nesingwary - (35.7, 10.8)| |Z|Stranglethorn Vale|
 A Big Game Hunter |QID|208| |N|Sir S. J. Erlgadin and Hemet Nesingwary - (35.7, 10.8)| |Z|Stranglethorn Vale|
 N King Bangalash will spawn 2 Panthers at 50% health. Try to CC him just before 50% if possible so it prevents him from spawning any |N|(38.2, 35.6)| |Z|Stranglethorn Vale|
 N If you saved the [Flash Bomb] from the Badlands you can use it to [Fear] him. This fear DOES NOT break on damage making it very useful for bringing him below the 50% threshold while CCd |N|(38.2, 35.6)| |Z|Stranglethorn Vale|
-C Big Game Hunter |QID|208| |N|King Bangalash. Loot him for the Head of Bangalash (38.2, 35.6)| |Z|Stranglethorn Vale|
+C Big Game Hunter |QID|208| |OIDX|1| |N|King Bangalash. Loot him for the Head of Bangalash (38.2, 35.6)| |Z|Stranglethorn Vale|
 T Big Game Hunter |QID|208| |N|Hemet Nesingwary - (35.7, 10.8)| |Z|Stranglethorn Vale|
 R Travel to Duskwood |N|(44.6, 86.4)| |O| |Z|Duskwood|
 T Vital Supplies |QID|1477| |N|Watchmaster Sorigal - (75.8, 46.2)| |Z|Duskwood|
@@ -149,11 +149,11 @@ R Travel to Deadwind Pass |N|(48.0, 34.6)| |Z|Deadwind Pass|
 R Swamp of Sorrows |N|(58.4, 41.5)| |Z|Deadwind Pass|
 T Cortello's Riddle |QID|624| |N|A Soggy Scroll in the water under the bridge - (22.9, 48.2)| |Z|Swamp of Sorrows|
 A Cortello's Riddle |QID|625| |N|A Soggy Scroll in the water under the bridge - (22.9, 48.2)| |Z|Swamp of Sorrows|
-C Mazen's Behest |QID|1364| |N|Kill Swampwalkers, Swampwalker Elders, Tangled Horrors and Mire Lords. Loot them for Khadgar's Essays| |O| |Z|Swamp of Sorrows|
+C Mazen's Behest |QID|1364| |OIDX|1| |N|Kill Swampwalkers, Swampwalker Elders, Tangled Horrors and Mire Lords. Loot them for Khadgar's Essays| |O| |Z|Swamp of Sorrows|
 A Driftwood |QID|1398| |N|Watcher Biggs - (26.7, 59.8)| |Z|Swamp of Sorrows|
-C Driftwood |QID|1398| |N|Sundried Driftwood on the ground along the coast (82.2, 91.7)| |O| |Z|Swamp of Sorrows|
-C ... and Bugs |QID|1258| |N|Silt Crawlers and Monstrous Crawlers. Loot them for their Pristine Crawler Legs (91.6, 70.1)| |Z|Swamp of Sorrows|
-C Driftwood |QID|1398| |N|Sundried Driftwood on the ground along the coast (91.6, 70.1)| |Z|Swamp of Sorrows|
+C Driftwood |QID|1398| |OIDX|1| |N|Sundried Driftwood on the ground along the coast (82.2, 91.7)| |O| |Z|Swamp of Sorrows|
+C ... and Bugs |QID|1258| |OIDX|1| |N|Silt Crawlers and Monstrous Crawlers. Loot them for their Pristine Crawler Legs (91.6, 70.1)| |Z|Swamp of Sorrows|
+C Driftwood |QID|1398| |OIDX|1| |N|Sundried Driftwood on the ground along the coast (91.6, 70.1)| |Z|Swamp of Sorrows|
 T Driftwood |QID|1398| |N|Watcher Biggs - (26.7, 59.8)| |Z|Swamp of Sorrows|
 A Deliver the Shipment |QID|1425| |N|Watcher Biggs - (26.7, 59.8)| |Z|Swamp of Sorrows|
 R Travel to Blasted Lands |N|(52.0, 7.4)| |O| |Z|Blasted Lands|

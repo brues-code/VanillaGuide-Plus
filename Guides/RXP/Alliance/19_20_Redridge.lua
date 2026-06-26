@@ -66,28 +66,28 @@ T The Defias Brotherhood |QID|141| |N|Gryan Stoutmantle - (56.3, 47.5) (DM Dunge
 A The Defias Brotherhood |QID|142| |N|Gryan Stoutmantle - (56.3, 47.5) (DM Dungeon Quest)| |D|DM| |Z|Westfall|
 R Moonbrook |N|(44.5, 69.6) (DM Dungeon Quest)| |D|DM| |Z|Westfall|
 N He has a 4-5 minute respawn timer |N|(44.5, 69.6) (DM Dungeon Quest)| |D|DM| |Z|Westfall|
-C The Defias Brotherhood |QID|142| |N|The Defias Messenger spawns in Moonbrook. He walks along the road north of Moonbrook, to the Gold Coast Quarry and Jangolode Mine. If you don't see him along the road, wait for him to spawn in Moonbrook A Mysterious Message (1) (DM Dungeon Quest)| |D|DM| |Z|Westfall|
+C The Defias Brotherhood |QID|142| |OIDX|1| |N|The Defias Messenger spawns in Moonbrook. He walks along the road north of Moonbrook, to the Gold Coast Quarry and Jangolode Mine. If you don't see him along the road, wait for him to spawn in Moonbrook A Mysterious Message (1) (DM Dungeon Quest)| |D|DM| |Z|Westfall|
 T The Defias Brotherhood |QID|142| |N|Gryan Stoutmantle - (56.3, 47.5) (DM Dungeon Quest)| |D|DM| |Z|Westfall|
 N You may need to wait for The Defias Traitor to spawn if he's not there |N|(55.7, 47.5) (DM Dungeon Quest)| |D|DM| |Z|Westfall|
 A The Defias Brotherhood |QID|155| |N|The Defias Traitor - (55.7, 47.5) (DM Dungeon Quest)| |D|DM| |Z|Westfall|
 N Stay beside The Defias Traitor at all times! Be ready to fight The Defias upon reaching Moonbrook |N|(42.6, 71.7) (DM Dungeon Quest)| |D|DM| |Z|Westfall|
-C The Defias Brotherhood |QID|155| |N|Escort the The Defias Traitor to The Deadmines Escort The Defias Traitor to discover where VanCleef is hiding (1) (DM Dungeon Quest)| |D|DM| |Z|Westfall|
+C The Defias Brotherhood |QID|155| |OIDX|1| |N|Escort the The Defias Traitor to The Deadmines Escort The Defias Traitor to discover where VanCleef is hiding (1) (DM Dungeon Quest)| |D|DM| |Z|Westfall|
 T The Defias Brotherhood |QID|155| |N|Gryan Stoutmantle - (56.3, 47.5) (DM Dungeon Quest)| |D|DM| |Z|Westfall|
 A The Defias Brotherhood |QID|166| |N|Gryan Stoutmantle - (56.3, 47.5) (DM Dungeon Quest)| |D|DM| |Z|Westfall|
 A Red Silk Bandanas |QID|214| |N|(56.7, 47.4) (DM Dungeon Quest)| |D|DM| |Z|Westfall|
 N Grind gnolls while assembling a Deadmines group |N|(40.4, 71.6) (DM Dungeon Quest)| |D|DM| |Z|Westfall|
 N You may complete this after you enter the Dungeon |N|(DM Dungeon Quest)| |D|DM| |Z|Westfall|
-C Red Silk Bandanas |QID|214| |N|Kill the Defias. Loot them for their Bandanas Red Silk Bandana (10) (DM Dungeon Quest)| |D|DM| |Z|Westfall|
+C Red Silk Bandanas |QID|214| |OIDX|1| |N|Kill the Defias. Loot them for their Bandanas Red Silk Bandana (10) (DM Dungeon Quest)| |D|DM| |Z|Westfall|
 N This is completed OUTSIDE of the Dungeon |N|(DM Dungeon Quest)| |D|DM| |Z|Westfall|
-C Collecting Memories |QID|168| |N|Kill Skeletal Miners, Undead Dynamiters and Undead Excavators. Loot them for their Cards Miners' Union Card (4) (DM Dungeon Quest)| |D|DM| |Z|Westfall|
+C Collecting Memories |QID|168| |OIDX|1| |N|Kill Skeletal Miners, Undead Dynamiters and Undead Excavators. Loot them for their Cards Miners' Union Card (4) (DM Dungeon Quest)| |D|DM| |Z|Westfall|
 N This is completed OUTSIDE of the Dungeon |N|(41.1, 80.1) (DM Dungeon Quest)| |D|DM| |Z|Westfall|
-C Oh Brother. . . |QID|167| |N|Foreman Thistlenettle. Loot him for his Badge Thistlenettle's Badge (1) (DM Dungeon Quest)| |D|DM| |Z|Westfall|
+C Oh Brother. . . |QID|167| |OIDX|1| |N|Foreman Thistlenettle. Loot him for his Badge Thistlenettle's Badge (1) (DM Dungeon Quest)| |D|DM| |Z|Westfall|
 N This is completed OUTSIDE of the Dungeon |N|(41.1, 80.1) (DM Dungeon Quest)| |D|DM| |Z|Westfall|
-C Collecting Memories |QID|168| |N|Skeletal Miners, Undead Dynamiters and Undead Excavators. Loot them for their Cards Miners' Union Card (4) (DM Dungeon Quest)| |D|DM| |Z|Westfall|
-C Red Silk Bandanas |QID|214| |N|Kill the Defias inside The Deadmines. Loot them for their Bandanas Red Silk Bandana (10) (DM Dungeon Quest)| |D|DM| |Z|Westfall|
-C Underground Assault |QID|2040| |N|Gnoam Sprecklesprocket (1) (DM Dungeon Quest)| |D|DM| |Z|Westfall|
+C Collecting Memories |QID|168| |OIDX|1| |N|Skeletal Miners, Undead Dynamiters and Undead Excavators. Loot them for their Cards Miners' Union Card (4) (DM Dungeon Quest)| |D|DM| |Z|Westfall|
+C Red Silk Bandanas |QID|214| |OIDX|1| |N|Kill the Defias inside The Deadmines. Loot them for their Bandanas Red Silk Bandana (10) (DM Dungeon Quest)| |D|DM| |Z|Westfall|
+C Underground Assault |QID|2040| |OIDX|1| |N|Gnoam Sprecklesprocket (1) (DM Dungeon Quest)| |D|DM| |Z|Westfall|
 C An Unsent Letter (1) |QID|373| |L|2874 1| |N|Use [An Unsent Letter] to start the quest (DM Dungeon Quest)| |D|DM| |Z|Westfall|
-C The Defias Brotherhood |QID|166| |N|Use [An Unsent Letter] to start the quest Head of VanCleef (1) (DM Dungeon Quest)| |D|DM| |Z|Westfall|
+C The Defias Brotherhood |QID|166| |OIDX|1| |N|Use [An Unsent Letter] to start the quest Head of VanCleef (1) (DM Dungeon Quest)| |D|DM| |Z|Westfall|
 A The Unsent Letter |QID|373| |N|Use [An Unsent Letter] to start the quest (DM Dungeon Quest)| |D|DM| |Z|Westfall|
 R Sentinel Hill |N|(56.3, 47.5) (DM Dungeon Quest)| |D|DM| |Z|Westfall|
 T The Defias Brotherhood |QID|166| |N|(56.3, 47.5) (DM Dungeon Quest)| |D|DM| |Z|Westfall|
@@ -162,9 +162,9 @@ A Alther's Mill |QID|2282| |N|Lucius - (28.1, 52.0)| |C|Rogue| |Z|Redridge Mount
 A Hilary's Necklace |QID|3741| |N|Shawn - (29.3, 53.6)| |Z|Redridge Mountains|
 N Open the Glinting Mud. Loot it for Hilary's Necklace |N|(27.8, 56.0)| |Z|Redridge Mountains|
 N It has multiple spawn locations in the Lake |N|(27.8, 56.0)| |Z|Redridge Mountains|
-C Hilary's Necklace |QID|3741| |N|Jump into the Lake Hilary's Necklace (1)| |Z|Redridge Mountains|
+C Hilary's Necklace |QID|3741| |OIDX|1| |N|Jump into the Lake Hilary's Necklace (1)| |Z|Redridge Mountains|
 T Hilary's Necklace |QID|3741| |N|Hilary - (29.2, 53.6)| |C|Druid| |Z|Redridge Mountains|
-C The Lost Tools |QID|125| |N|Open the Sunken Chest. Loot it for Oslow's Toolbox Oslow's Toolbox (1)| |Z|Redridge Mountains|
+C The Lost Tools |QID|125| |OIDX|1| |N|Open the Sunken Chest. Loot it for Oslow's Toolbox Oslow's Toolbox (1)| |Z|Redridge Mountains|
 N Kill Tarantulas. Loot them for their Crisp Spider Meat |O| |Z|Redridge Mountains|
 N Kill Dire Condors. Loot them for their Tough Condor Meat |O| |Z|Redridge Mountains|
 N Do NOT sell any of these items until you turn the Redridge Goulash quest |O| |Z|Redridge Mountains|
@@ -176,18 +176,18 @@ A Visit the Herbalist |QID|130| |N|Guard Parker - (15.3, 71.5)| |Z|Redridge Moun
 T Encroaching Gnolls |QID|244| |N|Deputy Feldon - (30.7, 60.0)| |Z|Redridge Mountains|
 A Assessing the Threat |QID|246| |N|Deputy Feldon - (30.7, 60.0)| |Z|Redridge Mountains|
 C Tarantulas. Loot them for their Crisp Spider Meat |QID|92| |L|1081 5| |N|Tarantulas. Loot them for their Crisp Spider Meat - (18.9, 73.6)| |Z|Redridge Mountains|
-C Assessing the Threat |QID|246| |N|Redridge Mongrels and Redridge Poachers Redridge Mongrel (10)| |Z|Redridge Mountains|
+C Assessing the Threat |QID|246| |OIDX|1| |N|Redridge Mongrels and Redridge Poachers Redridge Mongrel (10)| |Z|Redridge Mountains|
 N Be aware this area is a hyperspawn, meaning the Murlocs respawn quickly |N|(49.0, 70.0)| |Z|Redridge Mountains|
-C Selling Fish |QID|127| |N|Murloc Shorestrikers and Murloc Minor Tidecallers. Loot them for their Fins and Sunfish (49.0, 70.0)| |Z|Redridge Mountains|
+C Selling Fish |QID|127| |OIDX|1| |N|Murloc Shorestrikers and Murloc Minor Tidecallers. Loot them for their Fins and Sunfish (49.0, 70.0)| |Z|Redridge Mountains|
 C Murloc Shorestrikers and Murloc Minor Tidecallers. Loot them for their Fins and Sunfish |QID|150| |L|1468 8| |N|Murloc Shorestrikers and Murloc Minor Tidecallers. Loot them for their Fins and Sunfish - (49.0, 70.0)| |Z|Redridge Mountains|
 N Be aware the Blackrock Outrunners will cast [Net] on you |N|(74.0, 79.0)| |Z|Redridge Mountains|
-C Blackrock Menace |QID|20| |N|Kill Blackrock Grunts and Blackrock Outrunners. Loot them for their Axes Battleworn Axe (10)| |Z|Redridge Mountains|
+C Blackrock Menace |QID|20| |OIDX|1| |N|Kill Blackrock Grunts and Blackrock Outrunners. Loot them for their Axes Battleworn Axe (10)| |Z|Redridge Mountains|
 C Dire Condors. Loot them for their Tough Condor Meat |QID|92| |L|1080 5| |N|Dire Condors. Loot them for their Tough Condor Meat - (61.4, 77.1)| |Z|Redridge Mountains|
 N Open the Sunken Chest. Loot it for Oslow's Toolbox |N|(41.5, 54.7)| |Z|Redridge Mountains|
-C The Lost Tools |QID|125| |N|Jump into the Lake Oslow's Toolbox (1)| |Z|Redridge Mountains|
+C The Lost Tools |QID|125| |OIDX|1| |N|Jump into the Lake Oslow's Toolbox (1)| |Z|Redridge Mountains|
 R You MUST do this for your [Poisons] quest later |N|(51.8, 45.1)| |C|Rogue| |Z|Redridge Mountains|
 N Stand on the waypoint location. Position your camera and cursor until you can click 3 Practice Lockboxes at once without having to move anything |N|(51.8, 45.1)| |C|Rogue| |Z|Redridge Mountains|
-C Alther's Mill |QID|2282| |N|Lucius's Lockbox. Loot it for the Token of Thievery Token of Thievery| |C|Rogue| |Z|Redridge Mountains|
+C Alther's Mill |QID|2282| |OIDX|1| |N|Lucius's Lockbox. Loot it for the Token of Thievery Token of Thievery| |C|Rogue| |Z|Redridge Mountains|
 R Lakeshire |N|(33.5, 49.0)| |O| |Z|Redridge Mountains|
 T Blackrock Menace |QID|20| |N|Marshal Marris - (33.5, 49.0)| |Z|Redridge Mountains|
 T The Lost Tools |QID|125| |N|Foreman Oslow - (32.1, 48.6)| |Z|Redridge Mountains|
@@ -250,13 +250,13 @@ A Klaven's Tower |QID|2359| |N|Agent Kearnen - (68.5, 70.1)| |C|Rogue| |Z|Westfa
 N You must be in [Stealth] to use [Pick Pocket] |N|(69.6, 73.1)| |C|Rogue| |Z|Westfall|
 N The Malformed Defias Drone spawns at the entrance to the tower, then patrols around the outside of it |N|(69.6, 73.1)| |C|Rogue| |Z|Westfall|
 N Be careful as he deals a LOT of damage. If your [Stealth] breaks, quickly use [Sprint] and run away |N|(69.6, 73.1)| |C|Rogue| |Z|Westfall|
-C Klaven's Tower |QID|2359| |N|[Pick Pocket] the Malformed Defias Drone. Loot it for the Defias Tower Key Collect Defias Tower Key (x1)| |C|Rogue| |Z|Westfall|
+C Klaven's Tower |QID|2359| |OIDX|2| |N|[Pick Pocket] the Malformed Defias Drone. Loot it for the Defias Tower Key Collect Defias Tower Key (x1)| |C|Rogue| |Z|Westfall|
 R Travel up to 2nd top floor of the tower. Whilst in [Stealth] and the Defias Tower Sentries aren't next to you, Jump onto the chair, then onto the lamp, then onto the bookshelf on top of the waypoint location |N|(70.4, 74.0)| |C|Rogue| |Z|Westfall|
 N NOTE: Your [Stealth] will temporarily stop working after looting Klaven Mortwake's Journal |N|(70.4, 74.0)| |C|Rogue| |Z|Westfall|
 N Be prepared to run if you don't kill the Defias Tower Sentries on the 2nd floor. They will most likely aggro you permanently (but not attack you) when you are on top of the bookshelf as it is an evade spot |N|(70.4, 74.0)| |C|Rogue| |Z|Westfall|
 N If you have a [Dagger] in your bags or equipped, you can cast [Ambush] on the Defias Tower Patrollers and Defias Tower Sentries inside to kill them instantly. Be prepared to run after you kill the first Defias Tower Sentry and remember you can be hit from above. This is slower, but a LOT safer |N|(70.4, 74.0)| |C|Rogue| |Z|Westfall|
 N Be careful as the Malformed Defias Drone and Defias Drones can be at the entrance of the tower if you have to run out of it |N|(70.4, 74.0)| |C|Rogue| |Z|Westfall|
-C Klaven's Tower |QID|2359| |N|Manually [Unstealth], then press your "Interact with Target" keybind to open the Duskwood Chest. Loot it for Klaven Mortwake's Journal Collect Klaven Mortwake's Journal (x1)| |C|Rogue| |Z|Westfall|
+C Klaven's Tower |QID|2359| |OIDX|1| |N|Manually [Unstealth], then press your "Interact with Target" keybind to open the Duskwood Chest. Loot it for Klaven Mortwake's Journal Collect Klaven Mortwake's Journal (x1)| |C|Rogue| |Z|Westfall|
 C Craft an [Anti-Venom] |L|6452 1| |C|Rogue| |R|!Dwarf| |Z|Westfall|
 t Anti Venom spell trained |C|Rogue| |R|!Dwarf| |Z|Westfall|
 F Fly to Stormwind |N|Thor - (56.5, 52.6)| |O| |C|Rogue| |Z|Westfall|
@@ -294,15 +294,15 @@ A Redridge Goulash |QID|92| |N|Chef Breanna - (22.7, 43.8)| |Z|Redridge Mountain
 T Redridge Goulash |QID|92| |N|Chef Breanna - (22.7, 43.8)| |Z|Redridge Mountains|
 T Visit the Herbalist |QID|130| |N|Martie Jainrose - (21.9, 46.3)| |Z|Redridge Mountains|
 A Delivering Daffodils |QID|131| |N|Martie Jainrose - (21.9, 46.3)| |Z|Redridge Mountains|
-C Underbelly Scales |QID|122| |N|Kill Black Dragon Whelps. Loot them for their Scales Underbelly Whelp Scale (6)| |O| |Z|Redridge Mountains|
+C Underbelly Scales |QID|122| |OIDX|1| |N|Kill Black Dragon Whelps. Loot them for their Scales Underbelly Whelp Scale (6)| |O| |Z|Redridge Mountains|
 N Save any [Chunks of Boar Meat] you loot as well as you can use them to level [Cooking] to 50 which is required for Duskwood later |N|(15.7, 52.8)| |Z|Redridge Mountains|
 C Great Goretusks. Loot them for their Great Goretusk Snouts |QID|92| |L|2296 5| |N|Kill Great Goretusks. Loot them for their Great Goretusk Snouts (15.7, 52.8)| |Z|Redridge Mountains|
 A Redridge Goulash |QID|92| |N|Chef Breanna - (22.7, 43.8)| |O| |Z|Redridge Mountains|
 T Redridge Goulash |QID|92| |N|Chef Breanna - (22.7, 43.8)| |O| |Z|Redridge Mountains|
-C Underbelly Scales |QID|122| |N|Kill Black Dragon Whelps. Loot them for their Scales Underbelly Whelp Scale (6)| |O| |Z|Redridge Mountains|
-C A Baying of Gnolls |QID|124| |N|Redridge Brutes and Redridge Mystics. Loot them for their Iron Pikes and Iron Rivets Redridge Brute (10)| |Z|Redridge Mountains|
-C The Everstill Bridge |QID|89| |N|Redridge Brutes and Redridge Mystics. Loot them for their Iron Pikes and Iron Rivets Iron Pike (5)| |Z|Redridge Mountains|
-C Underbelly Scales |QID|122| |N|Black Dragon Whelps. Loot them for their Scales Underbelly Whelp Scale (6)| |Z|Redridge Mountains|
+C Underbelly Scales |QID|122| |OIDX|1| |N|Kill Black Dragon Whelps. Loot them for their Scales Underbelly Whelp Scale (6)| |O| |Z|Redridge Mountains|
+C A Baying of Gnolls |QID|124| |OIDX|1| |N|Redridge Brutes and Redridge Mystics. Loot them for their Iron Pikes and Iron Rivets Redridge Brute (10)| |Z|Redridge Mountains|
+C The Everstill Bridge |QID|89| |OIDX|1| |N|Redridge Brutes and Redridge Mystics. Loot them for their Iron Pikes and Iron Rivets Iron Pike (5)| |Z|Redridge Mountains|
+C Underbelly Scales |QID|122| |OIDX|1| |N|Black Dragon Whelps. Loot them for their Scales Underbelly Whelp Scale (6)| |Z|Redridge Mountains|
 N Darcy walks around inside the Inn |N|(26.8, 44.3)| |Z|Redridge Mountains|
 T Delivering Daffodils |QID|131| |N|Darcy - (26.8, 44.3)| |Z|Redridge Mountains|
 T A Baying of Gnolls |QID|124| |N|Verner Osgood - (31.0, 47.3)| |Z|Redridge Mountains|

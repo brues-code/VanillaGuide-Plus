@@ -44,16 +44,16 @@ T Essence of the Exile |QID|1714| |N|Bath'rah the Windwatcher - (80.5, 66.9)| |C
 T Cyclonian |QID|1712| |N|Bath'rah the Windwatcher - (80.5, 66.9)| |C|Warrior| |Z|Alterac Mountains|
 A The Summoning |QID|1713| |N|Bath'rah the Windwatcher - (80.5, 66.9)| |C|Warrior| |Z|Alterac Mountains|
 N Equip your [Gleaming Throwing Axe] if you haven't |N|(80.6, 62.2)| |C|Warrior| |Z|Alterac Mountains|
-C The Summoning |QID|1713| |N|Wait for Bath'rah's roleplay, then kill Cyclonian and loot him for his Heart (80.6, 62.2)| |C|Warrior| |Z|Alterac Mountains|
+C The Summoning |QID|1713| |OIDX|1| |N|Wait for Bath'rah's roleplay, then kill Cyclonian and loot him for his Heart (80.6, 62.2)| |C|Warrior| |Z|Alterac Mountains|
 T The Summoning |QID|1713| |N|Bath'rah the Windwatcher and choose the [Whirlwind Axe] - (80.5, 66.9)| |C|Warrior| |Z|Alterac Mountains|
 T Whirlwind Weapon |QID|1792| |N|Bath'rah the Windwatcher and choose the [Whirlwind Axe] - (80.5, 66.9)| |C|Warrior| |Z|Alterac Mountains|
 N One of his spawnpoints is inside the inn in Strahnbrad. You will complete this quest later if he isn't there |O| |Z|Alterac Mountains|
-C WANTED: Baron Vardus |QID|566| |N|Kill Baron Vardus and loot him for his Head| |O| |Z|Alterac Mountains|
+C WANTED: Baron Vardus |QID|566| |OIDX|1| |N|Kill Baron Vardus and loot him for his Head| |O| |Z|Alterac Mountains|
 N He has multiple spawn locations in Strahnbrad: |N|(62.7, 40.2)| |Z|Alterac Mountains|
 N Inside the inn on the second floor |N|(62.7, 40.2)| |Z|Alterac Mountains|
 N Inside the building opposite of the inn on the ground floor |N|(62.7, 40.2)| |Z|Alterac Mountains|
 N Inside the town hall |N|(62.7, 40.2)| |Z|Alterac Mountains|
-C Gol'dir |QID|503| |N|Jailor Borhuin. Loot him for his Key (62.7, 40.2)| |Z|Alterac Mountains|
+C Gol'dir |QID|503| |OIDX|1| |N|Jailor Borhuin. Loot him for his Key (62.7, 40.2)| |Z|Alterac Mountains|
 T Gol'dir |QID|503| |N|Gol'dir on the second floor of the inn - (60.0, 43.8)| |Z|Alterac Mountains|
 A Blackmoore's Legacy |QID|506| |N|Gol'dir on the second floor of the inn - (60.0, 43.8)| |Z|Alterac Mountains|
 T Blackmoore's Legacy |QID|506| |N|Krusk - (63.2, 20.6)| |Z|Hillsbrad Foothills|
@@ -64,13 +64,13 @@ B Sell your junk, then restock on food if necessary |N|Innkeeper Shay - (62.8, 1
 A Bracers of Binding |QID|557| |N|Bel'varil and Wordeen - (61.6, 20.9)| |C|Warrior| |Z|Hillsbrad Foothills|
 A Dalaran Patrols |QID|545| |N|Bel'varil and Wordeen - (61.6, 20.9)| |C|Warrior| |Z|Hillsbrad Foothills|
 R Travel to Alterac Mountains |N|(39.9, 80.9)| |O| |Z|Alterac Mountains|
-C Dalaran Patrols |QID|545| |N|Dalaran Summoners and Elemental Slaves. Loot them for their Bracers (20.5, 75.2)| |Z|Alterac Mountains|
-C Bracers of Binding |QID|557| |N|Dalaran Summoners and Elemental Slaves. Loot them for their Bracers (20.5, 75.2)| |Z|Alterac Mountains|
+C Dalaran Patrols |QID|545| |OIDX|1| |N|Dalaran Summoners and Elemental Slaves. Loot them for their Bracers (20.5, 75.2)| |Z|Alterac Mountains|
+C Bracers of Binding |QID|557| |OIDX|1| |N|Dalaran Summoners and Elemental Slaves. Loot them for their Bracers (20.5, 75.2)| |Z|Alterac Mountains|
 N Be mindful of Syndicate Assassins. Aliden uses Power Word: Shield, casts Renew, and will sleep pets and other players |N|(39.3, 14.5)| |Z|Alterac Mountains|
-C Lord Aliden Perenolde |QID|507| |N|Kill Syndicate Assassin (39.3, 14.5)| |Z|Alterac Mountains|
+C Lord Aliden Perenolde |QID|507| |OIDX|1| |N|Kill Syndicate Assassin (39.3, 14.5)| |Z|Alterac Mountains|
 T Lord Aliden Perenolde |QID|507| |N|Elysa - (39.3, 14.3)| |Z|Alterac Mountains|
 A Taretha's Gift |QID|508| |N|Elysa - (39.3, 14.3)| |Z|Alterac Mountains|
-C WANTED: Baron Vardus |QID|566| |N|Search for Baron Vardus in each camp and the Strahnbrad's inn. Kill him and loot him for his Head (59.7, 43.9)| |Z|Alterac Mountains|
+C WANTED: Baron Vardus |QID|566| |OIDX|1| |N|Search for Baron Vardus in each camp and the Strahnbrad's inn. Kill him and loot him for his Head (59.7, 43.9)| |Z|Alterac Mountains|
 T WANTED: Baron Vardus |QID|566| |N|High Executor Darthalia - (62.4, 20.3)| |Z|Hillsbrad Foothills|
 T Taretha's Gift |QID|508| |N|Krusk - (63.2, 20.6)| |Z|Hillsbrad Foothills|
 T Dalaran Patrols |QID|545| |N|Wordeen and Bel'varil - (61.6, 20.9)| |Z|Hillsbrad Foothills|
@@ -85,30 +85,30 @@ A Foul Magics |QID|673| |N|Tor'gan - (74.7, 36.4)| |C|Rogue| |Z|Arathi Highlands
 T Raising Spirits |QID|675| |N|Tor'gan - (74.7, 36.4)| |C|Rogue| |Z|Arathi Highlands|
 A Guile of the Raptor |QID|701| |N|Tor'gan - (74.7, 36.4)| |C|Rogue| |Z|Arathi Highlands|
 A The Princess Trapped |QID|642| |N|the Shards of Myzrael - (62.5, 33.8)| |Z|Arathi Highlands|
-C The Princess Trapped |QID|642| |N|Drywhisker Kobolds, Diggers and Surveyors. Loot them for their Motes of Myzrael (84.3, 30.9)| |Z|Arathi Highlands|
+C The Princess Trapped |QID|642| |OIDX|1| |N|Drywhisker Kobolds, Diggers and Surveyors. Loot them for their Motes of Myzrael (84.3, 30.9)| |Z|Arathi Highlands|
 T The Princess Trapped |QID|642| |N|the Iridescent Shards towards the back of the cave - (84.3, 30.9)| |Z|Arathi Highlands|
 A Stones of Binding |QID|651| |N|the Iridescent Shards towards the back of the cave - (84.3, 30.9)| |Z|Arathi Highlands|
 N Cresting Exiles have Frost Armor and Frost Nova |N|(66.7, 29.8)| |Z|Arathi Highlands|
-C Stones of Binding |QID|651| |N|the Stone of East Binding for the Cresting Key (66.7, 29.8)| |Z|Arathi Highlands|
+C Stones of Binding |QID|651| |OIDX|2| |N|the Stone of East Binding for the Cresting Key (66.7, 29.8)| |Z|Arathi Highlands|
 N Thundering Exiles have powerful burst damage |N|(52.0, 50.8)| |Z|Arathi Highlands|
-C Stones of Binding |QID|651| |N|the Stone of Outer Binding for the Thundering Key (52.0, 50.8)| |Z|Arathi Highlands|
+C Stones of Binding |QID|651| |OIDX|3| |N|the Stone of Outer Binding for the Thundering Key (52.0, 50.8)| |Z|Arathi Highlands|
 N If you find yourself in danger, use a [Cresting Charm] on Burning Exiles |N|(25.5, 30.1)| |Z|Arathi Highlands|
-C Stones of Binding |QID|651| |N|the Stone of West Binding for the Burning Key (25.5, 30.1)| |Z|Arathi Highlands|
+C Stones of Binding |QID|651| |OIDX|1| |N|the Stone of West Binding for the Burning Key (25.5, 30.1)| |Z|Arathi Highlands|
 N She has two spawn locations in the eastern side of the keep (outside). You can stealth to her |N|(29.6, 63.0)| |C|Rogue| |Z|Arathi Highlands|
 N She is elite but can be killed solo. Use [Gouge] to restore energy and kite her. Apply [Crippling Poison] for additional safety |N|(29.6, 63.0)| |C|Rogue| |Z|Arathi Highlands|
 N Be careful of Syndicate Prowlers, they will not body pull as you agro Marez Cowl |N|(29.6, 63.0)| |C|Rogue| |Z|Arathi Highlands|
-C Foul Magics |QID|673| |N|Marez Cowl. Loot her for her Orb (29.6, 63.0)| |C|Rogue| |Z|Arathi Highlands|
+C Foul Magics |QID|673| |OIDX|1| |N|Marez Cowl. Loot her for her Orb (29.6, 63.0)| |C|Rogue| |Z|Arathi Highlands|
 N Be careful of Rumbling Exiles. Their stun has no diminishing return |N|(36.2, 57.3)| |Z|Arathi Highlands|
 T Stones of Binding |QID|651| |N|the Stone of Inner Binding - (36.2, 57.3)| |Z|Arathi Highlands|
 A Breaking the Keystone |QID|652| |N|the Stone of Inner Binding - (36.2, 57.3)| |Z|Arathi Highlands|
 N If you are in a group, hand in this quest while with your party! Thenan (level 42 Elite) will spawn. You can either kill him or run away and reset him if you're solo |N|(36.1, 58.1)| |Z|Arathi Highlands|
 T Breaking the Keystone |QID|652| |N|the Keystone - (36.1, 58.1)| |Z|Arathi Highlands|
 A Myzrael's Allies |QID|688| |N|the Keystone - (36.1, 58.1)| |Z|Arathi Highlands|
-C Guile of the Raptor |QID|701| |N|Kill Highland Fleshstalkers. Loot them for their Hearts| |O| |Z|Arathi Highlands|
+C Guile of the Raptor |QID|701| |OIDX|1| |N|Kill Highland Fleshstalkers. Loot them for their Hearts| |O| |Z|Arathi Highlands|
 N Be careful of the Magi's Frost Armor and Frost Nova |N|(53.7, 80.0)| |Z|Arathi Highlands|
 N Be **EXTREMELY CAUTIOUS** of the rare spawn "Molok the Crusher" which is a non-elite that hits for 250-450 |N|(53.7, 80.0)| |Z|Arathi Highlands|
-C Call to Arms |QID|678| |N|Boulderfist Brutes and Boulderfist Magi (53.7, 80.0)| |Z|Arathi Highlands|
-C Guile of the Raptor |QID|701| |N|Highland Fleshstalkers. Loot them for their Hearts (48.6, 80.6)| |Z|Arathi Highlands|
+C Call to Arms |QID|678| |OIDX|1| |N|Boulderfist Brutes and Boulderfist Magi (53.7, 80.0)| |Z|Arathi Highlands|
+C Guile of the Raptor |QID|701| |OIDX|1| |N|Highland Fleshstalkers. Loot them for their Hearts (48.6, 80.6)| |Z|Arathi Highlands|
 N If you are in a group, hand in this quest while with your party! Thenan, a level 42 Elite will spawn. You can either kill him or run away and reset him if you're solo |N|(36.1, 58.1)| |Z|Arathi Highlands|
 T Breaking the Keystone |QID|652| |N|the Keystone - (36.1, 58.1)| |Z|Arathi Highlands|
 A Myzrael's Allies |QID|688| |N|the Keystone - (36.1, 58.1)| |Z|Arathi Highlands|
@@ -129,20 +129,20 @@ B Sell your junk, then restock on food if necessary |N|Innkeeper Adegwa - (73.8,
 A Guile of the Raptor |QID|847| |N|Gor'mul - (72.6, 33.9)| |Z|Arathi Highlands|
 T Guile of the Raptor |QID|847| |N|Tor'gan - (74.7, 36.4)| |Z|Arathi Highlands|
 A Triage |QID|6622| |N|Doctor Gregory Victor - (73.4, 36.9)| |Z|Arathi Highlands|
-C Triage |QID|6622| |N|(73.0, 36.8)| |Z|Arathi Highlands|
+C Triage |QID|6622| |OIDX|1| |N|(73.0, 36.8)| |Z|Arathi Highlands|
 T Triage |QID|6622| |N|Doctor Gregory Victor - (73.4, 36.9)| |Z|Arathi Highlands|
 A The Real Threat |QID|680| |N|Korin Fel - (74.0, 33.2)| |Z|Arathi Highlands|
 A Sigil of Strom |QID|639| |N|Zengu - (73.8, 33.9)| |Z|Arathi Highlands|
-C Call to Arms |QID|679| |N|Kill Boulderfist Shamans and Boulderfist Lords| |O| |Z|Arathi Highlands|
+C Call to Arms |QID|679| |OIDX|1| |N|Kill Boulderfist Shamans and Boulderfist Lords| |O| |Z|Arathi Highlands|
 N Or'Kalar can spawn in two areas around the Tower of Arathor's base |N|(19.6, 66.9)| |Z|Arathi Highlands|
-C The Real Threat |QID|680| |N|Or'Kalar. Loot him for his Head (19.6, 66.9)| |Z|Arathi Highlands|
-C Call to Arms |QID|679| |N|Boulderfist Shamans and Boulderfist Lords (18.3, 67.4)| |Z|Arathi Highlands|
+C The Real Threat |QID|680| |OIDX|1| |N|Or'Kalar. Loot him for his Head (19.6, 66.9)| |Z|Arathi Highlands|
+C Call to Arms |QID|679| |OIDX|1| |N|Boulderfist Shamans and Boulderfist Lords (18.3, 67.4)| |Z|Arathi Highlands|
 N It has a very low drop rate. Be careful of respawns. Be careful of Syndicate Prowlers, who can net and disarm |O| |Z|Arathi Highlands|
-C Sigil of Strom |QID|639| |N|Kill Syndicate. Loot them for the Sigil of Strom| |O| |Z|Arathi Highlands|
+C Sigil of Strom |QID|639| |OIDX|1| |N|Kill Syndicate. Loot them for the Sigil of Strom| |O| |Z|Arathi Highlands|
 N She has two spawn locations in the eastern side of the keep |N|(29.6, 63.0)| |Z|Arathi Highlands|
-C Foul Magics |QID|673| |N|Marez Cowl. Loot her for her Orb (29.6, 63.0)| |Z|Arathi Highlands|
+C Foul Magics |QID|673| |OIDX|1| |N|Marez Cowl. Loot her for her Orb (29.6, 63.0)| |Z|Arathi Highlands|
 N It has a very low drop rate. Be careful of respawns. Be careful of Syndicate Prowlers, who can net and disarm |N|(29.5, 61.7)| |Z|Arathi Highlands|
-C Sigil of Strom |QID|639| |N|Syndicate. Loot them for the Sigil of Strom (29.5, 61.7)| |Z|Arathi Highlands|
+C Sigil of Strom |QID|639| |OIDX|1| |N|Syndicate. Loot them for the Sigil of Strom (29.5, 61.7)| |Z|Arathi Highlands|
 R Return to Hammerfall |N|(73.5, 33.2)| |O| |Z|Arathi Highlands|
 T Foul Magics |QID|673| |N|Tor'gan - (74.7, 36.4)| |Z|Arathi Highlands|
 T Call to Arms |QID|679| |N|Drum Fel - (74.2, 33.9)| |Z|Arathi Highlands|
@@ -156,21 +156,21 @@ A Deep Sea Salvage |QID|662| |N|Nilzlix - (32.8, 81.5)| |Z|Arathi Highlands|
 A Drowned Sorrows |QID|664| |N|Steelgut and Phizzlethorpe - (34.0, 80.8)| |Z|Arathi Highlands|
 A Sunken Treasure |QID|665| |N|Steelgut and Phizzlethorpe - (34.0, 80.8)| |Z|Arathi Highlands|
 N These mobs are level 40. Get them off of Phizzlethorpe as soon as you can |N|(35.7, 79.7)| |Z|Arathi Highlands|
-C Sunken Treasure |QID|665| |N|Wait for Phizzlethorpe's roleplay, then kill the two Vengeful Surges that spawn. (35.7, 79.7)| |Z|Arathi Highlands|
+C Sunken Treasure |QID|665| |OIDX|1| |N|Wait for Phizzlethorpe's roleplay, then kill the two Vengeful Surges that spawn. (35.7, 79.7)| |Z|Arathi Highlands|
 T Sunken Treasure |QID|665| |N|Doctor Draxlegauge - (33.8, 80.5)| |Z|Arathi Highlands|
 A Sunken Treasure |QID|666| |N|Doctor Draxlegauge - (33.8, 80.5)| |Z|Arathi Highlands|
-C Drowned Sorrows |QID|664| |N|Kill Daggerspine Raiders and Sorceresses| |O| |Z|Arathi Highlands|
-C Sunken Treasure |QID|666| |N|Find Calcified Elven Gems. Loot them for Elven Gems| |O| |Z|Arathi Highlands|
+C Drowned Sorrows |QID|664| |OIDX|1| |N|Kill Daggerspine Raiders and Sorceresses| |O| |Z|Arathi Highlands|
+C Sunken Treasure |QID|666| |OIDX|1| |N|Find Calcified Elven Gems. Loot them for Elven Gems| |O| |Z|Arathi Highlands|
 N The log is on the ship's mid-level, towards its front |N|(23.4, 85.1)| |Z|Arathi Highlands|
-C Deep Sea Salvage |QID|662| |N|the Book for Maiden's Folly Log (23.4, 85.1)| |Z|Arathi Highlands|
+C Deep Sea Salvage |QID|662| |OIDX|2| |N|the Book for Maiden's Folly Log (23.4, 85.1)| |Z|Arathi Highlands|
 N The charts are on the ship's mid-level, towards its center |N|(23.0, 84.5)| |Z|Arathi Highlands|
-C Deep Sea Salvage |QID|662| |N|the Unfurled Parchment for Maiden's Folly Charts (23.0, 84.5)| |Z|Arathi Highlands|
+C Deep Sea Salvage |QID|662| |OIDX|1| |N|the Unfurled Parchment for Maiden's Folly Charts (23.0, 84.5)| |Z|Arathi Highlands|
 N The charts are on the ship's mid-level, towards its front, on a crate next to a cannon |N|(20.5, 85.6)| |Z|Arathi Highlands|
-C Deep Sea Salvage |QID|662| |N|the Unfurled Parchment for Spirit of Silverpine Charts (20.5, 85.6)| |Z|Arathi Highlands|
+C Deep Sea Salvage |QID|662| |OIDX|3| |N|the Unfurled Parchment for Spirit of Silverpine Charts (20.5, 85.6)| |Z|Arathi Highlands|
 N The log is on the ship's lowest-level, towards its front, laying in dirt |N|(20.6, 85.1)| |Z|Arathi Highlands|
-C Deep Sea Salvage |QID|662| |N|the Book for Spirit of Silverpine Log (20.6, 85.1)| |Z|Arathi Highlands|
-C Sunken Treasure |QID|666| |N|Find Calcified Elven Gems. Loot them for Elven Gems (23.2, 89.7)| |Z|Arathi Highlands|
-C Drowned Sorrows |QID|664| |N|Finish killing Daggerspine Raiders and Sorceresses (19.8, 84.0)| |Z|Arathi Highlands|
+C Deep Sea Salvage |QID|662| |OIDX|4| |N|the Book for Spirit of Silverpine Log (20.6, 85.1)| |Z|Arathi Highlands|
+C Sunken Treasure |QID|666| |OIDX|1| |N|Find Calcified Elven Gems. Loot them for Elven Gems (23.2, 89.7)| |Z|Arathi Highlands|
+C Drowned Sorrows |QID|664| |OIDX|1| |N|Finish killing Daggerspine Raiders and Sorceresses (19.8, 84.0)| |Z|Arathi Highlands|
 T Deep Sea Salvage |QID|662| |N|Nilzlix - (32.8, 81.5)| |Z|Arathi Highlands|
 T Sunken Treasure |QID|666| |N|Draxlegauge - (33.9, 80.4)| |Z|Arathi Highlands|
 A Sunken Treasure |QID|668| |N|Draxlegauge - (33.9, 80.4)| |Z|Arathi Highlands|

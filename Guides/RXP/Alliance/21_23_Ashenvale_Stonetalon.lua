@@ -29,21 +29,21 @@ R The Wailing Caverns. Ascend the mountain then drop down into the hidden cave a
 A Deviate Hides |QID|1486| |N|(51.9, 55.4) (WC Dungeon Quest)| |D|WC| |Z|Tirisfal Glades|
 A Deviate Eradication |QID|1487| |N|(51.9, 55.4) (WC Dungeon Quest)| |D|WC| |Z|Tirisfal Glades|
 N This can be completed INSIDE and OUTSIDE of Wailing Caverns |N|(WC Dungeon Quest)| |D|WC| |Z|Tirisfal Glades|
-C Deviate Hides |QID|1486| |N|Kill all types of Deviate creatures. Loot them for their Deviate Hides (WC Dungeon Quest)| |D|WC| |Z|Tirisfal Glades|
+C Deviate Hides |QID|1486| |OIDX|1| |N|Kill all types of Deviate creatures. Loot them for their Deviate Hides (WC Dungeon Quest)| |D|WC| |Z|Tirisfal Glades|
 N Mad Magglish can spawn in a few locations |N|(51.8, 54.9) (WC Dungeon Quest)| |D|WC| |Z|Tirisfal Glades|
 N This quest is completed OUTSIDE of Wailing Caverns |N|(51.8, 54.9) (WC Dungeon Quest)| |D|WC| |Z|Tirisfal Glades|
-C Trouble at the Docks |QID|959| |N|Mad Magglish. Loot him for the 99-Year-Old Port (51.8, 54.9) (WC Dungeon Quest)| |D|WC| |Z|Tirisfal Glades|
-C Deviate Eradication |QID|1487| |N|(WC Dungeon Quest)| |D|WC| |Z|Tirisfal Glades|
-C Deviate Hides |QID|1486| |N|Deviate Eradication (WC Dungeon Quest)| |D|WC| |Z|Tirisfal Glades|
-C Deviate Eradication |QID|1487| |N|(WC Dungeon Quest)| |D|WC| |Z|Tirisfal Glades|
-C Deviate Hides |QID|1486| |N|Kill all types of Deviate creatures. Loot them for their Deviate Hides (WC Dungeon Quest)| |D|WC| |Z|Tirisfal Glades|
+C Trouble at the Docks |QID|959| |OIDX|1| |N|Mad Magglish. Loot him for the 99-Year-Old Port (51.8, 54.9) (WC Dungeon Quest)| |D|WC| |Z|Tirisfal Glades|
+C Deviate Eradication |QID|1487| |OIDX|1| |N|(WC Dungeon Quest)| |D|WC| |Z|Tirisfal Glades|
+C Deviate Hides |QID|1486| |OIDX|1| |N|Deviate Eradication (WC Dungeon Quest)| |D|WC| |Z|Tirisfal Glades|
+C Deviate Eradication |QID|1487| |OIDX|1| |N|(WC Dungeon Quest)| |D|WC| |Z|Tirisfal Glades|
+C Deviate Hides |QID|1486| |OIDX|1| |N|Kill all types of Deviate creatures. Loot them for their Deviate Hides (WC Dungeon Quest)| |D|WC| |Z|Tirisfal Glades|
 N Kill Mutanus the Devourer. Loot him for the [Glowing Shard] |N|(WC Dungeon Quest)| |D|WC| |Z|Tirisfal Glades|
 N Use the [Glowing Shard] to start the quest |N|(WC Dungeon Quest)| |D|WC| |Z|Tirisfal Glades|
 C Lord Cobrahn, Lord Pythas, Lord Serpentis and Lady Anacondra then the Disciple of Naralex at the start of the instance to start his escort |QID|6981| |L|10441 1| |N|Escort the Disciple of Naralex through Wailing Caverns and complete the ritual of awakening (WC Dungeon Quest)| |D|WC| |Z|Tirisfal Glades|
 A The Glowing Shard |QID|6981| |N|Escort the Disciple of Naralex through Wailing Caverns and complete the ritual of awakening (WC Dungeon Quest)| |D|WC| |Z|Tirisfal Glades|
-C Deviate Hides |QID|1486| |N|This can be completed INSIDE and OUTSIDE of Wailing Caverns (WC Dungeon Quest)| |D|WC| |Z|Tirisfal Glades|
+C Deviate Hides |QID|1486| |OIDX|1| |N|This can be completed INSIDE and OUTSIDE of Wailing Caverns (WC Dungeon Quest)| |D|WC| |Z|Tirisfal Glades|
 R Travel to The Barrens |N|(63.0, 37.2) (WC Dungeon Quest)| |D|WC| |Z|The Barrens|
-C The Glowing Shard |QID|6981| |N|Sputtervalve (63.0, 37.2) (WC Dungeon Quest)| |D|WC| |Z|The Barrens|
+C The Glowing Shard |QID|6981| |OIDX|1| |N|Sputtervalve (63.0, 37.2) (WC Dungeon Quest)| |D|WC| |Z|The Barrens|
 T Trouble at the Docks |QID|959| |N|Crane Operator Bigglefuzz - (63.1, 37.6) (WC Dungeon Quest)| |D|WC| |Z|The Barrens|
 R Ascend the steep mountain above The Wailing Caverns. Follow the Arrow |N|(48.2, 32.8) (WC Dungeon Quest)| |D|WC| |Z|The Barrens|
 T The Glowing Shard |QID|6981| |N|Falla Sagewind - (48.2, 32.8) (WC Dungeon Quest)| |D|WC| |Z|The Barrens|
@@ -57,21 +57,21 @@ N Playing with only [Claw] plays the same as having both damage spells but provi
 N Playing with both [Bite] and [Claw] is the optimal damage setup but is harder to play with since your pet might cast [Claw] instead of [Growl] at times. (recommended if you like to min/max, you should manually cast [Growl] with this setup) |N|(!WC Dungeon Quest)| |C|Hunter| |D|!WC| |Z|Ashenvale|
 N Keep in mind not all pets can train both [Bite] and [Claw] and you might have limited options due to your pet choice |N|(!WC Dungeon Quest)| |C|Hunter| |D|!WC| |Z|Ashenvale|
 C Save up to 6 Gooey Spider Legs looted from the Spiders in the zone. You will need them for a quest later |QID|93| |L|2251 6| |N|Save up to 6 Gooey Spider Legs looted from the Spiders in the zone. You will need them for a quest later| |O| |Z|Ashenvale|
-C Pridewings of Stonetalon |QID|1134| |N|Kill Young Pridewings. Loot them for their Pridewing Venom Sacs| |O| |Z|Ashenvale|
+C Pridewings of Stonetalon |QID|1134| |OIDX|1| |N|Kill Young Pridewings. Loot them for their Pridewing Venom Sacs| |O| |Z|Ashenvale|
 R Travel to Stonetalon Mountains |N|(59.0, 62.6)| |Z|Stonetalon Mountains|
 A Super Reaper 6000 |QID|1093| |N|Ziz Fizziks - (59.0, 62.6)| |Z|Stonetalon Mountains|
 T On Guard in Stonetalon |QID|1070| |N|Kaela Shadowspear - (59.9, 66.8)| |Z|Stonetalon Mountains|
 A On Guard in Stonetalon |QID|1085| |N|Kaela Shadowspear - (59.9, 66.8)| |Z|Stonetalon Mountains|
 T On Guard in Stonetalon |QID|1085| |N|Gaxim Rustfizzle - (59.5, 67.1)| |Z|Stonetalon Mountains|
 A A Gnome's Respite |QID|1071| |N|Gaxim Rustfizzle - (59.5, 67.1)| |Z|Stonetalon Mountains|
-C Super Reaper 6000 |QID|1093| |N|Venture Co. Operators. Loot them for the Blueprints (66.7, 51.9)| |Z|Stonetalon Mountains|
-C A Gnome's Respite |QID|1071| |N|Venture Co. Deforesters and Venture Co. Loggers (66.7, 51.9)| |Z|Stonetalon Mountains|
+C Super Reaper 6000 |QID|1093| |OIDX|1| |N|Venture Co. Operators. Loot them for the Blueprints (66.7, 51.9)| |Z|Stonetalon Mountains|
+C A Gnome's Respite |QID|1071| |OIDX|1| |N|Venture Co. Deforesters and Venture Co. Loggers (66.7, 51.9)| |Z|Stonetalon Mountains|
 T Super Reaper 6000 |QID|1093| |N|Ziz Fizziks - (59.0, 62.6)| |Z|Stonetalon Mountains|
 T A Gnome's Respite |QID|1071| |N|Gaxim Rustfizzle - (59.5, 67.1)| |Z|Stonetalon Mountains|
 A An Old Colleague |QID|1072| |N|Gaxim Rustfizzle| |Z|Stonetalon Mountains|
 A A Scroll from Mauren |QID|1075| |N|Gaxim Rustfizzle| |Z|Stonetalon Mountains|
 R Head north to the Mirkfallon Lake |N|(51.0, 47.5)| |Z|Stonetalon Mountains|
-C Pridewings of Stonetalon |QID|1134| |N|Pridewing Wyverns and Pridewing Consorts. Loot them for their Pridewing Venom Sacs (54.6, 38.1)| |Z|Stonetalon Mountains|
+C Pridewings of Stonetalon |QID|1134| |OIDX|1| |N|Pridewing Wyverns and Pridewing Consorts. Loot them for their Pridewing Venom Sacs (54.6, 38.1)| |Z|Stonetalon Mountains|
 R Stonetalon Peak |N|(37.1, 8.1)| |O| |Z|Stonetalon Mountains|
 T Journey to Stonetalon Peak |QID|1056| |N|Keeper Albagorm - (37.1, 8.1)| |Z|Stonetalon Mountains|
 f Get the Stonetalon Flight Path |N|Teloren - (36.4, 7.2)| |Z|Stonetalon Mountains|
@@ -84,13 +84,13 @@ A Elemental Bracers |QID|1016| |N|Sentinel Velene Starstrike - (49.8, 67.2)| |Z|
 t Train your class skills |N|Danlaar Nightstride - (50.1, 67.9)| |C|Hunter| |Z|Ashenvale|
 N The Befouled Water Elementals cast [Frost Nova]. Pay attention to your breath timer if you dive underwater to kill them |N|(48.9, 70.0)| |Z|Ashenvale|
 C Befouled Water Elementals. Loot them for their Bracers |QID|1016| |L|12220 5| |N|Befouled Water Elementals. Loot them for their Bracers - (48.9, 70.0)| |Z|Ashenvale|
-C Elemental Bracers |QID|1016| |Z|Ashenvale|
+C Elemental Bracers |QID|1016| |OIDX|1| |Z|Ashenvale|
 T Elemental Bracers |QID|1016| |N|Sentinel Velene Starstrike - (49.8, 67.2)| |Z|Ashenvale|
 N Be careful as the Foulweald Ursas can [Thrash] hitting you 3 times at once |N|(50.1, 59.9)| |Z|Ashenvale|
 N The Foulweald Totemics share spawns with Foulweald Warriors. You may have to backtrack and kill respawns if you weren't lucky with the spawns |N|(50.1, 59.9)| |Z|Ashenvale|
-C An Aggressive Defense |QID|1025| |N|Foulweald Warriors, Foulweald Totemics, Foulweald Ursas and a Foulweald Den Watcher (50.1, 59.9)| |Z|Ashenvale|
+C An Aggressive Defense |QID|1025| |OIDX|4| |N|Foulweald Warriors, Foulweald Totemics, Foulweald Ursas and a Foulweald Den Watcher (50.1, 59.9)| |Z|Ashenvale|
 N This quest can be hard. Kite it along the road east toward Azshara |N|(66.6, 82.2)| |Z|Ashenvale|
-C Fallen Sky Lake |QID|1035| |N|the Shadethicket Oracle. Loot it for the Fallen Moonstone (66.6, 82.2)| |Z|Ashenvale|
+C Fallen Sky Lake |QID|1035| |OIDX|1| |N|the Shadethicket Oracle. Loot it for the Fallen Moonstone (66.6, 82.2)| |Z|Ashenvale|
 R Travel to Azshara |N|(11.9, 77.6)| |Z|Azshara|
 N Use [Track Humanoids] and watch your minimap to more easily spot where the guards are located |N|(11.9, 77.6)| |C|Hunter| |Z|Azshara|
 N Jarrodenus |N|(11.9, 77.6)| |Z|Azshara|
@@ -101,16 +101,16 @@ T An Aggressive Defense |QID|1025| |N|Raene Wolfrunner - (36.6, 49.6)| |Z|Ashenv
 C Save up to 6 Gooey Spider Legs looted from the Spiders in the zone. You will need them for a quest later |QID|93| |L|2251 6| |N|Save up to 6 Gooey Spider Legs looted from the Spiders in the zone. You will need them for a quest later| |O| |Z|Ashenvale|
 R Thistlefur Village. Follow the Arrow for a shortcut |N|(36.8, 37.6)| |O| |Z|Ashenvale|
 N Dal Bloodclaw patrols Thistlefur Village |N|(39.6, 36.3)| |Z|Ashenvale|
-C Dal Bloodclaw. Loot him for his Skull |QID|1054| |N|Dal Bloodclaw. Loot him for his Skull - (39.6, 36.3)| |Z|Ashenvale|
+C Dal Bloodclaw. Loot him for his Skull |QID|1054| |OIDX|1| |N|Dal Bloodclaw. Loot him for his Skull - (39.6, 36.3)| |Z|Ashenvale|
 C and loot Ghostpaw Runners you encounter while questing. Keep any [Lean Wolf Flanks] you get. You will need 10 for a cooking quest later |L|1015 10| |N|Kill and loot Ghostpaw Runners you encounter while questing. Keep any [Lean Wolf Flanks] you get. You will need 10 for a cooking quest later| |O| |Z|Ashenvale|
 R Climb the hill next to the big tree to the right of the Fire Scar Shrine entrance |N|(27.5, 60.8)| |O| |Z|Ashenvale|
 N Jump over the tree root and hug the right to avoid aggroing mobs |N|(27.5, 60.8)| |O| |Z|Ashenvale|
 N Ilkrud Magthrull will cast [Ilkrud's Guardians] which is a 5 second long cast and will summon 2 Voidwalkers. Stop this cast if you're able to |N|(25.3, 60.7)| |Z|Ashenvale|
 N Clear an exit path if needed so you can reset them along with the Succubus if needed |N|(25.3, 60.7)| |Z|Ashenvale|
-C Ilkrud Magthrull. Loot him for his Tome |QID|973| |N|Ilkrud Magthrull. Loot him for his Tome - (25.3, 60.7)| |Z|Ashenvale|
+C Ilkrud Magthrull. Loot him for his Tome |QID|973| |OIDX|1| |N|Ilkrud Magthrull. Loot him for his Tome - (25.3, 60.7)| |Z|Ashenvale|
 N Ilkrud Magthrull will cast [Ilkrud's Guardians] which is a 5 second long cast and will summon 2 Voidwalkers. Stop this cast if you're able to |N|(25.3, 60.7)| |Z|Ashenvale|
 N Clear an exit path if needed so you can reset them along with the Succubus if needed |N|(25.3, 60.7)| |Z|Ashenvale|
-C Ilkrud Magthrull. Loot him for his Tome |QID|973| |N|Ilkrud Magthrull. Loot him for his Tome - (25.3, 60.7)| |Z|Ashenvale|
+C Ilkrud Magthrull. Loot him for his Tome |QID|973| |OIDX|1| |N|Ilkrud Magthrull. Loot him for his Tome - (25.3, 60.7)| |Z|Ashenvale|
 C Save up to 6 Gooey Spider Legs looted from the Spiders in the zone. You will need them for a quest later |QID|93| |L|2251 6| |N|Save up to 6 Gooey Spider Legs looted from the Spiders in the zone. You will need them for a quest later| |O| |Z|Ashenvale|
 C and loot Ghostpaw Runners you encounter while questing. Keep any [Lean Wolf Flanks] you get. You will need 10 for a cooking quest later |L|1015 10| |N|Kill and loot Ghostpaw Runners you encounter while questing. Keep any [Lean Wolf Flanks] you get. You will need 10 for a cooking quest later| |O| |Z|Ashenvale|
 T The Tower of Althalaxx |QID|973| |N|Delgren the Purifier - (26.2, 38.7)| |Z|Ashenvale|

@@ -25,7 +25,7 @@ A Message in a Bottle |QID|594| |N|the Half-Burried Bottles along the southeaste
 T Message in a Bottle |QID|594| |N|Princess Poobah - (38.5, 80.6)| |Z|Stranglethorn Vale|
 A Message in a Bottle |QID|630| |N|Princess Poobah - (38.5, 80.6)| |Z|Stranglethorn Vale|
 N Clear a bit of space around King Mukla, as he has a fear |N|(40.9, 83.9)| |Z|Stranglethorn Vale|
-C Message in a Bottle |QID|630| |N|King Mukla. Loot him for his Key (40.9, 83.9)| |Z|Stranglethorn Vale|
+C Message in a Bottle |QID|630| |OIDX|1| |N|King Mukla. Loot him for his Key (40.9, 83.9)| |Z|Stranglethorn Vale|
 T Message in a Bottle |QID|630| |N|Princess Poobah - (38.5, 80.6)| |Z|Stranglethorn Vale|
 T Facing Negolash |QID|8554| |N|Sprogger - (26.7, 73.6)| |Z|Stranglethorn Vale|
 t Train your class spells |N|Ian on the second floor of the inn - (26.8, 77.2)| |C|Rogue| |Z|Stranglethorn Vale|
@@ -41,7 +41,7 @@ t Train your class spells |N|Malosh - (44.9, 57.6)| |C|Warrior| |Z|Swamp of Sorr
 B Buy [Superior Healing Potions] from him if they're up |N|Rartar inside the inn - (45.4, 56.9)| |Z|Swamp of Sorrows|
 A Warrior Kinship |QID|8423| |N|the Fallen Hero of the Horde - (34.2, 66.0)| |C|Warrior| |Z|Swamp of Sorrows|
 R Travel to Blasted Lands |N|(48.0, 34.4)| |C|Warrior| |Z|Blasted Lands|
-C Warrior Kinship |QID|8423| |N|Helboars in the Blasted Lands (50.8, 36.0)| |C|Warrior| |Z|Blasted Lands|
+C Warrior Kinship |QID|8423| |OIDX|1| |N|Helboars in the Blasted Lands (50.8, 36.0)| |C|Warrior| |Z|Blasted Lands|
 T Warrior Kinship |QID|8423| |N|the Fallen Hero of the Horde - (34.2, 66.0)| |C|Warrior| |Z|Swamp of Sorrows|
 A War on the Shadowsworn |QID|8424| |N|the Fallen Hero of the Horde - (34.2, 66.0)| |C|Warrior| |Z|Swamp of Sorrows|
 C As you're questing, keep an eye out for [Imperfect Draenethyst Fragments] and a [Flawless Draenethyst Sphere] |QID|3501| |L|10593 1| |N|As you're questing, keep an eye out for [Imperfect Draenethyst Fragments] and a [Flawless Draenethyst Sphere]| |O| |Z|Swamp of Sorrows|
@@ -94,7 +94,7 @@ C Kum'isha the Collector |QID|3501| |L|10593 1| |N|Kum'isha the Collector - (51.
 A To Serve Kum'isha |QID|2521| |N|Kum'isha the Collector - (51.8, 35.6)| |O| |Z|Blasted Lands|
 T To Serve Kum'isha |QID|2521| |N|Kum'isha the Collector - (51.8, 35.6)| |O| |Z|Blasted Lands|
 C Kum'isha the Collector |QID|2521| |L|8244 1| |N|Kum'isha the Collector - (51.8, 35.6)| |O| |Z|Blasted Lands|
-C War on the Shadowsworn |QID|8424| |N|Kill +Shadowsworn Thug (63.6, 39.2)| |C|Warrior| |Z|Blasted Lands|
+C War on the Shadowsworn |QID|8424| |OIDX|1| |N|Kill +Shadowsworn Thug (63.6, 39.2)| |C|Warrior| |Z|Blasted Lands|
 T War on the Shadowsworn |QID|8424| |N|the Fallen Hero of the Horde - (34.2, 66.0)| |C|Warrior| |Z|Swamp of Sorrows|
 B Buy [Superior Healing Potions] from him if they're up |N|Thultazor - (45.8, 52.9)| |Z|Swamp of Sorrows|
 B Buy [Superior Healing Potions] from him if they're up |N|Rartar inside the inn - (45.4, 56.9)| |Z|Swamp of Sorrows|

@@ -32,59 +32,59 @@ A Bad Medicine |QID|204| |N|Sergeant Yohwa - (38.0, 3.3)| |Z|Stranglethorn Vale|
 A Bookie Herod |QID|200| |N|Lieutenant Doren - (38.0, 3.0)| |Z|Stranglethorn Vale|
 B Restock on  [Razor Arrows] if needed |N|Corporal Bluth - (38.0, 3.0)| |C|Hunter| |Z|Stranglethorn Vale|
 N Stone Maw Basilisks and Crystal Spine Basilisks will cast [Crystal Gaze] which is a 6 second long stun. Simply move out of their melee range when they begin to cast to avoid it |N|(24.4, 17.2)| |O| |Z|Stranglethorn Vale|
-C Singing Blue Shards |QID|605| |N|Kill Stone Maw Basilisks and Crystal Spine Basilisks. Loot them for their Shards (48.5, 8.8)| |O| |Z|Stranglethorn Vale|
-C Supply and Demand |QID|575| |N|River Crocolisks. Loot them for their Skin (40.8, 13.8)| |O| |Z|Stranglethorn Vale|
+C Singing Blue Shards |QID|605| |OIDX|1| |N|Kill Stone Maw Basilisks and Crystal Spine Basilisks. Loot them for their Shards (48.5, 8.8)| |O| |Z|Stranglethorn Vale|
+C Supply and Demand |QID|575| |OIDX|1| |N|River Crocolisks. Loot them for their Skin (40.8, 13.8)| |O| |Z|Stranglethorn Vale|
 A Welcome to the Jungle |QID|583| |N|Barnil Stonepot and Hemet Nesingwary - (35.7, 10.5)| |Z|Stranglethorn Vale|
 T Welcome to the Jungle |QID|583| |N|Barnil Stonepot and Hemet Nesingwary - (35.7, 10.5)| |Z|Stranglethorn Vale|
 T Hemet Nesingwary |QID|5762| |N|Hemet Nesingwary - (35.7, 10.8)| |Z|Stranglethorn Vale|
 A Tiger Mastery |QID|185| |N|Ajeck Rouack and Sir S. J. Erlgadin - (35.6, 10.6)| |Z|Stranglethorn Vale|
 A Panther Mastery |QID|190| |N|Ajeck Rouack and Sir S. J. Erlgadin - (35.6, 10.6)| |Z|Stranglethorn Vale|
-C Tiger Mastery |QID|185| |N|Young Stranglethorn Tigers (35.4, 12.5)| |Z|Stranglethorn Vale|
+C Tiger Mastery |QID|185| |OIDX|1| |N|Young Stranglethorn Tigers (35.4, 12.5)| |Z|Stranglethorn Vale|
 T Tiger Mastery |QID|185| |N|Ajeck Rouack - (35.6, 10.6)| |Z|Stranglethorn Vale|
 A Tiger Mastery |QID|186| |N|Ajeck Rouack - (35.6, 10.6)| |Z|Stranglethorn Vale|
 N Kurzen Medicine Men also drop [Liferoot]. Save these for your [Whirlwind Axe] quest later |N|(44.9, 10.2)| |O| |C|Warrior| |Z|Stranglethorn Vale|
 N Hold onto any [Green Hills of Stranglethorn - Pages] you find. Trade or sell duplicates |N|(44.9, 10.2)| |O| |Z|Stranglethorn Vale|
-C The Second Rebellion |QID|203| |N|Kurzen Jungle Fighters and Kurzen Medicine Men. Loot the Kurzen Medicine Men for their Jungle Remedies (44.9, 10.2)| |O| |Z|Stranglethorn Vale|
-C Bad Medicine |QID|204| |N|Kurzen Jungle Fighters and Kurzen Medicine Men. Loot the Kurzen Medicine Men for their Jungle Remedies (44.9, 10.2)| |O| |Z|Stranglethorn Vale|
-C Bad Medicine |QID|204| |N|the Kurzen Supplies. Loot it for the Venom Fern Extract (44.1, 9.5)| |Z|Stranglethorn Vale|
+C The Second Rebellion |QID|203| |OIDX|1| |N|Kurzen Jungle Fighters and Kurzen Medicine Men. Loot the Kurzen Medicine Men for their Jungle Remedies (44.9, 10.2)| |O| |Z|Stranglethorn Vale|
+C Bad Medicine |QID|204| |OIDX|1| |N|Kurzen Jungle Fighters and Kurzen Medicine Men. Loot the Kurzen Medicine Men for their Jungle Remedies (44.9, 10.2)| |O| |Z|Stranglethorn Vale|
+C Bad Medicine |QID|204| |OIDX|2| |N|the Kurzen Supplies. Loot it for the Venom Fern Extract (44.1, 9.5)| |Z|Stranglethorn Vale|
 N Kurzen Medicine Men also drop [Liferoot]. Save these for your [Whirlwind Axe] quest later |N|(44.9, 10.2)| |O| |C|Warrior| |Z|Stranglethorn Vale|
 N Hold onto any [Green Hills of Stranglethorn - Pages] you find. Trade or sell duplicates |N|(44.9, 10.2)| |O| |Z|Stranglethorn Vale|
-C The Second Rebellion |QID|203| |N|Kurzen Jungle Fighters and Kurzen Medicine Men. Loot the Kurzen Medicine Men for their Jungle Remedies (44.9, 10.2)| |O| |Z|Stranglethorn Vale|
-C Bad Medicine |QID|204| |N|Kurzen Jungle Fighters and Kurzen Medicine Men. Loot the Kurzen Medicine Men for their Jungle Remedies (44.9, 10.2)| |O| |Z|Stranglethorn Vale|
+C The Second Rebellion |QID|203| |OIDX|1| |N|Kurzen Jungle Fighters and Kurzen Medicine Men. Loot the Kurzen Medicine Men for their Jungle Remedies (44.9, 10.2)| |O| |Z|Stranglethorn Vale|
+C Bad Medicine |QID|204| |OIDX|1| |N|Kurzen Jungle Fighters and Kurzen Medicine Men. Loot the Kurzen Medicine Men for their Jungle Remedies (44.9, 10.2)| |O| |Z|Stranglethorn Vale|
 T Bookie Herod |QID|200| |N|on Bookie Herod's Records upstairs in the house - (43.7, 9.4)| |Z|Stranglethorn Vale|
 A The Hidden Key |QID|328| |N|on Bookie Herod's Records upstairs in the house - (43.7, 9.4)| |Z|Stranglethorn Vale|
 N Kurzen Medicine Men also drop [Liferoot]. Save these for your [Whirlwind Axe] quest later |N|(44.9, 10.2)| |C|Warrior| |Z|Stranglethorn Vale|
 N Hold onto any [Green Hills of Stranglethorn - Pages] you find. Trade or sell duplicates |N|(44.9, 10.2)| |Z|Stranglethorn Vale|
-C The Second Rebellion |QID|203| |N|Kurzen Jungle Fighters and Kurzen Medicine Men. Loot the Kurzen Medicine Men for their Jungle Remedies (44.9, 10.2)| |Z|Stranglethorn Vale|
-C Bad Medicine |QID|204| |N|Kurzen Jungle Fighters and Kurzen Medicine Men. Loot the Kurzen Medicine Men for their Jungle Remedies (44.9, 10.2)| |Z|Stranglethorn Vale|
-C Tiger Mastery |QID|186| |N|Stranglethorn Tigers (46.8, 15.8)| |Z|Stranglethorn Vale|
-C Hostile Takeover |QID|213| |N|Kill Venture Co. Geologists. Loot them for their Crystals| |O| |Z|Stranglethorn Vale|
+C The Second Rebellion |QID|203| |OIDX|1| |N|Kurzen Jungle Fighters and Kurzen Medicine Men. Loot the Kurzen Medicine Men for their Jungle Remedies (44.9, 10.2)| |Z|Stranglethorn Vale|
+C Bad Medicine |QID|204| |OIDX|1| |N|Kurzen Jungle Fighters and Kurzen Medicine Men. Loot the Kurzen Medicine Men for their Jungle Remedies (44.9, 10.2)| |Z|Stranglethorn Vale|
+C Tiger Mastery |QID|186| |OIDX|1| |N|Stranglethorn Tigers (46.8, 15.8)| |Z|Stranglethorn Vale|
+C Hostile Takeover |QID|213| |OIDX|1| |N|Kill Venture Co. Geologists. Loot them for their Crystals| |O| |Z|Stranglethorn Vale|
 C Foreman Cozzle atop the Oil Rig. Loot him for his Key |QID|1182| |L|5851 1| |N|Foreman Cozzle atop the Oil Rig. Loot him for his Key - (42.6, 18.4)| |Z|Stranglethorn Vale|
-C Goblin Sponsorship |QID|1182| |N|Cozzle's Footlocker. Loot it for the Fuel Regulator Blueprints (43.3, 20.3)| |Z|Stranglethorn Vale|
-C Hostile Takeover |QID|213| |N|Venture Co. Geologists. Loot them for their Crystals (45.5, 18.8)| |Z|Stranglethorn Vale|
-C Panther Mastery |QID|190| |N|Young Panthers (41.5, 12.0)| |Z|Stranglethorn Vale|
+C Goblin Sponsorship |QID|1182| |OIDX|1| |N|Cozzle's Footlocker. Loot it for the Fuel Regulator Blueprints (43.3, 20.3)| |Z|Stranglethorn Vale|
+C Hostile Takeover |QID|213| |OIDX|1| |N|Venture Co. Geologists. Loot them for their Crystals (45.5, 18.8)| |Z|Stranglethorn Vale|
+C Panther Mastery |QID|190| |OIDX|1| |N|Young Panthers (41.5, 12.0)| |Z|Stranglethorn Vale|
 T The Second Rebellion |QID|203| |N|Sergeant Yohwa - (38.0, 3.3)| |Z|Stranglethorn Vale|
 T Bad Medicine |QID|204| |N|Sergeant Yohwa - (38.0, 3.3)| |Z|Stranglethorn Vale|
 A Krazek's Cookery |QID|210| |N|Corporal Kaleb - (37.7, 3.3)| |Z|Stranglethorn Vale|
 N Don't accept the follow up yet |N|(38.0, 3.0)| |Z|Stranglethorn Vale|
 T Jungle Secrets |QID|215| |N|Lieutenant Doren - (38.0, 3.0)| |Z|Stranglethorn Vale|
 T Supplies to Private Thorsen |QID|198| |N|Private Thorsen - (38.0, 3.4)| |Z|Stranglethorn Vale|
-C Supply and Demand |QID|575| |N|River Crocolisks. Loot them for their Skin (40.8, 13.8)| |O| |Z|Stranglethorn Vale|
+C Supply and Demand |QID|575| |OIDX|1| |N|River Crocolisks. Loot them for their Skin (40.8, 13.8)| |O| |Z|Stranglethorn Vale|
 A Raptor Mastery |QID|194| |N|Hemet Nesingwary, Ajeck Rouack and Sir S. J. Erlgadin - (35.7, 10.8)| |Z|Stranglethorn Vale|
 T Tiger Mastery |QID|186| |N|Hemet Nesingwary, Ajeck Rouack and Sir S. J. Erlgadin - (35.7, 10.8)| |Z|Stranglethorn Vale|
 A Tiger Mastery |QID|187| |N|Hemet Nesingwary, Ajeck Rouack and Sir S. J. Erlgadin - (35.7, 10.8)| |Z|Stranglethorn Vale|
 T Panther Mastery |QID|190| |N|(35.6, 10.6)| |Z|Stranglethorn Vale|
 A Panther Mastery |QID|191| |N|(35.6, 10.6)| |Z|Stranglethorn Vale|
-C Supply and Demand |QID|575| |N|River Crocolisks. Loot them for their Skin (36.8, 10.6)| |Z|Stranglethorn Vale|
-C Panther Mastery |QID|191| |N|Kill Panthers| |O| |Z|Stranglethorn Vale|
-C Tiger Mastery |QID|187| |N|Elder Stranglethorn Tigers (31.9, 19.9)| |Z|Stranglethorn Vale|
-C Panther Mastery |QID|191| |N|Panthers (29.8, 11.2)| |Z|Stranglethorn Vale|
+C Supply and Demand |QID|575| |OIDX|1| |N|River Crocolisks. Loot them for their Skin (36.8, 10.6)| |Z|Stranglethorn Vale|
+C Panther Mastery |QID|191| |OIDX|1| |N|Kill Panthers| |O| |Z|Stranglethorn Vale|
+C Tiger Mastery |QID|187| |OIDX|1| |N|Elder Stranglethorn Tigers (31.9, 19.9)| |Z|Stranglethorn Vale|
+C Panther Mastery |QID|191| |OIDX|1| |N|Panthers (29.8, 11.2)| |Z|Stranglethorn Vale|
 N Crystal Spine Basilisks will cast [Crystal Gaze] which is a 6 second long stun. Simply move out of their melee range when they begin to cast to avoid it |N|(23.2, 17.2)| |O| |Z|Stranglethorn Vale|
-C Singing Blue Shards |QID|605| |N|Crystal Spine Basilisks. Loot them for their Shards (23.2, 17.2)| |O| |Z|Stranglethorn Vale|
-C Raptor Mastery |QID|194| |N|Stranglethorn Raptors (27.2, 16.1)| |Z|Stranglethorn Vale|
+C Singing Blue Shards |QID|605| |OIDX|1| |N|Crystal Spine Basilisks. Loot them for their Shards (23.2, 17.2)| |O| |Z|Stranglethorn Vale|
+C Raptor Mastery |QID|194| |OIDX|1| |N|Stranglethorn Raptors (27.2, 16.1)| |Z|Stranglethorn Vale|
 N Crystal Spine Basilisks will cast [Crystal Gaze] which is a 6 second long stun. Simply move out of their melee range when they begin to cast to avoid it |N|(25.5, 17.7)| |Z|Stranglethorn Vale|
-C Singing Blue Shards |QID|605| |N|Crystal Spine Basilisks. Loot them for their Shards (25.5, 17.7)| |Z|Stranglethorn Vale|
-C The Stone of the Tides |QID|578| |N|the Haunted Island (21.6, 21.8)| |Z|Stranglethorn Vale|
+C Singing Blue Shards |QID|605| |OIDX|1| |N|Crystal Spine Basilisks. Loot them for their Shards (25.5, 17.7)| |Z|Stranglethorn Vale|
+C The Stone of the Tides |QID|578| |OIDX|1| |N|the Haunted Island (21.6, 21.8)| |Z|Stranglethorn Vale|
 R Nesingwary's Expedition |N|(35.7, 10.8)| |O| |Z|Stranglethorn Vale|
 T Raptor Mastery |QID|194| |N|Hemet Nesingwary, Ajeck Rouack and Sir S. J. Erlgadin - (35.7, 10.8)| |Z|Stranglethorn Vale|
 A Raptor Mastery |QID|195| |N|Hemet Nesingwary, Ajeck Rouack and Sir S. J. Erlgadin - (35.7, 10.8)| |Z|Stranglethorn Vale|
@@ -117,7 +117,7 @@ A The Carevin Family |QID|1042| |N|(72.6, 46.8)| |Z|Duskwood|
 T The Carevin Family |QID|1042| |N|(75.2, 48.8)| |Z|Duskwood|
 A The Scythe of Elune |QID|1043| |N|(75.2, 48.8)| |Z|Duskwood|
 R Roland's Doom |N|(73.2, 76.2)| |O| |Z|Duskwood|
-C The Scythe of Elune |QID|1043| |N|(73.5, 79.1)| |Z|Duskwood|
+C The Scythe of Elune |QID|1043| |OIDX|1| |N|(73.5, 79.1)| |Z|Duskwood|
 R Darkshire |N|(75.2, 48.8)| |O| |Z|Duskwood|
 T The Scythe of Elune |QID|1043| |N|(75.2, 48.8)| |Z|Duskwood|
 R Travel to Stormwind City |N|(43.1, 80.4)| |O| |C|Mage| |Z|Stormwind City|

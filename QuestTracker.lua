@@ -11,7 +11,7 @@ TurtleGuide.TrackEvents = {
 	"QUEST_WATCH_UPDATE", "QUEST_LOG_UPDATE", "UNIT_QUEST_LOG_CHANGED",
 	"ZONE_CHANGED", "ZONE_CHANGED_INDOORS", "MINIMAP_ZONE_CHANGED",
 	"ZONE_CHANGED_NEW_AREA", "PLAYER_LEVEL_UP", "ADDON_LOADED",
-	"CRAFT_SHOW", "PLAYER_DEAD"
+	"CRAFT_SHOW", "PLAYER_DEAD", "SKILL_LINES_CHANGED", "SPELLS_CHANGED"
 }
 
 
@@ -24,6 +24,14 @@ function TurtleGuide:ADDON_LOADED(event, addon)
 	f:SetScript("OnShow", function()
 		if self:GetObjectiveInfo() == "TRAIN" then self:SetTurnedIn() end
 	end)
+end
+
+function TurtleGuide:SKILL_LINES_CHANGED()
+	self:UpdateStatusFrame()
+end
+
+function TurtleGuide:SPELLS_CHANGED()
+	self:UpdateStatusFrame()
 end
 
 

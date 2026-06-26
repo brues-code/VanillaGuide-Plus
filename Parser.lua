@@ -142,7 +142,7 @@ local function StepParse(guide)
 			local _, _, action, quest, tag = string.find(text, "^(%a) ([^|]*)(.*)")
 			if action and actiontypes[action] then
 				quest = TurtleGuide.trim(quest)
-				if not (action == "A" or action == "C" or action == "T") then
+				if action ~= "T" then
 					quest = quest .. "@" .. uniqueid .. "@"
 					uniqueid = uniqueid + 1
 				end
@@ -423,6 +423,10 @@ function TurtleGuide:SmartSkipToStep()
 			-- Run/Travel steps with QID: auto-complete if linked quest is done
 			local qid = self:GetObjectiveTag("QID", i)
 			if qid and self.db.char.completedquestsbyid[tonumber(qid)] then
+				self.turnedin[quest] = true
+			end
+		elseif action == "TRAIN" then
+			if self:IsTrainingCompleted(cleanQuest) then
 				self.turnedin[quest] = true
 			end
 		end

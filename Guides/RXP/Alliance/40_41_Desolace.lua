@@ -12,20 +12,20 @@ R Hornizz at the Kodo Graveyard |N|(47.8, 61.8)| |O| |Z|Desolace|
 A Ghost-o-plasm Round Up |QID|6134| |N|Hornizz Brimbuzzle - (47.8, 61.8)| |Z|Desolace|
 T Ongeku |QID|1373| |N|Uthek the Wise - (36.2, 79.2)| |Z|Desolace|
 A Khan Jehn |QID|1374| |N|Uthek the Wise - (36.2, 79.2)| |Z|Desolace|
-C Fragments of the Orb of Orahil |QID|1799| |N|Kill Burning Blade Summoners. Loot them for their Infernal Orb| |O| |C|Warlock| |Z|Desolace|
-C Shard of a Felhound |QID|4962| |N|Kill Mage Hunter| |O| |C|Warlock| |Z|Desolace|
+C Fragments of the Orb of Orahil |QID|1799| |OIDX|1| |N|Kill Burning Blade Summoners. Loot them for their Infernal Orb| |O| |C|Warlock| |Z|Desolace|
+C Shard of a Felhound |QID|4962| |OIDX|1| |N|Kill Mage Hunter| |O| |C|Warlock| |Z|Desolace|
 N Kill Nether Sisters, Nether Maidens and Nether Sorceresses. Loot them for their Wings |N|(51.7, 83.9)| |Z|Desolace|
 N Kill Doomwarder Captains. Loot them for their Blood |N|(51.7, 83.9)| |Z|Desolace|
 N Prioritize Doomwarder Captains as you may need to wait for their respawns. Regular Doomwarders do not drop Blood. You could also ask someone to invite you so you change layers |N|(51.7, 83.9)| |Z|Desolace|
-C Reagents for Reclaimers Inc. |QID|1466| |N|Ley Hunters, Mana Eaters and Mage Hunters. Loot them for their Brains (51.7, 83.9)| |Z|Desolace|
-C Fragments of the Orb of Orahil |QID|1799| |N|Kill Burning Blade Summoners. Loot them for their Infernal Orb| |O| |C|Warlock| |Z|Desolace|
-C Shard of a Felhound |QID|4962| |N|Kill Mage Hunter (53.6, 77.6)| |C|Warlock| |Z|Desolace|
-C Fragments of the Orb of Orahil |QID|1799| |N|Burning Blade Summoners. Loot them for their Infernal Orb (55.0, 77.8)| |C|Warlock| |Z|Desolace|
-C Down the Scarlet Path |QID|261| |N|Kill Undead Ravagers| |O| |Z|Desolace|
+C Reagents for Reclaimers Inc. |QID|1466| |OIDX|1| |N|Ley Hunters, Mana Eaters and Mage Hunters. Loot them for their Brains (51.7, 83.9)| |Z|Desolace|
+C Fragments of the Orb of Orahil |QID|1799| |OIDX|1| |N|Kill Burning Blade Summoners. Loot them for their Infernal Orb| |O| |C|Warlock| |Z|Desolace|
+C Shard of a Felhound |QID|4962| |OIDX|1| |N|Kill Mage Hunter (53.6, 77.6)| |C|Warlock| |Z|Desolace|
+C Fragments of the Orb of Orahil |QID|1799| |OIDX|1| |N|Burning Blade Summoners. Loot them for their Infernal Orb (55.0, 77.8)| |C|Warlock| |Z|Desolace|
+C Down the Scarlet Path |QID|261| |OIDX|1| |N|Kill Undead Ravagers| |O| |Z|Desolace|
 N Kill Magrami Spectres that spawn from it. Loot them for their Ghost-o-plasms |N|(64.0, 91.7)| |Z|Desolace|
-C Ghost-o-plasm Round Up |QID|6134| |N|Use the [Crate of Ghost Magnets] at the Valley of Bones between the two giant skeleton remains (64.0, 91.7)| |Z|Desolace|
-C Down the Scarlet Path |QID|261| |N|Undead Ravagers (64.0, 91.7)| |Z|Desolace|
-C Khan Jehn |QID|1374| |N|Khan Jehn. Loot him for his Head (65.9, 80.4)| |Z|Desolace|
+C Ghost-o-plasm Round Up |QID|6134| |OIDX|1| |N|Use the [Crate of Ghost Magnets] at the Valley of Bones between the two giant skeleton remains (64.0, 91.7)| |Z|Desolace|
+C Down the Scarlet Path |QID|261| |OIDX|1| |N|Undead Ravagers (64.0, 91.7)| |Z|Desolace|
+C Khan Jehn |QID|1374| |OIDX|1| |N|Khan Jehn. Loot him for his Head (65.9, 80.4)| |Z|Desolace|
 T Ghost-o-plasm Round Up |QID|6134| |N|Hornizz Brimbuzzle - (47.8, 61.8)| |Z|Desolace|
 T Khan Jehn |QID|1374| |N|Uthek the Wise - (36.2, 79.2)| |Z|Desolace|
 T Ghost-o-plasm Round Up |QID|6134| |N|Hornizz Brimbuzzle - (47.8, 61.8)| |Z|Desolace|

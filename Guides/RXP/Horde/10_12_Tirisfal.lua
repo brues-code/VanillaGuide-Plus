@@ -44,18 +44,18 @@ A Delivery to Silverpine Forest |QID|445| |N|Johaan - (59.5, 52.4)| |Z|Tirisfal 
 A A Putrid Task |QID|404| |N|Dillinger - (58.2, 51.5)| |Z|Tirisfal Glades|
 T Dillinger |QID|1818| |N|Dillinger - (58.2, 51.4)| |C|Warrior| |Z|Tirisfal Glades|
 A Ulag the Cleaver |QID|1819| |N|Dillinger - (58.2, 51.4)| |C|Warrior| |Z|Tirisfal Glades|
-C Ulag the Cleaver |QID|1819| |N|the Mausoleum Trigger on the ground. This will summon Ulag. Kill him Ulag the Cleaver (1)| |C|Warrior| |Z|Tirisfal Glades|
+C Ulag the Cleaver |QID|1819| |OIDX|1| |N|the Mausoleum Trigger on the ground. This will summon Ulag. Kill him Ulag the Cleaver (1)| |C|Warrior| |Z|Tirisfal Glades|
 T Ulag the Cleaver |QID|1819| |N|Dillinger - (58.2, 51.4)| |C|Warrior| |Z|Tirisfal Glades|
 A Coleman |QID|1820| |N|Dillinger - (58.2, 51.4)| |C|Warrior| |Z|Tirisfal Glades|
 N You will receive [Slumber Sand] from the follow-up of this quest |O| |Z|Tirisfal Glades|
-C A New Plague |QID|367| |N|Kill any Darkhound you see. Loot them for their Blood Darkhound Blood (5)| |O| |Z|Tirisfal Glades|
-C A Putrid Task |QID|404| |N|Rotting Dead and Ravaged Corpses. Loot them for their Claws Putrid Claw (7)| |O| |Z|Tirisfal Glades|
-C The Chill of Death |QID|375| |N|Kill any Duskbat that you see. Loot them for their Pelts Duskbat Pelt (5)| |O| |Z|Tirisfal Glades|
+C A New Plague |QID|367| |OIDX|1| |N|Kill any Darkhound you see. Loot them for their Blood Darkhound Blood (5)| |O| |Z|Tirisfal Glades|
+C A Putrid Task |QID|404| |OIDX|1| |N|Rotting Dead and Ravaged Corpses. Loot them for their Claws Putrid Claw (7)| |O| |Z|Tirisfal Glades|
+C The Chill of Death |QID|375| |OIDX|1| |N|Kill any Duskbat that you see. Loot them for their Pelts Duskbat Pelt (5)| |O| |Z|Tirisfal Glades|
 A Fields of Grief |QID|365| |N|Simmer - (40.9, 54.2)| |O| |Z|Tirisfal Glades|
-C Fields of Grief |QID|365| |N|the Pumpkins found in the field. Tirisfal Pumpkin (10)| |O| |Z|Tirisfal Glades|
-C At War With The Scarlet Crusade |QID|427| |N|Scarlet Warriors. Scarlet Warrior (10)| |O| |Z|Tirisfal Glades|
-C The Chill of Death |QID|375| |N|Kill any Duskbat that you see. Loot them for their Pelts Duskbat Pelt (5)| |O| |Z|Tirisfal Glades|
-C A New Plague |QID|367| |N|any Darkhound you see. Loot them for their Blood Darkhound Blood (5)| |O| |Z|Tirisfal Glades|
+C Fields of Grief |QID|365| |OIDX|1| |N|the Pumpkins found in the field. Tirisfal Pumpkin (10)| |O| |Z|Tirisfal Glades|
+C At War With The Scarlet Crusade |QID|427| |OIDX|1| |N|Scarlet Warriors. Scarlet Warrior (10)| |O| |Z|Tirisfal Glades|
+C The Chill of Death |QID|375| |OIDX|1| |N|Kill any Duskbat that you see. Loot them for their Pelts Duskbat Pelt (5)| |O| |Z|Tirisfal Glades|
+C A New Plague |QID|367| |OIDX|1| |N|any Darkhound you see. Loot them for their Blood Darkhound Blood (5)| |O| |Z|Tirisfal Glades|
 R Travel back to Brill |N|(58.2, 51.4)| |O| |Z|Tirisfal Glades|
 T A Putrid Task |QID|404| |N|Dillinger - (58.2, 51.4)| |O| |Z|Tirisfal Glades|
 A The Mills Overrun |QID|426| |N|Dillinger - (58.2, 51.4)| |O| |Z|Tirisfal Glades|
@@ -102,32 +102,32 @@ N Skip this if you want, it's only a small time saver |N|(64.2, 49.6)| |O| |C|Ro
 B Collect Discolored Worg Heart (x6) |L|3164 6| |N|Auctioneer Rhyker - (64.2, 49.6)| |O| |C|Rogue| |Z|Undercity|
 R Travel to Tirisfal Glades |N|(51.1, 71.5)| |O| |C|Warlock/Mage/Rogue| |Z|Tirisfal Glades|
 N You don't have to complete this step now |O| |Z|Tirisfal Glades|
-C Proof of Demise |QID|374| |N|Collect Scarlet Insignia Rings Scarlet Insignia Ring (10)| |O| |Z|Tirisfal Glades|
-C Creature of the Void |QID|1473| |N|Perrine's Chest for [Egalin's Grimoire] Egalin's Grimoire (1)| |O| |C|Warlock| |Z|Tirisfal Glades|
-C At War With The Scarlet Crusade |QID|370| |N|Captain Perrine, Zealots and Missionaries. Captain Perrine (1)| |O| |Z|Tirisfal Glades|
-C Creature of the Void |QID|1473| |N|Perrine's Chest on the ground for [Egalin's Grimoire] Egalin's Grimoire (1)| |C|Warlock| |Z|Tirisfal Glades|
+C Proof of Demise |QID|374| |OIDX|1| |N|Collect Scarlet Insignia Rings Scarlet Insignia Ring (10)| |O| |Z|Tirisfal Glades|
+C Creature of the Void |QID|1473| |OIDX|1| |N|Perrine's Chest for [Egalin's Grimoire] Egalin's Grimoire (1)| |O| |C|Warlock| |Z|Tirisfal Glades|
+C At War With The Scarlet Crusade |QID|370| |OIDX|1| |N|Captain Perrine, Zealots and Missionaries. Captain Perrine (1)| |O| |Z|Tirisfal Glades|
+C Creature of the Void |QID|1473| |OIDX|1| |N|Perrine's Chest on the ground for [Egalin's Grimoire] Egalin's Grimoire (1)| |C|Warlock| |Z|Tirisfal Glades|
 R Travel to Undercity |N|(45.7, 43.6)| |O| |C|Warlock| |Z|Undercity|
 T Creature of the Void |QID|1473| |N|Carendin in the Magic Quarter - (85.1, 26.0)| |C|Warlock| |Z|Undercity|
 A The Binding |QID|1471| |N|Carendin in the Magic Quarter - (85.1, 26.0)| |C|Warlock| |Z|Undercity|
-C The Binding |QID|1471| |N|the Summoned Voidwalker Kill Summoned Voidwalker (1)| |C|Warlock| |Z|Undercity|
+C The Binding |QID|1471| |OIDX|1| |N|the Summoned Voidwalker Kill Summoned Voidwalker (1)| |C|Warlock| |Z|Undercity|
 T The Binding |QID|1471| |N|Carendin - (85.0, 26.0)| |C|Warlock| |Z|Undercity|
 R Travel to Tirisfal Glades |N|(61.9, 64.8)| |O| |C|Warlock| |Z|Tirisfal Glades|
-C The Chill of Death |QID|375| |N|Kill any Duskbat that you see. Loot them for their Pelts Duskbat Pelt (5)| |O| |Z|Tirisfal Glades|
+C The Chill of Death |QID|375| |OIDX|1| |N|Kill any Duskbat that you see. Loot them for their Pelts Duskbat Pelt (5)| |O| |Z|Tirisfal Glades|
 R Travel northwest toward Agamand Mills |N|(47.6, 44.0)| |O| |Z|Tirisfal Glades|
 C Collect A Letter to Yvette (1) |QID|361| |L|2839 1| |N|[Thurman's Letter] may drop from these mobs. Accept the quest if it does| |O| |Z|Tirisfal Glades|
 A A Letter Undelivered |QID|361| |N|[Thurman's Letter] may drop from these mobs. Accept the quest if it does| |O| |Z|Tirisfal Glades|
-C The Mills Overrun |QID|426| |N|Kill Soldiers and Bonecasters. Loot them for their Ribs and Skulls Notched Rib (5)| |O| |Z|Tirisfal Glades|
-C The Haunted Mills |QID|362| |N|Devlin. Loot him for his Remains Devlin's Remains (1)| |O| |Z|Tirisfal Glades|
-C Deaths in the Family |QID|354| |N|Nissa. Loot her for her Remains. She can be inside the building Nissa's Remains (1)| |O| |Z|Tirisfal Glades|
-C Deaths in the Family |QID|354| |N|Thurman and Gregor. Loot them for their Remains. They can patrol around Thurman's Remains (1)| |O| |Z|Tirisfal Glades|
-C The Mills Overrun |QID|426| |N|Soldiers and Bonecasters. Loot them for their Ribs and Skulls Notched Rib (5)| |Z|Tirisfal Glades|
+C The Mills Overrun |QID|426| |OIDX|1| |N|Kill Soldiers and Bonecasters. Loot them for their Ribs and Skulls Notched Rib (5)| |O| |Z|Tirisfal Glades|
+C The Haunted Mills |QID|362| |OIDX|1| |N|Devlin. Loot him for his Remains Devlin's Remains (1)| |O| |Z|Tirisfal Glades|
+C Deaths in the Family |QID|354| |OIDX|2| |N|Nissa. Loot her for her Remains. She can be inside the building Nissa's Remains (1)| |O| |Z|Tirisfal Glades|
+C Deaths in the Family |QID|354| |OIDX|3| |N|Thurman and Gregor. Loot them for their Remains. They can patrol around Thurman's Remains (1)| |O| |Z|Tirisfal Glades|
+C The Mills Overrun |QID|426| |OIDX|1| |N|Soldiers and Bonecasters. Loot them for their Ribs and Skulls Notched Rib (5)| |Z|Tirisfal Glades|
 R Travel down the hills. |N|(57.8, 31.7)| |O| |Z|Tirisfal Glades|
 N Be careful. Don't take too much fall damage. Follow the waypoint for safety |N|(57.8, 31.7)| |O| |Z|Tirisfal Glades|
-C Graverobbers |QID|358| |N|Kill Gnolls and Mongrels. Loot them for their Ichor Rot Hide Mongrel (5)| |O| |Z|Tirisfal Glades|
-C Wanted: Maggot Eye |QID|398| |N|Maggot Eye. Loot him for his Paw Maggot Eye's Paw (1)| |O| |Z|Tirisfal Glades|
-C A New Plague |QID|368| |N|Murlocs. Loot them for their Scales Vile Fin Scale (5)| |O| |Z|Tirisfal Glades|
-C The Chill of Death |QID|375| |N|Kill any Duskbat that you see. Loot them for their Pelts Duskbat Pelt (5)| |O| |Z|Tirisfal Glades|
-C Graverobbers |QID|358| |N|Mongrels and Graverobbers. Loot them for their Ichor Rot Hide Mongrel (5)| |O| |Z|Tirisfal Glades|
+C Graverobbers |QID|358| |OIDX|2| |N|Kill Gnolls and Mongrels. Loot them for their Ichor Rot Hide Mongrel (5)| |O| |Z|Tirisfal Glades|
+C Wanted: Maggot Eye |QID|398| |OIDX|1| |N|Maggot Eye. Loot him for his Paw Maggot Eye's Paw (1)| |O| |Z|Tirisfal Glades|
+C A New Plague |QID|368| |OIDX|1| |N|Murlocs. Loot them for their Scales Vile Fin Scale (5)| |O| |Z|Tirisfal Glades|
+C The Chill of Death |QID|375| |OIDX|1| |N|Kill any Duskbat that you see. Loot them for their Pelts Duskbat Pelt (5)| |O| |Z|Tirisfal Glades|
+C Graverobbers |QID|358| |OIDX|2| |N|Mongrels and Graverobbers. Loot them for their Ichor Rot Hide Mongrel (5)| |O| |Z|Tirisfal Glades|
 T The Mills Overrun |QID|426| |N|Dillinger - (58.2, 51.4)| |O| |Z|Tirisfal Glades|
 T A New Plague |QID|368| |N|Johaan - (59.5, 52.4)| |O| |Z|Tirisfal Glades|
 A A New Plague |QID|369| |N|Johaan - (59.5, 52.4)| |O| |Z|Tirisfal Glades|
@@ -140,7 +140,7 @@ T Wanted: Maggot Eye |QID|398| |N|Zygand - (60.6, 51.8)| |O| |Z|Tirisfal Glades|
 T Graverobbers |QID|358| |N|Sevren - (61.3, 50.8)| |O| |Z|Tirisfal Glades|
 A Forsaken Duties |QID|359| |N|Sevren - (61.3, 50.8)| |O| |Z|Tirisfal Glades|
 N Buy a [Coarse Thread] from her |N|(61.0, 52.4)| |O| |Z|Tirisfal Glades|
-C The Chill of Death |QID|375| |N|Abigail Coarse Thread (1)| |O| |Z|Tirisfal Glades|
+C The Chill of Death |QID|375| |OIDX|2| |N|Abigail Coarse Thread (1)| |O| |Z|Tirisfal Glades|
 T A Letter Undelivered |QID|361| |N|Yvette - (61.6, 52.6)| |O| |Z|Tirisfal Glades|
 T Deaths in the Family |QID|354| |N|Coleman - (61.7, 52.3)| |O| |Z|Tirisfal Glades|
 T The Haunted Mills |QID|362| |N|Coleman - (61.7, 52.3)| |O| |Z|Tirisfal Glades|
@@ -167,24 +167,24 @@ B Innkeeper Renee |L|1179 15| |N|Innkeeper Renee - (61.7, 52.1)| |C|Warlock/Hunt
 T Forsaken Duties |QID|359| |N|Linnea - (65.5, 60.2)| |O| |Z|Tirisfal Glades|
 A Return to the Magistrate |QID|360| |N|Linnea - (65.5, 60.2)| |O| |Z|Tirisfal Glades|
 A Rear Guard Patrol |QID|356| |N|Linnea - (65.5, 60.2)| |O| |Z|Tirisfal Glades|
-C The Chill of Death |QID|375| |N|Kill any Duskbat that you see. Loot them for their Pelts Duskbat Pelt (5)| |O| |Z|Tirisfal Glades|
-C Rear Guard Patrol |QID|356| |N|Kill Bleeding Horrors and Wandering Spirits Bleeding Horror (8)| |O| |C|Mage| |Z|Tirisfal Glades|
-C The Balnir Farmstead |QID|1882| |N|any of the plants on the ground for a Balnir Snapdragon Balnir Snapdragons (1)| |C|Mage| |Z|Tirisfal Glades|
-C Rear Guard Patrol |QID|356| |N|Bleeding Horrors and Wandering Spirits Bleeding Horror (8)| |O| |Z|Tirisfal Glades|
+C The Chill of Death |QID|375| |OIDX|1| |N|Kill any Duskbat that you see. Loot them for their Pelts Duskbat Pelt (5)| |O| |Z|Tirisfal Glades|
+C Rear Guard Patrol |QID|356| |OIDX|1| |N|Kill Bleeding Horrors and Wandering Spirits Bleeding Horror (8)| |O| |C|Mage| |Z|Tirisfal Glades|
+C The Balnir Farmstead |QID|1882| |OIDX|1| |N|any of the plants on the ground for a Balnir Snapdragon Balnir Snapdragons (1)| |C|Mage| |Z|Tirisfal Glades|
+C Rear Guard Patrol |QID|356| |OIDX|1| |N|Bleeding Horrors and Wandering Spirits Bleeding Horror (8)| |O| |Z|Tirisfal Glades|
 C Linen Cloth (60) |QID|435| |L|2589 60| |N|Collect 3 stacks of [Linen Cloth] for your Lesser Magic Wand. This is the last chance to get enough before Silverpine Forest| |O| |C|Priest| |Z|Tirisfal Glades|
-C Proof of Demise |QID|374| |N|Collect Scarlet Insignia Rings Scarlet Insignia Ring (10)| |O| |Z|Tirisfal Glades|
+C Proof of Demise |QID|374| |OIDX|1| |N|Collect Scarlet Insignia Rings Scarlet Insignia Ring (10)| |O| |Z|Tirisfal Glades|
 N Be careful! Scarlet Friars can cast [Lesser Heal] |N|(79.8, 56.4)| |O| |Z|Tirisfal Glades|
-C At War With The Scarlet Crusade |QID|371| |N|Captain Vachon and Scarlet Friars Captain Vachon (1)| |O| |Z|Tirisfal Glades|
-C Proof of Demise |QID|374| |N|Collect Scarlet Insignia Rings Scarlet Insignia Ring (10)| |O| |Z|Tirisfal Glades|
+C At War With The Scarlet Crusade |QID|371| |OIDX|1| |N|Captain Vachon and Scarlet Friars Captain Vachon (1)| |O| |Z|Tirisfal Glades|
+C Proof of Demise |QID|374| |OIDX|1| |N|Collect Scarlet Insignia Rings Scarlet Insignia Ring (10)| |O| |Z|Tirisfal Glades|
 C Linen Cloth (60) |QID|435| |L|2589 60| |N|Collect 3 stacks of [Linen Cloth] for your Lesser Magic Wand. This is the last chance to get enough before Silverpine Forest (79.8, 56.4)| |C|Priest| |Z|Tirisfal Glades|
-C The Chill of Death |QID|375| |N|Kill any Duskbat that you see. Loot them for their Pelts Duskbat Pelt (5)| |O| |Z|Tirisfal Glades|
-C A New Plague |QID|369| |N|Vicious Night Web Spiders. Loot them for their Venom Vicious Night Web Spider Venom (4)| |O| |Z|Tirisfal Glades|
+C The Chill of Death |QID|375| |OIDX|1| |N|Kill any Duskbat that you see. Loot them for their Pelts Duskbat Pelt (5)| |O| |Z|Tirisfal Glades|
+C A New Plague |QID|369| |OIDX|1| |N|Vicious Night Web Spiders. Loot them for their Venom Vicious Night Web Spider Venom (4)| |O| |Z|Tirisfal Glades|
 R Travel back toward Linnea |N|(65.5, 60.2)| |O| |Z|Tirisfal Glades|
 N You can skip this quest if your rng has been bad |O| |Z|Tirisfal Glades|
-C The Chill of Death |QID|375| |N|Finish killing Duskbats. Loot them for their Pelts Duskbat Pelt (5)| |O| |Z|Tirisfal Glades|
+C The Chill of Death |QID|375| |OIDX|1| |N|Finish killing Duskbats. Loot them for their Pelts Duskbat Pelt (5)| |O| |Z|Tirisfal Glades|
 T Rear Guard Patrol |QID|356| |N|Linnea - (65.5, 60.2)| |O| |Z|Tirisfal Glades|
 N Buy a [Coarse Thread] from her |N|(61.0, 52.4)| |O| |Z|Tirisfal Glades|
-C The Chill of Death |QID|375| |N|Abigail Coarse Thread (1)| |O| |Z|Tirisfal Glades|
+C The Chill of Death |QID|375| |OIDX|2| |N|Abigail Coarse Thread (1)| |O| |Z|Tirisfal Glades|
 T Proof of Demise |QID|374| |N|Burgess - (60.9, 52.0)| |O| |Z|Tirisfal Glades|
 T At War With The Scarlet Crusade |QID|371| |N|Zygand - (60.6, 51.8)| |O| |Z|Tirisfal Glades|
 T Return to the Magistrate |QID|360| |N|Sevren - (61.3, 50.8)| |O| |Z|Tirisfal Glades|
@@ -201,14 +201,14 @@ t Train [Overpower] |N|Austil - (61.9, 52.5)| |C|Warrior| |Z|Tirisfal Glades|
 t Train [Kick] |N|Marion on the second floor - (61.8, 52.0)| |C|Rogue| |Z|Tirisfal Glades|
 t Train [Health Funnel] |N|Rupert - (61.6, 52.4)| |C|Warlock| |Z|Tirisfal Glades|
 R the crypt in Agamand Mills |N|(52.3, 26.4)| |C|Warrior| |Z|Tirisfal Glades|
-C Agamand Heirlooms |QID|1821| |N|Loot the Agamand Weapon Racks on the ground Agamand Family Axe (1)| |O| |C|Warrior| |Z|Tirisfal Glades|
+C Agamand Heirlooms |QID|1821| |OIDX|1| |N|Loot the Agamand Weapon Racks on the ground Agamand Family Axe (1)| |O| |C|Warrior| |Z|Tirisfal Glades|
 N Be careful! The mobs in this crypt respawn dynamically! |O| |C|Warrior| |Z|Tirisfal Glades|
-C The Family Crypt |QID|408| |N|Kill Wailing Ancestors and Rotting Ancestors Wailing Ancestor (8)| |O| |C|Warrior| |Z|Tirisfal Glades|
-C The Family Crypt |QID|408| |N|Captain Dargol. Loot him for his Skull. He is at the bottom of the crypt Dargol's Skull (1)| |C|Warrior| |Z|Tirisfal Glades|
-C Agamand Heirlooms |QID|1821| |N|Loot the Agamand Weapon Racks on the ground Agamand Family Axe (1)| |O| |C|Warrior| |Z|Tirisfal Glades|
+C The Family Crypt |QID|408| |OIDX|1| |N|Kill Wailing Ancestors and Rotting Ancestors Wailing Ancestor (8)| |O| |C|Warrior| |Z|Tirisfal Glades|
+C The Family Crypt |QID|408| |OIDX|3| |N|Captain Dargol. Loot him for his Skull. He is at the bottom of the crypt Dargol's Skull (1)| |C|Warrior| |Z|Tirisfal Glades|
+C Agamand Heirlooms |QID|1821| |OIDX|1| |N|Loot the Agamand Weapon Racks on the ground Agamand Family Axe (1)| |O| |C|Warrior| |Z|Tirisfal Glades|
 N Be careful! The mobs in this crypt respawn dynamically! |N|(51.9, 26.9)| |C|Warrior| |Z|Tirisfal Glades|
-C The Family Crypt |QID|408| |N|Wailing Ancestors and Rotting Ancestors Wailing Ancestor (8)| |C|Warrior| |Z|Tirisfal Glades|
-C Agamand Heirlooms |QID|1821| |N|the Agamand Weapon Racks on the ground Agamand Family Axe (1)| |C|Warrior| |Z|Tirisfal Glades|
+C The Family Crypt |QID|408| |OIDX|1| |N|Wailing Ancestors and Rotting Ancestors Wailing Ancestor (8)| |C|Warrior| |Z|Tirisfal Glades|
+C Agamand Heirlooms |QID|1821| |OIDX|1| |N|the Agamand Weapon Racks on the ground Agamand Family Axe (1)| |C|Warrior| |Z|Tirisfal Glades|
 T The Family Crypt |QID|408| |N|Sevren - (61.3, 50.8)| |C|Warrior| |Z|Tirisfal Glades|
 T Agamand Heirlooms |QID|1821| |N|Coleman inside the inn - (61.7, 52.3)| |C|Warrior| |Z|Tirisfal Glades|
 T Heirloom Weapon |QID|1822| |N|Coleman inside the inn - (61.7, 52.3)| |C|Warrior| |Z|Tirisfal Glades|

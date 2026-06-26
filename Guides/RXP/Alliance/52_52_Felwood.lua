@@ -46,52 +46,52 @@ R Shaussiy |N|(37.0, 44.1)| |C|Mage/Druid| |Z|Darkshore|
 F Fly to Azshara |N|Vesprystus - (58.4, 94.0)| |Z|Teldrassil|
 A Spiritual Unrest |QID|5535| |N|Loh'atu - (11.4, 78.2)| |Z|Azshara|
 A A Land Filled with Hatred |QID|5536| |N|Loh'atu - (11.4, 78.2)| |Z|Azshara|
-C Spiritual Unrest |QID|5535| |N|Highborne Apparitions and Highborne Lichlings (14.2, 72.7)| |O| |Z|Azshara|
-C A Land Filled with Hatred |QID|5536| |N|Haldarr Satyrs, Haldarr Tricksters and Haldarr Felsworns (20.6, 60.9)| |Z|Azshara|
+C Spiritual Unrest |QID|5535| |OIDX|1| |N|Highborne Apparitions and Highborne Lichlings (14.2, 72.7)| |O| |Z|Azshara|
+C A Land Filled with Hatred |QID|5536| |OIDX|1| |N|Haldarr Satyrs, Haldarr Tricksters and Haldarr Felsworns (20.6, 60.9)| |Z|Azshara|
 N Save an Ichor of Undeath for your Sunken Temple class quest later if you get one from them, if not you'll get one later |N|(17.1, 69.0)| |C|Priest| |Z|Azshara|
-C Spiritual Unrest |QID|5535| |N|Highborne Apparitions and Highborne Lichlings (17.1, 69.0)| |Z|Azshara|
+C Spiritual Unrest |QID|5535| |OIDX|1| |N|Highborne Apparitions and Highborne Lichlings (17.1, 69.0)| |Z|Azshara|
 C Highborne Apparitions and Highborne Lichlings |QID|8256| |L|7972 1| |N|Highborne Apparitions and Highborne Lichlings - (17.1, 69.0)| |C|Priest| |Z|Azshara|
-C Spiritual Unrest |QID|5535| |N|Highborne Apparitions and Highborne Lichlings (17.1, 69.0)| |Z|Azshara|
+C Spiritual Unrest |QID|5535| |OIDX|1| |N|Highborne Apparitions and Highborne Lichlings (17.1, 69.0)| |Z|Azshara|
 T Spiritual Unrest |QID|5535| |N|Loh'atu - (11.4, 78.2)| |Z|Azshara|
 T A Land Filled with Hatred |QID|5536| |N|Loh'atu - (11.4, 78.2)| |Z|Azshara|
 R Travel to Felwood |N|(54.1, 86.8)| |O| |Z|Felwood|
 A Cleansing Felwood |QID|4101| |N|Arathandris Silversky - (54.1, 86.8)| |Z|Felwood|
 A Timbermaw Ally |QID|8460| |N|Grazle - (50.9, 85.0)| |Z|Felwood|
-C Timbermaw Ally |QID|8460| |N|Deadwood Warriors, Deadwood Pathfinders and Deadwood Gardeners (48.2, 93.8)| |Z|Felwood|
+C Timbermaw Ally |QID|8460| |OIDX|1| |N|Deadwood Warriors, Deadwood Pathfinders and Deadwood Gardeners (48.2, 93.8)| |Z|Felwood|
 T Timbermaw Ally |QID|8460| |N|Grazle - (50.9, 85.0)| |Z|Felwood|
 A Speak to Nafien |QID|8462| |N|Grazle - (50.9, 85.0)| |Z|Felwood|
 A Forces of Jaedenar |QID|5155| |N|Greta Mosshoof - (51.2, 82.1)| |Z|Felwood|
 A Verifying the Corruption |QID|5156| |N|Taronn Redfeather - (50.9, 81.6)| |Z|Felwood|
 A The Corruption of the Jadefire |QID|4421| |N|Eridan Bluewind - (51.4, 81.5)| |Z|Felwood|
-C The Corruption of the Jadefire |QID|4421| |N|Kill Jadefire Felsworns, Jadefire Shadowstalkers, Jadefire Rogues and Xavathras (37.2, 68.9)| |Z|Felwood|
+C The Corruption of the Jadefire |QID|4421| |OIDX|1| |N|Kill Jadefire Felsworns, Jadefire Shadowstalkers, Jadefire Rogues and Xavathras (37.2, 68.9)| |Z|Felwood|
 C Jadefire Satyrs and Jadefire Felsworns. Loot them for a Felcloth |QID|8419| |L|14256 1| |N|Jadefire Satyrs and Jadefire Felsworns. Loot them for a Felcloth - (39.5, 84.5)| |C|Warlock| |Z|Felwood|
 C Collect item |L|11914 6| |O| |Z|Felwood|
 N Use the [Empty Cursed Ooze Jars] on their corpses |N|(40.8, 66.9)| |Z|Felwood|
-C A Little Slime Goes a Long Way |QID|4512| |N|Cursed Oozes (40.8, 66.9)| |Z|Felwood|
+C A Little Slime Goes a Long Way |QID|4512| |OIDX|1| |N|Cursed Oozes (40.8, 66.9)| |Z|Felwood|
 T An Imp's Request |QID|8419| |N|Impsy - (41.5, 45.0)| |C|Warlock| |Z|Felwood|
 A The Wrong Stuff |QID|8421| |N|Impsy - (41.5, 45.0)| |C|Warlock| |Z|Felwood|
-C The Wrong Stuff |QID|8421| |N|Tainted Oozes. Loot them for their Bloodvenom Essences (40.0, 54.8)| |O| |C|Warlock| |Z|Felwood|
+C The Wrong Stuff |QID|8421| |OIDX|2| |N|Tainted Oozes. Loot them for their Bloodvenom Essences (40.0, 54.8)| |O| |C|Warlock| |Z|Felwood|
 N Use the [Empty Tainted Ooze Jars] on their corpses |N|(40.0, 54.8)| |O| |Z|Felwood|
-C A Little Slime Goes a Long Way |QID|4512| |N|Tainted Oozes (40.0, 54.8)| |O| |Z|Felwood|
-C Forces of Jaedenar |QID|5155| |N|Jaedenar Hounds, Jaedenar Guardians, Jaedenar Adepts and Jaedenar Cultists (36.5, 61.4)| |Z|Felwood|
+C A Little Slime Goes a Long Way |QID|4512| |OIDX|2| |N|Tainted Oozes (40.0, 54.8)| |O| |Z|Felwood|
+C Forces of Jaedenar |QID|5155| |OIDX|1| |N|Jaedenar Hounds, Jaedenar Guardians, Jaedenar Adepts and Jaedenar Cultists (36.5, 61.4)| |Z|Felwood|
 N Use the [Empty Tainted Ooze Jars] on their corpses |N|(40.0, 54.8)| |Z|Felwood|
-C A Little Slime Goes a Long Way |QID|4512| |N|Tainted Oozes (40.0, 54.8)| |Z|Felwood|
-C The Wrong Stuff |QID|8421| |N|Tainted Oozes. Loot them for their Bloodvenom Essences (40.0, 54.8)| |C|Warlock| |Z|Felwood|
+C A Little Slime Goes a Long Way |QID|4512| |OIDX|2| |N|Tainted Oozes (40.0, 54.8)| |Z|Felwood|
+C The Wrong Stuff |QID|8421| |OIDX|2| |N|Tainted Oozes. Loot them for their Bloodvenom Essences (40.0, 54.8)| |C|Warlock| |Z|Felwood|
 T Forces of Jaedenar |QID|5155| |N|Greta Mosshoof - (51.2, 82.1)| |Z|Felwood|
 A Collection of the Corrupt Water |QID|5157| |N|Greta Mosshoof - (51.2, 82.1)| |Z|Felwood|
 T The Corruption of the Jadefire |QID|4421| |N|Eridan Bluewind - (51.4, 81.5)| |Z|Felwood|
 A Further Corruption |QID|4906| |N|Eridan Bluewind - (51.4, 81.5)| |Z|Felwood|
 A Verifying the Corruption |QID|5156| |N|Taronn Redfeather - (50.9, 81.6)| |Z|Felwood|
-C Collection of the Corrupt Water |QID|5157| |N|(35.2, 59.8)| |Z|Felwood|
-C Verifying the Corruption |QID|5156| |N|Kill Entropic Beasts and Entropic Horrors (41.5, 43.0)| |Z|Felwood|
+C Collection of the Corrupt Water |QID|5157| |OIDX|1| |N|(35.2, 59.8)| |Z|Felwood|
+C Verifying the Corruption |QID|5156| |OIDX|1| |N|Kill Entropic Beasts and Entropic Horrors (41.5, 43.0)| |Z|Felwood|
 N Use the [Flute of Xavaric] to start the quest |N|(39.0, 22.3)| |Z|Felwood|
-C Further Corruption |QID|4906| |N|Xavaric. Loot him for the [Flute of Xavaric] (39.0, 22.3)| |Z|Felwood|
+C Further Corruption |QID|4906| |OIDX|4| |N|Xavaric. Loot him for the [Flute of Xavaric] (39.0, 22.3)| |Z|Felwood|
 C Xavaric. Loot him for the [Flute of Xavaric] |QID|939| |L|11668 1| |N|Xavaric. Loot him for the [Flute of Xavaric] - (39.0, 22.3)| |Z|Felwood|
 A Flute of Xavaric |QID|939| |N|Xavaric. Loot him for the [Flute of Xavaric] - (39.0, 22.3)| |Z|Felwood|
-C Further Corruption |QID|4906| |N|Jadefire Hellcallers, Jadefire Betrayers and Jadefire Trickster. Loot them for their Jadefire Felbinds (39.0, 22.3)| |Z|Felwood|
-C Flute of Xavaric |QID|939| |N|Jadefire Hellcallers, Jadefire Betrayers and Jadefire Trickster. Loot them for their Jadefire Felbinds (39.0, 22.3)| |Z|Felwood|
-C The Wrong Stuff |QID|8421| |N|Irontree Stompers, Irontree Wanderers and Withered Protectors. Loot them for their Rotting Wood (46.4, 24.6)| |C|Warlock| |Z|Felwood|
-C Cleansing Felwood |QID|4101| |N|Warpwood Moss Flayers and Warpwood Shredders. Loot them for their Blood Ambers (57.3, 17.8)| |Z|Felwood|
+C Further Corruption |QID|4906| |OIDX|1| |N|Jadefire Hellcallers, Jadefire Betrayers and Jadefire Trickster. Loot them for their Jadefire Felbinds (39.0, 22.3)| |Z|Felwood|
+C Flute of Xavaric |QID|939| |OIDX|1| |N|Jadefire Hellcallers, Jadefire Betrayers and Jadefire Trickster. Loot them for their Jadefire Felbinds (39.0, 22.3)| |Z|Felwood|
+C The Wrong Stuff |QID|8421| |OIDX|1| |N|Irontree Stompers, Irontree Wanderers and Withered Protectors. Loot them for their Rotting Wood (46.4, 24.6)| |C|Warlock| |Z|Felwood|
+C Cleansing Felwood |QID|4101| |OIDX|1| |N|Warpwood Moss Flayers and Warpwood Shredders. Loot them for their Blood Ambers (57.3, 17.8)| |Z|Felwood|
 f Get the Felwood Flight Path |N|Mishellena - (62.5, 24.2)| |Z|Felwood|
 T Speak to Nafien |QID|8462| |N|Nafien - (64.8, 8.1)| |Z|Felwood|
 R Travel to Winterspring |N|(27.8, 34.6)| |O| |Z|Winterspring|
@@ -101,7 +101,7 @@ N Blizzard has adjusted the quest [The Videre Elixir] so it will no longer kill 
 A The Videre Elixir |QID|3909| |N|Donova Snowden - (31.3, 45.2)| |Z|Winterspring|
 N You may safely complete this quest as part of the quest chain for [The Videre Elixir] |N|(31.3, 45.2)| |Z|Winterspring|
 A The Videre Elixir |QID|3909| |N|Donova Snowden - (31.3, 45.2)| |Z|Winterspring|
-C Moontouched Feathers on the ground |QID|978| |N|Moontouched Feathers on the ground - (60.6, 33.7)| |Z|Winterspring|
+C Moontouched Feathers on the ground |QID|978| |OIDX|1| |N|Moontouched Feathers on the ground - (60.6, 33.7)| |Z|Winterspring|
 R Azzleby |N|(60.4, 37.9)| |O| |C|Hunter| |Z|Winterspring|
 f Get the Winterspring Flight Path |N|Maethrya - (62.3, 36.6)| |Z|Winterspring|
 F Fly to Felwood |N|Maethrya - (62.3, 36.6)| |Z|Winterspring|

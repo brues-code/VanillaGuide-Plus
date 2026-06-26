@@ -5,7 +5,7 @@ return [[
 N 56-57 Burning Steppes |N|Converted from RestedXP guide|
 
 A The Smoldering Ruins of Thaurissan |QID|3702| |N|Royal Historian Archesonus - (38.4, 55.3)| |Z|Ironforge|
-C The Smoldering Ruins of Thaurissan |QID|3702| |N|Royal Historian Archesonus (38.4, 55.3)| |Z|Ironforge|
+C The Smoldering Ruins of Thaurissan |QID|3702| |OIDX|1| |N|Royal Historian Archesonus (38.4, 55.3)| |Z|Ironforge|
 T The Smoldering Ruins of Thaurissan |QID|3702| |N|Royal Historian Archesonus - (38.4, 55.3)| |Z|Ironforge|
 A The Smoldering Ruins of Thaurissan |QID|3701| |N|Royal Historian Archesonus - (38.4, 55.3)| |Z|Ironforge|
 R Bailey Stonemantle |N|(35.9, 60.2)| |C|!Druid/!Hunter/!Mage| |Z|Ironforge|
@@ -44,13 +44,13 @@ T Prayer to Elune |QID|3377| |N|Zamael Lunthistle - (29.5, 26.3)| |Z|Searing Gor
 A Prayer to Elune |QID|3378| |N|Zamael Lunthistle - (29.5, 26.3)| |Z|Searing Gorge|
 T Release Them |QID|3372| |N|the Altar of Suntara - (41.3, 25.4)| |Z|Searing Gorge|
 A Rise, Obsidion! |QID|3566| |N|Dying Archaeologist - (41.2, 25.5)| |Z|Searing Gorge|
-C Rise, Obsidion! |QID|3566| |N|Kill +Obsidion| |Z|Searing Gorge|
+C Rise, Obsidion! |QID|3566| |OIDX|1| |N|Kill +Obsidion| |Z|Searing Gorge|
 F Fly to Burning Steppes |N|Lanie Reed - (37.9, 30.9)| |Z|Searing Gorge|
 F Fly to Burning Steppes |N|Gryth Thurden - (55.5, 47.7)| |Z|Ironforge|
 F Fly to Redridge |N|Gryth Thurden - (55.5, 47.7)| |Z|Ironforge|
 R Travel to Burning Steppes |N|(77.5, 68.0)| |O| |Z|Burning Steppes|
 A Extinguish the Firegut |QID|3823| |N|Oralius - (84.6, 68.7)| |Z|Burning Steppes|
-C Extinguish the Firegut |QID|3823| |N|Firegut Ogre Mages, Firegut Ogres and Firegut Brutes (80.7, 44.4)| |Z|Burning Steppes|
+C Extinguish the Firegut |QID|3823| |OIDX|1| |N|Firegut Ogre Mages, Firegut Ogres and Firegut Brutes (80.7, 44.4)| |Z|Burning Steppes|
 T Extinguish the Firegut |QID|3823| |N|Oralius - (84.6, 68.7)| |Z|Burning Steppes|
 A Gor'tesh the Brute Lord |QID|3824| |N|Oralius - (84.6, 68.7)| |Z|Burning Steppes|
 A FIFTY! YEP! |QID|4283| |N|Oralius - (84.6, 68.7)| |Z|Burning Steppes|
@@ -58,22 +58,22 @@ A Dragonkin Menace |QID|4182| |N|Helendis Riverhorn - (85.8, 68.9)| |Z|Burning S
 A Broodling Essence |QID|4726| |N|Tinkee Steamboil and Maxwort Uberglint - (65.2, 24.0)| |Z|Burning Steppes|
 A Tablet of the Seven |QID|4296| |N|Tinkee Steamboil and Maxwort Uberglint - (65.2, 24.0)| |Z|Burning Steppes|
 N This quest can be hard but rewards a lot of XP at the end. Try to find a group if required or skip it if its too difficult |N|(81.8, 60.0)| |O| |Z|Burning Steppes|
-C Dragonkin Menace |QID|4182| |N|Black Broodlings, Black Dragonspawns, Black Wyrmkins and a Black Drake (81.8, 60.0)| |O| |Z|Burning Steppes|
-C Broodling Essence |QID|4726| |N|Loot the Broodling Essence on the ground after they die (81.8, 60.0)| |O| |Z|Burning Steppes|
+C Dragonkin Menace |QID|4182| |OIDX|1| |N|Black Broodlings, Black Dragonspawns, Black Wyrmkins and a Black Drake (81.8, 60.0)| |O| |Z|Burning Steppes|
+C Broodling Essence |QID|4726| |OIDX|1| |N|Loot the Broodling Essence on the ground after they die (81.8, 60.0)| |O| |Z|Burning Steppes|
 A A Taste of Flame |QID|4022| |N|Cyrus Therepentous - (95.1, 31.6)| |Z|Burning Steppes|
 N Select the gossip option: "I present you with proof of my deeds, Cyrus." |N|(95.1, 31.6)| |Z|Burning Steppes|
-C A Taste of Flame |QID|4022| |N|Cyrus Therepentous (95.1, 31.6)| |Z|Burning Steppes|
+C A Taste of Flame |QID|4022| |OIDX|1| |N|Cyrus Therepentous (95.1, 31.6)| |Z|Burning Steppes|
 T A Taste of Flame |QID|4022| |N|Cyrus Therepentous - (95.1, 31.6)| |Z|Burning Steppes|
-C Broodling Essence |QID|4726| |N|Loot the Broodling Essence on the ground after they die (90.6, 43.6)| |Z|Burning Steppes|
+C Broodling Essence |QID|4726| |OIDX|1| |N|Loot the Broodling Essence on the ground after they die (90.6, 43.6)| |Z|Burning Steppes|
 N This quest can be hard but rewards a lot of XP at the end. Try to find a group if required or skip it if its too difficult |N|(90.6, 43.6)| |Z|Burning Steppes|
-C Dragonkin Menace |QID|4182| |N|Black Broodlings, Black Dragonspawns, Black Wyrmkins and a Black Drake (90.6, 43.6)| |Z|Burning Steppes|
-C The Smoldering Ruins of Thaurissan |QID|3701| |N|Click the Thaurissan Relics on the ground| |O| |Z|Burning Steppes|
-C Tablet of the Seven |QID|4296| |N|the Tablet of the Seven. Loot it for the Tablet Transcript (54.1, 40.8)| |Z|Burning Steppes|
-C The Smoldering Ruins of Thaurissan |QID|3701| |N|the Thaurissan Relics on the ground (57.4, 36.4)| |Z|Burning Steppes|
-C FIFTY! YEP! |QID|4283| |N|Kill Blackrock Orcs and Worgs. Loot them for their Blackrock Medallions| |O| |Z|Burning Steppes|
+C Dragonkin Menace |QID|4182| |OIDX|1| |N|Black Broodlings, Black Dragonspawns, Black Wyrmkins and a Black Drake (90.6, 43.6)| |Z|Burning Steppes|
+C The Smoldering Ruins of Thaurissan |QID|3701| |OIDX|1| |N|Click the Thaurissan Relics on the ground| |O| |Z|Burning Steppes|
+C Tablet of the Seven |QID|4296| |OIDX|1| |N|the Tablet of the Seven. Loot it for the Tablet Transcript (54.1, 40.8)| |Z|Burning Steppes|
+C The Smoldering Ruins of Thaurissan |QID|3701| |OIDX|1| |N|the Thaurissan Relics on the ground (57.4, 36.4)| |Z|Burning Steppes|
+C FIFTY! YEP! |QID|4283| |OIDX|1| |N|Kill Blackrock Orcs and Worgs. Loot them for their Blackrock Medallions| |O| |Z|Burning Steppes|
 N Gor'tesh hits very hard and has a thrash attack, be careful |N|(39.2, 55.3)| |Z|Burning Steppes|
-C Gor'tesh the Brute Lord |QID|3824| |N|Gor'tesh. Loot him for his Head (39.2, 55.3)| |Z|Burning Steppes|
-C FIFTY! YEP! |QID|4283| |N|Blackrock Orcs and Worgs. Loot them for their Blackrock Medallions (48.8, 59.6)| |Z|Burning Steppes|
+C Gor'tesh the Brute Lord |QID|3824| |OIDX|1| |N|Gor'tesh. Loot him for his Head (39.2, 55.3)| |Z|Burning Steppes|
+C FIFTY! YEP! |QID|4283| |OIDX|1| |N|Blackrock Orcs and Worgs. Loot them for their Blackrock Medallions (48.8, 59.6)| |Z|Burning Steppes|
 T FIFTY! YEP! |QID|4283| |N|Oralius - (84.6, 68.7)| |Z|Burning Steppes|
 T Gor'tesh the Brute Lord |QID|3824| |N|Oralius - (84.6, 68.7)| |Z|Burning Steppes|
 A Ogre Head On A Stick = Party |QID|3825| |N|Oralius - (84.6, 68.7)| |Z|Burning Steppes|
@@ -94,7 +94,7 @@ A Into The Temple of Atal'Hakkar |QID|1475| |N|Brohann Caskbelly - (64.3, 20.6) 
 T The True Masters |QID|4184| |N|Highlord Bolvar Fordragon - (78.2, 18.0)| |Z|Stormwind City|
 A The True Masters |QID|4185| |N|Highlord Bolvar Fordragon - (78.2, 18.0)| |Z|Stormwind City|
 A The First and the Last |QID|6182| |N|Highlord Bolvar Fordragon - (78.2, 18.0)| |Z|Stormwind City|
-C The True Masters |QID|4185| |N|Lady Katrana Prestor (78.1, 17.8)| |Z|Stormwind City|
+C The True Masters |QID|4185| |OIDX|1| |N|Lady Katrana Prestor (78.1, 17.8)| |Z|Stormwind City|
 T The True Masters |QID|4185| |N|Highlord Bolvar Fordragon - (78.2, 18.0)| |Z|Stormwind City|
 A The True Masters |QID|4186| |N|Highlord Bolvar Fordragon - (78.2, 18.0)| |Z|Stormwind City|
 R Enter the SI:7 Headquarters. Travel up stairs toward Master Mathias Shaw |N|(78.7, 60.1)| |O| |Z|Stormwind City|
@@ -111,8 +111,8 @@ A The True Masters |QID|4224| |N|Marshal Maxwell - (84.7, 69.0)| |Z|Burning Step
 T Broodling Essence |QID|4726| |N|Tinkee Steamboil and Maxwort Uberglint - (65.2, 24.0)| |Z|Burning Steppes|
 A Felnok Steelspring |QID|4808| |N|Tinkee Steamboil and Maxwort Uberglint - (65.2, 24.0)| |Z|Burning Steppes|
 T Tablet of the Seven |QID|4296| |N|Tinkee Steamboil and Maxwort Uberglint - (65.2, 24.0)| |Z|Burning Steppes|
-C The True Masters |QID|4224| |N|Ragged John (65.0, 23.8)| |Z|Burning Steppes|
-C Ogre Head On A Stick = Party |QID|3825| |N|the Soft Dirt Mound atop the mountain (81.0, 46.8)| |Z|Burning Steppes|
+C The True Masters |QID|4224| |OIDX|1| |N|Ragged John (65.0, 23.8)| |Z|Burning Steppes|
+C Ogre Head On A Stick = Party |QID|3825| |OIDX|1| |N|the Soft Dirt Mound atop the mountain (81.0, 46.8)| |Z|Burning Steppes|
 T Ogre Head On A Stick = Party |QID|3825| |N|Oralius - (84.6, 68.7)| |Z|Burning Steppes|
 T The True Masters |QID|4224| |N|Marshal Maxwell - (84.7, 69.0)| |Z|Burning Steppes|
 R Travel to Stormwind City |N|(47.9, 31.3)| |O| |Z|Stormwind City|
@@ -132,40 +132,40 @@ A Flint Shadowmore |QID|6184| |N|Master Mathias Shaw - (75.8, 59.8)| |Z|Stormwin
 F Fly to Blasted Lands |N|Dungar Longdrink - (66.3, 62.1) (ST Dungeon Quest)| |D|ST| |Z|Stormwind City|
 A Warrior Kinship |QID|8423| |N|the Fallen Hero of the Horde - (34.3, 66.1) (ST Dungeon Quest)| |C|Warrior| |D|ST| |Z|Swamp of Sorrows|
 R Travel to Blasted Lands |N|(45.8, 48.2) (ST Dungeon Quest)| |C|Warrior| |D|ST| |Z|Blasted Lands|
-C Warrior Kinship |QID|8423| |N|Helboars (49.0, 36.6) (ST Dungeon Quest)| |C|Warrior| |D|ST| |Z|Blasted Lands|
+C Warrior Kinship |QID|8423| |OIDX|1| |N|Helboars (49.0, 36.6) (ST Dungeon Quest)| |C|Warrior| |D|ST| |Z|Blasted Lands|
 T Warrior Kinship |QID|8423| |N|the Fallen Hero of the Horde - (34.3, 66.1) (ST Dungeon Quest)| |C|Warrior| |D|ST| |Z|Swamp of Sorrows|
 A War on the Shadowsworn |QID|8424| |N|the Fallen Hero of the Horde - (34.3, 66.1) (ST Dungeon Quest)| |C|Warrior| |D|ST| |Z|Swamp of Sorrows|
 R Travel to Blasted Lands |N|(65.9, 33.3) (ST Dungeon Quest)| |C|Warrior| |D|ST| |Z|Blasted Lands|
-C War on the Shadowsworn |QID|8424| |N|Shadowsworn Adepts, Shadowsworn Cultists and Shadowsworn Thugs (63.6, 39.2) (ST Dungeon Quest)| |C|Warrior| |D|ST| |Z|Blasted Lands|
+C War on the Shadowsworn |QID|8424| |OIDX|1| |N|Shadowsworn Adepts, Shadowsworn Cultists and Shadowsworn Thugs (63.6, 39.2) (ST Dungeon Quest)| |C|Warrior| |D|ST| |Z|Blasted Lands|
 T War on the Shadowsworn |QID|8424| |N|the Fallen Hero of the Horde - (34.3, 66.1) (ST Dungeon Quest)| |C|Warrior| |D|ST| |Z|Swamp of Sorrows|
 A Voodoo Feathers |QID|8425| |N|the Fallen Hero of the Horde - (34.3, 66.1) (ST Dungeon Quest)| |C|Warrior| |D|ST| |Z|Swamp of Sorrows|
 R Travel to Westfall |N|(56.3, 76.3) (ST Dungeon Quest)| |D|ST| |Z|Westfall|
 N These can be looted en-route to the instance portal, as well as inside Sunken Temple |N|(ST Dungeon Quest)| |D|ST| |Z|Westfall|
-C Into The Temple of Atal'Hakkar |QID|1475| |N|Loot the Atal'ai Tablets on the ground (ST Dungeon Quest)| |D|ST| |Z|Westfall|
+C Into The Temple of Atal'Hakkar |QID|1475| |OIDX|1| |N|Loot the Atal'ai Tablets on the ground (ST Dungeon Quest)| |D|ST| |Z|Westfall|
 N Atal'alarion is on the lower level of Sunken Temple and is summoned by clicking all Atal'ai Statues on the platforms |N|(ST Dungeon Quest)| |C|Druid| |D|ST| |Z|Westfall|
-C A Better Ingredient |QID|9053| |N|Kill Atal'alarion. Loot him for the Putrid Vine (ST Dungeon Quest)| |C|Druid| |D|ST| |Z|Westfall|
+C A Better Ingredient |QID|9053| |OIDX|1| |N|Kill Atal'alarion. Loot him for the Putrid Vine (ST Dungeon Quest)| |C|Druid| |D|ST| |Z|Westfall|
 N The Altar of Hakkar is located on the lower level of Sunken Temple |N|(ST Dungeon Quest)| |D|ST| |Z|Westfall|
 T Into the Depths |QID|3446| |N|Click on the Altar of Hakkar (ST Dungeon Quest)| |D|ST| |Z|Westfall|
 N The Idol of Hakkar is located on the lower level of Sunken Temple |N|(ST Dungeon Quest)| |D|ST| |Z|Westfall|
 T Secret of the Circle |QID|3447| |N|Clicking all of the Atal'ai Statues on the platforms will activate the Idol of Hakkar (ST Dungeon Quest)| |D|ST| |Z|Westfall|
 N The Altar of Hakkar is located on the lower level of Sunken Temple |N|(ST Dungeon Quest)| |D|ST| |Z|Westfall|
 T Into the Depths |QID|3446| |N|Click on the Altar of Hakkar (ST Dungeon Quest)| |D|ST| |Z|Westfall|
-C A Better Ingredient |QID|9053| |N|Atal'alarion is on the lower level of Sunken Temple and is summoned by clicking all Atal'ai Statues on the platforms (ST Dungeon Quest)| |C|Druid| |D|ST| |Z|Westfall|
+C A Better Ingredient |QID|9053| |OIDX|1| |N|Atal'alarion is on the lower level of Sunken Temple and is summoned by clicking all Atal'ai Statues on the platforms (ST Dungeon Quest)| |C|Druid| |D|ST| |Z|Westfall|
 N Kill Zolo and Loro. Loot them for their Green Voodoo Feathers |N|(ST Dungeon Quest)| |C|Paladin/Warrior/Warlock| |D|ST| |Z|Westfall|
 N This quest is completed on the upper level of Sunken Temple |N|(ST Dungeon Quest)| |C|Paladin/Warrior/Warlock| |D|ST| |Z|Westfall|
-C Forging the Mightstone |QID|8418| |N|Kill Mijan and Hukku. Loot them for their Blue Voodoo Feathers (ST Dungeon Quest)| |C|Paladin| |D|ST| |Z|Westfall|
-C Voodoo Feathers |QID|8425| |N|Kill Mijan and Hukku. Loot them for their Blue Voodoo Feathers (ST Dungeon Quest)| |C|Warrior| |D|ST| |Z|Westfall|
-C Trolls of a Feather |QID|8422| |N|Kill Mijan and Hukku. Loot them for their Blue Voodoo Feathers (ST Dungeon Quest)| |C|Warlock| |D|ST| |Z|Westfall|
+C Forging the Mightstone |QID|8418| |OIDX|1| |N|Kill Mijan and Hukku. Loot them for their Blue Voodoo Feathers (ST Dungeon Quest)| |C|Paladin| |D|ST| |Z|Westfall|
+C Voodoo Feathers |QID|8425| |OIDX|1| |N|Kill Mijan and Hukku. Loot them for their Blue Voodoo Feathers (ST Dungeon Quest)| |C|Warrior| |D|ST| |Z|Westfall|
+C Trolls of a Feather |QID|8422| |OIDX|1| |N|Kill Mijan and Hukku. Loot them for their Blue Voodoo Feathers (ST Dungeon Quest)| |C|Warlock| |D|ST| |Z|Westfall|
 N Kill the Avatar of Hakkar. Loot it for the [Essence of Hakkar] |N|(ST Dungeon Quest)| |D|ST| |Z|Westfall|
 N Use the [Essence of Hakkar] to fill the [Egg of Hakkar] |N|(ST Dungeon Quest)| |D|ST| |Z|Westfall|
 C Use the [Egg of Hakkar] while next to the Dragonflayer Skeleton, then complete the event |QID|3528| |L|10663 1| |N|Kill the minions of Hakkar until the Avatar of Hakkar joins (ST Dungeon Quest)| |D|ST| |Z|Westfall|
-C You must kill the 6 Trolls on the upper platforms to gain access to Jammal'an the Prophet |QID|1446| |N|You must kill the 6 Trolls on the upper platforms to gain access to Jammal'an the Prophet (ST Dungeon Quest)| |D|ST| |Z|Westfall|
+C You must kill the 6 Trolls on the upper platforms to gain access to Jammal'an the Prophet |QID|1446| |OIDX|1| |N|You must kill the 6 Trolls on the upper platforms to gain access to Jammal'an the Prophet (ST Dungeon Quest)| |D|ST| |Z|Westfall|
 N Kill Morphaz. Loot it for the Blood of Morphaz |N|(ST Dungeon Quest)| |C|Priest| |D|ST| |Z|Westfall|
 N Kill Morphaz. Loot it for the Azure Key |N|(ST Dungeon Quest)| |C|Rogue| |D|ST| |Z|Westfall|
-C The Green Drake |QID|8232| |N|Kill Morphaz. Loot it for the Arcane Shard (ST Dungeon Quest)| |C|Hunter| |D|ST| |Z|Westfall|
-C Destroy Morphaz |QID|8253| |N|Kill Morphaz. Loot it for the Arcane Shard (ST Dungeon Quest)| |C|Mage| |D|ST| |Z|Westfall|
-C Blood of Morphaz |QID|8257| |N|Kill Morphaz. Loot it for the Arcane Shard (ST Dungeon Quest)| |C|Priest| |D|ST| |Z|Westfall|
-C The Azure Key |QID|8236| |N|Kill Morphaz. Loot it for the Arcane Shard (ST Dungeon Quest)| |C|Rogue| |D|ST| |Z|Westfall|
+C The Green Drake |QID|8232| |OIDX|1| |N|Kill Morphaz. Loot it for the Arcane Shard (ST Dungeon Quest)| |C|Hunter| |D|ST| |Z|Westfall|
+C Destroy Morphaz |QID|8253| |OIDX|1| |N|Kill Morphaz. Loot it for the Arcane Shard (ST Dungeon Quest)| |C|Mage| |D|ST| |Z|Westfall|
+C Blood of Morphaz |QID|8257| |OIDX|1| |N|Kill Morphaz. Loot it for the Arcane Shard (ST Dungeon Quest)| |C|Priest| |D|ST| |Z|Westfall|
+C The Azure Key |QID|8236| |OIDX|1| |N|Kill Morphaz. Loot it for the Arcane Shard (ST Dungeon Quest)| |C|Rogue| |D|ST| |Z|Westfall|
 N Ensure you have killed all Dragonkin mobs on the upper level before engaging the Shade of Eranikus otherwise they will all agro onto you |N|(ST Dungeon Quest)| |D|ST| |Z|Westfall|
 C the Shade of Eranikus. Loot him for the [Essence of Eranikus] |QID|3373| |L|10454 1| |N|Use the [Essence of Eranikus] to start the quest (ST Dungeon Quest)| |D|ST| |Z|Westfall|
 A The Essence of Eranikus |QID|3373| |N|Use the [Essence of Eranikus] to start the quest (ST Dungeon Quest)| |D|ST| |Z|Westfall|

@@ -9,37 +9,37 @@ A Forces of Jaedenar |QID|5155| |N|Greta - (51.2, 82.1)| |Z|Felwood|
 A Verifying the Corruption |QID|5156| |N|Taronn - (50.9, 81.7)| |Z|Felwood|
 A Cleansing Felwood |QID|4102| |N|Maybess - (46.7, 83.3)| |Z|Felwood|
 N Be careful of Jaedenar Adepts; they have blink, as well as a strong fireball and fire blast |N|(36.5, 61.4)| |Z|Felwood|
-C Forces of Jaedenar |QID|5155| |N|Jaedenar Hounds, Guardians, Adepts and Cultists (36.5, 61.4)| |Z|Felwood|
+C Forces of Jaedenar |QID|5155| |OIDX|1| |N|Jaedenar Hounds, Guardians, Adepts and Cultists (36.5, 61.4)| |Z|Felwood|
 A A Husband's Last Battle |QID|6162| |N|Dreka'Sur - (34.8, 52.7)| |Z|Felwood|
 A Well of Corruption |QID|4505| |N|Winna - (34.2, 52.3)| |Z|Felwood|
 f Get the Felwood Flight Path |N|Brakkar - (34.4, 53.9)| |Z|Felwood|
 R the green moonwell in the Ruins of Constellas |N|(32.3, 66.6)| |O| |Z|Felwood|
-C Well of Corruption |QID|4505| |N|There are stealthed Satyrs with strong slowing poison in this area. Some of them patrol, so be careful (32.3, 66.6)| |Z|Felwood|
-C Timbermaw Ally |QID|8460| |N|Kill Deadwood Warriors, Deadwood Pathfinders and Deadwood Gardeners| |O| |Z|Felwood|
+C Well of Corruption |QID|4505| |OIDX|1| |N|There are stealthed Satyrs with strong slowing poison in this area. Some of them patrol, so be careful (32.3, 66.6)| |Z|Felwood|
+C Timbermaw Ally |QID|8460| |OIDX|1| |N|Kill Deadwood Warriors, Deadwood Pathfinders and Deadwood Gardeners| |O| |Z|Felwood|
 N Clear the area to avoid complications from his AoE fear |N|(48.2, 94.3)| |Z|Felwood|
-C A Husband's Last Battle |QID|6162| |N|Overlord Ror. Loot him for his Claw (48.2, 94.3)| |Z|Felwood|
-C Timbermaw Ally |QID|8460| |N|Deadwood Warriors, Deadwood Pathfinders and Deadwood Gardeners (49.2, 91.6)| |Z|Felwood|
+C A Husband's Last Battle |QID|6162| |OIDX|1| |N|Overlord Ror. Loot him for his Claw (48.2, 94.3)| |Z|Felwood|
+C Timbermaw Ally |QID|8460| |OIDX|1| |N|Deadwood Warriors, Deadwood Pathfinders and Deadwood Gardeners (49.2, 91.6)| |Z|Felwood|
 T Timbermaw Ally |QID|8460| |N|Grazle - (51.0, 85.0)| |Z|Felwood|
 A Speak to Nafien |QID|8462| |N|Grazle - (51.0, 85.0)| |Z|Felwood|
 N You can also do this later up north but they are higher level |N|(48.2, 93.8)| |O| |Z|Felwood|
 T Forces of Jaedenar |QID|5155| |N|Greta - (51.2, 82.2)| |Z|Felwood|
 A Collection of the Corrupt Water |QID|5157| |N|Greta - (51.2, 82.2)| |Z|Felwood|
-C Collection of the Corrupt Water |QID|5157| |N|Be very careful of Jaedenar Adepts; they have blink, as well as a strong fireball and fire blast (35.2, 59.8)| |Z|Felwood|
+C Collection of the Corrupt Water |QID|5157| |OIDX|1| |N|Be very careful of Jaedenar Adepts; they have blink, as well as a strong fireball and fire blast (35.2, 59.8)| |Z|Felwood|
 C Jadefire Satyrs and Jadefire Felsworns. Loot them for a [Felcloth] |QID|8419| |L|14256 1| |N|Jadefire Satyrs and Jadefire Felsworns. Loot them for a [Felcloth] - (39.5, 84.5)| |C|Warlock| |Z|Felwood|
 T An Imp's Request |QID|8419| |N|Impsy - (41.5, 45.0)| |C|Warlock| |Z|Felwood|
 A The Wrong Stuff |QID|8421| |N|Impsy - (41.5, 45.0)| |C|Warlock| |Z|Felwood|
 N Only Tainted Oozes can drop Bloodvenom Essence |N|(43.4, 48.2)| |C|Warlock| |Z|Felwood|
-C The Wrong Stuff |QID|8421| |N|Cursed Oozes and Tainted Oozes. Loot them for their Bloodvenom Essence (43.4, 48.2)| |C|Warlock| |Z|Felwood|
-C Verifying the Corruption |QID|5156| |N|Run into a crater| |O| |Z|Felwood|
+C The Wrong Stuff |QID|8421| |OIDX|2| |N|Cursed Oozes and Tainted Oozes. Loot them for their Bloodvenom Essence (43.4, 48.2)| |C|Warlock| |Z|Felwood|
+C Verifying the Corruption |QID|5156| |OIDX|3| |N|Run into a crater| |O| |Z|Felwood|
 N They share spawns, so you may have to kill extra of each type |N|(44.6, 42.6)| |Z|Felwood|
-C Verifying the Corruption |QID|5156| |N|Entropic Beasts and Entropic Horrors (44.6, 42.6)| |Z|Felwood|
-C Verifying the Corruption |QID|5156| |N|Run into a crater (41.2, 42.8)| |Z|Felwood|
-C The Wrong Stuff |QID|8421| |N|Withered Protectors|, Irontree Stompers| and Irontree Wanderers|. Loot them for their Rotting Wood (52.0, 24.8)| |C|Warlock| |Z|Felwood|
+C Verifying the Corruption |QID|5156| |OIDX|1| |N|Entropic Beasts and Entropic Horrors (44.6, 42.6)| |Z|Felwood|
+C Verifying the Corruption |QID|5156| |OIDX|3| |N|Run into a crater (41.2, 42.8)| |Z|Felwood|
+C The Wrong Stuff |QID|8421| |OIDX|1| |N|Withered Protectors|, Irontree Stompers| and Irontree Wanderers|. Loot them for their Rotting Wood (52.0, 24.8)| |C|Warlock| |Z|Felwood|
 T The Wrong Stuff |QID|8421| |N|Impsy - (41.5, 45.0)| |C|Warlock| |Z|Felwood|
 A Trolls of a Feather |QID|8422| |N|Impsy - (41.5, 45.0) (ST Dungeon Quest)| |C|Warlock| |D|ST| |Z|Felwood|
-C The Strength of Corruption |QID|4120| |N|Kill Angerclaw Grizzlies and Felpaw Ravagers| |O| |Z|Felwood|
-C Cleansing Felwood |QID|4102| |N|Warpwood Moss Flayers and Warpwood Shredders. Loot them for their Blood Ambers (59.2, 20.4)| |Z|Felwood|
-C The Strength of Corruption |QID|4120| |N|Finish killing Angerclaw Grizzlies and Felpaw Ravagers (53.6, 15.6)| |Z|Felwood|
+C The Strength of Corruption |QID|4120| |OIDX|1| |N|Kill Angerclaw Grizzlies and Felpaw Ravagers| |O| |Z|Felwood|
+C Cleansing Felwood |QID|4102| |OIDX|1| |N|Warpwood Moss Flayers and Warpwood Shredders. Loot them for their Blood Ambers (59.2, 20.4)| |Z|Felwood|
+C The Strength of Corruption |QID|4120| |OIDX|1| |N|Finish killing Angerclaw Grizzlies and Felpaw Ravagers (53.6, 15.6)| |Z|Felwood|
 R the the Timbermaw Hold Entrance |N|(64.7, 8.1)| |O| |Z|Felwood|
 T Speak to Nafien |QID|8462| |N|Nafien - (64.7, 8.2)| |Z|Felwood|
 R Travel to Moonglade |N|(35.7, 72.4) (MARA Dungeon Quest)| |D|MARA| |Z|Moonglade|
@@ -52,7 +52,7 @@ N This has a low droprate and is NOT groupeshared |O| |Z|Winterspring|
 C Winterfall Furbolgs until you loot an [Empty Firewater Flask]. Use it to accept the quest |QID|5083| |L|12771 1| |N|Kill Winterfall Furbolgs until you loot an [Empty Firewater Flask]. Use it to accept the quest| |O| |Z|Winterspring|
 A Winterfall Firewater |QID|5083| |N|Kill Winterfall Furbolgs until you loot an [Empty Firewater Flask]. Use it to accept the quest| |O| |Z|Winterspring|
 N Clear the southeastern camps if you run out of spawns |N|(33.6, 37.0)| |Z|Winterspring|
-C Threat of the Winterfall |QID|5082| |N|Winterfall Pathfinders, Winterfall Den Watchers and Winterfall Totemics (33.6, 37.0)| |Z|Winterspring|
+C Threat of the Winterfall |QID|5082| |OIDX|1| |N|Winterfall Pathfinders, Winterfall Den Watchers and Winterfall Totemics (33.6, 37.0)| |Z|Winterspring|
 N This has a low droprate and is NOT groupeshared |N|(42.4, 42.4)| |Z|Winterspring|
 C Winterfall Furbolgs until you loot an [Empty Firewater Flask]. Use it to accept the quest |QID|5083| |L|12771 1| |N|Winterfall Furbolgs until you loot an [Empty Firewater Flask]. Use it to accept the quest - (42.4, 42.4)| |Z|Winterspring|
 A Winterfall Firewater |QID|5083| |N|Winterfall Furbolgs until you loot an [Empty Firewater Flask]. Use it to accept the quest - (42.4, 42.4)| |Z|Winterspring|

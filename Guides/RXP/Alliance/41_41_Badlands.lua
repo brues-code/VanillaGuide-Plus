@@ -47,15 +47,15 @@ T Ironband Wants You! |QID|707| |N|Prospector Ironband - (65.9, 65.6)| |Z|Loch M
 A Find Agmond |QID|738| |N|Prospector Ironband - (65.9, 65.6)| |Z|Loch Modan|
 R Travel to Badlands |N|(49.2, 7.8)| |O| |Z|Badlands|
 N Kill Coyotes. Loot them for their Fangs |O| |Z|Badlands|
-C Badlands Reagent Run |QID|2500| |N|Kill Buzzards. Loot them for their Gizzards and Wings| |O| |Z|Badlands|
+C Badlands Reagent Run |QID|2500| |OIDX|1| |N|Kill Buzzards. Loot them for their Gizzards and Wings| |O| |Z|Badlands|
 C Buzzards. Loot them for their Gizzards and Wings |QID|703| |L|3404 4| |N|Kill Buzzards. Loot them for their Gizzards and Wings| |O| |Z|Badlands|
 A A Dwarf and His Tools |QID|719| |N|Prospector Ryedol and Sigrun Ironhew - (53.4, 43.4)| |Z|Badlands|
 A Mirages |QID|718| |N|Prospector Ryedol and Sigrun Ironhew - (53.4, 43.4)| |Z|Badlands|
-C A Dwarf and His Tools |QID|719| |N|Shadowforge Dwarves. Loot them for Ryedol's Lucky Pick (43.5, 30.5)| |O| |Z|Badlands|
-C A Dwarf and His Tools |QID|719| |N|Shadowforge Dwarves. Loot them for Ryedol's Lucky Pick (43.5, 30.5)| |Z|Badlands|
+C A Dwarf and His Tools |QID|719| |OIDX|1| |N|Shadowforge Dwarves. Loot them for Ryedol's Lucky Pick (43.5, 30.5)| |O| |Z|Badlands|
+C A Dwarf and His Tools |QID|719| |OIDX|1| |N|Shadowforge Dwarves. Loot them for Ryedol's Lucky Pick (43.5, 30.5)| |Z|Badlands|
 R Camp Kosh |N|(66.9, 23.4)| |O| |Z|Badlands|
 N The Supply Crate can spawn in a few locations at Camp Kosh |N|(66.9, 23.4)| |Z|Badlands|
-C Mirages |QID|718| |N|the Supply Crate on the ground (66.9, 23.4)| |Z|Badlands|
+C Mirages |QID|718| |OIDX|1| |N|the Supply Crate on the ground (66.9, 23.4)| |Z|Badlands|
 T Mirages |QID|718| |N|Sigrun Ironhew and Prospector Ryedol - (53.8, 43.3)| |Z|Badlands|
 A Scrounging |QID|733| |N|Sigrun Ironhew and Prospector Ryedol - (53.8, 43.3)| |Z|Badlands|
 T A Dwarf and His Tools |QID|719| |N|Sigrun Ironhew and Prospector Ryedol - (53.8, 43.3)| |Z|Badlands|
@@ -69,17 +69,17 @@ T Pearl Diving |QID|705| |N|Rigglefuzz - (42.4, 52.9)| |O| |Z|Badlands|
 A Barbecued Buzzard Wings |QID|703| |N|Rigglefuzz - (42.4, 52.9)| |Z|Badlands|
 T Barbecued Buzzard Wings |QID|703| |N|Rigglefuzz - (42.4, 52.9)| |O| |Z|Badlands|
 A Tremors of the Earth |QID|732| |N|Garek - (61.9, 54.3)| |Z|Badlands|
-C Tremors of the Earth |QID|732| |N|Boss Tho'grun patrols across all of Badlands| |O| |Z|Badlands|
+C Tremors of the Earth |QID|732| |OIDX|1| |N|Boss Tho'grun patrols across all of Badlands| |O| |Z|Badlands|
 T Find Agmond |QID|738| |N|the Battered Dwarven Skeleton - (50.9, 62.4)| |Z|Badlands|
 A Murdaloc |QID|739| |N|the Battered Dwarven Skeleton - (50.9, 62.4)| |Z|Badlands|
-C Murdaloc |QID|739| |N|Stonevault Bonesnappers and Murdaloc. Loot them for their Indurium (49.6, 66.7)| |O| |Z|Badlands|
-C Indurium |QID|1108| |N|Stonevault Bonesnappers and Murdaloc. Loot them for their Indurium (49.6, 66.7)| |O| |Z|Badlands|
+C Murdaloc |QID|739| |OIDX|2| |N|Stonevault Bonesnappers and Murdaloc. Loot them for their Indurium (49.6, 66.7)| |O| |Z|Badlands|
+C Indurium |QID|1108| |OIDX|1| |N|Stonevault Bonesnappers and Murdaloc. Loot them for their Indurium (49.6, 66.7)| |O| |Z|Badlands|
 T Theldurin the Lost |QID|687| |N|Theldurin the Lost - (51.4, 76.9)| |Z|Badlands|
 A The Lost Fragments |QID|692| |N|Theldurin the Lost - (51.4, 76.9)| |Z|Badlands|
-C The Lost Fragments |QID|692| |N|Enraged Rock Elementals. Loot them for their Scroll Fragments (54.7, 83.9)| |Z|Badlands|
+C The Lost Fragments |QID|692| |OIDX|1| |N|Enraged Rock Elementals. Loot them for their Scroll Fragments (54.7, 83.9)| |Z|Badlands|
 T The Lost Fragments |QID|692| |N|Theldurin the Lost - (51.4, 76.9)| |Z|Badlands|
-C Murdaloc |QID|739| |N|Kill Stonevault Bonesnappers and Murdaloc. Loot them for their Indurium (53.0, 72.2)| |Z|Badlands|
-C Indurium |QID|1108| |N|Kill Stonevault Bonesnappers and Murdaloc. Loot them for their Indurium (49.6, 66.7)| |Z|Badlands|
+C Murdaloc |QID|739| |OIDX|2| |N|Kill Stonevault Bonesnappers and Murdaloc. Loot them for their Indurium (53.0, 72.2)| |Z|Badlands|
+C Indurium |QID|1108| |OIDX|1| |N|Kill Stonevault Bonesnappers and Murdaloc. Loot them for their Indurium (49.6, 66.7)| |Z|Badlands|
 T Indurium |QID|1108| |N|Martek the Exiled - (42.2, 52.7)| |Z|Badlands|
 A News for Fizzle |QID|1137| |N|Martek the Exiled - (42.2, 52.7)| |Z|Badlands|
 A Coolant Heads Prevail |QID|713| |N|Lotwil Veriatus - (25.9, 44.9)| |O| |Z|Badlands|
@@ -88,22 +88,22 @@ A Gyro... What? |QID|714| |N|Lotwil Veriatus - (25.9, 44.9)| |O| |Z|Badlands|
 T Gyro... What? |QID|714| |N|Lotwil Veriatus - (25.9, 44.9)| |O| |Z|Badlands|
 A Study of the Elements: Rock |QID|710| |N|Lotwil Veriatus - (25.9, 44.9)| |Z|Badlands|
 N You don't have to collect all Rock Elemental Shards right now |N|(18.0, 42.8)| |Z|Badlands|
-C Study of the Elements: Rock |QID|710| |N|Lesser Rock Elementals. Loot them for their Small Stone Shards and Rock Elemental Shards (18.0, 42.8)| |Z|Badlands|
-C Badlands Reagent Run |QID|2500| |N|Lesser Rock Elementals. Loot them for their Small Stone Shards and Rock Elemental Shards (18.0, 42.8)| |Z|Badlands|
+C Study of the Elements: Rock |QID|710| |OIDX|1| |N|Lesser Rock Elementals. Loot them for their Small Stone Shards and Rock Elemental Shards (18.0, 42.8)| |Z|Badlands|
+C Badlands Reagent Run |QID|2500| |OIDX|3| |N|Lesser Rock Elementals. Loot them for their Small Stone Shards and Rock Elemental Shards (18.0, 42.8)| |Z|Badlands|
 T Study of the Elements: Rock |QID|710| |N|Lotwil Veriatus - (25.9, 44.9)| |Z|Badlands|
 A Study of the Elements: Rock |QID|711| |N|Lotwil Veriatus - (25.9, 44.9)| |Z|Badlands|
 N You don't have to collect all Rock Elemental Shards right now |N|(14.7, 35.3)| |Z|Badlands|
-C Study of the Elements: Rock |QID|711| |N|Rock Elementals. Loot them for their Large Stone Slabs and Rock Elemental Shards (14.7, 35.3)| |Z|Badlands|
-C Badlands Reagent Run |QID|2500| |N|Rock Elementals. Loot them for their Large Stone Slabs and Rock Elemental Shards (14.7, 35.3)| |Z|Badlands|
+C Study of the Elements: Rock |QID|711| |OIDX|1| |N|Rock Elementals. Loot them for their Large Stone Slabs and Rock Elemental Shards (14.7, 35.3)| |Z|Badlands|
+C Badlands Reagent Run |QID|2500| |OIDX|3| |N|Rock Elementals. Loot them for their Large Stone Slabs and Rock Elemental Shards (14.7, 35.3)| |Z|Badlands|
 T Study of the Elements: Rock |QID|711| |N|Lotwil Veriatus - (25.9, 44.9)| |Z|Badlands|
 A Study of the Elements: Rock |QID|712| |N|Lotwil Veriatus - (25.9, 44.9)| |Z|Badlands|
-C Scrounging |QID|733| |N|Kill Dustbelcher Ogres. Loot them for their Scrap Metal| |O| |Z|Badlands|
-C Study of the Elements: Rock |QID|712| |N|Greater Rock Elementals. Loot them for their Bracers and Rock Elemental Shards (2.7, 81.2)| |Z|Badlands|
-C Badlands Reagent Run |QID|2500| |N|Greater Rock Elementals. Loot them for their Bracers and Rock Elemental Shards (2.7, 81.2)| |Z|Badlands|
-C Scrounging |QID|733| |N|Dustbelcher Ogres. Loot them for their Scrap Metal (11.0, 80.0)| |Z|Badlands|
+C Scrounging |QID|733| |OIDX|1| |N|Kill Dustbelcher Ogres. Loot them for their Scrap Metal| |O| |Z|Badlands|
+C Study of the Elements: Rock |QID|712| |OIDX|1| |N|Greater Rock Elementals. Loot them for their Bracers and Rock Elemental Shards (2.7, 81.2)| |Z|Badlands|
+C Badlands Reagent Run |QID|2500| |OIDX|3| |N|Greater Rock Elementals. Loot them for their Bracers and Rock Elemental Shards (2.7, 81.2)| |Z|Badlands|
+C Scrounging |QID|733| |OIDX|1| |N|Dustbelcher Ogres. Loot them for their Scrap Metal (11.0, 80.0)| |Z|Badlands|
 N Kill Coyotes. Loot them for their Fangs |N|(49.8, 53.0)| |Z|Badlands|
-C Badlands Reagent Run |QID|2500| |N|Kill Buzzards. Loot them for their Gizzards and Wings (49.8, 53.0)| |Z|Badlands|
-C Barbecued Buzzard Wings |QID|703| |N|Kill Buzzards. Loot them for their Gizzards and Wings (55.8, 60.2)| |Z|Badlands|
+C Badlands Reagent Run |QID|2500| |OIDX|1| |N|Kill Buzzards. Loot them for their Gizzards and Wings (49.8, 53.0)| |Z|Badlands|
+C Barbecued Buzzard Wings |QID|703| |OIDX|1| |N|Kill Buzzards. Loot them for their Gizzards and Wings (55.8, 60.2)| |Z|Badlands|
 T Study of the Elements: Rock |QID|712| |N|Lotwil Veriatus - (25.9, 44.9)| |Z|Badlands|
 A This Is Going to Be Hard |QID|734| |N|Lotwil Veriatus - (25.9, 44.9)| |O| |Z|Badlands|
 T This Is Going to Be Hard |QID|734| |N|Lucien Tosselwrench - (25.8, 44.2)| |O| |Z|Badlands|
@@ -114,12 +114,12 @@ A Liquid Stone |QID|715| |N|Lucien Tosselwrench| |O| |Z|Badlands|
 T Liquid Stone |QID|715| |N|Lucien Tosselwrench| |O| |Z|Badlands|
 T This Is Going to Be Hard |QID|777| |N|Lotwil Veriatus - (25.9, 44.9)| |O| |Z|Badlands|
 A This Is Going to Be Hard |QID|778| |N|Lotwil Veriatus - (25.9, 44.9)| |O| |Z|Badlands|
-C This Is Going to Be Hard |QID|778| |N|the Fam'Retor Guardian. Loot it for its Shackles (26.1, 46.7)| |O| |Z|Badlands|
+C This Is Going to Be Hard |QID|778| |OIDX|1| |N|the Fam'Retor Guardian. Loot it for its Shackles (26.1, 46.7)| |O| |Z|Badlands|
 T This Is Going to Be Hard |QID|778| |N|Lotwil Veriatus - (25.9, 44.9)| |O| |Z|Badlands|
 T Barbecued Buzzard Wings |QID|703| |N|Rigglefuzz - (42.4, 52.9)| |Z|Badlands|
 T Scrounging |QID|733| |N|Sigrun Ironhew - (53.8, 43.3)| |Z|Badlands|
 N Boss Tho'grun patrols across all of Badlands |N|(36.4, 71.6)| |Z|Badlands|
-C Tremors of the Earth |QID|732| |N|Boss Tho'grun. Loot him for his Sign of the Earth (36.4, 71.6)| |Z|Badlands|
+C Tremors of the Earth |QID|732| |OIDX|1| |N|Boss Tho'grun. Loot him for his Sign of the Earth (36.4, 71.6)| |Z|Badlands|
 T Tremors of the Earth |QID|732| |N|Garek - (61.9, 54.3)| |Z|Badlands|
 R Travel to Searing Gorge |N|(72.3, 55.5)| |O| |Z|Searing Gorge|
 f Get the Thorium Point flight path |N|Lanie Reed - (37.9, 30.9)| |Z|Searing Gorge|

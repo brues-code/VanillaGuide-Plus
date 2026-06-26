@@ -37,41 +37,41 @@ A The Daughter Who Lived |QID|229| |N|Commander Althea Ebonlocke - (73.6, 46.9)|
 T The Daughter Who Lived |QID|229| |N|Watcher Ladimore she patrols around the Darkshire main square - (74.5, 46.1)| |Z|Duskwood|
 R Travel to Swamp of Sorrows |N|(6.6, 60.2)| |O| |Z|Swamp of Sorrows|
 N You won't find enough Whelps to finish this quest in 1 pass, so continue with other quests |N|(14.0, 61.7)| |O| |Z|Swamp of Sorrows|
-C Dream Dust in the Swamp |QID|1116| |N|Adolescent Whelps and Dreaming Whelps. Loot them for their Specks of Dream Dust (14.0, 61.7)| |O| |Z|Swamp of Sorrows|
+C Dream Dust in the Swamp |QID|1116| |OIDX|1| |N|Adolescent Whelps and Dreaming Whelps. Loot them for their Specks of Dream Dust (14.0, 61.7)| |O| |Z|Swamp of Sorrows|
 A Encroaching Wildlife |QID|1396| |N|Watcher Biggs - (26.7, 59.8)| |Z|Swamp of Sorrows|
 N The drop rate of this item is very low. Don't go out of your way to complete this quest |O| |Z|Swamp of Sorrows|
-C Mazen's Behest |QID|1364| |N|Kill Swampwalkers, Swampwalker Elders, Tangled Horrors and Mire Lords. Loot them for Khadgar's Essays| |O| |Z|Swamp of Sorrows|
-C Encroaching Wildlife |QID|1396| |N|Young Sawtooth Crocolisks, Sorrow Spinners and Swamp Jaguars (28.2, 43.8)| |O| |Z|Swamp of Sorrows|
+C Mazen's Behest |QID|1364| |OIDX|1| |N|Kill Swampwalkers, Swampwalker Elders, Tangled Horrors and Mire Lords. Loot them for Khadgar's Essays| |O| |Z|Swamp of Sorrows|
+C Encroaching Wildlife |QID|1396| |OIDX|1| |N|Young Sawtooth Crocolisks, Sorrow Spinners and Swamp Jaguars (28.2, 43.8)| |O| |Z|Swamp of Sorrows|
 C Noboru the Cudgel. Loot him for [Noboru's Cudgel] |QID|1392| |L|6196 1| |N|Noboru the Cudgel patrols a large section of Swamp of Sorrows. The patrol path is marked on your map. He spawns where the patrol route starts on the eastern point (55.5, 36.8)| |Z|Swamp of Sorrows|
 A Noboru the Cudgel |QID|1392| |N|Noboru the Cudgel patrols a large section of Swamp of Sorrows. The patrol path is marked on your map. He spawns where the patrol route starts on the eastern point - (55.5, 36.8)| |Z|Swamp of Sorrows|
 T Noboru the Cudgel |QID|1392| |N|Magtoor - (26.0, 31.4)| |Z|Swamp of Sorrows|
 A Draenethyst Crystals |QID|1389| |N|Magtoor - (26.0, 31.4)| |Z|Swamp of Sorrows|
 N Grind Swampwalkers in the Misty Valley(marked on your map) to wait for Whelp respawns if you don't loot 10 dream dust and there is no more mobs |N|(8.7, 32.4)| |O| |Z|Swamp of Sorrows|
 N The drop rate of this item is very low. Don't go out of your way to complete this quest |N|(8.7, 32.4)| |O| |Z|Swamp of Sorrows|
-C Mazen's Behest |QID|1364| |N|Swampwalkers, Swampwalker Elders, Tangled Horrors and Mire Lords. Loot them for Khadgar's Essays (8.7, 32.4)| |O| |Z|Swamp of Sorrows|
-C Dream Dust in the Swamp |QID|1116| |N|all the Adolescent Whelps and Dreaming Whelps respawns. Loot them for their Specks of Dream Dust (61.8, 54.6)| |Z|Swamp of Sorrows|
-C Encroaching Wildlife |QID|1396| |N|Kill Young Sawtooth Crocolisks, Sorrow Spinners and Swamp Jaguars (23.0, 45.6)| |Z|Swamp of Sorrows|
+C Mazen's Behest |QID|1364| |OIDX|1| |N|Swampwalkers, Swampwalker Elders, Tangled Horrors and Mire Lords. Loot them for Khadgar's Essays (8.7, 32.4)| |O| |Z|Swamp of Sorrows|
+C Dream Dust in the Swamp |QID|1116| |OIDX|1| |N|all the Adolescent Whelps and Dreaming Whelps respawns. Loot them for their Specks of Dream Dust (61.8, 54.6)| |Z|Swamp of Sorrows|
+C Encroaching Wildlife |QID|1396| |OIDX|1| |N|Kill Young Sawtooth Crocolisks, Sorrow Spinners and Swamp Jaguars (23.0, 45.6)| |Z|Swamp of Sorrows|
 T Encroaching Wildlife |QID|1396| |N|Watcher Biggs - (26.7, 59.8)| |Z|Swamp of Sorrows|
 A The Lost Caravan |QID|1421| |N|Watcher Biggs - (26.7, 59.8)| |Z|Swamp of Sorrows|
 N The drop rate of this item is very low. Don't go out of your way to complete this quest |O| |Z|Swamp of Sorrows|
-C Mazen's Behest |QID|1364| |N|Kill Swampwalkers, Swampwalker Elders, Tangled Horrors and Mire Lords. Loot them for Khadgar's Essays| |O| |Z|Swamp of Sorrows|
+C Mazen's Behest |QID|1364| |OIDX|1| |N|Kill Swampwalkers, Swampwalker Elders, Tangled Horrors and Mire Lords. Loot them for Khadgar's Essays| |O| |Z|Swamp of Sorrows|
 R Fallow Sanctuary |N|(57.3, 30.7)| |O| |Z|Swamp of Sorrows|
 N Ongeku can be in a random location throughout Fallow Sanctuary |N|(60.5, 23.2)| |O| |Z|Swamp of Sorrows|
-C Ongeku |QID|1373| |N|Ongeku. Loot him for his Shard (60.5, 23.2)| |O| |Z|Swamp of Sorrows|
-C Draenethyst Crystals |QID|1389| |N|(63.3, 22.4)| |O| |Z|Swamp of Sorrows|
-C The Lost Caravan |QID|1421| |N|Avoid going through the middle of Fallow Sanctuary (64.5, 18.3)| |Z|Swamp of Sorrows|
+C Ongeku |QID|1373| |OIDX|1| |N|Ongeku. Loot him for his Shard (60.5, 23.2)| |O| |Z|Swamp of Sorrows|
+C Draenethyst Crystals |QID|1389| |OIDX|1| |N|(63.3, 22.4)| |O| |Z|Swamp of Sorrows|
+C The Lost Caravan |QID|1421| |OIDX|1| |N|Avoid going through the middle of Fallow Sanctuary (64.5, 18.3)| |Z|Swamp of Sorrows|
 N This will start an escort quest |N|(65.5, 18.2)| |Z|Swamp of Sorrows|
 A Galen's Escape |QID|1393| |N|Galen Goodward - (65.5, 18.2)| |Z|Swamp of Sorrows|
-C Galen's Escape |QID|1393| |N|Escort Galen through Fallow Sanctuary to safety (53.0, 29.6)| |Z|Swamp of Sorrows|
+C Galen's Escape |QID|1393| |OIDX|1| |N|Escort Galen through Fallow Sanctuary to safety (53.0, 29.6)| |Z|Swamp of Sorrows|
 N Ongeku can be in a random location throughout Fallow Sanctuary |N|(60.5, 23.2)| |Z|Swamp of Sorrows|
-C Ongeku |QID|1373| |N|Ongeku. Loot him for his Shard (60.5, 23.2)| |Z|Swamp of Sorrows|
+C Ongeku |QID|1373| |OIDX|1| |N|Ongeku. Loot him for his Shard (60.5, 23.2)| |Z|Swamp of Sorrows|
 T Galen's Escape |QID|1393| |N|Galen's Strongbox on the ground - (47.8, 39.8)| |Z|Swamp of Sorrows|
 T Draenethyst Crystals |QID|1389| |N|(26.0, 31.4)| |Z|Swamp of Sorrows|
-C Draenethyst Crystals |QID|1389| |N|(57.4, 26.1)| |O| |Z|Swamp of Sorrows|
+C Draenethyst Crystals |QID|1389| |OIDX|1| |N|(57.4, 26.1)| |O| |Z|Swamp of Sorrows|
 T Draenethyst Crystals |QID|1389| |N|(26.0, 31.4)| |O| |Z|Swamp of Sorrows|
 T The Lost Caravan |QID|1421| |N|(26.7, 59.8)| |Z|Swamp of Sorrows|
 N Be careful not to run too close to Stonard on your way there. Avoid fighting any of the higher level dragonkin on the way as well |N|(67.0, 47.0)| |Z|Swamp of Sorrows|
-C In Search of The Temple |QID|1448| |N|Swim to the middle of the Pool of Tears (67.0, 47.0)| |Z|Swamp of Sorrows|
+C In Search of The Temple |QID|1448| |OIDX|1| |N|Swim to the middle of the Pool of Tears (67.0, 47.0)| |Z|Swamp of Sorrows|
 N Buy food/water if needed |O| |C|!Warrior/!Rogue| |Z|Swamp of Sorrows|
 N Buy food if needed |O| |C|Warrior/Rogue| |Z|Swamp of Sorrows|
 t Train your class spells |N|Ian Strom up stairs - (26.8, 77.1)| |C|Rogue| |Z|Stranglethorn Vale|

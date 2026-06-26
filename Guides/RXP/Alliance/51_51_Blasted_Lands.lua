@@ -10,7 +10,7 @@ F Fly to Blasted Lands |N|Dungar Longdrink - (66.3, 62.1)| |Z|Stormwind City|
 A Petty Squabbles |QID|2783| |N|Ambassador Ardalan atop the Tower - (67.6, 19.3)| |Z|Blasted Lands|
 T Petty Squabbles |QID|2783| |N|the Fallen Hero of the Horde - (34.3, 66.1)| |Z|Swamp of Sorrows|
 A A Tale of Sorrow |QID|2801| |N|the Fallen Hero of the Horde - (34.3, 66.1)| |Z|Swamp of Sorrows|
-C A Tale of Sorrow |QID|2801| |N|the Fallen Hero of the Horde (34.3, 66.1)| |Z|Swamp of Sorrows|
+C A Tale of Sorrow |QID|2801| |OIDX|1| |N|the Fallen Hero of the Horde (34.3, 66.1)| |Z|Swamp of Sorrows|
 T A Tale of Sorrow |QID|2801| |N|the Fallen Hero of the Horde - (34.3, 66.1)| |Z|Swamp of Sorrows|
 R Travel to Blasted Lands |N|(62.5, 28.0)| |O| |C|Hunter/Rogue| |Z|Blasted Lands|
 R Vultures. Loot them for their Gizzards |N|(62.5, 28.0)| |O| |C|Hunter/Rogue| |Z|Blasted Lands|
@@ -63,7 +63,7 @@ T To Serve Kum'isha |QID|2521| |N|Kum'isha the Collector - (51.8, 35.6)| |O| |Z|
 C Kum'isha the Collector |QID|2521| |L|8244 1| |N|Kum'isha the Collector - (51.8, 35.6)| |O| |Z|Blasted Lands|
 R Travel to Burning Steppes |N|(77.5, 68.0)| |O| |Z|Burning Steppes|
 A Extinguish the Firegut |QID|3823| |N|Oralius - (84.6, 68.7)| |Z|Burning Steppes|
-C Extinguish the Firegut |QID|3823| |N|Firegut Ogre Mages, Firegut Ogres and Firegut Brutes (80.7, 44.4)| |Z|Burning Steppes|
+C Extinguish the Firegut |QID|3823| |OIDX|1| |N|Firegut Ogre Mages, Firegut Ogres and Firegut Brutes (80.7, 44.4)| |Z|Burning Steppes|
 T Extinguish the Firegut |QID|3823| |N|Oralius - (84.6, 68.7)| |Z|Burning Steppes|
 f Get the Burning Steppes Flight Path |N|Borgun Stoutarm - (84.3, 68.3)| |Z|Burning Steppes|
 F Fly to Ironforge |N|Borgun Stoutarm - (84.3, 68.3)| |C|!Mage| |Z|Burning Steppes|

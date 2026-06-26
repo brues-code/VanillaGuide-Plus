@@ -45,7 +45,7 @@ A The Tear of the Moons |QID|857| |N|Feegly - (48.9, 86.3)| |Z|The Barrens|
 R Go down to the bottom floor of Bael'dun |N|(49.4, 84.3)| |O| |Z|The Barrens|
 N Be careful! It is very easy overpull in General Twinbraid's room |N|(49.1, 84.2)| |Z|The Barrens|
 N Directly pull any mob other than General Twinbraid |N|(49.1, 84.2)| |Z|The Barrens|
-C The Tear of the Moons |QID|857| |N|General Twinbraid's Strongbox. Loot it for the Tear of the Moons (49.1, 84.2)| |Z|The Barrens|
+C The Tear of the Moons |QID|857| |OIDX|1| |N|General Twinbraid's Strongbox. Loot it for the Tear of the Moons (49.1, 84.2)| |Z|The Barrens|
 R Exit Bael'dun's Keep |N|(48.8, 84.6)| |O| |Z|The Barrens|
 T The Tear of the Moons |QID|857| |N|Feegly - (48.9, 86.3)| |Z|The Barrens|
 R Travel South toward The Great Lift |N|(44.1, 91.4)| |O| |Z|The Barrens|
@@ -69,24 +69,24 @@ A Alien Egg |QID|4821| |N|Hagar - (44.7, 50.3)| |Z|Thousand Needles|
 A Wind Rider |QID|4767| |N|Elu - (44.9, 48.9)| |Z|Thousand Needles|
 f Get the Freewind Post flight path |N|Nyse - (45.1, 49.1)| |Z|Thousand Needles|
 N Kill every Galak Scout that you see as they are more rare |O| |Z|Thousand Needles|
-C Pacify the Centaur |QID|4841| |N|Kill Galak Scouts, Galak Wranglers, and Galak Windchasers| |O| |Z|Thousand Needles|
+C Pacify the Centaur |QID|4841| |OIDX|1| |N|Kill Galak Scouts, Galak Wranglers, and Galak Windchasers| |O| |Z|Thousand Needles|
 R Enter the cave |N|(44.1, 37.2)| |O| |Z|Thousand Needles|
 R Travel toward the Ancient Brazier |N|(42.0, 31.5)| |O| |Z|Thousand Needles|
 N Be careful! The brazier is defended by two level 30 Galak Flame Guards |N|(42.0, 31.5)| |Z|Thousand Needles|
-C The Sacred Flame |QID|1197| |N|the Ancient Brazier. Loot it for the Cloven Hoof (42.0, 31.5)| |Z|Thousand Needles|
+C The Sacred Flame |QID|1197| |OIDX|1| |N|the Ancient Brazier. Loot it for the Cloven Hoof (42.0, 31.5)| |Z|Thousand Needles|
 C the Galak Messenger. Loot him for the [Assassination Note]. Use it to start the quest |QID|4881| |L|12564 1| |N|He patrols. He spawns at Splithoof Crag (the eastern Centaur camp) (38.5, 32.6)| |O| |Z|Thousand Needles|
 A Assassination Plot |QID|4881| |N|He patrols. He spawns at Splithoof Crag (the eastern Centaur camp) - (38.5, 32.6)| |O| |Z|Thousand Needles|
-C Pacify the Centaur |QID|4841| |N|Galak Scouts, Galak Wranglers, and Galak Windchasers (44.4, 38.4)| |Z|Thousand Needles|
+C Pacify the Centaur |QID|4841| |OIDX|1| |N|Galak Scouts, Galak Wranglers, and Galak Windchasers (44.4, 38.4)| |Z|Thousand Needles|
 R Travel toward Dorn |N|(54.0, 41.5)| |O| |Z|Thousand Needles|
 A Test of Faith |QID|1149| |N|Dorn - (54.0, 41.5)| |Z|Thousand Needles|
 N Jump off the end of the wooden platform. You'll get teleported instead of dying from fall damage |N|(26.6, 34.2)| |Z|Thousand Needles|
-C Test of Faith |QID|1149| |N|Wait out the RP (26.6, 34.2)| |Z|Thousand Needles|
+C Test of Faith |QID|1149| |OIDX|1| |N|Wait out the RP (26.6, 34.2)| |Z|Thousand Needles|
 T Test of Faith |QID|1149| |N|Dorn - (54.0, 41.5)| |Z|Thousand Needles|
 A Test of Endurance |QID|1150| |N|Dorn - (54.0, 41.5)| |Z|Thousand Needles|
-C Alien Egg |QID|4821| |N|the Alien Egg on the ground (56.4, 50.4)| |O| |Z|Thousand Needles|
-C A New Ore Sample |QID|1153| |N|Gravelsnout Surveyors, Gravelsnout Diggers, and Gibblesnik (if he's up). Loot them for an Ore Sample (59.8, 58.2)| |Z|Thousand Needles|
+C Alien Egg |QID|4821| |OIDX|1| |N|the Alien Egg on the ground (56.4, 50.4)| |O| |Z|Thousand Needles|
+C A New Ore Sample |QID|1153| |OIDX|1| |N|Gravelsnout Surveyors, Gravelsnout Diggers, and Gibblesnik (if he's up). Loot them for an Ore Sample (59.8, 58.2)| |Z|Thousand Needles|
 N It has 3 different spawn locations. They are marked on the map |N|(56.4, 50.4)| |Z|Thousand Needles|
-C Alien Egg |QID|4821| |N|the Alien Egg on the ground (56.4, 50.4)| |Z|Thousand Needles|
+C Alien Egg |QID|4821| |OIDX|1| |N|the Alien Egg on the ground (56.4, 50.4)| |Z|Thousand Needles|
 R Freewind Post's Elevators |N|(46.7, 48.3)| |O| |Z|Thousand Needles|
 T Pacify the Centaur |QID|4841| |N|Longhorn - (45.7, 50.7)| |Z|Thousand Needles|
 A Grimtotem Spying |QID|5064| |N|Longhorn - (45.7, 50.7)| |Z|Thousand Needles|
@@ -103,30 +103,30 @@ B Montarr |L|17031 1| |N|Montarr - (45.1, 50.8)| |C|Mage| |Z|Thousand Needles|
 t Training (3566) |N|Innkeeper Abeqwa - (46.1, 51.5)| |O| |C|Mage| |Z|Thousand Needles|
 R Enter Roguefeather Den |N|(27.3, 51.3)| |Z|Thousand Needles|
 N This quest is VERY HARD. Group up or skip it if you can't solo it |N|(25.9, 55.2)| |Z|Thousand Needles|
-C Test of Endurance |QID|1150| |N|Grenka Bloodscreech. Loot her for Grenka's Claw (25.9, 55.2)| |Z|Thousand Needles|
-C Steelsnap |QID|1131| |N|Be careful, has two Hyenas defending him!| |O| |Z|Thousand Needles|
+C Test of Endurance |QID|1150| |OIDX|1| |N|Grenka Bloodscreech. Loot her for Grenka's Claw (25.9, 55.2)| |Z|Thousand Needles|
+C Steelsnap |QID|1131| |OIDX|1| |N|Be careful, has two Hyenas defending him!| |O| |Z|Thousand Needles|
 R Travel toward Highperch |N|(14.0, 32.4)| |O| |Z|Thousand Needles|
-C Wind Rider |QID|4767| |N|Loot Highperch Wyvern Eggs on the ground| |O| |Z|Thousand Needles|
+C Wind Rider |QID|4767| |OIDX|1| |N|Loot Highperch Wyvern Eggs on the ground| |O| |Z|Thousand Needles|
 R Run up the path. Travel toward Pao'ka |N|(17.9, 40.6)| |O| |Z|Thousand Needles|
 N Be careful if Heartrazor is up! This is a level 32 rare elite |N|(17.9, 40.6)| |Z|Thousand Needles|
 A Homeward Bound |QID|4770| |N|Pao'ka to begin the escort - (17.9, 40.6)| |Z|Thousand Needles|
 N Three Highperch Wyverns will spawn once Pao'ka reaches the middle of Highperch. You only need to aggro the eastern one and the others will disappear |N|(15.2, 32.7)| |Z|Thousand Needles|
-C Homeward Bound |QID|4770| |N|Escort Pao'ka (15.2, 32.7)| |Z|Thousand Needles|
-C Wind Rider |QID|4767| |N|Highperch Wyvern Eggs on the ground (13.9, 39.1)| |Z|Thousand Needles|
-C Steelsnap |QID|1131| |N|Be careful, has two Hyenas defending him!| |O| |Z|Thousand Needles|
+C Homeward Bound |QID|4770| |OIDX|1| |N|Escort Pao'ka (15.2, 32.7)| |Z|Thousand Needles|
+C Wind Rider |QID|4767| |OIDX|1| |N|Highperch Wyvern Eggs on the ground (13.9, 39.1)| |Z|Thousand Needles|
+C Steelsnap |QID|1131| |OIDX|1| |N|Be careful, has two Hyenas defending him!| |O| |Z|Thousand Needles|
 B Sell your junk, then restock on food and water if necessary |N|Laer - (21.1, 31.9)| |C|!Rogue/!Warrior| |Z|Thousand Needles|
 B Sell your junk, then restock on food if necessary |N|Laer - (21.1, 31.9)| |C|Rogue/Warrior| |Z|Thousand Needles|
 N Be careful! Turning this in will summon three Galak Assassins that you have to protect Kanati from |N|(21.2, 32.0)| |O| |Z|Thousand Needles|
 T Assassination Plot |QID|4881| |N|Kanati - (21.2, 32.0)| |O| |Z|Thousand Needles|
 A Protect Kanati Greycloud |QID|4966| |N|Kanati - (21.2, 32.0)| |O| |Z|Thousand Needles|
-C Protect Kanati Greycloud |QID|4966| |N|the Galak Assassins to protect Kanati (21.2, 32.0)| |O| |Z|Thousand Needles|
+C Protect Kanati Greycloud |QID|4966| |OIDX|1| |N|the Galak Assassins to protect Kanati (21.2, 32.0)| |O| |Z|Thousand Needles|
 T Protect Kanati Greycloud |QID|4966| |N|Kanati - (21.2, 32.0)| |O| |Z|Thousand Needles|
 T Serpent Wild |QID|4865| |N|Motega - (21.5, 32.4)| |Z|Thousand Needles|
 A Sacred Fire |QID|5062| |N|Motega - (21.5, 32.4)| |Z|Thousand Needles|
 T Homeward Bound |QID|4770| |N|Motega - (21.5, 32.4)| |Z|Thousand Needles|
 A Hypercapacitor Gizmo |QID|5151| |N|Wizlo - (21.4, 32.5)| |Z|Thousand Needles|
 N Group up if you need to. This quest is HARD |N|(22.8, 24.5)| |Z|Thousand Needles|
-C Hypercapacitor Gizmo |QID|5151| |N|the cage and kill the Enraged Panther. Loot him for the Hypercapacitor Gizmo (22.8, 24.5)| |Z|Thousand Needles|
+C Hypercapacitor Gizmo |QID|5151| |OIDX|1| |N|the cage and kill the Enraged Panther. Loot him for the Hypercapacitor Gizmo (22.8, 24.5)| |Z|Thousand Needles|
 N He patrols. He spawns at Splithoof Crag (the eastern Centaur camp) |N|(39.5, 33.4)| |Z|Thousand Needles|
 N Scout for him with [Eagle Eye] if you have trained it |N|(39.5, 33.4)| |C|Hunter| |Z|Thousand Needles|
 N Scout for him with [Far Sight] if you have trained it |N|(39.5, 33.4)| |C|Shaman| |Z|Thousand Needles|
@@ -136,17 +136,17 @@ N He patrols counter-clockwise |N|(11.5, 21.6)| |Z|Thousand Needles|
 N Be careful, has two Hyenas defending him! |N|(11.5, 21.6)| |Z|Thousand Needles|
 N Scout for him with [Eagle Eye] if you have trained it |N|(11.5, 21.6)| |C|Hunter| |Z|Thousand Needles|
 N Scout for him with [Far Sight] if you have trained it |N|(11.5, 21.6)| |C|Shaman| |Z|Thousand Needles|
-C Steelsnap |QID|1131| |N|Steelsnap. Loot him for Steelsnap's Rib (11.5, 21.6)| |Z|Thousand Needles|
+C Steelsnap |QID|1131| |OIDX|1| |N|Steelsnap. Loot him for Steelsnap's Rib (11.5, 21.6)| |Z|Thousand Needles|
 N Be careful! Turning this in will summon three Galak Assassins that you have to protect Kanati from |N|(21.2, 32.0)| |Z|Thousand Needles|
 T Assassination Plot |QID|4881| |N|Kanati - (21.2, 32.0)| |Z|Thousand Needles|
 A Protect Kanati Greycloud |QID|4966| |N|Kanati - (21.2, 32.0)| |Z|Thousand Needles|
-C Protect Kanati Greycloud |QID|4966| |N|the Galak Assassins to protect Kanati (21.2, 32.0)| |Z|Thousand Needles|
+C Protect Kanati Greycloud |QID|4966| |OIDX|1| |N|the Galak Assassins to protect Kanati (21.2, 32.0)| |Z|Thousand Needles|
 T Protect Kanati Greycloud |QID|4966| |N|Kanati - (21.2, 32.0)| |Z|Thousand Needles|
 T Hypercapacitor Gizmo |QID|5151| |N|Wizlo - (21.4, 32.5)| |Z|Thousand Needles|
 N Scalding Elementals and Boiling Elementals are immune to frost damage, and highly resistant to fire. Try to avoid them or use Arcane spells |N|(36.0, 37.4)| |C|Mage| |Z|Thousand Needles|
 N Be careful as Boiling Elementals cast [Steam Jet], reducing your chance to hit by 30% for 10 seconds |N|(36.0, 37.4)| |C|Warrior/Rogue/Shaman/Druid| |Z|Thousand Needles|
 N Be careful as Scalding Elementals cast [Scald], instantly dealing 150 fire damage and stunning you for 4 seconds |N|(36.0, 37.4)| |Z|Thousand Needles|
-C Sacred Fire |QID|5062| |N|the Incendia Agave Plants on the ground and underwater (36.0, 37.4)| |Z|Thousand Needles|
+C Sacred Fire |QID|5062| |OIDX|1| |N|the Incendia Agave Plants on the ground and underwater (36.0, 37.4)| |Z|Thousand Needles|
 t Training (3566) |O| |C|Mage| |Z|Thousand Needles|
 t Train your class spells |N|Shymm - (22.7, 14.5)| |C|Mage| |Z|Thunder Bluff|
 B Sell your junk, then restock on food and water if necessary |N|Innkeeper Pala - (45.8, 64.7)| |C|!Rogue/!Warrior| |Z|Thunder Bluff|
@@ -186,26 +186,26 @@ T Test of Endurance |QID|1150| |N|Dorn - (54.0, 41.5)| |Z|Thousand Needles|
 A Test of Strength |QID|1151| |N|Dorn - (54.0, 41.5)| |Z|Thousand Needles|
 R Head to Darkcloud Pinnacle |N|(31.5, 36.7)| |Z|Thousand Needles|
 R Travel up Darkcloud Pinnacle |N|(33.3, 36.2)| |O| |Z|Thousand Needles|
-C Grimtotem Spying |QID|5064| |N|the Document Chest on top of the plataeu. Loot it for Secret Note #1 (31.8, 32.6)| |Z|Thousand Needles|
-C Grimtotem Spying |QID|5064| |N|the Document Chest inside the big tent. Loot it for Secret Note #1 (33.8, 39.9)| |Z|Thousand Needles|
-C Grimtotem Spying |QID|5064| |N|the Document Chest inside the tent on the eastern plateau. Loot it for Secret Note #1 (39.2, 41.6)| |Z|Thousand Needles|
+C Grimtotem Spying |QID|5064| |OIDX|1| |N|the Document Chest on top of the plataeu. Loot it for Secret Note #1 (31.8, 32.6)| |Z|Thousand Needles|
+C Grimtotem Spying |QID|5064| |OIDX|2| |N|the Document Chest inside the big tent. Loot it for Secret Note #1 (33.8, 39.9)| |Z|Thousand Needles|
+C Grimtotem Spying |QID|5064| |OIDX|3| |N|the Document Chest inside the tent on the eastern plateau. Loot it for Secret Note #1 (39.2, 41.6)| |Z|Thousand Needles|
 R Travel toward the bonfire on the North/Eastern plateau |N|(37.0, 32.0)| |O| |Z|Thousand Needles|
 N Kill Arikara. Loot her for her Skin |N|(38.0, 35.3)| |Z|Thousand Needles|
-C Arikara |QID|5088| |N|Clear the Grimtotems and then light the bonfire (38.0, 35.3)| |Z|Thousand Needles|
-C Wanted - Arnak Grimtotem |QID|5147| |N|Arnak Grimtotem. Loot him for his Hoof (38.0, 26.8)| |Z|Thousand Needles|
+C Arikara |QID|5088| |OIDX|2| |N|Clear the Grimtotems and then light the bonfire (38.0, 35.3)| |Z|Thousand Needles|
+C Wanted - Arnak Grimtotem |QID|5147| |OIDX|1| |N|Arnak Grimtotem. Loot him for his Hoof (38.0, 26.8)| |Z|Thousand Needles|
 N This will start an escort |N|(38.0, 26.6)| |Z|Thousand Needles|
 A Free at Last |QID|4904| |N|Lakota - (38.0, 26.6)| |Z|Thousand Needles|
 N Two Grimtotems will spawn every time she reaches a new platform. Try and stay ahead of her to clear the platforms if you have respawns behind |N|(31.1, 36.9)| |Z|Thousand Needles|
 N Be careful as this quest is HARD. Don't be afraid to escape by running behind you and failing the escort |N|(31.1, 36.9)| |Z|Thousand Needles|
-C Free at Last |QID|4904| |N|Escort Lakota to safety (31.1, 36.9)| |Z|Thousand Needles|
+C Free at Last |QID|4904| |OIDX|1| |N|Escort Lakota to safety (31.1, 36.9)| |Z|Thousand Needles|
 T Arikara |QID|5088| |N|Motega - (21.5, 32.4)| |Z|Thousand Needles|
 N Be careful! Turning this in will summon three Galak Assassins that you have to protect Kanati from |N|(21.2, 32.0)| |Z|Thousand Needles|
 T Assassination Plot |QID|4881| |N|Kanati - (21.2, 32.0)| |Z|Thousand Needles|
 A Protect Kanati Greycloud |QID|4966| |N|Kanati - (21.2, 32.0)| |Z|Thousand Needles|
-C Protect Kanati Greycloud |QID|4966| |N|the Galak Assassins to protect Kanati (21.2, 32.0)| |Z|Thousand Needles|
+C Protect Kanati Greycloud |QID|4966| |OIDX|1| |N|the Galak Assassins to protect Kanati (21.2, 32.0)| |Z|Thousand Needles|
 T Protect Kanati Greycloud |QID|4966| |N|Kanati - (21.2, 32.0)| |Z|Thousand Needles|
 N He patrols a large portion of the North/Western part of the zone |N|(10.0, 21.7)| |Z|Thousand Needles|
-C Test of Strength |QID|1151| |N|Find and kill Rok'Alim the Pounder. Loot him for his Fragments (10.0, 21.7)| |Z|Thousand Needles|
+C Test of Strength |QID|1151| |OIDX|1| |N|Find and kill Rok'Alim the Pounder. Loot him for his Fragments (10.0, 21.7)| |Z|Thousand Needles|
 R Travel to Feralas |N|(89.2, 41.2)| |O| |Z|Feralas|
 N Be careful! Stay on the road to avoid high level mobs |O| |Z|Feralas|
 B Buy [Superior Healing Potions] from him if they're up |N|Bronk - (76.1, 43.3)| |Z|Feralas|
@@ -248,7 +248,7 @@ R Fray Island |N|(68.6, 49.2)| |O| |C|Warrior| |Z|The Barrens|
 T The Islander |QID|1718| |N|Klannoc - (68.6, 49.2)| |C|Warrior| |Z|The Barrens|
 A The Affray |QID|1719| |N|Klannoc - (68.6, 49.2)| |C|Warrior| |Z|The Barrens|
 N Kill Big Will once he appears |N|(68.6, 48.8)| |C|Warrior| |Z|The Barrens|
-C The Affray |QID|1719| |N|Step onto the grate behind you. Quickly kill the Affray Challengers that come one by one (68.6, 48.8)| |C|Warrior| |Z|The Barrens|
+C The Affray |QID|1719| |OIDX|1| |N|Step onto the grate behind you. Quickly kill the Affray Challengers that come one by one (68.6, 48.8)| |C|Warrior| |Z|The Barrens|
 N This will teach you Berserker Stance |N|(68.6, 49.2)| |C|Warrior| |Z|The Barrens|
 T The Affray |QID|1719| |N|Klannoc - (68.6, 49.2)| |C|Warrior| |Z|The Barrens|
 A The Windwatcher |QID|1791| |N|Klannoc - (68.6, 49.2)| |C|Warrior| |Z|The Barrens|
@@ -286,14 +286,14 @@ T Alliance Relations |QID|1431| |N|Keldran near the Western exit of Orgrimmar - 
 A Alliance Relations |QID|1432| |N|Keldran near the Western exit of Orgrimmar - (22.5, 52.6)| |Z|Orgrimmar|
 F Fly Camp Taurajo |N|Doras - (45.1, 63.9) (RFK Dungeon Quest)| |D|RFK| |Z|Orgrimmar|
 R Travel to Tirisfal Glades |N|(50.9, 70.3) (RFK Dungeon Quest)| |D|RFK| |Z|Tirisfal Glades|
-C Kill Kraul Bats. Loot them for a Kraul Guano |QID|1109| |N|Kill Kraul Bats. Loot them for a Kraul Guano (RFK Dungeon Quest)| |D|RFK| |Z|Tirisfal Glades|
-C A Vengeful Fate |QID|1102| |N|Kill Charlga Razorflank. Loot her for her Heart and for the [Small Scroll]. Use the scroll to start the quest (RFK Dungeon Quest)| |D|RFK| |Z|Tirisfal Glades|
+C Kill Kraul Bats. Loot them for a Kraul Guano |QID|1109| |OIDX|1| |N|Kill Kraul Bats. Loot them for a Kraul Guano (RFK Dungeon Quest)| |D|RFK| |Z|Tirisfal Glades|
+C A Vengeful Fate |QID|1102| |OIDX|1| |N|Kill Charlga Razorflank. Loot her for her Heart and for the [Small Scroll]. Use the scroll to start the quest (RFK Dungeon Quest)| |D|RFK| |Z|Tirisfal Glades|
 C Charlga Razorflank. Loot her for her Heart and for the [Small Scroll]. Use the scroll to start the quest |QID|6522| |L|17008 1| |N|Kill Charlga Razorflank. Loot her for her Heart and for the [Small Scroll]. Use the scroll to start the quest (RFK Dungeon Quest)| |D|RFK| |Z|Tirisfal Glades|
 A An Unholy Alliance |QID|6522| |N|Kill Charlga Razorflank. Loot her for her Heart and for the [Small Scroll]. Use the scroll to start the quest (RFK Dungeon Quest)| |D|RFK| |Z|Tirisfal Glades|
 N This will start an escort |N|(RFK Dungeon Quest)| |D|RFK| |Z|Tirisfal Glades|
 A Willix the Importer |QID|1144| |N|Willix the Importer (RFK Dungeon Quest)| |D|RFK| |Z|Tirisfal Glades|
 N Ensure you stay close to Willix otherwise the quest may not complete! |N|(RFK Dungeon Quest)| |D|RFK| |Z|Tirisfal Glades|
-C Willix the Importer |QID|1144| |N|Escort Willix the Importer through Razorfen Kraul (RFK Dungeon Quest)| |D|RFK| |Z|Tirisfal Glades|
+C Willix the Importer |QID|1144| |OIDX|1| |N|Escort Willix the Importer through Razorfen Kraul (RFK Dungeon Quest)| |D|RFK| |Z|Tirisfal Glades|
 T Willix the Importer |QID|1144| |N|Willix the Importer (RFK Dungeon Quest)| |D|RFK| |Z|Tirisfal Glades|
 F Fly to Ratchet |N|Nyse - (45.1, 49.1) (GNOMER Dungeon Quest)| |C|!Mage| |D|GNOMER| |Z|Thousand Needles|
 F Fly to Ratchet |N|Doras - (45.1, 63.9) (GNOMER Dungeon Quest)| |D|GNOMER| |Z|Orgrimmar|
@@ -303,7 +303,7 @@ A Gnomer-gooooone! |QID|2843| |N|Scooty - (27.6, 77.5) (GNOMER Dungeon Quest)| |
 T Gnomer-gooooone! |QID|2843| |N|Scooty - (27.6, 77.5) (GNOMER Dungeon Quest)| |D|GNOMER| |Z|Stranglethorn Vale|
 R Step onto the Gnomeregan Transponder |N|(42.8, 59.9) (GNOMER Dungeon Quest)| |D|GNOMER| |Z|Eastern Kingdoms|
 N Loot Thermaplugg's Safe in the Northern side of the room for the Rig Blueprints |N|(GNOMER Dungeon Quest)| |D|GNOMER| |Z|Eastern Kingdoms|
-C Rig Wars |QID|2841| |N|Kill Mekgineer Thermaplugg. Loot him for his Safe Combination (GNOMER Dungeon Quest)| |D|GNOMER| |Z|Eastern Kingdoms|
+C Rig Wars |QID|2841| |OIDX|2| |N|Kill Mekgineer Thermaplugg. Loot him for his Safe Combination (GNOMER Dungeon Quest)| |D|GNOMER| |Z|Eastern Kingdoms|
 F Fly to Orgrimmar |N|Nyse - (45.1, 49.1) (!RFK Dungeon Quest)| |C|!Mage| |D|!RFK| |Z|Thousand Needles|
 F Fly to Orgrimmar |N|Nyse - (45.1, 49.1) (!GNOMER Dungeon Quest)| |C|!Mage| |D|!GNOMER| |Z|Thousand Needles|
 F Fly to Orgrimmar |N|Bragok - (63.1, 37.2) (GNOMER Dungeon Quest)| |C|!Mage| |D|GNOMER| |Z|The Barrens|
