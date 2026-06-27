@@ -85,8 +85,8 @@ F Fly to Stormwind |N|Thor - (56.5, 52.6)| |O| |C|Rogue/Dwarf/Rogue| |R|Gnome| |
 B Buy a [Scimitar] from her or something better from the Auction House and equip it your off-hand |N|Marda Weller - (57.4, 56.8)| |C|Rogue/Dwarf/Rogue| |R|Gnome| |Z|Stormwind City|
 B Buy a [Scimitar] from her |N|Marda Weller - (57.4, 56.8)| |C|Rogue/Dwarf/Rogue| |R|Gnome| |Z|Stormwind City|
 T Humble Beginnings |QID|399| |N|Baros Alexston - (49.2, 30.3)| |C|Rogue/Dwarf/Rogue| |R|Gnome| |Z|Stormwind City|
+H Thelsamar |N|Hearth to Thelsamar| |O| |C|!Paladin/Gnome| |R|Dwarf| |Z|Stormwind City|
 F Fly to Wetlands |N|Thorgrum Borrelson - (33.9, 51.0)| |O| |C|!Paladin/Gnome| |R|Dwarf| |Z|Loch Modan|
-F Fly to Ironforge |N|Thorgrum Borrelson - (33.9, 51.0)| |O| |C|!Paladin/Gnome| |R|Dwarf| |Z|Loch Modan|
 F Fly to Ironforge |N|Thor - (56.5, 52.6)| |C|Paladin| |R|Human/Dwarf| |Z|Westfall|
 N Bilban Tosslespanner |N|(51.1, 8.7)| |C|Warrior| |R|Human| |Z|Westfall|
 N Fenthwick |N|(51.1, 8.7)| |C|Rogue| |R|Human| |Z|Westfall|
@@ -107,16 +107,10 @@ T The Tome of Divinity |QID|1784| |N|Muiredon Battleforge - (23.5, 8.3)| |C|Pala
 A The Tome of Divinity |QID|1785| |N|Muiredon Battleforge - (23.5, 8.3)| |C|Paladin| |R|Dwarf| |Z|Ironforge|
 T The Tome of Divinity |QID|1785| |N|Tiza Battleforge - (27.6, 12.2)| |C|Paladin| |R|Dwarf| |Z|Ironforge|
 F Fly to Wetlands |N|Gryth Thurden - (55.5, 47.7)| |O| |C|Paladin| |R|Dwarf| |Z|Ironforge|
-R Travel to Dun Morogh |N|(53.5, 34.9)| |Z|Dun Morogh|
-R the Dun Morogh -> Wetlands skip spot |N|(59.4, 42.9)| |O| |Z|Dun Morogh|
-R Travel to Wetlands |N|(15.1, 64.0)| |Z|Wetlands|
-R Watch the video guide for a reference on how to do the skip first! |N|(12.1, 60.3)| |Z|Wetlands|
-N Do the Deathless Dun Morogh -> Wetlands skip |N|(12.1, 60.3)| |Z|Wetlands|
-N Avoid the Wetlands Crocolisks and Murlocs when crossing the water |N|(12.1, 60.3)| |Z|Wetlands|
-R Menethil Harbor |N|(12.1, 60.3)| |Z|Wetlands|
 R the Dun Morogh -> Wetlands deathskip spot |N|(30.9, 33.1)| |O| |R|Human| |Z|Dun Morogh|
 R Continue following through the mountain to the deathskip location |N|(32.4, 29.1)| |R|Human| |Z|Dun Morogh|
 R Travel to Wetlands |N|(11.7, 43.3)| |R|Human| |Z|Wetlands|
+N Run straight off the edge to the north and drop down. Die and respawn at the Spirit Healer |N|(11.7, 43.3)| |R|Human| |Z|Wetlands|
 R Swim to Menethil Harbor |N|(12.7, 46.7)| |R|Human| |Z|Wetlands|
 f Get the Wetlands flight path |N|Shellei - (9.5, 59.7)| |C|Paladin| |R|Human/Dwarf| |Z|Wetlands|
 R the dock of the Auberdine boat |N|(4.6, 57.3)| |O| |Z|Wetlands|

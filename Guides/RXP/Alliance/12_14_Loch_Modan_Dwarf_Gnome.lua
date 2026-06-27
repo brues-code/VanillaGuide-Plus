@@ -120,6 +120,7 @@ N You need 50 [Cooking] for a quest in Duskwood later |O| |C|!Paladin| |Z|Ironfo
 N [Cook] the [Chunks of Boar Meat] into [Roasted Boar Meat] |O| |C|!Paladin| |Z|Ironforge|
 N Level your [First Aid] while waiting for the Tram to Stormwind City if needed |O| |C|Rogue/Warrior/Paladin| |Z|Ironforge|
 N You will need your [First Aid] to be 80 for a quest at level 24 |O| |C|Rogue| |R|!Dwarf| |Z|Ironforge|
+H Stormwind |N|Hearth to Stormwind| |O| |C|Paladin| |R|Dwarf| |Z|Ironforge|
 R the Stormwind Cathedral |N|(42.5, 33.5)| |O| |C|Paladin| |Z|Stormwind City|
 t Train your class spells |N|Arthur the Faithful - (38.7, 32.8)| |C|Paladin| |Z|Stormwind City|
 A Humble Beginnings |QID|399| |N|Baros Alexston - (49.2, 30.3)| |C|Paladin| |Z|Stormwind City|

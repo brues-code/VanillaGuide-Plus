@@ -78,6 +78,7 @@ C Night Web's Hollow |QID|380| |OIDX|1| |N|Young Night Web Spiders ,6 --Kill You
 C Night Web's Hollow |QID|380| |OIDX|1| |N|Young Night Web Spiders close to the cave entrance Kill Young Night Web Spider (10)| |Z|Tirisfal Glades|
 R Go inside the cave |N|(26.3, 59.6)| |O| |Z|Tirisfal Glades|
 C Night Web's Hollow |QID|380| |OIDX|2| |N|Night Web Spiders inside the cave Kill Night Web Spider (x8)| |Z|Tirisfal Glades|
+N Die and respawn at the Spirit Healer |O| |Z|Tirisfal Glades|
 T Scavenging Deathknell |QID|3902| |N|Saltain - (31.6, 65.6)| |Z|Tirisfal Glades|
 T Night Web's Hollow |QID|380| |N|Arren - (32.1, 66.0)| |Z|Tirisfal Glades|
 A The Scarlet Crusade |QID|381| |N|Arren - (32.1, 66.0)| |Z|Tirisfal Glades|
@@ -89,6 +90,7 @@ N Don't kill Meven Korgal yet |N|(36.9, 68.2)| |Z|Tirisfal Glades|
 N Try to avoid Scarlet Initiates if you can as they have [Frost Armor] (slows your attack speed) |N|(36.9, 68.2)| |C|Warrior/Rogue| |Z|Tirisfal Glades|
 C The Scarlet Crusade |QID|381| |OIDX|1| |N|Scarlet Initiates and Scarlet Converts. Loot them for their Scarlet Armbands Collect Scarlet Armband (12)| |Z|Tirisfal Glades|
 C Collect Samuel's Remains |QID|6395| |L|16333 1| |N|Samuel. Loot him for Samuel's Remains (36.7, 61.7)| |Z|Tirisfal Glades|
+N Die and respawn at the Spirit Healer |O| |Z|Tirisfal Glades|
 C Marla's Last Wish |QID|6395| |OIDX|1| |N|Marla's Grave on the ground Collect Samuel's Remains Buried (1)| |Z|Tirisfal Glades|
 N Elreth and Duesten |N|(31.4, 66.2)| |C|Priest| |Z|Tirisfal Glades|
 T Marla's Last Wish |QID|6395| |N|Elreth - (31.4, 66.2)| |Z|Tirisfal Glades|

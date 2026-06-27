@@ -9,6 +9,7 @@ F Fly to Tanaris |N|Tal - (47.0, 49.8)| |O| |R|!Tauren| |Z|Thunder Bluff|
 T Tran'rek |QID|2864| |N|Tran'rek - (51.6, 26.8)| |Z|Tanaris|
 A WANTED: Caliph Scorpidsting |QID|2781| |N|on the Wanted Poster - (51.8, 27.0)| |Z|Tanaris|
 R Innkeeper Fizzgrimble |N|(52.5, 27.9)| |Z|Tanaris|
+h Gadgetzan |N|Set hearth in Gadgetzan (52.5, 27.9)| |Z|Tanaris|
 T Into the Field |QID|243| |N|Bilgewhizzle and Luglunket - (52.5, 28.5)| |Z|Tanaris|
 A Slake That Thirst |QID|379| |N|Bilgewhizzle and Luglunket - (52.5, 28.5)| |Z|Tanaris|
 A Wastewander Justice |QID|1690| |N|Bilgewhizzle and Luglunket - (52.5, 28.5)| |Z|Tanaris|
@@ -18,6 +19,7 @@ A Water Pouch Bounty |QID|1707| |N|Bilgewhizzle and Luglunket - (52.5, 28.5)| |O
 A Gadgetzan Water Survey |QID|992| |N|Fizzledowser - (50.2, 27.5)| |Z|Tanaris|
 R Laziphus |N|(52.3, 28.0)| |O| |C|Hunter| |Z|Tanaris|
 t Attack mobs with it to learn [Claw (Rank 6)] |N|Cast [Tame Beast] on a Scorpid Hunter to tame it - (54.1, 32.2)| |C|Hunter| |Z|Tanaris|
+N Click here for more info about pet training |N|(54.1, 32.2)| |C|Hunter| |Z|Tanaris|
 t Training (2976) |N|Laziphus - (52.3, 28.0)| |C|Hunter| |Z|Tanaris|
 C Wastewander Justice |QID|1690| |OIDX|1| |N|Wastewander Bandits and Wastewander Thieves in the Noonshade Ruins en route to Steamwheedle Port. Loot them for their Water Pouches (60.5, 23.4)| |O| |Z|Tanaris|
 C Wastewander Bandits and Wastewander Thieves in the Noonshade Ruins en route to Steamwheedle Port. Loot them for their Water Pouches |L|8483 10| |N|Wastewander Bandits and Wastewander Thieves in the Noonshade Ruins en route to Steamwheedle Port. Loot them for their Water Pouches - (60.5, 23.4)| |O| |Z|Tanaris|
@@ -31,6 +33,7 @@ C Wastewander Justice |QID|1690| |OIDX|1| |N|Wastewander Bandits and Wastewander
 C Wastewander Bandits and Wastewander Thieves. Loot them for their Water Pouches |L|8483 10| |N|Wastewander Bandits and Wastewander Thieves. Loot them for their Water Pouches - (60.5, 23.4)| |Z|Tanaris|
 C Wastewander Justice |QID|1690| |OIDX|1| |N|Wastewander Bandits and Wastewander Thieves. Loot them for their Water Pouches (60.5, 23.4)| |Z|Tanaris|
 C Wastewander Bandits and Wastewander Thieves. Loot them for their Water Pouches |L|8483 5| |N|Wastewander Bandits and Wastewander Thieves. Loot them for their Water Pouches - (60.5, 23.4)| |Z|Tanaris|
+H Hearth or Astral Recall to Gadgetzan |N|Hearth to Hearth or Astral Recall to Gadgetzan| |C|Shaman| |Z|Tanaris|
 B Sell your junk, then restock on food and water if necessary |N|Dirge Quikcleave - (52.6, 28.1)| |C|!Rogue/!Warrior| |Z|Tanaris|
 B Sell your junk, then restock on food if necessary |N|Dirge Quikcleave - (52.6, 28.1)| |C|Rogue/Warrior| |Z|Tanaris|
 T Slake That Thirst |QID|379| |N|Bilgewhizzle - (52.5, 28.5)| |Z|Tanaris|
@@ -57,6 +60,7 @@ T Keeping Pace |QID|1190| |N|on Rizzle's Unguarded Plans inside the metal hut - 
 A Rizzle's Schematics |QID|1194| |N|on Rizzle's Unguarded Plans inside the metal hut - (77.2, 77.4)| |Z|Thousand Needles|
 A Back to Booty Bay |QID|1118| |N|Kravel - (77.8, 77.3)| |Z|Thousand Needles|
 T Rizzle's Schematics |QID|1194| |N|Pozzik - (80.2, 75.9)| |Z|Thousand Needles|
+H Gadgetzan |N|Hearth to Gadgetzan| |O| |Z|Thousand Needles|
 R Gadgetzan |N|(51.6, 25.4)| |O| |Z|Tanaris|
 F Fly to Dustwallow Marsh |N|Bulkrek - (51.6, 25.4)| |O| |Z|Tanaris|
 A Overlord Mok'Morokk's Concern |QID|1166| |N|Overlord Mok'Morokk - (36.3, 31.4)| |Z|Dustwallow Marsh|
@@ -87,14 +91,16 @@ T Overlord Mok'Morokk's Concern |QID|1166| |N|Overlord Mok'Morokk - (36.3, 31.5)
 T Army of the Black Dragon |QID|1168| |N|Tharg - (37.3, 31.4)| |Z|Dustwallow Marsh|
 T Marg Speaks |QID|1261| |N|Nazeer - (35.3, 30.6)| |Z|Dustwallow Marsh|
 A Report to Zor |QID|1262| |N|Nazeer - (35.3, 30.6)| |Z|Dustwallow Marsh|
+H Gadgetzan |N|Hearth to Gadgetzan| |O| |Z|Dustwallow Marsh|
 F Fly to Gadgetzan |N|Shardi - (35.6, 31.9)| |O| |Z|Dustwallow Marsh|
 A WANTED: Caliph Scorpidsting |QID|2781| |N|on the Wanted Poster - (51.8, 27.0)| |Z|Tanaris|
-A Tanaris Field Sampling |QID|654| |Z|Tanaris|
+A Tanaris Field Sampling |QID|654| |N|Use the [Model 4711-FTZ Power Source] to start the quest| |Z|Tanaris|
 N Use the Samples to test them |O| |Z|Tanaris|
 N Do not delete any untested samples |O| |Z|Tanaris|
 N This quest has a 2-hour timer. If it runs out you'll have to obtain a new Model 4711-FTZ Power Source from Chief Engineer Bilgewhizzle |O| |Z|Tanaris|
 C Tanaris Field Sampling |QID|654| |OIDX|1| |N|Kill Basilisks, Hyenas and Scorpids. Loot them for their their Samples| |O| |Z|Tanaris|
-C Gadgetzan Water Survey |QID|992| |OIDX|1| |N|Be careful! Two Centipaar Tunnelers (level 48) will spawn after completion. Prepare to run away from them (39.1, 29.3)| |Z|Tanaris|
+N Be careful! Two Centipaar Tunnelers (level 48) will spawn after completion. Prepare to run away from them |N|(39.1, 29.3)| |Z|Tanaris|
+C Gadgetzan Water Survey |QID|992| |OIDX|1| |N|Use the [Untapped Dowsing Widget] at the pool (39.1, 29.3)| |Z|Tanaris|
 N Use the Samples to test them |N|(48.0, 33.2)| |Z|Tanaris|
 N Do not delete any untested samples |N|(48.0, 33.2)| |Z|Tanaris|
 N This quest has a 2-hour timer. If it runs out you'll have to obtain a new Model 4711-FTZ Power Source from Chief Engineer Bilgewhizzle |N|(48.0, 33.2)| |Z|Tanaris|
@@ -106,8 +112,9 @@ C More Wastewander Justice |QID|1691| |OIDX|1| |N|Wastewander Rogues, Assassins 
 N Be careful; he has two stealthed adds with him |N|(63.9, 31.7)| |Z|Tanaris|
 C WANTED: Caliph Scorpidsting |QID|2781| |OIDX|1| |N|Caliph Scorpidsting. Loot him for his Head (63.9, 31.7)| |Z|Tanaris|
 A Gahz'ridian |QID|3161| |N|Marvon - (52.7, 45.9)| |O| |C|Hunter| |Z|Tanaris|
+N Loot the Piles of Sand for Gahz'ridian Ornaments |N|(39.9, 73.2)| |O| |C|Hunter| |Z|Tanaris|
 N Gahz'ridian will appear on your minimap. Many can be found in and around the Eastmoon and Southmoon ruins |N|(39.9, 73.2)| |O| |C|Hunter| |Z|Tanaris|
-C Gahz'ridian |QID|3161| |OIDX|1| |N|Loot the Piles of Sand for Gahz'ridian Ornaments (39.9, 73.2)| |O| |C|Hunter| |Z|Tanaris|
+C Gahz'ridian |QID|3161| |OIDX|1| |N|Equip your [Gahz'ridian Detector] (39.9, 73.2)| |O| |C|Hunter| |Z|Tanaris|
 N Re-equip your normal Helmet |N|(52.7, 45.9)| |O| |C|Hunter| |Z|Tanaris|
 T Gahz'ridian |QID|3161| |N|Marvon - (52.7, 45.9)| |O| |C|Hunter| |Z|Tanaris|
 T More Wastewander Justice |QID|1691| |N|Bilgewhizzle - (52.4, 28.5)| |Z|Tanaris|
@@ -133,19 +140,10 @@ C If you loot the [Shattered Necklace], save it in your inventory |QID|2283| |L|
 N This can be completed INSIDE and OUTSIDE of Uldaman. |N|(ULDA Dungeon Quest)| |D|ULDA| |Z|Eastern Kingdoms|
 N It is recommended that maximum 3 players attempt to complete this quest if you're doing only 1 run. There aren't enough Magenta Fungus Capsr for everybody |N|(ULDA Dungeon Quest)| |D|ULDA| |Z|Eastern Kingdoms|
 C Uldaman Reagent Run |QID|2202| |OIDX|1| |N|Loot the Magenta Fungus Caps on the ground (ULDA Dungeon Quest)| |D|ULDA| |Z|Eastern Kingdoms|
-N This can be completed INSIDE and OUTSIDE of Uldaman. |N|(ULDA Dungeon Quest)| |D|ULDA| |Z|Eastern Kingdoms|
-N It is recommended that maximum 3 players attempt to complete this quest if you're doing only 1 run. There aren't enough Magenta Fungus Capsr for everybody |N|(ULDA Dungeon Quest)| |D|ULDA| |Z|Eastern Kingdoms|
-C Uldaman Reagent Run |QID|2202| |OIDX|1| |N|Loot the Magenta Fungus Caps on the ground (ULDA Dungeon Quest)| |D|ULDA| |Z|Eastern Kingdoms|
 N This is completed OUTSIDE of the instance portal |N|(54.1, 58.2) (ULDA Dungeon Quest)| |D|ULDA| |Z|Eastern Kingdoms|
 C Solution to Doom |QID|709| |OIDX|1| |N|the Ancient Chest. Loot it for the Tablet of Ryun'eh (54.1, 58.2) (ULDA Dungeon Quest)| |D|ULDA| |Z|Eastern Kingdoms|
 N The South Common Hall is southwest of the Uldaman instance portal |N|(53.8, 58.2) (ULDA Dungeon Quest)| |D|ULDA| |Z|Eastern Kingdoms|
 C Reclaimed Treasures |QID|2342| |OIDX|1| |N|the Garret Family Chest in the southern corner of the South Common Hall for the Garrett Family Treasure (53.8, 58.2) (ULDA Dungeon Quest)| |D|ULDA| |Z|Eastern Kingdoms|
-N This can be completed INSIDE and OUTSIDE of Uldaman |N|(ULDA Dungeon Quest)| |D|ULDA| |Z|Eastern Kingdoms|
-N It is recommended that maximum 3 players attempt to complete this quest if you're doing only 1 run. There aren't enough Magenta Fungus Capsr for everybody |N|(ULDA Dungeon Quest)| |D|ULDA| |Z|Eastern Kingdoms|
-C Uldaman Reagent Run |QID|2202| |OIDX|1| |N|Loot the Magenta Fungus Caps on the ground (ULDA Dungeon Quest)| |D|ULDA| |Z|Eastern Kingdoms|
-N This can be completed INSIDE and OUTSIDE of Uldaman |N|(ULDA Dungeon Quest)| |D|ULDA| |Z|Eastern Kingdoms|
-N It is recommended that maximum 3 players attempt to complete this quest if you're doing only 1 run. There aren't enough Magenta Fungus Capsr for everybody |N|(ULDA Dungeon Quest)| |D|ULDA| |Z|Eastern Kingdoms|
-C Uldaman Reagent Run |QID|2202| |OIDX|1| |N|Loot the Magenta Fungus Caps on the ground (ULDA Dungeon Quest)| |D|ULDA| |Z|Eastern Kingdoms|
 N This can be completed INSIDE and OUTSIDE of Uldaman |N|(ULDA Dungeon Quest)| |D|ULDA| |Z|Eastern Kingdoms|
 N It is recommended that maximum 3 players attempt to complete this quest if you're doing only 1 run. There aren't enough Magenta Fungus Capsr for everybody |N|(ULDA Dungeon Quest)| |D|ULDA| |Z|Eastern Kingdoms|
 C Uldaman Reagent Run |QID|2202| |OIDX|1| |N|Loot the Magenta Fungus Caps on the ground (ULDA Dungeon Quest)| |D|ULDA| |Z|Eastern Kingdoms|
@@ -160,6 +158,7 @@ A The Platinum Discs |QID|2280| |N|Click The Discs of Norgannon (ULDA Dungeon Qu
 T Solution to Doom |QID|709| |N|Theldurin the Lost - (51.4, 76.9) (ULDA Dungeon Quest)| |D|ULDA| |Z|Badlands|
 A To the Undercity for Yagyin's Digest |QID|728| |N|Theldurin the Lost - (51.4, 76.9) (ULDA Dungeon Quest)| |D|ULDA| |Z|Badlands|
 T Uldaman Reagent Run |QID|2202| |N|Jarkal Mossmeld - (2.4, 46.0) (ULDA Dungeon Quest)| |D|ULDA| |Z|Badlands|
+H Gadgetzan |N|Hearth to Gadgetzan (ULDA Dungeon Quest)| |D|ULDA| |Z|Badlands|
 
 ]]
 end)

@@ -12,6 +12,7 @@ f Get the Wetlands flight path |N|Shellei - (9.5, 59.7)| |R|NightElf| |Z|Wetland
 A The Third Fleet |QID|288| |N|First Mate Fitzsimmons - (10.9, 59.7)| |Z|Wetlands|
 A The Greenwarden |QID|463| |N|First Mate Fitzsimmons - (10.9, 59.7)| |Z|Wetlands|
 R Innkeeper Helbrek |N|(10.7, 61.0)| |O| |Z|Wetlands|
+h Menethil Harbor |N|Set hearth in Menethil Harbor (10.7, 61.0)| |O| |Z|Wetlands|
 N Buy a [Flagon of Dwarven Honeymead] from him |N|(10.7, 61.0)| |Z|Wetlands|
 N Restock on Food and Water if necessary |N|(10.7, 61.0)| |Z|Wetlands|
 N Buy some extra [Mutton Chops] to serve as pet food if needed |N|(10.7, 61.0)| |C|Hunter| |Z|Wetlands|
@@ -43,12 +44,14 @@ T Ormer's Revenge |QID|294| |N|Ormer Ironbraid - (38.2, 50.9)| |Z|Wetlands|
 A Ormer's Revenge |QID|295| |N|Ormer Ironbraid - (38.2, 50.9)| |Z|Wetlands|
 N This quest is HARD as the mobs are much higher level than you but the weapon you get as a reward is well worth the effort |N|(34.3, 47.8)| |C|Hunter| |Z|Wetlands|
 N I recommend using the spot from a video linked below to abuse mob pathing which will make doing the quest significantly easier |N|(34.3, 47.8)| |C|Hunter| |Z|Wetlands|
+N Click here for a reference video |N|(34.3, 47.8)| |C|Hunter| |Z|Wetlands|
 C Ormer's Revenge |QID|295| |OIDX|1| |N|Mottled Scytheclaws and Mottled Razormaws (34.3, 47.8)| |Z|Wetlands|
 T Ormer's Revenge |QID|295| |N|Ormer Ironbraid - (38.2, 50.9)| |Z|Wetlands|
 A Ormer's Revenge |QID|296| |N|Ormer Ironbraid - (38.2, 50.9)| |Z|Wetlands|
 N He is usually on the hill above the main excavation site but can sometimes patrol down |N|(33.2, 51.5)| |Z|Wetlands|
 N Be careful as he can [Thrash] hitting you 3 times at once |N|(33.2, 51.5)| |Z|Wetlands|
 N This quest is VERY HARD as he is level 29. Use the pathing spot from the previous quest to be able to kite him indefinitely |N|(33.2, 51.5)| |C|Hunter| |Z|Wetlands|
+N Click here for a reference video |N|(33.2, 51.5)| |C|Hunter| |Z|Wetlands|
 C Ormer's Revenge |QID|296| |OIDX|1| |N|Sarltooth. Loot him for his Talon (33.2, 51.5)| |Z|Wetlands|
 T Ormer's Revenge |QID|296| |N|Ormer Ironbraid - (38.2, 50.9)| |C|!Hunter| |Z|Wetlands|
 T Ormer's Revenge |QID|296| |N|Ormer Ironbraid - (38.2, 50.9)| |C|Hunter| |Z|Wetlands|
@@ -64,7 +67,12 @@ T Tramping Paws |QID|276| |N|Rethiel the Greenwarden - (56.4, 40.4)| |Z|Wetlands
 A Fire Taboo |QID|277| |N|Rethiel the Greenwarden - (56.4, 40.4)| |Z|Wetlands|
 N You will need to get to Ironforge soon. You can either run there through the Loch Modan tunnel (slower and simpler) or use Blizzards character unstuck website after hearthing back to Menethil Harbor (faster and more advanced) |O| |R|NightElf| |Z|Wetlands|
 N If you prefer the website method then start loading the website already. It usually takes a couple minutes to load. DO NOT SELECT TO MOVE YOUR CHARACTER YET |O| |R|NightElf| |Z|Wetlands|
+N Click here for video reference |O| |R|NightElf| |Z|Wetlands|
+N Click here for the unstuck link for US servers |O| |R|NightElf| |Z|Wetlands|
+N Click here for the unstuck link for EU servers |O| |R|NightElf| |Z|Wetlands|
 C Young Crocolisk Skins |QID|484| |OIDX|1| |N|Young Wetlands Crocolisks. Loot them for their Young Crocolisk Skin (64.0, 72.2)| |Z|Wetlands|
+H Menethil Harbor |N|Hearth to Menethil Harbor| |R|!NightElf| |Z|Wetlands|
+H Menethil if you wish to travel to Ironforge via the website unstuck method |N|Hearth to Menethil if you wish to travel to Ironforge via the website unstuck method| |O| |R|NightElf| |Z|Wetlands|
 N Thorgrum Borrelson |N|(33.9, 51.0)| |O| |R|NightElf| |Z|Loch Modan|
 f Get the Thelsamar flight path |N|Travel along the road towards Thelsamar - (33.9, 51.0)| |O| |R|NightElf| |Z|Loch Modan|
 R Travel south to the tunnel leading to Dun Morogh |N|(21.3, 68.6)| |O| |R|NightElf| |Z|Loch Modan|

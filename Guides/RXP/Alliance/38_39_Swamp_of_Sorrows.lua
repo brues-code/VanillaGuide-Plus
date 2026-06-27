@@ -42,8 +42,9 @@ A Encroaching Wildlife |QID|1396| |N|Watcher Biggs - (26.7, 59.8)| |Z|Swamp of S
 N The drop rate of this item is very low. Don't go out of your way to complete this quest |O| |Z|Swamp of Sorrows|
 C Mazen's Behest |QID|1364| |OIDX|1| |N|Kill Swampwalkers, Swampwalker Elders, Tangled Horrors and Mire Lords. Loot them for Khadgar's Essays| |O| |Z|Swamp of Sorrows|
 C Encroaching Wildlife |QID|1396| |OIDX|1| |N|Young Sawtooth Crocolisks, Sorrow Spinners and Swamp Jaguars (28.2, 43.8)| |O| |Z|Swamp of Sorrows|
-C Noboru the Cudgel. Loot him for [Noboru's Cudgel] |QID|1392| |L|6196 1| |N|Noboru the Cudgel patrols a large section of Swamp of Sorrows. The patrol path is marked on your map. He spawns where the patrol route starts on the eastern point (55.5, 36.8)| |Z|Swamp of Sorrows|
-A Noboru the Cudgel |QID|1392| |N|Noboru the Cudgel patrols a large section of Swamp of Sorrows. The patrol path is marked on your map. He spawns where the patrol route starts on the eastern point - (55.5, 36.8)| |Z|Swamp of Sorrows|
+N Noboru the Cudgel patrols a large section of Swamp of Sorrows. The patrol path is marked on your map. He spawns where the patrol route starts on the eastern point |N|(55.5, 36.8)| |Z|Swamp of Sorrows|
+C Noboru the Cudgel. Loot him for [Noboru's Cudgel] |QID|1392| |L|6196 1| |N|Use [Noboru's Cudgel] to start the quest (55.5, 36.8)| |Z|Swamp of Sorrows|
+A Noboru the Cudgel |QID|1392| |N|Use [Noboru's Cudgel] to start the quest - (55.5, 36.8)| |Z|Swamp of Sorrows|
 T Noboru the Cudgel |QID|1392| |N|Magtoor - (26.0, 31.4)| |Z|Swamp of Sorrows|
 A Draenethyst Crystals |QID|1389| |N|Magtoor - (26.0, 31.4)| |Z|Swamp of Sorrows|
 N Grind Swampwalkers in the Misty Valley(marked on your map) to wait for Whelp respawns if you don't loot 10 dream dust and there is no more mobs |N|(8.7, 32.4)| |O| |Z|Swamp of Sorrows|
@@ -72,6 +73,7 @@ T Draenethyst Crystals |QID|1389| |N|(26.0, 31.4)| |O| |Z|Swamp of Sorrows|
 T The Lost Caravan |QID|1421| |N|(26.7, 59.8)| |Z|Swamp of Sorrows|
 N Be careful not to run too close to Stonard on your way there. Avoid fighting any of the higher level dragonkin on the way as well |N|(67.0, 47.0)| |Z|Swamp of Sorrows|
 C In Search of The Temple |QID|1448| |OIDX|1| |N|Swim to the middle of the Pool of Tears (67.0, 47.0)| |Z|Swamp of Sorrows|
+H Booty Bay |N|Hearth to Booty Bay| |O| |Z|Swamp of Sorrows|
 N Buy food/water if needed |O| |C|!Warrior/!Rogue| |Z|Swamp of Sorrows|
 N Buy food if needed |O| |C|Warrior/Rogue| |Z|Swamp of Sorrows|
 t Train your class spells |N|Ian Strom up stairs - (26.8, 77.1)| |C|Rogue| |Z|Stranglethorn Vale|

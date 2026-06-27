@@ -15,6 +15,7 @@ R the path leading to Nijel's Point in Desolace |N|(67.3, 15.0)| |Z|Desolace|
 A Vahlarriel's Search |QID|1437| |N|Vahlarriel Demonslayer - (66.4, 11.8)| |Z|Desolace|
 f Get the Desolace Flight Path |N|Baritanas Skyriver - (64.7, 10.5)| |Z|Desolace|
 N Innkeeper Lyshaerya |N|(66.3, 6.6)| |Z|Desolace|
+h Nijel's Point |N|Set hearth in Nijel's Point (66.3, 6.6)| |Z|Desolace|
 B Restock on  [Razor Arrows] if needed |N|Christi Galvanis - (66.6, 6.8)| |C|Hunter| |Z|Desolace|
 A Down the Scarlet Path |QID|261| |N|Brother Anton - (66.5, 7.9) (SM Dungeon Quest)| |D|SM| |Z|Desolace|
 T Reclaimers' Business in Desolace |QID|1453| |N|Kreldig Ungor - (66.2, 9.6)| |Z|Desolace|
@@ -37,6 +38,7 @@ A Claim Rackmore's Treasure! |QID|6161| |N|Rackmore's Log on the small barrel - 
 N Buff yourself with [Underwater Breathing] |N|(33.2, 31.6)| |C|Warlock| |Z|Desolace|
 N Use an [Elixir of Water Breathing] if you have one |N|(33.2, 31.6)| |C|!Warlock| |Z|Desolace|
 C Claim Rackmore's Treasure! |QID|6161| |OIDX|1| |N|Drysnap Pincers and Drysnap Crawlers. Loot them for Rackmore's Silver Key (33.2, 31.6)| |Z|Desolace|
+H Nijel's Point |N|Hearth to Nijel's Point| |O| |Z|Desolace|
 N Buy food/water if needed |O| |Z|Desolace|
 T The Karnitol Shipwreck |QID|1455| |N|Kreldig Ungor - (66.2, 9.6)| |Z|Desolace|
 A The Karnitol Shipwreck |QID|1456| |N|Kreldig Ungor - (66.2, 9.6)| |Z|Desolace|
@@ -68,17 +70,18 @@ N Continue killing Magram Centaurs until you've reached Friendly reputation stan
 C Centaur Bounty |QID|1387| |OIDX|1| |N|Magram Centaurs. Loot them for their Ears (69.4, 73.4)| |Z|Desolace|
 C Strange Alliance |QID|1382| |OIDX|1| |N|Magram Centaurs. Loot them for their Ears (69.4, 73.4)| |Z|Desolace|
 C Down the Scarlet Path |QID|261| |OIDX|1| |N|Undead Ravagers (64.0, 91.7) (SM Dungeon Quest)| |D|SM| |Z|Desolace|
+N You may only take 1 Tamed Kodo back at a time |N|(60.9, 61.9)| |O| |Z|Desolace|
 N While you can't have more than one tamed kodo following you at the time it's possible to use the item in combat as long as you dont take damage. You can try kiting multiple at a time and have your pet hold aggro while you tame them next to the quest giver |N|(60.9, 61.9)| |O| |C|Warlock/Hunter| |Z|Desolace|
 N the Tamed Kodo once you've taken it back to Smeed |N|(60.9, 61.9)| |O| |Z|Desolace|
-C Kodo Roundup |QID|5561| |OIDX|1| |N|You may only take 1 Tamed Kodo back at a time (60.9, 61.9)| |O| |Z|Desolace|
+C Kodo Roundup |QID|5561| |OIDX|1| |N|Use the [Kodo Kombobulator] on Ancient Kodos and Dying Kodos. Take them back to Smeed (60.9, 61.9)| |O| |Z|Desolace|
 T Kodo Roundup |QID|5561| |N|Smeed Scrabblescrew - (60.9, 61.9)| |O| |Z|Desolace|
 N Looting them may cause Kodo Apparitions to spawn. Kodo Apparitions do not drop Kodo Bones |N|(52.5, 58.6)| |Z|Desolace|
 C Bone Collector |QID|5501| |OIDX|1| |N|Kodo Bones around the graveyard (52.5, 58.6)| |Z|Desolace|
+N You may only take 1 Tamed Kodo back at a time |N|(60.9, 61.9)| |Z|Desolace|
 N While you can't have more than one tamed kodo following you at the time it's possible to use the item in combat as long as you dont take damage. You can try kiting multiple at a time and have your pet hold aggro while you tame them next to the quest giver |N|(60.9, 61.9)| |C|Warlock/Hunter| |Z|Desolace|
 N the Tamed Kodo once you've taken it back to Smeed |N|(60.9, 61.9)| |Z|Desolace|
-C Kodo Roundup |QID|5561| |OIDX|1| |N|You may only take 1 Tamed Kodo back at a time (60.9, 61.9)| |Z|Desolace|
+C Kodo Roundup |QID|5561| |OIDX|1| |N|Use the [Kodo Kombobulator] on Ancient Kodos and Dying Kodos. Take them back to Smeed (60.9, 61.9)| |Z|Desolace|
 T Kodo Roundup |QID|5561| |N|Smeed Scrabblescrew - (60.9, 61.9)| |Z|Desolace|
-T Strange Alliance |QID|1382| |N|Uthek the Wise - (36.2, 79.2)| |Z|Desolace|
 T Bone Collector |QID|5501| |N|Bibbly F'utzbuckle - (62.3, 39.0)| |Z|Desolace|
 N Kill Aged Kodos. Loot them for their Aged Kodo Hides |N|(70.4, 63.0)| |Z|Desolace|
 N You may need to kill Gritjaw Basilisks to force Scorpashi Snappers and Scorpashi Lashers to spawn |N|(70.4, 63.0)| |Z|Desolace|
@@ -96,6 +99,7 @@ C The Karnitol Shipwreck |QID|1456| |OIDX|1| |N|Slitherblade Tidehunters and Sli
 C Claim Rackmore's Treasure! |QID|6161| |OIDX|2| |N|the Slitherblades. Loot them for Rackmore's Golden Key (30.8, 8.0)| |Z|Desolace|
 T Claim Rackmore's Treasure! |QID|6161| |N|(30.0, 8.7)| |Z|Desolace|
 T Book of the Ancients |QID|6027| |N|Azore Aldamort - (38.9, 27.2)| |Z|Desolace|
+H Nijel's Point |N|Hearth to Nijel's Point| |O| |Z|Desolace|
 N Buy food/water if needed |O| |Z|Desolace|
 R Shelgrayn |N|(65.6, 7.8)| |O| |C|Hunter| |Z|Desolace|
 T The Karnitol Shipwreck |QID|1456| |N|Kreldig Ungor - (66.2, 9.6)| |Z|Desolace|
@@ -106,14 +110,12 @@ T Reagents for Reclaimers Inc. |QID|1459| |N|Kreldig Ungor - (66.2, 9.6)| |Z|Des
 T Centaur Bounty |QID|1387| |N|Corporal Melkins - (66.7, 10.9)| |Z|Desolace|
 T Return to Vahlarriel |QID|1440| |N|Vahlarriel Demonslayer - (66.4, 11.8)| |Z|Desolace|
 t Attack mobs with it to learn [Claw (Rank 5)] |N|Cast [Tame Beast] on a Scorpashi Lasher to tame it - (78.8, 15.8)| |C|Hunter| |Z|Desolace|
+N Click here for more info about pet training |N|(78.8, 15.8)| |C|Hunter| |Z|Desolace|
+N Die and respawn at the Spirit Healer at the Kodo Graveyard |O| |Z|Desolace|
 T Strange Alliance |QID|1382| |N|Uthek the Wise - (36.2, 79.2)| |Z|Desolace|
-R Shelgrayn |N|(65.6, 7.8)| |O| |C|Hunter| |Z|Desolace|
-N Use [Eagle Eye] to scout the spawn spots north of Sargeron (marked on your map) as they're much closer than the southen spawns |N|(78.8, 15.8)| |C|Hunter| |Z|Desolace|
-t Attack mobs with it to learn [Claw (Rank 5)] |N|Cast [Tame Beast] on a Scorpashi Lasher to tame it - (78.8, 15.8)| |C|Hunter| |Z|Desolace|
-R Shelgrayn |N|(65.6, 7.8)| |C|Hunter| |Z|Desolace|
-F Fly to Tanaris |N|Baritanas Skyriver - (64.7, 10.5)| |Z|Desolace|
 R Travel to Feralas |N|(45.4, 3.1)| |Z|Feralas|
 R Once you get to Feralas, walk along the mountains to the west to avoid aggroing mobs and then die near the stone obelisks |N|(40.6, 8.6)| |O| |Z|Feralas|
+N Die and respawn at the Spirit Healer at Feathermoon |N|(40.6, 8.6)| |O| |Z|Feralas|
 f Get the Feathermoon Flight Path |N|Fyldren Moonfeather - (30.2, 43.2)| |Z|Feralas|
 F Fly to Tanaris |N|Fyldren Moonfeather - (30.2, 43.2)| |Z|Feralas|
 R The Shimmering Flats |N|(77.8, 77.3)| |O| |Z|Thousand Needles|

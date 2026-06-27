@@ -12,10 +12,11 @@ T Akiris by the Bundle |QID|623| |N|Privateer Groy - (67.7, 51.7)| |Z|Dustwallow
 t Train your class spells |N|Captain Evencane up stairs in the Keep - (67.9, 48.4)| |C|Warrior| |Z|Dustwallow Marsh|
 t Train your class spells |N|Brother Karman - (67.4, 47.4)| |C|Paladin| |Z|Dustwallow Marsh|
 A Triage |QID|6624| |N|Doctor Gustaf VanHowzen - (67.8, 49.0)| |Z|Dustwallow Marsh|
-C Triage |QID|6624| |OIDX|1| |N|(67.8, 49.0)| |Z|Dustwallow Marsh|
+C Triage |QID|6624| |OIDX|1| |N|Channel the [Triage Bandage] on the Alliance Soldiers. Prioritize Critically Injured Soldiers first (67.8, 49.0)| |Z|Dustwallow Marsh|
 T Triage |QID|6624| |N|Doctor Gustaf VanHowzen - (67.8, 49.0)| |Z|Dustwallow Marsh|
 T ... and Bugs |QID|1258| |N|Morgan Stern - (66.3, 45.5)| |Z|Dustwallow Marsh|
 N Innkeeper Janene |N|(66.6, 45.2)| |Z|Dustwallow Marsh|
+h Theramore |N|Set hearth in Theramore (66.6, 45.2)| |Z|Dustwallow Marsh|
 F Fly to Tanaris |N|Baldruc - (67.5, 51.3)| |Z|Dustwallow Marsh|
 A Wastewander Justice |QID|1690| |N|Chief Engineer Bilgewhizzle and Spigot Operator Luglunket - (52.5, 28.5)| |Z|Dustwallow Marsh|
 R Travel to Tanaris |N|(52.5, 28.5)| |Z|Tanaris|
@@ -62,12 +63,12 @@ C The Prophecy of Mosh'aru |QID|3527| |OIDX|1| |N|Kill Theka the Martyr. Loot hi
 C Scarab Shells |QID|2865| |OIDX|1| |N|(ZF Dungeon Quest)| |D|ZF| |Z|Tanaris|
 N Use the Executioner's Key on one of the Troll Cages to free Sergeant Bly and his band |N|(ZF Dungeon Quest)| |D|ZF| |Z|Tanaris|
 C Ascend the Pyramid |L|8444 1| |N|Anyone in the party may loot the Key (ZF Dungeon Quest)| |D|ZF| |Z|Tanaris|
-N After you kill Nekrum Gutchewer, eat and drink then Sergeant Bly to fight him |N|(ZF Dungeon Quest)| |D|ZF| |Z|Tanaris|
+N After you kill Nekrum Gutchewer, eat and drink then talk to Sergeant Bly to fight him |N|(ZF Dungeon Quest)| |D|ZF| |Z|Tanaris|
 N Kill Sergeant Bly. Loot him for the Divino-matic Rod |N|(ZF Dungeon Quest)| |D|ZF| |Z|Tanaris|
 C Kill Nekrum Gutchewer. Loot him for Nekrum's Medallion |QID|2991| |OIDX|1| |N|Kill Nekrum Gutchewer. Loot him for Nekrum's Medallion (ZF Dungeon Quest)| |D|ZF| |Z|Tanaris|
 C Divino-matic Rod |QID|2768| |OIDX|1| |N|Kill Nekrum Gutchewer. Loot him for Nekrum's Medallion (ZF Dungeon Quest)| |D|ZF| |Z|Tanaris|
 C Kill Nekrum Gutchewer. Loot him for Nekrum's Medallion |QID|2991| |OIDX|1| |N|Kill Nekrum Gutchewer. Loot him for Nekrum's Medallion (ZF Dungeon Quest)| |D|ZF| |Z|Tanaris|
-N Kill Nekrum Gutchewer. Eat and drink then Sergeant Bly to fight him |N|(ZF Dungeon Quest)| |D|ZF| |Z|Tanaris|
+N Kill Nekrum Gutchewer. Eat and drink then talk to Sergeant Bly to fight him |N|(ZF Dungeon Quest)| |D|ZF| |Z|Tanaris|
 N Kill Sergeant Bly. Loot him for the Divino-matic Rod |N|(ZF Dungeon Quest)| |D|ZF| |Z|Tanaris|
 C Divino-matic Rod |QID|2768| |OIDX|1| |N|Defend Sergeant Bly and his band, then move down with them after a short period of time (ZF Dungeon Quest)| |D|ZF| |Z|Tanaris|
 C Kill Hydromancer Velratha. Loot her for the Tiara of the Deep and the Second Mosh'aru Tablet |QID|2846| |OIDX|1| |N|Kill Hydromancer Velratha. Loot her for the Tiara of the Deep and the Second Mosh'aru Tablet (ZF Dungeon Quest)| |D|ZF| |Z|Tanaris|
@@ -84,6 +85,7 @@ T Scarab Shells |QID|2865| |N|Tran'rek - (51.6, 26.8) (ZF Dungeon Quest)| |D|ZF|
 T The Prophecy of Mosh'aru |QID|3527| |N|Yeh'kinya - (67.0, 22.4) (ZF Dungeon Quest)| |D|ZF| |Z|Tanaris|
 R Travel to Thousand Needles |N|(77.8, 77.3) (ZF Dungeon Quest)| |D|ZF| |Z|Thousand Needles|
 T Gahz'rilla |QID|2770| |N|Wizzle Brassbolts - (78.1, 77.1) (ZF Dungeon Quest)| |D|ZF| |Z|Thousand Needles|
+H Theramore |N|Hearth to Theramore| |Z|Thousand Needles|
 N Buy food/water if needed |Z|Thousand Needles|
 R Swim west towards Tabetha |N|(55.3, 50.5)| |O| |C|Warlock| |Z|Dustwallow Marsh|
 T Fragments of the Orb of Orahil |QID|1799| |N|Tabetha - (46.0, 57.1)| |C|Warlock| |Z|Dustwallow Marsh|
@@ -94,6 +96,7 @@ T Cleansing of the Orb of Orahil |QID|4961| |N|Tabetha - (46.0, 57.1)| |C|Warloc
 A Returning the Cleansed Orb |QID|4976| |N|Tabetha - (46.0, 57.1)| |C|Warlock| |Z|Dustwallow Marsh|
 T Cortello's Riddle |QID|625| |N|the Musty Scroll on the rock - (31.1, 66.1)| |Z|Dustwallow Marsh|
 A Cortello's Riddle |QID|626| |N|the Musty Scroll on the rock - (31.1, 66.1)| |Z|Dustwallow Marsh|
+N Die and respawn at the Spirit Healer in Theramore |O| |Z|Dustwallow Marsh|
 F Fly to Ratchet |N|Baldruc - (67.5, 51.3)| |Z|Dustwallow Marsh|
 R Travel to The Barrens |N|(62.5, 35.4)| |C|Warlock| |Z|The Barrens|
 N Menara Voidrender |N|(62.5, 35.4)| |C|Warlock| |Z|The Barrens|

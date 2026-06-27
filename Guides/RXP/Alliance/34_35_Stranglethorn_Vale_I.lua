@@ -11,6 +11,7 @@ T Passage to Booty Bay |QID|1040| |N|Caravaneer Ruzzgot - (27.4, 74.1)| |Z|Stran
 A The Caravan Road |QID|1041| |N|Caravaneer Ruzzgot - (27.4, 74.1)| |Z|Stranglethorn Vale|
 A Singing Blue Shards |QID|605| |N|Crank Fizzlebub - (27.1, 77.2)| |Z|Stranglethorn Vale|
 R Innkeeper Skindle |N|(27.0, 77.3)| |Z|Stranglethorn Vale|
+h Booty Bay |N|Set hearth in Booty Bay (27.0, 77.3)| |Z|Stranglethorn Vale|
 A Hostile Takeover |QID|213| |N|Kebok and Krazek up stairs on the top floor - (27.0, 77.1)| |Z|Stranglethorn Vale|
 A Supplies to Private Thorsen |QID|198| |N|Kebok and Krazek up stairs on the top floor - (27.0, 77.1)| |Z|Stranglethorn Vale|
 A Investigate the Camp |QID|201| |N|Kebok and Krazek up stairs on the top floor - (27.0, 77.1)| |Z|Stranglethorn Vale|
@@ -85,6 +86,7 @@ C Raptor Mastery |QID|194| |OIDX|1| |N|Stranglethorn Raptors (27.2, 16.1)| |Z|St
 N Crystal Spine Basilisks will cast [Crystal Gaze] which is a 6 second long stun. Simply move out of their melee range when they begin to cast to avoid it |N|(25.5, 17.7)| |Z|Stranglethorn Vale|
 C Singing Blue Shards |QID|605| |OIDX|1| |N|Crystal Spine Basilisks. Loot them for their Shards (25.5, 17.7)| |Z|Stranglethorn Vale|
 C The Stone of the Tides |QID|578| |OIDX|1| |N|the Haunted Island (21.6, 21.8)| |Z|Stranglethorn Vale|
+N Die and respawn at the Spirit Healer |O| |Z|Stranglethorn Vale|
 R Nesingwary's Expedition |N|(35.7, 10.8)| |O| |Z|Stranglethorn Vale|
 T Raptor Mastery |QID|194| |N|Hemet Nesingwary, Ajeck Rouack and Sir S. J. Erlgadin - (35.7, 10.8)| |Z|Stranglethorn Vale|
 A Raptor Mastery |QID|195| |N|Hemet Nesingwary, Ajeck Rouack and Sir S. J. Erlgadin - (35.7, 10.8)| |Z|Stranglethorn Vale|
@@ -95,6 +97,7 @@ A Panther Mastery |QID|192| |N|(35.6, 10.6)| |Z|Stranglethorn Vale|
 N Loganaar |N|(52.5, 40.6)| |C|Druid| |Z|Stranglethorn Vale|
 R Travel to Moonglade |N|(52.5, 40.6)| |C|Druid| |Z|Moonglade|
 t Train your class spells |N|Teleport to Moonglade - (52.5, 40.6)| |C|Druid| |Z|Moonglade|
+H Booty Bay |N|Hearth to Booty Bay| |O| |Z|Moonglade|
 N Buy food/water if needed |O| |C|!Warrior/!Rogue| |Z|Moonglade|
 N Buy food if needed |O| |C|Warrior/Rogue| |Z|Moonglade|
 T Singing Blue Shards |QID|605| |N|Crank Fizzlebub - (27.1, 77.2)| |Z|Stranglethorn Vale|
@@ -118,6 +121,7 @@ T The Carevin Family |QID|1042| |N|(75.2, 48.8)| |Z|Duskwood|
 A The Scythe of Elune |QID|1043| |N|(75.2, 48.8)| |Z|Duskwood|
 R Roland's Doom |N|(73.2, 76.2)| |O| |Z|Duskwood|
 C The Scythe of Elune |QID|1043| |OIDX|1| |N|(73.5, 79.1)| |Z|Duskwood|
+N Die and respawn at the Spirit Healer |O| |C|!Hunter| |Z|Duskwood|
 R Darkshire |N|(75.2, 48.8)| |O| |Z|Duskwood|
 T The Scythe of Elune |QID|1043| |N|(75.2, 48.8)| |Z|Duskwood|
 R Travel to Stormwind City |N|(43.1, 80.4)| |O| |C|Mage| |Z|Stormwind City|

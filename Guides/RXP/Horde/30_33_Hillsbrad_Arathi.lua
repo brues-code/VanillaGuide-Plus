@@ -69,7 +69,6 @@ N Be careful of their Frost Nova and Frostbolt |N|(29.6, 42.3)| |Z|Hillsbrad Foo
 C Battle of Hillsbrad |QID|532| |OIDX|2| |N|Finish killing Hillsbrad Councilmen (29.6, 42.3)| |Z|Hillsbrad Foothills|
 T Battle of Hillsbrad |QID|532| |N|Darthalia - (62.4, 20.3)| |Z|Hillsbrad Foothills|
 A Battle of Hillsbrad |QID|539| |N|Darthalia - (62.4, 20.3)| |Z|Hillsbrad Foothills|
-T Helcular's Revenge |QID|552| |N|Thaivand - (63.9, 19.7)| |Z|Hillsbrad Foothills|
 T Helcular's Revenge |QID|552| |N|Novice Thaivand - (63.9, 19.7)| |Z|Hillsbrad Foothills|
 A Helcular's Revenge |QID|553| |N|Novice Thaivand - (63.9, 19.7)| |Z|Hillsbrad Foothills|
 N Buy [Razor Arrows] from him |N|(62.6, 19.9)| |C|Hunter| |Z|Hillsbrad Foothills|
@@ -98,6 +97,7 @@ C Stone Tokens |QID|556| |OIDX|1| |N|Finish killing the Dalaran Humanoids. Loot 
 N [Fresh Carcass] disappears after 30 minutes |N|(41.8, 76.6)| |O| |Z|Alterac Mountains|
 C Mountain Lions. Loot them for a [Fresh Carcass] |L|5810 1| |N|Mountain Lions. Loot them for a [Fresh Carcass] - (41.8, 76.6)| |O| |Z|Alterac Mountains|
 C Helcular's Revenge |QID|553| |OIDX|3| |N|Charge the Flame of Uzel inside the Growless Cave (37.5, 66.2)| |Z|Alterac Mountains|
+N Frostmaw is level 37. Clear a kiting path outside the cave before summoning him! |N|(37.6, 68.2)| |Z|Alterac Mountains|
 N This quest is HARD! You could postpone this until after Arathi when you are 1-2 levels higher |N|(37.6, 68.2)| |Z|Alterac Mountains|
 N Place a [Frost Trap] outside to kite him easily |N|(37.6, 68.2)| |C|Hunter| |Z|Alterac Mountains|
 N Use [Kidney Shot] and [Gouge] to run away from him to use [Thrown] and to restore energy. Save [Evasion] and [Sprint] for when he dodges both |N|(37.6, 68.2)| |C|Rogue| |Z|Alterac Mountains|
@@ -107,8 +107,7 @@ N Use your mana mainly on [Shadow Word Pain] and healing as he is likely to resi
 N Use [Fear] as much as possible but remember that he will resist spells at a high frequency |N|(37.6, 68.2)| |C|Warlock| |Z|Alterac Mountains|
 N Stay in [Bear Form] as much as possible, only come out to heal |N|(37.6, 68.2)| |C|Druid| |Z|Alterac Mountains|
 N Don't waste mana on Shock abilities, he will resist too much. Try to kite him with [Earthbind Totem] and save mana for healing |N|(37.6, 68.2)| |C|Shaman| |Z|Alterac Mountains|
-C Frostmaw |QID|1136| |OIDX|1| |N|Frostmaw is level 37. Clear a kiting path outside the cave before summoning him! (37.6, 68.2)| |Z|Alterac Mountains|
-C Frostmaw |QID|1136| |OIDX|1| |N|(37.6, 68.2)| |Z|Alterac Mountains|
+C Frostmaw |QID|1136| |OIDX|1| |N|Use the [Fresh Carcass] inside Growless Cave to summon Frostmaw. Kill him and loot him for his Mane (37.6, 68.2)| |Z|Alterac Mountains|
 R Travel to Hillsbrad Foothills |N|(46.2, 31.9)| |Z|Hillsbrad Foothills|
 C Helcular's Revenge |QID|553| |OIDX|1| |N|Charge the Flame of Azel inside the Darrow Hill cave (43.9, 28.1)| |Z|Hillsbrad Foothills|
 N It's located on the lower floor on the Northern side of the cave |N|(44.2, 26.7)| |Z|Hillsbrad Foothills|
@@ -162,6 +161,7 @@ A Foul Magics |QID|671| |N|Tor'gan - (74.6, 36.3)| |Z|Arathi Highlands|
 R Tharlidun |N|(73.9, 33.1)| |O| |C|Hunter| |Z|Arathi Highlands|
 N Cast [Tame Beast] on a Plains Creeper to tame it |N|(68.5, 51.6)| |C|Hunter| |Z|Arathi Highlands|
 t Attack mobs with it to learn [Bite (Rank 5)] |N|Cast [Eagle Eye] to try and find a Plains Creeper. Some of their locations are marked on your map - (68.5, 51.6)| |C|Hunter| |Z|Arathi Highlands|
+N Click here for more info about pet training |N|(68.5, 51.6)| |C|Hunter| |Z|Arathi Highlands|
 t Training (17265) |N|Tharlidun - (73.9, 33.1)| |C|Hunter| |Z|Arathi Highlands|
 N Be careful of the Highland Trashers, as they actually [Thrash] |O| |Z|Arathi Highlands|
 C Raising Spirits |QID|672| |OIDX|1| |N|Kill any Highland Raptor that you encounter. Loot them for their Eyes| |O| |Z|Arathi Highlands|
@@ -188,6 +188,7 @@ A Battle of Hillsbrad |QID|550| |N|Darthalia - (62.4, 20.3)| |Z|Hillsbrad Foothi
 R Travel to Alterac Mountains |N|(42.8, 83.0)| |O| |Z|Alterac Mountains|
 N [Fresh Carcass] disappears after 30 minutes |N|(41.8, 76.6)| |O| |Z|Alterac Mountains|
 C Mountain Lions. Loot them for a [Fresh Carcass] |L|5810 1| |N|Mountain Lions. Loot them for a [Fresh Carcass] - (41.8, 76.6)| |O| |Z|Alterac Mountains|
+N Frostmaw is level 37. Clear a kiting path outside the cave before summoning him! |N|(37.6, 68.2)| |Z|Alterac Mountains|
 N Place a [Frost Trap] outside to kite him easily |N|(37.6, 68.2)| |C|Hunter| |Z|Alterac Mountains|
 N Use [Kidney Shot] and [Gouge] to run away from him to use [Thrown] and to restore energy. Save [Evasion] and [Sprint] for when he dodges both |N|(37.6, 68.2)| |C|Rogue| |Z|Alterac Mountains|
 N Use [Retaliation] if you have it up. Use [Intimidating Shout] to get a full bandage off, but make sure he has no [Bleeds] when you do so |N|(37.6, 68.2)| |C|Warrior| |Z|Alterac Mountains|
@@ -196,8 +197,7 @@ N Use your mana mainly on [Shadow Word Pain] and healing as he is likely to resi
 N Use [Fear] as much as possible but remember that he will resist spells at a high frequency |N|(37.6, 68.2)| |C|Warlock| |Z|Alterac Mountains|
 N Stay in [Bear Form] as much as possible, only come out to heal |N|(37.6, 68.2)| |C|Druid| |Z|Alterac Mountains|
 N Don't waste mana on Shock abilities, he will resist too much. Try to kite him with [Earthbind Totem] and save mana for healing |N|(37.6, 68.2)| |C|Shaman| |Z|Alterac Mountains|
-C Frostmaw |QID|1136| |OIDX|1| |N|Frostmaw is level 37. Clear a kiting path outside the cave before summoning him! (37.6, 68.2)| |Z|Alterac Mountains|
-C Frostmaw |QID|1136| |OIDX|1| |N|(37.6, 68.2)| |Z|Alterac Mountains|
+C Frostmaw |QID|1136| |OIDX|1| |N|Use the [Fresh Carcass] inside Growless Cave to summon Frostmaw. Kill him and loot him for his Mane (37.6, 68.2)| |Z|Alterac Mountains|
 F Fly to the Undercity |N|Zarise - (60.1, 18.6)| |O| |C|!Mage| |Z|Hillsbrad Foothills|
 T To Steal From Thieves |QID|1164| |N|Genavie Callow - (63.8, 49.5)| |Z|Undercity|
 N Buy three [Elixir of Water Breathing] |N|(64.2, 49.6)| |C|!Shaman| |Z|Undercity|
@@ -221,6 +221,7 @@ C Combine the two pendants at the Shrine of Remulos for the Pendant of the Sea L
 T Trial of the Sea lion |QID|30| |N|Dendrite - (56.2, 30.6)| |O| |C|Druid| |Z|Moonglade|
 A Aquatic Form |QID|31| |N|Dendrite - (56.2, 30.6)| |O| |C|Druid| |Z|Moonglade|
 t Train your class spells |N|Loganaar - (52.5, 40.6)| |C|Druid| |Z|Moonglade|
+H Freewind Post |N|Hearth to Freewind Post| |O| |Z|Moonglade|
 B Sell your junk, then restock on food and water if necessary |N|Innkeeper Abeqwa - (46.1, 51.5)| |C|!Rogue/!Warrior| |Z|Thousand Needles|
 B Sell your junk, then restock on food if necessary |N|Innkeeper Abeqwa - (46.1, 51.5)| |C|Rogue/Warrior| |Z|Thousand Needles|
 F Fly to Thunder Bluff |N|Nyse - (45.1, 49.1)| |O| |C|Druid| |Z|Thousand Needles|

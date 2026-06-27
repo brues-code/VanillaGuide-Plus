@@ -6,13 +6,12 @@ N 59-60 Winterspring/Silithus part 2 |N|Converted from RestedXP guide|
 
 F Fly to Un'Goro Crater |N|Cloud Skydancer - (50.6, 34.4)| |O| |Z|Silithus|
 T It's Dangerous to Go Alone |QID|3962| |N|Linken - (44.7, 8.1)| |Z|Un'Goro Crater|
-F Fly to Un'Goro Crater |N|Cloud Skydancer - (50.6, 34.4)| |O| |Z|Silithus|
-T It's Dangerous to Go Alone |QID|3962| |N|Linken - (44.7, 8.1)| |Z|Un'Goro Crater|
 R Travel to Silithus |N|(50.6, 34.4)| |O| |Z|Silithus|
 F Fly to Tanaris |N|Cloud Skydancer or Gryfe - (45.2, 5.8)| |O| |Z|Un'Goro Crater|
 T Pawn Captures Queen |QID|4507| |N|Alchemist Pestlezugg - (50.9, 27.0)| |Z|Tanaris|
 A Calm Before the Storm |QID|4508| |N|Alchemist Pestlezugg - (50.9, 27.0)| |Z|Tanaris|
 T Super Sticky |QID|4504| |N|Tran'rek - (51.6, 26.8)| |Z|Tanaris|
+H Everlook |N|Hearth to Everlook| |Z|Tanaris|
 N Buy food/water if needed |C|!Warrior/!Rogue| |Z|Tanaris|
 N Buy food if needed |C|Warrior/Rogue| |Z|Tanaris|
 T Chillwind Horns |QID|4809| |N|Felnok Steelspring - (61.6, 38.6)| |Z|Winterspring|
@@ -53,6 +52,7 @@ N Try to ensure all party members have the same quests and prequests complete, a
 C Remember to take out [Black Dragonflight Molt] from your bank if you completed the quest in Searing Gorge for it earlier. You will need it shortly |QID|4022| |L|10575 1| |N|(BRD Dungeon Quest)| |D|BRD| |Z|Darnassus|
 N If you have a Mage in your group you will set your Hearth to Lakeshire instead |N|(18.1, 51.6) (BRD Dungeon Quest)| |D|BRD| |Z|Darnassus|
 R Travel to Ironforge |N|(18.1, 51.6) (BRD Dungeon Quest)| |D|BRD| |Z|Ironforge|
+h Ironforge |N|Set hearth in Ironforge (18.1, 51.6) (BRD Dungeon Quest)| |D|BRD| |Z|Ironforge|
 A Kharan Mighthammer |QID|4341| |N|King Magni Bronzebeard - (39.1, 56.2) (BRD Dungeon Quest)| |D|BRD| |Z|Ironforge|
 T A Little Slime Goes a Long Way |QID|4513| |N|Laris Geardawdle - (75.8, 23.4) (BRD Dungeon Quest)| |D|BRD| |Z|Ironforge|
 A Hurley Blackbreath |QID|4126| |N|Ragnar Thunderbrew - (46.8, 52.4) (BRD Dungeon Quest)| |D|BRD| |Z|Dun Morogh|
@@ -64,7 +64,7 @@ A Overmaster Pyron |QID|4262| |N|Jalinda Sprig - (85.4, 70.1) (BRD Dungeon Quest
 N Select the option: "I present you with proof of my deeds, Cyrus." |N|(95.1, 31.6) (BRD Dungeon Quest)| |D|BRD| |Z|Burning Steppes|
 A A Taste of Flame |QID|4022| |N|Cyrus Therepentous - (95.1, 31.6) (BRD Dungeon Quest)| |D|BRD| |Z|Burning Steppes|
 T A Taste of Flame |QID|4022| |N|Cyrus Therepentous - (95.1, 31.6) (BRD Dungeon Quest)| |D|BRD| |Z|Burning Steppes|
-N If you are missing the [Black Dragonflight Molt] and cannot complete the quest, Cyrus and select the option: "I do not possess any proof, Cyrus." |N|(95.1, 31.6) (BRD Dungeon Quest)| |D|BRD| |Z|Burning Steppes|
+N If you are missing the [Black Dragonflight Molt] and cannot complete the quest, talk to Cyrus and select the option: "I do not possess any proof, Cyrus." |N|(95.1, 31.6) (BRD Dungeon Quest)| |D|BRD| |Z|Burning Steppes|
 N This will spawn a level 54 Elite Dragon at the entrance of the small cave. Ensure you have party members with you to help kill it, then loot it for the [Black Dragonflight Molt] |N|(95.1, 31.6) (BRD Dungeon Quest)| |D|BRD| |Z|Burning Steppes|
 N Select the option after: "I present you with proof of my deeds, Cyrus." |N|(95.1, 31.6) (BRD Dungeon Quest)| |D|BRD| |Z|Burning Steppes|
 C Cyrus Therepentous |QID|4022| |L|10575 1| |N|Cyrus Therepentous - (95.1, 31.6) (BRD Dungeon Quest)| |D|BRD| |Z|Burning Steppes|
@@ -73,10 +73,6 @@ T A Taste of Flame |QID|4022| |N|Cyrus Therepentous - (95.1, 31.6) (BRD Dungeon 
 A A Taste of Flame |QID|4024| |N|Cyrus Therepentous - (95.1, 31.6) (BRD Dungeon Quest)| |D|BRD| |Z|Burning Steppes|
 A The Heart of the Mountain |QID|4123| |N|Maxwort Uberglint - (65.2, 23.9) (BRD Dungeon Quest)| |D|BRD| |Z|Burning Steppes|
 A Ribbly Screwspigot |QID|4136| |N|Yuka Screwspigot - (66.1, 22.0) (BRD Dungeon Quest)| |D|BRD| |Z|Burning Steppes|
-A Dark Iron Legacy |QID|3801| |N|Franclorn Forgewright - (48.6, 64.2) (BRD Dungeon Quest)| |D|BRD| |Z|Westfall|
-T Dark Iron Legacy |QID|3801| |N|Franclorn Forgewright - (48.6, 64.2) (BRD Dungeon Quest)| |D|BRD| |Z|Westfall|
-A Dark Iron Legacy |QID|3802| |N|Franclorn Forgewright - (48.6, 64.2) (BRD Dungeon Quest)| |D|BRD| |Z|Westfall|
-N You must have the [Emberglow Vision] debuff to see him |N|(48.6, 64.2) (BRD Dungeon Quest)| |D|BRD| |Z|Westfall|
 A Dark Iron Legacy |QID|3801| |N|Franclorn Forgewright - (48.6, 64.2) (BRD Dungeon Quest)| |D|BRD| |Z|Westfall|
 T Dark Iron Legacy |QID|3801| |N|Franclorn Forgewright - (48.6, 64.2) (BRD Dungeon Quest)| |D|BRD| |Z|Westfall|
 A Dark Iron Legacy |QID|3802| |N|Franclorn Forgewright - (48.6, 64.2) (BRD Dungeon Quest)| |D|BRD| |Z|Westfall|
@@ -101,13 +97,16 @@ T Abandoned Hope |QID|4242| |N|Marshal Maxwell - (84.7, 69.0) (BRD Dungeon Quest
 T Overmaster Pyron |QID|4262| |N|Jalinda Sprig - (85.4, 70.1) (BRD Dungeon Quest)| |D|BRD| |Z|Burning Steppes|
 A Incendius! |QID|4263| |N|Jalinda Sprig - (85.4, 70.1) (BRD Dungeon Quest)| |D|BRD| |Z|Burning Steppes|
 C The Heart of the Mountain |QID|4123| |OIDX|1| |N|There is a trick which allows you to loot it without having to open the safe. View the link below to see how it is done (BRD Dungeon Quest)| |D|BRD| |Z|Burning Steppes|
+N Click here to see how to loot the Heart of the Mountain |N|(BRD Dungeon Quest)| |D|BRD| |Z|Burning Steppes|
 C Dark Iron Legacy |QID|3802| |OIDX|1| |N|(BRD Dungeon Quest)| |D|BRD| |Z|Burning Steppes|
 C Incendius! |QID|4263| |OIDX|1| |N|(BRD Dungeon Quest)| |D|BRD| |Z|Burning Steppes|
 T Dark Iron Legacy |QID|3802| |N|Click the Monument of Franclorn Forgewright (BRD Dungeon Quest)| |D|BRD| |Z|Burning Steppes|
+N Use the [Altered Black Dragonflight Molt] on his corpse |N|(BRD Dungeon Quest)| |D|BRD| |Z|Burning Steppes|
 C A Taste of Flame |QID|4024| |OIDX|1| |N|Kill Bael'Gar (BRD Dungeon Quest)| |D|BRD| |Z|Burning Steppes|
+N It is important you do this before killing bosses General Angerforge and Golem Lord Argelmach |N|(BRD Dungeon Quest)| |D|BRD| |Z|Burning Steppes|
 N If you still have not found this by now clear around the Detention Block until it drops |N|(BRD Dungeon Quest)| |D|BRD| |Z|Burning Steppes|
-C Dwarves at BRD. Loot them for [A Crumpled Up Note] |QID|4264| |L|11446 1| |N|It is important you do this before killing bosses General Angerforge and Golem Lord Argelmach (BRD Dungeon Quest)| |D|BRD| |Z|Burning Steppes|
-A A Crumpled Up Note |QID|4264| |N|It is important you do this before killing bosses General Angerforge and Golem Lord Argelmach (BRD Dungeon Quest)| |D|BRD| |Z|Burning Steppes|
+C Dwarves at BRD. Loot them for [A Crumpled Up Note] |QID|4264| |L|11446 1| |N|Use [A Crumpled Up Note] to start the quest (BRD Dungeon Quest)| |D|BRD| |Z|Burning Steppes|
+A A Crumpled Up Note |QID|4264| |N|Use [A Crumpled Up Note] to start the quest (BRD Dungeon Quest)| |D|BRD| |Z|Burning Steppes|
 T A Crumpled Up Note |QID|4264| |N|(BRD Dungeon Quest)| |D|BRD| |Z|Burning Steppes|
 A A Shred of Hope |QID|4282| |N|(BRD Dungeon Quest)| |D|BRD| |Z|Burning Steppes|
 C A Shred of Hope |QID|4282| |OIDX|1| |N|(BRD Dungeon Quest)| |D|BRD| |Z|Burning Steppes|
@@ -117,7 +116,7 @@ A Jail Break! |QID|4322| |N|ENSURE ALL PARTY MEMBERS HAVE AUTO ACCEPT OFF FOR TH
 C Jail Break! |QID|4322| |OIDX|1| |N|(BRD Dungeon Quest)| |D|BRD| |Z|Burning Steppes|
 N Kill Hurley Blackbreath. Loot him for the Lost Thunderbrew Recipe |N|(BRD Dungeon Quest)| |D|BRD| |Z|Burning Steppes|
 C Hurley Blackbreath |QID|4126| |OIDX|1| |N|Click on the 3 Thunderbrew Lager Kegs to destroy them, forcing Hurley Blackbreath and his 3 Blackbreath Cronies to engage (BRD Dungeon Quest)| |D|BRD| |Z|Burning Steppes|
-N To engage Ribbly Screwspigot have your tank him, then bring him back along with his Cronies into the room with the kegs |N|(BRD Dungeon Quest)| |D|BRD| |Z|Burning Steppes|
+N To engage Ribbly Screwspigot have your tank talk to him, then bring him back along with his Cronies into the room with the kegs |N|(BRD Dungeon Quest)| |D|BRD| |Z|Burning Steppes|
 C Ribbly Screwspigot |QID|4136| |OIDX|1| |N|Kill Ribbly Screwspigot. Loot him for his Head (BRD Dungeon Quest)| |D|BRD| |Z|Burning Steppes|
 N Kill Hurley Blackbreath. Loot him for the Lost Thunderbrew Recipe |N|(BRD Dungeon Quest)| |D|BRD| |Z|Burning Steppes|
 C Hurley Blackbreath |QID|4126| |OIDX|1| |N|Click on the 3 Thunderbrew Lager Kegs to destroy them, forcing Hurley Blackbreath and his 3 Blackbreath Cronies to engage (BRD Dungeon Quest)| |D|BRD| |Z|Burning Steppes|
@@ -139,7 +138,7 @@ T Ribbly Screwspigot |QID|4136| |N|Yuka Screwspigot - (66.1, 22.0) (BRD Dungeon 
 N Have a Mage port you if you have one in your group |N|(84.3, 68.3) (BRD Dungeon Quest)| |D|BRD| |Z|Burning Steppes|
 F Fly to Stormwind |N|Borgun Stoutarm - (84.3, 68.3) (BRD Dungeon Quest)| |D|BRD| |Z|Burning Steppes|
 R Travel to Stormwind City |N|(70.4, 85.2) (BRD Dungeon Quest)| |D|BRD| |Z|Stormwind City|
-N Squire Rowe will call for Reginald Windsor's arrival after you him at the Gates of Stormwind |N|(69.7, 86.1) (BRD Dungeon Quest)| |D|BRD| |Z|Stormwind City|
+N Squire Rowe will call for Reginald Windsor's arrival after you talk to him at the Gates of Stormwind |N|(69.7, 86.1) (BRD Dungeon Quest)| |D|BRD| |Z|Stormwind City|
 N IF YOU ARE IN A PARTY ENSURE NO ONE AUTO ACCEPTS The Great Masquerade. AUTO ACCEPT HAS BEEN TURNED OFF FOR THIS STEP |N|(69.7, 86.1) (BRD Dungeon Quest)| |D|BRD| |Z|Stormwind City|
 T Stormwind Rendezvous |QID|6402| |N|Squire Rowe and Reginald Windsor - (69.7, 86.1) (BRD Dungeon Quest)| |D|BRD| |Z|Stormwind City|
 A The Great Masquerade |QID|6403| |N|Squire Rowe and Reginald Windsor - (69.7, 86.1) (BRD Dungeon Quest)| |D|BRD| |Z|Stormwind City|
@@ -165,6 +164,7 @@ T Guardians of the Altar |QID|4901| |N|Erelas Ambersky - (55.5, 92.0)| |C|Mage| 
 A Wildkin of Elune |QID|4902| |N|Erelas Ambersky - (55.5, 92.0)| |C|Mage| |Z|Teldrassil|
 T Glyphed Oaken Branch |QID|4986| |N|Mathrengyl Bearwalker - (35.4, 8.4)| |C|!Mage| |Z|Darnassus|
 T Wildkin of Elune |QID|4902| |N|Arch Druid Fandral Staghelm - (34.8, 9.3)| |Z|Darnassus|
+N If you encountered any issues while playing through, report them here! |Z|Darnassus|
 
 ]]
 end)

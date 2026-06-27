@@ -41,7 +41,7 @@ A Elixir of Pain |QID|501| |N|Apothecary Lydon - (61.4, 19.1)| |Z|Hillsbrad Foot
 T Journey to Tarren Mill |QID|1065| |N|Apothecary Lydon - (61.4, 19.1)| |O| |Z|Hillsbrad Foothills|
 A Blood of Innocents |QID|1066| |N|Apothecary Lydon - (61.4, 19.1)| |O| |Z|Hillsbrad Foothills|
 T Journey to Hillsbrad Foothills |QID|493| |N|Apothecary Lydon - (61.4, 19.1)| |O| |Z|Hillsbrad Foothills|
-C Complete task |QID|1536| |OIDX|1| |N|(62.2, 20.8)| |C|Shaman| |Z|Hillsbrad Foothills|
+C Use the [Empty Red Waterskin] at the well in the middle of Tarren Mill |QID|1536| |OIDX|1| |N|Use the [Empty Red Waterskin] at the well in the middle of Tarren Mill - (62.2, 20.8)| |C|Shaman| |Z|Hillsbrad Foothills|
 T Time To Strike |QID|494| |N|High Executor Darthalia - (62.4, 20.3)| |Z|Hillsbrad Foothills|
 A Battle of Hillsbrad |QID|527| |N|High Executor Darthalia - (62.4, 20.3)| |Z|Hillsbrad Foothills|
 T Time To Strike |QID|494| |N|High Executor Darthalia - (62.4, 20.3)| |O| |Z|Hillsbrad Foothills|
@@ -58,6 +58,7 @@ B Buy a [Merciless Axe] from him if it's up and you don't have it yet |N|Ott - (
 B Buy a [Broad Bladed Knife] from him if it's up and you don't have it yet |N|Ott - (60.4, 26.2)| |C|Rogue| |Z|Hillsbrad Foothills|
 R Theodore |N|(62.3, 19.7)| |O| |C|Hunter| |Z|Hillsbrad Foothills|
 t Train [Tame Beast] & [Claw (Rank 3)] & [Tame Beast] & [Bite (Rank 3)] |N|(61.8, 36.2)| |C|Hunter| |Z|Hillsbrad Foothills|
+N Click here for more info about pet training |N|(61.8, 36.2)| |C|Hunter| |Z|Hillsbrad Foothills|
 R Theodore |N|(62.3, 19.7)| |C|Hunter| |Z|Hillsbrad Foothills|
 N Avoid Elder Gray Bears and Giant Moss Creepers as they're high level and not worth killing |O| |Z|Hillsbrad Foothills|
 C Elixir of Suffering |QID|496| |OIDX|1| |N|Kill Bears and Spiders en route. Loot them for their Tongues and Ichor| |O| |Z|Hillsbrad Foothills|
@@ -202,6 +203,7 @@ A Arugal Must Die |QID|1014| |N|Dalar - (44.2, 39.8) (SFK Dungeon Quest)| |D|SFK
 T Deathstalkers in Shadowfang |QID|1098| |N|Vincent (SFK Dungeon Quest)| |D|SFK| |Z|Silverpine Forest|
 C The Book of Ur |QID|1013| |OIDX|1| |N|Loot the Book of Ur from the bookshelf in Fenrus the Devourer's room (SFK Dungeon Quest)| |D|SFK| |Z|Silverpine Forest|
 C Arugal Must Die |QID|1014| |OIDX|1| |N|Kill Archmage Arugal. Loot him for his Head (SFK Dungeon Quest)| |D|SFK| |Z|Silverpine Forest|
+N Die and respawn at the Spirit Healer |N|(SFK Dungeon Quest)| |D|SFK| |Z|Silverpine Forest|
 T Deathstalkers in Shadowfang |QID|1098| |N|Hadrec - (43.4, 40.9) (SFK Dungeon Quest)| |D|SFK| |Z|Silverpine Forest|
 T Arugal Must Die |QID|1014| |N|Dalar - (44.2, 39.8) (SFK Dungeon Quest)| |D|SFK| |Z|Silverpine Forest|
 F Fly to the Undercity |N|Karos - (45.6, 42.6) (SFK Dungeon Quest)| |C|!Mage| |D|SFK| |Z|Silverpine Forest|
@@ -214,6 +216,7 @@ t Train your class spells |N|Richard - (88.9, 15.9) (SFK Dungeon Quest)| |C|Warl
 C Combine the two pendants at the Shrine of Remulos for the Pendant of the Sea Lion |QID|30| |L|15882 1| |N|Combine the two pendants at the Shrine of Remulos for the Pendant of the Sea Lion - (36.0, 41.4)| |C|Druid| |Z|Moonglade|
 T Trial of the Sea lion |QID|30| |N|Dendrite - (56.2, 30.6)| |C|Druid| |Z|Moonglade|
 A Aquatic Form |QID|31| |N|Dendrite - (56.2, 30.6)| |C|Druid| |Z|Moonglade|
+H Thunder Bluff |N|Hearth to Thunder Bluff| |Z|Moonglade|
 
 ]]
 end)

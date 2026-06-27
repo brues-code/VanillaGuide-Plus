@@ -14,12 +14,14 @@ A Report Back to Fizzlebub |QID|1122| |N|Kravel - (77.8, 77.3)| |Z|Thousand Need
 A Thistleshrub Valley |QID|3362| |N|Tran'rek - (51.6, 26.8)| |Z|Tanaris|
 T Safety First |QID|1188| |N|Shreev - (51.0, 27.3)| |Z|Tanaris|
 A Gadgetzan Water Survey |QID|992| |N|Fizzledowser - (50.2, 27.5)| |Z|Tanaris|
-C Gadgetzan Water Survey |QID|992| |OIDX|1| |N|Be careful! Two Centipaar Tunnelers (level 48) will spawn after completion. Prepare to run away from them (39.1, 29.3)| |Z|Tanaris|
+N Be careful! Two Centipaar Tunnelers (level 48) will spawn after completion. Prepare to run away from them |N|(39.1, 29.3)| |Z|Tanaris|
+C Gadgetzan Water Survey |QID|992| |OIDX|1| |N|Use the [Untapped Dowsing Widget] at the pool (39.1, 29.3)| |Z|Tanaris|
 T Gadgetzan Water Survey |QID|992| |N|Fizzledowser - (50.2, 27.5)| |Z|Tanaris|
 A Noxious Lair Investigation |QID|82| |N|Fizzledowser - (50.2, 27.5)| |Z|Tanaris|
 A WANTED: Andre Firebeard |QID|2875| |N|the Wanted Poster by the giant cage - (51.9, 27.0)| |Z|Tanaris|
 A The Thirsty Goblin |QID|2605| |N|Marin - (51.8, 28.6)| |Z|Tanaris|
 R Fizzgrimble |N|(52.5, 27.9)| |Z|Tanaris|
+h Gadgetzan |N|Set hearth in Gadgetzan (52.5, 27.9)| |Z|Tanaris|
 A The Super Egg-O-Matic |QID|2741| |N|on the Egg-O-Matic next to the teleporter, then turn in your Hippogryph Egg - (52.4, 27.0)| |Z|Tanaris|
 T The Super Egg-O-Matic |QID|2741| |N|on the Egg-O-Matic next to the teleporter, then turn in your Hippogryph Egg - (52.4, 27.0)| |Z|Tanaris|
 A The Dunemaul Compound |QID|5863| |N|Andi - (52.8, 27.4)| |Z|Tanaris|
@@ -59,8 +61,9 @@ N Avoid Dunemaul Warlocks, as they have Curse of Thorns |O| |C|Rogue/Warrior/Sha
 C The Dunemaul Compound |QID|5863| |OIDX|1| |N|Kill Dunemaul Brutes and Dunemaul Enforcers| |O| |Z|Tanaris|
 N Be careful of his heavy damage output and Mortal Strike |N|(41.5, 57.8)| |Z|Tanaris|
 C The Dunemaul Compound |QID|5863| |OIDX|3| |N|Gor'marok in the cave (41.5, 57.8)| |Z|Tanaris|
+N Loot the Piles of Sand for Gahz'ridian Ornaments |O| |Z|Tanaris|
 N Gahz'ridian will appear on your minimap. Many can be found in and around the Eastmoon and Southmoon ruins |O| |Z|Tanaris|
-C Gahz'ridian |QID|3161| |OIDX|1| |N|Loot the Piles of Sand for Gahz'ridian Ornaments| |O| |Z|Tanaris|
+C Gahz'ridian |QID|3161| |OIDX|1| |N|Equip your [Gahz'ridian Detector]| |O| |Z|Tanaris|
 N Avoid Dunemaul Warlocks, as they have Curse of Thorns |N|(39.9, 73.2)| |C|Rogue/Warrior/Shaman/Paladin/Hunter| |Z|Tanaris|
 C The Dunemaul Compound |QID|5863| |OIDX|1| |N|Dunemaul Brutes and Dunemaul Enforcers (39.9, 73.2)| |Z|Tanaris|
 N Be careful! There are elite Dune Giants in the area. Follow the waypoint arrow to avoid agro |N|(37.6, 81.4) (ULDA Dungeon Quest)| |D|ULDA| |Z|Tanaris|
@@ -77,8 +80,9 @@ C The Thirsty Goblin |QID|2605| |OIDX|1| |N|Thistleshrub Dew Collectors. Loot th
 N You will fail the quest if you get too far away from him |O| |Z|Tanaris|
 N This quest has a 30 minute timer! |O| |Z|Tanaris|
 C Guide Tooga toward Steamwheedle Port |QID|1560| |OIDX|1| |N|Guide Tooga toward Steamwheedle Port| |O| |Z|Tanaris|
+N Loot the Piles of Sand for Gahz'ridian Ornaments |N|(39.9, 73.2)| |Z|Tanaris|
 N Gahz'ridian will appear on your minimap. Many can be found in and around the Eastmoon and Southmoon ruins |N|(39.9, 73.2)| |Z|Tanaris|
-C Gahz'ridian |QID|3161| |OIDX|1| |N|Loot the Piles of Sand for Gahz'ridian Ornaments (39.9, 73.2)| |Z|Tanaris|
+C Gahz'ridian |QID|3161| |OIDX|1| |N|Equip your [Gahz'ridian Detector] (39.9, 73.2)| |Z|Tanaris|
 N You will fail the quest if you get too far away from him |N|(66.6, 25.6)| |Z|Tanaris|
 N This quest has a 30 minute timer! |N|(66.6, 25.6)| |Z|Tanaris|
 C Guide Tooga toward Steamwheedle Port |QID|1560| |OIDX|1| |N|Guide Tooga toward Steamwheedle Port - (66.6, 25.6)| |Z|Tanaris|
@@ -98,6 +102,7 @@ T Pirate Hats Ahoy! |QID|8365| |N|Haughty - (66.6, 22.3)| |Z|Tanaris|
 A The Prophecy of Mosh'aru |QID|3527| |N|Yeh'kinya again - (67.0, 22.4) (ZF Dungeon Quest)| |D|ZF| |Z|Tanaris|
 N Buy [Jagged Arrows] from him |N|(67.0, 22.0)| |C|Hunter| |Z|Tanaris|
 B Jabbey |L|11285 2600| |N|Jabbey - (67.0, 22.0)| |C|Hunter| |Z|Tanaris|
+H Hearth or Astrall Recall to Gadgetzan |N|Hearth to Hearth or Astrall Recall to Gadgetzan| |C|Shaman| |Z|Tanaris|
 B Sell your junk, then restock on food and water if necessary |N|Dirge Quikcleave - (52.6, 28.1)| |C|!Rogue/!Warrior| |Z|Tanaris|
 B Sell your junk, then restock on food if necessary |N|Dirge Quikcleave - (52.6, 28.1)| |C|Rogue/Warrior| |Z|Tanaris|
 T The Thirsty Goblin |QID|2605| |N|Marin - (51.8, 28.6)| |Z|Tanaris|
@@ -117,6 +122,7 @@ A Rescue OOX-17/TN! |QID|648| |N|Homing Robot OOX-17/TN again to start the escor
 N A pack of 3 level 46-47 Scorpions will spawn at the next mountain chain |N|(67.1, 23.2)| |O| |Z|Tanaris|
 N A pack of 3 level 43-45 Wastewander mobs will spawn around Waterspring Field. Focus the Scofflaw. It EXECUTES when you're below 20% health |N|(67.1, 23.2)| |O| |Z|Tanaris|
 C Rescue OOX-17/TN! |QID|648| |OIDX|1| |N|Escort Homing Robot OOX-17/TN to Steamwheedle Port (67.1, 23.2)| |O| |Z|Tanaris|
+H Gadgetzan |N|Hearth to Gadgetzan| |O| |Z|Tanaris|
 B Sell your junk, then restock on food and water if necessary |N|Dirge - (52.6, 28.1)| |C|!Rogue/!Warrior| |Z|Tanaris|
 B Sell your junk, then restock on food if necessary |N|Dirge - (52.6, 28.1)| |C|Rogue/Warrior| |Z|Tanaris|
 T The Scrimshank Redemption |QID|10| |N|Fizzledowser - (50.2, 27.5)| |Z|Tanaris|
@@ -135,7 +141,7 @@ C The Prophecy of Mosh'aru |QID|3527| |OIDX|1| |N|Kill Theka the Martyr. Loot hi
 C Scarab Shells |QID|2865| |OIDX|1| |N|Kill Scarabs. Loot them for their Uncracked Scarab Shell (ZF Dungeon Quest)| |D|ZF| |Z|Tanaris|
 N Use the Executioner's Key on one of the Troll Cages to free Sergeant Bly and his band |N|(ZF Dungeon Quest)| |D|ZF| |Z|Tanaris|
 C Ascend the Pyramid |L|8444 1| |N|Anyone in the party may loot the Key (ZF Dungeon Quest)| |D|ZF| |Z|Tanaris|
-N Kill Nekrum Gutchewer. Eat and drink then Sergeant Bly to fight him |N|(ZF Dungeon Quest)| |D|ZF| |Z|Tanaris|
+N Kill Nekrum Gutchewer. Eat and drink then talk to Sergeant Bly to fight him |N|(ZF Dungeon Quest)| |D|ZF| |Z|Tanaris|
 N Kill Sergeant Bly. Loot him for the Divino-matic Rod |N|(ZF Dungeon Quest)| |D|ZF| |Z|Tanaris|
 C Divino-matic Rod |QID|2768| |OIDX|1| |N|Defend Sergeant Bly and his band, then move down with them after a short period of time (ZF Dungeon Quest)| |D|ZF| |Z|Tanaris|
 C Tiara of the Deep |QID|2846| |OIDX|1| |N|Kill Hydromancer Velratha. Loot her for the Tiara of the Deep and the Second Mosh'aru Tablet (ZF Dungeon Quest)| |D|ZF| |Z|Tanaris|
@@ -146,6 +152,8 @@ N Kill Gahz'rilla. Loot him for Gahz'rilla's Electrified Scale |N|(ZF Dungeon Qu
 N If no one in your party has the [Mallet of Zul'Farrak] you will not be able to summon Gahz'rilla |N|(ZF Dungeon Quest)| |D|ZF| |Z|Tanaris|
 C Gahz'rilla |QID|2770| |OIDX|1| |N|Use the [Mallet of Zul'Farrak] on the Gong of Zul'Farrak to summon Gahz'rilla (ZF Dungeon Quest)| |D|ZF| |Z|Tanaris|
 C Troll Temper |QID|3042| |OIDX|1| |N|Kill Trolls. Loot them for their Troll Temper (ZF Dungeon Quest)| |D|ZF| |Z|Tanaris|
+H Gadgetzan |N|Hearth to Gadgetzan (ZF Dungeon Quest)| |D|ZF| |Z|Tanaris|
+N Copy paste this macro inside Zul'Farrak to ghetto Hearth back to Gadgetzan |N|(ZF Dungeon Quest)| |D|ZF| |Z|Tanaris|
 T Troll Temper |QID|3042| |N|Trenton Lighthammer - (51.4, 28.8) (ZF Dungeon Quest)| |D|ZF| |Z|Tanaris|
 T Divino-matic Rod |QID|2768| |N|Chief Engineer Bilgewhizzle - (52.5, 28.5) (ZF Dungeon Quest)| |D|ZF| |Z|Tanaris|
 T Scarab Shells |QID|2865| |N|Tran'rek - (51.6, 26.8) (ZF Dungeon Quest)| |D|ZF| |Z|Tanaris|
@@ -166,6 +174,7 @@ T Cortello's Riddle |QID|625| |N|Enter the cave, then click the Musty Scroll on 
 A Cortello's Riddle |QID|626| |N|Enter the cave, then click the Musty Scroll on the rock - (31.1, 66.1)| |Z|Dustwallow Marsh|
 C The Brood of Onyxia |QID|1172| |OIDX|1| |N|Eggs of Onyxia to destroy them (53.6, 72.5)| |Z|Dustwallow Marsh|
 T Tiara of the Deep |QID|2846| |N|Tabetha - (46.0, 57.1) (ZF Dungeon Quest)| |D|ZF| |Z|Dustwallow Marsh|
+N Die and respawn at the Spirit Healer |O| |Z|Dustwallow Marsh|
 T The Brood of Onyxia |QID|1172| |N|Draz'Zilb - (37.1, 33.1)| |Z|Dustwallow Marsh|
 N Accepting this quest turns Overlord Mok'Morokk hostile. He hits extremely hard and should be kited. Be prepared |N|(36.3, 31.5)| |Z|Dustwallow Marsh|
 A Challenge Overlord Mok'Morokk |QID|1173| |N|Mok'Morokk - (36.3, 31.5)| |Z|Dustwallow Marsh|

@@ -12,6 +12,7 @@ C Book: The Powers Below (1) |QID|968| |L|5352 1| |N|Kill Twilight Disciples and
 C Escort Therylune out of The Masters Glaive |QID|945| |OIDX|1| |N|Escort Therylune out of The Masters Glaive - (40.5, 87.1)| |Z|Darkshore|
 A Beached Sea Creature |QID|4733| |N|the Beached Sea Creature - (31.3, 87.4)| |O| |Z|Darkshore|
 N This quest can be VERY difficult. Engage the Murlocs 1 by 1, otherwise you may agro multiple at the same time |N|(31.3, 87.4)| |O| |Z|Darkshore|
+N Click here for a video guide |N|(31.3, 87.4)| |O| |Z|Darkshore|
 A Beached Sea Turtle |QID|4732| |N|the Beached Sea Turtle - (31.2, 85.6)| |O| |Z|Darkshore|
 A Beached Sea Turtle |QID|4731| |N|the Beached Sea Turtle - (31.7, 83.7)| |O| |Z|Darkshore|
 A Beached Sea Creature |QID|4730| |N|the Beached Sea Creature - (32.6, 80.7)| |O| |Z|Darkshore|
@@ -30,6 +31,7 @@ T Mathystra Relics |QID|951| |N|Onu - (43.6, 76.3)| |Z|Darkshore|
 C Kerlonian's Chest. Loot it for the [Horn of Awakening] |QID|5321| |OIDX|1| |N|Kerlonian's Chest. Loot it for the [Horn of Awakening] - (44.4, 76.3)| |Z|Darkshore|
 R Travel to Ashenvale |N|(29.7, 13.6)| |O| |Z|Ashenvale|
 C and loot Ghostpaw Runners you encounter while questing. Keep any [Lean Wolf Flanks] you get. You will need 10 for a cooking quest later |L|1015 10| |N|Kill and loot Ghostpaw Runners you encounter while questing. Keep any [Lean Wolf Flanks] you get. You will need 10 for a cooking quest later| |O| |Z|Ashenvale|
+N Use the [Horn of Awakening] whenever Kerlonian falls asleep next to him |N|(27.3, 35.6)| |Z|Ashenvale|
 N Avoid running on the main road as much as possible. Enemies will only spawn if you're on the road |N|(27.3, 35.6)| |Z|Ashenvale|
 C Escort Kerlonian to Maestra's Post in Ashenvale |QID|5321| |OIDX|2| |N|Escort Kerlonian to Maestra's Post in Ashenvale - (27.3, 35.6)| |Z|Ashenvale|
 T The Sleeper Has Awakened |QID|5321| |N|Liadris Moonriver - (27.3, 35.6)| |Z|Ashenvale|
@@ -61,6 +63,7 @@ A Journey to Stonetalon Peak |QID|1056| |N|Faldreas Goeth'Shael - (35.8, 49.1)| 
 A Raene's Cleansing |QID|991| |N|Raene Wolfrunner - (36.6, 49.6)| |Z|Ashenvale|
 A Culling the Threat |QID|1054| |N|Raene Wolfrunner - (36.6, 49.6)| |Z|Ashenvale|
 R Innkeeper Kimlya |N|(37.0, 49.2)| |R|!Dwarf/!Hunter| |Z|Ashenvale|
+h Astranaar |N|Set hearth in Astranaar (37.0, 49.2)| |R|!Dwarf/!Hunter| |Z|Ashenvale|
 B Buy food and water if necessary |N|Maliynn - (36.6, 49.8)| |Z|Ashenvale|
 T Orendil's Cure |QID|1020| |N|Pelturas Whitemoon - (37.4, 51.8)| |Z|Ashenvale|
 A Elune's Tear |QID|1033| |N|Pelturas Whitemoon - (37.4, 51.8)| |Z|Ashenvale|
@@ -78,6 +81,7 @@ N Jump over the tree root and hug the right to avoid aggroing mobs |N|(27.5, 60.
 N Ilkrud Magthrull will cast [Ilkrud's Guardians] which is a 5 second long cast and will summon 2 Voidwalkers. Stop this cast if you're able to |N|(25.3, 60.7)| |Z|Ashenvale|
 N Clear an exit path if needed so you can reset them along with the Succubus if needed. You may skip this and do it at level 23 if you wish |N|(25.3, 60.7)| |Z|Ashenvale|
 C The Tower of Althalaxx |QID|973| |OIDX|1| |N|Ilkrud Magthrull. Loot him for his Tome (25.3, 60.7)| |Z|Ashenvale|
+N Click here for video reference |N|(25.3, 60.7)| |Z|Ashenvale|
 T The Tower of Althalaxx |QID|973| |N|Delgren the Purifier - (26.2, 38.7)| |Z|Ashenvale|
 C Gooey Spider Legs |QID|93| |L|2251 6| |N|Save up to 6 Gooey Spider Legs looted from the Spiders in the zone. You will need them for a quest later| |O| |Z|Ashenvale|
 C and loot Ghostpaw Runners you encounter while questing. Keep any [Lean Wolf Flanks] you get. You will need 10 for a cooking quest later |L|1015 10| |N|Kill and loot Ghostpaw Runners you encounter while questing. Keep any [Lean Wolf Flanks] you get. You will need 10 for a cooking quest later| |O| |Z|Ashenvale|
@@ -90,6 +94,7 @@ A Ruuzel |QID|1009| |N|Talen - (14.8, 31.3)| |Z|Ashenvale|
 N Ruuzel patrols the island with a Wrathtail Myrmidon and Wrathtail Sea Witch. Kill one of them and then reset them if needed |N|(6.5, 13.4)| |Z|Ashenvale|
 N If you have any [Bombs]/[Grenades] you can also use them to split pull Ruuzel |N|(6.5, 13.4)| |Z|Ashenvale|
 N Lady Vespia is a rarespawn that can also drop the Ring of Zoram if you see her |N|(6.5, 13.4)| |Z|Ashenvale|
+N Click here for video reference on "Split pulling" |N|(6.5, 13.4)| |Z|Ashenvale|
 C Ruuzel |QID|1009| |OIDX|1| |N|Ruuzel. Loot her for the Ring of Zoram (6.5, 13.4)| |Z|Ashenvale|
 N Ruuzel patrols the island with a Wrathtail Myrmidon and Wrathtail Sea Witch. Kill one of them and then reset them if needed |N|(6.5, 13.4)| |Z|Ashenvale|
 N Lady Vespia is a rarespawn that can also drop the Ring of Zoram if you see her |N|(6.5, 13.4)| |Z|Ashenvale|
@@ -103,7 +108,8 @@ A Raene's Cleansing |QID|1023| |N|Teronis' Corpse - (20.3, 42.3)| |Z|Ashenvale|
 C Murloc Fin(8) |L|1468 8| |N|Keep any [Murloc Fins] you might loot. You will need 8 for a quest later| |O| |Z|Ashenvale|
 N Be careful as the Oracles can heal, and have a 90 damage instant-cast shock spell every few seconds |N|(20.3, 42.3)| |Z|Ashenvale|
 C Raene's Cleansing |QID|1023| |OIDX|1| |N|Saltspittle Murlocs. Loot them for the Glowing Gem (20.3, 42.3)| |Z|Ashenvale|
-R Astranaar |N|(34.4, 48.0)| |O| |R|!Dwarf/!Hunter| |Z|Ashenvale|
+H Auberdine |N|Hearth to Auberdine| |C|Hunter| |R|Dwarf| |Z|Ashenvale|
+N Die on the eastern side of the lake and spirit res at Astranaar |O| |R|!Dwarf/!Hunter| |Z|Ashenvale|
 F Fly to Darkshore |N|Daelyshia - (34.4, 48.0)| |R|!Dwarf/!Hunter| |Z|Ashenvale|
 T The Absent Minded Prospector |QID|731| |N|Archaeologist Hollee - (37.4, 41.8)| |Z|Darkshore|
 A The Absent Minded Prospector |QID|741| |N|Archaeologist Hollee - (37.4, 41.8)| |Z|Darkshore|
@@ -126,6 +132,7 @@ R Travel to Teldrassil |N|(23.7, 64.5)| |Z|Teldrassil|
 T The Absent Minded Prospector |QID|741| |N|Chief Archaeologist Greywhisker - (23.7, 64.5)| |Z|Teldrassil|
 A The Absent Minded Prospector |QID|942| |N|Chief Archaeologist Greywhisker - (23.7, 64.5)| |Z|Teldrassil|
 A The Absent Minded Prospector |QID|942| |N|Chief Archaeologist Greywhisker - (23.7, 64.5)| |O| |Z|Teldrassil|
+H Astranaar |N|Hearth to Astranaar| |R|!Dwarf/!Hunter| |Z|Teldrassil|
 R Travel to Darnassus |N|(29.5, 41.4)| |C|Hunter| |R|Dwarf| |Z|Darnassus|
 F Fly to Ashenvale |N|Vesprystus - (58.4, 94.0)| |C|Hunter| |R|Dwarf| |Z|Teldrassil|
 

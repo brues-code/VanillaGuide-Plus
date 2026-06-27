@@ -31,19 +31,23 @@ N If you have any [Bombs]/[Grenades] you can also use them to split pull Ruuzel 
 N You can also use [Blizzard] to split pull Ruuzel |N|(6.5, 13.4)| |O| |C|Mage| |Z|Ashenvale|
 N You can also use [Rain of Fire] to split pull Ruuzel |N|(6.5, 13.4)| |O| |C|Warlock| |Z|Ashenvale|
 N Lady Vespia is a rarespawn that can also drop the Ring of Zoram if you see her |N|(6.5, 13.4)| |O| |Z|Ashenvale|
+N Click here for video reference on "Split pulling" |N|(6.5, 13.4)| |O| |Z|Ashenvale|
 C Ruuzel |QID|1009| |OIDX|1| |N|Ruuzel. Loot her for the Ring of Zoram (6.5, 13.4)| |O| |Z|Ashenvale|
 N Ruuzel patrols the island with a Wrathtail Myrmidon and Wrathtail Sea Witch. Kill one of them and then reset them if needed |N|(6.5, 13.4)| |Z|Ashenvale|
 N Lady Vespia is a rarespawn that can also drop the Ring of Zoram if you see her |N|(6.5, 13.4)| |Z|Ashenvale|
 N You can also use [Blizzard] to split pull Ruuzel |N|(6.5, 13.4)| |C|Mage| |Z|Ashenvale|
 N You can also use [Rain of Fire] to split pull Ruuzel |N|(6.5, 13.4)| |C|Warlock| |Z|Ashenvale|
+N Click here for video reference on "Split pulling" |N|(6.5, 13.4)| |C|Mage/Warlock| |Z|Ashenvale|
 C Ruuzel |QID|1009| |OIDX|1| |N|Ruuzel. Loot her for the Ring of Zoram (6.5, 13.4)| |Z|Ashenvale|
 C The Zoram Strand |QID|1008| |OIDX|1| |N|Wrathtail Nagas. Loot them for their Heads (14.5, 17.1)| |Z|Ashenvale|
 T Ruuzel |QID|1009| |N|Talen - (14.8, 31.3)| |Z|Ashenvale|
 T Raene's Cleansing |QID|991| |N|Teronis' Corpse - (20.3, 42.3)| |Z|Ashenvale|
 A Raene's Cleansing |QID|1023| |N|Teronis' Corpse - (20.3, 42.3)| |Z|Ashenvale|
 C Raene's Cleansing |QID|1023| |OIDX|1| |N|Saltspittle Murlocs. Loot them for the Glowing Gem (20.3, 42.3)| |Z|Ashenvale|
+N Die at the east side of the lake and respawn at the Spirit Healer |O| |C|!Warlock| |Z|Ashenvale|
 T The Ruins of Stardust |QID|1034| |N|Pelturas Whitemoon - (37.4, 51.8)| |C|!Warlock| |Z|Ashenvale|
 R Innkeeper Kimlya |N|(37.0, 49.2)| |C|!Warlock| |Z|Ashenvale|
+h Astranaar |N|Set hearth in Astranaar (37.0, 49.2)| |C|!Warlock| |Z|Ashenvale|
 T Raene's Cleansing |QID|1023| |N|Raene Wolfrunner - (36.6, 49.6)| |C|!Warlock| |Z|Ashenvale|
 A An Aggressive Defense |QID|1025| |N|Raene Wolfrunner - (36.6, 49.6)| |C|!Warlock| |Z|Ashenvale|
 T The Zoram Strand |QID|1008| |N|Shindrell Swiftfire - (34.7, 48.8)| |C|!Warlock| |Z|Ashenvale|
@@ -75,6 +79,7 @@ T The Absent Minded Prospector |QID|741| |N|Chief Archaeologist Greywhisker - (2
 A The Absent Minded Prospector |QID|942| |N|Chief Archaeologist Greywhisker - (23.7, 64.5)| |C|!Warlock| |Z|Teldrassil|
 A The Absent Minded Prospector |QID|942| |N|Chief Archaeologist Greywhisker - (23.7, 64.5)| |O| |C|!Warlock| |Z|Teldrassil|
 t Train your class spells |N|Jandria - (37.9, 82.7)| |C|Priest| |Z|Darnassus|
+H Astranaar |N|Hearth to Astranaar| |C|!Warlock| |Z|Darnassus|
 N Buy food/water if needed |C|!Warrior/!Rogue| |Z|Darnassus|
 N Buy food if needed |C|Warrior/Rogue| |Z|Darnassus|
 R Travel to Ashenvale |N|(34.7, 48.8)| |O| |C|Warlock| |Z|Ashenvale|
@@ -104,7 +109,7 @@ C Deviate Eradication |QID|1487| |OIDX|1| |N|(WC Dungeon Quest)| |D|WC| |Z|Tiris
 C Deviate Hides |QID|1486| |OIDX|1| |N|Kill all types of Deviate creatures. Loot them for their Deviate Hides (WC Dungeon Quest)| |D|WC| |Z|Tirisfal Glades|
 N Kill Mutanus the Devourer. Loot him for the [Glowing Shard] |N|(WC Dungeon Quest)| |D|WC| |Z|Tirisfal Glades|
 N Use the [Glowing Shard] to start the quest |N|(WC Dungeon Quest)| |D|WC| |Z|Tirisfal Glades|
-C Lord Cobrahn, Lord Pythas, Lord Serpentis and Lady Anacondra then the Disciple of Naralex at the start of the instance to start his escort |QID|6981| |L|10441 1| |N|Escort the Disciple of Naralex through Wailing Caverns and complete the ritual of awakening (WC Dungeon Quest)| |D|WC| |Z|Tirisfal Glades|
+C Lord Cobrahn, Lord Pythas, Lord Serpentis and Lady Anacondra then talk to the Disciple of Naralex at the start of the instance to start his escort |QID|6981| |L|10441 1| |N|Escort the Disciple of Naralex through Wailing Caverns and complete the ritual of awakening (WC Dungeon Quest)| |D|WC| |Z|Tirisfal Glades|
 A The Glowing Shard |QID|6981| |N|Escort the Disciple of Naralex through Wailing Caverns and complete the ritual of awakening (WC Dungeon Quest)| |D|WC| |Z|Tirisfal Glades|
 C Deviate Hides |QID|1486| |OIDX|1| |N|This can be completed INSIDE and OUTSIDE of Wailing Caverns (WC Dungeon Quest)| |D|WC| |Z|Tirisfal Glades|
 R Travel to The Barrens |N|(63.0, 37.2) (WC Dungeon Quest)| |D|WC| |Z|The Barrens|
@@ -117,6 +122,8 @@ R Drop down into the hidden cave above the entrance of The Wailing Caverns. Foll
 T Deviate Hides |QID|1486| |N|(51.9, 55.4) (WC Dungeon Quest)| |D|WC| |Z|Tirisfal Glades|
 T Deviate Eradication |QID|1487| |N|(51.9, 55.4) (WC Dungeon Quest)| |D|WC| |Z|Tirisfal Glades|
 T Deviate Hides |QID|1486| |N|Nalpak and Ebru - (51.9, 55.4) (WC Dungeon Quest)| |D|WC| |Z|Tirisfal Glades|
+H Astranaar |N|Hearth to Astranaar (WC Dungeon Quest)| |C|!Warlock| |D|WC| |Z|Tirisfal Glades|
+H Auberdine |N|Hearth to Auberdine (WC Dungeon Quest)| |C|Warlock| |D|WC| |Z|Tirisfal Glades|
 T Fruit of the Sea |QID|1138| |N|Gubber Blump - (18.5, 19.9) (WC Dungeon Quest)| |C|Warlock| |D|WC| |Z|Felwood|
 R Travel to Darkshore |N|(36.6, 45.6) (WC Dungeon Quest)| |C|Warlock| |D|WC| |Z|Darkshore|
 N Gwennyth Bly'Leggonde |N|(36.6, 45.6) (WC Dungeon Quest)| |C|Warlock| |D|WC| |Z|Darkshore|
@@ -153,16 +160,19 @@ f Get the Stonetalon Flight Path |N|Teloren - (36.4, 7.2)| |C|!Warlock| |Z|Stone
 F Fly to Ashenvale |N|Teloren - (36.4, 7.2)| |C|!Warlock| |Z|Stonetalon Mountains|
 f Get the Stonetalon Flight Path |N|Teloren - (36.4, 7.2)| |C|Warlock| |Z|Stonetalon Mountains|
 B Vendor trash |N|Illyanie - (35.6, 7.4) (!WC Dungeon Quest)| |C|Warlock| |D|!WC| |Z|Stonetalon Mountains|
-R Travel to The Barrens |N|(35.1, 27.0) (!WC Dungeon Quest)| |C|Warlock| |D|!WC| |Z|The Barrens|
-R FOLLOW THE ARROW TO AVOID BARRENS GUARDS! |N|(40.4, 24.8) (!WC Dungeon Quest)| |C|Warlock| |D|!WC| |Z|The Barrens|
-N Ensure you have at least 4 [Soul Shards] before dying intentionally, you're about to spirit res 4 times total |N|(!WC Dungeon Quest)| |C|Warlock| |D|!WC| |Z|The Barrens|
+N Ensure you have at least 4 [Soul Shards] before dying intentionally, you're about to spirit res 4 times total |N|(!WC Dungeon Quest)| |C|Warlock| |D|!WC| |Z|Stonetalon Mountains|
+N Die and respawn at the Spirit Healer |N|(!WC Dungeon Quest)| |C|Warlock| |D|!WC| |Z|Stonetalon Mountains|
+R Travel to The Barrens |N|(35.1, 27.8) (!WC Dungeon Quest)| |C|Warlock| |D|!WC| |Z|The Barrens|
+N Once you get to The Barrens, Die and respawn at the Crossroads Graveyard |N|(50.5, 32.5) (!WC Dungeon Quest)| |C|Warlock| |D|!WC| |Z|The Barrens|
 T Devourer of Souls |QID|1716| |N|Takar the Seer - (49.3, 57.1) (!WC Dungeon Quest)| |C|Warlock| |D|!WC| |Z|The Barrens|
 A Heartswood |QID|1738| |N|Takar the Seer - (49.3, 57.1) (!WC Dungeon Quest)| |C|Warlock| |D|!WC| |Z|The Barrens|
 A What is Love? |QID|65602| |N|Takar the Seer - (49.3, 57.1) (!WC Dungeon Quest)| |C|Warlock| |D|!WC| |Z|The Barrens|
+N Run northeast. When the zone text changes to Raptor Grounds, Die and respawn at Ratchet |N|(56.6, 51.6) (!WC Dungeon Quest)| |C|Warlock| |D|!WC| |Z|The Barrens|
 N Do your best to avoid the Quilboars |N|(56.6, 51.6) (!WC Dungeon Quest)| |C|Warlock| |D|!WC| |Z|The Barrens|
 R Ratchet |N|(63.0, 37.2) (!WC Dungeon Quest)| |C|Warlock| |D|!WC| |Z|The Barrens|
 T Further Instructions |QID|1094| |N|Sputtervalve - (63.0, 37.2) (!WC Dungeon Quest)| |C|Warlock| |D|!WC| |Z|The Barrens|
 f Get the Ratchet Flight Path |N|Bragok - (63.1, 37.2) (!WC Dungeon Quest)| |C|Warlock| |D|!WC| |Z|The Barrens|
+H Darkshore |N|Hearth to Darkshore (!WC Dungeon Quest)| |C|Warlock| |D|!WC| |Z|The Barrens|
 N Buy food/water if needed |N|(!WC Dungeon Quest)| |C|!Warrior/!Rogue| |D|!WC| |Z|The Barrens|
 T Fruit of the Sea |QID|1138| |N|Gubber Blump - (18.5, 19.9) (!WC Dungeon Quest)| |C|Warlock| |D|!WC| |Z|Felwood|
 R Travel to Darkshore |N|(36.6, 45.6) (!WC Dungeon Quest)| |C|Warlock| |D|!WC| |Z|Darkshore|
@@ -188,7 +198,7 @@ C An Aggressive Defense |QID|1025| |OIDX|4| |N|Kill a few Foulweald Warriors and
 A Elemental Bracers |QID|1016| |N|Sentinel Velene Starstrike - (49.8, 67.2)| |Z|Ashenvale|
 N The Befouled Water Elementals cast [Frost Nova]. Pay attention to your breath timer if you dive underwater to kill them |N|(48.9, 70.0)| |Z|Ashenvale|
 C Befouled Water Elementals. Loot them for their Bracers |QID|1016| |L|12220 5| |N|Befouled Water Elementals. Loot them for their Bracers - (48.9, 70.0)| |Z|Ashenvale|
-C Elemental Bracers |QID|1016| |OIDX|1| |Z|Ashenvale|
+C Elemental Bracers |QID|1016| |OIDX|1| |N|Use the [Divining Scroll] to create the [Divined Scroll]| |Z|Ashenvale|
 T Elemental Bracers |QID|1016| |N|Sentinel Velene Starstrike - (49.8, 67.2)| |Z|Ashenvale|
 N Be careful as the Foulweald Ursas can [Thrash] hitting you 3 times at once |N|(50.1, 59.9)| |Z|Ashenvale|
 N The Foulweald Totemics share spawns with Foulweald Warriors. You may have to backtrack and kill respawns if you weren't lucky with the spawns |N|(50.1, 59.9)| |Z|Ashenvale|
@@ -199,12 +209,13 @@ R Travel to Ashenvale |N|(36.3, 38.5)| |O| |Z|Ashenvale|
 R Thistlefur Village. Follow the Arrow for a shortcut |N|(36.8, 37.6)| |O| |Z|Ashenvale|
 N Dal Bloodclaw patrols Thistlefur Village |N|(39.6, 36.3)| |Z|Ashenvale|
 C Culling the Threat |QID|1054| |OIDX|1| |N|Dal Bloodclaw. Loot him for his Skull (39.6, 36.3)| |Z|Ashenvale|
+N Die and respawn at the Spirit Healer |C|!Warlock| |Z|Ashenvale|
 R The Ruins of Ordil'Aran |N|(31.5, 31.5)| |O| |C|Warlock| |Z|Ashenvale|
 C Heartswood |QID|1738| |OIDX|1| |N|the Heartswood giant tree (31.5, 31.5)| |C|Warlock| |Z|Ashenvale|
 C the Unlit Torch on the table |QID|65602| |L|190307 1| |N|the Unlit Torch on the table - (26.8, 22.4)| |C|Warlock| |Z|Ashenvale|
 C Create a campfire, then use the Unlit Torch on top of it |QID|65602| |L|190308 1| |N|Create a campfire, then use the Unlit Torch on top of it - (26.8, 22.4)| |C|Warlock| |Z|Ashenvale|
 C What is Love? |QID|65602| |OIDX|1| |N|Use the Burning Torch on the cart outside next to where you looted the torch, then go upstairs and loot the statue (26.6, 22.0)| |C|Warlock| |Z|Ashenvale|
-R Astranaar |N|(34.4, 48.0)| |O| |C|Warlock| |Z|Ashenvale|
+N Run to the base of the mountain southwest of the big tower and die then respawn back at Astranaar |N|(24.5, 39.1)| |O| |C|Warlock| |Z|Ashenvale|
 T An Aggressive Defense |QID|1025| |N|Raene Wolfrunner - (36.6, 49.6)| |Z|Ashenvale|
 T Culling the Threat |QID|1054| |N|Raene Wolfrunner - (36.6, 49.6)| |Z|Ashenvale|
 F Fly to Darkshore |N|Daelyshia - (34.4, 48.0)| |Z|Ashenvale|

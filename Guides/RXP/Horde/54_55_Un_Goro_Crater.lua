@@ -38,7 +38,10 @@ N Their poison deals high damage and drains mana |N|(60.0, 39.4)| |C|!Warrior/!R
 C Larion and Muigin |QID|4145| |OIDX|4| |N|Bloodpetal Threshers, Bloodpetal Lashers and Bloodpetal Flayers (60.0, 39.4)| |Z|Un'Goro Crater|
 C Expedition Salvation |QID|3881| |OIDX|1| |N|the Crate of Foodstuffs on the ground (68.5, 36.5)| |Z|Un'Goro Crater|
 C The Eastern Pylon |QID|4287| |OIDX|1| |N|the Eastern Crystal Pylon (77.2, 50.0)| |Z|Un'Goro Crater|
-C The Bait for Lar'korwi |QID|4292| |OIDX|1| |N|Kill Lar'korwi as he spawns. Loot him for his Head (79.9, 49.9)| |Z|Un'Goro Crater|
+N Stand near the big flat rock, then use the [Preserved Threshadon Meat] |N|(79.9, 49.9)| |Z|Un'Goro Crater|
+N Use the [Preserved Pheromone Mixture] |N|(79.9, 49.9)| |Z|Un'Goro Crater|
+N Kill Lar'korwi as he spawns. Loot him for his Head |N|(79.9, 49.9)| |Z|Un'Goro Crater|
+C The Bait for Lar'korwi |QID|4292| |OIDX|1| |N|Open [Torwa's Pouch] (79.9, 49.9)| |Z|Un'Goro Crater|
 T The Apes of Un'Goro |QID|4289| |N|Torwa - (71.6, 76.0) (ST Dungeon Quest)| |C|Druid| |D|ST| |Z|Un'Goro Crater|
 T The Bait for Lar'korwi |QID|4292| |N|Torwa - (71.6, 76.0) (ST Dungeon Quest)| |C|Druid| |D|ST| |Z|Un'Goro Crater|
 A The Mighty U'cha |QID|4301| |N|Torwa - (71.6, 76.0) (ST Dungeon Quest)| |C|Druid| |D|ST| |Z|Un'Goro Crater|
@@ -53,7 +56,7 @@ C Bloodpetal Poison |QID|9052| |OIDX|1| |N|Gorishi Silithid. Loot them for a Gor
 C Bungle in the Jungle |QID|4496| |OIDX|1| |N|Gorishi Silithid. Loot them for a Gorishi Scent Gland (50.6, 77.1)| |O| |Z|Un'Goro Crater|
 R Enter the Silithid cave |N|(50.0, 81.7)| |Z|Un'Goro Crater|
 R Enter the room on the left |N|(49.2, 84.5)| |O| |Z|Un'Goro Crater|
-C Alien Ecology |QID|3883| |OIDX|1| |N|(48.7, 85.3)| |Z|Un'Goro Crater|
+C Alien Ecology |QID|3883| |OIDX|1| |N|Use your [Scraping Vial] in the centre of the room (48.7, 85.3)| |Z|Un'Goro Crater|
 N Kill Gorishi Silithid. Loot them for a Gorishi Scent Gland and for Gorishi Stings |N|(51.7, 75.4) (ST Dungeon Quest)| |C|Druid| |D|ST| |Z|Un'Goro Crater|
 C Bungle in the Jungle |QID|4496| |OIDX|1| |N|Gorishi Silithid. Loot them for a Gorishi Scent Gland (51.7, 75.4) (ST Dungeon Quest)| |C|Druid| |D|ST| |Z|Un'Goro Crater|
 C Bloodpetal Poison |QID|9052| |OIDX|1| |N|Gorishi Silithid. Loot them for a Gorishi Scent Gland (51.7, 75.4) (ST Dungeon Quest)| |C|Druid| |D|ST| |Z|Un'Goro Crater|
@@ -75,7 +78,7 @@ C Shizzle's Flyer |QID|4503| |OIDX|2| |N|Frenzied Pterrordax. Loot them for thei
 A Finding the Source |QID|974| |N|Krakle - (30.9, 50.4)| |Z|Un'Goro Crater|
 R Take the lava path shortcut on the west side of the volcano to the top |N|(48.6, 49.8)| |O| |Z|Un'Goro Crater|
 C Volcanic Activity |QID|4502| |OIDX|1| |N|Kill Fire Elementals. Loot them for their Ash| |O| |Z|Un'Goro Crater|
-C Finding the Source |QID|974| |OIDX|1| |N|(49.6, 45.7)| |Z|Un'Goro Crater|
+C Finding the Source |QID|974| |OIDX|1| |N|Climb up to the top of the volcano, then use [Krakle's Thermometer] (49.6, 45.7)| |Z|Un'Goro Crater|
 N Their poison deals high damage, and they can cast entangling roots |O| |C|Warrior/Rogue/Shaman| |Z|Un'Goro Crater|
 N Their poison deals high damage and drains mana. They can cast entangling roots |O| |C|!Warrior/!Rogue/!Shaman| |Z|Un'Goro Crater|
 C Larion and Muigin |QID|4145| |OIDX|2| |N|Kill Bloodpetal Trappers| |O| |Z|Un'Goro Crater|
@@ -101,7 +104,8 @@ C Volcanic Activity |QID|4502| |OIDX|1| |N|Fire Elementals. Loot them for their 
 R Enter the cave on the east side of the volcano |N|(52.4, 51.0)| |O| |Z|Un'Goro Crater|
 T Lost! |QID|4492| |N|Ringo - (51.9, 49.9)| |Z|Un'Goro Crater|
 A A Little Help From My Friends |QID|4491| |N|Ringo - (51.9, 49.9)| |Z|Un'Goro Crater|
-C A Little Help From My Friends |QID|4491| |OIDX|1| |N|Be careful not to ride away too fast from Ringo (43.6, 8.5)| |Z|Un'Goro Crater|
+N Be careful not to ride away too fast from Ringo |N|(43.6, 8.5)| |Z|Un'Goro Crater|
+C A Little Help From My Friends |QID|4491| |OIDX|1| |N|Escort Ringo to Marshal's Refuge. Use [Spraggle's Canteen] on him when he falls down (43.6, 8.5)| |Z|Un'Goro Crater|
 T Beware of Pterrordax |QID|4501| |N|Spraggle - (43.6, 8.5)| |Z|Un'Goro Crater|
 T Alien Ecology |QID|3883| |N|Hol'anyee and Williden - (43.9, 7.2)| |Z|Un'Goro Crater|
 T Expedition Salvation |QID|3881| |N|Hol'anyee and Williden - (43.9, 7.2)| |Z|Un'Goro Crater|
@@ -115,7 +119,7 @@ T Larion and Muigin |QID|4145| |N|Larion - (45.5, 8.7)| |Z|Un'Goro Crater|
 A Marvon's Workshop |QID|4147| |N|Larion - (45.5, 8.7)| |Z|Un'Goro Crater|
 A Chasing A-Me 01 |QID|4243| |N|Karna - (46.4, 13.4)| |Z|Un'Goro Crater|
 C The Northern Pylon |QID|4285| |OIDX|1| |N|the Northern Crystal Pylon (56.5, 12.4)| |Z|Un'Goro Crater|
-T Chasing A-Me 01 |QID|4243| |N|Hug the right wall as you enter the cave, then A-Me 01 - (67.7, 16.8)| |Z|Un'Goro Crater|
+T Chasing A-Me 01 |QID|4243| |N|Hug the right wall as you enter the cave, then talk to A-Me 01 - (67.7, 16.8)| |Z|Un'Goro Crater|
 C The Mighty U'cha |QID|4301| |OIDX|1| |N|U'cha in the back of the cave. Loot him for his Pelt (68.0, 13.2)| |Z|Un'Goro Crater|
 T Chasing A-Me 01 |QID|4243| |N|A-Me - (67.7, 16.8)| |Z|Un'Goro Crater|
 A Chasing A-Me 01 |QID|4244| |N|A-Me - (67.7, 16.8)| |Z|Un'Goro Crater|
@@ -131,33 +135,28 @@ A Toxic Test |QID|9051| |N|Torwa - (71.6, 76.0) (ST Dungeon Quest)| |C|Druid| |D
 N Do not engage a |cRXPTyrant Devilsaur; their fear ability is deadly |N|(ST Dungeon Quest)| |C|Druid| |D|ST| |Z|Un'Goro Crater|
 N Spam Hibernate on the Devilsaur, and nothing else. If it breaks, spam it again. |N|(ST Dungeon Quest)| |C|Druid| |D|ST| |Z|Un'Goro Crater|
 N Devilsaur have 170% movement speed; they cannot be outrun |N|(ST Dungeon Quest)| |C|Druid| |D|ST| |Z|Un'Goro Crater|
+N Use your [Devilsaur Barb] on it while it's asleep |N|(ST Dungeon Quest)| |C|Druid| |D|ST| |Z|Un'Goro Crater|
 C Toxic Test |QID|9051| |OIDX|1| |N|Track a Devilsaur or Ironhide Devilsaur (ST Dungeon Quest)| |C|Druid| |D|ST| |Z|Un'Goro Crater|
 T Toxic Test |QID|9051| |N|Torwa - (71.6, 76.0) (ST Dungeon Quest)| |C|Druid| |D|ST| |Z|Un'Goro Crater|
 A A Better Ingredient |QID|9053| |N|Torwa - (71.6, 76.0) (ST Dungeon Quest)| |C|Druid| |D|ST| |Z|Un'Goro Crater|
 C Collect Un'Goro Soil from mobs or Un'Goro Dirt Piles |L|11018 25| |N|Collect Un'Goro Soil from mobs or Un'Goro Dirt Piles - (57.9, 44.8)| |Z|Un'Goro Crater|
-F Fly to Tanaris |N|Gryfe - (45.2, 5.8) (!ST Dungeon Quest)| |D|!ST| |Z|Un'Goro Crater|
 R Travel to Tanaris |N|(27.1, 56.6)| |O| |Z|Tanaris|
 A Into the Depths |QID|3446| |N|Marvon Rivetseeker - (52.7, 45.9) (ST Dungeon Quest)| |D|ST| |Z|Tanaris|
 A Secret of the Circle |QID|3447| |N|Marvon Rivetseeker - (52.7, 45.9) (ST Dungeon Quest)| |D|ST| |Z|Tanaris|
 A The God Hakkar |QID|3528| |N|Yeh'kinya - (67.0, 22.4) (ST Dungeon Quest)| |D|ST| |Z|Tanaris|
+N Die and respawn at the Spirit Healer or run back to Gadgetzan |N|(27.9, 59.0)| |O| |Z|Tanaris|
 T Bungle in the Jungle |QID|4496| |N|Pestlezugg - (50.9, 27.0)| |Z|Tanaris|
 F Fly to Feralas |N|Bulkrek - (51.6, 25.5)| |Z|Tanaris|
 T The Strength of Corruption |QID|4120| |N|Talo - (76.2, 43.8)| |Z|Feralas|
 R Travel along the border of Dire Maul to the West Side |N|(55.9, 46.2)| |O| |Z|Feralas|
+N Click here for video reference |N|(55.4, 45.5)| |Z|Feralas|
 N Buy some [Bait] from him |N|(45.1, 25.6)| |Z|Feralas|
 B Gregan |L|11141 1| |N|Gregan - (45.1, 25.6)| |Z|Feralas|
 C the Evoroot inside the Ruins |QID|3909| |L|11242 1| |N|the Evoroot inside the Ruins - (44.5, 10.2)| |Z|Feralas|
-N Blizzard has adjusted the quest [The Videre Elixir] so it will no longer kill you on Official Hardcore Servers |N|(45.1, 25.6)| |Z|Feralas|
 A The Videre Elixir |QID|4041| |N|Gregan Brewspewer - (45.1, 25.6)| |Z|Feralas|
 T The Videre Elixir |QID|4041| |N|Gregan Brewspewer - (45.1, 25.6)| |Z|Feralas|
 C The Videre Elixir |QID|3909| |OIDX|1| |N|Gregan Brewspewer (45.1, 25.6)| |Z|Feralas|
-N You may safely complete this quest as part of the quest chain for [The Videre Elixir] |N|(45.1, 25.6)| |Z|Feralas|
-A The Videre Elixir |QID|4041| |N|Gregan Brewspewer - (45.1, 25.6)| |Z|Feralas|
-T The Videre Elixir |QID|4041| |N|Gregan Brewspewer - (45.1, 25.6)| |Z|Feralas|
-C The Videre Elixir |QID|3909| |OIDX|1| |N|Gregan Brewspewer (45.1, 25.6)| |Z|Feralas|
-A The Videre Elixir |QID|4041| |N|Gregan Brewspewer - (45.1, 25.6)| |Z|Feralas|
-T The Videre Elixir |QID|4041| |N|Gregan Brewspewer - (45.1, 25.6)| |Z|Feralas|
-C The Videre Elixir |QID|3909| |OIDX|1| |N|Gregan Brewspewer (45.1, 25.6)| |Z|Feralas|
+H Camp Taurajo |N|Hearth to Camp Taurajo| |O| |C|!Mage| |Z|Feralas|
 F Fly to Thunder Bluff |N|Omusa - (44.5, 59.1)| |C|!Mage| |Z|The Barrens|
 t Train your class spells |N|Thurston - (25.2, 20.9)| |C|Mage| |Z|Thunder Bluff|
 N He patrols the terraces, so you may have to look around for him |N|(41.5, 57.9)| |O| |Z|Thunder Bluff|

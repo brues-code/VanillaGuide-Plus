@@ -72,6 +72,7 @@ N Loganaar |N|(52.5, 40.6)| |C|Druid| |Z|Tanaris|
 R Travel to Moonglade |N|(52.5, 40.6)| |C|Druid| |Z|Moonglade|
 t Train your class spells |N|Teleport to Moonglade - (52.5, 40.6)| |C|Druid| |Z|Moonglade|
 t Train your class spells |N|Dink - (27.2, 8.6)| |C|Mage| |Z|Ironforge|
+H Gadgetzan |N|Hearth to Gadgetzan| |Z|Ironforge|
 N Buy food/water if needed |C|!Warrior/!Rogue| |Z|Ironforge|
 N Buy food if needed |C|Warrior/Rogue| |Z|Ironforge|
 R Travel to Tanaris |N|(52.5, 28.5)| |Z|Tanaris|
@@ -114,7 +115,7 @@ T It's a Secret to Everybody |QID|3844| |N|the Small Pack underwater - (63.1, 69
 A It's a Secret to Everybody |QID|3845| |N|the Small Pack underwater - (63.1, 69.1)| |Z|Un'Goro Crater|
 C The Fare of Lar'korwi |QID|4290| |OIDX|1| |N|the Piece of Threshadon Carcass (68.7, 56.7)| |Z|Un'Goro Crater|
 A Muigin and Larion |QID|4141| |N|Muigin - (42.9, 9.6)| |C|!Warrior/!Rogue/!Paladin/!Druid| |Z|Un'Goro Crater|
-C It's a Secret to Everybody |QID|3845| |OIDX|1| |N|(44.7, 8.1)| |C|!Warrior/!Rogue/!Paladin/!Druid| |Z|Un'Goro Crater|
+C It's a Secret to Everybody |QID|3845| |OIDX|1| |N|Open the [Small Pack] (44.7, 8.1)| |C|!Warrior/!Rogue/!Paladin/!Druid| |Z|Un'Goro Crater|
 T It's a Secret to Everybody |QID|3845| |N|Linken - (44.7, 8.1)| |C|!Warrior/!Rogue/!Paladin/!Druid| |Z|Un'Goro Crater|
 A It's a Secret to Everybody |QID|3908| |N|Linken - (44.7, 8.1)| |C|!Warrior/!Rogue/!Paladin/!Druid| |Z|Un'Goro Crater|
 N You no longer need these |C|!Warrior/!Rogue/!Paladin/!Druid| |Z|Un'Goro Crater|
@@ -136,7 +137,7 @@ N Use [A Mangled Journal] to start the quest |N|(66.6, 66.7)| |Z|Un'Goro Crater|
 C Ravasaurs. Loot them for [A Mangled Journal] |QID|3884| |L|11116 1| |N|Ravasaurs. Loot them for [A Mangled Journal] - (66.6, 66.7)| |Z|Un'Goro Crater|
 A Williden's Journal |QID|3884| |N|Ravasaurs. Loot them for [A Mangled Journal] - (66.6, 66.7)| |Z|Un'Goro Crater|
 C Bloodpetal Poison |QID|9052| |OIDX|2| |N|You don't need to complete this now. You can finish it when you come to Un'goro again later (ST Dungeon Quest)| |C|Druid| |D|ST| |Z|Un'Goro Crater|
-C It's a Secret to Everybody |QID|3845| |OIDX|1| |N|(44.7, 8.1)| |C|Warrior/Rogue/Paladin/Druid| |Z|Un'Goro Crater|
+C It's a Secret to Everybody |QID|3845| |OIDX|1| |N|Open the [Small Pack] (44.7, 8.1)| |C|Warrior/Rogue/Paladin/Druid| |Z|Un'Goro Crater|
 T It's a Secret to Everybody |QID|3845| |N|Linken - (44.7, 8.1)| |C|Warrior/Rogue/Paladin/Druid| |Z|Un'Goro Crater|
 A It's a Secret to Everybody |QID|3908| |N|Linken - (44.7, 8.1)| |C|Warrior/Rogue/Paladin/Druid| |Z|Un'Goro Crater|
 N You no longer need these |C|Warrior/Rogue/Paladin/Druid| |Z|Un'Goro Crater|
@@ -145,9 +146,8 @@ A Williden's Journal |QID|3884| |N|Williden Marshal - (43.9, 7.1)| |C|Warrior/Ro
 T Williden's Journal |QID|3884| |N|Williden Marshal - (43.9, 7.1)| |C|Warrior/Rogue/Paladin/Druid| |Z|Un'Goro Crater|
 f Get the Un'Goro Crater Flight Path |N|Gryfe - (45.2, 5.8)| |C|Warrior/Rogue/Paladin/Druid| |Z|Un'Goro Crater|
 N Fly or Hearth to Gadgetzan. Make sure you have the Flight Path before you Hearth |N|(45.2, 5.8)| |C|Warrior/Rogue/Paladin/Druid| |Z|Un'Goro Crater|
+H Tanaris |N|Hearth to Tanaris| |C|!Warrior/!Rogue/!Paladin/!Druid| |Z|Un'Goro Crater|
 N Alternatively you can run to Tanaris, die on purpose and respawn at Gadgetzan |C|!Warrior/!Rogue/!Paladin/!Druid| |Z|Un'Goro Crater|
-N Buy food/water if needed |C|!Warrior/!Rogue| |Z|Un'Goro Crater|
-N Buy food if needed |C|Warrior/Rogue| |Z|Un'Goro Crater|
 R Gimblethorn |N|(52.3, 28.9)| |Z|Tanaris|
 N [Carefully Folded Note] (If you have it) |N|(52.3, 28.9)| |Z|Tanaris|
 N [Gorilla Fangs] (If you have any) |N|(52.3, 28.9)| |Z|Tanaris|

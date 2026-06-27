@@ -54,10 +54,6 @@ N Save any [Gorilla Fangs] you loot. You will need them for another quest later 
 C Scaring Shaky |QID|606| |OIDX|1| |N|Elder Mistvale Gorillas. Loot them for their Giblets and Sinew (31.3, 65.5)| |Z|Stranglethorn Vale|
 C Mok'thardin's Enchantment |QID|571| |OIDX|1| |N|Elder Mistvale Gorillas. Loot them for their Giblets and Sinew (31.3, 65.5)| |Z|Stranglethorn Vale|
 C Elder Mistvale Gorillas. Loot them for their Giblets and Sinew |L|2799 10| |N|Elder Mistvale Gorillas. Loot them for their Giblets and Sinew - (31.3, 65.5)| |Z|Stranglethorn Vale|
-N You can skip this if you want, the quest proceeding this is VERY difficult |N|(32.8, 65.8)| |O| |Z|Stranglethorn Vale|
-C Elder Mistvale Gorillas. Loot them for their [Gorilla Fangs] |L|2799 10| |N|Elder Mistvale Gorillas. Loot them for their [Gorilla Fangs] - (32.8, 65.8)| |O| |Z|Stranglethorn Vale|
-C Scaring Shaky |QID|606| |OIDX|1| |N|Elder Mistvale Gorillas. Loot them for their Giblets and Sinew (31.3, 65.5)| |Z|Stranglethorn Vale|
-C Mok'thardin's Enchantment |QID|571| |OIDX|1| |N|Elder Mistvale Gorillas. Loot them for their Giblets and Sinew (31.3, 65.5)| |Z|Stranglethorn Vale|
 N This quest is very hard. 3 waves of Gorillas will spawn. Consider grouping up if possible |N|(35.3, 60.4)| |Z|Stranglethorn Vale|
 T Stranglethorn Fever |QID|349| |N|Witch Doctor Unbagwa - (35.3, 60.4)| |Z|Stranglethorn Vale|
 N This quest is very hard. Use no cooldowns on wave 1. Use all cooldowns on wave 2. On wave 3 avoid them by going a bit up the mountain, then when they aggro the NPC kill Mokk the Savage only and loot it |N|(35.3, 60.4)| |Z|Stranglethorn Vale|
@@ -85,6 +81,7 @@ N Do NOT pull or attack Zanzil the Outcast |N|(40.8, 59.0)| |Z|Stranglethorn Val
 C Zanzil's Secret |QID|621| |OIDX|1| |N|Zanzil Undeads. Loot them for their Mixture (40.8, 59.0)| |Z|Stranglethorn Vale|
 N You can kite him back to the Booty Bay guards and get credit for the quest if you deal 50%+ of the damage |N|(36.9, 69.5)| |Z|Stranglethorn Vale|
 N This quest is HARD depending on how well you can kite and do damage on the move. You can skip this quest if needed |N|(36.9, 69.5)| |Z|Stranglethorn Vale|
+N CLICK HERE for a reference |N|(36.9, 69.5)| |Z|Stranglethorn Vale|
 C The Captain's Chest |QID|8551| |OIDX|1| |N|Gorlash. Loot him for his Chest (36.9, 69.5)| |Z|Stranglethorn Vale|
 A Cortello's Riddle |QID|624| |N|Search the ships' lower levels until you find a Small Scroll on the ground. Loot it for [Cortello's Riddle]. Use it to start the quest| |O| |Z|Stranglethorn Vale|
 C Search the ships' lower levels until you find a Small Scroll on the ground. Loot it for [Cortello's Riddle]. Use it to start the quest |QID|624| |L|4056 1| |N|Search the ships' lower levels until you find a Small Scroll on the ground. Loot it for [Cortello's Riddle]. Use it to start the quest| |O| |Z|Stranglethorn Vale|

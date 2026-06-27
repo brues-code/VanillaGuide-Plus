@@ -25,6 +25,7 @@ T Southshore |QID|538| |N|Loremaster Dibbs - (50.6, 57.1)| |Z|Hillsbrad Foothill
 A Hints of a New Plague? |QID|659| |N|Phin Odelic - (50.3, 59.0)| |Z|Hillsbrad Foothills|
 A Down the Coast |QID|536| |N|Lieutenant Farren Orinelle - (51.5, 58.4)| |Z|Hillsbrad Foothills|
 R Innkeeper Anderson |N|(51.2, 58.9)| |Z|Hillsbrad Foothills|
+h Southshore |N|Set hearth in Southshore (51.2, 58.9)| |Z|Hillsbrad Foothills|
 C Down the Coast |QID|536| |OIDX|1| |N|Torn Fin Tidehunters and Torn Fin Oracles (44.7, 67.2)| |Z|Hillsbrad Foothills|
 T Down the Coast |QID|536| |N|Lieutenant Farren Orinelle - (51.5, 58.4)| |Z|Hillsbrad Foothills|
 A Farren's Proof |QID|559| |N|Lieutenant Farren Orinelle - (51.5, 58.4)| |Z|Hillsbrad Foothills|
@@ -105,6 +106,7 @@ R Travel to Arathi Highlands |N|(33.9, 29.1)| |Z|Arathi Highlands|
 N Be aware Syndicate Highwaymen are in [Stealth] and can be found around the perimiter of Northfold Manor |N|(31.1, 29.5)| |Z|Arathi Highlands|
 N Cast [Perception] to help spot Syndicate Highwaymen |N|(31.1, 29.5)| |R|Human| |Z|Arathi Highlands|
 C Northfold Manor |QID|681| |OIDX|1| |N|Syndicate Mercenaries and Syndicate Highwaymen (31.1, 29.5)| |Z|Arathi Highlands|
+H Southshore |N|Hearth to Southshore| |O| |C|Hunter| |Z|Arathi Highlands|
 N Buy food/water if needed |O| |C|Hunter| |Z|Arathi Highlands|
 N Wesley |N|(50.4, 58.8)| |O| |C|Hunter| |Z|Arathi Highlands|
 R Travel to Hillsbrad Foothills |N|(50.4, 58.8)| |O| |C|Hunter| |Z|Hillsbrad Foothills|
@@ -114,9 +116,11 @@ B Buy up to a stack of [Wild Hog Shank] to serve as pet food |N|Targot Jinglepoc
 T Northfold Manor |QID|681| |N|Captain Nials - (45.8, 47.5)| |Z|Arathi Highlands|
 N Cast [Tame Beast] on a Plains Creeper to tame it |N|(48.0, 58.6)| |C|Hunter| |Z|Arathi Highlands|
 t Attack mobs with it to learn [Bite (Rank 5)] |N|Cast [Eagle Eye] to try and find a Plains Creeper. Some of their locations are marked on your map - (48.0, 58.6)| |C|Hunter| |Z|Arathi Highlands|
+N Click here for more info about pet training |N|(48.0, 58.6)| |C|Hunter| |Z|Arathi Highlands|
 N Loganaar |N|(52.5, 40.6)| |C|Druid| |Z|Arathi Highlands|
 R Travel to Moonglade |N|(52.5, 40.6)| |C|Druid| |Z|Moonglade|
 t Train your class spells |N|Teleport to Moonglade - (52.5, 40.6)| |C|Druid| |Z|Moonglade|
+H Southshore if you are far away from the Flight Path |N|Hearth to Southshore if you are far away from the Flight Path| |O| |C|!Hunter| |Z|Moonglade|
 N Buy food/water if needed |O| |C|!Warrior/!Rogue| |Z|Moonglade|
 N Buy food if needed |O| |C|Warrior/Rogue| |Z|Moonglade|
 N Darla Harris or Cedrik Prose |N|(49.3, 52.3)| |C|!Hunter| |Z|Moonglade|

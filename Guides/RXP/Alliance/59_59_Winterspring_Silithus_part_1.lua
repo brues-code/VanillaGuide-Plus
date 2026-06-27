@@ -16,10 +16,12 @@ R Travel to Stranglethorn Vale |N|(25.8, 73.1)| |C|!Mage/!Druid| |Z|Stranglethor
 F Fly to Winterspring |N|Bragok - (63.1, 37.2)| |C|!Mage/!Druid| |Z|The Barrens|
 R Azzleby |N|(60.4, 37.9)| |C|Hunter| |Z|Winterspring|
 t Attack mobs with it to learn [Claw (Rank 8)] |N|Cast [Tame Beast] on a Winterspring Screecher to tame it - (59.6, 18.0)| |C|Hunter| |Z|Winterspring|
+N Click here for more info about pet training |N|(59.6, 18.0)| |C|Hunter| |Z|Winterspring|
 R Ulbrek Firehand |N|(60.4, 37.9)| |C|Hunter| |Z|Winterspring|
 R Izzy Coppergrab |N|(61.5, 37.0)| |Z|Winterspring|
 N [Tinkee's Letter] |N|(61.5, 37.0)| |Z|Winterspring|
 R Innkeeper Vizzie |N|(61.4, 38.8)| |Z|Winterspring|
+h Everlook |N|Set hearth in Everlook (61.4, 38.8)| |Z|Winterspring|
 T Felnok Steelspring |QID|4808| |N|Felnok Steelspring - (61.6, 38.6)| |Z|Winterspring|
 A Chillwind Horns |QID|4809| |N|Felnok Steelspring - (61.6, 38.6)| |Z|Winterspring|
 A Luck Be With You |QID|969| |N|Witch Doctor Mau'ari - (61.9, 38.3)| |C|Hunter| |Z|Winterspring|
@@ -49,11 +51,12 @@ A Guardians of the Altar |QID|4901| |N|Ranshalla - (63.1, 59.5)| |Z|Winterspring
 N Guardians of the Altar will begin an escort quest. If you're in a party ensure everyone has turned in Find Ranshalla first. Auto accept has been turned off for Guardians of the Altar |N|(63.1, 59.5)| |Z|Winterspring|
 N Click the Fire of Elune torches inside the caves when Ranshalla begins channelling her spell on them, and then the Altar of Elune at the end |N|(64.8, 63.8)| |Z|Winterspring|
 C Guardians of the Altar |QID|4901| |OIDX|1| |N|Escort Ranshalla through Owl Wing Thicket (64.8, 63.8)| |Z|Winterspring|
+H Everlook |N|Hearth to Everlook| |Z|Winterspring|
 N Buy food/water if needed |C|!Warrior/!Rogue| |Z|Winterspring|
 N Buy food if needed |C|Warrior/Rogue| |Z|Winterspring|
 T Are We There, Yeti? |QID|977| |N|Umi Rumplesnicker - (60.9, 37.6)| |Z|Winterspring|
 A Are We There, Yeti? |QID|5163| |N|Umi Rumplesnicker - (60.9, 37.6)| |Z|Winterspring|
-C Are We There, Yeti? |QID|5163| |OIDX|1| |N|(61.5, 38.6)| |Z|Winterspring|
+C Are We There, Yeti? |QID|5163| |OIDX|1| |N|Use [Umi's Mechanical Yeti] on Legacki (61.5, 38.6)| |Z|Winterspring|
 T Chillwind Horns |QID|4809| |N|Felnok Steelspring - (61.6, 38.6)| |Z|Winterspring|
 T Luck Be With You |QID|969| |N|Witch Doctor Mau'ari - (61.9, 38.3)| |Z|Winterspring|
 R Izzy Coppergrab |N|(61.5, 37.0)| |Z|Winterspring|
@@ -73,18 +76,17 @@ T Seed of Life |QID|7066| |N|the Keeper Remulos - (36.2, 41.8) (Mara Dungeon Que
 T Rabine Saturna |QID|6762| |N|Rabine Saturna - (51.7, 45.1)| |Z|Moonglade|
 A Wasteland |QID|1124| |N|Rabine Saturna - (51.7, 45.1)| |Z|Moonglade|
 f Get the Moonglade Flight path |N|Sindrayl - (48.1, 67.3)| |O| |C|!Druid| |Z|Moonglade|
-F Fly to Felwood |N|Sindrayl - (48.1, 67.3)| |Z|Moonglade|
 R Head back into the Furbolg cave |N|(49.4, 31.0)| |Z|Felwood|
 N Open your Reputation pane and mark "At War" with Timbermaw Hold |N|(49.4, 31.0)| |Z|Felwood|
 N Once the General chat changes to Felwood, die to the Furbolgs intentionally |N|(49.4, 31.0)| |Z|Felwood|
+N Die and respawn at the Spirit Healer in Felwood |N|(49.4, 31.0)| |Z|Felwood|
 T Trolls of a Feather |QID|8422| |N|Impsy - (41.5, 45.0) (ST Dungeon Quest)| |C|Warlock| |D|ST| |Z|Felwood|
 R Continue south to the slime pond. Ensure you are at the arrow location |N|(40.8, 66.8)| |Z|Felwood|
+N Die and respawn at the Spirit Healer |N|(40.8, 66.8)| |Z|Felwood|
 T Blood of Morphaz |QID|8257| |N|Greta Mosshoof - (51.2, 82.1) (ST Dungeon Quest)| |C|Priest| |D|ST| |Z|Felwood|
 T A Final Blow |QID|5242| |N|Greta Mosshoof - (51.2, 82.1)| |Z|Felwood|
 T The Remains of Trey Lightforge |QID|5385| |N|Jessir Moonbow - (51.3, 82.0)| |Z|Felwood|
 T Words of the High Chief |QID|5128| |N|Kelek Skykeeper - (51.1, 81.8)| |Z|Felwood|
-T Silver Heart |QID|4084| |N|Eridan Bluewind - (51.4, 81.5)| |Z|Felwood|
-A Aquementas |QID|4005| |N|Eridan Bluewind - (51.4, 81.5)| |Z|Felwood|
 T Silver Heart |QID|4084| |N|Eridan Bluewind - (51.4, 81.5)| |Z|Felwood|
 A Aquementas |QID|4005| |N|Eridan Bluewind - (51.4, 81.5)| |Z|Felwood|
 N Their locations have been marked on your map. Don't go very far out of your way to find one |N|(63.3, 22.6)| |O| |Z|Felwood|
@@ -100,31 +102,20 @@ F Fly to Tanaris |N|Daelyshia - (34.4, 48.0) (ST Dungeon Quest)| |C|!Mage/!Hunte
 F Fly to Tanaris |N|Daelyshia - (34.4, 48.0) (ST Dungeon Quest)| |D|ST| |Z|Ashenvale|
 F Fly to Tanaris |N|Daelyshia - (34.4, 48.0) (!ST Dungeon Quest)| |D|!ST| |Z|Ashenvale|
 A Pawn Captures Queen |QID|4507| |N|Alchemist Pestlezugg - (50.9, 27.0)| |Z|Tanaris|
-C Are We There, Yeti? |QID|5163| |OIDX|2| |N|(51.1, 26.9)| |Z|Tanaris|
+C Are We There, Yeti? |QID|5163| |OIDX|2| |N|Use [Umi's Mechanical Yeti] on Sprinkle (51.1, 26.9)| |Z|Tanaris|
 A Super Sticky |QID|4504| |N|Tran'rek - (51.6, 26.8)| |Z|Tanaris|
 C [Eridan's Supplies] for the [Book of Aquor], Silvery Claws and Irontree Heart |QID|4005| |L|11169 1| |N|Open [Eridan's Supplies] for the [Book of Aquor], Silvery Claws and Irontree Heart| |O| |Z|Tanaris|
 C Aquementas |QID|4005| |OIDX|1| |N|Kill Aquementas (70.4, 49.9)| |Z|Tanaris|
-C [Eridan's Supplies] for the [Book of Aquor], Silvery Claws and Irontree Heart |QID|4005| |L|11169 1| |N|Open [Eridan's Supplies] for the [Book of Aquor], Silvery Claws and Irontree Heart| |O| |Z|Tanaris|
 T The God Hakkar |QID|3528| |N|Yeh'kinya - (67.0, 22.4) (ST Dungeon Quest)| |D|ST| |Z|Tanaris|
-C Aquementas |QID|4005| |OIDX|1| |N|Kill Aquementas (70.4, 49.9)| |Z|Tanaris|
 F Fly to Un'Goro Crater |N|Bera Stonehammer - (51.0, 29.3)| |Z|Tanaris|
 T Aquementas |QID|4005| |N|J.D. Collie - (41.9, 2.7)| |Z|Un'Goro Crater|
 A Linken's Adventure |QID|3961| |N|J.D. Collie - (41.9, 2.7)| |Z|Un'Goro Crater|
-T Aquementas |QID|4005| |N|J.D. Collie - (41.9, 2.7)| |Z|Un'Goro Crater|
-A Linken's Adventure |QID|3961| |N|J.D. Collie - (41.9, 2.7)| |Z|Un'Goro Crater|
 T Linken's Adventure |QID|3961| |N|Linken - (44.7, 8.1)| |Z|Un'Goro Crater|
 A It's Dangerous to Go Alone |QID|3962| |N|Linken - (44.7, 8.1)| |Z|Un'Goro Crater|
-T Linken's Adventure |QID|3961| |N|Linken - (44.7, 8.1)| |Z|Un'Goro Crater|
-A It's Dangerous to Go Alone |QID|3962| |N|Linken - (44.7, 8.1)| |Z|Un'Goro Crater|
-C Are We There, Yeti? |QID|5163| |OIDX|3| |N|(43.7, 9.4)| |Z|Un'Goro Crater|
+C Are We There, Yeti? |QID|5163| |OIDX|3| |N|Use [Umi's Mechanical Yeti] on Quixxil (43.7, 9.4)| |Z|Un'Goro Crater|
 C Super Sticky |QID|4504| |OIDX|1| |N|Tar Beasts, Tar Creepers, Tar Lurkers and Tar Lords. Loot them for their Super Sticky Tar (51.6, 24.8)| |Z|Un'Goro Crater|
 N Make your way to the top of Fire Plume Ridge |O| |Z|Un'Goro Crater|
 N Use the [Silver Totem of Aquementas] on Blazerunner to dispel his aura. His aura will knock you back, and he can periodically recast it during combat. Ensure someone is always ready to use the [Silver Totem of Aquementas] |O| |Z|Un'Goro Crater|
-N Kill Blazerunner |N|(49.4, 49.3)| |Z|Un'Goro Crater|
-C It's Dangerous to Go Alone |QID|3962| |OIDX|1| |N|Use the [Silver Totem of Aquementas] on Blazerunner to dispel his aura (49.4, 49.3)| |Z|Un'Goro Crater|
-C It's Dangerous to Go Alone |QID|3962| |OIDX|2| |N|the Ornate Chest. Loot it for the Golden Flame (50.3, 50.0)| |Z|Un'Goro Crater|
-N Make your way to the top of Fire Plume Ridge |O| |Z|Un'Goro Crater|
-N Use the [Silver Totem of Aquementas] on Blazerunner to dispel his aura. His aura will knock you back, and he can periodically recast it during combat. Ensure you or a party member is always ready to use the [Silver Totem of Aquementas] |O| |Z|Un'Goro Crater|
 N Kill Blazerunner |N|(49.4, 49.3)| |Z|Un'Goro Crater|
 C It's Dangerous to Go Alone |QID|3962| |OIDX|1| |N|Use the [Silver Totem of Aquementas] on Blazerunner to dispel his aura (49.4, 49.3)| |Z|Un'Goro Crater|
 C It's Dangerous to Go Alone |QID|3962| |OIDX|2| |N|the Ornate Chest. Loot it for the Golden Flame (50.3, 50.0)| |Z|Un'Goro Crater|
@@ -154,12 +145,14 @@ N Kill Stonelash Scorpids. Loot them for their Scorpid Stingers |O| |Z|Silithus|
 C Securing the Supply Lines |QID|8280| |OIDX|1| |N|Kill Dredge Strikers| |O| |Z|Silithus|
 C Deadly Desert Venom |QID|8277| |OIDX|2| |N|Kill Dredge Strikers| |O| |Z|Silithus|
 N Hive'Ashi Drones may drop [Brann Bronzebeard's Lost Letter] |N|(63.7, 49.0)| |O| |Z|Silithus|
+N Use [Brann Bronzebeard's Lost Letter] to start the quest |N|(63.7, 49.0)| |O| |Z|Silithus|
 C The Spirits of Southwind |QID|1125| |OIDX|1| |N|Tortured Druids and Tortured Sentinels. When they die they have a chance to spawn a Hive'Ashi Drone which you will also have to kill (63.7, 49.0)| |O| |Z|Silithus|
 C Tortured Druids and Tortured Sentinels. When they die they have a chance to spawn a Hive'Ashi Drone which you will also have to kill |QID|8308| |L|20461 1| |N|Tortured Druids and Tortured Sentinels. When they die they have a chance to spawn a Hive'Ashi Drone which you will also have to kill - (63.7, 49.0)| |O| |Z|Silithus|
 A Brann Bronzebeard's Lost Letter |QID|8308| |N|Tortured Druids and Tortured Sentinels. When they die they have a chance to spawn a Hive'Ashi Drone which you will also have to kill - (63.7, 49.0)| |O| |Z|Silithus|
 N Open the Dusty Reliquary on the ground. Loot it for the Reliquary of Purity |N|(63.2, 55.4)| |Z|Silithus|
 C Enter the small lodge |QID|5527| |OIDX|1| |N|Enter the small lodge - (63.2, 55.4)| |Z|Silithus|
 N Hive'Ashi Drones may drop [Brann Bronzebeard's Lost Letter] |N|(63.7, 49.0)| |Z|Silithus|
+N Use [Brann Bronzebeard's Lost Letter] to start the quest |N|(63.7, 49.0)| |Z|Silithus|
 C The Spirits of Southwind |QID|1125| |OIDX|1| |N|Tortured Druids and Tortured Sentinels. When they die they have a chance to spawn a Hive'Ashi Drone which you will also have to kill (63.7, 49.0)| |Z|Silithus|
 C Tortured Druids and Tortured Sentinels. When they die they have a chance to spawn a Hive'Ashi Drone which you will also have to kill |QID|8308| |L|20461 1| |N|Tortured Druids and Tortured Sentinels. When they die they have a chance to spawn a Hive'Ashi Drone which you will also have to kill - (63.7, 49.0)| |Z|Silithus|
 A Brann Bronzebeard's Lost Letter |QID|8308| |N|Tortured Druids and Tortured Sentinels. When they die they have a chance to spawn a Hive'Ashi Drone which you will also have to kill - (63.7, 49.0)| |Z|Silithus|
@@ -224,8 +217,6 @@ T True Believers |QID|8323| |N|Hermit Ortell - (67.2, 69.8)| |Z|Silithus|
 T Secret Communication |QID|8318| |N|Bor Wildmane - (48.6, 37.8)| |Z|Silithus|
 T A Terrible Purpose |QID|8287| |N|Commander Mar'alith - (49.2, 34.2)| |Z|Silithus|
 T Noggle's Lost Satchel |QID|8282| |N|Noggle Ficklespragg upstairs - (51.6, 38.5)| |Z|Silithus|
-F Fly to Un'Goro Crater |N|Cloud Skydancer - (50.6, 34.4)| |O| |Z|Silithus|
-T It's Dangerous to Go Alone |QID|3962| |N|Linken - (44.7, 8.1)| |Z|Un'Goro Crater|
 F Fly to Un'Goro Crater |N|Cloud Skydancer - (50.6, 34.4)| |O| |Z|Silithus|
 T It's Dangerous to Go Alone |QID|3962| |N|Linken - (44.7, 8.1)| |Z|Un'Goro Crater|
 R Travel to Silithus |N|(50.6, 34.4)| |O| |Z|Silithus|

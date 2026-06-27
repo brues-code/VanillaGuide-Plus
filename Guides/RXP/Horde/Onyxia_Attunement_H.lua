@@ -18,8 +18,8 @@ C Warlord's Command |QID|4903| |OIDX|2| |N|Kill Highlord Omokk, War Master Voone
 T Warlord's Command |QID|4903| |N|Warlord Goretooth - (5.8, 47.5)| |Z|Badlands|
 A Eitrigg's Wisdom |QID|4941| |N|Warlord Goretooth - (5.8, 47.5)| |Z|Badlands|
 R Travel to Orgrimmar |N|(34.3, 39.4)| |Z|Orgrimmar|
-T Eitrigg's Wisdom |QID|4941| |N|Eitrigg and go through the dialogue, then Thrall - (31.7, 37.8)| |Z|Orgrimmar|
-A For The Horde! |QID|4974| |N|Eitrigg and go through the dialogue, then Thrall - (31.7, 37.8)| |Z|Orgrimmar|
+T Eitrigg's Wisdom |QID|4941| |N|Eitrigg and go through the dialogue, then talk to Thrall - (31.7, 37.8)| |Z|Orgrimmar|
+A For The Horde! |QID|4974| |N|Eitrigg and go through the dialogue, then talk to Thrall - (31.7, 37.8)| |Z|Orgrimmar|
 N This is a 10-man dungeon. You or somebody in your party must have the [Seal of Ascension] to be able to enter Upper Blackrock Spire |O| |Z|Orgrimmar|
 C For The Horde! |QID|4974| |OIDX|1| |N|Kill Rend Blackhand. Loot him for his Head Head of Rend Blackhand 1/1| |Z|Orgrimmar|
 T For The Horde! |QID|4974| |N|Thrall - (31.7, 37.8)| |Z|Orgrimmar|
@@ -42,6 +42,7 @@ C Oculus Illusions |QID|6569| |OIDX|1| |N|Kill any type of Dragonkin. Loot them 
 T Oculus Illusions |QID|6569| |N|Myranda the Hag - (50.8, 77.8)| |Z|Western Plaguelands|
 A Emberstrife |QID|6570| |N|Myranda the Hag - (50.8, 77.8)| |Z|Western Plaguelands|
 R Travel to Dustwallow Marsh |N|(54.4, 84.2)| |O| |Z|Dustwallow Marsh|
+N Use the [Amulet of Draconic Subversion] to disguise yourself |N|(56.7, 87.6)| |Z|Dustwallow Marsh|
 T Emberstrife |QID|6570| |N|Emberstrife - (56.7, 87.6)| |Z|Dustwallow Marsh|
 A The Test of Skulls, Scryer |QID|6582| |N|Emberstrife - (56.7, 87.6)| |Z|Dustwallow Marsh|
 A The Test of Skulls, Somnus |QID|6583| |N|Emberstrife - (56.7, 87.6)| |Z|Dustwallow Marsh|
@@ -67,6 +68,7 @@ R Travel to Tanaris |N|(61.5, 50.5)| |O| |Z|Tanaris|
 N Be careful of his [Sand Breath] ability (AOE spray in front of him) |N|(64.8, 50.5)| |Z|Tanaris|
 C The Test of Skulls, Chronalis |QID|6584| |OIDX|1| |N|Chronalis. Loot him for his Skull The Skull of Chronalis 1/1| |Z|Tanaris|
 R Travel to Dustwallow Marsh |N|(54.4, 84.2)| |O| |Z|Dustwallow Marsh|
+N Use the [Amulet of Draconic Subversion] to disguise yourself |N|(56.7, 87.6)| |Z|Dustwallow Marsh|
 T The Test of Skulls, Scryer |QID|6582| |N|Emberstrife - (56.7, 87.6)| |Z|Dustwallow Marsh|
 T The Test of Skulls, Somnus |QID|6583| |N|Emberstrife - (56.7, 87.6)| |Z|Dustwallow Marsh|
 T The Test of Skulls, Chronalis |QID|6584| |N|Emberstrife - (56.7, 87.6)| |Z|Dustwallow Marsh|
@@ -75,6 +77,7 @@ R Travel to Wetlands |N|(75.4, 46.8)| |O| |Z|Wetlands|
 N Be careful of his [Flame Breath] ability (AOE spray in front of him) |N|(85.6, 50.9)| |Z|Wetlands|
 C The Test of Skulls, Axtroz |QID|6585| |OIDX|1| |N|Axtroz. Loot him for his Skull The Skull of Axtroz 1/1| |Z|Wetlands|
 R Travel to Dustwallow Marsh |N|(54.4, 84.2)| |O| |Z|Dustwallow Marsh|
+N Use the [Amulet of Draconic Subversion] to disguise yourself |N|(56.7, 87.6)| |Z|Dustwallow Marsh|
 T The Test of Skulls, Axtroz |QID|6585| |N|Emberstrife - (56.7, 87.6)| |Z|Dustwallow Marsh|
 A Ascension... |QID|6601| |N|Emberstrife - (56.7, 87.6)| |Z|Dustwallow Marsh|
 R Travel to Feralas |N|(46.3, 20.9)| |Z|Feralas|

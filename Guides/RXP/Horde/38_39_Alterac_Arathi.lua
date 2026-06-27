@@ -26,7 +26,6 @@ B Auctioneer Stockton in the Trade Quarter |L|3829 1| |N|Auctioneer Stockton in 
 N If you have money leftover, purchase the following items: |N|(71.4, 46.7)| |Z|Undercity|
 B Auctioneer Stockton in the Trade Quarter |L|3829 1| |N|Auctioneer Stockton in the Trade Quarter - (71.4, 46.7)| |Z|Undercity|
 B Ronald. Buy [Soothing Spices] from him |L|3713 1| |N|Ronald. Buy [Soothing Spices] from him - (62.3, 43.1)| |Z|Undercity|
-R Travel to Arathi Highlands |N|(45.8, 43.6)| |O| |C|Warrior| |Z|Arathi Highlands|
 C Cresting Exiles. Loot them for their [Cresting Charms] |QID|1713| |L|4481 8| |N|Cresting Exiles. Loot them for their [Cresting Charms] - (66.7, 29.7)| |C|Warrior| |Z|Arathi Highlands|
 N Be careful! Thundering Exiles have high burst damage |N|(52.1, 50.6)| |C|Warrior| |Z|Arathi Highlands|
 C Thundering Exiles. Loot them for their [Thundering Charms] |QID|1713| |L|4480 8| |N|Thundering Exiles. Loot them for their [Thundering Charms] - (52.1, 50.6)| |C|Warrior| |Z|Arathi Highlands|
@@ -40,6 +39,8 @@ A WANTED: Baron Vardus |QID|566| |N|the WANTED: Baron Vardus poster next to Meli
 A Soothing Turtle Bisque |QID|7321| |N|Christoph inside the inn - (62.3, 19.1)| |Z|Hillsbrad Foothills|
 T Soothing Turtle Bisque |QID|7321| |N|Christoph inside the inn - (62.3, 19.1)| |Z|Hillsbrad Foothills|
 A Gol'dir |QID|503| |N|Krusk - (63.2, 20.6)| |Z|Hillsbrad Foothills|
+N CLICK HERE |O| |C|Warrior| |Z|Hillsbrad Foothills|
+N While traveling, use a [Nature Protection Potion] |N|(80.5, 66.9)| |C|Warrior| |Z|Alterac Mountains|
 T Essence of the Exile |QID|1714| |N|Bath'rah the Windwatcher - (80.5, 66.9)| |C|Warrior| |Z|Alterac Mountains|
 T Cyclonian |QID|1712| |N|Bath'rah the Windwatcher - (80.5, 66.9)| |C|Warrior| |Z|Alterac Mountains|
 A The Summoning |QID|1713| |N|Bath'rah the Windwatcher - (80.5, 66.9)| |C|Warrior| |Z|Alterac Mountains|
@@ -63,7 +64,7 @@ B Sell your junk, then restock on food and water if necessary |N|Innkeeper Shay 
 B Sell your junk, then restock on food if necessary |N|Innkeeper Shay - (62.8, 19.1)| |C|Rogue/Warrior| |Z|Hillsbrad Foothills|
 A Bracers of Binding |QID|557| |N|Bel'varil and Wordeen - (61.6, 20.9)| |C|Warrior| |Z|Hillsbrad Foothills|
 A Dalaran Patrols |QID|545| |N|Bel'varil and Wordeen - (61.6, 20.9)| |C|Warrior| |Z|Hillsbrad Foothills|
-R Travel to Alterac Mountains |N|(39.9, 80.9)| |O| |Z|Alterac Mountains|
+R Travel to Alterac Mountains |N|(21.3, 53.5)| |Z|Alterac Mountains|
 C Dalaran Patrols |QID|545| |OIDX|1| |N|Dalaran Summoners and Elemental Slaves. Loot them for their Bracers (20.5, 75.2)| |Z|Alterac Mountains|
 C Bracers of Binding |QID|557| |OIDX|1| |N|Dalaran Summoners and Elemental Slaves. Loot them for their Bracers (20.5, 75.2)| |Z|Alterac Mountains|
 N Be mindful of Syndicate Assassins. Aliden uses Power Word: Shield, casts Renew, and will sleep pets and other players |N|(39.3, 14.5)| |Z|Alterac Mountains|
@@ -97,6 +98,7 @@ C Stones of Binding |QID|651| |OIDX|1| |N|the Stone of West Binding for the Burn
 N She has two spawn locations in the eastern side of the keep (outside). You can stealth to her |N|(29.6, 63.0)| |C|Rogue| |Z|Arathi Highlands|
 N She is elite but can be killed solo. Use [Gouge] to restore energy and kite her. Apply [Crippling Poison] for additional safety |N|(29.6, 63.0)| |C|Rogue| |Z|Arathi Highlands|
 N Be careful of Syndicate Prowlers, they will not body pull as you agro Marez Cowl |N|(29.6, 63.0)| |C|Rogue| |Z|Arathi Highlands|
+N Click here for video reference |N|(29.6, 63.0)| |C|Rogue| |Z|Arathi Highlands|
 C Foul Magics |QID|673| |OIDX|1| |N|Marez Cowl. Loot her for her Orb (29.6, 63.0)| |C|Rogue| |Z|Arathi Highlands|
 N Be careful of Rumbling Exiles. Their stun has no diminishing return |N|(36.2, 57.3)| |Z|Arathi Highlands|
 T Stones of Binding |QID|651| |N|the Stone of Inner Binding - (36.2, 57.3)| |Z|Arathi Highlands|
@@ -129,7 +131,7 @@ B Sell your junk, then restock on food if necessary |N|Innkeeper Adegwa - (73.8,
 A Guile of the Raptor |QID|847| |N|Gor'mul - (72.6, 33.9)| |Z|Arathi Highlands|
 T Guile of the Raptor |QID|847| |N|Tor'gan - (74.7, 36.4)| |Z|Arathi Highlands|
 A Triage |QID|6622| |N|Doctor Gregory Victor - (73.4, 36.9)| |Z|Arathi Highlands|
-C Triage |QID|6622| |OIDX|1| |N|(73.0, 36.8)| |Z|Arathi Highlands|
+C Triage |QID|6622| |OIDX|1| |N|Channel the [Triage Bandage] on the Horde Soldiers. Prioritize Critically Injured Soldiers first (73.0, 36.8)| |Z|Arathi Highlands|
 T Triage |QID|6622| |N|Doctor Gregory Victor - (73.4, 36.9)| |Z|Arathi Highlands|
 A The Real Threat |QID|680| |N|Korin Fel - (74.0, 33.2)| |Z|Arathi Highlands|
 A Sigil of Strom |QID|639| |N|Zengu - (73.8, 33.9)| |Z|Arathi Highlands|
@@ -160,6 +162,7 @@ C Sunken Treasure |QID|665| |OIDX|1| |N|Wait for Phizzlethorpe's roleplay, then 
 T Sunken Treasure |QID|665| |N|Doctor Draxlegauge - (33.8, 80.5)| |Z|Arathi Highlands|
 A Sunken Treasure |QID|666| |N|Doctor Draxlegauge - (33.8, 80.5)| |Z|Arathi Highlands|
 C Drowned Sorrows |QID|664| |OIDX|1| |N|Kill Daggerspine Raiders and Sorceresses| |O| |Z|Arathi Highlands|
+N Equip your [Goggles of Gem Hunting] to see them on your minimap |O| |Z|Arathi Highlands|
 C Sunken Treasure |QID|666| |OIDX|1| |N|Find Calcified Elven Gems. Loot them for Elven Gems| |O| |Z|Arathi Highlands|
 N The log is on the ship's mid-level, towards its front |N|(23.4, 85.1)| |Z|Arathi Highlands|
 C Deep Sea Salvage |QID|662| |OIDX|2| |N|the Book for Maiden's Folly Log (23.4, 85.1)| |Z|Arathi Highlands|
@@ -169,6 +172,7 @@ N The charts are on the ship's mid-level, towards its front, on a crate next to 
 C Deep Sea Salvage |QID|662| |OIDX|3| |N|the Unfurled Parchment for Spirit of Silverpine Charts (20.5, 85.6)| |Z|Arathi Highlands|
 N The log is on the ship's lowest-level, towards its front, laying in dirt |N|(20.6, 85.1)| |Z|Arathi Highlands|
 C Deep Sea Salvage |QID|662| |OIDX|4| |N|the Book for Spirit of Silverpine Log (20.6, 85.1)| |Z|Arathi Highlands|
+N Equip your [Goggles of Gem Hunting] to see them on your minimap |N|(23.2, 89.7)| |Z|Arathi Highlands|
 C Sunken Treasure |QID|666| |OIDX|1| |N|Find Calcified Elven Gems. Loot them for Elven Gems (23.2, 89.7)| |Z|Arathi Highlands|
 C Drowned Sorrows |QID|664| |OIDX|1| |N|Finish killing Daggerspine Raiders and Sorceresses (19.8, 84.0)| |Z|Arathi Highlands|
 T Deep Sea Salvage |QID|662| |N|Nilzlix - (32.8, 81.5)| |Z|Arathi Highlands|

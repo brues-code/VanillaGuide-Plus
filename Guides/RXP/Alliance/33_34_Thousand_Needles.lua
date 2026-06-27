@@ -15,6 +15,7 @@ A The Missing Diplomat |QID|1265| |N|Commander Samaul - (67.9, 48.5)| |Z|Dustwal
 A They Call Him Smiling Jim |QID|1282| |N|Guard Byron - (66.2, 46.1)| |Z|Dustwallow Marsh|
 N Michael |N|(66.0, 45.5)| |C|Hunter| |Z|Dustwallow Marsh|
 N Innkeeper Janene |N|(66.6, 45.2)| |Z|Dustwallow Marsh|
+h Theramore |N|Set hearth in Theramore (66.6, 45.2)| |Z|Dustwallow Marsh|
 A Highperch Venom |QID|1135| |N|Fiora Longears - (66.5, 45.1)| |Z|Dustwallow Marsh|
 N Buy 3 [Soothing Spices] from her |N|(66.4, 51.5)| |Z|Dustwallow Marsh|
 B Helenia Olden |L|3713 3| |N|Helenia Olden - (66.4, 51.5)| |Z|Dustwallow Marsh|
@@ -26,14 +27,6 @@ A The Missing Diplomat |QID|1266| |N|the Sentry Point Tower - (59.7, 41.2)| |Z|D
 A Soothing Spices |QID|1218| |N|"Swamp Eye" Jarl - (55.4, 26.3)| |Z|Dustwallow Marsh|
 T Soothing Spices |QID|1218| |N|"Swamp Eye" Jarl - (55.4, 26.3)| |Z|Dustwallow Marsh|
 A The Orc Report |QID|1219| |N|the Loost Dirt - (55.4, 25.9)| |Z|Dustwallow Marsh|
-N IF YOU CHOOSE TO ACCEPT THE FOLLOW UP QUEST YOU WILL BE PVP FLAGGED! MEANING HORDE PLAYERS CAN KILL YOU! PROCEED AT YOUR OWN RISK! |N|(45.2, 24.6)| |Z|Dustwallow Marsh|
-N You will NOT be PvP Flagged for turning in this current quest. Auto accept has been turned OFF for the follow up |N|(45.2, 24.6)| |Z|Dustwallow Marsh|
-T The Missing Diplomat |QID|1266| |N|Private Hendel - (45.2, 24.6)| |Z|Dustwallow Marsh|
-N IF YOU CHOOSE TO ACCEPT THIS QUEST YOU WILL BE PVP FLAGGED! MEANING HORDE PLAYERS CAN KILL YOU! PROCEED AT YOUR OWN RISK! |N|(45.2, 24.6)| |Z|Dustwallow Marsh|
-A The Missing Diplomat |QID|1324| |N|Private Hendel - (45.2, 24.6)| |Z|Dustwallow Marsh|
-N Blizzard has adjusted this quest so it will no longer PvP Flag you on Official Hardcore Servers |N|(45.2, 24.6)| |Z|Dustwallow Marsh|
-T The Missing Diplomat |QID|1266| |N|Private Hendel - (45.2, 24.6)| |Z|Dustwallow Marsh|
-A The Missing Diplomat |QID|1324| |N|Private Hendel - (45.2, 24.6)| |Z|Dustwallow Marsh|
 T The Missing Diplomat |QID|1266| |N|Private Hendel - (45.2, 24.6)| |Z|Dustwallow Marsh|
 A The Missing Diplomat |QID|1324| |N|Private Hendel - (45.2, 24.6)| |Z|Dustwallow Marsh|
 N They will both reset once you subdue Private Hendel |N|(45.2, 24.6)| |Z|Dustwallow Marsh|
@@ -47,7 +40,7 @@ A Lieutenant Paval Reethe |QID|1252| |N|Click the Hoofprints on the ground - (29
 A The Black Shield |QID|1253| |N|(29.8, 48.2)| |Z|Dustwallow Marsh|
 R Travel to Thousand Needles |N|(32.1, 22.3)| |O| |Z|Thousand Needles|
 C [Henrig Lonebrow's Journal] from the ground next to the dwarf's corpse |L|5791 1| |N|[Henrig Lonebrow's Journal] from the ground next to the dwarf's corpse - (30.7, 24.3)| |Z|Thousand Needles|
-A Lonebrow's Journal |QID|1100| |Z|Thousand Needles|
+A Lonebrow's Journal |QID|1100| |N|Use [Henrig Lonebrow's Journal] to start the quest| |Z|Thousand Needles|
 R Thalanaar |N|(89.5, 45.9)| |O| |Z|Feralas|
 f Get the Thalanaar flight path |N|Thyssiana - (89.5, 45.9)| |Z|Feralas|
 T Lonebrow's Journal |QID|1100| |N|Falfindel Waywarder - (89.6, 46.6)| |Z|Feralas|
@@ -109,6 +102,7 @@ A Wharfmaster Dizzywig |QID|1111| |N|Kravel Koalbeard - (77.8, 77.3)| |Z|Thousan
 A Hemet Nesingwary |QID|5762| |N|Kravel Koalbeard - (77.8, 77.3)| |Z|Thousand Needles|
 R Tanaris |N|(51.0, 29.4)| |O| |Z|Tanaris|
 f Get the Tanaris Flight Path |N|Bera Stonehammer - (51.0, 29.3)| |Z|Tanaris|
+H Theramore |N|Hearth to Theramore| |O| |Z|Tanaris|
 N Buy food/water if needed |O| |C|!Warrior/!Rogue| |Z|Tanaris|
 N Buy food if needed |O| |C|Warrior/Rogue| |Z|Tanaris|
 R Travel to Dustwallow Marsh |N|(66.5, 45.1)| |Z|Dustwallow Marsh|

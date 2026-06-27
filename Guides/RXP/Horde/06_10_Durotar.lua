@@ -35,13 +35,10 @@ C A Solvent Spirit |QID|818| |OIDX|2| |N|Run down the beach. Kill Crawlers and M
 R Reach the end of the beach |N|(52.2, 83.0)| |Z|Durotar|
 C Carry Your Weight |QID|791| |OIDX|1| |N|Kill Kolkar Drudges and Kolkar Outrunners. Loot them for their Canvas Scraps Canvas Scraps (8)| |O| |Z|Durotar|
 R Enter the Kolkar base |N|(50.9, 79.2)| |Z|Durotar|
-C Linen Cloth (60) |L|2589 60| |N|Start collecting 3 stacks of [Linen Cloth] as you quest throughout Durotar. This will be used to make your wand later| |O| |C|Priest| |Z|Durotar|
 C Thwarting Kolkar Aggression |QID|786| |OIDX|1| |N|Burn the Attack Plan inside the tent on the ground Attack Plan: Valley of Trials destroyed (1)| |Z|Durotar|
 C Thwarting Kolkar Aggression |QID|786| |OIDX|2| |N|Burn the Attack Plan on the ground Attack Plan: Sen'jin Village destroyed (1)| |Z|Durotar|
 C Thwarting Kolkar Aggression |QID|786| |OIDX|3| |N|Burn the Attack Plan on the ground Attack Plan: Orgrimmar destroyed (1)| |Z|Durotar|
-R Leave the Kolkar base |N|(51.0, 79.1)| |O| |Z|Durotar|
-T Thwarting Kolkar Aggression |QID|786| |N|Lar. He patrols a little - (54.2, 73.4)| |C|Shaman| |Z|Durotar|
-T Thwarting Kolkar Aggression |QID|786| |N|Lar. He patrols a little - (54.2, 73.4)| |C|!Shaman| |Z|Durotar|
+N Die at the Bonfire and respawn at the Spirit Healer |N|(57.5, 73.3)| |Z|Durotar|
 B Vendor trash. Sell your weapon if it gives you enough money for a [Walking Stick] (5s 04c). You'll come back later if you don't have enough yet |N|Trayexir - (56.5, 73.1)| |C|Shaman| |Z|Durotar|
 B Collect Walking Stick (1) |L|2495 1| |N|Trayexir. Buy a [Walking Stick] from him - (56.5, 73.1)| |C|Shaman| |Z|Durotar|
 B Vendor trash. Sell your weapon if it gives you enough money for a [Stiletto] (4s 01c). You'll come back later if you don't have enough yet |N|Trayexir - (56.5, 73.1)| |C|Rogue| |Z|Durotar|
@@ -62,23 +59,7 @@ N Buy [Refreshing Spring Water] from her --Refreshing Spring Water (10) |N|(56.3
 B K'waii |L|159 10| |N|K'waii - (56.3, 73.4)| |C|Warlock/Mage/Priest| |Z|Durotar|
 T Thwarting Kolkar Aggression |QID|786| |N|Lar. He patrols a little - (54.2, 73.4)| |C|Shaman| |Z|Durotar|
 T Thwarting Kolkar Aggression |QID|786| |N|Lar. He patrols a little - (54.2, 73.4)| |C|!Shaman| |Z|Durotar|
-T Report to Orgnil |QID|823| |N|Orgnil, Gar'Thok and Torka - (52.2, 43.1)| |Z|Durotar|
-A Dark Storms |QID|806| |N|Orgnil, Gar'Thok and Torka - (52.2, 43.1)| |Z|Durotar|
-A Vanquish the Betrayers |QID|784| |N|Orgnil, Gar'Thok and Torka - (52.2, 43.1)| |Z|Durotar|
-A Encroachment |QID|837| |N|Orgnil, Gar'Thok and Torka - (52.2, 43.1)| |Z|Durotar|
-A Break a Few Eggs |QID|815| |N|(52.0, 43.5)| |Z|Durotar|
-R Travel toward the tower |N|(49.7, 40.4)| |O| |Z|Durotar|
-R Travel up the tower toward Furl |N|(49.6, 40.0)| |O| |Z|Durotar|
-A Carry Your Weight |QID|791| |N|Furl - (49.9, 40.4)| |Z|Durotar|
-t Train [Mining] |N|Krunn - (51.8, 40.9)| |C|Warrior/Rogue| |Z|Durotar|
-N This will allow you to find [Rough Stones] from nodes in order to craft [Sharpening Stones] (+2 Weapon Damage for 30 minutes) |N|(51.8, 40.9)| |C|Warrior/Rogue| |Z|Durotar|
-N Buy a [Mining Pick] from him |N|(51.9, 41.1)| |C|Warrior/Rogue| |Z|Durotar|
-B Mining Pick (1) |L|2901 1| |N|Wuark - (51.9, 41.1)| |C|Warrior/Rogue| |Z|Durotar|
-t Train [Blacksmithing] |N|Dwukk - (52.0, 40.7)| |C|Warrior/Rogue| |Z|Durotar|
-C Cast [Find Minerals] and mine any Copper Vein you find for [Rough Stones]. Make [Sharpening Stones] from them |QID|786| |L|2862 1| |O| |C|Warrior/Rogue| |Z|Durotar|
-t Mining Trained |O| |C|Warrior/Rogue| |Z|Durotar|
 N Grind mobs on the way |N|(54.4, 62.6)| |Z|Durotar|
-N Grind mobs on the way |N|(57.3, 54.7)| |Z|Durotar|
 R Move toward the second floor of the keep |N|(59.3, 57.9)| |O| |Z|Durotar|
 C Vanquish the Betrayers |QID|784| |OIDX|1| |N|Kill Kul Tiras Sailors and Kul Tiras Marines. Loot them for their Canvas Scraps Kul Tiras Sailor (10)| |O| |Z|Durotar|
 C Carry Your Weight |QID|791| |OIDX|1| |N|Kill Kul Tiras Sailors and Kul Tiras Marines. Loot them for their Canvas Scraps Canvas Scraps (8)| |O| |Z|Durotar|
@@ -92,6 +73,7 @@ C Vanquish the Betrayers |QID|784| |OIDX|1| |N|Kul Tiras Sailors and Kul Tiras M
 C Carry Your Weight |QID|791| |OIDX|1| |N|Kul Tiras Sailors and Kul Tiras Marines. Loot them for their Canvas Scraps Canvas Scraps (8)| |Z|Durotar|
 C Vanquish the Betrayers |QID|784| |OIDX|1| |N|Kul Tiras Sailors and Kul Tiras Marines Kul Tiras Sailor (10)| |O| |Z|Durotar|
 C Carry Your Weight |QID|791| |OIDX|1| |N|Kul Tiras Sailors and Kul Tiras Marines. Loot them for their Canvas Scraps Canvas Scraps (8)| |O| |Z|Durotar|
+N Die at the northern tower outside of Tiragarde Keep and respawn at the Spirit Healer |N|(57.3, 53.5)| |O| |Z|Durotar|
 T Report to Orgnil |QID|823| |N|Orgnil, Gar'Thok and Torka - (52.2, 43.1)| |Z|Durotar|
 A Dark Storms |QID|806| |N|Orgnil, Gar'Thok and Torka - (52.2, 43.1)| |Z|Durotar|
 T Vanquish the Betrayers |QID|784| |N|Orgnil, Gar'Thok and Torka - (52.2, 43.1)| |Z|Durotar|
@@ -100,10 +82,6 @@ A From The Wreckage.... |QID|825| |N|Orgnil, Gar'Thok and Torka - (52.2, 43.1)| 
 A The Admiral's Orders |QID|831| |N|Orgnil, Gar'Thok and Torka - (52.2, 43.1)| |Z|Durotar|
 A Encroachment |QID|837| |N|Orgnil, Gar'Thok and Torka - (52.2, 43.1)| |Z|Durotar|
 A Break a Few Eggs |QID|815| |N|(52.0, 43.5)| |Z|Durotar|
-T Vanquish the Betrayers |QID|784| |N|Gar'Thok - (52.0, 43.5)| |Z|Durotar|
-T The Admiral's Orders |QID|830| |N|Gar'Thok - (52.0, 43.5)| |Z|Durotar|
-A From The Wreckage.... |QID|825| |N|Gar'Thok - (52.0, 43.5)| |Z|Durotar|
-A The Admiral's Orders |QID|831| |N|Gar'Thok - (52.0, 43.5)| |Z|Durotar|
 R Travel toward the tower |N|(49.7, 40.4)| |O| |Z|Durotar|
 R Travel up the tower toward Furl |N|(49.6, 40.0)| |O| |Z|Durotar|
 T Carry Your Weight |QID|791| |N|Furl - (49.9, 40.4)| |Z|Durotar|
@@ -128,6 +106,7 @@ N Buy [Haunch of Meat] from him |N|(51.5, 41.6)| |C|Rogue/Warrior| |Z|Durotar|
 N Save 4 silver for your class spells! |N|(51.5, 41.6)| |C|Rogue/Warrior/Shaman/Warlock| |Z|Durotar|
 N Save 2 silver for your class spells! |N|(51.5, 41.6)| |C|Priest| |Z|Durotar|
 B Vendor Trash |N|Innkeeper Grosk - (51.5, 41.6)| |Z|Durotar|
+h Razor Hill |N|Set hearth in Razor Hill (51.5, 41.6)| |Z|Durotar|
 T A Peon's Burden |QID|2161| |N|Innkeeper Grosk - (51.5, 41.6)| |Z|Durotar|
 t Training (6760) |N|Innkeeper Grosk - (51.5, 41.6)| |C|Rogue| |Z|Durotar|
 t Training (139) |N|Innkeeper Grosk - (51.5, 41.6)| |C|Priest| |Z|Durotar|
@@ -137,6 +116,7 @@ t Training (284) |N|Innkeeper Grosk - (51.5, 41.6)| |C|Warrior| |Z|Durotar|
 N Buy [Ice Cold Milk] from him |N|(51.5, 41.6)| |O| |C|Mage/Warlock/Priest/Shaman/Druid| |Z|Durotar|
 N Buy [Haunch of Meat] from him |N|(51.5, 41.6)| |O| |C|Rogue/Warrior| |Z|Durotar|
 B Vendor Trash |N|Innkeeper Grosk - (51.5, 41.6)| |O| |C|!Mage/!Hunter/!Druid| |Z|Durotar|
+h Razor Hill |N|Set hearth in Razor Hill (51.5, 41.6)| |O| |C|!Mage/!Hunter/!Druid| |Z|Durotar|
 T A Peon's Burden |QID|2161| |N|Innkeeper Grosk - (51.5, 41.6)| |O| |C|!Mage/!Hunter/!Druid| |Z|Durotar|
 t Training (6760) |N|Innkeeper Grosk - (51.5, 41.6)| |O| |C|Rogue| |Z|Durotar|
 t Training (139) |N|Innkeeper Grosk - (51.5, 41.6)| |O| |C|Priest| |Z|Durotar|
@@ -187,6 +167,7 @@ C A Solvent Spirit |QID|818| |OIDX|2| |N|Kill Pygmy Surf Crawlers and Surf Crawl
 C Practical Prey |QID|817| |OIDX|1| |N|Durotar Tigers. Loot them for their Fur Durotar Tiger Fur (4)| |Z|Durotar|
 N Kill Makrura Shellhides and Makrura Clackers. Loot them for their Eyes |N|(53.8, 83.1)| |Z|Durotar|
 C A Solvent Spirit |QID|818| |OIDX|2| |N|Pygmy Surf Crawlers and Surf Crawlers. Loot them for their Mucus Crawler Mucus (8)| |Z|Durotar|
+N Die and respawn at the Spirit Healer, or run back |N|(57.5, 73.3)| |O| |Z|Durotar|
 N Jump into the hut |N|(56.5, 73.1)| |Z|Durotar|
 B Vendor trash and repair |N|Trayexir - (56.5, 73.1)| |Z|Durotar|
 t Train your class spells |N|Un'Thuwa - (56.3, 75.1)| |C|Mage| |Z|Durotar|
@@ -205,17 +186,18 @@ A Taming the Beast |QID|6062| |N|Go inside the bunker - (51.9, 43.5)| |C|Hunter|
 t Train your class spells |N|Go inside the bunker - (51.9, 43.5)| |C|Hunter| |Z|Durotar|
 B Sharp Arrow (1200) |L|2515 1200| |N|Ghrawt. Buy [Sharp Arrows] and a [Medium Quiver] from him - (53.0, 41.0)| |C|Hunter| |Z|Durotar|
 B Sharp Arrow (1200) |L|2515 1200| |N|Ghrawt. Buy [Sharp Arrows] from him - (53.0, 41.0)| |C|Hunter| |Z|Durotar|
-C Taming the Beast |QID|6062| |OIDX|1| |N|Kill Dire Mottled Boar Tame a Dire Mottled Boar| |C|Hunter| |Z|Durotar|
+C Taming the Beast |QID|6062| |OIDX|1| |N|Use your [Taming Rod] on a Dire Mottled Boar at max range Tame a Dire Mottled Boar| |C|Hunter| |Z|Durotar|
 N Thotar inside |N|(51.9, 43.5)| |C|Hunter| |Z|Durotar|
 T Taming the Beast |QID|6062| |N|Go inside the bunker - (51.9, 43.5)| |C|Hunter| |Z|Durotar|
 A Taming the Beast |QID|6083| |N|Go inside the bunker - (51.9, 43.5)| |C|Hunter| |Z|Durotar|
 N Thotar inside |N|(51.9, 43.5)| |C|Hunter| |Z|Durotar|
 A Taming the Beast |QID|6083| |N|Go inside the bunker - (51.9, 43.5)| |C|Hunter| |Z|Durotar|
+N Use your [Taming Rod] on a Surf Crawler at max range |N|(60.0, 24.8)| |C|Hunter| |Z|Durotar|
 C Taming the Beast |QID|6083| |OIDX|1| |N|Don't kill the Armored Scorpids you see. You'll need them later Tame a Surf Crawler| |C|Hunter| |Z|Durotar|
 N Thotar inside |N|(51.9, 43.5)| |C|Hunter| |Z|Durotar|
 T Taming the Beast |QID|6083| |N|Go inside the bunker - (51.9, 43.5)| |C|Hunter| |Z|Durotar|
 A Taming the Beast |QID|6082| |N|Go inside the bunker - (51.9, 43.5)| |C|Hunter| |Z|Durotar|
-C Taming the Beast |QID|6082| |OIDX|1| |N|Kill Armored Scorpid Tame an Armored Scorpid| |C|Hunter| |Z|Durotar|
+C Taming the Beast |QID|6082| |OIDX|1| |N|Use your [Taming Rod] on an Armored Scorpid at max range Tame an Armored Scorpid| |C|Hunter| |Z|Durotar|
 N Thotar inside |N|(51.9, 43.5)| |C|Hunter| |Z|Durotar|
 T Taming the Beast |QID|6082| |N|Go inside the bunker - (51.9, 43.5)| |C|Hunter| |Z|Durotar|
 A Training the Beast |QID|6081| |N|Go inside the bunker - (51.9, 43.5)| |C|Hunter| |Z|Durotar|
@@ -240,16 +222,7 @@ N Kill the imp first |N|(42.1, 26.7)| |C|Warrior/Warlock/Priest| |Z|Durotar|
 N Use a [Minor Healing Potion] if you have it and your [Faintly Glowing Skull] if needed |N|(42.1, 26.7)| |C|!Warlock| |Z|Durotar|
 N Use a [Minor Healing Potion], [Minor Healthstone] if you have it and your [Faintly Glowing Skull] if needed |N|(42.1, 26.7)| |C|Warlock| |Z|Durotar|
 C Dark Storms |QID|806| |OIDX|1| |N|Fizzle Darkstorm and loot him for his Claw Fizzle's Claw (1)| |Z|Durotar|
-N Be careful. Kill the patrolling Burning Blade Fanatic and the Lightning Hides in the back before you pull him |N|(42.1, 26.7)| |Z|Durotar|
-N Pull him backwards towards the Lightning Hides you just killed. Otherwise you may bodypull additional Burning Blade mobs |N|(42.1, 26.7)| |Z|Durotar|
-N Kill the imp first. Use [Gouge] when he casts [Soul Siphon] |N|(42.1, 26.7)| |C|Rogue| |Z|Durotar|
-N Kill the imp first. Use [Earth Shock] when he casts [Soul Siphon] |N|(42.1, 26.7)| |C|Shaman| |Z|Durotar|
-N You can cast [Polymorph] on Fizzle and kill the Imp first |N|(42.1, 26.7)| |C|Mage| |Z|Durotar|
-N Kill the imp first |N|(42.1, 26.7)| |C|Warrior/Warlock/Priest| |Z|Durotar|
-N Use a [Minor Healing Potion] if you have it and your [Faintly Glowing Skull] if needed |N|(42.1, 26.7)| |C|!Warlock| |Z|Durotar|
-N Use a [Minor Healing Potion], [Minor Healthstone] if you have it and your [Faintly Glowing Skull] if needed |N|(42.1, 26.7)| |C|Warlock| |Z|Durotar|
-C Dark Storms |QID|806| |OIDX|1| |N|Fizzle Darkstorm and loot him for his Claw Fizzle's Claw (1)| |Z|Durotar|
-R Fight your way out of Thunder Ridge |N|(39.2, 32.0)| |C|Warrior/Shaman/Hunter| |Z|Durotar|
+N Die and respawn at the Spirit Healer |N|(47.0, 17.6)| |C|Warrior/Shaman/Hunter| |Z|Durotar|
 N This will start a 45 minute timer for the quest. Do NOT go AFK or log out for the next 5 minutes |N|(41.5, 18.6)| |C|Warrior/Shaman/Hunter| |Z|Durotar|
 A Need for a Cure |QID|812| |N|Rhinag - (41.5, 18.6)| |C|Warrior/Shaman/Hunter| |Z|Durotar|
 R Travel to Orgrimmar |N|(49.0, 92.8)| |O| |C|Warrior/Shaman/Hunter| |Z|Orgrimmar|
@@ -261,6 +234,7 @@ t Train your pet spells |N|Xao'tsu - (66.3, 14.8)| |C|Hunter| |Z|Orgrimmar|
 B Collect Laminated Recurve Bow (1) |L|2507 1| |N|Zendo'jian. Buy a [Laminated Recurve Bow] from him - (81.2, 18.7)| |C|Hunter| |Z|Orgrimmar|
 A Finding the Antidote |QID|813| |N|Kor'ghan in the Cleft of Shadow - (47.2, 53.6)| |C|Warrior/Shaman/Hunter| |Z|Orgrimmar|
 N Abandon Need for a Cure. This will remove the timer on the quest but you will still be able to do it |O| |C|Warrior/Shaman/Hunter| |Z|Orgrimmar|
+H Razor Hill |N|Hearth to Razor Hill| |O| |Z|Orgrimmar|
 B Vendor Trash |N|Innkeeper Grosk - (51.5, 41.6)| |Z|Durotar|
 N Buy [Ice Cold Milk] from him |N|(51.5, 41.6)| |C|Mage/Warlock/Priest/Shaman| |Z|Durotar|
 N Buy [Haunch of Meat] from him |N|(51.5, 41.6)| |C|Rogue/Warrior| |Z|Durotar|

@@ -183,8 +183,6 @@ C Murloc Shorestrikers and Murloc Minor Tidecallers. Loot them for their Fins an
 N Be aware the Blackrock Outrunners will cast [Net] on you |N|(74.0, 79.0)| |Z|Redridge Mountains|
 C Blackrock Menace |QID|20| |OIDX|1| |N|Kill Blackrock Grunts and Blackrock Outrunners. Loot them for their Axes Battleworn Axe (10)| |Z|Redridge Mountains|
 C Dire Condors. Loot them for their Tough Condor Meat |QID|92| |L|1080 5| |N|Dire Condors. Loot them for their Tough Condor Meat - (61.4, 77.1)| |Z|Redridge Mountains|
-N Open the Sunken Chest. Loot it for Oslow's Toolbox |N|(41.5, 54.7)| |Z|Redridge Mountains|
-C The Lost Tools |QID|125| |OIDX|1| |N|Jump into the Lake Oslow's Toolbox (1)| |Z|Redridge Mountains|
 R You MUST do this for your [Poisons] quest later |N|(51.8, 45.1)| |C|Rogue| |Z|Redridge Mountains|
 N Stand on the waypoint location. Position your camera and cursor until you can click 3 Practice Lockboxes at once without having to move anything |N|(51.8, 45.1)| |C|Rogue| |Z|Redridge Mountains|
 C Alther's Mill |QID|2282| |OIDX|1| |N|Lucius's Lockbox. Loot it for the Token of Thievery Token of Thievery| |C|Rogue| |Z|Redridge Mountains|
@@ -251,12 +249,14 @@ N You must be in [Stealth] to use [Pick Pocket] |N|(69.6, 73.1)| |C|Rogue| |Z|We
 N The Malformed Defias Drone spawns at the entrance to the tower, then patrols around the outside of it |N|(69.6, 73.1)| |C|Rogue| |Z|Westfall|
 N Be careful as he deals a LOT of damage. If your [Stealth] breaks, quickly use [Sprint] and run away |N|(69.6, 73.1)| |C|Rogue| |Z|Westfall|
 C Klaven's Tower |QID|2359| |OIDX|2| |N|[Pick Pocket] the Malformed Defias Drone. Loot it for the Defias Tower Key Collect Defias Tower Key (x1)| |C|Rogue| |Z|Westfall|
+N Click HERE for a video guide |N|(69.6, 73.1)| |C|Rogue| |Z|Westfall|
 R Travel up to 2nd top floor of the tower. Whilst in [Stealth] and the Defias Tower Sentries aren't next to you, Jump onto the chair, then onto the lamp, then onto the bookshelf on top of the waypoint location |N|(70.4, 74.0)| |C|Rogue| |Z|Westfall|
 N NOTE: Your [Stealth] will temporarily stop working after looting Klaven Mortwake's Journal |N|(70.4, 74.0)| |C|Rogue| |Z|Westfall|
 N Be prepared to run if you don't kill the Defias Tower Sentries on the 2nd floor. They will most likely aggro you permanently (but not attack you) when you are on top of the bookshelf as it is an evade spot |N|(70.4, 74.0)| |C|Rogue| |Z|Westfall|
 N If you have a [Dagger] in your bags or equipped, you can cast [Ambush] on the Defias Tower Patrollers and Defias Tower Sentries inside to kill them instantly. Be prepared to run after you kill the first Defias Tower Sentry and remember you can be hit from above. This is slower, but a LOT safer |N|(70.4, 74.0)| |C|Rogue| |Z|Westfall|
 N Be careful as the Malformed Defias Drone and Defias Drones can be at the entrance of the tower if you have to run out of it |N|(70.4, 74.0)| |C|Rogue| |Z|Westfall|
 C Klaven's Tower |QID|2359| |OIDX|1| |N|Manually [Unstealth], then press your "Interact with Target" keybind to open the Duskwood Chest. Loot it for Klaven Mortwake's Journal Collect Klaven Mortwake's Journal (x1)| |C|Rogue| |Z|Westfall|
+N Click HERE for a video guide |N|(70.4, 74.0)| |C|Rogue| |Z|Westfall|
 C Craft an [Anti-Venom] |L|6452 1| |C|Rogue| |R|!Dwarf| |Z|Westfall|
 t Anti Venom spell trained |C|Rogue| |R|!Dwarf| |Z|Westfall|
 F Fly to Stormwind |N|Thor - (56.5, 52.6)| |O| |C|Rogue| |Z|Westfall|

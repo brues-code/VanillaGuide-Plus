@@ -48,8 +48,6 @@ C The Black Shield |QID|1322| |OIDX|1| |N|Darkfang Spiders. Loot them for their 
 T Theramore Spies |QID|1201| |N|Nazeer - (35.2, 30.7)| |Z|Dustwallow Marsh|
 T The Lost Report |QID|1238| |N|Nazeer - (35.2, 30.7)| |Z|Dustwallow Marsh|
 A The Theramore Docks |QID|1202| |N|Nazeer - (35.2, 30.7)| |Z|Dustwallow Marsh|
-T Theramore Spies |QID|1201| |N|Nazeer - (35.2, 30.7)| |Z|Dustwallow Marsh|
-T The Lost Report |QID|1238| |N|Nazeer - (35.2, 30.7)| |Z|Dustwallow Marsh|
 T The Black Shield |QID|1322| |N|Do'gol - (36.5, 30.8)| |Z|Dustwallow Marsh|
 A The Black Shield |QID|1323| |N|Do'gol - (36.5, 30.8)| |Z|Dustwallow Marsh|
 T The Black Shield |QID|1323| |N|Krog - (36.5, 31.8)| |Z|Dustwallow Marsh|
@@ -63,11 +61,10 @@ T Jarl Needs Eyes |QID|1206| |N|"Swamp Eye" Jarl - (55.4, 26.3)| |Z|Dustwallow M
 N Be careful of the Coral Shark (level 47 elite) that patrols around the Footlocker |N|(71.5, 51.3)| |Z|Dustwallow Marsh|
 N Be VERY careful of Theramore Guards! They have a huge agro range |N|(71.5, 51.3)| |Z|Dustwallow Marsh|
 C The Theramore Docks |QID|1202| |OIDX|1| |N|Swim along the eastern side of Theramore. Open the Captain's Footlocker for the Captain's Documents (71.5, 51.3)| |Z|Dustwallow Marsh|
+N Die and respawn at the Spirit Healer |N|(69.6, 50.0)| |O| |Z|Dustwallow Marsh|
 T The Severed Head |QID|1239| |N|Nazeer - (35.3, 30.7)| |Z|Dustwallow Marsh|
 A The Troll Witchdoctor |QID|1240| |N|Nazeer - (35.3, 30.7)| |Z|Dustwallow Marsh|
 T The Theramore Docks |QID|1202| |N|Nazeer - (35.3, 30.7)| |Z|Dustwallow Marsh|
-T The Severed Head |QID|1239| |N|Nazeer - (35.3, 30.7)| |Z|Dustwallow Marsh|
-A The Troll Witchdoctor |QID|1240| |N|Nazeer - (35.3, 30.7)| |Z|Dustwallow Marsh|
 F Fly to Camp Taurajo |N|Doras - (45.1, 63.9) (RFD Dungeon Quest)| |D|RFD| |Z|Orgrimmar|
 R Razorfen Downs |N|(46.3, 90.3) (RFD Dungeon Quest)| |D|RFD| |Z|The Barrens|
 A Bring the End |QID|3341| |N|Have somebody in your group share the following quests if possible. Alternatively, go to Undercity to pick them up yourself (RFD Dungeon Quest)| |D|RFD| |Z|The Barrens|
@@ -93,6 +90,8 @@ C Extinguishing the Idol |QID|3525| |OIDX|1| |N|Follow and protect Belnistrasz d
 T Extinguishing the Idol |QID|3525| |N|Click Belnistrasz's Brazier (RFD Dungeon Quest)| |D|RFD| |Z|Tirisfal Glades|
 C Bring the End |QID|3341| |OIDX|1| |N|Kill Amnennar the Coldbringer. Loot him for his Skull (RFD Dungeon Quest)| |D|RFD| |Z|Tirisfal Glades|
 t Train your class spells |N|Loganaar - (52.5, 40.6)| |C|Druid| |Z|Moonglade|
+H Orgrimmar |N|Hearth to Orgrimmar| |C|Druid| |Z|Moonglade|
+H Orgrimmar |N|Hearth to Orgrimmar| |C|!Mage/!Druid| |Z|Moonglade|
 F Fly to Orgrimmar |N|Shardi - (35.6, 31.9)| |C|!Mage/!Druid| |Z|Dustwallow Marsh|
 t Train your class spells |N|Kardris - (38.8, 36.4)| |C|Shaman| |Z|Orgrimmar|
 t Train your class spells |N|Ormok - (43.9, 54.6)| |C|Rogue| |Z|Orgrimmar|
@@ -119,6 +118,7 @@ F Fly to Orgrimmar |N|Bragok - (63.1, 37.2)| |C|Warlock| |Z|The Barrens|
 F Fly to Thunder Bluff |N|Doras - (45.1, 63.9)| |O| |R|Tauren| |Z|Orgrimmar|
 t Train [Kodo Riding] |N|Xar'Ti and Zjolnir - (47.6, 58.5)| |O| |R|Tauren| |Z|Mulgore|
 B Buy a [Kodo] |N|Xar'Ti and Zjolnir - (47.6, 58.5)| |O| |R|Tauren| |Z|Mulgore|
+H Orgrimmar |N|Hearth to Orgrimmar| |O| |R|Tauren| |Z|Mulgore|
 F Fly to Orgrimmar |N|Tal - (47.0, 49.8)| |O| |R|Tauren| |Z|Thunder Bluff|
 R Go up the Zeppelin Tower |N|(50.8, 13.8)| |C|!Mage| |Z|Durotar|
 t Train your class spells |N|Anastasia - (85.1, 10.0)| |C|Mage| |Z|Undercity|

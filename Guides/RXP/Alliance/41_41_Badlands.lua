@@ -41,6 +41,7 @@ B an Ironforge Auctioneer |L|4611 9| |N|an Ironforge Auctioneer - (23.8, 71.8)| 
 N If you have used the website unstuck to travel to Ironforge from Wetlands you will not have the Thelsamar flight path. In that case run through Dun Morogh to Loch Modan instead |N|(55.5, 47.7)| |Z|Ironforge|
 F Fly to Loch Modan |N|Gryth Thurden - (55.5, 47.7)| |Z|Ironforge|
 R Innkeeper Hearthstove |N|(35.5, 48.4)| |Z|Loch Modan|
+h Thelsamar |N|Set hearth in Thelsamar (35.5, 48.4)| |Z|Loch Modan|
 A Badlands Reagent Run |QID|2500| |N|Ghak Healtouch - (37.1, 49.4)| |Z|Loch Modan|
 R Ironband's Excavation Site |N|(65.9, 65.6)| |O| |Z|Loch Modan|
 T Ironband Wants You! |QID|707| |N|Prospector Ironband - (65.9, 65.6)| |Z|Loch Modan|
@@ -122,16 +123,19 @@ N Boss Tho'grun patrols across all of Badlands |N|(36.4, 71.6)| |Z|Badlands|
 C Tremors of the Earth |QID|732| |OIDX|1| |N|Boss Tho'grun. Loot him for his Sign of the Earth (36.4, 71.6)| |Z|Badlands|
 T Tremors of the Earth |QID|732| |N|Garek - (61.9, 54.3)| |Z|Badlands|
 R Travel to Searing Gorge |N|(72.3, 55.5)| |O| |Z|Searing Gorge|
+N Once you get to Searing Gorge, die and respawn at Thorium Point |N|(63.4, 60.8)| |O| |Z|Searing Gorge|
 f Get the Thorium Point flight path |N|Lanie Reed - (37.9, 30.9)| |Z|Searing Gorge|
 N Loganaar |N|(52.5, 40.6)| |C|Druid| |Z|Searing Gorge|
 R Travel to Moonglade |N|(52.5, 40.6)| |C|Druid| |Z|Moonglade|
 t Train your class spells |N|Teleport to Moonglade - (52.5, 40.6)| |C|Druid| |Z|Moonglade|
 t Train your class spells |N|Dink - (27.2, 8.6)| |C|Mage| |Z|Ironforge|
+H Loch Modan |N|Hearth to Loch Modan| |C|!Warlock| |Z|Ironforge|
 N Buy food/water if needed |C|!Warrior/!Rogue| |Z|Ironforge|
 N Buy food if needed |C|Warrior/Rogue| |Z|Ironforge|
-T Murdaloc |QID|739| |N|Prospector Ironband - (65.9, 65.6)| |C|Warlock| |Z|Loch Modan|
+R Travel to Loch Modan |N|(36.5, 48.4)| |Z|Loch Modan|
 T Badlands Reagent Run |QID|2500| |N|Ghak Healtouch - (37.1, 49.4)| |Z|Loch Modan|
 T Murdaloc |QID|739| |N|Prospector Ironband - (65.9, 65.6)| |Z|Loch Modan|
+N Die on purpose and respawn at the Thelsamar Spirit Healer |N|(68.5, 62.8)| |O| |Z|Loch Modan|
 F Fly to Ironforge |N|Thorgrum Borrelson - (33.9, 51.0)| |Z|Loch Modan|
 
 ]]

@@ -14,13 +14,16 @@ C Save up to 6 Gooey Spider Legs looted from the Spiders in the zone. You will n
 N Ashenvale Bears spawn closer to the Talondeep Path, Ghostpaw Runners share spawns with Wildthorn Stalkers which spawn south and west of Astranaar |N|(30.2, 51.9)| |C|Hunter| |Z|Ashenvale|
 N If you can't find any wolves try to use [Eagle Eye] to look for one |N|(30.2, 51.9)| |C|Hunter| |Z|Ashenvale|
 t Train [Tame Beast] & [Claw (Rank 3)] & [Tame Beast] & [Bite (Rank 3)] |N|TIP: You can pre place a [Freezing Trap] in front of you before you pull the mob to tame to take less damage - (30.2, 51.9)| |C|Hunter| |Z|Ashenvale|
+N Click here for more info about pet training |N|(30.2, 51.9)| |C|Hunter| |Z|Ashenvale|
 R Maluressian |N|(36.5, 50.4)| |C|Hunter| |Z|Ashenvale|
 T Raene's Cleansing |QID|1023| |N|Raene Wolfrunner - (36.6, 49.6)| |Z|Ashenvale|
 R Innkeeper Kimlya |N|(37.0, 49.2) (WC Dungeon Quest)| |C|Hunter| |R|Dwarf| |D|WC| |Z|Ashenvale|
+h Astranaar |N|Set hearth in Astranaar (37.0, 49.2) (WC Dungeon Quest)| |C|Hunter| |R|Dwarf| |D|WC| |Z|Ashenvale|
 T The Ruins of Stardust |QID|1034| |N|Pelturas Whitemoon - (37.4, 51.8)| |Z|Ashenvale|
 N Playing with only [Claw] plays the same as having both damage spells but provides less damage and burst threat so is not reommended unless your pet can't train [Bite] |N|(WC Dungeon Quest)| |C|Hunter| |D|WC| |Z|Ashenvale|
 N Playing with both [Bite] and [Claw] is the optimal damage setup but is harder to play with since your pet might cast [Claw] instead of [Growl] at times. (recommended if you like to min/max, you should manually cast [Growl] with this setup) |N|(WC Dungeon Quest)| |C|Hunter| |D|WC| |Z|Ashenvale|
 N Keep in mind not all pets can train both [Bite] and [Claw] and you might have limited options due to your pet choice |N|(WC Dungeon Quest)| |C|Hunter| |D|WC| |Z|Ashenvale|
+N Click here for more info about pet training |N|(WC Dungeon Quest)| |C|Hunter| |D|WC| |Z|Ashenvale|
 R Travel to The Barrens |N|(63.1, 37.6) (WC Dungeon Quest)| |D|WC| |Z|The Barrens|
 f Get the Ratchet Flight Path |N|Bragok - (63.1, 37.2) (WC Dungeon Quest)| |D|WC| |Z|The Barrens|
 A Trouble at the Docks |QID|959| |N|Crane Operator Bigglefuzz - (63.1, 37.6) (WC Dungeon Quest)| |D|WC| |Z|The Barrens|
@@ -39,7 +42,7 @@ C Deviate Eradication |QID|1487| |OIDX|1| |N|(WC Dungeon Quest)| |D|WC| |Z|Tiris
 C Deviate Hides |QID|1486| |OIDX|1| |N|Kill all types of Deviate creatures. Loot them for their Deviate Hides (WC Dungeon Quest)| |D|WC| |Z|Tirisfal Glades|
 N Kill Mutanus the Devourer. Loot him for the [Glowing Shard] |N|(WC Dungeon Quest)| |D|WC| |Z|Tirisfal Glades|
 N Use the [Glowing Shard] to start the quest |N|(WC Dungeon Quest)| |D|WC| |Z|Tirisfal Glades|
-C Lord Cobrahn, Lord Pythas, Lord Serpentis and Lady Anacondra then the Disciple of Naralex at the start of the instance to start his escort |QID|6981| |L|10441 1| |N|Escort the Disciple of Naralex through Wailing Caverns and complete the ritual of awakening (WC Dungeon Quest)| |D|WC| |Z|Tirisfal Glades|
+C Lord Cobrahn, Lord Pythas, Lord Serpentis and Lady Anacondra then talk to the Disciple of Naralex at the start of the instance to start his escort |QID|6981| |L|10441 1| |N|Escort the Disciple of Naralex through Wailing Caverns and complete the ritual of awakening (WC Dungeon Quest)| |D|WC| |Z|Tirisfal Glades|
 A The Glowing Shard |QID|6981| |N|Escort the Disciple of Naralex through Wailing Caverns and complete the ritual of awakening (WC Dungeon Quest)| |D|WC| |Z|Tirisfal Glades|
 C Deviate Hides |QID|1486| |OIDX|1| |N|This can be completed INSIDE and OUTSIDE of Wailing Caverns (WC Dungeon Quest)| |D|WC| |Z|Tirisfal Glades|
 R Travel to The Barrens |N|(63.0, 37.2) (WC Dungeon Quest)| |D|WC| |Z|The Barrens|
@@ -52,10 +55,12 @@ R Drop down into the hidden cave above the entrance of The Wailing Caverns. Foll
 T Deviate Hides |QID|1486| |N|(51.9, 55.4) (WC Dungeon Quest)| |D|WC| |Z|Tirisfal Glades|
 T Deviate Eradication |QID|1487| |N|(51.9, 55.4) (WC Dungeon Quest)| |D|WC| |Z|Tirisfal Glades|
 T Deviate Hides |QID|1486| |N|Nalpak and Ebru - (51.9, 55.4) (WC Dungeon Quest)| |D|WC| |Z|Tirisfal Glades|
+H Astranaar |N|Hearth to Astranaar (WC Dungeon Quest)| |D|WC| |Z|Tirisfal Glades|
 B Restock on Ammo, make sure you have at least 10-15 stacks as the next section is a grindy and there won't be any ammo vendor to restock |N|Haljan Oakheart - (34.8, 50.8) (WC Dungeon Quest)| |C|Hunter| |D|WC| |Z|Ashenvale|
 N Playing with only [Claw] plays the same as having both damage spells but provides less damage and burst threat so is not reommended unless your pet can't train [Bite] |N|(!WC Dungeon Quest)| |C|Hunter| |D|!WC| |Z|Ashenvale|
 N Playing with both [Bite] and [Claw] is the optimal damage setup but is harder to play with since your pet might cast [Claw] instead of [Growl] at times. (recommended if you like to min/max, you should manually cast [Growl] with this setup) |N|(!WC Dungeon Quest)| |C|Hunter| |D|!WC| |Z|Ashenvale|
 N Keep in mind not all pets can train both [Bite] and [Claw] and you might have limited options due to your pet choice |N|(!WC Dungeon Quest)| |C|Hunter| |D|!WC| |Z|Ashenvale|
+N Click here for more info about pet training |N|(!WC Dungeon Quest)| |C|Hunter| |D|!WC| |Z|Ashenvale|
 C Save up to 6 Gooey Spider Legs looted from the Spiders in the zone. You will need them for a quest later |QID|93| |L|2251 6| |N|Save up to 6 Gooey Spider Legs looted from the Spiders in the zone. You will need them for a quest later| |O| |Z|Ashenvale|
 C Pridewings of Stonetalon |QID|1134| |OIDX|1| |N|Kill Young Pridewings. Loot them for their Pridewing Venom Sacs| |O| |Z|Ashenvale|
 R Travel to Stonetalon Mountains |N|(59.0, 62.6)| |Z|Stonetalon Mountains|
@@ -84,7 +89,7 @@ A Elemental Bracers |QID|1016| |N|Sentinel Velene Starstrike - (49.8, 67.2)| |Z|
 t Train your class skills |N|Danlaar Nightstride - (50.1, 67.9)| |C|Hunter| |Z|Ashenvale|
 N The Befouled Water Elementals cast [Frost Nova]. Pay attention to your breath timer if you dive underwater to kill them |N|(48.9, 70.0)| |Z|Ashenvale|
 C Befouled Water Elementals. Loot them for their Bracers |QID|1016| |L|12220 5| |N|Befouled Water Elementals. Loot them for their Bracers - (48.9, 70.0)| |Z|Ashenvale|
-C Elemental Bracers |QID|1016| |OIDX|1| |Z|Ashenvale|
+C Elemental Bracers |QID|1016| |OIDX|1| |N|Use the [Divining Scroll] to create the [Divined Scroll]| |Z|Ashenvale|
 T Elemental Bracers |QID|1016| |N|Sentinel Velene Starstrike - (49.8, 67.2)| |Z|Ashenvale|
 N Be careful as the Foulweald Ursas can [Thrash] hitting you 3 times at once |N|(50.1, 59.9)| |Z|Ashenvale|
 N The Foulweald Totemics share spawns with Foulweald Warriors. You may have to backtrack and kill respawns if you weren't lucky with the spawns |N|(50.1, 59.9)| |Z|Ashenvale|
@@ -95,6 +100,7 @@ R Travel to Azshara |N|(11.9, 77.6)| |Z|Azshara|
 N Use [Track Humanoids] and watch your minimap to more easily spot where the guards are located |N|(11.9, 77.6)| |C|Hunter| |Z|Azshara|
 N Jarrodenus |N|(11.9, 77.6)| |Z|Azshara|
 f Get the Azshara flight path |N|You may encounter a Warsong Outrider patrolling the road north-east of Splintertree Post. You don't have to run around it as it's passive and will not attack you if you don't attack it first - (11.9, 77.6)| |Z|Azshara|
+H Astranaar |N|Hearth to Astranaar| |Z|Azshara|
 N Buy food/water if needed |Z|Azshara|
 F Fly to Ashenvale |N|Jarrodenus - (11.9, 77.6)| |Z|Azshara|
 T An Aggressive Defense |QID|1025| |N|Raene Wolfrunner - (36.6, 49.6)| |Z|Ashenvale|
@@ -114,6 +120,7 @@ C Ilkrud Magthrull. Loot him for his Tome |QID|973| |OIDX|1| |N|Ilkrud Magthrull
 C Save up to 6 Gooey Spider Legs looted from the Spiders in the zone. You will need them for a quest later |QID|93| |L|2251 6| |N|Save up to 6 Gooey Spider Legs looted from the Spiders in the zone. You will need them for a quest later| |O| |Z|Ashenvale|
 C and loot Ghostpaw Runners you encounter while questing. Keep any [Lean Wolf Flanks] you get. You will need 10 for a cooking quest later |L|1015 10| |N|Kill and loot Ghostpaw Runners you encounter while questing. Keep any [Lean Wolf Flanks] you get. You will need 10 for a cooking quest later| |O| |Z|Ashenvale|
 T The Tower of Althalaxx |QID|973| |N|Delgren the Purifier - (26.2, 38.7)| |Z|Ashenvale|
+N Die and respawn at the Spirit Healer |O| |Z|Ashenvale|
 T Culling the Threat |QID|1054| |N|Raene Wolfrunner - (36.6, 49.6)| |Z|Ashenvale|
 T Fallen Sky Lake |QID|1035| |N|Pelturas Whitemoon - (37.4, 51.8)| |Z|Ashenvale|
 N Buy [Flint and Tinder] and [Simple Wood] |N|(34.8, 50.9)| |O| |Z|Ashenvale|

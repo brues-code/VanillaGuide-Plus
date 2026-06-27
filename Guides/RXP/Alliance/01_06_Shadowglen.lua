@@ -13,6 +13,7 @@ A The Woodland Protector |QID|458| |N|Dirania Silvershine and Melithar Staghelm 
 C The Balance of Nature |QID|456| |OIDX|1| |N|Kill Young Nightsabers and Young Thistle Boars Kill Young Nightsaber (x7)| |Z|Teldrassil|
 T A Good Friend |QID|4495| |N|Iverron - (54.6, 33.0)| |C|Hunter| |Z|Teldrassil|
 A A Friend in Need |QID|3519| |N|Iverron - (54.6, 33.0)| |C|Hunter| |Z|Teldrassil|
+H Shadowglen |N|Hearth to Shadowglen| |O| |C|Hunter| |Z|Teldrassil|
 T The Woodland Protector |QID|458| |N|Tarindrella - (57.9, 45.1)| |C|Hunter| |Z|Teldrassil|
 A The Woodland Protector |QID|459| |N|Tarindrella - (57.9, 45.1)| |C|Hunter| |Z|Teldrassil|
 B Vendor trash |N|Dellylah - (59.6, 40.7)| |C|Druid| |Z|Teldrassil|
@@ -31,6 +32,7 @@ t Train your class spells |N|Alyissia - (59.6, 38.4)| |C|Warrior| |Z|Teldrassil|
 C The Balance of Nature |QID|457| |OIDX|1| |N|Mangy Nightsabers and Thistle Boars Kill Mangy Nightsaber (x7)| |C|!Hunter| |Z|Teldrassil|
 T A Good Friend |QID|4495| |N|Iverron - (54.6, 33.0)| |C|!Hunter| |Z|Teldrassil|
 A A Friend in Need |QID|3519| |N|Iverron - (54.6, 33.0)| |C|!Hunter| |Z|Teldrassil|
+H Shadowglen |N|Hearth to Shadowglen| |O| |C|!Hunter| |Z|Teldrassil|
 T The Woodland Protector |QID|458| |N|Tarindrella - (57.9, 45.1)| |C|!Hunter| |Z|Teldrassil|
 A The Woodland Protector |QID|459| |N|Tarindrella - (57.9, 45.1)| |C|!Hunter| |Z|Teldrassil|
 T The Balance of Nature |QID|457| |N|Conservator Ilthalaine - (58.7, 44.3)| |C|!Hunter| |Z|Teldrassil|
@@ -64,13 +66,15 @@ T Verdant Sigil |QID|3120| |N|Ascend the Aldrassil Tree - (58.6, 40.3)| |C|Druid
 t Train [Moonfire] |N|Ascend the Aldrassil Tree - (58.6, 40.3)| |C|Druid| |Z|Teldrassil|
 R Enter the Shadowthread Cave |N|(56.7, 31.2)| |O| |Z|Teldrassil|
 C Webwood Egg |QID|917| |OIDX|1| |N|Loot a Webwood Egg on the ground at the back of the Cave Collect Webwood Egg (x1)| |Z|Teldrassil|
+N Die and respawn at the Spirit Healer |O| |Z|Teldrassil|
 T Webwood Egg |QID|917| |N|Gilshalan Windwalker - (57.8, 41.7)| |Z|Teldrassil|
 A Tenaron's Summons |QID|920| |N|Gilshalan Windwalker - (57.8, 41.7)| |Z|Teldrassil|
 N Tenaron Stormgrip |N|(59.1, 39.4)| |Z|Teldrassil|
 T Tenaron's Summons |QID|920| |N|Ascend the Aldrassil Tree - (59.1, 39.4)| |Z|Teldrassil|
 A Crown of the Earth |QID|921| |N|Ascend the Aldrassil Tree - (59.1, 39.4)| |Z|Teldrassil|
-C Crown of the Earth |QID|921| |OIDX|1| |N|Collect Filled Crystal Phial (x1)| |Z|Teldrassil|
+C Crown of the Earth |QID|921| |OIDX|1| |N|Use the [Crystal Phial] at the Moonwell Collect Filled Crystal Phial (x1)| |Z|Teldrassil|
 C The Balance of Nature |QID|457| |OIDX|1| |N|Mangy Nightsabers and Thistle Boars Kill Mangy Nightsaber (x7)| |C|Hunter| |Z|Teldrassil|
+N Die and respawn at the Spirit Healer |O| |Z|Teldrassil|
 T The Balance of Nature |QID|457| |N|Conservator Ilthalaine - (58.7, 44.3)| |C|Hunter| |Z|Teldrassil|
 A In Favor of Elune |QID|5622| |N|Shanda - (59.2, 40.5)| |C|Priest| |Z|Teldrassil|
 N Tenaron Stormgrip |N|(59.1, 39.4)| |Z|Teldrassil|

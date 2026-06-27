@@ -6,6 +6,7 @@ N 20-21 Darkshore/Ashenvale |N|Converted from RestedXP guide|
 
 N Loganaar |N|(52.5, 40.6)| |C|Druid| |Z|Moonglade|
 t Train your class spells |N|Moonglade - (52.5, 40.6)| |C|Druid| |Z|Moonglade|
+H Auberdine |N|Hearth to Auberdine| |O| |Z|Moonglade|
 A WANTED: Murkdeep! |QID|4740| |N|the Wanted Poster - (37.2, 44.2)| |Z|Darkshore|
 A Onu |QID|948| |N|Barithras Moonshade - (37.3, 43.6)| |Z|Darkshore|
 A The Absent Minded Prospector |QID|729| |N|Archaeologist Hollee - (37.4, 41.8)| |Z|Darkshore|
@@ -33,6 +34,7 @@ T The Absent Minded Prospector |QID|729| |N|Prospector Remtravel - (35.7, 83.7)|
 C Fruit of the Sea |QID|1138| |OIDX|1| |N|Kill Encrusted Tide Crawlers and Reef Crawlers. Loot them for their Fine Crab Chunks Fine Crab Chunks (6)| |O| |Z|Darkshore|
 A Beached Sea Creature |QID|4733| |N|the Beached Sea Creature - (31.3, 87.4)| |Z|Darkshore|
 N This quest can be VERY difficult. Engage the Murlocs 1 by 1, otherwise you may agro multiple at the same time |N|(31.3, 87.4)| |Z|Darkshore|
+N Click here for a video guide |N|(31.3, 87.4)| |Z|Darkshore|
 A Beached Sea Turtle |QID|4732| |N|the Beached Sea Turtle - (31.2, 85.6)| |Z|Darkshore|
 A Beached Sea Turtle |QID|4731| |N|the Beached Sea Turtle - (31.7, 83.7)| |O| |Z|Darkshore|
 A Beached Sea Creature |QID|4730| |N|the Beached Sea Creature - (32.6, 80.7)| |O| |Z|Darkshore|
@@ -48,12 +50,14 @@ T Mathystra Relics |QID|951| |N|Onu - (43.6, 76.3)| |Z|Darkshore|
 T Return to Onu |QID|950| |N|Onu - (43.6, 76.3)| |Z|Darkshore|
 C The Sleeper Has Awakened |QID|5321| |OIDX|1| |N|Kerlonian's Chest. Loot it for the [Horn of Awakening] Horn of Awakening (1)| |Z|Darkshore|
 R Travel to Ashenvale |N|(27.3, 35.6)| |O| |Z|Ashenvale|
+N Use the [Horn of Awakening] whenever Kerlonian falls asleep while standing next to him to wake him up |N|(27.3, 35.6)| |O| |Z|Ashenvale|
 N Avoid running on the main road as much as possible. Enemies will only spawn if you're on the road |N|(27.3, 35.6)| |O| |Z|Ashenvale|
 R Travel toward Volcor in the Cave |N|(45.0, 85.3)| |O| |Z|Darkshore|
 T A Lost Master |QID|993| |N|Volcor - (45.0, 85.3)| |Z|Darkshore|
 A Escape Through Stealth |QID|995| |N|Volcor - (45.0, 85.3)| |Z|Darkshore|
 C Escape Through Stealth |QID|995| |OIDX|1| |N|Wait out the RP (44.4, 84.7)| |Z|Darkshore|
 R Travel to Ashenvale |N|(29.7, 13.6)| |O| |Z|Ashenvale|
+N Use the [Horn of Awakening] whenever Kerlonian falls asleep next to him |N|(27.3, 35.6)| |Z|Ashenvale|
 N Avoid running on the main road as much as possible. Enemies will only spawn if you're on the road |N|(27.3, 35.6)| |Z|Ashenvale|
 C The Sleeper Has Awakened |QID|5321| |OIDX|2| |N|Escort Kerlonian to Maestra's Post in Ashenvale (27.3, 35.6)| |Z|Ashenvale|
 T The Sleeper Has Awakened |QID|5321| |N|Liadris Moonriver - (27.3, 35.6)| |Z|Ashenvale|
@@ -85,6 +89,7 @@ A Journey to Stonetalon Peak |QID|1056| |N|Faldreas Goeth'Shael - (35.8, 49.1)| 
 A Raene's Cleansing |QID|991| |N|Raene Wolfrunner - (36.6, 49.6)| |Z|Ashenvale|
 A Culling the Threat |QID|1054| |N|Raene Wolfrunner - (36.6, 49.6)| |Z|Ashenvale|
 R Innkeeper Kimlya |N|(37.0, 49.2)| |C|!Warlock| |Z|Ashenvale|
+h Astranaar |N|Set hearth in Astranaar (37.0, 49.2)| |C|!Warlock| |Z|Ashenvale|
 T Orendil's Cure |QID|1020| |N|Pelturas Whitemoon - (37.4, 51.8)| |Z|Ashenvale|
 A Elune's Tear |QID|1033| |N|Pelturas Whitemoon - (37.4, 51.8)| |Z|Ashenvale|
 

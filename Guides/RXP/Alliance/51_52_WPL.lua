@@ -25,6 +25,7 @@ A Chillwind Point |QID|8415| |N|Brandur Ironhammer - (23.1, 6.2)| |C|Paladin| |Z
 t Train your class spells |N|Brandur Ironhammer - (23.1, 6.2)| |C|Paladin| |Z|Ironforge|
 t Train your class spells |N|High Priest Rohan - (24.3, 10.4)| |C|Priest| |Z|Ironforge|
 R Innkeeper Firebrew |N|(18.1, 51.6)| |Z|Ironforge|
+h Ironforge |N|Set hearth in Ironforge (18.1, 51.6)| |Z|Ironforge|
 R Bailey Stonemantle |N|(35.9, 60.2)| |Z|Ironforge|
 N [Wildkin Feather] |N|(35.9, 60.2)| |Z|Ironforge|
 N [Super Snapper FX] |N|(35.9, 60.2)| |Z|Ironforge|
@@ -85,6 +86,7 @@ T Better Late Than Never |QID|5021| |N|Janice's Parcel on the ground - (38.7, 55
 A Better Late Than Never |QID|5022| |N|Janice's Parcel on the ground - (38.7, 55.2)| |Z|Western Plaguelands|
 N If you are not yet close, do one more Cauldron quest to get you where you need to be |C|Hunter| |Z|Western Plaguelands|
 C Dispelling Evil |QID|8414| |OIDX|1| |N|any of the Scourge. Loot them for their Minion's Scourgestones (37.2, 56.9)| |C|Paladin| |Z|Western Plaguelands|
+N Die and respawn at the Chillwind Camp Spirit Healer |O| |Z|Western Plaguelands|
 T Return to Chillwind Camp |QID|5217| |N|High Priestess MacDonnell - (43.0, 84.5)| |Z|Western Plaguelands|
 T Dispelling Evil |QID|8414| |N|High Priest Thel'danis - (52.0, 82.8)| |C|Paladin| |Z|Western Plaguelands|
 A Inert Scourgestones |QID|8416| |N|High Priest Thel'danis - (52.0, 82.8)| |C|Paladin| |Z|Western Plaguelands|

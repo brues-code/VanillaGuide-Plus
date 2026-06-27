@@ -21,6 +21,7 @@ R Travel to Teldrassil |N|(23.7, 64.5)| |C|!Druid| |R|NightElf| |Z|Teldrassil|
 A Trouble In Darkshore? |QID|730| |N|Chief Archaeologist Greywhisker - (23.7, 64.5)| |C|!Druid| |R|NightElf| |Z|Teldrassil|
 R Travel to Darnassus |N|(37.9, 82.7)| |C|Priest| |R|NightElf| |Z|Darnassus|
 t Train your class spells |N|Jandria - (37.9, 82.7)| |C|Priest| |R|NightElf| |Z|Darnassus|
+H Auberdine |N|Hearth to Auberdine| |C|!Druid| |R|NightElf| |Z|Darnassus|
 R Travel to Darkshore |N|(37.2, 44.2)| |Z|Darkshore|
 A WANTED: Murkdeep! |QID|4740| |N|Click on The Wanted Poster - (37.2, 44.2)| |Z|Darkshore|
 T Trouble In Darkshore? |QID|730| |N|Archaeologist Hollee - (37.4, 41.8)| |R|NightElf| |Z|Darkshore|
@@ -28,7 +29,7 @@ A The Absent Minded Prospector |QID|729| |N|Archaeologist Hollee - (37.4, 41.8)|
 A The Absent Minded Prospector |QID|729| |N|Archaeologist Hollee - (37.4, 41.8)| |O| |R|NightElf| |Z|Darkshore|
 T The Cliffspring River |QID|4762| |N|Thundris Windweaver - (37.4, 40.1)| |Z|Darkshore|
 A The Blackwood Corrupted |QID|4763| |N|Thundris Windweaver - (37.4, 40.1)| |Z|Darkshore|
-C The Blackwood Corrupted |QID|4763| |L|12347 1| |N|(37.8, 44.1)| |Z|Darkshore|
+C The Blackwood Corrupted |QID|4763| |L|12347 1| |N|Use the [Empty Cleansing Bowl] at the Auberdine Moonwell (37.8, 44.1)| |Z|Darkshore|
 C For Love Eternal |QID|963| |OIDX|1| |N|Be aware that she has a 7-8 minute spawn time and 4 different spawnpoints across Ameth'Aran Anaya's Pendant (1)| |Z|Darkshore|
 N You may want to group with others nearby if you can't find her. Ask in General Chat (/1) to group with anyone else that is also looking for her |N|(42.5, 60.7)| |Z|Darkshore|
 C For Love Eternal |QID|963| |OIDX|1| |N|Be aware that she has a 7-8 minute spawn time and 4 different spawnpoints across Ameth'Aran Anaya's Pendant (1)| |Z|Darkshore|
@@ -65,6 +66,7 @@ T The Absent Minded Prospector |QID|729| |N|Prospector Remtravel - (35.7, 83.7)|
 A Beached Sea Creature |QID|4733| |N|the Beached Sea Creature - (31.3, 87.4)| |C|Hunter| |Z|Darkshore|
 N This quest can be VERY difficult. Engage the Murlocs 1 by 1, otherwise you may agro multiple at the same time |N|(31.3, 87.4)| |C|Hunter| |Z|Darkshore|
 N Be aware of Greymist Oracles' [Lightning Bolt] damage, they can also heal with [Healing Wave] |N|(31.3, 87.4)| |C|Hunter| |Z|Darkshore|
+N Click here for a video guide |N|(31.3, 87.4)| |C|Hunter| |Z|Darkshore|
 C Fruit of the Sea |QID|1138| |OIDX|1| |N|Be careful as Reef Crawlers can cast [Muscle Tear] an instant attack dealing 30-55 damage Fine Crab Chunks (6)| |O| |Z|Darkshore|
 N Care as Greymist Tidehunters can cast [Poison] while in melee leaving a dot dealing 13 damage per 3 seconds for 30 seconds |N|(31.2, 85.6)| |C|Hunter| |Z|Darkshore|
 N Click the Beached Sea Turtle |N|(31.2, 85.6)| |C|Hunter| |Z|Darkshore|
@@ -142,10 +144,13 @@ A Beached Sea Turtle |QID|4727| |N|the Beached Sea Turtle - (53.1, 18.1)| |Z|Dar
 T Gyromast's Revenge |QID|2078| |N|Gelkak Gyromast - (56.7, 13.5)| |O| |Z|Darkshore|
 C Fruit of the Sea |QID|1138| |OIDX|1| |N|Kill Encrusted Tide Crawlers. Loot them for their Fine Crab Chunks Fine Crab Chunks (6)| |O| |C|Druid| |Z|Darkshore|
 R Auberdine |N|(18.5, 19.9)| |O| |C|Hunter/!Druid| |R|!NightElf/!Dwarf| |Z|Felwood|
+H Auberdine |N|Hearth to Auberdine| |O| |C|Hunter/!Druid| |R|!NightElf/!Dwarf| |Z|Felwood|
 A Beached Sea Turtle |QID|4727| |N|the Beached Sea Turtle - (53.1, 18.1)| |C|Druid| |Z|Darkshore|
 C Curing the Sick |QID|6124| |OIDX|1| |N|Use the [Curative Animal Salve] on Sickly Deer Sickly Deer cured (10)| |C|Druid| |Z|Darkshore|
 N Open the Strange Lockbox. Loot it for the Half Pendant of Aquatic Agility |N|(48.9, 11.3)| |C|Druid| |Z|Darkshore|
 C Collect Half Pendant of Aquatic Agility (x1) |QID|272| |L|15883 1| |N|Swim out in the water (48.9, 11.3)| |C|Druid| |Z|Darkshore|
+N Grind until your HS cooldown is <6 minutes. Die and respawn at the Spirit Healer |O| |C|Hunter| |R|Dwarf| |Z|Darkshore|
+N Die and respawn at the Spirit Healer |O| |C|!Hunter| |R|!NightElf| |Z|Darkshore|
 T The Blackwood Corrupted |QID|4763| |N|Thundris Windweaver - (37.4, 40.1)| |R|!NightElf| |Z|Darkshore|
 T Tharnariun's Hope |QID|2139| |N|Tharnariun Treetender - (38.8, 43.4)| |R|!NightElf| |Z|Darkshore|
 T A Lost Master |QID|986| |N|Terenthis - (39.4, 43.5)| |R|!NightElf| |Z|Darkshore|
@@ -168,6 +173,7 @@ T Curing the Sick |QID|6124| |N|Moonglade - (56.2, 30.4)| |C|Druid| |Z|Moonglade
 A Power over Poison |QID|6125| |N|Moonglade - (56.2, 30.4)| |C|Druid| |Z|Moonglade|
 t Train your class spells |N|Loganaar - (52.5, 40.6)| |C|Druid| |Z|Moonglade|
 R Auberdine |N|(18.5, 19.9)| |O| |C|Hunter| |R|NightElf/Dwarf| |Z|Felwood|
+H Auberdine |N|Hearth to Auberdine| |O| |C|Hunter| |R|NightElf/Dwarf| |Z|Felwood|
 R Travel to Darkshore |N|(36.7, 45.1)| |Z|Darkshore|
 T Beached Sea Turtle |QID|4727| |N|Gwennyth Bly'Leggonde - (36.6, 45.6)| |Z|Darkshore|
 T Fruit of the Sea |QID|1138| |N|Gubber Blump - (36.1, 44.9)| |Z|Darkshore|
@@ -205,6 +211,7 @@ A A Dark Threat Looms |QID|250| |N|Chief Engineer Hinderweir VII - (46.0, 13.6)|
 T A Dark Threat Looms |QID|250| |N|the Suspicious Barrel - (56.0, 13.2)| |C|!Hunter| |R|NightElf| |Z|Loch Modan|
 A A Dark Threat Looms |QID|199| |N|the Suspicious Barrel - (56.0, 13.2)| |C|!Hunter| |R|NightElf| |Z|Loch Modan|
 T A Dark Threat Looms |QID|199| |N|Chief Engineer Hinderweir VII - (46.0, 13.6)| |C|!Hunter| |R|NightElf| |Z|Loch Modan|
+N Die and respawn at the Spirit Healer |O| |C|!Hunter| |R|NightElf| |Z|Loch Modan|
 f Get the Thelsamar flight path |N|Thorgrum - (33.9, 51.0)| |C|!Hunter| |R|NightElf| |Z|Loch Modan|
 R Dun Morogh |N|(86.0, 51.0)| |C|!Hunter| |R|NightElf| |Z|Dun Morogh|
 f Get the Ironforge flight path |N|Gryth - (55.5, 47.8)| |C|!Hunter| |R|NightElf| |Z|Ironforge|

@@ -8,6 +8,7 @@ R Travel to Wetlands |N|(32.3, 12.6)| |O| |Z|Wetlands|
 R Travel to Loch Modan |N|(25.6, 10.1)| |Z|Loch Modan|
 R Travel to Badlands |N|(5.7, 29.8)| |O| |Z|Badlands|
 N Use the shortcut to get to Badlands faster |N|(5.7, 29.8)| |O| |Z|Badlands|
+N CLICK HERE for a video tutorial |N|(5.7, 29.8)| |O| |Z|Badlands|
 f Get the Kargath Flight Path |N|Gorrik - (4.0, 44.8)| |Z|Badlands|
 B Sell your junk and repair, if necessary |N|Sranda - (2.9, 47.2)| |Z|Badlands|
 A Broken Alliances |QID|782| |N|Gorn - (2.9, 45.6)| |O| |Z|Badlands|
@@ -79,6 +80,8 @@ T Badlands Reagent Run |QID|2258| |N|Jarkal - (2.4, 46.0)| |Z|Badlands|
 T Broken Alliances |QID|782| |N|Gorn - (2.9, 45.6)| |Z|Badlands|
 t Train your class spells |N|Loganaar - (52.5, 40.6)| |C|Druid| |Z|Moonglade|
 t Training (3567) |C|Mage| |Z|Moonglade|
+H Orgrimmar |N|Hearth to Orgrimmar| |O| |Z|Moonglade|
+t Training (3567) |O| |C|Mage| |Z|Moonglade|
 B Sell your junk, then restock on food and water if necessary |N|Barkeep Morag - (54.6, 67.7)| |C|!Rogue/!Warrior| |Z|Orgrimmar|
 B Sell your junk, then restock on food if necessary |N|Barkeep Morag - (54.6, 67.7)| |C|Rogue/Warrior| |Z|Orgrimmar|
 

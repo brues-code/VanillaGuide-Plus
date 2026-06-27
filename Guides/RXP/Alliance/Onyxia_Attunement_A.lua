@@ -34,9 +34,10 @@ A Abandoned Hope |QID|4242| |N|If your group does not have a Rogue you may need 
 N The quest chain will stop here until you find [A Crumpled Up Note] at BRD |N|(84.7, 69.0)| |Z|Burning Steppes|
 T Abandoned Hope |QID|4242| |N|Marshal Maxwell - (84.7, 69.0)| |Z|Burning Steppes|
 R Travel to Eastern Kingdoms |N|(48.1, 62.4)| |O| |Z|Eastern Kingdoms|
+N It is important you do this before killing bosses General Angerforge and Golem Lord Argelmach |Z|Eastern Kingdoms|
 N If you still have not found this by now clear around the Detention Block until it drops |Z|Eastern Kingdoms|
-C A Crumpled Up Note (1) |QID|4264| |L|11446 1| |N|It is important you do this before killing bosses General Angerforge and Golem Lord Argelmach| |Z|Eastern Kingdoms|
-A A Crumpled Up Note |QID|4264| |N|It is important you do this before killing bosses General Angerforge and Golem Lord Argelmach| |Z|Eastern Kingdoms|
+C A Crumpled Up Note (1) |QID|4264| |L|11446 1| |N|Use [A Crumpled Up Note] to start the quest| |Z|Eastern Kingdoms|
+A A Crumpled Up Note |QID|4264| |N|Use [A Crumpled Up Note] to start the quest| |Z|Eastern Kingdoms|
 T A Crumpled Up Note |QID|4264| |Z|Eastern Kingdoms|
 A A Shred of Hope |QID|4282| |Z|Eastern Kingdoms|
 C A Shred of Hope |QID|4282| |OIDX|1| |N|Marshal Windsor's Lost Information (1)| |Z|Eastern Kingdoms|
@@ -47,7 +48,7 @@ C Jail Break! |QID|4322| |OIDX|1| |N|Jail Break! (1)| |Z|Eastern Kingdoms|
 T Jail Break! |QID|4322| |N|Marshal Maxwell - (84.7, 69.0)| |Z|Burning Steppes|
 A Stormwind Rendezvous |QID|6402| |N|Marshal Maxwell - (84.7, 69.0)| |Z|Burning Steppes|
 R Travel to Stormwind City |N|(70.4, 85.2)| |O| |Z|Stormwind City|
-N Squire Rowe will call for Reginald Windsor's arrival after you him at the Gates of Stormwind |N|(69.7, 86.1)| |O| |Z|Stormwind City|
+N Squire Rowe will call for Reginald Windsor's arrival after you talk to him at the Gates of Stormwind |N|(69.7, 86.1)| |O| |Z|Stormwind City|
 N IF YOU ARE IN A PARTY ENSURE NO ONE AUTO ACCEPTS The Great Masquerade. AUTO ACCEPT HAS BEEN TURNED OFF FOR THIS STEP |N|(69.7, 86.1)| |O| |Z|Stormwind City|
 T Stormwind Rendezvous |QID|6402| |N|Squire Rowe and Reginald Windsor - (69.7, 86.1)| |O| |Z|Stormwind City|
 A The Great Masquerade |QID|6403| |N|Squire Rowe and Reginald Windsor - (69.7, 86.1)| |O| |Z|Stormwind City|
@@ -61,6 +62,7 @@ N The starting location is marked on your map. Follow the waypoint arrow careful
 N If you have [Noggenfogger Elixirs], you can use them to gain [Slow Fall] to make the jump easier |N|(54.5, 51.2)| |O| |C|!Priest/!Mage| |Z|Winterspring|
 N If you have [Noggenfogger Elixirs] or [Light Feathers], you can use them to gain [Slow Fall] to make the jump easier |N|(54.5, 51.2)| |O| |C|Mage| |Z|Winterspring|
 N If you have [Noggenfogger Elixirs] or [Light Feathers], you can use them to gain [Slow Fall] or [Levitate] to make the jump easier |N|(54.5, 51.2)| |O| |C|Priest| |Z|Winterspring|
+N Click here for video reference |N|(54.5, 51.2)| |O| |Z|Winterspring|
 T The Dragon's Eye |QID|6501| |N|Haleh - (54.5, 51.2)| |Z|Winterspring|
 A Drakefire Amulet |QID|6502| |N|Haleh - (54.5, 51.2)| |Z|Winterspring|
 R Travel to Eastern Kingdoms |N|(49.0, 63.9)| |O| |Z|Eastern Kingdoms|
@@ -72,9 +74,8 @@ N The starting location is marked on your map. Follow the waypoint arrow careful
 N If you have [Noggenfogger Elixirs], you can use them to gain [Slow Fall] to make the jump easier |N|(54.5, 51.2)| |O| |C|!Priest/!Mage| |Z|Winterspring|
 N If you have [Noggenfogger Elixirs] or [Light Feathers], you can use them to gain [Slow Fall] to make the jump easier |N|(54.5, 51.2)| |O| |C|Mage| |Z|Winterspring|
 N If you have [Noggenfogger Elixirs] or [Light Feathers], you can use them to gain [Slow Fall] or [Levitate] to make the jump easier |N|(54.5, 51.2)| |O| |C|Priest| |Z|Winterspring|
+N Click here for video reference |N|(54.5, 51.2)| |O| |Z|Winterspring|
 N Be careful of the blue circle in front of Haleh. Stepping on it will teleport you into the cave |N|(54.5, 51.2)| |Z|Winterspring|
-T Drakefire Amulet |QID|6502| |N|Haleh - (54.5, 51.2)| |Z|Winterspring|
-N Be careful! DO NOT step on the blue circle in front of Haleh. This will teleport you into the cave with an elite dragon and you could DIE |N|(54.5, 51.2)| |Z|Winterspring|
 T Drakefire Amulet |QID|6502| |N|Haleh - (54.5, 51.2)| |Z|Winterspring|
 
 ]]

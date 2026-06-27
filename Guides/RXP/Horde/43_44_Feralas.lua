@@ -17,18 +17,22 @@ T A Threat in Feralas |QID|2981| |N|Rok - (75.5, 43.7)| |Z|Feralas|
 A The Ogres of Feralas |QID|2975| |N|Rok - (75.5, 43.7)| |Z|Feralas|
 R Shyrka Wolfrunner |N|(74.5, 43.3)| |O| |C|Hunter| |Z|Feralas|
 t Attack mobs with it to learn [Bite (Rank 6)] |N|Cast [Tame Beast] on a Longtooth Runner to tame it - (70.6, 41.5)| |C|Hunter| |Z|Feralas|
+N Click here for more info about pet training |N|(70.6, 41.5)| |C|Hunter| |Z|Feralas|
 t Training (17266) |N|Shyrka Wolfrunner - (74.5, 43.3)| |C|Hunter| |Z|Feralas|
 C Look out for the [Distress Beacon] drop as you quest throughout Feralas |QID|2766| |L|8705 1| |N|Look out for the [Distress Beacon] drop as you quest throughout Feralas| |O| |Z|Feralas|
 A Find OOX-22/FE! |QID|2766| |N|Look out for the [Distress Beacon] drop as you quest throughout Feralas| |O| |Z|Feralas|
 N Woodpaw Trappers cast [Net] which immobilizes movement for 10 seconds |N|(73.2, 36.3)| |Z|Feralas|
 C War on the Woodpaw |QID|2862| |OIDX|1| |N|Woodpaw Gnolls. Loot them for their Manes (73.2, 36.3)| |Z|Feralas|
-C Gordunni Cobalt |QID|2987| |OIDX|1| |N|Loot the Gordunni Dirt Mounds that spawn on the ground for Gordunni Cobalt (75.3, 28.3)| |O| |Z|Feralas|
+N Loot the Gordunni Dirt Mounds that spawn on the ground for Gordunni Cobalt |N|(75.3, 28.3)| |O| |Z|Feralas|
+C Gordunni Cobalt |QID|2987| |OIDX|1| |N|Use [Orwin's Shovel] at the blue circles (75.3, 28.3)| |O| |Z|Feralas|
 C The Ogres of Feralas |QID|2975| |OIDX|1| |N|Gordunni Ogres, Ogre Mages, and Brutes at the Gordunni Outpost (76.1, 33.2)| |O| |Z|Feralas|
 N Follow the waypoint arrow to its different spawn locations |N|(74.6, 27.9)| |Z|Feralas|
 C the Scroll on the ground for the [Gordunni Scroll]. Use it to start the quest |QID|2978| |L|9370 1| |N|the Scroll on the ground for the [Gordunni Scroll]. Use it to start the quest - (74.6, 27.9)| |Z|Feralas|
 A The Gordunni Scroll |QID|2978| |N|the Scroll on the ground for the [Gordunni Scroll]. Use it to start the quest - (74.6, 27.9)| |Z|Feralas|
-C Gordunni Cobalt |QID|2987| |OIDX|1| |N|Loot the Gordunni Dirt Mounds that spawn on the ground for Gordunni Cobalt (76.7, 33.9)| |Z|Feralas|
+N Loot the Gordunni Dirt Mounds that spawn on the ground for Gordunni Cobalt |N|(76.7, 33.9)| |Z|Feralas|
+C Gordunni Cobalt |QID|2987| |OIDX|1| |N|Use [Orwin's Shovel] at the blue circles (76.7, 33.9)| |Z|Feralas|
 C The Ogres of Feralas |QID|2975| |OIDX|1| |N|Gordunni Ogres, Ogre Mages, and Brutes at the Gordunni Outpost (75.5, 34.6)| |Z|Feralas|
+H Camp Mojache |N|Hearth to Camp Mojache| |O| |C|Shaman| |Z|Feralas|
 T War on the Woodpaw |QID|2862| |N|Hadoken - (74.9, 42.5)| |Z|Feralas|
 A Alpha Strike |QID|2863| |N|Hadoken - (74.9, 42.5)| |Z|Feralas|
 T Gordunni Cobalt |QID|2987| |N|Orwin - (75.7, 44.3)| |Z|Feralas|
@@ -41,6 +45,7 @@ C A New Cloak's Sheen |QID|2973| |OIDX|1| |N|Sprite Darters. Loot them for their
 N There's usually one in each camp |N|(68.6, 54.2)| |Z|Feralas|
 N This is a timed quest (1hour). Re-accept the quest if you failed it |N|(68.6, 54.2)| |Z|Feralas|
 C Alpha Strike |QID|2863| |OIDX|1| |N|Woodpaw Alphas within the allotted time (68.6, 54.2)| |Z|Feralas|
+H Camp Mojache |N|Hearth to Camp Mojache| |O| |Z|Feralas|
 T A New Cloak's Sheen |QID|2973| |N|Krueg - (76.0, 42.8)| |Z|Feralas|
 A A Grim Discovery |QID|2974| |N|Krueg - (76.0, 42.8)| |Z|Feralas|
 T Alpha Strike |QID|2863| |N|Hadoken - (74.9, 42.5)| |Z|Feralas|
@@ -65,7 +70,8 @@ N This mob can be quite hard make sure to have cooldowns available |N|(76.4, 61.
 N It patrols inside and outside of the Silithid Hives |N|(76.4, 61.2)| |Z|Feralas|
 C Stinglasher |QID|7731| |OIDX|1| |N|Stinglasher. Loot it for its Glands (76.4, 61.2)| |Z|Feralas|
 C Zukk'ash Infestation |QID|7730| |OIDX|1| |N|Zukk'ash Silithid. Loot them for their Carapace (72.9, 62.8)| |Z|Feralas|
-C Screecher Spirits |QID|3520| |OIDX|1| |N|Use [Yeh'kinya's Bramble] on their corpses. the Screecher Spirit that appears (56.1, 46.9)| |O| |Z|Feralas|
+N Use [Yeh'kinya's Bramble] on their corpses. Talk to the Screecher Spirit that appears |N|(56.1, 46.9)| |O| |Z|Feralas|
+C Screecher Spirits |QID|3520| |OIDX|1| |N|Kill Vale Screechers (56.1, 46.9)| |O| |Z|Feralas|
 C Dark Ceremony |QID|2979| |OIDX|1| |N|Gordunni Mage-Lords. Loot them for their Orb (58.6, 69.8)| |O| |Z|Feralas|
 N Kill every Shaman you see as they have limited spawns |N|(59.6, 64.5)| |Z|Feralas|
 C The Ogres of Feralas |QID|2980| |OIDX|1| |N|Gordunni Maulers, Warlocks, and Shamans (59.6, 64.5)| |Z|Feralas|
@@ -77,14 +83,16 @@ N [Long Elegant Feathers] are dropped by Hippogryphs only. Stagwings and Skystor
 B Frayfeather Hippogryphs. Loot them for their [Long Elegant Feathers] |L|4589 10| |N|Kill Frayfeather Hippogryphs. Loot them for their [Long Elegant Feathers]| |O| |Z|Feralas|
 N There are multiple nests located in the southern mountains |N|(56.7, 75.9)| |Z|Feralas|
 C a [Hippogryph Egg] from a hippogryph nest |L|8564 1| |N|a [Hippogryph Egg] from a hippogryph nest - (56.7, 75.9)| |Z|Feralas|
-C Screecher Spirits |QID|3520| |OIDX|1| |N|Use [Yeh'kinya's Bramble] on their corpses. the Screecher Spirit that appears| |O| |Z|Feralas|
+N Use [Yeh'kinya's Bramble] on their corpses. Talk to the Screecher Spirit that appears |O| |Z|Feralas|
+C Screecher Spirits |QID|3520| |OIDX|1| |N|Kill Vale Screechers| |O| |Z|Feralas|
 N [Long Elegant Feathers] are dropped by Hippogryphs only. Stagwings and Skystormers DO NOT drop them |N|(55.9, 65.9)| |Z|Feralas|
 C Frayfeather Hippogryphs. Loot them for their [Long Elegant Feathers] |QID|7842| |L|4589 10| |N|Frayfeather Hippogryphs. Loot them for their [Long Elegant Feathers] - (55.9, 65.9)| |Z|Feralas|
 N You could also buy these from the Auction House instead |N|(55.9, 65.9)| |Z|Feralas|
 N [Long Elegant Feathers] are dropped by Hippogryphs only. Stagwings and Skystormers DO NOT drop them |N|(55.9, 65.9)| |Z|Feralas|
 B Frayfeather Hippogryphs. Loot them for their [Long Elegant Feathers] |L|4589 10| |N|Frayfeather Hippogryphs. Loot them for their [Long Elegant Feathers] - (55.9, 65.9)| |Z|Feralas|
 R Continue to kill Frayfeather mobs |N|(55.9, 65.9)| |Z|Feralas|
-C Screecher Spirits |QID|3520| |OIDX|1| |N|Use [Yeh'kinya's Bramble] on their corpses. the Screecher Spirit that appears (56.7, 56.1)| |Z|Feralas|
+N Use [Yeh'kinya's Bramble] on their corpses. Talk to the Screecher Spirit that appears |N|(56.7, 56.1)| |Z|Feralas|
+C Screecher Spirits |QID|3520| |OIDX|1| |N|Kill Vale Screechers (56.7, 56.1)| |Z|Feralas|
 A Find OOX-22/FE! |QID|2766| |Z|Feralas|
 T Find OOX-22/FE! |QID|2766| |N|Homing Robot OOX-22/FE - (53.4, 55.7)| |Z|Feralas|
 A Rescue OOX-22/FE! |QID|2767| |N|Homing Robot OOX-22/FE - (53.4, 55.7)| |Z|Feralas|
@@ -94,6 +102,7 @@ C Rescue OOX-22/FE! |QID|2767| |OIDX|1| |N|Escort Homing Robot OOX-22/FE to the 
 R the Naga cave south of Feathermoon Stronghold |N|(26.1, 67.4)| |O| |Z|Feralas|
 N You can either swim there, or take the alliance boat. You'll have to jump off the boat once you reach The Isle of Dread in between the two islands |N|(26.1, 67.4)| |O| |Z|Feralas|
 R Hatecrest Nagas |N|(26.2, 67.5)| |Z|Feralas|
+H Camp Mojache |N|Hearth to Camp Mojache| |Z|Feralas|
 B Sell your junk, then restock on food and water if necessary |N|Innkeeper Greul - (74.8, 45.2)| |C|!Rogue/!Warrior| |Z|Feralas|
 B Sell your junk, then restock on food if necessary |N|Innkeeper Greul - (74.8, 45.2)| |C|Rogue/Warrior| |Z|Feralas|
 N Make sure you DO NOT sell any [Long Elegant Feather] |N|(74.8, 45.2)| |Z|Feralas|

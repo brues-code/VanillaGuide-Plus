@@ -44,12 +44,11 @@ R Travel through Timbermaw Hold to Salfa in Winterspring |N|(27.7, 34.5)| |O| |Z
 T Speak to Salfa |QID|8465| |N|Salfa - (27.7, 34.5)| |Z|Winterspring|
 T The Videre Elixir |QID|3909| |N|Donova Snowden - (31.3, 45.2)| |Z|Winterspring|
 A Meet at the Grave |QID|3912| |N|Donova Snowden - (31.3, 45.2)| |Z|Winterspring|
-N Blizzard has adjusted the quest chain for [The Videre Elixir] so it will no longer kill you on Official Hardcore Servers |N|(31.3, 45.2)| |Z|Winterspring|
-A Meet at the Grave |QID|3912| |N|Donova Snowden - (31.3, 45.2)| |Z|Winterspring|
 T The New Springs |QID|980| |N|Donova Snowden - (31.3, 45.2)| |Z|Winterspring|
 A Strange Sources |QID|4842| |N|Donova Snowden - (31.3, 45.2)| |Z|Winterspring|
 A Threat of the Winterfall |QID|5082| |N|Donova Snowden - (31.3, 45.2)| |Z|Winterspring|
 C Threat of the Winterfall |QID|5082| |OIDX|1| |N|Winterfall Pathfinders, Winterfall Den Watchers and Winterfall Totemics (41.6, 42.8)| |Z|Winterspring|
+N Use the [Empty Firewater Flask] to start the quest |Z|Winterspring|
 C Winterfall Furbolgs. Loot them for a [Empty Firewater Flask] |QID|5083| |L|12771 1| |N|Kill Winterfall Furbolgs. Loot them for a [Empty Firewater Flask]| |Z|Winterspring|
 A Winterfall Firewater |QID|5083| |N|Kill Winterfall Furbolgs. Loot them for a [Empty Firewater Flask]| |Z|Winterspring|
 N Be ready to move away from Donova Snowden quickly as after you turn in Winterfall Runners, 3 Winterfall Ambushers will attack her location |N|(31.3, 45.2)| |Z|Winterspring|
@@ -62,34 +61,20 @@ A Mystery Goo |QID|5085| |N|the Deadwood Cauldron in the northern Furbolg camp -
 T Mystery Goo |QID|5085| |N|Donova Snowden - (31.3, 45.2)| |Z|Winterspring|
 A Toxic Horrors |QID|5086| |N|Donova Snowden - (31.3, 45.2)| |Z|Winterspring|
 C Moontouched Wildkin |QID|978| |OIDX|1| |N|Moontouched Feathers on the ground (60.6, 33.7)| |Z|Winterspring|
+N Die and respawn at the Spirit Healer in Everlook |O| |C|Hunter| |Z|Winterspring|
 F Fly to Teldrassil |N|Maethrya - (62.3, 36.6)| |O| |C|Hunter| |Z|Winterspring|
 T Moontouched Wildkin |QID|978| |N|Erelas Ambersky - (55.5, 92.0)| |C|Hunter| |Z|Teldrassil|
 A Find Ranshalla |QID|979| |N|Erelas Ambersky - (55.5, 92.0)| |C|Hunter| |Z|Teldrassil|
+H Ratchet |N|Hearth to Ratchet| |Z|Teldrassil|
 N Buy food/water if needed |C|!Warrior/!Rogue| |Z|Teldrassil|
 N Buy food if needed |C|Warrior/Rogue| |Z|Teldrassil|
 F Fly to Tanaris |N|Bragok - (63.1, 37.2)| |Z|The Barrens|
 R Travel to Tanaris |N|(54.0, 28.6)| |O| |Z|Tanaris|
-N Blizzard has adjusted this quest so consuming this will NOT kill your character on Official Hardcore Servers. It will lower your health to 3% however. Ensure you bandage or eat food before leaving the graveyard |N|(54.0, 28.6)| |O| |Z|Tanaris|
-N Gaeriyan |N|(53.9, 23.3)| |Z|Tanaris|
-N You must have the [Near Death Experience] debuff to see Gaeriyan by drinking the [Videre Elixir] |N|(53.9, 23.3)| |Z|Tanaris|
-N Blizzard has adjusted this quest so consuming this will NOT kill your character on Official Hardcore Servers |N|(53.9, 23.3)| |Z|Tanaris|
-T Meet at the Grave |QID|3912| |N|Ensure you bandage or eat food before leaving the graveyard - (53.9, 23.3)| |Z|Tanaris|
-A A Grave Situation |QID|3913| |N|Ensure you bandage or eat food before leaving the graveyard - (53.9, 23.3)| |Z|Tanaris|
-N You must have the [Near Death Experience] debuff to see Gaeriyan by drinking the [Videre Elixir] |N|(53.9, 23.3)| |Z|Tanaris|
-N Blizzard has adjusted this quest so consuming this will NOT kill your character on Official Hardcore Servers |N|(53.9, 23.3)| |Z|Tanaris|
-A A Grave Situation |QID|3913| |N|Gaeriyan - (53.9, 23.3)| |Z|Tanaris|
 N You must be dead in order to speak to Gaeriyan |N|(53.9, 23.3)| |Z|Tanaris|
 T Meet at the Grave |QID|3912| |N|Gaeriyan - (53.9, 23.3)| |Z|Tanaris|
 A A Grave Situation |QID|3913| |N|Gaeriyan - (53.9, 23.3)| |Z|Tanaris|
 T A Grave Situation |QID|3913| |N|the Conspicuous Gravestone - (53.8, 29.1)| |Z|Tanaris|
 A Linken's Sword |QID|3914| |N|the Conspicuous Gravestone - (53.8, 29.1)| |Z|Tanaris|
-T A Grave Situation |QID|3913| |N|the Conspicuous Gravestone - (53.8, 29.1)| |Z|Tanaris|
-A Linken's Sword |QID|3914| |N|the Conspicuous Gravestone - (53.8, 29.1)| |Z|Tanaris|
-F Fly to Un'Goro |N|Bera Stonehammer - (51.0, 29.3)| |Z|Tanaris|
-T Linken's Sword |QID|3914| |N|Linken - (44.7, 8.1)| |Z|Un'Goro Crater|
-A A Gnome's Assistance |QID|3941| |N|Linken - (44.7, 8.1)| |Z|Un'Goro Crater|
-T A Gnome's Assistance |QID|3941| |N|J.D. Collie - (41.9, 2.7)| |Z|Un'Goro Crater|
-A Linken's Memory |QID|3942| |N|J.D. Collie - (41.9, 2.7)| |Z|Un'Goro Crater|
 F Fly to Un'Goro |N|Bera Stonehammer - (51.0, 29.3)| |Z|Tanaris|
 T Linken's Sword |QID|3914| |N|Linken - (44.7, 8.1)| |Z|Un'Goro Crater|
 A A Gnome's Assistance |QID|3941| |N|Linken - (44.7, 8.1)| |Z|Un'Goro Crater|
@@ -106,8 +91,6 @@ T Rescue From Jaedenar |QID|5203| |N|Jessir Moonbow - (51.3, 82.0)| |Z|Felwood|
 A Retribution of the Light |QID|5204| |N|Jessir Moonbow - (51.3, 82.0)| |Z|Felwood|
 T Linken's Memory |QID|3942| |N|Eridan Bluewind - (51.4, 81.5)| |Z|Felwood|
 A Silver Heart |QID|4084| |N|Eridan Bluewind - (51.4, 81.5)| |Z|Felwood|
-T Linken's Memory |QID|3942| |N|Eridan Bluewind - (51.4, 81.5)| |Z|Felwood|
-A Silver Heart |QID|4084| |N|Eridan Bluewind - (51.4, 81.5)| |Z|Felwood|
 C Silver Heart |QID|4084| |OIDX|1| |N|Kill Bears and Wolves in Felwood. Loot them for their Silvery Claws| |O| |Z|Felwood|
 C Retribution of the Light |QID|5204| |OIDX|1| |N|Rakaiah (38.5, 50.4)| |Z|Felwood|
 T Retribution of the Light |QID|5204| |N|the Remains of Trey Lightforge - (38.5, 50.4)| |Z|Felwood|
@@ -117,12 +100,9 @@ N Kill Salia first as she casts [Mind Control] |N|(38.8, 46.8)| |Z|Felwood|
 C A Final Blow |QID|5242| |OIDX|1| |N|Continue further into Shadow Hold (38.8, 46.8)| |Z|Felwood|
 C Silver Heart |QID|4084| |OIDX|1| |N|Kill Felpaw Scavenger (ST Dungeon Quest)| |D|ST| |Z|Felwood|
 C Silver Heart |QID|4084| |OIDX|2| |N|Irontree Stompers or Irontree Wanderers. Loot them for their Irontree Heart (51.8, 25.5) (ST Dungeon Quest)| |D|ST| |Z|Felwood|
-C Silver Heart |QID|4084| |OIDX|2| |N|Kill Irontree Wanderer (48.4, 29.2) (ST Dungeon Quest)| |D|ST| |Z|Felwood|
 C Silver Heart |QID|4084| |OIDX|1| |N|(55.6, 23.4) (ST Dungeon Quest)| |D|ST| |Z|Felwood|
 T A Final Blow |QID|5242| |N|Greta Mosshoof - (51.2, 82.1) (ST Dungeon Quest)| |D|ST| |Z|Felwood|
 T The Remains of Trey Lightforge |QID|5385| |N|Jessir Moonbow - (51.3, 82.0) (ST Dungeon Quest)| |D|ST| |Z|Felwood|
-N Do not accept the follow up quest yet |N|(51.4, 81.5) (ST Dungeon Quest)| |D|ST| |Z|Felwood|
-T Silver Heart |QID|4084| |N|Eridan Bluewind - (51.4, 81.5) (ST Dungeon Quest)| |D|ST| |Z|Felwood|
 N Do not accept the follow up quest yet |N|(51.4, 81.5) (ST Dungeon Quest)| |D|ST| |Z|Felwood|
 T Silver Heart |QID|4084| |N|Eridan Bluewind - (51.4, 81.5) (ST Dungeon Quest)| |D|ST| |Z|Felwood|
 C Silver Heart |QID|4084| |OIDX|1| |N|Kill Felpaw Scavenger (!ST Dungeon Quest)| |D|!ST| |Z|Felwood|
@@ -130,7 +110,6 @@ T A Final Blow |QID|5242| |N|Greta Mosshoof - (51.2, 82.1)| |C|Rogue/Warrior| |Z
 T The Remains of Trey Lightforge |QID|5385| |N|Jessir Moonbow - (51.3, 82.0)| |C|Rogue/Warrior| |Z|Felwood|
 C Toxic Horrors |QID|5086| |OIDX|1| |N|Toxic Horrors. Loot them for their Toxic Horror Droplets (49.6, 26.6)| |Z|Felwood|
 C Silver Heart |QID|4084| |OIDX|2| |N|Irontree Stompers or Irontree Wanderers. Loot them for their Irontree Heart (51.8, 25.5)| |Z|Felwood|
-C Silver Heart |QID|4084| |OIDX|2| |N|Kill Irontree Wanderer (48.4, 29.2)| |Z|Felwood|
 C Silver Heart |QID|4084| |OIDX|1| |N|(55.6, 23.4)| |Z|Felwood|
 R Travel to Winterspring |N|(27.8, 34.6)| |O| |Z|Winterspring|
 T Toxic Horrors |QID|5086| |N|Donova Snowden - (31.3, 45.2)| |Z|Winterspring|

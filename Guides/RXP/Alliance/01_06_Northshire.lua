@@ -9,11 +9,9 @@ A The Stolen Tome |QID|1598| |N|Drusilla La Salle - (49.9, 42.6)| |C|Warlock| |Z
 t Train [Immolate] |N|Drusilla La Salle - (49.9, 42.6)| |C|Warlock| |Z|Elwynn Forest|
 N Open the Stolen Books. Loot it for the Powers of the Void |N|(56.7, 44.0)| |C|Warlock| |Z|Elwynn Forest|
 N You can loot the Powers of the Void safely while inside the Tent! Watch the video on how to do this |N|(56.7, 44.0)| |C|Warlock| |Z|Elwynn Forest|
+N Click here for video reference |N|(56.7, 44.0)| |C|Warlock| |Z|Elwynn Forest|
 C The Stolen Tome |QID|1598| |OIDX|1| |N|Run into the Tent at the Defias Camp Collect Powers of the Void (x1)| |C|Warlock| |Z|Elwynn Forest|
-R Remain inside the Tent so Defias Thugs can't hit you |N|(56.8, 43.7)| |O| |C|Warlock| |Z|Elwynn Forest|
-N Open the Stolen Books. Loot it for the Powers of the Void |N|(56.7, 44.0)| |C|Warlock| |Z|Elwynn Forest|
-N You can loot the Powers of the Void safely while inside the Tent! Watch the video on how to do this |N|(56.7, 44.0)| |C|Warlock| |Z|Elwynn Forest|
-C The Stolen Tome |QID|1598| |OIDX|1| |N|Run into the Tent at the Defias Camp Collect Powers of the Void (x1)| |C|Warlock| |Z|Elwynn Forest|
+N Die and respawn at the Spirit Healer |N|(49.5, 43.5)| |O| |C|Warlock| |Z|Elwynn Forest|
 T The Stolen Tome |QID|1598| |N|Drusilla La Salle - (49.9, 42.6)| |C|Warlock| |Z|Elwynn Forest|
 A A Threat Within |QID|783| |N|Deputy Willem - (48.2, 42.9)| |Z|Elwynn Forest|
 N You will train [Battle Shout] which increases early leveling speeds |N|(46.4, 40.3)| |C|Warrior| |Z|Elwynn Forest|
@@ -85,6 +83,7 @@ T Encrypted Letter |QID|3102| |N|Jorik Kerridan - (50.3, 39.9)| |C|Rogue| |Z|Elw
 t Train [Stealth] & [Pick Pocket] |N|Jorik Kerridan - (50.3, 39.9)| |C|Rogue| |Z|Elwynn Forest|
 C Milly's Harvest |QID|3904| |OIDX|1| |N|Milly's Harvest on the ground Collect Milly's Harvest (x8)| |C|Priest/Mage| |Z|Elwynn Forest|
 C Bounty on Garrick Padfoot |QID|6| |OIDX|1| |N|Garrick Padfoot. Loot him for his Head Collect Garrick's Head (x1)| |Z|Elwynn Forest|
+N Die and respawn at the Spirit Healer |O| |Z|Elwynn Forest|
 T Milly's Harvest |QID|3904| |N|Milly Osworth - (50.7, 39.3)| |C|Priest/Mage| |Z|Elwynn Forest|
 A Grape Manifest |QID|3905| |N|Milly Osworth - (50.7, 39.3)| |C|Priest/Mage| |Z|Elwynn Forest|
 T Bounty on Garrick Padfoot |QID|6| |N|Deputy Willem - (48.2, 42.9)| |C|Warrior/Rogue/Paladin| |Z|Elwynn Forest|

@@ -8,6 +8,7 @@ A Fields of Grief |QID|365| |N|Simmer - (40.9, 54.2)| |Z|Tirisfal Glades|
 N He's an abomination that patrols along the road to Brill |N|(56.1, 52.5)| |Z|Tirisfal Glades|
 A Gordo's Task |QID|5481| |N|Gordo. - (56.1, 52.5)| |Z|Tirisfal Glades|
 t Train [Tailoring]. Save up your [Linen Cloth]. This will allow you to create a wand later |N|Bowen - (52.6, 55.5)| |C|Priest| |Z|Tirisfal Glades|
+N Die and respawn at the Spirit Healer or run to Brill |O| |Z|Tirisfal Glades|
 A A Putrid Task |QID|404| |N|Dillinger and Zygand - (58.2, 51.5)| |Z|Tirisfal Glades|
 T Vital Intelligence |QID|383| |N|Dillinger and Zygand - (58.2, 51.5)| |Z|Tirisfal Glades|
 A At War With The Scarlet Crusade |QID|427| |N|Dillinger and Zygand - (58.2, 51.5)| |Z|Tirisfal Glades|
@@ -17,6 +18,7 @@ B Collect Stiletto (1) |L|2494 1| |N|Oliver. Buy a [Stiletto] from him - (60.1, 
 B Vendor trash. Sell your weapon if it gives you enough money for a [Gladius] (5s 36c). You'll come back later if you don't have enough yet |N|Oliver - (60.1, 53.5)| |C|Warrior| |Z|Tirisfal Glades|
 B Collect Gladius (1) |L|2488 1| |N|Oliver. Buy a [Gladius] from him - (60.1, 53.5)| |C|Warrior| |Z|Tirisfal Glades|
 T A Rogue's Deal |QID|8| |N|Innkeeper Renee - (61.7, 52.1)| |Z|Tirisfal Glades|
+h Brill |N|Set hearth in Brill (61.7, 52.1)| |Z|Tirisfal Glades|
 T In Favor of Darkness |QID|5651| |N|Beryl on the second floor - (61.6, 52.2)| |C|Priest| |Z|Tirisfal Glades|
 A Garments of Darkness |QID|5650| |N|Beryl on the second floor - (61.6, 52.2)| |C|Priest| |Z|Tirisfal Glades|
 t Train [Smite] & [Power Word: Shield] & [Lesser Heal Rank 2] |N|Beryl on the second floor - (61.6, 52.2)| |C|Priest| |Z|Tirisfal Glades|
@@ -48,6 +50,7 @@ C Linen Cloth (60) |L|2589 60| |N|Start collecting 3 stacks of [Linen Cloth]. Th
 C Fields of Grief |QID|365| |OIDX|1| |N|the Pumpkins found in the field. Tirisfal Pumpkin (10)| |Z|Tirisfal Glades|
 N Be careful as they have 50% increased parry for 8 seconds after they do their defense stance animation |N|(33.7, 49.3)| |C|Rogue/Warrior| |Z|Tirisfal Glades|
 C At War With The Scarlet Crusade |QID|427| |OIDX|1| |N|Scarlet Warriors Scarlet Warrior (10)| |Z|Tirisfal Glades|
+N Die and respawn at the  Spirit Healer |O| |Z|Tirisfal Glades|
 T Gordo's Task |QID|5481| |N|Holland, he patrols around the graveyard. - (59.3, 46.7)| |Z|Tirisfal Glades|
 A Doom Weed |QID|5482| |N|Holland, he patrols around the graveyard. - (59.3, 46.7)| |Z|Tirisfal Glades|
 T A Putrid Task |QID|404| |N|Dillinger, Johaan and Zygand - (58.2, 51.4)| |Z|Tirisfal Glades|
@@ -79,11 +82,10 @@ B Vendor trash. Sell your weapon if it gives you enough money for a [Stiletto] (
 B Collect Stiletto (1) |L|2494 1| |N|Oliver. Buy a [Stiletto] from him - (60.1, 53.5)| |C|Rogue| |Z|Tirisfal Glades|
 B Vendor trash. Sell your weapon if it gives you enough money for a [Gladius] (5s 36c). You'll come back later if you don't have enough yet |N|Oliver - (60.1, 53.5)| |C|Warrior| |Z|Tirisfal Glades|
 B Collect Gladius (1) |L|2488 1| |N|Oliver. Buy a [Gladius] from him - (60.1, 53.5)| |C|Warrior| |Z|Tirisfal Glades|
-T Gordo's Task |QID|5481| |N|Holland, he patrols around the graveyard. - (59.3, 46.7)| |Z|Tirisfal Glades|
-A Doom Weed |QID|5482| |N|Holland, he patrols around the graveyard. - (59.3, 46.7)| |Z|Tirisfal Glades|
 C The Chill of Death |QID|375| |OIDX|1| |N|Kill Duskbats. Loot them for their Pelts Duskbat Pelt (5)| |O| |Z|Tirisfal Glades|
 C A New Plague |QID|367| |OIDX|1| |N|Darkhounds. Loot them for their Blood Darkhound Blood (5)| |Z|Tirisfal Glades|
 C The Chill of Death |QID|375| |OIDX|1| |N|Duskbats. Loot them for their Pelts Duskbat Pelt (5)| |O| |C|Rogue/Warrior| |Z|Tirisfal Glades|
+N Die and respawn at the Spirit Healer |O| |Z|Tirisfal Glades|
 T A New Plague |QID|367| |N|Johaan - (59.5, 52.4)| |Z|Tirisfal Glades|
 A A New Plague |QID|368| |N|Johaan - (59.5, 52.4)| |Z|Tirisfal Glades|
 A Proof of Demise |QID|374| |N|Burgess, Wanted Poster and Sevren inside the building - (60.9, 52.0)| |Z|Tirisfal Glades|
@@ -112,6 +114,7 @@ C Wanted: Maggot Eye |QID|398| |OIDX|1| |N|Maggot Eye. Loot him for his Paw Magg
 C Graverobbers |QID|358| |OIDX|2| |N|Rot Hide Mongrels. Loot them for their Ichor Rot Hide Mongrel (5)| |Z|Tirisfal Glades|
 C Graverobbers |QID|358| |OIDX|3| |N|Rot Hide Gnolls. Loot them for their Ichor Embalming Ichor (8)| |Z|Tirisfal Glades|
 C A New Plague |QID|368| |OIDX|1| |N|Vile Vin Murlocs. Loot them for their Scales Vile Fin Scale (5)| |Z|Tirisfal Glades|
+N Die and respawn at the Spirit Healer |N|(64.5, 29.4)| |O| |Z|Tirisfal Glades|
 N Make sure you die on (or to the west of) the arrow |N|(64.5, 29.4)| |O| |Z|Tirisfal Glades|
 T A New Plague |QID|368| |N|Johaan, Zygand and Sevren - (59.5, 52.4)| |Z|Tirisfal Glades|
 A A New Plague |QID|369| |N|Johaan, Zygand and Sevren - (59.5, 52.4)| |Z|Tirisfal Glades|
@@ -155,6 +158,7 @@ C Collect A Letter to Yvette (1) |QID|361| |L|2839 1| |N|Soldiers and Bonecaster
 A A Letter Undelivered |QID|361| |N|Soldiers and Bonecasters. Loot them for [Thurman's Letter] - (46.0, 30.2)| |Z|Tirisfal Glades|
 C Collect A Letter to Yvette (1) |QID|361| |L|2839 1| |N|Soldiers and Bonecasters. Loot them for [Thurman's Letter] (46.0, 30.2)| |O| |Z|Tirisfal Glades|
 A A Letter Undelivered |QID|361| |N|Soldiers and Bonecasters. Loot them for [Thurman's Letter] - (46.0, 30.2)| |O| |Z|Tirisfal Glades|
+N Die and respawn at the Spirit Healer |O| |Z|Tirisfal Glades|
 T The Mills Overrun |QID|426| |N|Dillinger - (58.2, 51.4)| |Z|Tirisfal Glades|
 N Buy a [Coarse Thread] from her |N|(61.0, 52.4)| |O| |Z|Tirisfal Glades|
 C The Chill of Death |QID|375| |OIDX|2| |N|Abigail Coarse Thread (1)| |O| |Z|Tirisfal Glades|
@@ -190,6 +194,7 @@ R Enter Undercity |N|(61.8, 65.1)| |O| |C|Warlock| |Z|Tirisfal Glades|
 R Travel to Undercity |N|(64.2, 39.8)| |O| |C|Warlock| |Z|Undercity|
 R Take the lift down to the Undercity |N|(65.5, 43.6)| |O| |C|Warlock| |Z|Undercity|
 R Norman |N|(67.7, 38.0)| |C|Warlock| |Z|Undercity|
+h Undercity |N|Set hearth in Undercity (67.7, 38.0)| |C|Warlock| |Z|Undercity|
 T Halgar's Summons |QID|1478| |N|Carendin in the Magic Quarter - (85.1, 26.0)| |C|Warlock| |Z|Undercity|
 A Creature of the Void |QID|1473| |N|Carendin in the Magic Quarter - (85.1, 26.0)| |C|Warlock| |Z|Undercity|
 R Travel to Tirisfal Glades |N|(51.1, 71.5)| |C|Warlock| |Z|Tirisfal Glades|
@@ -206,6 +211,7 @@ B Mining Pick (1) |L|2901 1| |N|Sarah - (56.7, 36.9)| |C|Warrior/Rogue| |Z|Under
 t Mining Trained |N|Sarah - (56.7, 36.9)| |C|Warrior/Rogue| |Z|Undercity|
 t Train [Blacksmithing] & Mining Trained |N|Basil Frye - (60.2, 29.1)| |C|Warrior/Rogue| |Z|Undercity|
 R Norman |N|(67.7, 38.0)| |C|!Warlock| |Z|Undercity|
+h Undercity |N|Set hearth in Undercity (67.7, 38.0)| |C|!Warlock| |Z|Undercity|
 T Creature of the Void |QID|1473| |N|Carendin in the Magic Quarter - (85.1, 26.0)| |C|Warlock| |Z|Undercity|
 A The Binding |QID|1471| |N|Carendin in the Magic Quarter - (85.1, 26.0)| |C|Warlock| |Z|Undercity|
 C The Binding |QID|1471| |OIDX|1| |N|the Summoned Voidwalker Kill Summoned Voidwalker (1)| |C|Warlock| |Z|Undercity|
@@ -229,7 +235,7 @@ A The Balnir Farmstead |QID|1882| |N|Anastasia in the Magic Quarter - (85.1, 10.
 T The Prodigal Lich |QID|405| |N|Bethor in the Magic Quarter - (84.1, 17.4)| |Z|Undercity|
 A The Lich's Identity |QID|357| |N|Bethor in the Magic Quarter - (84.1, 17.4)| |Z|Undercity|
 R Travel to Tirisfal Glades |N|(61.9, 64.8)| |O| |Z|Tirisfal Glades|
-C The Deathstalkers |QID|1886| |OIDX|1| |N|If you see Astor, him and kill him. Loot him for the letter. He patrols the road between Brill and The Sepulcher Astor's Letter of Introduction (1)| |O| |C|Rogue| |R|Undead| |Z|Tirisfal Glades|
+C The Deathstalkers |QID|1886| |OIDX|1| |N|If you see Astor, talk to him and kill him. Loot him for the letter. He patrols the road between Brill and The Sepulcher Astor's Letter of Introduction (1)| |O| |C|Rogue| |R|Undead| |Z|Tirisfal Glades|
 T Proof of Demise |QID|374| |N|Burgess - (60.9, 52.0)| |O| |Z|Tirisfal Glades|
 T At War With The Scarlet Crusade |QID|370| |N|Zygand - (60.6, 51.8)| |Z|Tirisfal Glades|
 A At War With The Scarlet Crusade |QID|371| |N|Zygand - (60.6, 51.8)| |Z|Tirisfal Glades|
@@ -251,6 +257,7 @@ C At War With The Scarlet Crusade |QID|371| |OIDX|1| |N|Captain Vachon inside th
 C The Chill of Death |QID|375| |OIDX|1| |N|Kill Duskbats. Loot them for their Pelts Duskbat Pelt (5)| |O| |Z|Tirisfal Glades|
 C A New Plague |QID|369| |OIDX|1| |N|Vicious Night Web Spiders. Loot them for their Venom Vicious Night Web Spider Venom (4)| |Z|Tirisfal Glades|
 C The Lich's Identity |QID|357| |OIDX|1| |N|Gunther's Books for The Lich's Spellbook on the island in Brightwater Lake The Lich's Spellbook (1)| |Z|Tirisfal Glades|
+N Die ON THE SMALLER ISLAND and respawn at the Spirit Healer |N|(66.6, 45.0)| |O| |Z|Tirisfal Glades|
 T A New Plague |QID|369| |N|Johaan - (59.5, 52.4)| |Z|Tirisfal Glades|
 A A New Plague |QID|492| |N|Johaan - (59.5, 52.4)| |Z|Tirisfal Glades|
 A Delivery to Silverpine Forest |QID|445| |N|Johaan - (59.5, 52.4)| |Z|Tirisfal Glades|
@@ -268,6 +275,7 @@ B Sell your junk, then restock on food and water if necessary |N|Innkeeper Renee
 B Sell your junk, then restock on food if necessary |N|Innkeeper Renee - (61.7, 52.1)| |C|Rogue/Warrior| |Z|Tirisfal Glades|
 T Fields of Grief |QID|407| |N|the Captured Scarlet Zealot and the Captured Mountaineer downstairs in the back of the inn - (62.0, 51.3)| |Z|Tirisfal Glades|
 T A New Plague |QID|492| |N|the Captured Scarlet Zealot and the Captured Mountaineer downstairs in the back of the inn - (62.0, 51.3)| |Z|Tirisfal Glades|
+H Undercity |N|Hearth to Undercity| |O| |Z|Tirisfal Glades|
 N Buy Six [Discolored Worg Hearts] from the Auction House |N|(64.2, 49.6)| |Z|Undercity|
 N Skip this if you want, it's only a small time saver |N|(64.2, 49.6)| |Z|Undercity|
 B Collect Discolored Worg Heart (x6) |L|3164 6| |N|Auctioneer Rhyker - (64.2, 49.6)| |Z|Undercity|
@@ -309,6 +317,7 @@ C Collect Candle of Beckoning (1) |QID|409| |L|3080 1| |N|the Crate of Candles o
 C Proving Allegiance |QID|409| |OIDX|1| |N|Nefara Lillith Nefara (1)| |Z|Tirisfal Glades|
 T Proving Allegiance |QID|409| |N|Gunther - (68.2, 41.9)| |Z|Tirisfal Glades|
 A The Prodigal Lich Returns |QID|411| |N|Gunther - (68.2, 41.9)| |Z|Tirisfal Glades|
+N Swim west, die to mobs and respawn at the Spirit Healer |N|(64.4, 42.6)| |O| |Z|Tirisfal Glades|
 T At War With The Scarlet Crusade |QID|372| |N|Zygand - (60.6, 51.8)| |Z|Tirisfal Glades|
 T Proof of Demise |QID|374| |N|Burgess - (60.9, 52.0)| |Z|Tirisfal Glades|
 N Buy a [Coarse Thread] from her |N|(61.0, 52.4)| |Z|Tirisfal Glades|
@@ -319,7 +328,7 @@ t Train [Fireball Rank 3] |N|Cain on the second floor - (62.0, 52.5)| |C|Mage| |
 t Train [Overpower] |N|Austil - (61.9, 52.5)| |C|Warrior| |Z|Tirisfal Glades|
 t Train [Kick] |N|Marion on the second floor - (61.8, 52.0)| |C|Rogue| |Z|Tirisfal Glades|
 t Train [Health Funnel] |N|Rupert - (61.6, 52.4)| |C|Warlock| |Z|Tirisfal Glades|
-C The Deathstalkers |QID|1886| |OIDX|1| |N|If you see Astor, him and kill him. Loot him for the letter. He patrols the road between Brill and The Sepulcher Astor's Letter of Introduction (1)| |O| |C|Rogue| |Z|Tirisfal Glades|
+C The Deathstalkers |QID|1886| |OIDX|1| |N|If you see Astor, talk to him and kill him. Loot him for the letter. He patrols the road between Brill and The Sepulcher Astor's Letter of Introduction (1)| |O| |C|Rogue| |Z|Tirisfal Glades|
 R Enter Undercity |N|(61.8, 65.1)| |O| |C|Priest/Rogue/Warrior| |Z|Tirisfal Glades|
 R Travel to Undercity |N|(64.2, 39.8)| |O| |C|Priest/Rogue/Warrior| |Z|Undercity|
 R Take the lift down to the Undercity |N|(65.5, 43.6)| |O| |C|Priest/Rogue/Warrior| |Z|Undercity|

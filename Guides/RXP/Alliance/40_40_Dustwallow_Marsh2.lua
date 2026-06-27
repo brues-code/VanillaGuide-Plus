@@ -30,7 +30,7 @@ C Bring the Light |QID|3636| |OIDX|1| |N|(RFD Dungeon Quest)| |D|RFD| |Z|Tirisfa
 R the Menethil Harbor Dock |N|(7.3, 62.5) (RFD Dungeon Quest)| |D|RFD| |Z|Wetlands|
 R Level your [First Aid] while waiting |N|(5.1, 63.4) (RFD Dungeon Quest)| |D|RFD| |Z|Wetlands|
 A Triage |QID|6624| |N|Doctor Gustaf VanHowzen - (67.8, 49.0)| |Z|Dustwallow Marsh|
-C Triage |QID|6624| |OIDX|1| |N|(67.8, 49.0)| |Z|Dustwallow Marsh|
+C Triage |QID|6624| |OIDX|1| |N|Channel the [Triage Bandage] on the Alliance Soldiers. Prioritize Critically Injured Soldiers first (67.8, 49.0)| |Z|Dustwallow Marsh|
 T Triage |QID|6624| |N|Doctor Gustaf VanHowzen - (67.8, 49.0)| |Z|Dustwallow Marsh|
 A The Deserters |QID|1286| |N|Captain Garran Vimes - (68.2, 48.6)| |Z|Dustwallow Marsh|
 T Morgan Stern |QID|1260| |N|Morgan Stern - (66.3, 45.5)| |C|!Warrior/!Rogue/!Druid/!Hunter| |Z|Dustwallow Marsh|
@@ -51,13 +51,6 @@ C Stinky's Escape |QID|1222| |OIDX|1| |N|Follow "Stinky" Ignatz through the Mars
 T Jarl Needs Eyes |QID|1206| |N|"Swamp Eye" Jarl - (55.4, 26.3)| |C|!Warlock| |Z|Dustwallow Marsh|
 A Jarl Needs a Blade |QID|1203| |N|"Swamp Eye" Jarl - (55.4, 26.3)| |O| |C|!Warlock| |Z|Dustwallow Marsh|
 T Jarl Needs a Blade |QID|1203| |N|"Swamp Eye" Jarl - (55.4, 26.3)| |O| |C|!Warlock| |Z|Dustwallow Marsh|
-N IF YOU CHOOSE TO ACCEPT THE FOLLOW UP QUEST YOU WILL BE PVP FLAGGED! MEANING HORDE PLAYERS CAN KILL YOU! PROCEED AT YOUR OWN RISK! |N|(45.2, 24.6)| |Z|Dustwallow Marsh|
-N You will NOT be PvP Flagged for turning in this current quest. Auto accept has been turned OFF for the follow up. Skip the follow up if you wish to not complete it |N|(45.2, 24.6)| |Z|Dustwallow Marsh|
-T The Missing Diplomat |QID|1266| |N|Private Hendel - (45.2, 24.6)| |Z|Dustwallow Marsh|
-A The Missing Diplomat |QID|1324| |N|Private Hendel - (45.2, 24.6)| |Z|Dustwallow Marsh|
-T The Missing Diplomat |QID|1266| |N|Private Hendel - (45.2, 24.6)| |Z|Dustwallow Marsh|
-A The Missing Diplomat |QID|1324| |N|Private Hendel - (45.2, 24.6)| |Z|Dustwallow Marsh|
-N Blizzard has adjusted this quest so it will no longer PvP Flag you on Official Hardcore Servers |N|(45.2, 24.6)| |Z|Dustwallow Marsh|
 T The Missing Diplomat |QID|1266| |N|Private Hendel - (45.2, 24.6)| |Z|Dustwallow Marsh|
 A The Missing Diplomat |QID|1324| |N|Private Hendel - (45.2, 24.6)| |Z|Dustwallow Marsh|
 N They will both reset once you subdue Private Hendel |N|(45.2, 24.6)| |Z|Dustwallow Marsh|

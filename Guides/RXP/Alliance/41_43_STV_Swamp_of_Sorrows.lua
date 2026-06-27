@@ -31,10 +31,12 @@ T Bring the Light |QID|3636| |N|Archbishop Benedictus - (39.6, 27.2) (RFD Dungeo
 R Travel towards High Sorcerer Andromath in the Mage Tower |N|(37.9, 82.5)| |O| |Z|Stormwind City|
 A Vital Supplies |QID|1477| |N|High Sorcerer Andromath - (37.5, 81.7)| |Z|Stormwind City|
 R Innkeeper Allison |N|(52.6, 65.7)| |C|Warlock| |Z|Stormwind City|
+h Stormwind City |N|Set hearth in Stormwind City (52.6, 65.7)| |C|Warlock| |Z|Stormwind City|
 F Fly to Westfall |N|Dungar Longdrink - (66.3, 62.1)| |O| |C|Warlock| |Z|Stormwind City|
 R Nesingwary's Expedition in STV |N|(35.7, 10.8)| |O| |C|Warlock| |Z|Stranglethorn Vale|
 A Panther Mastery |QID|193| |N|Sir S. J. Erlgadin and Hemet Nesingwary - (35.6, 10.5)| |C|Warlock| |Z|Stranglethorn Vale|
 A Raptor Mastery |QID|196| |N|Sir S. J. Erlgadin and Hemet Nesingwary - (35.6, 10.5)| |C|Warlock| |Z|Stranglethorn Vale|
+H Stormwind |N|Hearth to Stormwind| |C|Warlock| |Z|Stranglethorn Vale|
 N Buy food/water if needed |C|Warlock| |Z|Stranglethorn Vale|
 F Fly to Booty Bay |N|Dungar Longdrink - (66.3, 62.1)| |Z|Stormwind City|
 R Travel to Stranglethorn Vale |N|(26.9, 77.2)| |Z|Stranglethorn Vale|
@@ -50,6 +52,7 @@ A Venture Company Mining |QID|600| |N|Crank Fizzlebub - (27.1, 77.2)| |Z|Strangl
 A Zanzil's Secret |QID|621| |N|Crank Fizzlebub - (27.1, 77.2)| |Z|Stranglethorn Vale|
 T Back to Booty Bay |QID|1118| |N|Crank Fizzlebub - (27.1, 77.2)| |Z|Stranglethorn Vale|
 R Innkeeper Skindle |N|(27.0, 77.3)| |Z|Stranglethorn Vale|
+h Booty Bay |N|Set hearth in Booty Bay (27.0, 77.3)| |Z|Stranglethorn Vale|
 A Akiris by the Bundle |QID|617| |N|Privateer Bloads - (26.8, 76.4)| |Z|Stranglethorn Vale|
 A Scaring Shaky |QID|606| |N|"Sea Wolf" MacKinley - (27.8, 77.1)| |Z|Stranglethorn Vale|
 A Excelsior |QID|628| |N|Drizzlik - (28.3, 77.6)| |Z|Stranglethorn Vale|
@@ -85,6 +88,7 @@ T Return to Corporal Kaleb |QID|622| |N|Corporal Kaleb - (37.7, 3.3)| |O| |Z|Str
 C Excelsior |QID|628| |OIDX|1| |N|a Elder Saltwater Crocolisk. Loot it for its Elder Crocolisk Skin (21.6, 16.6)| |Z|Stranglethorn Vale|
 N PAY CLOSE ATTENTION TO YOUR BREATH BAR IF YOU DO NOT HAVE ONE! |O| |C|!Warlock/!Druid| |Z|Stranglethorn Vale|
 C The Curse of the Tides |QID|611| |OIDX|1| |N|Gazban. Loot him for the Stone of the Tides (25.0, 23.6)| |Z|Stranglethorn Vale|
+H Booty Bay |N|Hearth to Booty Bay| |O| |Z|Stranglethorn Vale|
 N Buy food/water if needed |O| |C|!Warrior/!Rogue| |Z|Stranglethorn Vale|
 N Buy food if needed |O| |C|Warrior/Rogue| |Z|Stranglethorn Vale|
 T Venture Company Mining |QID|600| |N|Crank Fizzlebub - (27.1, 77.2)| |Z|Stranglethorn Vale|

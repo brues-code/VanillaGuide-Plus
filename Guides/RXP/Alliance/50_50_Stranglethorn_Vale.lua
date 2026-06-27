@@ -30,11 +30,14 @@ T Message in a Bottle |QID|594| |N|Princess Poobah - (38.5, 80.6)| |Z|Strangleth
 A Message in a Bottle |QID|630| |N|Princess Poobah - (38.5, 80.6)| |Z|Stranglethorn Vale|
 N You can kite King Mukla around the large tree |N|(40.9, 83.9)| |C|Hunter| |Z|Stranglethorn Vale|
 C Message in a Bottle |QID|630| |OIDX|1| |N|King Mukla. Loot him for the Shackle Key (40.9, 83.9)| |C|Hunter| |Z|Stranglethorn Vale|
+N Click here for video reference |N|(40.9, 83.9)| |C|Hunter| |Z|Stranglethorn Vale|
 N You can kite King Mukla around the large tree |N|(40.9, 83.9)| |C|!Hunter| |Z|Stranglethorn Vale|
+N Click here for video reference |N|(40.9, 83.9)| |C|!Hunter| |Z|Stranglethorn Vale|
 C Message in a Bottle |QID|630| |OIDX|1| |N|King Mukla. Loot him for the Shackle Key (40.9, 83.9)| |C|!Hunter| |Z|Stranglethorn Vale|
 T Message in a Bottle |QID|630| |N|Princess Poobah - (38.5, 80.6)| |Z|Stranglethorn Vale|
 N Don't try to solo him unless you're in a group or have cooldowns/potion CDs ready |N|(37.0, 69.7)| |C|Rogue/Warrior/Paladin| |Z|Stranglethorn Vale|
 N Try to kite him if required to the Booty Bay enterance so guards assist you |N|(37.0, 69.7)| |Z|Stranglethorn Vale|
+N Click here for a video reference |N|(37.0, 69.7)| |Z|Stranglethorn Vale|
 C The Captain's Chest |QID|8551| |OIDX|1| |N|Gorlash. Loot him for Smotts' Chest (37.0, 69.7)| |Z|Stranglethorn Vale|
 N Turn in your 10 [Gorilla Fangs] to summon Mokk the Savage |N|(35.3, 60.4)| |Z|Stranglethorn Vale|
 N Kill Mokk the Savage. Loot him for the Heart of Mokk |N|(35.3, 60.4)| |Z|Stranglethorn Vale|
@@ -42,6 +45,7 @@ N You'll have to deal with 3 waves of attacking Gorillas. Focus killing Mokk the
 N This can be difficult to solo. Find a group if required |N|(35.3, 60.4)| |Z|Stranglethorn Vale|
 C Stranglethorn Fever |QID|348| |OIDX|1| |N|Witch Doctor Unbagwa (35.3, 60.4)| |Z|Stranglethorn Vale|
 C Witch Doctor Unbagwa |L|2799 10| |N|Witch Doctor Unbagwa - (35.3, 60.4)| |Z|Stranglethorn Vale|
+N Click here for video reference |N|(35.3, 60.4)| |Z|Stranglethorn Vale|
 R Booty Bay |N|(29.0, 73.0)| |O| |Z|Stranglethorn Vale|
 T The Captain's Chest |QID|8551| |N|Captain Hecklebury Smotts - (26.7, 73.6)| |Z|Stranglethorn Vale|
 T The Monogrammed Sash |QID|8552| |N|Captain Hecklebury Smotts - (26.7, 73.6)| |Z|Stranglethorn Vale|
@@ -60,6 +64,7 @@ N 15 [Silk Cloth] (If you have them) |N|(57.1, 73.0)| |Z|Stormwind City|
 N Buy [Silk Cloth] from the Auction House for a quest later in Searing Gorge |N|(53.6, 59.8)| |Z|Stormwind City|
 B Auctioneer Jaxon |L|4306 15| |N|Auctioneer Jaxon - (53.6, 59.8)| |Z|Stormwind City|
 R Innkeeper Allison |N|(52.6, 65.7)| |Z|Stormwind City|
+h Stormwind City |N|Set hearth in Stormwind City (52.6, 65.7)| |Z|Stormwind City|
 t Train your class spells |N|Sheldras Moontree - (20.9, 55.5)| |C|Druid| |Z|Stormwind City|
 R the Stormwind Cathedral |N|(42.5, 33.5)| |O| |C|Priest/Paladin| |Z|Stormwind City|
 N Arthur the Faithful |N|(38.8, 31.3)| |C|Paladin| |Z|Stormwind City|
@@ -75,14 +80,6 @@ R Travel to Ironforge |N|(53.2, 7.8)| |C|Warlock| |Z|Ironforge|
 B Buy [Grimoires] for your pets |N|Jubahl Corpseseeker - (52.7, 6.1)| |C|Warlock| |Z|Ironforge|
 N Briarthorn |N|(51.1, 8.7)| |C|Warlock| |Z|Ironforge|
 t Train your class spells |N|(50.3, 5.7)| |C|Warlock| |Z|Ironforge|
-F Fly to Loch Modan |N|Gryth Thurden - (55.5, 47.7)| |Z|Ironforge|
-R Travel south towards the tunnel leading to the Searing Gorge |N|(31.2, 56.5)| |Z|Loch Modan|
-R Travel through the tunnel into the Searing Gorge |N|(78.6, 16.4)| |Z|Searing Gorge|
-N ==PAY ATTENTION TO THE UPCOMING SECTION== |N|(78.6, 16.4)| |Z|Searing Gorge|
-N Press Escape, then go into -> Options -> Controls |N|(78.6, 16.4)| |Z|Searing Gorge|
-N Check "Enable Interact Key" and bind the "Interact with Target" option to a key |N|(78.6, 16.4)| |Z|Searing Gorge|
-N Cross through the tunnel leading from Loch Modan to Searing Gorge. Open it using the interact button. You DO NOT need to have they key |N|(78.6, 16.4)| |Z|Searing Gorge|
-f Get the Searing Gorge Flight Path |N|Lanie Reed - (37.9, 30.9)| |Z|Searing Gorge|
 F Fly to Searing Gorge |N|Gryth Thurden - (55.5, 47.7)| |Z|Ironforge|
 
 ]]

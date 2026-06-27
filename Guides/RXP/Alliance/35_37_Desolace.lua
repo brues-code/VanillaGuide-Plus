@@ -10,10 +10,9 @@ A Reclaimers' Business in Desolace |QID|1453| |N|Roetten Stonehammer - (69.9, 21
 F Fly to Southshore |N|Gryth - (55.5, 47.7)| |C|Warrior| |Z|Ironforge|
 T The Windwatcher |QID|1791| |N|Bath'rah the Windwatcher - (80.5, 66.9)| |C|Warrior| |Z|Alterac Mountains|
 A Cyclonian |QID|1712| |N|Bath'rah the Windwatcher - (80.5, 66.9)| |C|Warrior| |Z|Alterac Mountains|
-R Travel to Western Plaguelands |N|(42.9, 85.1)| |C|Warrior| |Z|Western Plaguelands|
-F Fly to Wetlands |N|Bibilfaz Featherwhistle - (42.9, 85.1)| |C|Warrior| |Z|Western Plaguelands|
-t Training (3565) |C|Mage| |Z|Western Plaguelands|
-t Training (3565) |N|(29.5, 41.4)| |O| |C|Mage| |Z|Western Plaguelands|
+N Die on purpose and respawn at Southshore |O| |C|Warrior| |Z|Alterac Mountains|
+t Training (3565) |C|Mage| |Z|Alterac Mountains|
+t Training (3565) |N|(29.5, 41.4)| |O| |C|Mage| |Z|Alterac Mountains|
 R Travel to Darnassus |N|(29.5, 41.4)| |O| |C|Mage| |Z|Darnassus|
 t Training (3565) |N|(58.4, 94.0)| |C|Mage| |Z|Darnassus|
 F Fly to Desolace |N|Vesprystus - (58.4, 94.0)| |C|Mage| |Z|Teldrassil|
@@ -24,6 +23,7 @@ R Travel to Darkshore |N|(36.7, 45.0)| |Z|Darkshore|
 F Fly to Desolace |N|Caylais Moonfeather - (36.3, 45.6)| |Z|Darkshore|
 N Innkeeper Lyshaerya |N|(66.3, 6.6)| |Z|Darkshore|
 R Travel to Desolace |N|(66.3, 6.6)| |Z|Desolace|
+h Nijel's Point |N|Set hearth in Nijel's Point (66.3, 6.6)| |Z|Desolace|
 A Down the Scarlet Path |QID|261| |N|Brother Anton - (66.5, 7.9) (SM Dungeon Quest)| |D|SM| |Z|Desolace|
 A The Karnitol Shipwreck |QID|1454| |N|Kreldig Ungor - (66.2, 9.6)| |Z|Desolace|
 T Reclaimers' Business in Desolace |QID|1453| |N|Kreldig Ungor - (66.2, 9.6)| |Z|Desolace|
@@ -55,6 +55,7 @@ C Strange Alliance |QID|1382| |OIDX|1| |N|Magram Centaurs. Loot them for their E
 C Down the Scarlet Path |QID|261| |OIDX|1| |N|Undead Ravagers (64.0, 91.7) (SM Dungeon Quest)| |D|SM| |Z|Desolace|
 T Strange Alliance |QID|1382| |N|Uthek the Wise - (36.2, 79.2)| |Z|Desolace|
 A Raid on the Kolkar |QID|1384| |N|Uthek the Wise - (36.2, 79.2)| |Z|Desolace|
+H Nijel's Point |N|Hearth to Nijel's Point| |O| |Z|Desolace|
 N Buy food/water if needed |O| |C|!Warrior/!Rogue| |Z|Desolace|
 N Buy food if needed |O| |C|Warrior/Rogue| |Z|Desolace|
 T Down the Scarlet Path |QID|261| |N|Brother Anton - (66.5, 7.9) (SM Dungeon Quest)| |D|SM| |Z|Desolace|
@@ -105,8 +106,9 @@ T Raid on the Kolkar |QID|1384| |N|Uthek the Wise - (36.2, 79.2)| |Z|Desolace|
 A Stealing Supplies |QID|1370| |N|Uthek the Wise - (36.2, 79.2)| |Z|Desolace|
 N Looting them may cause Kodo Apparitions to spawn. Kodo Apparitions do not drop Kodo Bones |O| |Z|Desolace|
 C Bone Collector |QID|5501| |OIDX|1| |N|Loot Kodo Bones around the graveyard| |O| |Z|Desolace|
+N You may only take 1 Tamed Kodo back at a time |N|(60.9, 61.9)| |Z|Desolace|
 N the Tamed Kodo once you've taken it back to Smeed |N|(60.9, 61.9)| |Z|Desolace|
-C Kodo Roundup |QID|5561| |OIDX|1| |N|You may only take 1 Tamed Kodo back at a time (60.9, 61.9)| |Z|Desolace|
+C Kodo Roundup |QID|5561| |OIDX|1| |N|Use the [Kodo Kombobulator] on Ancient Kodos and Dying Kodos. Take them back to Smeed (60.9, 61.9)| |Z|Desolace|
 N Looting them may cause Kodo Apparitions to spawn. Kodo Apparitions do not drop Kodo Bones |N|(52.5, 58.6)| |Z|Desolace|
 C Bone Collector |QID|5501| |OIDX|1| |N|Kodo Bones around the graveyard (52.5, 58.6)| |Z|Desolace|
 T Kodo Roundup |QID|5561| |N|Smeed Scrabblescrew - (60.9, 61.9)| |Z|Desolace|
@@ -121,9 +123,11 @@ T Bone Collector |QID|5501| |N|Bibbly F'utzbuckle - (62.3, 39.0)| |Z|Desolace|
 N You may need to kill Gritjaw Basilisks to force Scorpashi Snappers and Scorpashi Lashers to spawn |N|(43.6, 75.2)| |Z|Desolace|
 N You must complete this step now |N|(43.6, 75.2)| |Z|Desolace|
 C Reagents for Reclaimers Inc. |QID|1459| |OIDX|1| |N|Scorpashi Snappers, Scorpashi Lashers and Scorpashi Venomlashs. Loot them for their Venom (43.6, 75.2)| |Z|Desolace|
+N Die and respawn at the Spirit Healer |O| |Z|Desolace|
 R Uthek the Wise in southern Desolace |N|(36.2, 79.2)| |O| |Z|Desolace|
 T Stealing Supplies |QID|1370| |N|Uthek the Wise - (36.2, 79.2)| |Z|Desolace|
 A Ongeku |QID|1373| |N|Uthek the Wise - (36.2, 79.2)| |Z|Desolace|
+H Nijel's Point |N|Hearth to Nijel's Point| |C|!Warlock| |Z|Desolace|
 N Buy food/water if needed |C|!Warrior/!Rogue| |Z|Desolace|
 N Buy food if needed |C|Warrior/Rogue| |Z|Desolace|
 T The Karnitol Shipwreck |QID|1456| |N|Kreldig Ungor - (66.2, 9.6)| |Z|Desolace|

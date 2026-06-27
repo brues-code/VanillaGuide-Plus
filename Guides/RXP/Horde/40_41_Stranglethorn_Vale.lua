@@ -21,8 +21,10 @@ t Train [Wolf Riding] |N|Kildar and Ogunaro - (69.4, 13.1)| |O| |C|!Warlock| |R|
 B Buy a [Wolf] |N|Kildar and Ogunaro - (69.4, 13.1)| |O| |C|!Warlock| |R|Orc| |Z|Orgrimmar|
 t Train [Raptor Riding] |N|Xar'Ti and Zjolnir - (55.3, 75.5)| |O| |R|Troll| |Z|Durotar|
 B Buy a [Raptor] |N|Xar'Ti and Zjolnir - (55.3, 75.5)| |O| |R|Troll| |Z|Durotar|
+H Grom'gol Base Camp |N|Hearth to Grom'gol Base Camp| |O| |C|Mage| |Z|Durotar|
 R Go up the Zeppelin Tower |N|(50.8, 13.8)| |Z|Durotar|
 R Innkeeper Thulbek |N|(31.5, 29.8)| |Z|Stranglethorn Vale|
+h Grom'Gol Base Camp |N|Set hearth in Grom'Gol Base Camp (31.5, 29.8)| |Z|Stranglethorn Vale|
 A Mok'thardin's Enchantment |QID|572| |N|Far Seer Mok'thardin - (32.1, 29.2)| |Z|Stranglethorn Vale|
 T The Troll Witchdoctor |QID|1240| |N|Kin'weelay - (32.2, 27.8)| |Z|Stranglethorn Vale|
 A Bloodscalp Clan Heads |QID|584| |N|Nimboya - (32.1, 27.8)| |Z|Stranglethorn Vale|
@@ -51,6 +53,7 @@ N Cast [Eagle Eye] to try and locate Bhag'thera |N|(47.3, 24.0)| |C|Hunter| |Z|S
 N Cast [Far Sight] to try and locate Bhag'thera |N|(47.3, 24.0)| |C|Shaman| |Z|Stranglethorn Vale|
 C Panther Mastery |QID|193| |OIDX|1| |N|Bhag'thera. Loot him for his Fang (47.3, 24.0)| |Z|Stranglethorn Vale|
 C Some Assembly Required |QID|577| |OIDX|1| |N|Snapjaw Crocolisks along the river. Loot them for their Skin (41.4, 21.9)| |Z|Stranglethorn Vale|
+H Grom'gol Base Camp |N|Hearth to Grom'gol Base Camp| |Z|Stranglethorn Vale|
 B Sell your junk, then restock on food and water if necessary |N|Innkeeper Thulbek - (31.5, 29.8)| |C|!Rogue/!Warrior| |Z|Stranglethorn Vale|
 B Sell your junk, then restock on food if necessary |N|Innkeeper Thulbek - (31.5, 29.8)| |C|Rogue/Warrior| |Z|Stranglethorn Vale|
 N Buy [Razor Arrows] from him |N|(31.6, 27.9)| |C|Hunter| |Z|Stranglethorn Vale|

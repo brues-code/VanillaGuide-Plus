@@ -11,6 +11,7 @@ T Senir's Observations |QID|420| |N|Senir Whitebeard - (46.7, 53.8)| |Z|Dun Moro
 A Beer Basted Boar Ribs |QID|384| |N|Ragnar Thunderbrew - (46.8, 52.4)| |Z|Dun Morogh|
 T Supplies to Tannok |QID|2160| |N|Tannok Frosthammer - (47.2, 52.2)| |Z|Dun Morogh|
 N Innkeeper Belm inside |N|(47.4, 52.5)| |Z|Dun Morogh|
+h Kharanos |N|Set hearth in Kharanos (47.4, 52.5)| |Z|Dun Morogh|
 A Tools for Steelgrill |QID|400| |N|Tharek Blackstone - (46.0, 51.7)| |Z|Dun Morogh|
 N Don't kill any Young Black Bears en-route |N|(49.4, 48.4)| |Z|Dun Morogh|
 A Stocking Jetsteam |QID|317| |N|Pilot Bellowfiz - (49.4, 48.4)| |Z|Dun Morogh|
@@ -33,6 +34,7 @@ G Grind to level 7 |Z|Dun Morogh|
 N Tundra MacGrann |N|(43.0, 47.4)| |Z|Dun Morogh|
 A Tundra MacGrann's Stolen Stash |QID|312| |N|(34.6, 51.7)| |Z|Dun Morogh|
 N Wait until Old Icebeard patrols out of the Cave. Once he patrols out of the Cave you can enter and loot MacGrann's Meat Locker |N|(38.5, 53.9)| |Z|Dun Morogh|
+N Click here for video reference |N|(38.5, 53.9)| |Z|Dun Morogh|
 C Tundra MacGrann's Stolen Stash |QID|312| |OIDX|1| |N|MacGrann's Meat Locker. Loot it for MacGrann's Dried Meats MacGrann's Dried Meats (1)| |Z|Dun Morogh|
 T Tundra MacGrann's Stolen Stash |QID|312| |N|Tundra MacGrann - (34.6, 51.7)| |Z|Dun Morogh|
 B Vendor trash |N|Keeg Gibn - (30.5, 46.0)| |O| |Z|Dun Morogh|
@@ -45,9 +47,11 @@ C Beer Basted Boar Ribs |QID|384| |OIDX|1| |N|Finish grinding Boar Ribs (46.7, 5
 R Run up the mountain north |N|(30.9, 33.1)| |Z|Dun Morogh|
 R Follow it up to here |N|(32.4, 29.1)| |Z|Dun Morogh|
 R Travel to Wetlands |N|(11.6, 43.4)| |Z|Wetlands|
+N Keep running straight north, jump down and die once the General Chat changes to Wetlands, then respawn at Menethil Harbor |N|(11.6, 43.4)| |Z|Wetlands|
 R Swim to shore |N|(12.7, 46.7)| |O| |Z|Wetlands|
 f Get the Wetlands flight path |N|Shellei Brondir - (9.5, 59.7)| |Z|Wetlands|
-R Kharanos |N|(49.6, 48.6)| |O| |Z|Dun Morogh|
+H Kharanos |N|Hearth to Kharanos| |O| |Z|Wetlands|
+R Travel to Dun Morogh |N|(49.6, 48.6)| |Z|Dun Morogh|
 T The Grizzled Den |QID|313| |N|Pilot Stonegear - (49.6, 48.6)| |Z|Dun Morogh|
 N Buy a [Rhapsody Malt] and a [Thunder Ale] |N|(47.4, 52.5)| |Z|Dun Morogh|
 C Beer Basted Boar Ribs |QID|384| |OIDX|2| |N|Innkeeper Belm inside Collect Rhapsody Malt (x1)| |Z|Dun Morogh|
@@ -60,10 +64,14 @@ A Frostmane Hold |QID|287| |N|Senir Whitebeard - (46.7, 53.8)| |Z|Dun Morogh|
 t Train Concussive Shot |N|Grif Wildheart - (45.8, 53.0)| |C|Hunter| |Z|Dun Morogh|
 C A Favor for Evershine |QID|319| |OIDX|1| |N|Kill Ice Claw Bears, Elder Crag Boars and Snow Leopards Kill Ice Claw Bear (x6)| |O| |Z|Dun Morogh|
 R Go up the dirt path |N|(61.4, 47.1)| |O| |Z|Dun Morogh|
+N CLICK HERE If you're struggling |O| |C|Mage| |Z|Dun Morogh|
+N Click here for video reference |O| |C|!Mage| |Z|Dun Morogh|
 A Protecting the Herd |QID|314| |N|Rudra Amberstill - (63.1, 49.9)| |Z|Dun Morogh|
 R Travel to Ironforge |N|(62.4, 49.0)| |Z|Ironforge|
 N Kite him to the guard south of the ranch. Make sure you do 51%+ damage to him |N|(62.5, 46.2)| |Z|Ironforge|
 N Watch the video below before you attempt to kill Vagash. It can be soloed on any class |N|(62.5, 46.2)| |Z|Ironforge|
+N Click here for video reference |N|(62.5, 46.2)| |C|Mage| |Z|Ironforge|
+N Click here for video reference |N|(62.5, 46.2)| |C|!Mage| |Z|Ironforge|
 C Protecting the Herd |QID|314| |OIDX|1| |N|Vagash. Loot him for his Fang Collect Fang of Vagash (1)| |Z|Ironforge|
 R Travel to Dun Morogh |N|(63.1, 49.9)| |Z|Dun Morogh|
 T Protecting the Herd |QID|314| |N|Rudra Amberstill - (63.1, 49.9)| |Z|Dun Morogh|
@@ -75,6 +83,7 @@ T The Lost Pilot |QID|419| |N|Click the Dwarven Corpse - (79.7, 36.2)| |Z|Dun Mo
 A A Pilot's Revenge |QID|417| |N|Click the Dwarven Corpse - (79.7, 36.2)| |Z|Dun Morogh|
 C A Pilot's Revenge |QID|417| |OIDX|1| |N|Kill Mangeclaw. Loot him for his Claw Collect Mangy Claw (x1)| |Z|Dun Morogh|
 T A Pilot's Revenge |QID|417| |N|Pilot Hammerfoot - (83.9, 39.2)| |Z|Dun Morogh|
+N Die and respawn at the Spirit Healer |N|(47.1, 55.0)| |Z|Dun Morogh|
 N Razzle Sprysprocket |N|(46.0, 48.6)| |Z|Dun Morogh|
 A Operation Recombobulation |QID|412| |N|(45.8, 49.4)| |Z|Dun Morogh|
 R Shimmer Ridge. Follow the arrow and run up the mountain |N|(42.1, 45.4)| |O| |Z|Dun Morogh|
@@ -90,7 +99,7 @@ R Enter Frostmane Hold |N|(24.5, 50.8)| |O| |Z|Dun Morogh|
 C Frostmane Hold |QID|287| |OIDX|2| |N|Drop down to this location to explore Frostmane Hold. If there are mobs below, clear around normally and do NOT drop down Fully explore Frostmane Hold| |Z|Dun Morogh|
 C Frostmane Hold |QID|287| |OIDX|1| |N|Frostmane Headhunters Kill Frostmane Headhunter (x5)| |Z|Dun Morogh|
 C Operation Recombobulation |QID|412| |OIDX|2| |N|Leper Gnomes. Loot them for their Gears and Cogs Collect Gyromechanic Gear (x8)| |Z|Dun Morogh|
-R Kharanos. Grind en-route |N|(46.7, 53.7)| |O| |Z|Dun Morogh|
+N Die and respawn at Kharanos |O| |Z|Dun Morogh|
 T Frostmane Hold |QID|287| |N|Senir Whitebeard - (46.7, 53.8)| |Z|Dun Morogh|
 A The Reports |QID|291| |N|Senir Whitebeard - (46.7, 53.8)| |Z|Dun Morogh|
 T Operation Recombobulation |QID|412| |N|Razzle Sprysprocket - (45.8, 49.4)| |Z|Dun Morogh|

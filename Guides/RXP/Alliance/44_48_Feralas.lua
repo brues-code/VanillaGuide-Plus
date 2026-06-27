@@ -7,16 +7,13 @@ N 44-48 Feralas |N|Converted from RestedXP guide|
 N Bragok |N|(63.1, 37.2)| |C|Warlock|
 N Bera Stonehammer |N|(63.1, 37.2)| |C|!Warlock|
 R Travel to Tanaris |N|(51.0, 29.3)| |C|!Warlock| |Z|Tanaris|
-F Fly to Thalanaar |N|(51.0, 29.3)| |Z|Tanaris|
-N Bragok |N|(63.1, 37.2)| |C|Warlock| |Z|Tanaris|
-N Bera Stonehammer |N|(63.1, 37.2)| |C|!Warlock| |Z|Tanaris|
 F Fly to Feathermoon |N|(51.0, 29.3)| |Z|Tanaris|
-R Travel to Feralas |N|(30.2, 43.3)| |O| |Z|Feralas|
-N It is always faster to swim across the water than waiting for the boat |N|(30.2, 43.3)| |O| |Z|Feralas|
 A The Mark of Quality |QID|2821| |N|Pratt McGrubben - (30.6, 42.7)| |Z|Feralas|
 R Antarius |N|(31.5, 43.1)| |O| |C|Hunter| |Z|Feralas|
 t Attack mobs with it to learn [Bite (Rank 6)] |N|Cast [Tame Beast] on a Longtooth Runner to tame it - (29.8, 49.2)| |C|Hunter| |Z|Feralas|
+N Click here for more info about pet training |N|(29.8, 49.2)| |C|Hunter| |Z|Feralas|
 R Innkeeper Shyria |N|(31.0, 43.5)| |Z|Feralas|
+h Feralas |N|Set hearth in Feralas (31.0, 43.5)| |Z|Feralas|
 R Antarius |N|(31.5, 43.1)| |C|Hunter| |Z|Feralas|
 A The Ruins of Solarsal |QID|2866| |N|Latronicus Moonspear and Shandris Feathermoon - (30.4, 46.2)| |Z|Feralas|
 A In Search of Knowledge |QID|2939| |N|Troyas Moonbreeze and Angelas Moonbreeze - (31.8, 45.5)| |Z|Feralas|
@@ -44,6 +41,7 @@ N Loganaar |N|(52.5, 40.6)| |C|Druid| |Z|Feralas|
 R Travel to Moonglade |N|(52.5, 40.6)| |C|Druid| |Z|Moonglade|
 t Train your class spells |N|Teleport to Moonglade - (52.5, 40.6)| |C|Druid| |Z|Moonglade|
 t Train your class spells |N|Jennea - (36.9, 81.1)| |C|Mage| |Z|Stormwind City|
+H Feathermoon Stronghold |N|Hearth to Feathermoon Stronghold| |O| |Z|Stormwind City|
 N Buy food/water if needed |O| |C|!Warrior/!Rogue| |Z|Stormwind City|
 N Buy food if needed |O| |C|Warrior/Rogue| |Z|Stormwind City|
 R Travel to Feralas |N|(32.1, 45.5)| |Z|Feralas|
@@ -57,17 +55,20 @@ T Against Lord Shalzaru |QID|2870| |N|Latronicus Moonspear - (30.4, 46.2)| |Z|Fe
 A Delivering the Relic |QID|2871| |N|Latronicus Moonspear - (30.4, 46.2)| |Z|Feralas|
 T Delivering the Relic |QID|2871| |N|Vestia Moonspear - (30.1, 45.1)| |Z|Feralas|
 R Swim to the mainland |N|(45.1, 44.9)| |O| |Z|Feralas|
+N Use [Yeh'kinya's Bramble] on their corpses to summon a Screecher Spirit |N|(57.8, 50.8)| |O| |Z|Feralas|
 N the Screecher Spirit |N|(57.8, 50.8)| |O| |Z|Feralas|
 C Screecher Spirits |QID|3520| |OIDX|1| |N|Vale Screechers and Rogue Vale Screechers (57.8, 50.8)| |O| |Z|Feralas|
 C Rhapsody's Kalimdor Kocktail |QID|1452| |OIDX|2| |N|Ironfur Bears, Grizzled Ironfur Bears and Groddoc Apes. Loot them for their Livers (58.8, 59.0)| |O| |Z|Feralas|
-C Collect item |QID|2766| |L|8705 1| |Z|Feralas|
-A Find OOX-22/FE! |QID|2766| |Z|Feralas|
+N Click here for video reference |N|(55.4, 45.5)| |Z|Feralas|
+C Collect item |QID|2766| |L|8705 1| |N|Use the [OOX-22/FE Distress Beacon] to start the quest| |Z|Feralas|
+A Find OOX-22/FE! |QID|2766| |N|Use the [OOX-22/FE Distress Beacon] to start the quest| |Z|Feralas|
 T Find OOX-22/FE! |QID|2766| |N|the Homing Robot OOX-22/FE - (53.4, 55.7)| |Z|Feralas|
 A Rescue OOX-22/FE! |QID|2767| |N|the Homing Robot OOX-22/FE - (53.4, 55.7)| |Z|Feralas|
 C a Hippogryph Egg from a nest |QID|2741| |L|8564 1| |N|a Hippogryph Egg from a nest - (55.9, 76.0)| |Z|Feralas|
 N Prioritize killing Gordunni Shamans. You may need to kill other Gordunni Ogres to force Gordunni Shamans to spawn |N|(59.5, 63.1)| |Z|Feralas|
 C The High Wilderness |QID|2982| |OIDX|2| |N|Kill Gordunni Shamans, Gordunni Warlocks and Gordunni Brutes (59.5, 63.1)| |Z|Feralas|
 C Rhapsody's Kalimdor Kocktail |QID|1452| |OIDX|2| |N|Ironfur Bears, Grizzled Ironfur Bears and Groddoc Apes. Loot them for their Livers (59.3, 60.5)| |O| |Z|Feralas|
+N Use [Yeh'kinya's Bramble] on their corpses to summon a Screecher Spirit |N|(58.6, 58.8)| |Z|Feralas|
 N the Screecher Spirit |N|(58.6, 58.8)| |Z|Feralas|
 C Screecher Spirits |QID|3520| |OIDX|1| |N|Vale Screechers and Rogue Vale Screechers (58.6, 58.8)| |Z|Feralas|
 C Rhapsody's Kalimdor Kocktail |QID|1452| |OIDX|2| |N|Ironfur Bears, Grizzled Ironfur Bears and Groddoc Apes. Loot them for their Livers (59.3, 60.5)| |Z|Feralas|
@@ -85,13 +86,14 @@ T Doling Justice |QID|2970| |N|Jer'kai Moonweaver - (65.9, 45.6)| |Z|Feralas|
 A Doling Justice |QID|2972| |N|Jer'kai Moonweaver - (65.9, 45.6)| |Z|Feralas|
 T The Woodpaw Gnolls |QID|4131| |N|the Large Leather Backpacks on the tree - (73.3, 56.3)| |Z|Feralas|
 A The Writhing Deep |QID|4135| |N|the Large Leather Backpacks on the tree - (73.3, 56.3)| |Z|Feralas|
-C Collect item |QID|4281| |L|11463 1| |N|(73.3, 56.3)| |Z|Feralas|
-A Thalanaar Delivery |QID|4281| |N|(73.3, 56.3)| |Z|Feralas|
+C Collect item |QID|4281| |L|11463 1| |N|Use the [Undelivered Parcel] to start the quest (73.3, 56.3)| |Z|Feralas|
+A Thalanaar Delivery |QID|4281| |N|Use the [Undelivered Parcel] to start the quest - (73.3, 56.3)| |Z|Feralas|
 R Enter The Writhering Deep Hive from the lower southwest entrance |N|(72.8, 64.5)| |O| |Z|Feralas|
 N You must leave your shapeshift form to turn in this quest |N|(72.1, 63.7)| |C|Druid| |Z|Feralas|
 T The Writhing Deep |QID|4135| |N|the Zukk'ash Pod - (72.1, 63.7)| |Z|Feralas|
 A Freed from the Hive |QID|4265| |N|the Zukk'ash Pod - (72.1, 63.7)| |Z|Feralas|
 C Freed from the Hive |QID|4265| |OIDX|1| |N|Wait out the RP (72.1, 63.7)| |Z|Feralas|
+H Feathermoon Stronghold |N|Hearth to Feathermoon Stronghold| |Z|Feralas|
 N Buy food/water if needed |N|(66.7, 46.6)| |C|!Warrior/!Rogue| |Z|Feralas|
 N Buy food if needed |N|(66.7, 46.6)| |C|Warrior/Rogue| |Z|Feralas|
 T The Mark of Quality |QID|2821| |N|Pratt McGrubben - (30.6, 42.7)| |Z|Feralas|
@@ -194,9 +196,11 @@ N Bring 5 [Silver Bars] to Talvash del Kissel |N|(36.4, 3.6) (Ulda Dungeon Quest
 N If you are unable to acquire them, abandon this quest |N|(36.4, 3.6) (Ulda Dungeon Quest)| |D|Ulda| |Z|Ironforge|
 C Lore for a Price |QID|2199| |OIDX|1| |N|Talvash del Kissel (36.4, 3.6) (Ulda Dungeon Quest)| |D|Ulda| |Z|Ironforge|
 T Lore for a Price |QID|2199| |N|Talvash del Kissel - (36.4, 3.6) (Ulda Dungeon Quest)| |D|Ulda| |Z|Ironforge|
+H Feralas |N|Hearth to Feralas| |Z|Ironforge|
 N Buy food/water if needed |C|!Warrior/!Rogue| |Z|Ironforge|
 N Buy food if needed |C|Warrior/Rogue| |Z|Ironforge|
 R Travel to Feralas |N|(26.2, 67.5)| |Z|Feralas|
+H Feathermoon Stronghold |N|Hearth to Feathermoon Stronghold| |O| |Z|Feralas|
 N Buy food/water if needed |O| |C|!Warrior/!Rogue| |Z|Feralas|
 N Buy food if needed |O| |C|Warrior/Rogue| |Z|Feralas|
 T The High Wilderness |QID|2982| |N|Angelas Moonbreeze - (31.8, 45.6)| |Z|Feralas|

@@ -5,6 +5,7 @@ return [[
 N 55-56 Winterspring |N|Converted from RestedXP guide|
 
 R Innkeeper Vizzie |N|(61.4, 38.8)| |Z|Winterspring|
+h Everlook |N|Set hearth in Everlook (61.4, 38.8)| |Z|Winterspring|
 N Do not accept Sister Pamela from Jessica Redpath |N|(61.3, 39.0)| |Z|Winterspring|
 A The Everlook Report |QID|6028| |N|Gregor Greystone - (61.3, 39.0)| |Z|Winterspring|
 A Duke Nicholas Zverenhoff |QID|6030| |N|Gregor Greystone - (61.3, 39.0)| |Z|Winterspring|
@@ -40,8 +41,7 @@ N Click the Fire of Elune torches inside the caves when Ranshalla begins channel
 C Guardians of the Altar |QID|4901| |OIDX|1| |N|Escort Ranshalla through Owl Wing Thicket (64.8, 63.8)| |C|Hunter| |Z|Winterspring|
 C Enraged Wildkin |QID|4864| |OIDX|2| |N|Crazed Owlbeasts, Moontouched Owlbeasts and Berserk Owlbeasts. Loot them for a Blue-feathered Amulet (65.5, 60.3)| |Z|Winterspring|
 C Strange Sources |QID|4842| |OIDX|1| |N|Explore Darkwhisper Gorge. You can do this without agroing any of the nearby Elites (59.9, 74.0)| |Z|Winterspring|
-N Buy food/water if needed |C|!Warrior/!Rogue| |Z|Winterspring|
-N Buy food if needed |C|Warrior/Rogue| |Z|Winterspring|
+H Everlook |N|Hearth to Everlook| |Z|Winterspring|
 N Buy food/water if needed |C|!Warrior/!Rogue| |Z|Winterspring|
 N Buy food if needed |C|Warrior/Rogue| |Z|Winterspring|
 T Luck Be With You |QID|969| |N|Witch Doctor Mau'ari - (61.9, 38.3)| |Z|Winterspring|

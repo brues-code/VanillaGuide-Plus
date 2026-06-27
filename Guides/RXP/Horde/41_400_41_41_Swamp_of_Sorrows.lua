@@ -54,8 +54,9 @@ C Pool of Tears |QID|1424| |OIDX|1| |N|the Atal'ai Artifacts scattered all aroun
 T Pool of Tears |QID|1424| |N|Return to Fel'zerul in Stonard - (48.0, 54.9)| |Z|Swamp of Sorrows|
 T Draenethyst Crystals |QID|1389| |N|Magtoor - (25.9, 31.5)| |Z|Swamp of Sorrows|
 C Dream Dust in the Swamp |QID|1116| |OIDX|1| |N|Finish killing Adolescent Whelps and Dreaming Whelps. Loot them for their Dream Dust (12.2, 57.1)| |Z|Swamp of Sorrows|
+H Grom'gol Base Camp |N|Hearth to Grom'gol Base Camp| |Z|Swamp of Sorrows|
 F Fly to Booty Bay |N|Thysta - (32.5, 29.3)| |O| |Z|Stranglethorn Vale|
-A Goblin Sponsorship |QID|1183| |N|Then Baron Revilgaz - (27.1, 77.0)| |Z|Stranglethorn Vale|
+A Goblin Sponsorship |QID|1183| |N|Then talk to Baron Revilgaz - (27.1, 77.0)| |Z|Stranglethorn Vale|
 T Sunken Treasure |QID|669| |N|Fleet Master Seahorn - (27.1, 77.0)| |Z|Stranglethorn Vale|
 T Skullsplitter Tusks |QID|209| |N|Kebok on the inn's top floor - (26.9, 77.2)| |Z|Stranglethorn Vale|
 T Dream Dust in the Swamp |QID|1116| |N|Return to Krazek - (27.0, 77.2)| |Z|Stranglethorn Vale|
@@ -75,6 +76,7 @@ R Run to the Booty Bay Dock |N|(25.9, 73.1)| |O| |Z|Stranglethorn Vale|
 T Stinky's Escape |QID|1270| |N|Mebok - (62.4, 37.6)| |Z|The Barrens|
 F Fly to Camp Taurajo |N|Bragok - (63.1, 37.2)| |O| |Z|The Barrens|
 R Innkeeper Byula |N|(45.6, 59.0)| |Z|The Barrens|
+h Camp Taurajo |N|Set hearth in Camp Taurajo (45.6, 59.0)| |Z|The Barrens|
 F Fly to Thunder Bluff |N|Omusa - (44.5, 59.1)| |C|!Mage| |Z|The Barrens|
 t Train your class spells |N|Malakai - (24.6, 22.6)| |C|Priest| |Z|Thunder Bluff|
 t Train your class spells |N|Thurston - (25.2, 20.9)| |C|Mage| |Z|Thunder Bluff|

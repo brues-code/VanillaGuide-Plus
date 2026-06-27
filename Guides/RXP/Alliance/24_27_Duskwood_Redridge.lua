@@ -17,7 +17,8 @@ A The Binding |QID|1739| |N|Gakin the Darkbinder - (25.2, 78.5)| |O| |C|Warlock|
 T Heartswood |QID|1738| |N|Gakin the Darkbinder - (25.2, 78.5)| |O| |C|Warlock| |Z|Stormwind City|
 A The Binding |QID|1739| |N|Gakin the Darkbinder - (25.2, 78.5)| |O| |C|Warlock| |Z|Stormwind City|
 R the bottom of The Slaughtered Lamb |N|(25.2, 77.4)| |O| |C|Warlock| |Z|Stormwind City|
-C The Binding |QID|1739| |OIDX|1| |N|Kill Summoned Succubus (25.2, 77.4)| |C|Warlock| |Z|Stormwind City|
+C The Binding |QID|1739| |OIDX|1| |N|Kill the Summoned Succubus (25.2, 77.4)| |C|Warlock| |Z|Stormwind City|
+N Use the [Wooden Figurine] to call forth a Summoned Incubus |N|(25.2, 77.4)| |C|Warlock| |Z|Stormwind City|
 C The Binding |QID|1739| |OIDX|1| |N|the bottom of The Slaughtered Lamb (25.2, 77.4)| |C|Warlock| |Z|Stormwind City|
 T The Binding |QID|1739| |N|Gakin the Darkbinder - (25.2, 78.5)| |C|Warlock| |Z|Stormwind City|
 T A Scroll from Mauren |QID|1075| |N|Collin Mauren - (43.1, 80.4)| |Z|Stormwind City|
@@ -34,6 +35,7 @@ R Newton Burnside |N|(57.1, 73.0)| |Z|Stormwind City|
 N [Lean Wolf Flanks] |N|(57.1, 73.0)| |Z|Stormwind City|
 N [Gooey Spider Legs] |N|(57.1, 73.0)| |Z|Stormwind City|
 R Innkeeper Allison |N|(52.6, 65.7)| |C|Rogue| |Z|Stormwind City|
+h Stormwind City |N|Set hearth in Stormwind City (52.6, 65.7)| |C|Rogue| |Z|Stormwind City|
 t Train 1h Swords |N|Woo Ping - (57.1, 57.7)| |C|Mage/Rogue/Warlock| |Z|Stormwind City|
 t Train Daggers |N|Woo Ping - (57.1, 57.7)| |C|Mage/Druid/Priest| |Z|Stormwind City|
 t Train 2h Swords |N|Woo Ping - (57.1, 57.7)| |C|Warrior/Paladin/Hunter| |Z|Stormwind City|
@@ -56,6 +58,7 @@ C Wolves at Our Heels |QID|226| |OIDX|1| |N|Kill Starving Dire Wolves and Rabid 
 A The Legend of Stalvan |QID|66| |N|Madame Eva inside - (75.8, 45.3)| |Z|Duskwood|
 A The Totem of Infliction |QID|101| |N|Madame Eva inside - (75.8, 45.3)| |Z|Duskwood|
 R Innkeeper Trelayne |N|(73.9, 44.4)| |Z|Duskwood|
+h Duskwood |N|Set hearth in Duskwood (73.9, 44.4)| |Z|Duskwood|
 N You need 50 skill in cooking to accept this quest |N|(73.8, 44.0)| |Z|Duskwood|
 A Seasoned Wolf Kabobs |QID|90| |N|Chef Grual in the inn's kitchen - (73.8, 44.0)| |Z|Duskwood|
 T Seasoned Wolf Kabobs |QID|90| |N|Chef Grual in the inn's kitchen - (73.8, 44.0)| |Z|Duskwood|
@@ -134,7 +137,7 @@ T The Coastal Menace |QID|104| |N|Captain Grayson - (30.0, 86.0)| |Z|Westfall|
 R Swim out to sea |N|(17.9, 33.1)| |O| |C|Druid| |Z|Westfall|
 C the Strange Lockbox. Loot it for the Half Pendant of Aquatic Endurance |QID|272| |L|15882 1| |N|the Strange Lockbox. Loot it for the Half Pendant of Aquatic Endurance - (17.9, 33.1)| |C|Druid| |Z|Westfall|
 R Travel to Moonglade |N|(36.0, 41.4)| |C|Druid| |Z|Moonglade|
-C Complete task |QID|272| |OIDX|1| |N|(36.0, 41.4)| |C|Druid| |Z|Moonglade|
+C Use the [Half Pendant of Aquatic Agility] to combine it with the [Half Pendant of Aquatic Endurance] at the Shrine of Remulos |QID|272| |OIDX|1| |N|Use the [Half Pendant of Aquatic Agility] to combine it with the [Half Pendant of Aquatic Endurance] at the Shrine of Remulos - (36.0, 41.4)| |C|Druid| |Z|Moonglade|
 N This will save you time from running back |O| |C|Druid| |Z|Moonglade|
 T Trial of the Sea Lion |QID|272| |N|Dendrite Starblaze - (56.2, 30.6)| |C|Druid| |Z|Moonglade|
 A Aquatic Form |QID|5061| |N|Dendrite Starblaze - (56.2, 30.6)| |C|Druid| |Z|Moonglade|
@@ -142,9 +145,11 @@ t Train your class spells |N|Loganaar - (52.5, 40.6)| |C|Druid| |Z|Moonglade|
 F Fly to Teldrassil |N|Silva Fil'naveth - (44.1, 45.2)| |O| |C|Druid| |Z|Moonglade|
 R Travel to Darnassus |N|(35.4, 8.4)| |C|Druid| |Z|Darnassus|
 T Aquatic Form |QID|5061| |N|Mathrengyl Bearwalker - (35.4, 8.4)| |C|Druid| |Z|Darnassus|
+H Darkshire |N|Hearth to Darkshire| |C|Rogue| |Z|Darnassus|
 N Buy food if needed |C|Warrior/Rogue| |Z|Darnassus|
 F Fly to Duskwood |N|Thor - (56.5, 52.6)| |C|Rogue| |Z|Westfall|
 F Fly to Stormwind |N|Thor - (56.5, 52.6)| |O| |C|Rogue| |Z|Westfall|
+H Stormwind |N|Hearth to Stormwind| |O| |C|Rogue| |Z|Westfall|
 N Buy food if needed |O| |C|Warrior/Rogue| |Z|Westfall|
 R Travel to Stormwind City |N|(41.7, 28.0)| |O| |C|Rogue| |R|!Dwarf| |Z|Stormwind City|
 R Travel toward Shaina Fuller |N|(43.1, 26.2)| |O| |C|Rogue| |R|!Dwarf| |Z|Stormwind City|
@@ -171,6 +176,7 @@ A The Tome of Valor |QID|1651| |N|Daphne Stilwell - (42.5, 88.6)| |C|Paladin| |Z
 C The Tome of Valor |QID|1651| |OIDX|1| |N|(42.5, 88.6)| |C|Paladin| |Z|Westfall|
 T The Tome of Valor |QID|1651| |N|(42.5, 88.6)| |C|Paladin| |Z|Westfall|
 A The Tome of Valor |QID|1652| |N|(42.5, 88.6)| |C|Paladin| |Z|Westfall|
+H Darkshire |N|Hearth to Darkshire| |C|!Rogue| |Z|Westfall|
 N Buy food/water if needed |C|!Warrior/!Rogue| |Z|Westfall|
 N Buy food if needed |C|Warrior/Rogue| |Z|Westfall|
 F Fly to Darkshire |N|Thor - (56.5, 52.6)| |O| |C|!Rogue| |Z|Westfall|
@@ -348,6 +354,7 @@ C Proving Your Worth |QID|323| |OIDX|1| |N|Skeletal Raiders, Skeletal Healers an
 T Proving Your Worth |QID|323| |N|Sven Yorgen - (7.8, 34.1)| |Z|Duskwood|
 A Seeking Wisdom |QID|269| |N|Sven Yorgen - (7.8, 34.1)| |Z|Duskwood|
 N Grind mobs until your Hearthstone is off cooldown |O| |Z|Duskwood|
+H Darkshire |N|Hearth to Darkshire| |O| |Z|Duskwood|
 N Buy food/water if needed |O| |C|!Warrior/!Rogue| |Z|Duskwood|
 N Buy food if needed |O| |C|Warrior/Rogue| |Z|Duskwood|
 F If you haven't found a [Bronze Tube], save your Hearthstone cooldown and fly from Westfall to Duskwood |O| |Z|Duskwood|

@@ -4,7 +4,7 @@ return [[
 
 N 12-14 Silverpine Forest |N|Converted from RestedXP guide|
 
-C The Deathstalkers |QID|1886| |OIDX|1| |N|If you see Astor, him and kill him. Loot him for the letter. He patrols the road between Brill and The Sepulcher Astor's Letter of Introduction (1)| |O| |C|Rogue| |R|Undead|
+C The Deathstalkers |QID|1886| |OIDX|1| |N|If you see Astor, talk to him and kill him. Loot him for the letter. He patrols the road between Brill and The Sepulcher Astor's Letter of Introduction (1)| |O| |C|Rogue| |R|Undead|
 C Collect Discolored Worg Heart (x6) |QID|429| |L|3164 6| |N|Kill Worgs as you travel toward Erland. Loot them for their Hearts| |O|
 N Make sure you are full health/mana before starting this quest |N|(56.2, 9.2)| |Z|Silverpine Forest|
 A Escorting Erland |QID|435| |N|Deathstalker Erland to begin the escort - (56.2, 9.2)| |Z|Silverpine Forest|
@@ -15,7 +15,7 @@ T Escorting Erland |QID|435| |N|Rane Yorick - (53.5, 13.4)| |Z|Silverpine Forest
 A Wild Hearts |QID|429| |N|Rane Yorick - (53.5, 13.4)| |Z|Silverpine Forest|
 A The Deathstalkers' Report |QID|449| |N|Rane Yorick - (53.5, 13.4)| |Z|Silverpine Forest|
 C Collect Discolored Worg Heart (x6) |QID|429| |L|3164 6| |N|Worgs. Loot them for their Hearts (57.7, 10.1)| |Z|Silverpine Forest|
-R The Sepulcher |N|(45.5, 41.3)| |O| |Z|Silverpine Forest|
+N Die and respawn at the Spirit Healer |O| |Z|Silverpine Forest|
 A Prove Your Worth |QID|421| |N|Dalar - (44.2, 39.7)| |Z|Silverpine Forest|
 B Buy [Lesser Healing Potions] from him if they're up |N|Gwyn - (44.0, 39.8)| |C|!Mage/!Priest| |Z|Silverpine Forest|
 B Red-speckled Mushroom (20) |L|4605 20| |N|Gwyn - (44.0, 39.8)| |C|!Mage/!Priest| |Z|Silverpine Forest|
@@ -58,6 +58,7 @@ N Be careful of Krethis Shadowspinner as it's impossibly difficult to kill her! 
 N Be careful of Krethis Shadowspinner as it's difficult but doable. She has a 130 damage shield on a 15s cooldown, and 110 damage instant shock ability |N|(36.3, 14.2)| |C|Mage/Warlock| |Z|Silverpine Forest|
 C A Recipe For Death |QID|447| |OIDX|2| |N|Spiders. Loot them for their Blood Skittering Blood (6)| |Z|Silverpine Forest|
 C A Recipe For Death |QID|447| |OIDX|1| |N|Finish killing Bears. Loot them for their Hearts Grizzled Bear Heart (6)| |Z|Silverpine Forest|
+N Die and respawn at the Spirit Healer |O| |Z|Silverpine Forest|
 T Arugal's Folly |QID|422| |N|Dalar - (44.2, 39.7)| |Z|Silverpine Forest|
 A Arugal's Folly |QID|423| |N|Dalar - (44.2, 39.7)| |Z|Silverpine Forest|
 R Enter the crypt |N|(43.4, 40.9)| |O| |Z|Silverpine Forest|
@@ -75,13 +76,10 @@ T The Decrepit Ferry |QID|438| |N|the Boat at the side of the docks - (58.4, 34.
 A Rot Hide Clues |QID|439| |N|the Boat at the side of the docks - (58.4, 34.8)| |Z|Silverpine Forest|
 N Be careful! Moonrage Darksouls enrage when they are below 25% health. Kill them quickly when they are low |N|(56.8, 45.9)| |Z|Silverpine Forest|
 C Arugal's Folly |QID|423| |OIDX|1| |N|Moonrage Gluttons and Moonrage Darksouls. Loot them for their Shackles Glutton Shackle (6)| |Z|Silverpine Forest|
-N Be careful! These mobs cast [Frostbolt] and flee at low health. Pull them back and kill them one by one until you can safely click on the crate |N|(49.9, 60.3)| |Z|Silverpine Forest|
-T Border Crossings |QID|477| |N|the Crate in the camp - (49.9, 60.3)| |Z|Silverpine Forest|
-A Maps and Runes |QID|478| |N|the Crate in the camp - (49.9, 60.3)| |Z|Silverpine Forest|
 N Be careful, these mobs cast [Frostbolt] |N|(49.9, 60.3)| |Z|Silverpine Forest|
 T Border Crossings |QID|477| |N|the Crate in the camp - (49.9, 60.3)| |Z|Silverpine Forest|
 A Maps and Runes |QID|478| |N|the Crate in the camp - (49.9, 60.3)| |Z|Silverpine Forest|
-R Travel back to The Sepulcher |N|(45.5, 41.3)| |O| |Z|Silverpine Forest|
+N Die and respawn at the Spirit Healer |O| |Z|Silverpine Forest|
 T Maps and Runes |QID|478| |N|Allister and Dalar - (44.0, 40.9)| |Z|Silverpine Forest|
 A Dalar's Analysis |QID|481| |N|Allister and Dalar - (44.0, 40.9)| |Z|Silverpine Forest|
 T Arugal's Folly |QID|423| |N|Allister and Dalar - (44.0, 40.9)| |Z|Silverpine Forest|
@@ -94,6 +92,7 @@ T Supplying the Sepulcher |QID|6321| |N|Karos - (45.6, 42.6)| |R|Undead| |Z|Silv
 A Ride to the Undercity |QID|6323| |N|Karos - (45.6, 42.6)| |R|Undead| |Z|Silverpine Forest|
 f Get the Sepulcher flight path |N|Karos - (45.6, 42.6)| |R|!Undead| |Z|Silverpine Forest|
 F Fly to the Undercity |N|Karos - (45.6, 42.6)| |R|!Undead| |Z|Silverpine Forest|
+H Undercity |N|Hearth to Undercity| |R|Undead| |Z|Silverpine Forest|
 T Ride to the Undercity |QID|6323| |N|Gordon - (61.5, 41.8)| |R|Undead| |Z|Undercity|
 A Michael Garrett |QID|6322| |N|Gordon - (61.5, 41.8)| |R|Undead| |Z|Undercity|
 N Buy a [Scimitar] from him |N|(61.1, 40.9)| |C|Rogue| |Z|Undercity|
@@ -170,6 +169,7 @@ A Hidden Enemies |QID|5729| |N|Thrall - (31.7, 37.8) (RFC Dungeon Quest)| |R|Und
 T Hidden Enemies |QID|5729| |N|Neeru Fireblade - (49.6, 50.4) (RFC Dungeon Quest)| |R|Undead| |D|RFC| |Z|Orgrimmar|
 A Hidden Enemies |QID|5730| |N|Neeru Fireblade - (49.6, 50.4) (RFC Dungeon Quest)| |R|Undead| |D|RFC| |Z|Orgrimmar|
 T Hidden Enemies |QID|5730| |N|Thrall - (31.7, 37.8) (RFC Dungeon Quest)| |R|Undead| |D|RFC| |Z|Orgrimmar|
+H Razor Hill |N|Hearth to Razor Hill| |R|!Undead| |Z|Orgrimmar|
 t Train your class spells |N|Kaplak - (52.0, 43.7)| |O| |C|Rogue| |Z|Durotar|
 t Train your class spells |N|Tai'jin - (54.3, 42.9)| |O| |C|Priest| |Z|Durotar|
 t Train your class spells |N|Tarshaw - (54.2, 42.5)| |O| |C|Warrior| |Z|Durotar|

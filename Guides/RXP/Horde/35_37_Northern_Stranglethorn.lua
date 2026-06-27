@@ -22,7 +22,9 @@ t Train your pet spells |N|Xao'tsu - (66.3, 14.8)| |C|Hunter| |Z|Orgrimmar|
 N Buy three [Catseye Elixir] from the Auction House |N|(55.6, 62.9)| |C|!Hunter| |Z|Orgrimmar|
 B Auctioneer Thathung |L|10592 3| |N|Auctioneer Thathung - (55.6, 62.9)| |C|!Hunter| |Z|Orgrimmar|
 R Innkeeper Gryshka |N|(54.1, 68.4)| |Z|Orgrimmar|
+h Orgrimmar |N|Set hearth in Orgrimmar (54.1, 68.4)| |Z|Orgrimmar|
 R Go up the Zeppelin Tower |N|(50.8, 13.8)| |Z|Durotar|
+h Grom'Gol Base Camp |N|Set hearth in Grom'Gol Base Camp (31.5, 29.8)| |C|Mage| |Z|Stranglethorn Vale|
 t Training (3567) |N|Innkeeper Thulbek - (31.5, 29.8)| |C|Mage| |Z|Stranglethorn Vale|
 A Mok'thardin's Enchantment |QID|570| |N|Far Seer Mok'thardin - (32.1, 29.2)| |Z|Stranglethorn Vale|
 A The Defense of Grom'gol |QID|568| |N|Commander Aggro'gosh - (32.2, 28.9)| |Z|Stranglethorn Vale|
@@ -104,6 +106,7 @@ N [Shrunken Heads] only drop from Bloodscalp Headhunters |N|(19.7, 13.3)| |Z|Str
 C Bloodscalp Ears |QID|189| |OIDX|1| |N|Bloodscalp Trolls. Loot them for their Ears, Heads and Necklaces (19.7, 13.3)| |Z|Stranglethorn Vale|
 C Headhunting |QID|582| |OIDX|1| |N|Bloodscalp Trolls. Loot them for their Ears, Heads and Necklaces (19.7, 13.3)| |Z|Stranglethorn Vale|
 C Bloody Bone Necklaces |QID|596| |OIDX|1| |N|Bloodscalp Trolls. Loot them for their Ears, Heads and Necklaces (19.7, 13.3)| |Z|Stranglethorn Vale|
+H Grom'gol Base Camp |N|Hearth to Grom'gol Base Camp| |O| |C|Mage| |Z|Stranglethorn Vale|
 T Headhunting |QID|582| |N|Nimboya and Kin'weelay - (32.2, 27.7)| |Z|Stranglethorn Vale|
 T Bloody Bone Necklaces |QID|596| |N|Nimboya and Kin'weelay - (32.2, 27.7)| |Z|Stranglethorn Vale|
 T The Vile Reef |QID|629| |N|Nimboya and Kin'weelay - (32.2, 27.7)| |Z|Stranglethorn Vale|
@@ -135,6 +138,7 @@ A Raptor Mastery |QID|196| |N|(35.6, 10.6)| |Z|Stranglethorn Vale|
 N Sin'Dall is either atop the plateau, or patrolling its base |N|(32.2, 17.4)| |Z|Stranglethorn Vale|
 C Tiger Mastery |QID|188| |OIDX|1| |N|Sin'Dall. Loot her for her Paw (32.2, 17.4)| |Z|Stranglethorn Vale|
 T Tiger Mastery |QID|188| |N|Ajeck - (35.6, 10.6)| |Z|Stranglethorn Vale|
+H Grom'gol Base Camp |N|Hearth to Grom'gol Base Camp| |O| |C|Mage| |Z|Stranglethorn Vale|
 A Trollbane |QID|638| |N|Nimboya - (32.2, 27.7)| |Z|Stranglethorn Vale|
 T The Defense of Grom'gol |QID|569| |N|Commander Aggro'gosh - (32.2, 28.9)| |Z|Stranglethorn Vale|
 T Mok'thardin's Enchantment |QID|570| |N|Far Seer Mok'thardin - (32.1, 29.2)| |Z|Stranglethorn Vale|
@@ -159,6 +163,8 @@ B Buy [Greater Healing Potions] from him if they're up |N|Glyx - (28.1, 78.1)| |
 B Stock up on [Flash Powder] and [Poisons] |N|Sly - (28.4, 76.8)| |C|Rogue| |Z|Stranglethorn Vale|
 t Train your class spells |N|Loganaar - (52.5, 40.6)| |C|Druid| |Z|Moonglade|
 t Training (3567) |C|Mage| |Z|Moonglade|
+H Orgrimmar |N|Hearth to Orgrimmar| |O| |Z|Moonglade|
+t Training (3567) |O| |C|Mage| |Z|Moonglade|
 B Sell your junk, then restock on food and water if necessary |N|Barkeep Morag - (54.6, 67.7)| |C|!Rogue/!Warrior| |Z|Orgrimmar|
 B Sell your junk, then restock on food if necessary |N|Barkeep Morag - (54.6, 67.7)| |C|Rogue/Warrior| |Z|Orgrimmar|
 R Karus |N|(49.6, 69.1)| |Z|Orgrimmar|

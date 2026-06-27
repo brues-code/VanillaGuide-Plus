@@ -30,6 +30,7 @@ A Snapjaws, Mon! |QID|7815| |N|Katoom - (80.4, 81.5)| |Z|The Hinterlands|
 A Gammerita, Mon! |QID|7816| |N|Katoom - (80.4, 81.5)| |Z|The Hinterlands|
 R Markhor |N|(79.1, 79.5)| |O| |C|Hunter| |Z|The Hinterlands|
 t Attack mobs with it to learn [Bite (Rank 7)] |N|Cast [Tame Beast] on a Saltwater Snapjaw to tame it - (78.0, 64.2)| |C|Hunter| |Z|The Hinterlands|
+N Click here for more info about pet training |N|(78.0, 64.2)| |C|Hunter| |Z|The Hinterlands|
 t Training (17267) |N|Markhor - (79.1, 79.5)| |C|Hunter| |Z|The Hinterlands|
 C Whiskey Slim's Lost Grog |QID|580| |OIDX|1| |N|Loot the Pupellyverbos Port Bottles along the shore| |O| |Z|The Hinterlands|
 C Snapjaws, Mon! |QID|7815| |OIDX|1| |N|Kill Saltwater Snapjaws| |O| |Z|The Hinterlands|
@@ -50,15 +51,17 @@ A Stalking the Stalkers |QID|7828| |N|Markhor - (79.1, 79.5)| |Z|The Hinterlands
 A Hunt the Savages |QID|7829| |N|Markhor - (79.1, 79.5)| |Z|The Hinterlands|
 A Avenging the Fallen |QID|7830| |N|Markhor - (79.1, 79.5)| |Z|The Hinterlands|
 C Stalking the Stalkers |QID|7828| |OIDX|1| |N|Kill Silvermane Stalkers| |O| |Z|The Hinterlands|
-C Hunt the Savages |QID|7829| |OIDX|1| |N|This item has a cooldown and only works on one corpse at a time, even if they're stacked| |O| |Z|The Hinterlands|
-C Testing the Vessel |QID|3123| |OIDX|1| |N|This item has a cooldown and only works on one corpse at a time, even if they're stacked| |O| |Z|The Hinterlands|
+N This item has a cooldown and only works on one corpse at a time, even if they're stacked |O| |Z|The Hinterlands|
+C Hunt the Savages |QID|7829| |OIDX|1| |N|Kill Savage Owlbeasts and use the [Wildkin Muisek Vessel] near their corpses| |O| |Z|The Hinterlands|
+C Testing the Vessel |QID|3123| |OIDX|1| |N|Kill Savage Owlbeasts and use the [Wildkin Muisek Vessel] near their corpses| |O| |Z|The Hinterlands|
 N Vilebranch Scalpers have Execute. Be extremely careful on this quest, try not to let your health dip near 20% |O| |Z|The Hinterlands|
 C Cannibalistic Cousins |QID|7844| |OIDX|1| |N|Kill Vilebranch Scalpers and Vilebranch Soothsayers| |O| |Z|The Hinterlands|
 N The bucket can spawn in 5 locations, they are marked on your map |N|(53.2, 39.2)| |Z|The Hinterlands|
 C Vilebranch Hooligans |QID|7839| |OIDX|1| |N|Slagtree's Lost Tools (a small bucket) (53.2, 39.2)| |Z|The Hinterlands|
 C A Sticky Situation |QID|77| |OIDX|1| |N|the Horde Supply Crates for their Hinterlands Honey Ripple (57.6, 39.8)| |Z|The Hinterlands|
-C Hunt the Savages |QID|7829| |OIDX|1| |N|This item has a cooldown and only works on one corpse at a time, even if they're stacked| |O| |Z|The Hinterlands|
-C Testing the Vessel |QID|3123| |OIDX|1| |N|This item has a cooldown and only works on one corpse at a time, even if they're stacked| |O| |Z|The Hinterlands|
+N This item has a cooldown and only works on one corpse at a time, even if they're stacked |O| |Z|The Hinterlands|
+C Hunt the Savages |QID|7829| |OIDX|1| |N|Kill Savage Owlbeasts and use the [Wildkin Muisek Vessel] near their corpses| |O| |Z|The Hinterlands|
+C Testing the Vessel |QID|3123| |OIDX|1| |N|Kill Savage Owlbeasts and use the [Wildkin Muisek Vessel] near their corpses| |O| |Z|The Hinterlands|
 C Stalking the Stalkers |QID|7828| |OIDX|2| |N|Kill Silvermane Howlers| |O| |Z|The Hinterlands|
 N Be careful with your health! Highvale Rangers can Faerie Fire, making escape more difficult |O| |C|Rogue| |Z|The Hinterlands|
 C Message to the Wildhammer |QID|7841| |OIDX|1| |N|Kill Highvale High Elves| |O| |Z|The Hinterlands|
@@ -77,12 +80,14 @@ N Vilebranch Scalpers have Execute. Be extremely careful on this quest, try not 
 N Do not go to the top! There are high level elites |N|(50.6, 62.4)| |Z|The Hinterlands|
 C Cannibalistic Cousins |QID|7844| |OIDX|1| |N|Finish killing Vilebranch Scalpers and Vilebranch Soothsayers around the base of the temple (50.6, 62.4)| |Z|The Hinterlands|
 C Stalking the Stalkers |QID|7828| |OIDX|1| |N|Kill Silvermane Stalkers| |O| |Z|The Hinterlands|
-C Hunt the Savages |QID|7829| |OIDX|1| |N|This item has a cooldown and only works on one corpse at a time, even if they're stacked| |O| |Z|The Hinterlands|
-C Testing the Vessel |QID|3123| |OIDX|1| |N|This item has a cooldown and only works on one corpse at a time, even if they're stacked| |O| |Z|The Hinterlands|
+N This item has a cooldown and only works on one corpse at a time, even if they're stacked |O| |Z|The Hinterlands|
+C Hunt the Savages |QID|7829| |OIDX|1| |N|Kill Savage Owlbeasts and use the [Wildkin Muisek Vessel] near their corpses| |O| |Z|The Hinterlands|
+C Testing the Vessel |QID|3123| |OIDX|1| |N|Kill Savage Owlbeasts and use the [Wildkin Muisek Vessel] near their corpses| |O| |Z|The Hinterlands|
 C Avenging the Fallen |QID|7830| |OIDX|1| |N|Find and kill a Razorbeak Skylord. Loot it for its Plume (50.6, 53.0)| |Z|The Hinterlands|
 C Stalking the Stalkers |QID|7828| |OIDX|1| |N|Finish killing Silvermane Stalkers (68.4, 62.6)| |Z|The Hinterlands|
-C Hunt the Savages |QID|7829| |OIDX|1| |N|This item has a cooldown and only works on one corpse at a time, even if they're stacked (68.4, 62.6)| |Z|The Hinterlands|
-C Testing the Vessel |QID|3123| |OIDX|1| |N|This item has a cooldown and only works on one corpse at a time, even if they're stacked (68.4, 62.6)| |Z|The Hinterlands|
+N This item has a cooldown and only works on one corpse at a time, even if they're stacked |N|(68.4, 62.6)| |Z|The Hinterlands|
+C Hunt the Savages |QID|7829| |OIDX|1| |N|Kill Savage Owlbeasts and use the [Wildkin Muisek Vessel] near their corpses (68.4, 62.6)| |Z|The Hinterlands|
+C Testing the Vessel |QID|3123| |OIDX|1| |N|Kill Savage Owlbeasts and use the [Wildkin Muisek Vessel] near their corpses (68.4, 62.6)| |Z|The Hinterlands|
 T Rin'ji is Trapped! |QID|2742| |N|Swim to the island to the far east, then click Rinji's Secret - (86.3, 59.0)| |Z|The Hinterlands|
 A Rin'ji's Secret |QID|2782| |N|Swim to the island to the far east, then click Rinji's Secret - (86.3, 59.0)| |Z|The Hinterlands|
 T Vilebranch Hooligans |QID|7839| |N|Slagtree - (77.2, 80.2)| |Z|The Hinterlands|
@@ -96,7 +101,6 @@ T Avenging the Fallen |QID|7830| |N|Markhor - (79.1, 79.5)| |Z|The Hinterlands|
 T Message to the Wildhammer |QID|7841| |N|Otho - (79.3, 79.1)| |Z|The Hinterlands|
 A Another Message to the Wildhammer |QID|7842| |N|Otho - (79.3, 79.1)| |Z|The Hinterlands|
 T Another Message to the Wildhammer |QID|7842| |N|Otho - (79.3, 79.1)| |Z|The Hinterlands|
-N Be aware that performing this quest WILL flag you for PVP in a densely-populated Alliance area |N|(79.3, 79.1)| |Z|The Hinterlands|
 A Another Message to the Wildhammer |QID|7843| |N|Otho - (79.3, 79.1)| |Z|The Hinterlands|
 B Sell your junk, then restock on food and water if necessary |N|Lard - (78.2, 81.3)| |C|!Rogue/!Warrior| |Z|The Hinterlands|
 B Sell your junk, then restock on food if necessary |N|Lard - (78.2, 81.3)| |C|Rogue/Warrior| |Z|The Hinterlands|
@@ -113,6 +117,7 @@ C Separation Anxiety |QID|7849| |OIDX|1| |N|the Pile of Skulls for Huntsman Malk
 T Kidnapped Elder Torntusk! |QID|7845| |N|Elder Torntusk - (59.6, 77.8)| |Z|The Hinterlands|
 A Recover the Key! |QID|7846| |N|Elder Torntusk - (59.6, 77.8)| |Z|The Hinterlands|
 R You can get to the upper level (without fighting through many guards) by doing a jump skip |N|(57.3, 86.0)| |O| |Z|The Hinterlands|
+N Click here for a video guide |N|(57.3, 86.0)| |O| |Z|The Hinterlands|
 C Wanted: Vile Priestess Hexx and Her Minions |QID|7861| |OIDX|2| |N|Kill Vilebranch Aman'zasi Guards| |O| |Z|The Hinterlands|
 N Be extremely cautious of her Hex ability, which she can potentially spam |N|(59.3, 78.2)| |Z|The Hinterlands|
 C Wanted: Vile Priestess Hexx and Her Minions |QID|7861| |OIDX|1| |N|Vile Priestess Hex (59.3, 78.2)| |Z|The Hinterlands|
@@ -146,8 +151,8 @@ F Fly to Tarren Mill |N|Gorkas - (81.7, 81.8)| |O| |Z|The Hinterlands|
 T Venom Bottles |QID|2933| |N|Lydon - (61.5, 19.2)| |Z|Hillsbrad Foothills|
 A Undamaged Venom Sac |QID|2934| |N|Lydon - (61.5, 19.2)| |Z|Hillsbrad Foothills|
 R Travel to The Hinterlands |N|(9.7, 55.8)| |O| |Z|The Hinterlands|
-C Another Message to the Wildhammer |QID|7843| |OIDX|1| |N|Be careful! Using this item will PVP flag you (14.4, 48.0)| |Z|The Hinterlands|
-C Another Message to the Wildhammer |QID|7843| |OIDX|1| |N|Be careful! Using this item will PVP flag you for 5 minutes! Skip this quest if you want for safety (14.4, 48.0)| |Z|The Hinterlands|
+N Be careful! Using this item will PVP flag you |N|(14.4, 48.0)| |Z|The Hinterlands|
+C Another Message to the Wildhammer |QID|7843| |OIDX|1| |N|Place the [Final Message to the Wildhammer] near the well in Wildhammer (14.4, 48.0)| |Z|The Hinterlands|
 T A Sticky Situation |QID|77| |N|Gilveradin - (26.6, 48.6)| |Z|The Hinterlands|
 A Ripple Delivery |QID|81| |N|Gilveradin - (26.6, 48.6)| |Z|The Hinterlands|
 N The Undamaged Venom Sac has a 30 minute duration, so turn it in ASAP |O| |Z|The Hinterlands|
@@ -167,6 +172,7 @@ A Rin'ji's Secret |QID|2782| |N|Swim to the island to the far east, then click R
 T The Final Message to the Wildhammer |QID|7843| |N|Otho Moji'ko - (79.3, 79.1)| |Z|The Hinterlands|
 R Markhor |N|(79.1, 79.5)| |O| |C|Hunter| |Z|The Hinterlands|
 t Attack mobs with it to learn [Bite (Rank 7)] |N|Cast [Tame Beast] on a Saltwater Snapjaw to tame it - (78.0, 64.2)| |C|Hunter| |Z|The Hinterlands|
+N Click here for more info about pet training |N|(78.0, 64.2)| |C|Hunter| |Z|The Hinterlands|
 F Fly to Tarren Mill |N|Gorkas - (81.7, 81.8)| |O| |Z|The Hinterlands|
 N The Undamaged Venom Sac has a 30 minute duration, so turn it in ASAP |N|(61.5, 19.2)| |Z|Hillsbrad Foothills|
 T Undamaged Venom Sac |QID|2934| |N|Lydon - (61.5, 19.2)| |Z|Hillsbrad Foothills|
@@ -183,6 +189,7 @@ A Oran's Gratitude |QID|8273| |N|Oran - (73.5, 32.7)| |Z|Undercity|
 T Oran's Gratitude |QID|8273| |N|Oran - (73.5, 32.7)| |Z|Undercity|
 R Travel toward Cuely |N|(45.2, 71.7)| |O| |Z|Undercity|
 A Seeping Corruption |QID|3568| |N|Cuely - (48.5, 71.9)| |Z|Undercity|
+H Tanaris |N|Hearth to Tanaris| |Z|Undercity|
 F Fly to Tanaris |N|Doras - (45.1, 63.9)| |O| |Z|Orgrimmar|
 T Sprinkle's Secret Ingredient |QID|2641| |N|Sprinkle - (51.1, 26.9)| |Z|Tanaris|
 A Delivery for Marin |QID|2661| |N|Sprinkle - (51.1, 26.9)| |Z|Tanaris|
@@ -235,7 +242,7 @@ N Kill Maraudos. Loot him for the [Gem of the Fourth Khan] |N|(MARA Dungeon Ques
 N Maraudos patrols around INSIDE the Maraudon Purple Instance |N|(MARA Dungeon Quest)| |D|MARA| |Z|Tirisfal Glades|
 C Use the [Amulet of Spirits] on the Spirit of Maraudos |QID|7067| |L|17764 1| |N|Use the [Amulet of Spirits] on the Spirit of Maraudos (MARA Dungeon Quest)| |D|MARA| |Z|Tirisfal Glades|
 C The Pariah's Instructions |QID|7067| |OIDX|1| |N|Channel any of the [Gems of the Khans] to create the [Amulet of Union] (MARA Dungeon Quest)| |D|MARA| |Z|Tirisfal Glades|
-T Legends of Maraudon |QID|7044| |N|Kill Celebras the Cursed then Celebras the Redeemed (MARA Dungeon Quest)| |D|MARA| |Z|Tirisfal Glades|
+T Legends of Maraudon |QID|7044| |N|Kill Celebras the Cursed then talk to Celebras the Redeemed (MARA Dungeon Quest)| |D|MARA| |Z|Tirisfal Glades|
 A The Scepter of Celebras |QID|7046| |N|Celebras the Redeemed (MARA Dungeon Quest)| |D|MARA| |Z|Tirisfal Glades|
 C The Scepter of Celebras |QID|7046| |OIDX|1| |N|Wait out the RP (MARA Dungeon Quest)| |D|MARA| |Z|Tirisfal Glades|
 T The Scepter of Celebras |QID|7046| |N|Celebras the Redeemed (MARA Dungeon Quest)| |D|MARA| |Z|Tirisfal Glades|
@@ -248,6 +255,7 @@ T Vyletongue Corruption |QID|7029| |N|Vark at the top of the hut - (23.2, 70.3) 
 N The Centaur Pariah patrols slightly around southern Desolace |N|(50.5, 86.7) (MARA Dungeon Quest)| |D|MARA| |Z|Desolace|
 T The Pariah's Instructions |QID|7067| |N|the Centaur Pariah - (50.5, 86.7) (MARA Dungeon Quest)| |D|MARA| |Z|Desolace|
 T Twisted Evils |QID|7028| |N|Willow - (62.2, 39.6) (MARA Dungeon Quest)| |D|MARA| |Z|Desolace|
+H Tanaris |N|Hearth to Tanaris (MARA Dungeon Quest)| |D|MARA| |Z|Desolace|
 B Sell your junk, then restock on food and water if necessary |N|Dirge - (52.6, 28.1) (MARA Dungeon Quest)| |C|!Rogue/!Warrior| |D|MARA| |Z|Tanaris|
 B Sell your junk, then restock on food if necessary |N|Dirge - (52.6, 28.1) (MARA Dungeon Quest)| |C|Rogue/Warrior| |D|MARA| |Z|Tanaris|
 R Gimblethorn |N|(52.3, 28.9) (MARA Dungeon Quest)| |D|MARA| |Z|Tanaris|

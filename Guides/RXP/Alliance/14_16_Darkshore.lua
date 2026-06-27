@@ -16,6 +16,7 @@ T Flight to Auberdine |QID|6342| |N|Laird - (36.8, 44.3)| |R|NightElf| |Z|Darksh
 N Buy up to 40 [Longjaw Mud Snappers] from him. Sell all your other level 5 or below food |N|(36.8, 44.3)| |O| |R|!NightElf| |Z|Darkshore|
 B Longjaw Mud Snapper (40) |L|4592 40| |N|Laird - (36.8, 44.3)| |O| |R|!NightElf| |Z|Darkshore|
 R Shaussiy downstairs |N|(37.0, 44.1)| |O| |Z|Darkshore|
+h Auberdine |N|Set hearth in Auberdine (37.0, 44.1)| |O| |Z|Darkshore|
 R Travel up stairs toward Wizbang Cranktoggle |N|(36.7, 44.0)| |O| |Z|Darkshore|
 A Buzzbox 827 |QID|983| |N|Wizbang Cranktoggle upstairs - (37.0, 44.1)| |Z|Darkshore|
 A Cave Mushrooms |QID|947| |N|Barithras Moonshade - (37.3, 43.6)| |O| |Z|Darkshore|
@@ -118,6 +119,7 @@ R Travel up to the Mysterious Red Crystal |N|(47.3, 48.7)| |Z|Darkshore|
 C The Red Crystal |QID|4811| |OIDX|1| |N|Be careful of the two group of 2 Raging Moonkins west of the Mysterious Red Crystal as the duos closest to each other are leashed together Locate the large, red crystal on Darkshore's eastern mountain range| |Z|Darkshore|
 R Enter the Moonkin Stone cave |N|(43.1, 45.6)| |O| |C|Druid| |Z|Darkshore|
 C Lunaclaw |QID|6001| |OIDX|1| |N|Lunaclaw - (43.1, 45.5)| |C|Druid| |Z|Darkshore|
+H Auberdine |N|Hearth to Auberdine| |O| |C|NightElf/Hunter/Warrior/Druid| |Z|Darkshore|
 T The Red Crystal |QID|4811| |N|Sentinel Glynda Nal'Shea - (37.7, 43.4)| |O| |C|NightElf/Hunter/Druid/Warrior| |Z|Darkshore|
 A As Water Cascades |QID|4812| |N|Sentinel Glynda Nal'Shea - (37.7, 43.4)| |O| |C|NightElf/Hunter/Druid/Warrior| |Z|Darkshore|
 T The Red Crystal |QID|4811| |N|Sentinel Glynda Nal'Shea - (37.7, 43.4)| |C|Hunter/Druid/Warrior| |Z|Darkshore|
@@ -143,6 +145,7 @@ T As Water Cascades |QID|4812| |N|Click the Mysterious Red Crystal - (47.3, 48.7
 A The Fragments Within |QID|4813| |N|Click the Mysterious Red Crystal - (47.3, 48.7)| |C|NightElf/Hunter/Druid/Warrior| |Z|Darkshore|
 N This will be used to level your [Cooking] to 10 later |N|(45.3, 44.8)| |O| |C|NightElf/Hunter/Druid/Warrior| |Z|Darkshore|
 C x20,cooking --Small Egg (1-9) |QID|2178| |L|6889 10| |N|Moonkin. Loot them for their [Small Eggs] (45.3, 44.8)| |O| |C|NightElf/Hunter/Druid/Warrior| |Z|Darkshore|
+H Auberdine |N|Hearth to Auberdine| |O| |C|NightElf/Hunter/Warrior/Druid| |Z|Darkshore|
 T The Fragments Within |QID|4813| |N|Sentinel Glynda Nal'Shea - (37.7, 43.4)| |C|NightElf/Hunter/Druid/Warrior| |Z|Darkshore|
 A Return to Nessa |QID|6343| |N|Laird - (36.8, 44.3)| |C|Druid| |Z|Darkshore|
 F Fly to Teldrassil |N|Caylais Moonfeather - (36.3, 45.6)| |C|Druid| |Z|Darkshore|
@@ -156,6 +159,7 @@ A Lessons Anew |QID|6121| |N|Mathrengyl Bearwalker - (35.4, 8.4)| |O| |C|Druid| 
 t Train your class spells |N|Mathrengyl Bearwalker - (35.4, 8.4)| |O| |C|Druid| |Z|Darnassus|
 T Lessons Anew |QID|6121| |N|Dendrite Starblaze up stairs - (56.2, 30.6)| |C|Druid| |Z|Moonglade|
 A The Principal Source |QID|6122| |N|Dendrite Starblaze up stairs - (56.2, 30.6)| |C|Druid| |Z|Moonglade|
+H Darkshore |N|Hearth to Darkshore| |O| |C|Druid| |Z|Moonglade|
 N Be careful as they [Flee] at <30% health |O| |C|Druid| |Z|Moonglade|
 C Strider Meat (5) |QID|2178| |L|5469 5| |N|Kill Foreststrider Fledglings. Loot them for their Strider Meat| |O| |C|Druid| |Z|Moonglade|
 C Buzzbox 323 |QID|1002| |OIDX|1| |N|Kill Moonstalker Runts. Loot them for their Moonstalker Fangs Moonstalker Fang (6)| |O| |C|NightElf/Hunter/Druid/Warrior| |Z|Moonglade|
@@ -279,9 +283,7 @@ C The Principal Source |QID|6122| |OIDX|1| |N|Use the [Empty Cliffspring Falls S
 N Stay on the upper section. If there is not a Death Cap at the end of the top side, drop down and get one from the southern room below |N|(55.9, 35.4)| |Z|Darkshore|
 N Be careful as Stormscale Wave Riders cast [Aqua Jet] (Ranged Instant: Deals damage to nearby enemies and knocks them back) - make sure you're not in a position to get knocked off the upper level of the cave |N|(55.9, 35.4)| |Z|Darkshore|
 C Cave Mushrooms |QID|947| |OIDX|1| |N|Loot the Scaber Stalks and a Death Cap on the ground Scaber Stalk (5)| |Z|Darkshore|
-N Be careful as they [Flee] at <30% health |O| |Z|Darkshore|
-C Strider Meat (5) |QID|2178| |L|5469 5| |N|Kill Foreststrider Fledglings. Loot them for their Strider Meat| |O| |Z|Darkshore|
-C Buzzbox 323 |QID|1002| |OIDX|1| |N|Kill Moonstalker Runts. Loot them for their Moonstalker Fangs Moonstalker Fang (6)| |O| |Z|Darkshore|
+N Die and respawn at the Spirit Healer |O| |C|!Druid| |R|NightElf| |Z|Darkshore|
 T The Cliffspring River |QID|4762| |N|Thundris Windweaver - (37.4, 40.1)| |Z|Darkshore|
 A The Blackwood Corrupted |QID|4763| |N|Thundris Windweaver - (37.4, 40.1)| |Z|Darkshore|
 A Easy Strider Living |QID|2178| |N|Alanndarian Nightsong - (37.7, 40.7)| |Z|Darkshore|
@@ -320,6 +322,7 @@ C Shrine Bauble (1) |QID|29| |L|15877 1| |N|Swim into Lake Elune'Ara (52.6, 51.6
 C Trial of the Lake |QID|29| |OIDX|1| |N|Use the [Shrine Bauble] at the Shrine of Remulos tree Complete the Trial of the Lake.| |C|Druid| |Z|Moonglade|
 T Trial of the Lake |QID|29| |N|Tajarri - (36.5, 40.1)| |C|Druid| |Z|Moonglade|
 A Trial of the Sea Lion |QID|272| |N|Tajarri - (36.5, 40.1)| |C|Druid| |Z|Moonglade|
+H Darkshore |N|Hearth to Darkshore| |O| |C|Druid| |Z|Moonglade|
 
 ]]
 end)

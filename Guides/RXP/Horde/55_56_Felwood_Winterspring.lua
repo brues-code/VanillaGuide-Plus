@@ -54,6 +54,7 @@ T The Essence of Eranikus |QID|3373| |N|Click the Essence Font (ST Dungeon Quest
 T The Temple of Atal'Hakkar |QID|1445| |N|Fel'zerul - (47.9, 54.8) (ST Dungeon Quest)| |D|ST| |Z|Swamp of Sorrows|
 N It is strongly advised you choose the [Diamond Flask] as your reward. Although the other rewards are also very good, you will not ever replace the [Diamond Flask] |N|(34.3, 66.1) (ST Dungeon Quest)| |C|Warrior| |D|ST| |Z|Swamp of Sorrows|
 T Voodoo Feathers |QID|8425| |N|the Fallen Hero of the Horde - (34.3, 66.1) (ST Dungeon Quest)| |C|Warrior| |D|ST| |Z|Swamp of Sorrows|
+H Camp Taurajo |N|Hearth to Camp Taurajo (ST Dungeon Quest)| |C|!Mage| |D|ST| |Z|Swamp of Sorrows|
 F Fly to Un'Goro Crater |N|Tal - (47.0, 49.8) (ST Dungeon Quest)| |C|Mage| |D|ST| |Z|Thunder Bluff|
 F Fly to Un'Goro Crater |N|Omusa - (44.5, 59.2) (ST Dungeon Quest)| |D|ST| |Z|The Barrens|
 T Zapper Fuel |QID|4146| |N|Larion - (45.5, 8.7) (ST Dungeon Quest)| |D|ST| |Z|Un'Goro Crater|
@@ -104,7 +105,7 @@ N Be careful of surrounding mobs. He has a 500 damage shock spell and hits very 
 C Rescue From Jaedenar |QID|5203| |OIDX|1| |N|Escort Arko'narin through Shadow Hold. After Arko'narin equips her armor, kill the 3 Felguard that spawn (35.4, 59.0)| |Z|Felwood|
 C Dousing the Flames of Protection |QID|5165| |OIDX|1| |N|Click the four Braziers on the ground (36.3, 56.3)| |Z|Felwood|
 C Corrupted Sabers |QID|4506| |OIDX|1| |N|Interact with the Corrupted Saber once you are standing next to Winna Hazzard| |O| |Z|Felwood|
-T Corrupted Sabers |QID|4506| |N|Approach Winna. the Corrupted Saber and then Winna - (34.2, 52.3)| |Z|Felwood|
+T Corrupted Sabers |QID|4506| |N|Approach Winna. Talk to the Corrupted Saber and then talk to Winna - (34.2, 52.3)| |Z|Felwood|
 R the the Timbermaw Hold Entrance |N|(64.7, 8.1)| |O| |Z|Felwood|
 A Deadwood of the North |QID|8461| |N|Nafien - (64.7, 8.1)| |Z|Felwood|
 N Kill Deadwood Avengers first. If you multi-pull it will enrage if any furbolgs die nearby |N|(62.7, 8.1)| |O| |Z|Felwood|
@@ -120,9 +121,8 @@ T Mystery Goo |QID|5085| |N|Donova - (31.3, 45.1)| |Z|Winterspring|
 A Toxic Horrors |QID|5086| |N|Donova - (31.3, 45.1)| |Z|Winterspring|
 T The Videre Elixir |QID|3909| |N|Donova Snowden - (31.3, 45.2)| |Z|Winterspring|
 A Meet at the Grave |QID|3912| |N|Donova Snowden - (31.3, 45.2)| |Z|Winterspring|
-N Blizzard has adjusted the quest chain for [The Videre Elixir] so it will no longer kill you on Official Hardcore Servers |N|(31.3, 45.2)| |Z|Winterspring|
-A Meet at the Grave |QID|3912| |N|Donova Snowden - (31.3, 45.2)| |Z|Winterspring|
 C Wild Guardians |QID|4521| |OIDX|2| |N|Kill Ragged Owlbeasts on your way to Everlook| |O| |Z|Winterspring|
+h Everlook |N|Set hearth in Everlook (61.4, 38.8)| |Z|Winterspring|
 B Sell your junk, then restock on food and water if necessary |N|Vizzie - (61.4, 38.8)| |C|!Rogue/!Warrior| |Z|Winterspring|
 B Sell your junk, then restock on food if necessary |N|Vizzie - (61.4, 38.8)| |C|Rogue/Warrior| |Z|Winterspring|
 A Are We There, Yeti? |QID|3783| |N|Umi - (60.9, 37.6)| |Z|Winterspring|
@@ -135,6 +135,7 @@ N Be careful, as this quest can be difficult |N|(63.4, 27.0)| |Z|Winterspring|
 C Ursius of the Shardtooth |QID|5054| |OIDX|1| |N|Ursius. You can kite him back to Everlook if needed. Remember to deal 51%+ damage (63.4, 27.0)| |Z|Winterspring|
 C Wild Guardians |QID|4521| |OIDX|1| |N|Raging Owlbeasts (55.1, 32.2)| |Z|Winterspring|
 C Are We There, Yeti? |QID|3783| |OIDX|1| |N|all types of Ice Thistle Yetis. Loot them for their Fur (68.4, 41.5)| |Z|Winterspring|
+H Hearth or Astrall Recall to Everlook |N|Hearth to Hearth or Astrall Recall to Everlook| |C|Shaman| |Z|Winterspring|
 B Sell your junk, then restock on food and water if necessary |N|Vizzie - (61.4, 38.8)| |C|!Rogue/!Warrior| |Z|Winterspring|
 B Sell your junk, then restock on food if necessary |N|Vizzie - (61.4, 38.8)| |C|Rogue/Warrior| |Z|Winterspring|
 T Ursius of the Shardtooth |QID|5054| |N|Storm - (61.9, 38.4)| |Z|Winterspring|
@@ -148,33 +149,18 @@ T Wild Guardians |QID|4521| |N|Trull - (34.7, 52.8)| |Z|Felwood|
 A Wild Guardians |QID|4741| |N|Trull - (34.7, 52.8)| |Z|Felwood|
 F Fly to Tanaris |N|Brakkar - (34.4, 54.0)| |O| |Z|Felwood|
 R Travel to Tanaris |N|(54.0, 28.6)| |O| |Z|Tanaris|
-N Blizzard has adjusted this quest so consuming this will NOT kill your character on Official Hardcore Servers. It will lower your health to 3% however. Ensure you bandage or eat food before leaving the graveyard |N|(54.0, 28.6)| |O| |Z|Tanaris|
-N Gaeriyan |N|(53.9, 23.3)| |Z|Tanaris|
-N You must have the [Near Death Experience] debuff to see Gaeriyan by drinking the [Videre Elixir] |N|(53.9, 23.3)| |Z|Tanaris|
-N Blizzard has adjusted this quest so consuming this will NOT kill your character on Official Hardcore Servers |N|(53.9, 23.3)| |Z|Tanaris|
-T Meet at the Grave |QID|3912| |N|Ensure you bandage or eat food before leaving the graveyard - (53.9, 23.3)| |Z|Tanaris|
-A A Grave Situation |QID|3913| |N|Ensure you bandage or eat food before leaving the graveyard - (53.9, 23.3)| |Z|Tanaris|
-N You must have the [Near Death Experience] debuff to see Gaeriyan by drinking the [Videre Elixir] |N|(53.9, 23.3)| |Z|Tanaris|
-N Blizzard has adjusted this quest so consuming this will NOT kill your character on Official Hardcore Servers |N|(53.9, 23.3)| |Z|Tanaris|
-A A Grave Situation |QID|3913| |N|Gaeriyan - (53.9, 23.3)| |Z|Tanaris|
 N You must be dead in order to speak to Gaeriyan |N|(53.9, 23.3)| |Z|Tanaris|
 T Meet at the Grave |QID|3912| |N|Gaeriyan - (53.9, 23.3)| |Z|Tanaris|
 A A Grave Situation |QID|3913| |N|Gaeriyan - (53.9, 23.3)| |Z|Tanaris|
 T A Grave Situation |QID|3913| |N|the Conspicuous Gravestone - (53.8, 29.1)| |Z|Tanaris|
 A Linken's Sword |QID|3914| |N|the Conspicuous Gravestone - (53.8, 29.1)| |Z|Tanaris|
-T A Grave Situation |QID|3913| |N|the Conspicuous Gravestone - (53.8, 29.1)| |Z|Tanaris|
-A Linken's Sword |QID|3914| |N|the Conspicuous Gravestone - (53.8, 29.1)| |Z|Tanaris|
-F Fly to Un'Goro Crater |N|Bulkrek - (51.6, 25.5)| |Z|Tanaris|
-T Linken's Sword |QID|3914| |N|Linken - (44.7, 8.1)| |Z|Un'Goro Crater|
-A A Gnome's Assistance |QID|3941| |N|Linken - (44.7, 8.1)| |Z|Un'Goro Crater|
-T A Gnome's Assistance |QID|3941| |N|J.D. Collie - (41.9, 2.7)| |Z|Un'Goro Crater|
-A Linken's Memory |QID|3942| |N|J.D. Collie - (41.9, 2.7)| |Z|Un'Goro Crater|
 F Fly to Un'Goro Crater |N|Bulkrek - (51.6, 25.5)| |Z|Tanaris|
 T Linken's Sword |QID|3914| |N|Linken - (44.7, 8.1)| |Z|Un'Goro Crater|
 A A Gnome's Assistance |QID|3941| |N|Linken - (44.7, 8.1)| |Z|Un'Goro Crater|
 T A Gnome's Assistance |QID|3941| |N|J.D. Collie - (41.9, 2.7)| |Z|Un'Goro Crater|
 A Linken's Memory |QID|3942| |N|J.D. Collie - (41.9, 2.7)| |Z|Un'Goro Crater|
 t Train your class spells |N|Loganaar - (52.5, 40.6)| |C|Druid| |Z|Moonglade|
+H Winterspring |N|Hearth to Winterspring| |Z|Moonglade|
 B Sell your junk, then restock on food and water if necessary |N|Vizzie - (61.4, 38.8)| |C|!Rogue/!Warrior| |Z|Winterspring|
 B Sell your junk, then restock on food if necessary |N|Vizzie - (61.4, 38.8)| |C|Rogue/Warrior| |Z|Winterspring|
 N This quest is HARD. Group up or skip this quest if needed |N|(58.8, 63.5)| |Z|Winterspring|
@@ -185,8 +171,10 @@ C Wild Guardians |QID|4741| |OIDX|1| |N|Moontouched Owlbeasts (65.0, 59.8)| |O| 
 C Strange Sources |QID|4842| |OIDX|1| |N|Head to the border of Darkwhisper Gorge (60.1, 73.3)| |Z|Winterspring|
 N This is a hard quest to solo, skip this quest if you have to |N|(60.4, 65.3)| |C|Hunter| |Z|Winterspring|
 C Luck Be With You |QID|969| |OIDX|1| |N|the Frostmaul Shards around the outer perimeter of the canyon. Use your pet to bait the Frostmaul Giants away from the crystals. Run away after looting one (60.4, 65.3)| |C|Hunter| |Z|Winterspring|
+N Click here for video reference |N|(60.4, 65.3)| |C|Hunter| |Z|Winterspring|
 N Their moonfire hits fairly hard, and their rejuvenation is strong |N|(65.0, 62.7)| |Z|Winterspring|
 C Wild Guardians |QID|4741| |OIDX|1| |N|Moontouched Owlbeasts (65.0, 62.7)| |Z|Winterspring|
+N Die and respawn at the Spirit Healer |O| |Z|Winterspring|
 T Luck Be With You |QID|969| |N|Witch Doctor Mau'ari - (61.9, 38.3)| |C|Hunter| |Z|Winterspring|
 T Brumeran of the Chillwind |QID|5055| |N|Storm - (61.9, 38.4)| |Z|Winterspring|
 A The Everlook Report |QID|6029| |N|Gregor Greystone and Jessica Redpath - (61.3, 39.0)| |Z|Winterspring|
@@ -202,8 +190,6 @@ T Dousing the Flames of Protection |QID|5165| |N|Greta - (51.2, 82.1)| |Z|Felwoo
 A A Final Blow |QID|5242| |N|Greta - (51.2, 82.1)| |Z|Felwood|
 T Rescue From Jaedenar |QID|5203| |N|Jessir - (51.3, 82.0)| |Z|Felwood|
 A Retribution of the Light |QID|5204| |N|Jessir - (51.3, 82.0)| |Z|Felwood|
-T Linken's Memory |QID|3942| |N|Eridan Bluewind - (51.4, 81.5)| |Z|Felwood|
-A Silver Heart |QID|4084| |N|Eridan Bluewind - (51.4, 81.5)| |Z|Felwood|
 T Linken's Memory |QID|3942| |N|Eridan Bluewind - (51.4, 81.5)| |Z|Felwood|
 A Silver Heart |QID|4084| |N|Eridan Bluewind - (51.4, 81.5)| |Z|Felwood|
 C Silver Heart |QID|4084| |OIDX|1| |N|Kill Bears and Wolves in Felwood. Loot them for their Silvery Claws| |O| |Z|Felwood|
@@ -231,17 +217,15 @@ N The Runner's located at the cauldron in the northwest of Felpaw Village |N|(60
 C Winterfall Runners |QID|5087| |OIDX|1| |N|Winterfall Runners - (60.2, 5.9)| |Z|Felwood|
 T Winterfall Runners |QID|5087| |N|Donova - (31.3, 45.2)| |Z|Winterspring|
 A High Chief Winterfall |QID|5121| |N|Donova - (31.3, 45.2)| |Z|Winterspring|
+N Die and respawn at the Spirit Healer in Everlook |O| |C|!Mage| |Z|Winterspring|
 F Fly to Felwood |N|Yugrek` - (60.5, 36.3)| |C|!Mage| |Z|Winterspring|
-R Go back to the Furbolg tunnel and take the north exit into Moonglade |N|(32.1, 66.6)| |O| |C|!Mage| |Z|Moonglade|
-F Fly to Felwood |N|Faustron - (32.1, 66.6)| |C|!Mage| |Z|Moonglade|
 F Fly to Splintertree Post |N|Doras - (45.1, 63.9)| |C|Mage| |Z|Orgrimmar|
 R Travel to Ashenvale |N|(55.8, 28.1)| |O| |C|Mage| |Z|Ashenvale|
 T A Final Blow |QID|5242| |N|Greta - (51.2, 82.2)| |Z|Felwood|
 T The Remains of Trey Lightforge |QID|5385| |N|Jessir - (51.4, 82.0)| |Z|Felwood|
 T Silver Heart |QID|4084| |N|Eridan Bluewind - (51.4, 81.5)| |Z|Felwood|
 A Aquementas |QID|4005| |N|Eridan Bluewind - (51.4, 81.5)| |Z|Felwood|
-T Silver Heart |QID|4084| |N|Eridan Bluewind - (51.4, 81.5)| |Z|Felwood|
-A Aquementas |QID|4005| |N|Eridan Bluewind - (51.4, 81.5)| |Z|Felwood|
+H Winterspring |N|Hearth to Winterspring| |C|!Mage| |Z|Felwood|
 F Fly to Orgrimmar |N|Yugrek - (60.5, 36.3)| |C|!Mage| |Z|Winterspring|
 F Fly to Orgrimmar |N|Vhulgra - (73.2, 61.6)| |C|!Mage| |Z|Ashenvale|
 t Train your class spells |N|Ur'kyo - (35.6, 87.8)| |C|Priest| |Z|Orgrimmar|

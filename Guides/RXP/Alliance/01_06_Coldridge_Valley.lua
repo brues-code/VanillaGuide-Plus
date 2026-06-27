@@ -14,6 +14,7 @@ t Training (348) |N|Grundel Harkin inside - (28.8, 67.8)| |C|Warlock| |Z|Ironfor
 t Train [Battle Shout] |N|Thran Khorman inside - (28.8, 67.2)| |C|Warrior| |Z|Ironforge|
 t Train [Immolate] |N|Alamar Grimm inside - (28.6, 66.1)| |C|Warlock| |Z|Dun Morogh|
 A Beginnings |QID|1599| |N|Alamar Grimm inside - (28.6, 66.1)| |C|Warlock| |Z|Dun Morogh|
+H Coldridge Valley |N|Hearth to Coldridge Valley| |O| |C|Warrior/Warlock| |Z|Dun Morogh|
 R Travel to Ironforge |N|(28.9, 68.4)| |O| |C|Warlock| |Z|Ironforge|
 R Exit Anvilmar |N|(28.8, 68.7)| |O| |C|Warlock| |Z|Ironforge|
 C Dwarven Outfitters |QID|179| |OIDX|1| |N|Ragged Young Wolves. Loot them for their Tough Wolf Meat Collect Tough Wolf Meat (x8)| |Z|Ironforge|
@@ -44,6 +45,7 @@ R Enter the Frostmane Cave |N|(26.9, 79.8)| |O| |C|Warlock| |Z|Dun Morogh|
 R Travel to Ironforge |N|(27.9, 81.1)| |O| |C|Warlock| |Z|Ironforge|
 R Travel toward the Frostmane Novices inside |N|(28.7, 83.1)| |O| |C|Warlock| |Z|Ironforge|
 C Beginnings |QID|1599| |OIDX|1| |N|Frostmane Novices inside. Loot them for their Feather Charms Collect Feather Charm (x3)| |C|Warlock| |Z|Ironforge|
+N Die and respawn at the Spirit Healer |O| |C|Warlock| |Z|Ironforge|
 R Enter Anvilmar |N|(28.9, 68.4)| |O| |C|Warlock| |Z|Ironforge|
 T Beginnings |QID|1599| |N|Alamar Grimm upstairs - (28.6, 66.1)| |C|Warlock| |Z|Dun Morogh|
 R Travel to Ironforge |N|(19.6, 72.1)| |O| |Z|Ironforge|
@@ -72,7 +74,6 @@ T Consecrated Rune |QID|3107| |N|Bromos Grummner inside - (28.8, 68.3)| |C|Palad
 t Train [Blessing of Might] & [Judgement] |N|Bromos Grummner inside - (28.8, 68.3)| |C|Paladin| |Z|Dun Morogh|
 T Tainted Memorandum |QID|3115| |N|Alamar Grimm upstairs - (28.6, 66.1)| |C|Warlock| |Z|Dun Morogh|
 t Train [Corruption] |N|Alamar Grimm upstairs - (28.6, 66.1)| |C|Warlock| |Z|Dun Morogh|
-R Exit Anvilmar |N|(28.8, 68.8)| |O| |C|Paladin/Warlock/Hunter| |Z|Ironforge|
 T A New Threat |QID|170| |N|Balir Frosthammer - (29.7, 71.3)| |C|Paladin/Warlock/Hunter| |Z|Dun Morogh|
 N Vendor Trash |N|(30.1, 71.6)| |C|Warlock| |Z|Dun Morogh|
 N Buy 15 [Refreshing Spring Water] from him |N|(30.1, 71.6)| |C|Warlock| |Z|Dun Morogh|
@@ -88,10 +89,7 @@ A Scalding Mornbrew Delivery |QID|3364| |N|Nori Pridedrift - (25.0, 76.0)| |C|!P
 R Enter the Frostmane Cave |N|(27.1, 80.7)| |O| |Z|Ironforge|
 R Travel towards Grik'nir the Cold inside |N|(30.5, 80.2)| |O| |Z|Ironforge|
 C The Stolen Journal |QID|218| |OIDX|1| |N|Grik'nir the Cold inside. Loot him for Grelin Whitebeard's Journal Collect Grelin Whitebeard's Journal (x1)| |Z|Ironforge|
-R Exit the Frostmane Cave |N|(27.1, 80.7)| |O| |Z|Ironforge|
-A Scalding Mornbrew Delivery |QID|3364| |N|Nori Pridedrift - (25.0, 76.0)| |C|!Paladin/!Warlock/!Hunter| |Z|Dun Morogh|
-T The Stolen Journal |QID|218| |N|Grelin Whitebeard - (25.1, 75.7)| |Z|Dun Morogh|
-A Senir's Observations |QID|282| |N|Grelin Whitebeard - (25.1, 75.7)| |Z|Dun Morogh|
+N Die and respawn at the Spirit Healer |O| |C|!Paladin/!Warlock/!Hunter| |Z|Ironforge|
 A Bring Back the Mug |QID|3365| |N|Durnan Furcutter - (28.8, 66.4)| |O| |C|!Paladin/!Warlock/!Hunter| |Z|Dun Morogh|
 B Vendor Trash |N|Durnan Furcutter - (28.8, 66.4)| |O| |C|!Paladin/!Warlock/!Hunter| |Z|Dun Morogh|
 A Scalding Mornbrew Delivery |QID|3364| |N|Nori Pridedrift and Grelin Whitebeard - (25.0, 76.0)| |O| |C|!Paladin/!Warlock/!Hunter| |Z|Dun Morogh|
@@ -99,8 +97,6 @@ T The Stolen Journal |QID|218| |N|Nori Pridedrift and Grelin Whitebeard - (25.0,
 A Senir's Observations |QID|282| |N|Nori Pridedrift and Grelin Whitebeard - (25.0, 76.0)| |O| |C|!Paladin/!Warlock/!Hunter| |Z|Dun Morogh|
 T Scalding Mornbrew Delivery |QID|3364| |N|Durnan Furcutter - (28.8, 66.4)| |O| |C|!Paladin/!Warlock/!Hunter| |Z|Dun Morogh|
 A Bring Back the Mug |QID|3365| |N|Durnan Furcutter - (28.8, 66.4)| |O| |C|!Paladin/!Warlock/!Hunter| |Z|Dun Morogh|
-T Scalding Mornbrew Delivery |QID|3364| |N|Durnan Furcutter - (28.8, 66.4)| |C|!Paladin/!Warlock/!Hunter| |Z|Dun Morogh|
-A Bring Back the Mug |QID|3365| |N|Durnan Furcutter - (28.8, 66.4)| |C|!Paladin/!Warlock/!Hunter| |Z|Dun Morogh|
 T Glyphic Memorandum |QID|3114| |N|Marryk Nurribit inside - (28.7, 66.4)| |C|Mage| |R|Gnome| |Z|Dun Morogh|
 t Train [Arcane Intellect] & [Frostbolt] |N|Marryk Nurribit inside - (28.7, 66.4)| |C|Mage| |Z|Dun Morogh|
 T Encrypted Memorandum |QID|3113| |N|Solm Hargrin - (28.4, 67.5)| |C|Rogue| |R|Gnome| |Z|Dun Morogh|

@@ -48,6 +48,7 @@ F Fly to Southshore |N|Cedrik Prose - (45.7, 46.1)| |Z|Arathi Highlands|
 T Southshore |QID|538| |N|Loremaster Dibbs - (50.6, 57.1)| |Z|Hillsbrad Foothills|
 T Hints of a New Plague? |QID|661| |N|Phin Odelic - (50.3, 59.0)| |Z|Hillsbrad Foothills|
 R Innkeeper Anderson |N|(51.2, 58.9)| |Z|Hillsbrad Foothills|
+h Southshore |N|Set hearth in Southshore (51.2, 58.9)| |Z|Hillsbrad Foothills|
 T Down the Scarlet Path |QID|1052| |N|Raleigh the Devout up stairs - (51.5, 58.4)| |Z|Hillsbrad Foothills|
 A In the Name of the Light |QID|1053| |N|Raleigh the Devout up stairs - (51.5, 58.4) (SM Dungeon Quest)| |D|SM| |Z|Hillsbrad Foothills|
 A Crushridge Bounty |QID|500| |N|Marshal Redpath - (49.5, 58.7)| |Z|Hillsbrad Foothills|
@@ -67,6 +68,7 @@ N High Inquisitor Whitemane and Scarlet Commander Mograine are located in the Ca
 C In the Name of the Light |QID|1053| |OIDX|4| |N|Kill Houndmaster Loksey, Herod, High Inquisitor Whitemane and Scarlet Commander Mograine (SM Dungeon Quest)| |D|SM| |Z|Westfall|
 N This can spawn randomly on the ground or in bookshelves throughout the Library wing |N|(SM Dungeon Quest)| |D|SM| |Z|Westfall|
 C Mythology of the Titans |QID|1050| |OIDX|1| |N|Loot the Mythology of the Titans (SM Dungeon Quest)| |D|SM| |Z|Westfall|
+H Southshore |N|Hearth to Southshore (SM Dungeon Quest)| |D|SM| |Z|Westfall|
 N Buy food/water if needed |N|(SM Dungeon Quest)| |C|!Warrior/!Rogue| |D|SM| |Z|Westfall|
 N Buy food if needed |N|(SM Dungeon Quest)| |C|Warrior/Rogue| |D|SM| |Z|Westfall|
 A Preserving Knowledge |QID|540| |N|Loremaster Dibbs - (50.6, 57.1) (!SM Dungeon Quest)| |D|!SM| |Z|Hillsbrad Foothills|
@@ -117,9 +119,9 @@ T Crushridge Bounty |QID|500| |N|Marshal Redpath - (49.5, 58.7)| |Z|Hillsbrad Fo
 T Noble Deaths |QID|512| |N|Magistrate Henry Maleb - (48.1, 59.1)| |Z|Hillsbrad Foothills|
 T Dark Council |QID|537| |N|Magistrate Henry Maleb - (48.1, 59.1)| |Z|Hillsbrad Foothills|
 T Baron's Demise |QID|523| |N|Magistrate Henry Maleb - (48.1, 59.1)| |Z|Hillsbrad Foothills|
-C Use the [Ensorcelled Parchment] to start the quest then Loremaster Dibbs to turn it in |QID|551| |L|3706 1| |N|Use the [Ensorcelled Parchment] to start the quest then Loremaster Dibbs to turn it in - (50.6, 57.1)| |O| |Z|Hillsbrad Foothills|
-A The Ensorcelled Parchment |QID|551| |N|Use the [Ensorcelled Parchment] to start the quest then Loremaster Dibbs to turn it in - (50.6, 57.1)| |O| |Z|Hillsbrad Foothills|
-T The Ensorcelled Parchment |QID|551| |N|Use the [Ensorcelled Parchment] to start the quest then Loremaster Dibbs to turn it in - (50.6, 57.1)| |O| |Z|Hillsbrad Foothills|
+C Use the [Ensorcelled Parchment] to start the quest then talk to Loremaster Dibbs to turn it in |QID|551| |L|3706 1| |N|Use the [Ensorcelled Parchment] to start the quest then talk to Loremaster Dibbs to turn it in - (50.6, 57.1)| |O| |Z|Hillsbrad Foothills|
+A The Ensorcelled Parchment |QID|551| |N|Use the [Ensorcelled Parchment] to start the quest then talk to Loremaster Dibbs to turn it in - (50.6, 57.1)| |O| |Z|Hillsbrad Foothills|
+T The Ensorcelled Parchment |QID|551| |N|Use the [Ensorcelled Parchment] to start the quest then talk to Loremaster Dibbs to turn it in - (50.6, 57.1)| |O| |Z|Hillsbrad Foothills|
 T Preserving Knowledge |QID|540| |N|Loremaster Dibbs - (50.6, 57.1)| |Z|Hillsbrad Foothills|
 A Hints of a New Plague? |QID|659| |N|Phin Odelic - (50.3, 59.0)| |Z|Hillsbrad Foothills|
 N Make sure the Forsaken Courier doesn't sneak past you as you do this! |N|(25.5, 30.1)| |C|!Warrior| |Z|Arathi Highlands|
@@ -151,11 +153,14 @@ C Stones of Binding |QID|651| |OIDX|1| |N|the Stone of West Binding. Loot it for
 C Burning Exiles. Loot them for their Burning Charms |QID|1712| |L|4479 8| |N|Burning Exiles. Loot them for their Burning Charms - (66.8, 29.8)| |C|Warrior| |Z|Arathi Highlands|
 R Chillwind Point in Alterac Mountains |N|(79.3, 66.8)| |O| |C|Warrior| |Z|Alterac Mountains|
 C Cyclonian |QID|1712| |OIDX|3| |N|Bath'rah's Cauldron (79.3, 66.8)| |C|Warrior| |Z|Alterac Mountains|
+N Click here for video reference |O| |C|Warrior| |Z|Alterac Mountains|
 T Cyclonian |QID|1712| |N|Bath'rah the Windwatcher - (80.5, 66.9)| |C|Warrior| |Z|Alterac Mountains|
 A The Summoning |QID|1713| |N|Bath'rah the Windwatcher - (80.5, 66.9)| |C|Warrior| |Z|Alterac Mountains|
+N Click here for video reference |N|(80.5, 66.9)| |C|Warrior| |Z|Alterac Mountains|
 N Kill Cyclonian. Loot him for his Whirlwind Heart |N|(80.7, 62.1)| |C|Warrior| |Z|Alterac Mountains|
 N Cyclonian hits fairly hard, but can be soloed. Be sure to check the video for pointers on how to do so |N|(80.7, 62.1)| |C|Warrior| |Z|Alterac Mountains|
 C The Summoning |QID|1713| |OIDX|1| |N|Follow Bath'rah the Windwatcher to where he will summon Cyclonian (80.7, 62.1)| |C|Warrior| |Z|Alterac Mountains|
+N Click here for video reference |N|(80.7, 62.1)| |C|Warrior| |Z|Alterac Mountains|
 T The Summoning |QID|1713| |N|Bath'rah the Windwatcher - (80.5, 66.9)| |C|Warrior| |Z|Alterac Mountains|
 N The [Whirlwind Axe] is the best reward out of them all. However, if you do wish to choose a different weapon, it's only a small loss |N|(80.5, 66.9)| |C|Warrior| |Z|Alterac Mountains|
 T Whirlwind Weapon |QID|1792| |N|Bath'rah the Windwatcher - (80.5, 66.9)| |C|Warrior| |Z|Alterac Mountains|
@@ -169,6 +174,8 @@ N Their patrol path is marked on your map |Z|Arathi Highlands|
 N Cast [Eagle Eye] to try and find Fozruk |C|Hunter| |Z|Arathi Highlands|
 N After you deleash the kobolds and have only Fozruk on you kill him by keeping him [Feared] |C|Warlock| |Z|Arathi Highlands|
 C Breaking the Keystone |QID|652| |OIDX|1| |N|Try to splitpull him. This will allow you to avoid fighting the kobolds he patrols with| |Z|Arathi Highlands|
+N Click here for video reference |C|Hunter/Warlock| |Z|Arathi Highlands|
+N Click here for a reference video about splitpulling |Z|Arathi Highlands|
 N If you are still in a group, hand in this quest while with your party! Thenan, a level 42 Elite will spawn. You can either kill him or run away and reset him if you're solo |N|(36.1, 58.1)| |Z|Arathi Highlands|
 T Breaking the Keystone |QID|652| |N|on the Keystone - (36.1, 58.1)| |Z|Arathi Highlands|
 A Myzrael's Allies |QID|653| |N|on the Keystone - (36.1, 58.1) (!SM Dungeon Quest)| |D|!SM| |Z|Arathi Highlands|
@@ -182,6 +189,7 @@ N Cast [Eagle Eye] to try and find which location she is in |N|(29.6, 63.0)| |C|
 C Wanted! Marez Cowl |QID|684| |OIDX|1| |N|Marez Cowl. Loot her for her Head (29.6, 63.0)| |Z|Arathi Highlands|
 R Escape Stromgarde through the hole in the wall in the south of the Ogre area. You can do this by jumping up on either side of the metal railings near the bent lamp post and running over to it |N|(21.2, 70.3)| |O| |Z|Arathi Highlands|
 R Head to Faldir's Cove, follow the path between the mountains and Stromgarde's southeastern wall |N|(22.0, 79.8)| |O| |Z|Arathi Highlands|
+N Click here for video reference |N|(22.0, 79.8)| |O| |Z|Arathi Highlands|
 A Land Ho! |QID|663| |N|Lolo the Lookout - (31.8, 82.7)| |Z|Arathi Highlands|
 T Land Ho! |QID|663| |N|Shakes O'Breen - (32.3, 81.4)| |Z|Arathi Highlands|
 A Deep Sea Salvage |QID|662| |N|First Mate Nilzlix - (32.8, 81.5)| |Z|Arathi Highlands|
@@ -195,6 +203,7 @@ C Sunken Treasure |QID|665| |OIDX|1| |N|Escort Professor Phizzlethorpe into the 
 T Sunken Treasure |QID|665| |N|Doctor Draxlegauge - (33.9, 80.4)| |Z|Arathi Highlands|
 A Sunken Treasure |QID|666| |N|Doctor Draxlegauge - (33.9, 80.4)| |Z|Arathi Highlands|
 N PAY CLOSE ATTENTION TO YOUR BREATH BAR IF YOU DO NOT HAVE ONE! |O| |C|!Warlock/!Druid| |Z|Arathi Highlands|
+N Equip your [Goggles of Gem Hunting] so the Elven Gems show up on your minimap |O| |Z|Arathi Highlands|
 N Ensure you have buffed yourself with [Unending Breath] |O| |C|Warlock| |Z|Arathi Highlands|
 N Cast [Aquatic Form] once your Breath Bar gets low |O| |C|Druid| |Z|Arathi Highlands|
 C Sunken Treasure |QID|666| |OIDX|1| |N|Loot the Elven Gems on the sea floor| |O| |Z|Arathi Highlands|
@@ -206,11 +215,13 @@ C Deep Sea Salvage |QID|662| |OIDX|1| |N|Maiden's Folly Charts on the 2nd floor 
 R Swim to the other sunken ship |N|(20.5, 85.6)| |O| |Z|Arathi Highlands|
 C Deep Sea Salvage |QID|662| |OIDX|3| |N|the Spirit of Silverpine Charts on the 2nd floor of the ship. It is on top of the Crate next to the Cannon (20.5, 85.6)| |Z|Arathi Highlands|
 C Deep Sea Salvage |QID|662| |OIDX|4| |N|the Spirit of Silverpine Charts on the bottom of the ship. It is on the sea floor (20.6, 85.1)| |Z|Arathi Highlands|
+N Equip your [Goggles of Gem Hunting] so the Elven Gems show up on your minimap |O| |Z|Arathi Highlands|
 N Ensure you have buffed yourself with [Unending Breath] |O| |C|Warlock| |Z|Arathi Highlands|
 N Cast [Aquatic Form] once your Breath Bar gets low |O| |C|Druid| |Z|Arathi Highlands|
 C Sunken Treasure |QID|666| |OIDX|1| |N|Loot the Elven Gems on the sea floor| |O| |Z|Arathi Highlands|
 N Be aware the Daggerspine Raiders will cast [Net] on you |N|(19.3, 84.1)| |Z|Arathi Highlands|
 C Drowned Sorrows |QID|664| |OIDX|1| |N|Daggerspine Raiders and Daggerspine Sorceresses (19.3, 84.1)| |Z|Arathi Highlands|
+N Equip your [Goggles of Gem Hunting] so the Elven Gems show up on your minimap |N|(22.7, 88.6)| |Z|Arathi Highlands|
 N Ensure you have buffed yourself with [Unending Breath] |N|(22.7, 88.6)| |C|Warlock| |Z|Arathi Highlands|
 N Cast [Aquatic Form] once your Breath Bar gets low |N|(22.7, 88.6)| |C|Druid| |Z|Arathi Highlands|
 C Sunken Treasure |QID|666| |OIDX|1| |N|the Elven Gems on the sea floor (22.7, 88.6)| |Z|Arathi Highlands|
@@ -220,6 +231,7 @@ T Sunken Treasure |QID|666| |N|Captain Steelgut and Doctor Draxlegauge - (34.0, 
 A Sunken Treasure |QID|668| |N|Captain Steelgut and Doctor Draxlegauge - (34.0, 80.8)| |Z|Arathi Highlands|
 T Sunken Treasure |QID|668| |N|Shakes O'Breen - (32.3, 81.4)| |Z|Arathi Highlands|
 A Sunken Treasure |QID|669| |N|Shakes O'Breen - (32.3, 81.4)| |Z|Arathi Highlands|
+N Die and respawn at the Spirit Healer next to Refuge Pointe |Z|Arathi Highlands|
 A Myzrael's Allies |QID|653| |N|on the Keystone - (36.1, 58.1) (SM Dungeon Quest)| |D|SM| |Z|Arathi Highlands|
 T Wanted! Marez Cowl |QID|684| |N|Captain Nials - (45.8, 47.5)| |C|Hunter/Druid/Rogue| |Z|Arathi Highlands|
 T Wanted! Marez Cowl |QID|684| |N|Captain Nials - (45.8, 47.5)| |Z|Arathi Highlands|
@@ -232,6 +244,7 @@ T An Apprentice's Enchantment |QID|695| |N|Skuerto - (46.7, 47.0)| |Z|Arathi Hig
 N Loganaar |N|(52.5, 40.6)| |C|Druid| |Z|Arathi Highlands|
 R Travel to Moonglade |N|(52.5, 40.6)| |C|Druid| |Z|Moonglade|
 t Train your class spells |N|Teleport to Moonglade - (52.5, 40.6)| |C|Druid| |Z|Moonglade|
+H Southshore |N|Hearth to Southshore| |O| |Z|Moonglade|
 N Buy food/water if needed |O| |C|!Warrior/!Rogue| |Z|Moonglade|
 N Buy food if needed |O| |C|Warrior/Rogue| |Z|Moonglade|
 R Travel to Arathi Highlands |N|(45.7, 46.1)| |O| |Z|Arathi Highlands|
@@ -244,20 +257,8 @@ F Fly to Wetlands |N|Darla Harris - (49.3, 52.3) (RFD Dungeon Quest)| |D|RFD| |Z
 F Fly to Ironforge |N|Darla Harris - (49.3, 52.3) (!RFD Dungeon Quest)| |C|!Warlock/!Paladin| |D|!RFD| |Z|Hillsbrad Foothills|
 F Fly to Wetlands |N|Darla Harris - (49.3, 52.3) (!RFD Dungeon Quest)| |C|!Warlock/!Paladin| |D|!RFD| |Z|Hillsbrad Foothills|
 F Fly to Ironforge |N|Darla Harris - (49.3, 52.3) (!RFD Dungeon Quest)| |C|Warlock/Paladin| |D|!RFD| |Z|Hillsbrad Foothills|
-F Fly to Arathi Highlands |N|Darla Harris - (49.3, 52.3)| |Z|Hillsbrad Foothills|
-T Wanted! Marez Cowl |QID|684| |N|Captain Nials - (45.8, 47.5)| |C|Hunter/Druid/Rogue| |Z|Arathi Highlands|
-T Wanted! Marez Cowl |QID|684| |N|Captain Nials - (45.8, 47.5)| |Z|Arathi Highlands|
-T Wanted! Otto and Falconcrest |QID|685| |N|Captain Nials - (45.8, 47.5)| |Z|Arathi Highlands|
-T Wanted! Marez Cowl |QID|684| |N|Captain Nials - (45.8, 47.5)| |Z|Arathi Highlands|
-T Wanted! Otto and Falconcrest |QID|685| |N|Captain Nials - (45.8, 47.5)| |Z|Arathi Highlands|
-T Trelane's Defenses |QID|694| |N|Apprentice Kryten - (46.2, 47.8)| |Z|Arathi Highlands|
-A An Apprentice's Enchantment |QID|695| |N|Apprentice Kryten - (46.2, 47.8)| |Z|Arathi Highlands|
-T An Apprentice's Enchantment |QID|695| |N|Skuerto - (46.7, 47.0)| |Z|Arathi Highlands|
-F Fly to Wetlands |N|Cedrik Prose - (45.6, 46.0) (RFD Dungeon Quest)| |D|RFD| |Z|Arathi Highlands|
-F Fly to Ironforge |N|Cedrik Prose - (45.6, 46.0) (!RFD Dungeon Quest)| |C|!Warlock/!Paladin| |D|!RFD| |Z|Arathi Highlands|
-F Fly to Wetlands |N|Cedrik Prose - (45.6, 46.0) (!RFD Dungeon Quest)| |C|!Warlock/!Paladin| |D|!RFD| |Z|Arathi Highlands|
-F Fly to Ironforge |N|Cedrik Prose - (45.6, 46.0) (!RFD Dungeon Quest)| |C|Warlock/Paladin| |D|!RFD| |Z|Arathi Highlands|
 R Innkeeper Helbrek |N|(10.7, 61.0) (RFD Dungeon Quest)| |D|RFD| |Z|Wetlands|
+h Menethil Harbor |N|Set hearth in Menethil Harbor (10.7, 61.0) (RFD Dungeon Quest)| |D|RFD| |Z|Wetlands|
 F Fly to Ironforge |N|Shellei - (9.5, 59.7) (RFD Dungeon Quest)| |D|RFD| |Z|Wetlands|
 T Mythology of the Titans |QID|1050| |N|Librarian Mae Paledust - (75.0, 12.5) (SM Dungeon Quest)| |D|SM| |Z|Ironforge|
 T Stormpike's Deciphering |QID|554| |N|Prospector Stormpike - (74.6, 11.7) (SM Dungeon Quest)| |D|SM| |Z|Ironforge|
@@ -271,14 +272,11 @@ A The Tome of Nobility |QID|1661| |N|Duthorian Rall - (39.8, 29.8)| |C|Paladin| 
 T The Tome of Nobility |QID|1661| |N|Duthorian Rall - (39.8, 29.8)| |C|Paladin| |Z|Stormwind City|
 t Train your class spells |N|Arthur the Faithful - (38.7, 32.8)| |C|Paladin| |Z|Stormwind City|
 A Bring the Light |QID|3636| |N|Archbishop Benedictus - (39.6, 27.2) (RFD Dungeon Quest)| |D|RFD| |Z|Stormwind City|
+N Click here to Copy + Paste this macro once you're inside The Stockades to ghetto Hearth to Wetlands |N|(39.8, 54.4) (RFD Dungeon Quest)| |D|RFD| |Z|Stormwind City|
 R Travel to Ironforge |N|(55.5, 47.7) (!RFD Dungeon Quest)| |C|Warlock| |D|!RFD| |Z|Ironforge|
 N Gryth Thurden |N|(66.3, 62.1) (!RFD Dungeon Quest)| |C|Warlock| |D|!RFD| |Z|Stormwind City|
 N Dungar Longdrink |N|(66.3, 62.1) (!RFD Dungeon Quest)| |C|Paladin| |D|!RFD| |Z|Stormwind City|
 F Fly to Wetlands |N|Darla Harris - (66.3, 62.1) (!RFD Dungeon Quest)| |D|!RFD| |Z|Stormwind City|
-R Cedrik Prose |N|(45.6, 46.0) (!RFD Dungeon Quest)| |C|!Warlock/!Paladin| |D|!RFD| |Z|Arathi Highlands|
-R Travel to Ironforge |N|(55.5, 47.7) (!RFD Dungeon Quest)| |C|Warlock| |D|!RFD| |Z|Ironforge|
-N Dungar Longdrink |N|(66.3, 62.1) (!RFD Dungeon Quest)| |C|Paladin| |D|!RFD| |Z|Stormwind City|
-F Fly to Wetlands |N|Gryth Thurden - (66.3, 62.1) (!RFD Dungeon Quest)| |D|!RFD| |Z|Stormwind City|
 F Fly to Wetlands |N|Gryth Thurden - (55.5, 47.7) (!RFD Dungeon Quest)| |C|!Warlock/!Paladin| |D|!RFD| |Z|Ironforge|
 
 ]]

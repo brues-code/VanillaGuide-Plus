@@ -36,6 +36,7 @@ C The Swamp Talker |QID|2623| |OIDX|1| |N|Swamp Talker. Loot him for the Warchie
 N These spawn at a higher rate in Stagalbog Cave west of the camp |N|(63.8, 91.6)| |Z|Swamp of Sorrows|
 C Continued Threat |QID|1428| |OIDX|1| |N|Marsh Murlocs, Marsh Inkspewers and Marsh Flesheaters (63.8, 91.6)| |Z|Swamp of Sorrows|
 T Continued Threat |QID|1428| |N|Katar - (83.7, 80.4)| |Z|Swamp of Sorrows|
+N Die and respawn at the Spirit Healer |O| |Z|Swamp of Sorrows|
 t Train your class spells |N|Ogrom - (47.3, 53.4)| |C|Hunter| |Z|Swamp of Sorrows|
 t Train your pet spells |N|Grokor - (47.4, 52.9)| |C|Hunter| |Z|Swamp of Sorrows|
 t Train your class spells |N|Kartosh - (48.6, 55.6)| |C|Warlock| |Z|Swamp of Sorrows|
@@ -48,6 +49,7 @@ C A Tale of Sorrow |QID|2801| |OIDX|1| |N|Fallen Hero of the Horde and go throug
 T A Tale of Sorrow |QID|2801| |N|Fallen Hero of the Horde - (52.8, 2.9)| |Z|Blasted Lands|
 T Cortello's Riddle |QID|624| |N|the Soggy Scroll in the water beneath the bridge - (22.9, 48.3)| |Z|Swamp of Sorrows|
 A Cortello's Riddle |QID|625| |N|the Soggy Scroll in the water beneath the bridge - (22.9, 48.3)| |Z|Swamp of Sorrows|
+H Camp Mojache |N|Hearth to Camp Mojache| |O| |Z|Swamp of Sorrows|
 B Sell your junk, then restock on food and water if necessary |N|Innkeeper Greul - (74.8, 45.2)| |C|!Rogue/!Warrior| |Z|Feralas|
 B Sell your junk, then restock on food if necessary |N|Innkeeper Greul - (74.8, 45.2)| |C|Rogue/Warrior| |Z|Feralas|
 t Train your class spells |N|Jannos - (76.0, 42.3)| |C|Druid| |Z|Feralas|

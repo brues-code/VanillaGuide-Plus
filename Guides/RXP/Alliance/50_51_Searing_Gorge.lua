@@ -33,6 +33,7 @@ R Run back out of the cave, then follow the platform to the upper entrance of th
 N Remember to keep [Shadow Ward] on yourself as well |N|(40.8, 35.8)| |O| |C|Warlock| |Z|Searing Gorge|
 N This quest can be quite difficult. Look for additional group members if required |N|(40.8, 35.8)| |O| |Z|Searing Gorge|
 C WANTED: Overseer Maltorius |QID|7701| |OIDX|1| |N|Cast [Rain of Fire] to split pull him and then cast [Fear] on him repeatedly. Ensure you've cleared the area around you first (40.8, 35.8)| |O| |Z|Searing Gorge|
+N Click here for video reference |N|(40.8, 35.8)| |O| |C|Warlock| |Z|Searing Gorge|
 N Pull all 3 mobs then cast [Psychic Scream] and loot immediately |N|(40.4, 35.7)| |O| |C|Priest| |Z|Searing Gorge|
 N Pull all 3 with a Voidwalker or Succubus (Seduce one of if using Succubus). You can also use [Fear] or [Howl of Terror] then loot immediately |N|(40.4, 35.7)| |O| |C|Warlock| |Z|Searing Gorge|
 N Build up 25+ Rage, then cast [Intimidating Shout] on all 3 mobs then loot immediately |N|(40.4, 35.7)| |O| |C|Warrior| |Z|Searing Gorge|
@@ -51,6 +52,7 @@ A The Key to Freedom |QID|4451| |N|Dark Iron Taskmasters and Dark Iron Slavers. 
 N Remember to keep [Shadow Ward] on yourself as well |N|(40.8, 35.8)| |C|Warlock| |Z|Searing Gorge|
 N This quest can be quite difficult. Look for additional group members if required |N|(40.8, 35.8)| |Z|Searing Gorge|
 C WANTED: Overseer Maltorius |QID|7701| |OIDX|1| |N|Cast [Rain of Fire] to split pull him and then cast [Fear] on him repeatedly. Ensure you've cleared the area around you first (40.8, 35.8)| |Z|Searing Gorge|
+N Click here for video reference |N|(40.8, 35.8)| |C|Warlock| |Z|Searing Gorge|
 N Pull all 3 mobs then cast [Psychic Scream] and loot immediately |N|(40.4, 35.7)| |C|Priest| |Z|Searing Gorge|
 N Pull all 3 with a Voidwalker or Succubus (Seduce one of if using Succubus). You can also use [Fear] or [Howl of Terror] then loot immediately |N|(40.4, 35.7)| |C|Warlock| |Z|Searing Gorge|
 N Build up 25+ Rage, then cast [Intimidating Shout] on all 3 mobs then loot immediately |N|(40.4, 35.7)| |C|Warrior| |Z|Searing Gorge|
@@ -101,6 +103,7 @@ N Press Escape, then go into -> Options -> Controls |N|(18.2, 83.8)| |Z|Searing 
 N Check "Enable Interact Key" and bind the "Interact with Target" option to a key |N|(18.2, 83.8)| |Z|Searing Gorge|
 N Cross through the tunnel leading from Searing Gorge to Loch Modan. Open it using the interact button. You DO NOT need to have they key |N|(18.2, 83.8)| |Z|Searing Gorge|
 R Travel to Loch Modan |N|(18.2, 83.8)| |Z|Loch Modan|
+N Click here for video reference |N|(18.2, 83.8)| |Z|Loch Modan|
 T The Horn of the Beast |QID|3181| |N|Mountaineer Pebblebitty - (18.2, 84.0)| |Z|Loch Modan|
 A Proof of Deed |QID|3182| |N|Mountaineer Pebblebitty - (18.2, 84.0)| |Z|Loch Modan|
 F Take the flight path to Searing Gorge |N|Thorgrum Borrelson - (33.8, 50.8)| |Z|Loch Modan|
@@ -115,11 +118,12 @@ T JOB OPPORTUNITY: Culling the Competition |QID|7729| |N|Taskmaster Scrange - (3
 T Set Them Ablaze! |QID|3463| |N|Squire Maltrake - (39.2, 39.0)| |Z|Searing Gorge|
 A Trinkets... |QID|3481| |N|the Hoard of the Black Dragonflight on the ground - (38.8, 39.0)| |Z|Searing Gorge|
 T Trinkets... |QID|3481| |N|the Hoard of the Black Dragonflight on the ground - (38.8, 39.0)| |Z|Searing Gorge|
+N Open the [Hoard of the Black Dragonflight] |O| |Z|Searing Gorge|
 N Kill Dark Iron Lookouts. Loot them for the Lookout's Spyglass |N|(39.1, 50.2)| |Z|Searing Gorge|
 C STOLEN: Smithing Tuyere and Lookout's Spyglass |QID|7728| |OIDX|1| |N|Kill Dark Iron Steamsmiths. Loot them for the Smithing Tuyere (39.1, 50.2)| |Z|Searing Gorge|
 T STOLEN: Smithing Tuyere and Lookout's Spyglass |QID|7728| |N|Taskmaster Scrange - (39.0, 27.5)| |Z|Searing Gorge|
-C The Horn of the Beast |QID|3181| |L|10000 1| |O| |Z|Searing Gorge|
-A The Horn of the Beast |QID|3181| |O| |Z|Searing Gorge|
+C The Horn of the Beast |QID|3181| |L|10000 1| |N|Use [Margol's Horn] to start the quest| |O| |Z|Searing Gorge|
+A The Horn of the Beast |QID|3181| |N|Use [Margol's Horn] to start the quest| |O| |Z|Searing Gorge|
 F Fly to Loch Modan |N|Lanie Reed - (37.9, 30.9)| |Z|Searing Gorge|
 T The Horn of the Beast |QID|3181| |N|Mountaineer Pebblebitty - (18.2, 84.0)| |Z|Loch Modan|
 A Proof of Deed |QID|3182| |N|Mountaineer Pebblebitty - (18.2, 84.0)| |Z|Loch Modan|
@@ -129,6 +133,7 @@ B Ginny Longberry |L|17031 10| |N|Ginny Longberry - (31.3, 27.8)| |C|Mage| |Z|Ir
 N Loganaar |N|(52.5, 40.6)| |C|Druid| |Z|Ironforge|
 R Travel to Moonglade |N|(52.5, 40.6)| |C|Druid| |Z|Moonglade|
 t Train your class spells |N|Teleport to Moonglade - (52.5, 40.6)| |C|Druid| |Z|Moonglade|
+H Stormwind |N|Hearth to Stormwind| |Z|Moonglade|
 N Buy food/water if needed |C|!Warrior/!Rogue| |Z|Moonglade|
 N Buy food if needed |C|Warrior/Rogue| |Z|Moonglade|
 

@@ -12,10 +12,11 @@ T Akiris by the Bundle |QID|623| |N|Privateer Groy - (67.7, 51.7)| |Z|Dustwallow
 t Train your class spells |N|Captain Evencane up stairs in the Keep - (67.9, 48.4)| |C|Warrior| |Z|Dustwallow Marsh|
 t Train your class spells |N|Brother Karman - (67.4, 47.4)| |C|Paladin| |Z|Dustwallow Marsh|
 A Triage |QID|6624| |N|Doctor Gustaf VanHowzen - (67.8, 49.0)| |Z|Dustwallow Marsh|
-C Triage |QID|6624| |OIDX|1| |N|(67.8, 49.0)| |Z|Dustwallow Marsh|
+C Triage |QID|6624| |OIDX|1| |N|Channel the [Triage Bandage] on the Alliance Soldiers. Prioritize Critically Injured Soldiers first (67.8, 49.0)| |Z|Dustwallow Marsh|
 T Triage |QID|6624| |N|Doctor Gustaf VanHowzen - (67.8, 49.0)| |Z|Dustwallow Marsh|
 T ... and Bugs |QID|1258| |N|Morgan Stern - (66.3, 45.5)| |Z|Dustwallow Marsh|
 N Innkeeper Janene |N|(66.6, 45.2)| |Z|Dustwallow Marsh|
+h Theramore |N|Set hearth in Theramore (66.6, 45.2)| |Z|Dustwallow Marsh|
 R Swim to the hill west |N|(55.0, 50.7)| |O| |Z|Dustwallow Marsh|
 C Razzeric's Tweaking |QID|1187| |OIDX|1| |N|the Gizmorium Shipping Crate. Loot it for the Seaforium Booster (54.1, 56.5)| |Z|Dustwallow Marsh|
 T Cortello's Riddle |QID|625| |N|the Musty Scroll on the rock - (31.1, 66.1)| |Z|Dustwallow Marsh|
@@ -26,6 +27,7 @@ t Train your class spells |N|Teleport to Moonglade - (52.5, 40.6)| |C|Druid| |Z|
 t Train your class spells |N|Dink - (27.2, 8.6)| |C|Mage| |Z|Ironforge|
 B Buy [Rune of Teleportations] if needed |N|Ginny Longberry - (31.3, 27.8)| |C|Mage| |Z|Ironforge|
 B Ginny Longberry |L|17031 10| |N|Ginny Longberry - (31.3, 27.8)| |C|Mage| |Z|Ironforge|
+H Theramore |N|Hearth to Theramore| |O| |Z|Ironforge|
 N Buy food/water if needed |O| |C|!Warrior/!Rogue| |Z|Ironforge|
 N Buy food if needed |O| |C|Warrior/Rogue| |Z|Ironforge|
 F Fly to Tanaris |N|Baldruc - (67.5, 51.3)| |Z|Dustwallow Marsh|
@@ -39,6 +41,7 @@ T Tran'rek |QID|2864| |N|Tran'rek - (51.6, 26.8)| |Z|Tanaris|
 T Safety First |QID|1188| |N|Shreev - (51.0, 27.2)| |Z|Tanaris|
 A Safety First |QID|1189| |N|Shreev - (51.0, 27.2)| |Z|Tanaris|
 t Attack mobs with it to learn. Do this as you run through Shimmering Flats [Dash (Rank 2)] |N|Cast [Tame Beast] on a Starving Blisterpaw to tame it - (53.5, 24.3)| |O| |C|Hunter| |Z|Tanaris|
+N Click here for more info about pet training |N|(53.5, 24.3)| |O| |C|Hunter| |Z|Tanaris|
 R Travel to Thousand Needles |N|(78.1, 77.1)| |O| |Z|Thousand Needles|
 T News for Fizzle |QID|1137| |N|Fizzle Brassbolts - (78.1, 77.1)| |Z|Thousand Needles|
 A Gahz'rilla |QID|2770| |N|Wizzle Brassbolts - (78.1, 77.1) (ZF Dungeon Quest)| |D|ZF| |Z|Thousand Needles|
@@ -85,12 +88,12 @@ C Kill Theka the Martyr. Loot him for the First Mosh'aru Tablet |QID|3527| |OIDX
 C Scarab Shells |QID|2865| |OIDX|1| |N|(ZF Dungeon Quest)| |D|ZF| |Z|Tanaris|
 N Use the Executioner's Key on one of the Troll Cages to free Sergeant Bly and his band |N|(ZF Dungeon Quest)| |D|ZF| |Z|Tanaris|
 C Ascend the Pyramid |L|8444 1| |N|Anyone in the party may loot the Key (ZF Dungeon Quest)| |D|ZF| |Z|Tanaris|
-N After you kill Nekrum Gutchewer, eat and drink then Sergeant Bly to fight him |N|(ZF Dungeon Quest)| |D|ZF| |Z|Tanaris|
+N After you kill Nekrum Gutchewer, eat and drink then talk to Sergeant Bly to fight him |N|(ZF Dungeon Quest)| |D|ZF| |Z|Tanaris|
 N Kill Sergeant Bly. Loot him for the Divino-matic Rod |N|(ZF Dungeon Quest)| |D|ZF| |Z|Tanaris|
 C Kill Nekrum Gutchewer. Loot him for Nekrum's Medallion |QID|2991| |OIDX|1| |N|Kill Nekrum Gutchewer. Loot him for Nekrum's Medallion (ZF Dungeon Quest)| |D|ZF| |Z|Tanaris|
 C Divino-matic Rod |QID|2768| |OIDX|1| |N|Kill Nekrum Gutchewer. Loot him for Nekrum's Medallion (ZF Dungeon Quest)| |D|ZF| |Z|Tanaris|
 C Kill Nekrum Gutchewer. Loot him for Nekrum's Medallion |QID|2991| |OIDX|1| |N|Kill Nekrum Gutchewer. Loot him for Nekrum's Medallion (ZF Dungeon Quest)| |D|ZF| |Z|Tanaris|
-N Kill Nekrum Gutchewer. Eat and drink then Sergeant Bly to fight him |N|(ZF Dungeon Quest)| |D|ZF| |Z|Tanaris|
+N Kill Nekrum Gutchewer. Eat and drink then talk to Sergeant Bly to fight him |N|(ZF Dungeon Quest)| |D|ZF| |Z|Tanaris|
 N Kill Sergeant Bly. Loot him for the Divino-matic Rod |N|(ZF Dungeon Quest)| |D|ZF| |Z|Tanaris|
 C Divino-matic Rod |QID|2768| |OIDX|1| |N|Defend Sergeant Bly and his band, then move down with them after a short period of time (ZF Dungeon Quest)| |D|ZF| |Z|Tanaris|
 C Kill Hydromancer Velratha. Loot her for the Tiara of the Deep and the Second Mosh'aru Tablet |QID|2846| |OIDX|1| |N|Kill Hydromancer Velratha. Loot her for the Tiara of the Deep and the Second Mosh'aru Tablet (ZF Dungeon Quest)| |D|ZF| |Z|Tanaris|

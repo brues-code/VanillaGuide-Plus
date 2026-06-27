@@ -11,6 +11,7 @@ F Fly to Teldrassil |N|Silva Fil'naveth - (44.1, 45.2)| |O| |C|Druid| |Z|Moongla
 t Train your class spells |N|Dink - (27.2, 8.6)| |C|Mage| |Z|Ironforge|
 R Travel to Wetlands |N|(4.6, 57.3)| |C|!Mage/!Druid| |Z|Wetlands|
 R Shaussiy |N|(37.0, 44.1)| |C|!Mage/!Druid| |Z|Darkshore|
+h Auberdine |N|Set hearth in Auberdine (37.0, 44.1)| |C|!Mage/!Druid| |Z|Darkshore|
 F Fly to Teldrassil |N|Caylais Moonfeather - (36.3, 45.6)| |C|!Mage/!Druid| |Z|Darkshore|
 T Favored of Elune? |QID|3661| |N|Erelas Ambersky - (55.5, 92.0)| |C|!Mage| |Z|Teldrassil|
 T The Super Snapper FX |QID|2944| |N|Daryn Lightwind upstairs - (55.4, 92.2)| |C|!Mage| |Z|Teldrassil|
@@ -43,6 +44,7 @@ T The Super Snapper FX |QID|2944| |N|Daryn Lightwind upstairs - (55.4, 92.2)| |C
 A Return to Troyas |QID|2943| |N|Daryn Lightwind upstairs - (55.4, 92.2)| |C|Mage| |Z|Teldrassil|
 F Fly to Darkshore |N|Vesprystus - (58.4, 94.0)| |C|Mage/Druid| |Z|Teldrassil|
 R Shaussiy |N|(37.0, 44.1)| |C|Mage/Druid| |Z|Darkshore|
+h Auberdine |N|Set hearth in Auberdine (37.0, 44.1)| |C|Mage/Druid| |Z|Darkshore|
 F Fly to Azshara |N|Vesprystus - (58.4, 94.0)| |Z|Teldrassil|
 A Spiritual Unrest |QID|5535| |N|Loh'atu - (11.4, 78.2)| |Z|Azshara|
 A A Land Filled with Hatred |QID|5536| |N|Loh'atu - (11.4, 78.2)| |Z|Azshara|
@@ -65,7 +67,7 @@ A Verifying the Corruption |QID|5156| |N|Taronn Redfeather - (50.9, 81.6)| |Z|Fe
 A The Corruption of the Jadefire |QID|4421| |N|Eridan Bluewind - (51.4, 81.5)| |Z|Felwood|
 C The Corruption of the Jadefire |QID|4421| |OIDX|1| |N|Kill Jadefire Felsworns, Jadefire Shadowstalkers, Jadefire Rogues and Xavathras (37.2, 68.9)| |Z|Felwood|
 C Jadefire Satyrs and Jadefire Felsworns. Loot them for a Felcloth |QID|8419| |L|14256 1| |N|Jadefire Satyrs and Jadefire Felsworns. Loot them for a Felcloth - (39.5, 84.5)| |C|Warlock| |Z|Felwood|
-C Collect item |L|11914 6| |O| |Z|Felwood|
+C Collect item |L|11914 6| |N|Open the [Package of Empty Ooze Containers]| |O| |Z|Felwood|
 N Use the [Empty Cursed Ooze Jars] on their corpses |N|(40.8, 66.9)| |Z|Felwood|
 C A Little Slime Goes a Long Way |QID|4512| |OIDX|1| |N|Cursed Oozes (40.8, 66.9)| |Z|Felwood|
 T An Imp's Request |QID|8419| |N|Impsy - (41.5, 45.0)| |C|Warlock| |Z|Felwood|
@@ -82,7 +84,7 @@ A Collection of the Corrupt Water |QID|5157| |N|Greta Mosshoof - (51.2, 82.1)| |
 T The Corruption of the Jadefire |QID|4421| |N|Eridan Bluewind - (51.4, 81.5)| |Z|Felwood|
 A Further Corruption |QID|4906| |N|Eridan Bluewind - (51.4, 81.5)| |Z|Felwood|
 A Verifying the Corruption |QID|5156| |N|Taronn Redfeather - (50.9, 81.6)| |Z|Felwood|
-C Collection of the Corrupt Water |QID|5157| |OIDX|1| |N|(35.2, 59.8)| |Z|Felwood|
+C Collection of the Corrupt Water |QID|5157| |OIDX|1| |N|Use the [Empty Canteen] at the Moon Well in the center of Jaedenar (35.2, 59.8)| |Z|Felwood|
 C Verifying the Corruption |QID|5156| |OIDX|1| |N|Kill Entropic Beasts and Entropic Horrors (41.5, 43.0)| |Z|Felwood|
 N Use the [Flute of Xavaric] to start the quest |N|(39.0, 22.3)| |Z|Felwood|
 C Further Corruption |QID|4906| |OIDX|4| |N|Xavaric. Loot him for the [Flute of Xavaric] (39.0, 22.3)| |Z|Felwood|
@@ -97,20 +99,22 @@ T Speak to Nafien |QID|8462| |N|Nafien - (64.8, 8.1)| |Z|Felwood|
 R Travel to Winterspring |N|(27.8, 34.6)| |O| |Z|Winterspring|
 N If you are not Unfriendly with Timbermaw Hold, Furbolgs will attack you |N|(27.8, 34.6)| |O| |Z|Winterspring|
 T It's a Secret to Everybody |QID|3908| |N|Donova Snowden - (31.3, 45.2)| |Z|Winterspring|
-N Blizzard has adjusted the quest [The Videre Elixir] so it will no longer kill you on Official Hardcore Servers |N|(31.3, 45.2)| |Z|Winterspring|
-A The Videre Elixir |QID|3909| |N|Donova Snowden - (31.3, 45.2)| |Z|Winterspring|
-N You may safely complete this quest as part of the quest chain for [The Videre Elixir] |N|(31.3, 45.2)| |Z|Winterspring|
 A The Videre Elixir |QID|3909| |N|Donova Snowden - (31.3, 45.2)| |Z|Winterspring|
 C Moontouched Feathers on the ground |QID|978| |OIDX|1| |N|Moontouched Feathers on the ground - (60.6, 33.7)| |Z|Winterspring|
+N Die and respawn at the Spirit Healer in Everlook |Z|Winterspring|
 R Azzleby |N|(60.4, 37.9)| |O| |C|Hunter| |Z|Winterspring|
 f Get the Winterspring Flight Path |N|Maethrya - (62.3, 36.6)| |Z|Winterspring|
 F Fly to Felwood |N|Maethrya - (62.3, 36.6)| |Z|Winterspring|
 t Attack mobs with it to learn [Bite (Rank 7)] |N|Cast [Tame Beast] on a Felpaw Ravager to tame it - (62.2, 17.1)| |C|Hunter| |Z|Felwood|
+N Click here for more info about pet training |N|(62.2, 17.1)| |C|Hunter| |Z|Felwood|
+N Die and respawn at the Spirit Healer |O| |Z|Felwood|
 N Cast [Tame Beast] on a Ironbeak Hunter or Angerclaw Mauler to tame it |N|(38.6, 50.2)| |C|Hunter| |Z|Felwood|
 t Attack mobs with it to learn [Claw (Rank 7)] |N|Abandon your current Felpaw Ravager - (38.6, 50.2)| |C|Hunter| |Z|Felwood|
+N Click here for more info about pet training |N|(38.6, 50.2)| |C|Hunter| |Z|Felwood|
 T The Wrong Stuff |QID|8421| |N|Impsy - (41.5, 45.0)| |C|Warlock| |Z|Felwood|
 A Trolls of a Feather |QID|8422| |N|Impsy - (41.5, 45.0) (ST Dungeon Quest)| |C|Warlock| |D|ST| |Z|Felwood|
 R Head south to the slime pools and die at the arrow location |N|(40.8, 66.8)| |O| |Z|Felwood|
+N Die and respawn at the Spirit Healer |N|(40.8, 66.8)| |O| |Z|Felwood|
 T Cleansing Felwood |QID|4101| |N|Arathandris Silversky - (54.1, 86.8)| |Z|Felwood|
 N Select the option: "I need a Cenarion beacon." |N|(54.1, 86.8)| |Z|Felwood|
 C Arathandris Silversky |L|11511 1| |N|Arathandris Silversky - (54.1, 86.8)| |Z|Felwood|
@@ -120,9 +124,7 @@ T Further Corruption |QID|4906| |N|Eridan Bluewind - (51.4, 81.5)| |Z|Felwood|
 T Flute of Xavaric |QID|939| |N|Eridan Bluewind - (51.4, 81.5)| |Z|Felwood|
 A Felbound Ancients |QID|4441| |N|Eridan Bluewind - (51.4, 81.5)| |Z|Felwood|
 T Verifying the Corruption |QID|5156| |N|Taronn Redfeather - (50.9, 81.6)| |Z|Felwood|
-T Cleansing Felwood |QID|4101| |N|Arathandris Silversky - (54.1, 86.8)| |Z|Felwood|
-N Select the option: "I need a Cenarion beacon." |N|(54.1, 86.8)| |Z|Felwood|
-C Arathandris Silversky |L|11511 1| |N|Arathandris Silversky - (54.1, 86.8)| |Z|Felwood|
+H Darkshore |N|Hearth to Darkshore| |Z|Felwood|
 N Buy food/water if needed |C|!Warrior/!Rogue| |Z|Felwood|
 N Buy food if needed |C|Warrior/Rogue| |Z|Felwood|
 F Fly to Feathermoon |N|Caylais Moonfeather - (36.3, 45.6) (!Mara Dungeon Quest)| |D|!Mara| |Z|Darkshore|
@@ -134,6 +136,7 @@ F Fly to Desolace |N|Caylais Moonfeather - (36.3, 45.6) (Mara Dungeon Quest)| |D
 R Travel to Desolace |N|(64.6, 9.2) (Mara Dungeon Quest)| |D|Mara| |Z|Desolace|
 A Corruption of Earth and Seed |QID|7065| |N|Keeper Marandis - (63.8, 10.7) (Mara Dungeon Quest)| |D|Mara| |Z|Desolace|
 R Innkeeper Lyshaerya |N|(66.3, 6.6) (Mara Dungeon Quest)| |D|Mara| |Z|Desolace|
+h Desolace |N|Set hearth in Desolace (66.3, 6.6) (Mara Dungeon Quest)| |D|Mara| |Z|Desolace|
 A Vyletongue Corruption |QID|7041| |N|Talendria - (68.5, 8.9) (Mara Dungeon Quest)| |D|Mara| |Z|Desolace|
 A Twisted Evils |QID|7028| |N|Willow - (62.2, 39.6) (Mara Dungeon Quest)| |D|Mara| |Z|Desolace|
 F Fly to Feathermoon |N|Baritanas Skyriver - (64.7, 10.5) (Mara Dungeon Quest)| |D|Mara| |Z|Desolace|

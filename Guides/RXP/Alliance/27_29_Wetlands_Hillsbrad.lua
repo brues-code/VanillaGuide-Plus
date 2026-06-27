@@ -38,6 +38,7 @@ F Fly to Wetlands |N|Gryth Thurden - (55.5, 47.8)| |Z|Ironforge|
 R Travel to Wetlands |N|(10.6, 60.6)| |Z|Wetlands|
 T The Doomed Fleet |QID|270| |N|Glorin Steelbrow - (10.6, 60.6)| |Z|Wetlands|
 R Innkeeper Helbrek |N|(10.7, 61.0)| |Z|Wetlands|
+h Wetlands |N|Set hearth in Wetlands (10.7, 61.0)| |Z|Wetlands|
 R Travel upstairs towards Archaeologist Flagongut |N|(10.4, 61.0)| |O| |Z|Wetlands|
 A The Absent Minded Prospector |QID|943| |N|Archaeologist Flagongut - (10.8, 60.4)| |Z|Wetlands|
 A The Cursed Crew |QID|289| |N|First Mate Fitzsimmons - (10.9, 59.7)| |Z|Wetlands|
@@ -84,6 +85,7 @@ A Blisters on The Land |QID|275| |N|Rethiel the Greenwarden - (56.4, 40.4)| |Z|W
 T Fire Taboo |QID|277| |N|Rethiel the Greenwarden - (56.4, 40.4)| |Z|Wetlands|
 A Blisters on The Land |QID|275| |N|Rethiel the Greenwarden - (56.4, 40.4)| |Z|Wetlands|
 C A Noble Brew |QID|335| |OIDX|2| |N|the Musquash Root on the ground (64.8, 75.3)| |Z|Wetlands|
+H Menethil Harbor |N|Hearth to Menethil Harbor| |O| |Z|Wetlands|
 N Buy food/water if needed |O| |C|!Warrior/!Rogue| |Z|Wetlands|
 N Buy food if needed |O| |C|Warrior/Rogue| |Z|Wetlands|
 N Buy some extra [Mutton Chops] to serve as pet food if needed |O| |C|Hunter| |Z|Wetlands|
@@ -139,12 +141,16 @@ N Chieftain Nek'rosh is snareable |N|(53.2, 56.0)| |C|Hunter/Warlock/Mage| |Z|We
 N Chieftain Nek'rosh can be [Feared] |N|(53.2, 56.0)| |C|Warlock| |Z|Wetlands|
 N Chieftain Nek'rosh is immune to Fire damage |N|(53.2, 56.0)| |C|Mage/Warlock| |Z|Wetlands|
 C Defeat Nek'rosh |QID|474| |OIDX|1| |N|Chieftain Nek'rosh. Loot him for his Head (53.2, 56.0)| |C|Hunter/Warlock/Mage| |Z|Wetlands|
+N Click here for a video guide |N|(53.2, 56.0)| |C|Warlock| |Z|Wetlands|
+N Click here for a video guide |N|(53.2, 56.0)| |C|Hunter| |Z|Wetlands|
 N You can split pull Nek'Rosh from the mobs around him by using [Rain of Fire] |N|(53.2, 56.0)| |C|Warlock| |Z|Wetlands|
 N You can split pull Nek'Rosh from the mobs around him by using [Blizzard] |N|(53.2, 56.0)| |C|Mage| |Z|Wetlands|
 N Chieftain Nek'rosh is snareable |N|(53.2, 56.0)| |Z|Wetlands|
 N Chieftain Nek'rosh can be [Feared] |N|(53.2, 56.0)| |C|Warlock/Priest| |Z|Wetlands|
 N Chieftain Nek'rosh is immune to Fire damage |N|(53.2, 56.0)| |C|Mage/Warlock| |Z|Wetlands|
 C Defeat Nek'rosh |QID|474| |OIDX|1| |N|Chieftain Nek'rosh. Loot him for his Head (53.2, 56.0)| |Z|Wetlands|
+N Click here for a video guide |N|(53.2, 56.0)| |C|Warlock| |Z|Wetlands|
+N Click here for a video guide |N|(53.2, 56.0)| |C|Hunter| |Z|Wetlands|
 N Fen Creepers are in [Stealth] |N|(51.1, 32.7)| |Z|Wetlands|
 N Skip this quest if you can't find any and you aren't close to completing it |N|(51.1, 32.7)| |Z|Wetlands|
 C Blisters on The Land |QID|275| |OIDX|1| |N|Finish off killing Fen Creepers, there should be spawns in the ponds north and south of the Greenwarden (marked on your map) (51.1, 32.7)| |Z|Wetlands|
@@ -165,6 +171,7 @@ T A Grim Task |QID|304| |N|Longbraid the Grim - (49.8, 18.3)| |Z|Wetlands|
 N Ensure you are on full HP before going down the Spiral Staircase. There are 2 Elite Dark Iron Sabotuers. Cast any crowd-control abilities on them when once you go down and then run past them. Run back up and out after |N|(51.3, 8.0)| |Z|Wetlands|
 T The Thandol Span |QID|631| |N|on Ebenezer Rustlocke's Corpse - (51.3, 8.0)| |Z|Wetlands|
 A The Thandol Span |QID|632| |N|on Ebenezer Rustlocke's Corpse - (51.3, 8.0)| |Z|Wetlands|
+N Click here for a video guide |N|(51.3, 8.0)| |Z|Wetlands|
 T The Thandol Span |QID|632| |N|Rhag Garmason - (49.9, 18.2)| |Z|Wetlands|
 A The Thandol Span |QID|633| |N|Rhag Garmason - (49.9, 18.2)| |Z|Wetlands|
 N Open the Waterlogged Letter. Loot it for the [Waterlogged Envelope] |N|(44.3, 92.9)| |Z|Arathi Highlands|
@@ -186,7 +193,9 @@ N Wesley |N|(50.4, 58.8)| |C|Hunter| |Z|Arathi Highlands|
 R Travel to Hillsbrad Foothills |N|(50.4, 58.8)| |C|Hunter| |Z|Hillsbrad Foothills|
 f Get the Southshore Flight Path |N|Darla Harris - (49.3, 52.3) (!SFK Dungeon Quest)| |D|!SFK| |Z|Hillsbrad Foothills|
 t Attack mobs with it to learn [Bite (Rank 4)] |N|Cast [Tame Beast] on a Elder Moss Creeper to tame it - (56.6, 53.8)| |C|Hunter| |Z|Hillsbrad Foothills|
+N Click here for more info about pet training |N|(56.6, 53.8)| |C|Hunter| |Z|Hillsbrad Foothills|
 N Wesley |N|(50.4, 58.8)| |C|Hunter| |Z|Hillsbrad Foothills|
+H Menethil Harbor |N|Hearth to Menethil Harbor| |C|Hunter| |Z|Hillsbrad Foothills|
 C them for Turtle Meat. You will need 10 for a quest later. Don't go out of your way to farm it now |L|3712 10| |N|(65.4, 39.4)| |C|Hunter| |Z|Hillsbrad Foothills|
 C Snapjaws along the river and farm about 5 Turtle Meat, you'll need 10 for a quest later, don't go out of your way to kill them |L|3712 5| |N|(65.4, 39.4)| |O| |C|!Hunter| |Z|Hillsbrad Foothills|
 T The Eye of Paleth |QID|292| |N|Glorin Steelbrow - (10.6, 60.6)| |Z|Wetlands|

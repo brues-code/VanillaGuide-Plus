@@ -56,7 +56,7 @@ C Fields of Grief |QID|365| |OIDX|1| |N|the Pumpkins found in the field. Tirisfa
 C At War With The Scarlet Crusade |QID|427| |OIDX|1| |N|Scarlet Warriors. Scarlet Warrior (10)| |O| |Z|Tirisfal Glades|
 C The Chill of Death |QID|375| |OIDX|1| |N|Kill any Duskbat that you see. Loot them for their Pelts Duskbat Pelt (5)| |O| |Z|Tirisfal Glades|
 C A New Plague |QID|367| |OIDX|1| |N|any Darkhound you see. Loot them for their Blood Darkhound Blood (5)| |O| |Z|Tirisfal Glades|
-R Travel back to Brill |N|(58.2, 51.4)| |O| |Z|Tirisfal Glades|
+N Die and respawn at the Spirit Healer |O| |Z|Tirisfal Glades|
 T A Putrid Task |QID|404| |N|Dillinger - (58.2, 51.4)| |O| |Z|Tirisfal Glades|
 A The Mills Overrun |QID|426| |N|Dillinger - (58.2, 51.4)| |O| |Z|Tirisfal Glades|
 T A New Plague |QID|367| |N|Johaan - (59.5, 52.4)| |O| |Z|Tirisfal Glades|
@@ -128,6 +128,7 @@ C Wanted: Maggot Eye |QID|398| |OIDX|1| |N|Maggot Eye. Loot him for his Paw Magg
 C A New Plague |QID|368| |OIDX|1| |N|Murlocs. Loot them for their Scales Vile Fin Scale (5)| |O| |Z|Tirisfal Glades|
 C The Chill of Death |QID|375| |OIDX|1| |N|Kill any Duskbat that you see. Loot them for their Pelts Duskbat Pelt (5)| |O| |Z|Tirisfal Glades|
 C Graverobbers |QID|358| |OIDX|2| |N|Mongrels and Graverobbers. Loot them for their Ichor Rot Hide Mongrel (5)| |O| |Z|Tirisfal Glades|
+N Die and respawn at the Spirit Healer |O| |Z|Tirisfal Glades|
 T The Mills Overrun |QID|426| |N|Dillinger - (58.2, 51.4)| |O| |Z|Tirisfal Glades|
 T A New Plague |QID|368| |N|Johaan - (59.5, 52.4)| |O| |Z|Tirisfal Glades|
 A A New Plague |QID|369| |N|Johaan - (59.5, 52.4)| |O| |Z|Tirisfal Glades|
@@ -209,6 +210,7 @@ C Agamand Heirlooms |QID|1821| |OIDX|1| |N|Loot the Agamand Weapon Racks on the 
 N Be careful! The mobs in this crypt respawn dynamically! |N|(51.9, 26.9)| |C|Warrior| |Z|Tirisfal Glades|
 C The Family Crypt |QID|408| |OIDX|1| |N|Wailing Ancestors and Rotting Ancestors Wailing Ancestor (8)| |C|Warrior| |Z|Tirisfal Glades|
 C Agamand Heirlooms |QID|1821| |OIDX|1| |N|the Agamand Weapon Racks on the ground Agamand Family Axe (1)| |C|Warrior| |Z|Tirisfal Glades|
+N Die and respawn at the Spirit Healer |O| |C|Warrior| |Z|Tirisfal Glades|
 T The Family Crypt |QID|408| |N|Sevren - (61.3, 50.8)| |C|Warrior| |Z|Tirisfal Glades|
 T Agamand Heirlooms |QID|1821| |N|Coleman inside the inn - (61.7, 52.3)| |C|Warrior| |Z|Tirisfal Glades|
 T Heirloom Weapon |QID|1822| |N|Coleman inside the inn - (61.7, 52.3)| |C|Warrior| |Z|Tirisfal Glades|

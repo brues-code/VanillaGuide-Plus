@@ -19,6 +19,7 @@ t Train your class spells |N|Ker - (57.6, 85.5)| |C|Warrior| |Z|Thunder Bluff|
 t Train your class spells |N|Torm - (57.3, 87.3)| |O| |C|Warrior| |Z|Thunder Bluff|
 A The Islander |QID|1718| |N|Torm - (57.3, 87.3)| |O| |C|Warrior| |Z|Thunder Bluff|
 R Innkeeper Pala |N|(45.8, 64.7)| |Z|Thunder Bluff|
+h Thunder Bluff |N|Set hearth in Thunder Bluff (45.8, 64.7)| |Z|Thunder Bluff|
 R the Spirit Rise and enter the pools of vision |N|(28.5, 28.9)| |O| |Z|Thunder Bluff|
 T The Flying Machine Airport |QID|1086| |N|Apothecary Zamah - (22.8, 20.9)| |Z|Thunder Bluff|
 t Train your class spells |N|Miles - (25.3, 15.2)| |C|Priest| |Z|Thunder Bluff|
@@ -100,9 +101,11 @@ B Buy [Healing Potions] and [Scrolls] from him if they're up |N|Montarr - (45.1,
 B Buy [Healing Potions], [Scrolls] and [Liferoot] from him if they're up |N|Montarr - (45.1, 50.8)| |C|Warrior| |Z|Thousand Needles|
 N Buy one or more [Rune of Teleportation] from him |N|(45.1, 50.8)| |C|Mage| |Z|Thousand Needles|
 B Montarr |L|17031 1| |N|Montarr - (45.1, 50.8)| |C|Mage| |Z|Thousand Needles|
+h Freewind Post |N|Set hearth in Freewind Post (46.1, 51.5)| |O| |C|Mage| |Z|Thousand Needles|
 t Training (3566) |N|Innkeeper Abeqwa - (46.1, 51.5)| |O| |C|Mage| |Z|Thousand Needles|
 R Enter Roguefeather Den |N|(27.3, 51.3)| |Z|Thousand Needles|
 N This quest is VERY HARD. Group up or skip it if you can't solo it |N|(25.9, 55.2)| |Z|Thousand Needles|
+N CLICK HERE for a visual reference if you think it's doable |N|(25.9, 55.2)| |Z|Thousand Needles|
 C Test of Endurance |QID|1150| |OIDX|1| |N|Grenka Bloodscreech. Loot her for Grenka's Claw (25.9, 55.2)| |Z|Thousand Needles|
 C Steelsnap |QID|1131| |OIDX|1| |N|Be careful, has two Hyenas defending him!| |O| |Z|Thousand Needles|
 R Travel toward Highperch |N|(14.0, 32.4)| |O| |Z|Thousand Needles|
@@ -147,6 +150,7 @@ N Scalding Elementals and Boiling Elementals are immune to frost damage, and hig
 N Be careful as Boiling Elementals cast [Steam Jet], reducing your chance to hit by 30% for 10 seconds |N|(36.0, 37.4)| |C|Warrior/Rogue/Shaman/Druid| |Z|Thousand Needles|
 N Be careful as Scalding Elementals cast [Scald], instantly dealing 150 fire damage and stunning you for 4 seconds |N|(36.0, 37.4)| |Z|Thousand Needles|
 C Sacred Fire |QID|5062| |OIDX|1| |N|the Incendia Agave Plants on the ground and underwater (36.0, 37.4)| |Z|Thousand Needles|
+H Thunder Bluff |N|Hearth to Thunder Bluff| |O| |Z|Thousand Needles|
 t Training (3566) |O| |C|Mage| |Z|Thousand Needles|
 t Train your class spells |N|Shymm - (22.7, 14.5)| |C|Mage| |Z|Thunder Bluff|
 B Sell your junk, then restock on food and water if necessary |N|Innkeeper Pala - (45.8, 64.7)| |C|!Rogue/!Warrior| |Z|Thunder Bluff|
@@ -176,12 +180,14 @@ B Kard. Buy a [Broadsword] from him |L|2520 1| |N|Kard. Buy a [Broadsword] from 
 B Kard. Buy a [Main Gauche] from him for your off-hand |L|2526 1| |N|Kard. Buy a [Main Gauche] from him for your off-hand - (53.0, 56.6)| |C|Rogue| |Z|Thunder Bluff|
 F Fly to Camp Taurajo |N|Tal - (47.0, 49.8)| |O| |Z|Thunder Bluff|
 T A New Ore Sample |QID|1153| |N|Tatternack - (45.1, 57.7)| |Z|The Barrens|
+H Freewind Post |N|Hearth to Freewind Post| |C|Mage| |Z|The Barrens|
 F Fly to Freewind Post |N|Omusa - (44.5, 59.2)| |O| |Z|The Barrens|
 T Wind Rider |QID|4767| |N|Elu - (44.9, 48.9)| |Z|Thousand Needles|
 B Buy a [Dense Shortbow] from him if it's up |N|Starn - (44.9, 50.7)| |C|Hunter| |Z|Thousand Needles|
 B Buy [Healing Potions] and [Scrolls] from him if they're up |N|Montarr - (45.1, 50.8)| |C|!Warrior| |Z|Thousand Needles|
 B Buy [Healing Potions], [Scrolls] and [Liferoot] from him if they're up |N|Montarr - (45.1, 50.8)| |C|Warrior| |Z|Thousand Needles|
 R Innkeeper Abeqwa |N|(46.1, 51.5)| |Z|Thousand Needles|
+h Freewind Post |N|Set hearth in Freewind Post (46.1, 51.5)| |Z|Thousand Needles|
 T Test of Endurance |QID|1150| |N|Dorn - (54.0, 41.5)| |Z|Thousand Needles|
 A Test of Strength |QID|1151| |N|Dorn - (54.0, 41.5)| |Z|Thousand Needles|
 R Head to Darkcloud Pinnacle |N|(31.5, 36.7)| |Z|Thousand Needles|
@@ -225,6 +231,7 @@ B Starn |L|3030 1800| |N|Starn - (44.9, 50.7)| |C|Hunter| |Z|Thousand Needles|
 T Test of Strength |QID|1151| |N|Dorn - (54.0, 41.5)| |Z|Thousand Needles|
 R the Shimmering Flats |N|(70.6, 62.7)| |O| |Z|Thousand Needles|
 A Wharfmaster Dizzywig |QID|1111| |N|Kravel - (77.8, 77.3)| |Z|Thousand Needles|
+H Freewind Post |N|Hearth to Freewind Post| |Z|Thousand Needles|
 F Fly to Crossroads |N|Nyse - (45.1, 49.1)| |Z|Thousand Needles|
 R Gadgetzan |N|(51.6, 25.4)| |O| |Z|Tanaris|
 f Get the Gadgetzan Flight Path |N|Bulkrek - (51.6, 25.4)| |O| |Z|Tanaris|
@@ -295,6 +302,7 @@ A Willix the Importer |QID|1144| |N|Willix the Importer (RFK Dungeon Quest)| |D|
 N Ensure you stay close to Willix otherwise the quest may not complete! |N|(RFK Dungeon Quest)| |D|RFK| |Z|Tirisfal Glades|
 C Willix the Importer |QID|1144| |OIDX|1| |N|Escort Willix the Importer through Razorfen Kraul (RFK Dungeon Quest)| |D|RFK| |Z|Tirisfal Glades|
 T Willix the Importer |QID|1144| |N|Willix the Importer (RFK Dungeon Quest)| |D|RFK| |Z|Tirisfal Glades|
+H Freewind Post |N|Hearth to Freewind Post (RFK Dungeon Quest)| |C|!Mage| |D|RFK| |Z|Tirisfal Glades|
 F Fly to Ratchet |N|Nyse - (45.1, 49.1) (GNOMER Dungeon Quest)| |C|!Mage| |D|GNOMER| |Z|Thousand Needles|
 F Fly to Ratchet |N|Doras - (45.1, 63.9) (GNOMER Dungeon Quest)| |D|GNOMER| |Z|Orgrimmar|
 R Travel to The Barrens |N|(63.7, 38.7) (GNOMER Dungeon Quest)| |D|GNOMER| |Z|The Barrens|
@@ -304,6 +312,7 @@ T Gnomer-gooooone! |QID|2843| |N|Scooty - (27.6, 77.5) (GNOMER Dungeon Quest)| |
 R Step onto the Gnomeregan Transponder |N|(42.8, 59.9) (GNOMER Dungeon Quest)| |D|GNOMER| |Z|Eastern Kingdoms|
 N Loot Thermaplugg's Safe in the Northern side of the room for the Rig Blueprints |N|(GNOMER Dungeon Quest)| |D|GNOMER| |Z|Eastern Kingdoms|
 C Rig Wars |QID|2841| |OIDX|2| |N|Kill Mekgineer Thermaplugg. Loot him for his Safe Combination (GNOMER Dungeon Quest)| |D|GNOMER| |Z|Eastern Kingdoms|
+H Freewind Post |N|Hearth to Freewind Post (GNOMER Dungeon Quest)| |C|!Mage| |D|GNOMER| |Z|Eastern Kingdoms|
 F Fly to Orgrimmar |N|Nyse - (45.1, 49.1) (!RFK Dungeon Quest)| |C|!Mage| |D|!RFK| |Z|Thousand Needles|
 F Fly to Orgrimmar |N|Nyse - (45.1, 49.1) (!GNOMER Dungeon Quest)| |C|!Mage| |D|!GNOMER| |Z|Thousand Needles|
 F Fly to Orgrimmar |N|Bragok - (63.1, 37.2) (GNOMER Dungeon Quest)| |C|!Mage| |D|GNOMER| |Z|The Barrens|

@@ -59,6 +59,7 @@ A Attack on Camp Narache |QID|781| |N|the [Dirt-stained Map] on the ground. Use 
 C Call of Earth |QID|1519| |OIDX|1| |N|Kill Bristleback Shamans. Loot them for their Salves Ritual Salve (2)| |O| |C|Shaman| |Z|Mulgore|
 C Rite of Strength |QID|757| |OIDX|1| |N|Bristleback Quilboars. Loot them for their Belts Bristleback Belt (12)| |Z|Mulgore|
 C Call of Earth |QID|1519| |OIDX|1| |N|Bristleback Shamans. Loot them for their Salves Ritual Salve (2)| |C|Shaman| |Z|Mulgore|
+H Camp Narache |N|Hearth to Camp Narache| |O| |Z|Mulgore|
 N Grull, Brave, Seer and Hawkwind |N|(44.9, 77.1)| |C|Shaman| |Z|Mulgore|
 T The Battleboars |QID|780| |N|Grull, Brave and Hawkwind - (44.9, 77.1)| |Z|Mulgore|
 T Break Sharptusk! |QID|3376| |N|Grull, Brave and Hawkwind - (44.9, 77.1)| |Z|Mulgore|

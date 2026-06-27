@@ -118,7 +118,8 @@ C Call of Earth |QID|1516| |OIDX|1| |N|Kill Felstalkers. Loot them for Felstalke
 C Thazz'ril's Pick |QID|6394| |OIDX|1| |N|Thazz'ril's Pick against the wall Thazz'ril's Pick (1)| |Z|Durotar|
 C Burning Blade Medallion |QID|794| |OIDX|1| |N|Yarrog Baneshadow. Loot him for the Burning Blade Medallion Burning Blade Medallion (1)| |Z|Durotar|
 C Call of Earth |QID|1516| |OIDX|1| |N|Felstalkers. Loot them for Felstalker Hooves Felstalker Hoof (2)| |C|Shaman| |Z|Durotar|
-N You can him from outside or on top of the bunker |N|(52.0, 43.5)| |Z|Durotar|
+N Die and respawn at the Spirit Healer near the arrow |N|(44.7, 52.5)| |O| |Z|Durotar|
+N You can talk to him from outside or on top of the bunker |N|(52.0, 43.5)| |Z|Durotar|
 A Vanquish the Betrayers |QID|784| |N|Gar'thok - (52.0, 43.5)| |Z|Durotar|
 R Travel toward the tower |N|(49.7, 40.4)| |O| |Z|Durotar|
 R Travel up the tower toward Furl |N|(49.6, 40.0)| |O| |Z|Durotar|
@@ -128,6 +129,7 @@ N This will allow you to find [Rough Stones] from nodes in order to craft [Sharp
 N Buy a [Mining Pick] from him |N|(51.9, 41.1)| |C|Warrior/Rogue| |Z|Durotar|
 B Mining Pick (1) |L|2901 1| |N|Wuark - (51.9, 41.1)| |C|Warrior/Rogue| |Z|Durotar|
 t Train [Blacksmithing] |N|Dwukk - (52.0, 40.7)| |C|Warrior/Rogue| |Z|Durotar|
+H Valley of Trials |N|Hearth to Valley of Trials| |O| |Z|Durotar|
 T Thazz'ril's Pick |QID|6394| |N|Thazz'ril - (44.6, 68.7)| |Z|Durotar|
 T Galgar's Cactus Apple Surprise |QID|4402| |N|Galgar - (42.7, 67.2)| |Z|Durotar|
 B Vendor Trash |N|Duokna - (42.6, 67.3)| |Z|Durotar|

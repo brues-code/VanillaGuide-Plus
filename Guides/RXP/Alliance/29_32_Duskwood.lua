@@ -31,7 +31,7 @@ N Thomas walks around through the Cathedral |N|(38.7, 25.9)| |Z|Stormwind City|
 A The Missing Diplomat |QID|1274| |N|Thomas - (38.7, 25.9)| |Z|Stormwind City|
 t Train your class spells |N|Einris Brightspear - (61.6, 15.3)| |C|Hunter| |Z|Stormwind City|
 t Train your pet spells |N|Karrina Mekenda - (61.6, 16.0)| |C|Hunter| |Z|Stormwind City|
-N Make sure you have your [Nature] and [Frost] reistances maxed on your pet. Karrina Mekenda to respec it if you don't have enough pet training points |N|(61.6, 16.0)| |C|Hunter| |Z|Stormwind City|
+N Make sure you have your [Nature] and [Frost] reistances maxed on your pet. Talk to Karrina Mekenda to respec it if you don't have enough pet training points |N|(61.6, 16.0)| |C|Hunter| |Z|Stormwind City|
 T The Missing Diplomat |QID|1274| |N|Bishop DeLavey - (78.3, 25.4)| |Z|Stormwind City|
 A The Missing Diplomat |QID|1241| |N|Bishop DeLavey - (78.3, 25.4)| |Z|Stormwind City|
 N If you found [An Old History Book] you may turn it in |N|(74.2, 7.5)| |Z|Stormwind City|
@@ -70,6 +70,7 @@ A Worgen in the Woods |QID|173| |N|Calor - (75.8, 47.6)| |Z|Duskwood|
 N She may be dead or busy fighting Stitches if he attacks Darkshire. If that happens consider grinding mobs near the town untill she respawns or changing your layer (if possible) |N|(73.6, 46.9)| |Z|Duskwood|
 A The Night Watch |QID|58| |N|Commander Althea Ebonlocke - (73.6, 46.9)| |Z|Duskwood|
 N Innkeeper Trelayne |N|(73.9, 44.4)| |Z|Duskwood|
+h Darkshire |N|Set hearth in Darkshire (73.9, 44.4)| |Z|Duskwood|
 T The Missing Diplomat |QID|1243| |N|(72.5, 33.5)| |Z|Duskwood|
 A The Missing Diplomat |QID|1244| |N|(72.5, 33.5)| |Z|Duskwood|
 C Worgen in the Woods |QID|173| |OIDX|1| |N|Nightbane Shadow Weavers (63.6, 41.2)| |Z|Duskwood|
@@ -113,6 +114,7 @@ A Morbent Fel |QID|55| |N|Sven Yorgen - (7.8, 34.1)| |Z|Duskwood|
 N Loganaar |N|(52.5, 40.6)| |C|Druid| |Z|Duskwood|
 R Travel to Moonglade |N|(52.5, 40.6)| |C|Druid| |Z|Moonglade|
 t Train your class spells |N|Teleport to Moonglade - (52.5, 40.6)| |C|Druid| |Z|Moonglade|
+H Darkshire |N|Hearth to Darkshire| |Z|Moonglade|
 N Buy food/water if needed |C|!Warrior/!Rogue| |Z|Moonglade|
 N Buy food if needed |C|Warrior/Rogue| |Z|Moonglade|
 B Buy food/water. You'll need at least 2 1/2 stacks for the upcoming segment |N|Innkeeper Trelayne - (73.9, 44.4)| |O| |Z|Duskwood|
@@ -188,6 +190,7 @@ T Jungle Secrets |QID|215| |N|Lieutenant Doren - (38.0, 3.0)| |Z|Stranglethorn V
 N Loganaar |N|(52.5, 40.6)| |C|Druid| |Z|Stranglethorn Vale|
 R Travel to Moonglade |N|(52.5, 40.6)| |C|Druid| |Z|Moonglade|
 t Train your class spells |N|Teleport to Moonglade - (52.5, 40.6)| |C|Druid| |Z|Moonglade|
+H Darkshire |N|Hearth to Darkshire| |O| |Z|Moonglade|
 N Buy food/water if needed |O| |C|!Warrior/!Rogue| |Z|Moonglade|
 N Buy food if needed |O| |C|Warrior/Rogue| |Z|Moonglade|
 N She may be dead or busy fighting Stitches if he attacks Darkshire. If that happens consider grinding mobs near the town untill she respawns or changing your layer (if possible) |N|(73.6, 46.9)| |Z|Duskwood|
@@ -276,9 +279,11 @@ R Travel to Dun Morogh |N|(53.5, 34.9) (Gnomer Dungeon Quest)| |D|Gnomer| |Z|Dun
 T The Day After |QID|2927| |N|Ozzie Togglevolt - (45.9, 49.4) (Gnomer Dungeon Quest)| |D|Gnomer| |Z|Dun Morogh|
 A Gnogaine |QID|2926| |N|Ozzie Togglevolt - (45.9, 49.4) (Gnomer Dungeon Quest)| |D|Gnomer| |Z|Dun Morogh|
 N Innkeeper Belm inside |N|(47.4, 52.5) (Gnomer Dungeon Quest)| |D|Gnomer| |Z|Dun Morogh|
+h Kharanos |N|Set hearth in Kharanos (47.4, 52.5) (Gnomer Dungeon Quest)| |D|Gnomer| |Z|Dun Morogh|
 R Gnomeregan |N|(43.4, 53.8) (Gnomer Dungeon Quest)| |D|Gnomer| |Z|Westfall|
+N The Irradiated Invader or Irradiated Pillager must be ALIVE when you use it |N|(43.4, 53.4) (Gnomer Dungeon Quest)| |D|Gnomer| |Z|Westfall|
 N This quest is completed while OUTSIDE of the dungeon |N|(43.4, 53.4) (Gnomer Dungeon Quest)| |D|Gnomer| |Z|Westfall|
-C Gnogaine |QID|2926| |OIDX|1| |N|The Irradiated Invader or Irradiated Pillager must be ALIVE when you use it (43.4, 53.4) (Gnomer Dungeon Quest)| |D|Gnomer| |Z|Westfall|
+C Gnogaine |QID|2926| |OIDX|1| |N|Use the [Empty Leaden Collection Phial] on a Irradiated Invader or Irradiated Pillager (43.4, 53.4) (Gnomer Dungeon Quest)| |D|Gnomer| |Z|Westfall|
 R Ozzie Togglevolt in Kharanos |N|(46.0, 48.6) (Gnomer Dungeon Quest)| |D|Gnomer| |Z|Dun Morogh|
 N You will get a follow up for when you go inside the dungeon |N|(46.0, 48.6) (Gnomer Dungeon Quest)| |D|Gnomer| |Z|Dun Morogh|
 T Gnogaine |QID|2926| |N|Ozzie Togglevolt - (45.9, 49.4) (Gnomer Dungeon Quest)| |D|Gnomer| |Z|Dun Morogh|
@@ -296,8 +301,9 @@ C Use the [Yellow Punch Card] at the Matrix Punchograph 3005-B |QID|2930| |L|928
 N This will start an escort quest. Kernobee spawns randomly in The Dormitory, right outside of the gnomish safe zone |N|(Gnomer Dungeon Quest)| |D|Gnomer| |Z|Westfall|
 A A Fine Mess |QID|2904| |N|Kernobee (Gnomer Dungeon Quest)| |D|Gnomer| |Z|Westfall|
 C A Fine Mess |QID|2904| |OIDX|1| |N|Escort Kernobee back to the start of the dungeon (Gnomer Dungeon Quest)| |D|Gnomer| |Z|Westfall|
+N The Irradiated Slime, Irradiated Lurker or Irradiated Horror must be ALIVE when you use it |N|(Gnomer Dungeon Quest)| |D|Gnomer| |Z|Westfall|
 N Note: You must turn this quest in within 2 hours of acquiring the [High Potency Radioactive Fallout] |N|(Gnomer Dungeon Quest)| |D|Gnomer| |Z|Westfall|
-C The Only Cure is More Green Glow |QID|2962| |OIDX|1| |N|The Irradiated Slime, Irradiated Lurker or Irradiated Horror must be ALIVE when you use it (Gnomer Dungeon Quest)| |D|Gnomer| |Z|Westfall|
+C The Only Cure is More Green Glow |QID|2962| |OIDX|1| |N|Use the [Heavy Leaden Collection Phial] on a Irradiated Slime, Irradiated Lurker or Irradiated Horror (Gnomer Dungeon Quest)| |D|Gnomer| |Z|Westfall|
 C Essential Artificials |QID|2924| |OIDX|1| |N|Open the Artificial Extrapolators. Loot them for Essential Artificials (Gnomer Dungeon Quest)| |D|Gnomer| |Z|Westfall|
 N The Punchograph is located on the suspended platform right next to the Electrocutioner 6000 |N|(Gnomer Dungeon Quest)| |D|Gnomer| |Z|Westfall|
 C Use the [Blue Punch Card] at the Matrix Punchograph 3005-C |QID|2930| |L|9281 1| |N|Use the [Blue Punch Card] at the Matrix Punchograph 3005-C (Gnomer Dungeon Quest)| |D|Gnomer| |Z|Westfall|
@@ -310,6 +316,7 @@ A Grime-Encrusted Ring |QID|2945| |N|Use the [Grime-Encrusted Ring] to start the
 C Use the [Grime-Encrusted Ring] to start the quest |QID|2945| |L|9326 1| |N|Use the [Grime-Encrusted Ring] to start the quest (Gnomer Dungeon Quest)| |D|Gnomer| |Z|Westfall|
 T Grime-Encrusted Ring |QID|2945| |N|Take the [Grime-Encrusted Ring] to The Sparklematic 5200 in The Clean Zone (Gnomer Dungeon Quest)| |D|Gnomer| |Z|Westfall|
 A Return of the Ring |QID|2947| |N|Click the The Sparklematic 5200 one more time (Gnomer Dungeon Quest)| |D|Gnomer| |Z|Westfall|
+H Kharanos |N|Hearth to Kharanos (Gnomer Dungeon Quest)| |D|Gnomer| |Z|Westfall|
 R Travel to Dun Morogh |N|(46.0, 48.6) (Gnomer Dungeon Quest)| |D|Gnomer| |Z|Dun Morogh|
 T The Only Cure is More Green Glow |QID|2962| |N|Ozzie Togglevolt - (45.9, 49.4) (Gnomer Dungeon Quest)| |D|Gnomer| |Z|Dun Morogh|
 R Travel to Ironforge |N|(14.9, 87.1) (Gnomer Dungeon Quest)| |D|Gnomer| |Z|Ironforge|

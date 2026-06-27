@@ -13,6 +13,7 @@ A Rat Catching |QID|416| |N|Mountaineer Kadrell - (36.8, 46.2)| |Z|Loch Modan|
 A Mountaineer Stormpike's Task |QID|1339| |N|Mountaineer Kadrell - (36.8, 46.2)| |Z|Loch Modan|
 A Thelsamar Blood Sausages |QID|418| |N|Vidra Hearthstove - (34.8, 49.3)| |Z|Loch Modan|
 R Innkeeper Hearthstove |N|(35.5, 48.4)| |Z|Loch Modan|
+h Thelsamar |N|Set hearth in Thelsamar (35.5, 48.4)| |Z|Loch Modan|
 A Honor Students |QID|6387| |N|Brock Stoneseeker - (37.0, 47.8)| |Z|Loch Modan|
 T Honor Students |QID|6387| |N|Thorgrum Borrelson - (33.9, 51.0)| |Z|Loch Modan|
 A Ride to Ironforge |QID|6391| |N|Thorgrum Borrelson - (33.9, 51.0)| |Z|Loch Modan|
@@ -72,6 +73,7 @@ N This is used to make [Basic Campfires] on Boats or Trams to level your [Cookin
 N You need 50 [Cooking] for a quest in Duskwood later |N|(82.5, 63.4)| |Z|Loch Modan|
 B Simple Wood (1) |L|4470 1| |N|Xandar Goodbeard - (82.5, 63.4)| |Z|Loch Modan|
 B Flint and Tinder (1) |L|4471 1| |N|Xandar Goodbeard - (82.5, 63.4)| |Z|Loch Modan|
+N Die and respawn at the Spirit Healer |O| |Z|Loch Modan|
 T Excavation Progress Report |QID|298| |N|Jern Hornhelm - (37.2, 47.4)| |Z|Loch Modan|
 A Report to Ironforge |QID|301| |N|Jern Hornhelm - (37.2, 47.4)| |Z|Loch Modan|
 F Fly to Ironforge |N|Thorgrum - (33.9, 51.0)| |Z|Loch Modan|
@@ -79,7 +81,7 @@ t Train [Cooking] |N|Daryl Riknussun - (60.1, 36.4)| |Z|Ironforge|
 T Report to Ironforge |QID|301| |N|Prospector Stormpike - (74.6, 11.7)| |Z|Ironforge|
 N Monty on the middle platform |N|(74.4, 51.1)| |Z|Ironforge|
 A Deeprun Rat Roundup |QID|6661| |N|Enter the Deeprun Tram - (74.4, 51.1)| |Z|Ironforge|
-C Deeprun Rat Roundup |QID|6661| |OIDX|1| |N|Kill Deeprun Rat Rats Captured (x5)| |Z|Ironforge|
+C Deeprun Rat Roundup |QID|6661| |OIDX|1| |N|Use the [Rat Catcher's Flute] on Deeprun Rats Rats Captured (x5)| |Z|Ironforge|
 T Deeprun Rat Roundup |QID|6661| |N|Monty| |Z|Ironforge|
 A Me Brother, Nipsy |QID|6662| |N|Monty| |Z|Ironforge|
 N Level your [First Aid] and [Cooking] if needed while waiting for the Tram |O| |Z|Ironforge|
@@ -91,17 +93,12 @@ A Stormpike's Delivery |QID|353| |N|Grimand Elmore - (51.8, 12.1)| |Z|Stormwind 
 T Stormpike's Order |QID|1338| |N|Furen Longbeard - (58.1, 16.6)| |Z|Stormwind City|
 t Train your class spells |N|Einris Brightspear - (61.6, 15.3)| |C|Hunter| |Z|Stormwind City|
 t Train Staves |N|Woo Ping - (57.1, 57.7)| |Z|Stormwind City|
+H Loch Modan |N|Hearth to Loch Modan| |Z|Stormwind City|
 R Travel north to the Algaz Station |N|(23.9, 17.9)| |O| |Z|Loch Modan|
 T Stormpike's Delivery |QID|353| |N|Mountaineer Stormpike - (24.8, 18.4)| |Z|Loch Modan|
+N Die and respawn at the Spirit Healer |O| |Z|Loch Modan|
 F Fly to Wetlands |N|Thorgrum - (33.9, 51.0)| |Z|Loch Modan|
-R Travel to Dun Morogh |N|(53.5, 34.9)| |Z|Dun Morogh|
-R the Dun Morogh -> Wetlands skip spot |N|(59.4, 42.9)| |O| |Z|Dun Morogh|
-R Travel to Wetlands |N|(15.1, 64.0)| |Z|Wetlands|
-R Watch the video guide for a reference on how to do the skip first! |N|(12.1, 60.3)| |Z|Wetlands|
-N Do the Deathless Dun Morogh -> Wetlands skip |N|(12.1, 60.3)| |Z|Wetlands|
-N Avoid the Wetlands Crocolisks and Murlocs when crossing the water |N|(12.1, 60.3)| |Z|Wetlands|
-R Menethil Harbor |N|(12.1, 60.3)| |Z|Wetlands|
-f Get the Wetlands flight path |N|Shellei - (9.5, 59.7)| |Z|Wetlands|
+R Travel to Wetlands |N|(7.1, 58.0)| |O| |Z|Wetlands|
 R the dock of the Auberdine boat |N|(4.6, 57.3)| |O| |Z|Wetlands|
 N On the Boat if it just arrived or on the dock if the boat just left: |O| |Z|Wetlands|
 N You need 50 [Cooking] for a quest in Duskwood later |O| |Z|Wetlands|

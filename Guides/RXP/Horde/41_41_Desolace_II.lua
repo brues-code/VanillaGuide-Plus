@@ -26,8 +26,9 @@ N He is easily killable in [Bear Form] or by kiting him with [Entangling Roots] 
 C The Corrupter |QID|1488| |OIDX|1| |N|Lord Azrethoc. He patrols a little on the eastern side of Mannoroc Coven (55.9, 77.8)| |Z|Desolace|
 C The Corrupter |QID|1488| |OIDX|2| |N|Jugkar Grim'rod (55.9, 77.8)| |Z|Desolace|
 C Khan Jehn |QID|1374| |OIDX|1| |N|Khan Jehn. Loot him for his Head (66.3, 80.1)| |Z|Desolace|
+N Kill Magrami Spectres as they spawn. Loot them for their Ghost-o-plasm |N|(64.0, 91.7)| |Z|Desolace|
 N Be careful. They share agro, it is easy to overpull here |N|(64.0, 91.7)| |Z|Desolace|
-C Ghost-o-plasm Round Up |QID|6134| |OIDX|1| |N|Kill Magrami Spectres as they spawn. Loot them for their Ghost-o-plasm (64.0, 91.7)| |Z|Desolace|
+C Ghost-o-plasm Round Up |QID|6134| |OIDX|1| |N|Use the [Crate of Ghost Magnets] (64.0, 91.7)| |Z|Desolace|
 C Portals of the Legion |QID|5581| |OIDX|1| |N|Demon Portals, then kill the Demon Portal Guardians (53.4, 79.5)| |Z|Desolace|
 T The Corrupter |QID|1488| |N|Takata - (52.6, 54.4)| |Z|Desolace|
 T Ghost-o-plasm Round Up |QID|6134| |N|Hornizz - (47.8, 61.8)| |Z|Desolace|
@@ -44,6 +45,7 @@ C Get Me Out of Here! |QID|6132| |OIDX|1| |N|Escort Melizza to safety| |Z|Desola
 T Get Me Out of Here! |QID|6132| |N|Hornizz - (47.8, 61.8)| |Z|Desolace|
 T Khan Hratha |QID|1380| |N|Uthek - (36.3, 79.3)| |Z|Desolace|
 T Portals of the Legion |QID|5581| |N|Taiga Wisemane - (25.8, 68.2)| |Z|Desolace|
+H Camp Taurajo |N|Hearth to Camp Taurajo| |Z|Desolace|
 R Arrive in Camp Taurajo |N|(45.6, 59.0)| |Z|The Barrens|
 B Sell your junk, then restock on food and water if necessary |N|Innkeeper Byula - (45.6, 59.0)| |C|!Rogue/!Warrior| |Z|The Barrens|
 B Sell your junk, then restock on food if necessary |N|Innkeeper Byula - (45.6, 59.0)| |C|Rogue/Warrior| |Z|The Barrens|

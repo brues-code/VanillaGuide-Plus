@@ -15,17 +15,12 @@ A Forged Steel |QID|1503| |N|Thun'grim - (57.2, 30.3)| |C|Warrior| |R|!Undead| |
 C Forged Steel |QID|1503| |OIDX|1| |N|the Stolen Iron Chest for its Forged Steel Bars Forged Steel Bars (1)| |C|Warrior| |R|!Undead| |Z|The Barrens|
 R the top of the mountain |N|(56.6, 28.6)| |O| |C|Warrior| |R|!Undead| |Z|The Barrens|
 T Forged Steel |QID|1503| |N|Thun'grim - (57.2, 30.3)| |C|Warrior| |R|!Undead| |Z|The Barrens|
+N Die and respawn at the Spirit Healer |N|(50.7, 32.6)| |O| |C|!Shaman/!Warrior/Undead| |Z|The Barrens|
 A The Forgotten Pools |QID|870| |N|Tonga - (52.3, 31.9)| |C|!Shaman/!Warrior/Undead| |Z|The Barrens|
-A Meats to Orgrimmar |QID|6365| |N|Zargh - (52.6, 29.8)| |C|!Warrior/!Shaman/Troll/!Warrior/!Shaman| |R|Orc| |Z|The Barrens|
 T Crossroads Conscription |QID|842| |N|Sergra - (52.2, 31.0)| |C|!Druid| |Z|The Barrens|
 A Plainstrider Menace |QID|844| |N|Sergra - (52.2, 31.0)| |C|!Shaman/!Warrior/Undead| |Z|The Barrens|
-A The Forgotten Pools |QID|870| |N|Tonga - (52.3, 31.9)| |C|!Shaman/!Warrior/Undead| |Z|The Barrens|
 A Disrupt the Attacks |QID|871| |N|Thork - (51.5, 30.9)| |C|!Shaman/!Warrior/Undead| |Z|The Barrens|
 A Supplies for the Crossroads |QID|5041| |N|Thork - (51.5, 30.9)| |C|!Shaman/!Warrior/Undead| |Z|The Barrens|
-N Do NOT fly to Orgrimmar! |N|(51.5, 30.3)| |C|!Warrior/!Shaman/Troll/!Warrior/!Shaman| |R|Orc| |Z|The Barrens|
-f Get the The Crossroads flight path |N|Devrak - (51.5, 30.3)| |C|!Warrior/!Shaman/Troll/!Warrior/!Shaman| |R|Orc| |Z|The Barrens|
-T Meats to Orgrimmar |QID|6365| |N|Devrak - (51.5, 30.3)| |C|!Warrior/!Shaman/Troll/!Warrior/!Shaman| |R|Orc| |Z|The Barrens|
-A Ride to Orgrimmar |QID|6384| |N|Devrak - (51.5, 30.3)| |C|!Warrior/!Shaman/Troll/!Warrior/!Shaman| |R|Orc| |Z|The Barrens|
 f Get the The Crossroads flight path |N|Devrak - (51.5, 30.3)| |R|Undead| |Z|The Barrens|
 A Wharfmaster Dizzywig |QID|1492| |N|Helbrim - (51.4, 30.1)| |Z|The Barrens|
 A Fungal Spores |QID|848| |N|Helbrim - (51.4, 30.1)| |Z|The Barrens|
@@ -36,6 +31,7 @@ B Collect Laminated Recurve Bow (1) |L|2507 1| |N|Uthrok. Buy a [Laminated Recur
 B Collect Hunter's Boomstick (1) |L|2511 1| |N|Uthrok. Buy a [Hunter's Boomstick] from him - (51.1, 29.1)| |C|Hunter| |R|Tauren| |Z|The Barrens|
 A Raptor Thieves |QID|869| |N|Gazrog - (51.9, 30.3)| |C|!Shaman/!Warrior/Undead| |Z|The Barrens|
 R Innkeeper Boorand |N|(52.0, 29.9)| |C|!Shaman/!Warrior/Undead| |R|!Tauren| |Z|The Barrens|
+h Crossroads |N|Set hearth in Crossroads (52.0, 29.9)| |C|!Shaman/!Warrior/Undead| |R|!Tauren| |Z|The Barrens|
 A Meats to Orgrimmar |QID|6365| |N|Zargh - (52.6, 29.8)| |C|!Warrior/!Shaman/Troll/!Warrior/!Shaman| |R|Orc| |Z|The Barrens|
 C Plainstrider Menace |QID|844| |OIDX|1| |N|Kill Plainstriders. Loot them for their Beaks Plainstrider Beak (7)| |O| |Z|The Barrens|
 R the top of the mountain |N|(47.6, 19.2)| |O| |R|!Tauren/!Undead| |Z|The Barrens|
@@ -44,8 +40,8 @@ N Make sure you have a [Flawed Power Stone] (30 minute duration) on you |N|(48.0
 C Collect Flawed Power Stone |QID|924| |L|4986 1| |N|Right click the Altar (48.0, 19.1)| |R|!Tauren/!Undead| |Z|The Barrens|
 C a Razormane Water Seeker or Razormane Thornweaver. Loot them for a Fire Tar |QID|1525| |OIDX|1| |N|a Razormane Water Seeker or Razormane Thornweaver. Loot them for a Fire Tar - (53.6, 25.5)| |C|Shaman| |Z|The Barrens|
 C Disrupt the Attacks |QID|871| |OIDX|1| |N|Kill Water Seekers, Thornweavers and Hunters Razormane Water Seeker (8)| |O| |Z|The Barrens|
-C Collect Chen's Empty Keg |QID|819| |L|4926 1| |N|(55.7, 27.3)| |Z|The Barrens|
-A Chen's Empty Keg |QID|819| |N|(55.7, 27.3)| |Z|The Barrens|
+C Collect Chen's Empty Keg |QID|819| |L|4926 1| |N|Loot Chen's Empty Keg from the ground and start the quest. If it's not up you'll get it later (55.7, 27.3)| |Z|The Barrens|
+A Chen's Empty Keg |QID|819| |N|Loot Chen's Empty Keg from the ground and start the quest. If it's not up you'll get it later - (55.7, 27.3)| |Z|The Barrens|
 C Disrupt the Attacks |QID|871| |OIDX|1| |N|Water Seekers, Thornweavers and Hunters Razormane Water Seeker (8)| |Z|The Barrens|
 C Raptor Thieves |QID|869| |OIDX|1| |N|Kill every Raptor you see. Loot them for their Heads Raptor Head (12)| |O| |Z|The Barrens|
 C Plainstrider Menace |QID|844| |OIDX|1| |N|Plainstriders. Loot them for their Beaks Plainstrider Beak (7)| |Z|The Barrens|
@@ -62,10 +58,11 @@ A Ride to Orgrimmar |QID|6384| |N|Devrak - (51.5, 30.3)| |C|!Warrior/!Shaman/Tro
 B Collect Laminated Recurve Bow (1) |L|2507 1| |N|Uthrok. Buy a [Laminated Recurve Bow] from him - (51.1, 29.1)| |O| |C|Hunter/Troll/Hunter| |R|Orc| |Z|The Barrens|
 B Collect Hunter's Boomstick (1) |L|2511 1| |N|Uthrok. Buy a [Hunter's Boomstick] from him - (51.1, 29.1)| |O| |C|Hunter| |R|Tauren| |Z|The Barrens|
 R Innkeeper Boorand |N|(52.0, 29.9)| |C|Warrior/Troll/Warrior/Orc/Shaman/Troll/Shaman| |R|Orc| |Z|The Barrens|
+h Crossroads |N|Set hearth in Crossroads (52.0, 29.9)| |C|Warrior/Troll/Warrior/Orc/Shaman/Troll/Shaman| |R|Orc| |Z|The Barrens|
 B if Lizzarik is in the Crossroads. He sells potions and [Heavy Spiked Mace] which is a limited supply item |N|(52.5, 30.7)| |O| |C|Warrior/Troll/Warrior/Tauren/Warrior| |R|Orc| |Z|The Barrens|
 F Fly to Orgrimmar |N|Devrak - (51.5, 30.3) (RFC Dungeon Quest)| |R|!Undead/!Tauren| |D|RFC| |Z|The Barrens|
-C Collect Chen's Empty Keg |QID|819| |L|4926 1| |N|(55.8, 20.0) (RFC Dungeon Quest)| |R|Tauren| |D|RFC| |Z|The Barrens|
-A Chen's Empty Keg |QID|819| |N|(55.8, 20.0) (RFC Dungeon Quest)| |R|Tauren| |D|RFC| |Z|The Barrens|
+C Collect Chen's Empty Keg |QID|819| |L|4926 1| |N|Loot Chen's Empty Keg from the ground and start the quest. If it's not up you'll get it later (55.8, 20.0) (RFC Dungeon Quest)| |R|Tauren| |D|RFC| |Z|The Barrens|
+A Chen's Empty Keg |QID|819| |N|Loot Chen's Empty Keg from the ground and start the quest. If it's not up you'll get it later - (55.8, 20.0) (RFC Dungeon Quest)| |R|Tauren| |D|RFC| |Z|The Barrens|
 C The Disruption Ends |QID|872| |OIDX|1| |N|Razormane Geomancers and Razormane Defenders Razormane Geomancer (8) (RFC Dungeon Quest)| |R|Tauren| |D|RFC| |Z|The Barrens|
 N It has multiple spawn locations |N|(RFC Dungeon Quest)| |R|Tauren| |D|RFC| |Z|The Barrens|
 C Supplies for the Crossroads |QID|5041| |OIDX|1| |N|Loot the Crossroads' Supply Crates Crossroads' Supply Crates (1) (RFC Dungeon Quest)| |R|Tauren| |D|RFC| |Z|The Barrens|
@@ -83,8 +80,9 @@ C Call of Fire |QID|1526| |OIDX|1| |N|the Minor Manifestation of Fire. Loot him 
 T Call of Fire |QID|1526| |N|the Brazier on the ground - (39.0, 58.2) (RFC Dungeon Quest)| |C|Shaman| |R|Tauren| |D|RFC| |Z|Durotar|
 A Call of Fire |QID|1527| |N|the Brazier on the ground - (39.0, 58.2) (RFC Dungeon Quest)| |C|Shaman| |R|Tauren| |D|RFC| |Z|Durotar|
 T Call of Fire |QID|1527| |N|Kranal - (55.9, 19.9) (RFC Dungeon Quest)| |C|Shaman| |R|Tauren| |D|RFC| |Z|The Barrens|
-C Collect Chen's Empty Keg |QID|819| |L|4926 1| |N|Wait for the respawn if it's not up (55.8, 20.0) (RFC Dungeon Quest)| |C|Shaman| |R|Tauren| |D|RFC| |Z|The Barrens|
-A Chen's Empty Keg |QID|819| |N|Wait for the respawn if it's not up - (55.8, 20.0) (RFC Dungeon Quest)| |C|Shaman| |R|Tauren| |D|RFC| |Z|The Barrens|
+N Wait for the respawn if it's not up |N|(55.8, 20.0) (RFC Dungeon Quest)| |C|Shaman| |R|Tauren| |D|RFC| |Z|The Barrens|
+C Collect Chen's Empty Keg |QID|819| |L|4926 1| |N|Loot Chen's Empty Keg from the ground and start the quest (55.8, 20.0) (RFC Dungeon Quest)| |C|Shaman| |R|Tauren| |D|RFC| |Z|The Barrens|
+A Chen's Empty Keg |QID|819| |N|Loot Chen's Empty Keg from the ground and start the quest - (55.8, 20.0) (RFC Dungeon Quest)| |C|Shaman| |R|Tauren| |D|RFC| |Z|The Barrens|
 R Travel to Orgrimmar |N|(49.0, 92.8) (RFC Dungeon Quest)| |R|Tauren| |D|RFC| |Z|Orgrimmar|
 N Don't fly anywhere! |N|(45.1, 63.9) (RFC Dungeon Quest)| |R|Tauren| |D|RFC| |Z|Orgrimmar|
 f Get the Orgrimmar flight path |N|Doras - (45.1, 63.9) (RFC Dungeon Quest)| |R|Tauren| |D|RFC| |Z|Orgrimmar|
@@ -113,16 +111,19 @@ T Hidden Enemies |QID|5729| |N|Neeru Fireblade - (49.6, 50.4) (RFC Dungeon Quest
 A Hidden Enemies |QID|5730| |N|Neeru Fireblade - (49.6, 50.4) (RFC Dungeon Quest)| |R|!Undead| |D|RFC| |Z|Orgrimmar|
 T Hidden Enemies |QID|5730| |N|Thrall - (31.7, 37.8) (RFC Dungeon Quest)| |R|!Undead| |D|RFC| |Z|Orgrimmar|
 F Fly to Thunder Bluff |N|Doras - (45.1, 63.9) (RFC Dungeon Quest)| |R|Tauren| |D|RFC| |Z|Orgrimmar|
+H Crossroads |N|Hearth to Crossroads (RFC Dungeon Quest)| |R|!Tauren| |D|RFC| |Z|Orgrimmar|
 F Fly to Thunder Bluff |N|Devrak - (51.5, 30.3) (RFC Dungeon Quest)| |C|Warrior/Troll/Warrior/Orc/Shaman/Troll/Shaman| |R|Orc| |D|RFC| |Z|The Barrens|
 R the Elder Rise |N|(69.9, 30.9) (RFC Dungeon Quest)| |C|Warrior/Troll/Warrior/Orc/Shaman/Troll/Shaman| |R|Tauren/Orc| |D|RFC| |Z|Thunder Bluff|
 T Returning the Lost Satchel |QID|5724| |N|Rahauro - (70.4, 29.6) (RFC Dungeon Quest)| |C|Warrior/Troll/Warrior/Orc/Shaman/Troll/Shaman| |R|Tauren/Orc| |D|RFC| |Z|Thunder Bluff|
 T Testing an Enemy's Strength |QID|5723| |N|Rahauro - (70.4, 29.6) (RFC Dungeon Quest)| |C|Warrior/Troll/Warrior/Orc/Shaman/Troll/Shaman| |R|Tauren/Orc| |D|RFC| |Z|Thunder Bluff|
 T Returning the Lost Satchel |QID|5724| |N|Rahauro - (70.4, 29.6) (RFC Dungeon Quest)| |C|Warrior/Troll/Warrior/Orc/Shaman/Troll/Shaman| |R|Tauren/Orc| |D|RFC| |Z|Thunder Bluff|
 T Testing an Enemy's Strength |QID|5723| |N|Rahauro - (70.4, 29.6) (RFC Dungeon Quest)| |C|Warrior/Troll/Warrior/Orc/Shaman/Troll/Shaman| |R|Tauren/Orc| |D|RFC| |Z|Thunder Bluff|
+H Crossroads |N|Hearth to Crossroads (RFC Dungeon Quest)| |D|RFC| |Z|Thunder Bluff|
 F Fly to Crossroads |N|Tal - (47.0, 49.8) (RFC Dungeon Quest)| |D|RFC| |Z|Thunder Bluff|
 R Travel to The Barrens |N|(55.8, 20.0)| |Z|The Barrens|
-C Collect Chen's Empty Keg |QID|819| |L|4926 1| |N|Wait for the respawn if it's not up (55.8, 20.0)| |Z|The Barrens|
-A Chen's Empty Keg |QID|819| |N|Wait for the respawn if it's not up - (55.8, 20.0)| |Z|The Barrens|
+N Wait for the respawn if it's not up |N|(55.8, 20.0)| |Z|The Barrens|
+C Collect Chen's Empty Keg |QID|819| |L|4926 1| |N|Loot Chen's Empty Keg from the ground and start the quest (55.8, 20.0)| |Z|The Barrens|
+A Chen's Empty Keg |QID|819| |N|Loot Chen's Empty Keg from the ground and start the quest - (55.8, 20.0)| |Z|The Barrens|
 C The Disruption Ends |QID|872| |OIDX|1| |N|Razormane Geomancers and Razormane Defenders Razormane Geomancer (8)| |O| |Z|The Barrens|
 N It has multiple spawn locations |O| |Z|The Barrens|
 C Supplies for the Crossroads |QID|5041| |OIDX|1| |N|Loot the Crossroads' Supply Crates Crossroads' Supply Crates (1)| |O| |Z|The Barrens|
@@ -145,8 +146,9 @@ A Call of Fire |QID|1527| |N|the Brazier on the ground - (39.0, 58.2)| |C|Shaman
 C Raptor Thieves |QID|869| |OIDX|1| |N|Kill every Raptor you see. Loot them for their Heads Raptor Head (12)| |O| |C|Shaman| |Z|Durotar|
 C The Zhevra |QID|845| |OIDX|1| |N|Kill any Zhevra you see. Loot them for their Hooves Zhevra Hooves (4) (RFC Dungeon Quest)| |C|Shaman| |D|RFC| |Z|Durotar|
 T Call of Fire |QID|1527| |N|Kranal - (55.9, 19.9)| |C|Shaman| |Z|The Barrens|
-C Collect Chen's Empty Keg |QID|819| |L|4926 1| |N|Wait for the respawn if it's not up (55.8, 20.0)| |C|Shaman| |Z|The Barrens|
-A Chen's Empty Keg |QID|819| |N|Wait for the respawn if it's not up - (55.8, 20.0)| |C|Shaman| |Z|The Barrens|
+N Wait for the respawn if it's not up |N|(55.8, 20.0)| |C|Shaman| |Z|The Barrens|
+C Collect Chen's Empty Keg |QID|819| |L|4926 1| |N|Loot Chen's Empty Keg from the ground and start the quest (55.8, 20.0)| |C|Shaman| |Z|The Barrens|
+A Chen's Empty Keg |QID|819| |N|Loot Chen's Empty Keg from the ground and start the quest - (55.8, 20.0)| |C|Shaman| |Z|The Barrens|
 C The Zhevra |QID|845| |OIDX|1| |N|Zhevra Runners. Loot them for their Hooves Zhevra Hooves (4)| |O| |Z|The Barrens|
 A Southsea Freebooters |QID|887| |N|Gazlowe - (62.7, 36.2)| |Z|The Barrens|
 f Get the Ratchet flight path |N|Bragok - (63.1, 37.2)| |O| |Z|The Barrens|
@@ -296,6 +298,7 @@ B Collect Reinforced Bow (1) |L|3026 1| |N|Zendo'jian. Buy a [Reinforced Bow] fr
 t Training (227) |N|Zendo'jian. Buy a [Reinforced Bow] from him - (81.2, 18.7)| |C|Hunter| |Z|Orgrimmar|
 B Collect Battle Axe (1) |L|926 1| |N|Zendo'jian. Buy a [Battle Axe] from him - (81.2, 18.7)| |C|Warrior| |Z|Orgrimmar|
 t Training (227) |N|Zendo'jian. Buy a [Battle Axe] from him - (81.2, 18.7)| |C|Warrior| |Z|Orgrimmar|
+H Crossroads |N|Hearth to Crossroads| |O| |Z|Orgrimmar|
 F Fly to The Crossroads |N|Doras - (45.1, 63.9)| |O| |Z|Orgrimmar|
 B Sell your junk, then restock on food and water if necessary |N|Innkeeper Boorand - (52.0, 29.9)| |C|!Rogue/!Warrior| |Z|The Barrens|
 B Sell your junk, then restock on food if necessary |N|Innkeeper Boorand - (52.0, 29.9)| |C|Rogue/Warrior| |Z|The Barrens|
@@ -372,6 +375,7 @@ C Chen's Empty Keg |QID|821| |OIDX|3| |N|Kill Stormsnouts. Loot them for a Thund
 C Chen's Empty Keg |QID|821| |OIDX|3| |N|Kill Stormsnouts. Loot them for a Horn. This does not have to be completed now Thunder Lizard Horn (1)| |O| |Z|The Barrens|
 R Camp Taurajo |N|(45.2, 58.4)| |O| |Z|The Barrens|
 R Innkeeper Byula |N|(45.6, 59.0)| |Z|The Barrens|
+h Camp Taurajo |N|Set hearth in Camp Taurajo (45.6, 59.0)| |Z|The Barrens|
 T Lakota'mani |QID|883| |N|Jorn Skyseer - (44.9, 59.1)| |Z|The Barrens|
 A Tribes at War |QID|878| |N|Mangletooth - (44.5, 59.3)| |Z|The Barrens|
 f Get the Camp Taurajo flight path |N|Omusa - (44.5, 59.2) (RFC Dungeon Quest)| |R|!Tauren| |D|RFC| |Z|The Barrens|

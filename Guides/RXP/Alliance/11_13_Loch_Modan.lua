@@ -76,6 +76,7 @@ C Stonesplinter Troggs and Stonesplinter Scouts. Loot them for their Teeth |QID|
 R Run up the dirt path then drop down into the bunker |N|(23.7, 75.5)| |O| |Z|Loch Modan|
 T The Trogg Threat |QID|267| |N|Captain Rugelfuss - (23.2, 73.7)| |Z|Loch Modan|
 T In Defense of the King's Lands |QID|224| |N|Mountaineer Cobbleflint - (22.1, 73.1)| |Z|Loch Modan|
+H Stormwind City |N|Hearth to Stormwind City| |O| |Z|Loch Modan|
 N Ardwyn Cailen |N|(42.6, 67.2)| |C|Warlock/Priest| |Z|Loch Modan|
 N Buy a [Smoldering Wand] from her |N|(42.6, 67.2)| |C|Warlock/Priest| |Z|Loch Modan|
 R Travel to Stormwind City |N|(42.9, 65.1)| |C|Warlock/Priest| |Z|Stormwind City|

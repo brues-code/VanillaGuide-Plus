@@ -54,6 +54,7 @@ A Further Instructions |QID|1094| |N|Ziz - (59.0, 62.6)| |Z|Stonetalon Mountains
 N Save any [Small Venom Sacs] you loot |N|(59.0, 73.0)| |C|Rogue| |Z|Stonetalon Mountains|
 C Blood Feeders |QID|6461| |OIDX|1| |N|Finish killing Deepmoss Creepers Kill Deepmoss Creeper (x10)| |Z|Stonetalon Mountains|
 t Train your class spells |N|Loganaar - (52.5, 40.6)| |C|Druid| |Z|Moonglade|
+H Camp Taurajo |N|Hearth to Camp Taurajo| |O| |Z|Moonglade|
 B Sell your junk, then restock on food and water if necessary |N|Innkeeper Byula - (45.6, 59.0)| |C|!Rogue/!Warrior| |Z|The Barrens|
 B Sell your junk, then restock on food if necessary |N|Innkeeper Byula - (45.6, 59.0)| |C|Rogue/Warrior| |Z|The Barrens|
 T Jorn Skyseer |QID|3261| |N|Jorn Skyseer - (44.9, 59.1)| |Z|The Barrens|
@@ -73,7 +74,8 @@ C Raptor Horns |QID|865| |OIDX|1| |N|Finish killing Sunscale Scytheclaws. Loot t
 C Collect Fresh Zhevra Carcass |L|10338 1| |N|Kill any Zhevra. Loot it for a Fresh Zhevra Carcass| |O| |Z|The Barrens|
 C Altered Beings |QID|880| |OIDX|1| |N|Oasis Snapjaws in and around the lake. Loot them for their Shells Altered Snapjaw Shell (8)| |Z|The Barrens|
 C Collect Fresh Zhevra Carcass |L|10338 1| |N|Kill any Zhevra. Loot it for a Fresh Zhevra Carcass| |O| |Z|The Barrens|
-C Ishamuhale |QID|882| |OIDX|1| |N|The Carcass only has a 30 minute duration! Ishamuhale's Fang (1)| |Z|The Barrens|
+N The Carcass only has a 30 minute duration! |N|(59.7, 30.3)| |Z|The Barrens|
+C Ishamuhale |QID|882| |OIDX|1| |N|Use the [Fresh Zhevra Carcass] at the dead tree to summon Ishamuhale. Kill and loot him for his Fang Ishamuhale's Fang (1)| |Z|The Barrens|
 T Plundering the Plunderers |QID|2381| |N|Wrenix - (63.1, 36.3)| |C|Rogue| |Z|The Barrens|
 T Stolen Booty |QID|888| |N|Gazlowe - (62.7, 36.2)| |Z|The Barrens|
 T Further Instructions |QID|1094| |N|Sputtervalve, Mebok and Drohn - (63.0, 37.2) (WC Dungeon Quest)| |D|WC| |Z|The Barrens|
@@ -90,6 +92,7 @@ T Chen's Empty Keg |QID|821| |N|(62.4, 37.6)| |Z|The Barrens|
 B Buy [Mighty Chain Pants] from him if it's up |N|Grazlix - (62.2, 38.4)| |C|Warrior| |Z|The Barrens|
 B Buy [Wolf Bracers] from him if they're up |N|Vexspindle - (62.2, 38.5)| |C|Rogue/Hunter/Warrior/Shaman/Druid| |Z|The Barrens|
 R Innkeeper Wiley |N|(62.0, 39.4) (WC Dungeon Quest)| |D|WC| |Z|The Barrens|
+h Ratchet |N|Set hearth in Ratchet (62.0, 39.4) (WC Dungeon Quest)| |D|WC| |Z|The Barrens|
 A Trouble at the Docks |QID|959| |N|Bigglefuzz - (63.1, 37.6) (WC Dungeon Quest)| |D|WC| |Z|The Barrens|
 F Fly to The Crossroads |N|Bragok - (63.1, 37.2)| |O| |Z|The Barrens|
 A Report to Kadrak |QID|6541| |N|Thork - (51.5, 30.9)| |C|Hunter| |Z|The Barrens|
@@ -102,6 +105,7 @@ T Consumed by Hatred |QID|899| |N|Mankrik and Tonga - (52.0, 31.6)| |Z|The Barre
 T Altered Beings |QID|880| |N|Mankrik and Tonga - (52.0, 31.6)| |Z|The Barrens|
 A Hamuul Runetotem |QID|1489| |N|Mankrik and Tonga - (52.0, 31.6)| |Z|The Barrens|
 A Mura Runetotem |QID|3301| |N|Mankrik and Tonga - (52.0, 31.6)| |Z|The Barrens|
+h Crossroads |N|Set hearth in Crossroads (52.0, 29.9) (DM Dungeon Quest)| |D|DM| |Z|The Barrens|
 B Sell your junk, then restock on food and water if necessary |N|Innkeeper Boorand - (52.0, 29.9) (DM Dungeon Quest)| |C|!Rogue/!Warrior| |D|DM| |Z|The Barrens|
 B Sell your junk, then restock on food if necessary |N|Innkeeper Boorand - (52.0, 29.9) (DM Dungeon Quest)| |C|Rogue/Warrior| |D|DM| |Z|The Barrens|
 A Egg Hunt |QID|868| |N|Korran - (51.1, 29.6)| |Z|The Barrens|
@@ -139,6 +143,7 @@ A The Coastal Menace |QID|104| |N|Captain Grayson - (30.0, 86.0) (DM Dungeon Que
 C The Coastal Menace |QID|104| |OIDX|1| |N|Old Murk-Eye patrols up and down the Longshore. If you don't see him along the Longshore, wait for him to spawn in the most southern Murloc camp Scale of Old Murk-Eye (1) (DM Dungeon Quest)| |D|DM| |Z|Westfall|
 T The Coastal Menace |QID|104| |N|Captain Grayson - (30.0, 86.0) (DM Dungeon Quest)| |D|DM| |Z|Westfall|
 R Travel to Eastern Kingdoms |N|(40.5, 82.5) (DM Dungeon Quest)| |D|DM| |Z|Eastern Kingdoms|
+H Barrens after having completed Deadmines |N|Hearth to Barrens after having completed Deadmines (DM Dungeon Quest)| |D|DM| |Z|Eastern Kingdoms|
 B Sell your junk, then restock on food and water if necessary |N|Innkeeper Wiley - (62.0, 39.4) (WC Dungeon Quest)| |C|!Rogue/!Warrior| |D|WC| |Z|The Barrens|
 B Sell your junk, then restock on food if necessary |N|Innkeeper Wiley - (62.0, 39.4) (WC Dungeon Quest)| |C|Rogue/Warrior| |D|WC| |Z|The Barrens|
 B Sell your junk, then restock on food and water if necessary |N|Innkeeper Boorand - (52.0, 29.9) (DM Dungeon Quest)| |C|!Rogue/!Warrior| |D|DM| |Z|The Barrens|
@@ -185,7 +190,7 @@ R Travel South toward Brine |N|(43.4, 77.4)| |O| |C|Shaman| |Z|The Barrens|
 C Cry of the Thunderhawk |QID|913| |OIDX|1| |N|Kill a Thunderhawk. Loot it for its Wings Thunderhawk Wings (1)| |O| |C|Shaman| |Z|The Barrens|
 T Call of Water |QID|1530| |N|Brine - (43.4, 77.4)| |C|Shaman| |Z|The Barrens|
 A Call of Water |QID|1535| |N|Brine - (43.4, 77.4)| |C|Shaman| |Z|The Barrens|
-C Call of Water |QID|1535| |OIDX|1| |N|Filled Brown Waterskin (1)| |C|Shaman| |Z|The Barrens|
+C Call of Water |QID|1535| |OIDX|1| |N|Fill your [Empty Brown Waterskin] in the watering hole below Brine's hut Filled Brown Waterskin (1)| |C|Shaman| |Z|The Barrens|
 T Call of Water |QID|1535| |N|Brine - (43.4, 77.4)| |C|Shaman| |Z|The Barrens|
 A Call of Water |QID|1536| |N|Brine - (43.4, 77.4)| |C|Shaman| |Z|The Barrens|
 N Use the [Owatanka's Tailspike] to start the quest |N|(49.6, 59.4)| |O| |Z|The Barrens|
@@ -210,6 +215,7 @@ t Train Maces |N|Ansekhwa - (40.9, 62.7)| |C|Rogue| |Z|Thunder Bluff|
 B Deadly Throwing Axe (200) |L|3137 200| |N|Kuruk. Buy  [Deadly Throwing Axe] from him - (39.0, 64.6)| |C|Rogue| |Z|Thunder Bluff|
 R Chesmu |N|(47.1, 57.9)| |Z|Thunder Bluff|
 R Innkeeper Pala |N|(45.8, 64.7) (!WC Dungeon Quest)| |D|!WC| |Z|Thunder Bluff|
+h Thunder Bluff |N|Set hearth in Thunder Bluff (45.8, 64.7) (!WC Dungeon Quest)| |D|!WC| |Z|Thunder Bluff|
 R the Spirit Rise and enter the pools of vision |N|(28.5, 28.9)| |O| |Z|Thunder Bluff|
 A Until Death Do Us Part |QID|264| |N|Clarice - (28.6, 25.6)| |O| |Z|Thunder Bluff|
 T Apothecary Zamah |QID|853| |N|Zamah - (22.8, 20.9) (WC Dungeon Quest)| |D|WC| |Z|Thunder Bluff|
@@ -237,6 +243,7 @@ N Do not go underwater untill you arive right above the Bauble |N|(54.3, 55.7)| 
 C Trial of the Lake |QID|28| |OIDX|1| |N|Complete the Trial of the Lake| |C|Druid| |Z|Moonglade|
 T Trial of the Lake |QID|28| |N|Tajarri - (36.5, 40.1)| |C|Druid| |Z|Moonglade|
 A Trial of the Sea Lion |QID|30| |N|Tajarri - (36.5, 40.1)| |C|Druid| |Z|Moonglade|
+H Thunder Bluff |N|Hearth to Thunder Bluff (!WC Dungeon Quest)| |C|Druid| |D|!WC| |Z|Moonglade|
 F Fly to Thunder Bluff |N|Bunthen - (44.3, 45.9) (WC Dungeon Quest)| |C|Druid| |D|WC| |Z|Moonglade|
 F Fly to Thunder Bluff |N|Bunthen - (44.3, 45.9) (!WC Dungeon Quest)| |C|Druid| |D|!WC| |Z|Moonglade|
 R the Hunter Rise |N|(61.3, 78.2)| |O| |C|Hunter| |Z|Thunder Bluff|
@@ -259,25 +266,13 @@ N Follow the arrow closely to reach the hidden cave |N|(51.9, 55.5) (WC Dungeon 
 N They are located above the the Wailing Caverns cave entrance |N|(51.9, 55.4) (WC Dungeon Quest)| |D|WC| |Z|Kalimdor|
 A Deviate Hides |QID|1486| |N|Nalpak and Ebru - (51.9, 55.4) (WC Dungeon Quest)| |D|WC| |Z|Kalimdor|
 A Deviate Eradication |QID|1487| |N|Nalpak and Ebru - (51.9, 55.4) (WC Dungeon Quest)| |D|WC| |Z|Kalimdor|
-N It is recommended that maximum 3 players attempt to complete this quest if you're doing only 1 run. There aren't enough Serpentbloom for everybody |N|(WC Dungeon Quest)| |D|WC| |Z|Kalimdor|
 N Cast [Find Herbs] to see them on your minimap |N|(WC Dungeon Quest)| |D|WC| |Z|Kalimdor|
 C Serpentbloom |QID|962| |OIDX|1| |N|Loot the Serpentbloom on the ground Serpentbloom (10) (WC Dungeon Quest)| |D|WC| |Z|Kalimdor|
-N It is recommended that maximum 3 players attempt to complete this quest if you're doing only 1 run. There aren't enough Serpentbloom for everybody |N|(WC Dungeon Quest)| |D|WC| |Z|Kalimdor|
-C Serpentbloom |QID|962| |OIDX|1| |N|Loot the Serpentbloom on the ground Serpentbloom (10) (WC Dungeon Quest)| |D|WC| |Z|Kalimdor|
-N Cast [Find Herbs] to see them on your minimap |N|(WC Dungeon Quest)| |D|WC| |Z|Kalimdor|
-C Serpentbloom |QID|962| |OIDX|1| |N|Loot the Serpentbloom on the ground Serpentbloom (10) (WC Dungeon Quest)| |D|WC| |Z|Kalimdor|
-N It is recommended that maximum 3 players attempt to complete this quest if you're doing only 1 run. There aren't enough Hides for everybody |N|(WC Dungeon Quest)| |D|WC| |Z|Kalimdor|
 C Deviate Hides |QID|1486| |OIDX|1| |N|Kill all the Deviate Beasts you see. Loot them for their Hides Deviate Hide (20) (WC Dungeon Quest)| |D|WC| |Z|Kalimdor|
 C Smart Drinks |QID|1491| |OIDX|1| |N|Kill Ectoplasms. Loot them for their Essence Wailing Essence (6) (WC Dungeon Quest)| |D|WC| |Z|Kalimdor|
 R Enter the WC Instance portal. Zone in |N|(52.4, 55.2) (WC Dungeon Quest)| |D|WC| |Z|Kalimdor|
-N It is recommended that maximum 3 players attempt to complete this quest if you're doing only 1 run. There aren't enough Serpentbloom for everybody |N|(WC Dungeon Quest)| |D|WC| |Z|Kalimdor|
 N Cast [Find Herbs] to see them on your minimap |N|(WC Dungeon Quest)| |D|WC| |Z|Kalimdor|
 C Serpentbloom |QID|962| |OIDX|1| |N|Loot the Serpentbloom on the ground Serpentbloom (10) (WC Dungeon Quest)| |D|WC| |Z|Kalimdor|
-N It is recommended that maximum 3 players attempt to complete this quest if you're doing only 1 run. There aren't enough Serpentbloom for everybody |N|(WC Dungeon Quest)| |D|WC| |Z|Kalimdor|
-C Serpentbloom |QID|962| |OIDX|1| |N|Loot the Serpentbloom on the ground Serpentbloom (10) (WC Dungeon Quest)| |D|WC| |Z|Kalimdor|
-N Cast [Find Herbs] to see them on your minimap |N|(WC Dungeon Quest)| |D|WC| |Z|Kalimdor|
-C Serpentbloom |QID|962| |OIDX|1| |N|Loot the Serpentbloom on the ground Serpentbloom (10) (WC Dungeon Quest)| |D|WC| |Z|Kalimdor|
-N It is recommended that maximum 3 players attempt to complete this quest if you're doing only 1 run. There aren't enough Hides for everybody |N|(WC Dungeon Quest)| |D|WC| |Z|Kalimdor|
 C Smart Drinks |QID|1491| |OIDX|1| |N|Kill Ectoplasms. Loot them for their Essence Wailing Essence (6) (WC Dungeon Quest)| |D|WC| |Z|Kalimdor|
 C Deviate Eradication |QID|1487| |OIDX|1| |N|Kill Deviate Ravagers, Vipers, Shamblers and Dreadfangs Deviate Ravager (7) (WC Dungeon Quest)| |D|WC| |Z|Kalimdor|
 C Deviate Hides |QID|1486| |OIDX|1| |N|Kill Deviate Ravagers, Vipers, Shamblers and Dreadfangs Deviate Hide (20) (WC Dungeon Quest)| |D|WC| |Z|Kalimdor|
@@ -286,11 +281,6 @@ N Kill him and loot him for the [Glowing Shard] and use it to start the quest |N
 C Collect Glowing Shard (x1) |L|10441 1| |N|Once you have reached Naralex you will get attack by two waves of enemies and finally by Mutanus the Devourer (WC Dungeon Quest)| |D|WC| |Z|Kalimdor|
 A The Glowing Shard |QID|6981| |N|Once you have reached Naralex you will get attack by two waves of enemies and finally by Mutanus the Devourer (WC Dungeon Quest)| |D|WC| |Z|Kalimdor|
 C Smart Drinks |QID|1491| |OIDX|1| |N|Kill Ectoplasms. Loot them for their Essence Wailing Essence (6) (WC Dungeon Quest)| |D|WC| |Z|Kalimdor|
-N It is recommended that maximum 3 players attempt to complete this quest if you're doing only 1 run. There aren't enough Serpentbloom for everybody |N|(WC Dungeon Quest)| |D|WC| |Z|Kalimdor|
-N Cast [Find Herbs] to see them on your minimap |N|(WC Dungeon Quest)| |D|WC| |Z|Kalimdor|
-C Serpentbloom |QID|962| |OIDX|1| |N|Loot the Serpentbloom on the ground Serpentbloom (10) (WC Dungeon Quest)| |D|WC| |Z|Kalimdor|
-N It is recommended that maximum 3 players attempt to complete this quest if you're doing only 1 run. There aren't enough Serpentbloom for everybody |N|(WC Dungeon Quest)| |D|WC| |Z|Kalimdor|
-C Serpentbloom |QID|962| |OIDX|1| |N|Loot the Serpentbloom on the ground Serpentbloom (10) (WC Dungeon Quest)| |D|WC| |Z|Kalimdor|
 N Cast [Find Herbs] to see them on your minimap |N|(WC Dungeon Quest)| |D|WC| |Z|Kalimdor|
 C Serpentbloom |QID|962| |OIDX|1| |N|Loot the Serpentbloom on the ground Serpentbloom (10) (WC Dungeon Quest)| |D|WC| |Z|Kalimdor|
 C Deviate Eradication |QID|1487| |OIDX|1| |N|Kill Deviate Ravagers, Vipers, Shamblers and Dreadfangs. . Loot them for their Hides Deviate Ravager (7) (WC Dungeon Quest)| |D|WC| |Z|Kalimdor|
@@ -298,13 +288,9 @@ C Deviate Hides |QID|1486| |OIDX|1| |N|Kill Deviate Ravagers, Vipers, Shamblers 
 C Deviate Eradication |QID|1487| |OIDX|1| |N|Kill Deviate Ravagers, Vipers, Shamblers and Dreadfangs Deviate Ravager (7) (WC Dungeon Quest)| |D|WC| |Z|Kalimdor|
 C Deviate Hides |QID|1486| |OIDX|1| |N|Kill Deviate Raptors. Loot them for their Hides Deviate Hide (20) (WC Dungeon Quest)| |D|WC| |Z|Kalimdor|
 C Smart Drinks |QID|1491| |OIDX|1| |N|Kill Ectoplasms. Loot them for their Essence Wailing Essence (6) (WC Dungeon Quest)| |D|WC| |Z|Kalimdor|
-N It is recommended that maximum 3 players attempt to complete this quest if you're doing only 1 run. There aren't enough Serpentbloom for everybody |N|(WC Dungeon Quest)| |D|WC| |Z|Kalimdor|
 N Cast [Find Herbs] to see them on your minimap |N|(WC Dungeon Quest)| |D|WC| |Z|Kalimdor|
 C Serpentbloom |QID|962| |OIDX|1| |N|Loot the Serpentbloom on the ground Serpentbloom (10) (WC Dungeon Quest)| |D|WC| |Z|Kalimdor|
-N It is recommended that maximum 3 players attempt to complete this quest if you're doing only 1 run. There aren't enough Serpentbloom for everybody |N|(WC Dungeon Quest)| |D|WC| |Z|Kalimdor|
-C Serpentbloom |QID|962| |OIDX|1| |N|Loot the Serpentbloom on the ground Serpentbloom (10) (WC Dungeon Quest)| |D|WC| |Z|Kalimdor|
-N Cast [Find Herbs] to see them on your minimap |N|(WC Dungeon Quest)| |D|WC| |Z|Kalimdor|
-C Serpentbloom |QID|962| |OIDX|1| |N|Loot the Serpentbloom on the ground Serpentbloom (10) (WC Dungeon Quest)| |D|WC| |Z|Kalimdor|
+H Ratchet |N|Hearth to Ratchet (WC Dungeon Quest)| |D|WC| |Z|Kalimdor|
 T Smart Drinks |QID|1491| |N|Mebok - (62.4, 37.6) (WC Dungeon Quest)| |D|WC| |Z|The Barrens|
 T Trouble at the Docks |QID|959| |N|Bigglefuzz - (63.1, 37.6) (WC Dungeon Quest)| |D|WC| |Z|The Barrens|
 C The Glowing Shard |QID|6981| |OIDX|1| |N|Sputtervalve Speak with someone in Ratchet about the Glowing Shard (WC Dungeon Quest)| |D|WC| |Z|The Barrens|
@@ -327,6 +313,7 @@ T In Nightmares |QID|3369| |N|Hamuul - (78.6, 28.6) (WC Dungeon Quest)| |D|WC| |
 R the Spirit Rise and enter the pools of vision |N|(28.5, 28.9) (WC Dungeon Quest)| |D|WC| |Z|Thunder Bluff|
 T Serpentbloom |QID|962| |N|Apothecary Zamah - (23.0, 21.0) (WC Dungeon Quest)| |D|WC| |Z|Thunder Bluff|
 R Innkeeper Pala |N|(45.8, 64.7) (WC Dungeon Quest)| |D|WC| |Z|Thunder Bluff|
+h Thunder Bluff |N|Set hearth in Thunder Bluff (45.8, 64.7) (WC Dungeon Quest)| |D|WC| |Z|Thunder Bluff|
 F Fly to The Crossroads |N|Tal - (47.0, 49.8)| |O| |Z|Thunder Bluff|
 T Hezrul Bloodmark |QID|852| |N|Regthar - (45.4, 28.4)| |Z|The Barrens|
 T Centaur Bracers |QID|855| |N|Regthar - (45.4, 28.4)| |Z|The Barrens|
@@ -348,6 +335,7 @@ T Torek's Assault |QID|6544| |N|Ertog - (73.0, 62.5)| |C|Hunter| |Z|Ashenvale|
 T The Ashenvale Hunt |QID|6382| |N|Senani - (73.8, 61.5)| |C|Hunter| |Z|Ashenvale|
 f Get the Splintertree Post flight path |N|Vhulgra - (73.2, 61.6)| |C|Hunter| |Z|Ashenvale|
 F Fly to Crossroads |N|Vhulgra - (73.2, 61.6)| |O| |C|Hunter| |Z|Ashenvale|
+N Die and respawn at the Spirit Healer |O| |C|!Hunter| |Z|Ashenvale|
 T Serena Bloodfeather |QID|876| |N|Darsok - (51.6, 30.9)| |Z|The Barrens|
 A Letter to Jin'Zil |QID|1060| |N|Darsok - (51.6, 30.9)| |Z|The Barrens|
 A Egg Hunt |QID|868| |N|Korran - (51.1, 29.6)| |Z|The Barrens|
@@ -436,6 +424,7 @@ C Strange Water Globe (1) |QID|6782| |L|16782 1| |N|Kill Baron Aquanis. Loot him
 A Baron Aquanis |QID|6922| |N|Kill Baron Aquanis. Loot him for a [Strange Water Globe]. Use it to accept the quest (BFD Dungeon Quest)| |C|Priest| |D|BFD| |Z|Kalimdor|
 C Amongst The Ruins |QID|6921| |OIDX|1| |N|Loot the Fathom Stone in the water on the ground for the Fathom Core Fathom Core (1) (BFD Dungeon Quest)| |C|Priest| |D|BFD| |Z|Kalimdor|
 C Blackfathom Villainy |QID|6561| |OIDX|1| |N|Kill Twilight Lord Kelris. Loot him for his Head Head of Kelris (1) (BFD Dungeon Quest)| |C|Priest| |D|BFD| |Z|Kalimdor|
+H Thunder Bluff |N|Hearth to Thunder Bluff (BFD Dungeon Quest)| |C|Priest| |D|BFD| |Z|Kalimdor|
 T Blackfathom Villainy |QID|6561| |N|Bashana - (71.0, 34.2) (BFD Dungeon Quest)| |C|Priest| |D|BFD| |Z|Thunder Bluff|
 F Fly to Zoram'gar Outpost |N|Tal - (47.0, 49.8) (BFD Dungeon Quest)| |C|Priest| |D|BFD| |Z|Thunder Bluff|
 T Allegiance to the Old Gods |QID|6564| |N|Je'neu Sancrea - (11.6, 34.3) (BFD Dungeon Quest)| |C|Priest| |D|BFD| |Z|Ashenvale|
@@ -444,6 +433,7 @@ T Amongst The Ruins |QID|6921| |N|Je'neu Sancrea - (11.6, 34.3) (BFD Dungeon Que
 T Baron Aquanis |QID|6922| |N|Je'neu Sancrea - (11.6, 34.3) (BFD Dungeon Quest)| |C|Priest| |D|BFD| |Z|Ashenvale|
 A Between a Rock and a Thistlefur |QID|216| |N|Karang - (11.9, 34.5)| |Z|Ashenvale|
 F Fly to Thunder Bluff |N|Andruk - (12.2, 33.8)| |O| |Z|Ashenvale|
+H Thunder Bluff |N|Hearth to Thunder Bluff| |O| |Z|Ashenvale|
 R the Elder Rise |N|(69.9, 30.9)| |O| |Z|Thunder Bluff|
 N Wait for the RP to finish |N|(69.9, 30.9)| |Z|Thunder Bluff|
 T The Elder Crone |QID|1063| |N|Magatha - (69.9, 30.9)| |Z|Thunder Bluff|
@@ -490,8 +480,8 @@ N Use [Ambush] to reduce his HP to half. Use [Gouge] to restore energy and use [
 N Remember to use a Potion and [Thistle Tea] if needed |N|(54.8, 5.6)| |C|Rogue| |Z|The Barrens|
 C Mission: Possible But Not Probable |QID|2478| |OIDX|4| |N|At the top of the tower you'll find Gallywix. Loot him for his Head Gallywix's Head (1)| |C|Rogue| |Z|The Barrens|
 C Mission: Possible But Not Probable |QID|2478| |OIDX|6| |N|Use your lock picking to open Gallywix's Lockbox & loot the Mixture Cache of Zanzil's Altered Mixture (1)| |C|Rogue| |Z|The Barrens|
+N Die and respawn at the Spirit Healer |O| |C|Rogue/Druid| |Z|The Barrens|
 F Fly to Orgrimmar |N|Devrak - (51.5, 30.3)| |C|Rogue/Druid| |Z|The Barrens|
-R Travel to Kalimdor |N|(56.8, 45.5)| |O| |C|Rogue/Druid| |Z|Kalimdor|
 T Mission: Possible But Not Probable |QID|2478| |N|Shenthul - (43.0, 53.7)| |C|Rogue| |Z|Orgrimmar|
 A Hinott's Assistance |QID|2479| |N|Shenthul - (43.0, 53.7)| |C|Rogue| |Z|Orgrimmar|
 B Collect Dust of Decay (20) |L|2928 20| |N|Rekkul. Buy  [Dust of Decay] and [Empty Vials] from him - (42.1, 49.5)| |C|Rogue| |Z|Orgrimmar|

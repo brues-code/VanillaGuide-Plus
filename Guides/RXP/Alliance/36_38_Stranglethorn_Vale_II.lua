@@ -12,6 +12,7 @@ N [Letter of Commendation] |N|(26.5, 76.5)| |Z|Stranglethorn Vale|
 N [Fizzle Brassbolts' Letter] |N|(26.5, 76.5)| |Z|Stranglethorn Vale|
 N [Buzzard Wing] |N|(26.5, 76.5)| |Z|Stranglethorn Vale|
 R Innkeeper Skindle |N|(27.0, 77.3)| |Z|Stranglethorn Vale|
+h Booty Bay |N|Set hearth in Booty Bay (27.0, 77.3)| |Z|Stranglethorn Vale|
 T The Rumormonger |QID|1115| |N|Krazek upstairs on the top floor - (26.9, 77.2)| |Z|Stranglethorn Vale|
 A Bloodscalp Ears |QID|189| |N|Kebok up stairs on the top floor - (27.0, 77.1)| |Z|Stranglethorn Vale|
 A Water Elementals |QID|601| |N|Baron Revilgaz - (27.2, 76.9)| |Z|Stranglethorn Vale|
@@ -85,6 +86,7 @@ C Bloodscalp Trolls. Loot them for their Ears |QID|4449| |L|4306 15| |N|Bloodsca
 R the Haunted Island |N|(21.1, 22.8)| |O| |Z|Stranglethorn Vale|
 C Water Elementals |QID|601| |OIDX|1| |N|Lesser Water Elementals. Loot them for their Bracers (21.1, 22.8)| |Z|Stranglethorn Vale|
 C Kurzen's Mystery |QID|207| |OIDX|2| |N|Gri'lek the Wanderer underwater. Loot it for The Second Troll Legend (24.8, 22.9)| |Z|Stranglethorn Vale|
+N Die and respawn at the Spirit Healer |O| |Z|Stranglethorn Vale|
 R the Rebel Camp |N|(38.6, 4.4)| |O| |Z|Stranglethorn Vale|
 T Kurzen's Mystery |QID|207| |N|Brother Nimetz - (37.8, 3.6)| |Z|Stranglethorn Vale|
 A Troll Witchery |QID|205| |N|Brother Nimetz - (37.8, 3.6)| |Z|Stranglethorn Vale|
@@ -104,20 +106,10 @@ A Raptor Mastery |QID|196| |N|Hemet Nesingwary, Ajeck Rouack and Sir S. J. Erlga
 T Tiger Mastery |QID|188| |N|Hemet Nesingwary, Ajeck Rouack and Sir S. J. Erlgadin - (35.7, 10.8)| |Z|Stranglethorn Vale|
 T Panther Mastery |QID|192| |N|(35.6, 10.6)| |Z|Stranglethorn Vale|
 A Panther Mastery |QID|193| |N|(35.6, 10.6)| |Z|Stranglethorn Vale|
-T Kurzen's Mystery |QID|207| |N|Brother Nimetz - (37.8, 3.6)| |Z|Stranglethorn Vale|
-A Troll Witchery |QID|205| |N|Brother Nimetz - (37.8, 3.6)| |Z|Stranglethorn Vale|
-T Special Forces |QID|574| |N|Lieutenant Doren - (38.0, 3.0)| |Z|Stranglethorn Vale|
-A Colonel Kurzen |QID|202| |N|Lieutenant Doren - (38.0, 3.0)| |Z|Stranglethorn Vale|
-T The Spy Revealed! |QID|329| |N|Lieutenant Doren - (38.0, 3.0)| |Z|Stranglethorn Vale|
-A Patrol Schedules |QID|330| |N|Lieutenant Doren - (38.0, 3.0)| |Z|Stranglethorn Vale|
-T Special Forces |QID|574| |N|Lieutenant Doren - (38.0, 3.0)| |Z|Stranglethorn Vale|
-A Colonel Kurzen |QID|202| |N|Lieutenant Doren - (38.0, 3.0)| |Z|Stranglethorn Vale|
-T Patrol Schedules |QID|330| |N|Corporal Sethman - (37.7, 3.4)| |Z|Stranglethorn Vale|
-A Report to Doren |QID|331| |N|Corporal Sethman - (37.7, 3.4)| |Z|Stranglethorn Vale|
-T Report to Doren |QID|331| |N|Lieutenant Doren - (38.0, 3.0)| |Z|Stranglethorn Vale|
 N Loganaar |N|(52.5, 40.6)| |C|Druid| |Z|Stranglethorn Vale|
 R Travel to Moonglade |N|(52.5, 40.6)| |C|Druid| |Z|Moonglade|
 t Train your class spells |N|Teleport to Moonglade - (52.5, 40.6)| |C|Druid| |Z|Moonglade|
+H Booty Bay |N|Hearth to Booty Bay| |O| |Z|Moonglade|
 N Buy food/water if needed |O| |C|!Warrior/!Rogue| |Z|Moonglade|
 N Buy food if needed |O| |C|Warrior/Rogue| |Z|Moonglade|
 T Bloodscalp Ears |QID|189| |N|(27.0, 77.1)| |Z|Moonglade|
@@ -125,6 +117,7 @@ R Travel to Stranglethorn Vale |N|(27.0, 77.1)| |Z|Stranglethorn Vale|
 A Dream Dust in the Swamp |QID|1116| |N|(27.0, 77.1)| |Z|Stranglethorn Vale|
 R Travel to Stranglethorn Vale |N|(26.9, 77.2)| |Z|Stranglethorn Vale|
 T Bloodscalp Ears |QID|189| |N|Kebok up stairs on the top floor - (27.0, 77.1)| |Z|Stranglethorn Vale|
+N Click here to watch a video about splitpulling (useful to learn) |O| |Z|Stranglethorn Vale|
 T Water Elementals |QID|601| |N|Baron Revilgaz - (27.2, 76.9)| |Z|Stranglethorn Vale|
 A Magical Analysis |QID|602| |N|Baron Revilgaz - (27.2, 76.9)| |Z|Stranglethorn Vale|
 T Some Assembly Required |QID|577| |N|Drizzlik - (28.3, 77.6)| |Z|Stranglethorn Vale|

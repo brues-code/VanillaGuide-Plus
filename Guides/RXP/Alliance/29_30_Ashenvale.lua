@@ -60,7 +60,7 @@ N You will kill the rest after finishing the Elemental Bracers quest |N|(50.1, 5
 C An Aggressive Defense |QID|1025| |OIDX|4| |N|Kill a few Foulweald Warriors and Foulweald Totemics before heading south toward the Water Elementals ,5| |O| |Z|Ashenvale|
 A Elemental Bracers |QID|1016| |N|Sentinel Velene Starstrike - (49.8, 67.2)| |Z|Ashenvale|
 C Befouled Water Elementals. Loot them for their Bracers |QID|1016| |L|12220 5| |N|Befouled Water Elementals. Loot them for their Bracers - (48.9, 70.0)| |Z|Ashenvale|
-C Elemental Bracers |QID|1016| |OIDX|1| |Z|Ashenvale|
+C Elemental Bracers |QID|1016| |OIDX|1| |N|Use the [Divining Scroll] to create the [Divined Scroll]| |Z|Ashenvale|
 T Elemental Bracers |QID|1016| |N|Sentinel Velene Starstrike - (49.8, 67.2)| |Z|Ashenvale|
 N Be careful as the Foulweald Ursas can [Thrash] hitting you 3 times at once |N|(50.1, 59.9)| |Z|Ashenvale|
 N The Foulweald Totemics share spawns with Foulweald Warriors. You may have to backtrack and kill respawns if you weren't lucky with the spawns |N|(50.1, 59.9)| |Z|Ashenvale|
@@ -90,10 +90,12 @@ T An Aggressive Defense |QID|1025| |N|Raene Wolfrunner - (36.6, 49.6)| |Z|Ashenv
 T Raene's Cleansing |QID|1029| |N|Raene Wolfrunner - (36.6, 49.6)| |Z|Ashenvale|
 A Raene's Cleansing |QID|1030| |N|Raene Wolfrunner - (36.6, 49.6)| |Z|Ashenvale|
 R Travel toward Krolg |N|(51.4, 75.0)| |Z|Ashenvale|
+N You must use [Dartol's Rod of Transformation] to turn into a Furbolg before talking to Krolg |N|(50.9, 75.1)| |Z|Ashenvale|
 T Raene's Cleansing |QID|1030| |N|Krolg - (50.9, 75.1)| |Z|Ashenvale|
 A Raene's Cleansing |QID|1045| |N|Krolg - (50.9, 75.1)| |Z|Ashenvale|
 C Raene's Cleansing |QID|1045| |OIDX|2| |N|Bloodtooth Guards and Ran Bloodtooth. Loot him for his Skull (54.7, 79.6)| |Z|Ashenvale|
 R Travel toward Krolg |N|(51.4, 75.0)| |O| |Z|Ashenvale|
+N You must use [Dartol's Rod of Transformation] to turn into a Furbolg before talking to Krolg |N|(50.8, 75.1)| |Z|Ashenvale|
 T Raene's Cleansing |QID|1045| |N|Krolg - (50.8, 75.1)| |Z|Ashenvale|
 A Raene's Cleansing |QID|1046| |N|Krolg - (50.8, 75.1)| |Z|Ashenvale|
 R Travel toward Raene Wolfrunner in Astranaar |N|(36.6, 49.6)| |O| |Z|Ashenvale|
@@ -117,6 +119,7 @@ R Garryeth, Lairn or Idriana |N|(39.7, 42.1)| |Z|Darnassus|
 N [Musquash Root] |N|(39.7, 42.1)| |Z|Darnassus|
 t Train your class spells |N|Denatharion - (34.8, 7.4)| |C|Druid| |Z|Darnassus|
 t Train your class spells |N|Syurna - (37.0, 21.9)| |C|Rogue| |Z|Darnassus|
+H Menethil Harbor |N|Hearth to Menethil Harbor| |C|!Mage| |Z|Darnassus|
 N Buy food/water if needed |C|!Warrior/!Rogue| |Z|Darnassus|
 N Buy food if needed |C|Warrior/Rogue| |Z|Darnassus|
 

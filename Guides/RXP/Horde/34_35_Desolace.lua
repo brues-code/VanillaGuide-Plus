@@ -5,6 +5,7 @@ return [[
 N 34-35 Desolace |N|Converted from RestedXP guide|
 
 R Innkeeper Pala |N|(45.8, 64.7)| |Z|Thunder Bluff|
+h Thunder Bluff |N|Set hearth in Thunder Bluff (45.8, 64.7)| |Z|Thunder Bluff|
 t Train your class spells |N|Turak - (76.5, 27.2)| |C|Druid| |Z|Thunder Bluff|
 T Frostmaw |QID|1136| |N|Melor - (61.5, 80.9)| |Z|Thunder Bluff|
 t Train your class spells |N|Urek - (59.1, 86.9)| |C|Hunter| |Z|Thunder Bluff|
@@ -65,6 +66,7 @@ T Centaur Bounty |QID|1366| |N|Felgur - (56.2, 59.6)| |Z|Desolace|
 T Gelkis Alliance |QID|1368| |N|Uthek - (36.3, 79.2)| |Z|Desolace|
 A Stealing Supplies |QID|1370| |N|Uthek - (36.3, 79.2)| |Z|Desolace|
 A Hand of Iruxos |QID|5381| |N|Taiga - (25.8, 68.2)| |Z|Desolace|
+h Shadowprey Village |N|Set hearth in Shadowprey Village (24.1, 68.2)| |O| |C|Mage| |Z|Desolace|
 t Training (3566) |N|Innkeeper Sikewa - (24.1, 68.2)| |O| |C|Mage| |Z|Desolace|
 A Clam Bait |QID|6142| |N|Mai'Lahii - (22.7, 72.1)| |Z|Desolace|
 A Other Fish to Fry |QID|6143| |N|Drulzegar - (23.3, 72.9)| |Z|Desolace|
@@ -75,12 +77,14 @@ N Buy [Razor Arrows] from him |N|(24.9, 71.8)| |C|Hunter| |Z|Desolace|
 B Tukk |L|3030 2600| |N|Tukk - (24.9, 71.8)| |C|Hunter| |Z|Desolace|
 R northern Desolace |N|(62.3, 39.0)| |O| |Z|Desolace|
 T Bone Collector |QID|5501| |N|Bibbly - (62.3, 39.0)| |Z|Desolace|
-C The Burning of Spirits |QID|1435| |OIDX|1| |N|Use the [Burning Gem] to get the killing blow (100 damage per tick)| |O| |Z|Desolace|
+N Use the [Burning Gem] to get the killing blow (100 damage per tick) |O| |Z|Desolace|
+C The Burning of Spirits |QID|1435| |OIDX|1| |N|Kill Burning Blade members| |O| |Z|Desolace|
 C Sceptre of Light |QID|5741| |OIDX|1| |N|the Burning Blade Seer at the top of the tower. Loot it for the Sceptre (55.2, 30.1)| |Z|Desolace|
 R Enter the large building |N|(55.3, 27.6)| |O| |Z|Desolace|
 N Kill the Demon Spirit after it spawns. Loot it for the Demon Box |N|(54.9, 26.7)| |Z|Desolace|
 C Hand of Iruxos |QID|5381| |OIDX|1| |N|Use the [Demon Pick] on the Hand of Iruxos Crystal (54.9, 26.7)| |Z|Desolace|
-C The Burning of Spirits |QID|1435| |OIDX|1| |N|Use the [Burning Gem] to get the killing blow (100 damage per tick) (56.4, 21.6)| |Z|Desolace|
+N Use the [Burning Gem] to get the killing blow (100 damage per tick) |N|(56.4, 21.6)| |Z|Desolace|
+C The Burning of Spirits |QID|1435| |OIDX|1| |N|Kill Burning Blade members (56.4, 21.6)| |Z|Desolace|
 T Sceptre of Light |QID|5741| |N|Return to Azore - (38.9, 27.1)| |Z|Desolace|
 A Book of the Ancients |QID|6027| |N|Return to Azore - (38.9, 27.1)| |Z|Desolace|
 A Claim Rackmore's Treasure! |QID|6161| |N|Rackmore's Log, resting on a barrel - (36.1, 30.4)| |Z|Desolace|
@@ -89,7 +93,8 @@ C The Corrupter |QID|1482| |OIDX|1| |N|Kill Slitherblade Oracles. Loot them for 
 C Claim Rackmore's Treasure! |QID|6161| |OIDX|2| |N|Kill Slitherblade Nagas. Loot them for the Golden Key| |O| |Z|Desolace|
 C Claim Rackmore's Treasure! |QID|6161| |OIDX|1| |N|Kill Drysnap Pincers and Crawlers. Loot them for the Silver Key| |O| |Z|Desolace|
 C Other Fish to Fry |QID|6143| |OIDX|1| |N|Kill Slitherblade Naga, Myrmidons, and Sorceresses| |O| |Z|Desolace|
-C Clam Bait |QID|6142| |OIDX|1| |N|Enraged Reef Crawlers can also drop the Giant Softshell Clams (33.0, 28.6)| |Z|Desolace|
+N Enraged Reef Crawlers can also drop the Giant Softshell Clams |N|(33.0, 28.6)| |Z|Desolace|
+C Clam Bait |QID|6142| |OIDX|1| |N|Loot the Giant Softshell Clams on the ocean floor. Open them for their Meat (33.0, 28.6)| |Z|Desolace|
 C Claim Rackmore's Treasure! |QID|6161| |OIDX|1| |N|Drysnap Pincers and Crawlers. Loot them for the Silver Key (33.0, 28.6)| |Z|Desolace|
 T Claim Rackmore's Treasure! |QID|6161| |N|Rackmore's Chest - (30.0, 8.8)| |Z|Desolace|
 N Kill everything around the Serpent Statue first! |N|(28.2, 6.6)| |Z|Desolace|
@@ -115,8 +120,10 @@ B Sell your junk, then restock on food if necessary |N|Harnor - (51.2, 53.3)| |C
 C Stealing Supplies |QID|1370| |OIDX|1| |N|the Sacks of Meat around Magram Village for their Meat (73.7, 72.9)| |Z|Desolace|
 T Stealing Supplies |QID|1370| |N|Uthek the Wise - (36.2, 79.2)| |Z|Desolace|
 A Ongeku |QID|1373| |N|Uthek the Wise - (36.2, 79.2)| |Z|Desolace|
+H Shadowprey Village |N|Hearth to Shadowprey Village| |C|Mage| |Z|Desolace|
 R Aboda |N|(24.9, 68.7)| |O| |C|Hunter| |Z|Desolace|
 t Attack mobs with it to learn [Claw (Rank 5)] |N|(43.3, 60.4)| |C|Hunter| |Z|Desolace|
+N Click here for more info about pet training |N|(43.3, 60.4)| |C|Hunter| |Z|Desolace|
 R Aboda |N|(24.9, 68.7)| |C|Hunter| |Z|Desolace|
 A Hunting in Stranglethorn |QID|5763| |N|Roon - (25.1, 72.2)| |Z|Desolace|
 T Hand of Iruxos |QID|5381| |N|Return to Taiga - (25.8, 68.2)| |Z|Desolace|
@@ -124,6 +131,7 @@ T Other Fish to Fry |QID|6143| |N|Return to Drulzegar - (23.4, 72.8)| |Z|Desolac
 T Clam Bait |QID|6142| |N|Return to Mai'Lahii - (22.7, 72.1)| |Z|Desolace|
 t Training (3566) |C|Mage| |Z|Desolace|
 F Fly to Thunder Bluff |N|Thalon at the end of the dock - (21.6, 74.1)| |O| |Z|Desolace|
+H Thunder Bluff |N|Hearth to Thunder Bluff| |Z|Desolace|
 A Compendium of the Fallen |QID|1049| |N|Sage - (34.4, 46.9) (SM Dungeon Quest)| |R|!Undead| |D|SM| |Z|Thunder Bluff|
 t Train your class spells |N|Turak - (76.5, 27.2)| |C|Druid| |Z|Thunder Bluff|
 t Train your class spells |N|Urek - (59.1, 86.9)| |C|Hunter| |Z|Thunder Bluff|

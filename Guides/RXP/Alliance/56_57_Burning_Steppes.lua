@@ -15,6 +15,7 @@ N [Filled Tainted Ooze Jar] |N|(35.9, 60.2)| |C|!Druid/!Hunter/!Mage| |Z|Ironfor
 N [Janice's Parcel] |N|(35.9, 60.2)| |C|!Druid/!Hunter/!Mage| |Z|Ironforge|
 N [Black Dragonflight Molt] (If you have it) |N|(35.9, 60.2)| |C|!Druid/!Hunter/!Mage| |Z|Ironforge|
 R Innkeeper Firebrew |N|(18.1, 51.6)| |C|!Mage| |Z|Ironforge|
+h Ironforge |N|Set hearth in Ironforge (18.1, 51.6)| |C|!Mage| |Z|Ironforge|
 N Toldren Deepiron |N|(25.2, 10.8)| |C|Priest| |Z|Ironforge|
 N Brandur Ironhammer |N|(25.2, 10.8)| |C|Paladin| |Z|Ironforge|
 t Train your class spells |N|(23.1, 6.1)| |C|Priest/Paladin| |Z|Ironforge|
@@ -59,12 +60,14 @@ A Broodling Essence |QID|4726| |N|Tinkee Steamboil and Maxwort Uberglint - (65.2
 A Tablet of the Seven |QID|4296| |N|Tinkee Steamboil and Maxwort Uberglint - (65.2, 24.0)| |Z|Burning Steppes|
 N This quest can be hard but rewards a lot of XP at the end. Try to find a group if required or skip it if its too difficult |N|(81.8, 60.0)| |O| |Z|Burning Steppes|
 C Dragonkin Menace |QID|4182| |OIDX|1| |N|Black Broodlings, Black Dragonspawns, Black Wyrmkins and a Black Drake (81.8, 60.0)| |O| |Z|Burning Steppes|
-C Broodling Essence |QID|4726| |OIDX|1| |N|Loot the Broodling Essence on the ground after they die (81.8, 60.0)| |O| |Z|Burning Steppes|
+N Loot the Broodling Essence on the ground after they die |N|(81.8, 60.0)| |O| |Z|Burning Steppes|
+C Broodling Essence |QID|4726| |OIDX|1| |N|Use the [Draco-Incarcinatrix 900] on Black Broodlings, then kill them. Note that taking damage will stop your cast (81.8, 60.0)| |O| |Z|Burning Steppes|
 A A Taste of Flame |QID|4022| |N|Cyrus Therepentous - (95.1, 31.6)| |Z|Burning Steppes|
 N Select the gossip option: "I present you with proof of my deeds, Cyrus." |N|(95.1, 31.6)| |Z|Burning Steppes|
 C A Taste of Flame |QID|4022| |OIDX|1| |N|Cyrus Therepentous (95.1, 31.6)| |Z|Burning Steppes|
 T A Taste of Flame |QID|4022| |N|Cyrus Therepentous - (95.1, 31.6)| |Z|Burning Steppes|
-C Broodling Essence |QID|4726| |OIDX|1| |N|Loot the Broodling Essence on the ground after they die (90.6, 43.6)| |Z|Burning Steppes|
+N Loot the Broodling Essence on the ground after they die |N|(90.6, 43.6)| |Z|Burning Steppes|
+C Broodling Essence |QID|4726| |OIDX|1| |N|Use the [Draco-Incarcinatrix 900] on Black Broodlings, then kill them. Note that taking damage will stop your cast (90.6, 43.6)| |Z|Burning Steppes|
 N This quest can be hard but rewards a lot of XP at the end. Try to find a group if required or skip it if its too difficult |N|(90.6, 43.6)| |Z|Burning Steppes|
 C Dragonkin Menace |QID|4182| |OIDX|1| |N|Black Broodlings, Black Dragonspawns, Black Wyrmkins and a Black Drake (90.6, 43.6)| |Z|Burning Steppes|
 C The Smoldering Ruins of Thaurissan |QID|3701| |OIDX|1| |N|Click the Thaurissan Relics on the ground| |O| |Z|Burning Steppes|
@@ -178,6 +181,7 @@ N Loganaar |N|(52.5, 40.6)| |C|Druid| |Z|Stormwind City|
 R Travel to Moonglade |N|(52.5, 40.6)| |C|Druid| |Z|Moonglade|
 t Train your class spells |N|Teleport to Moonglade - (52.5, 40.6)| |C|Druid| |Z|Moonglade|
 t Train your class spells |N|Dink - (27.2, 8.6)| |C|Mage| |Z|Ironforge|
+H Ironforge |N|Hearth to Ironforge| |C|!Mage| |Z|Ironforge|
 N Buy food/water if needed |C|!Warrior/!Rogue| |Z|Ironforge|
 N Buy food if needed |C|Warrior/Rogue| |Z|Ironforge|
 A The Sovereign Imperative |QID|7261| |N|Lieutenant Rotimer - (32.2, 63.3)| |Z|Ironforge|

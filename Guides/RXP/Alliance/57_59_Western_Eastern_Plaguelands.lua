@@ -6,9 +6,9 @@ N 57-59 Western/Eastern Plaguelands |N|Converted from RestedXP guide|
 
 F Fly to Southshore |N|Gryth Thurden - (55.5, 47.7)| |Z|Ironforge|
 R Innkeeper Anderson |N|(51.2, 58.9)| |Z|Hillsbrad Foothills|
+h Southshore |N|Set hearth in Southshore (51.2, 58.9)| |Z|Hillsbrad Foothills|
 R Travel to Alterac Mountains |N|(86.0, 78.9) (ST Dungeon Quest)| |C|Rogue| |D|ST| |Z|Alterac Mountains|
 T The Azure Key |QID|8236| |N|Lord Jorach Ravenholdt upstairs - (86.0, 78.9) (ST Dungeon Quest)| |C|Rogue| |D|ST| |Z|Alterac Mountains|
-F Fly to Western Plaguelands |N|Darla Harris - (49.3, 52.3)| |Z|Hillsbrad Foothills|
 R Travel towards Lieutenant Haggerdin in Alterac Mountains |N|(39.5, 81.2)| |O| |Z|Alterac Mountains|
 T The Sovereign Imperative |QID|7261| |N|Lieutenant Haggerdin - (39.5, 81.2)| |Z|Alterac Mountains|
 R Travel to Western Plaguelands |N|(42.7, 84.0)| |O| |Z|Western Plaguelands|
@@ -34,12 +34,12 @@ T Flint Shadowmore |QID|6184| |N|Flint Shadowmore - (43.6, 84.5)| |Z|Western Pla
 A The Eastern Plagues |QID|6185| |N|Flint Shadowmore - (43.6, 84.5)| |Z|Western Plaguelands|
 N Marlene Redpath may also be upstairs |N|(49.2, 78.6)| |Z|Western Plaguelands|
 A Little Pamela |QID|5142| |N|Marlene Redpath - (49.2, 78.6)| |Z|Western Plaguelands|
-C All Along the Watchtowers |QID|5097| |OIDX|4| |N|(46.6, 71.2)| |Z|Western Plaguelands|
+C All Along the Watchtowers |QID|5097| |OIDX|4| |N|Use the [Beacon Torch] next to the Tower entrance. You can do this without agroing the Elite Skeletal Warlord inside (46.6, 71.2)| |Z|Western Plaguelands|
 N Freezing Ghouls cast [Flash Freeze]. This ability stuns for 5 seconds. Avoid agroing multiple at the same time |N|(53.7, 64.7)| |Z|Western Plaguelands|
 A The Wildlife Suffers Too |QID|4984| |N|Mulgris Deepriver - (53.7, 64.7)| |Z|Western Plaguelands|
 N Diseased Wolves share spawns with Carrion Lurkers. You may need to kill them to force Diseased Wolves to spawn |N|(46.6, 40.4)| |O| |Z|Western Plaguelands|
 C The Wildlife Suffers Too |QID|4984| |OIDX|1| |N|Diseased Wolves (46.6, 40.4)| |O| |Z|Western Plaguelands|
-C All Along the Watchtowers |QID|5097| |OIDX|3| |N|(44.2, 63.1)| |Z|Western Plaguelands|
+C All Along the Watchtowers |QID|5097| |OIDX|3| |N|Use the [Beacon Torch] next to the Tower entrance. You can do this without agroing the Elite Skeletal Warlord inside (44.2, 63.1)| |Z|Western Plaguelands|
 N Click Mrs. Dalson's Diary on the ground |N|(47.8, 50.7)| |Z|Western Plaguelands|
 A Mrs. Dalson Diary |QID|5058| |N|Enter the Dalson's Tears Barn - (47.8, 50.7)| |Z|Western Plaguelands|
 T Mrs. Dalson Diary |QID|5058| |N|Enter the Dalson's Tears Barn - (47.8, 50.7)| |Z|Western Plaguelands|
@@ -62,8 +62,8 @@ R Go inside the house |N|(38.0, 54.6)| |O| |Z|Western Plaguelands|
 T Two Halves Become One |QID|5051| |N|Janice through the ground from the 1st floor - (38.4, 54.0)| |Z|Western Plaguelands|
 N Diseased Wolves share spawns with Carrion Lurkers. You may need to kill them to force Diseased Wolves to spawn |N|(46.6, 40.4)| |Z|Western Plaguelands|
 C The Wildlife Suffers Too |QID|4984| |OIDX|1| |N|Diseased Wolves (46.6, 40.4)| |Z|Western Plaguelands|
-C All Along the Watchtowers |QID|5097| |OIDX|2| |N|(42.4, 66.2)| |Z|Western Plaguelands|
-C All Along the Watchtowers |QID|5097| |OIDX|1| |N|(40.0, 71.7)| |Z|Western Plaguelands|
+C All Along the Watchtowers |QID|5097| |OIDX|2| |N|Use the [Beacon Torch] next to the Tower entrance. You can do this without agroing the Elite Skeletal Warlord inside (42.4, 66.2)| |Z|Western Plaguelands|
+C All Along the Watchtowers |QID|5097| |OIDX|1| |N|Use the [Beacon Torch] next to the Tower entrance. You can do this without agroing the Elite Skeletal Warlord inside (40.0, 71.7)| |Z|Western Plaguelands|
 T All Along the Watchtowers |QID|5097| |N|Commander Ashlam Valorfist - (42.7, 84.0)| |Z|Western Plaguelands|
 A Scholomance |QID|5533| |N|Commander Ashlam Valorfist - (42.7, 84.0)| |Z|Western Plaguelands|
 N Don't accept the follow up yet |N|(42.7, 83.8)| |Z|Western Plaguelands|
@@ -114,16 +114,17 @@ f Get the Light's Hope Chapel flight path |N|Khaelyn Steelwing - (81.6, 59.3)| |
 A The Restless Souls |QID|5281| |N|Caretaker Alen - (79.4, 64.0)| |Z|Eastern Plaguelands|
 A Zaeldarr the Outcast |QID|6021| |N|Caretaker Alen - (79.4, 64.0)| |Z|Eastern Plaguelands|
 B Restock on [Jagged Arrows] if needed |N|Caretaker Alen - (79.4, 64.0)| |C|Hunter| |Z|Eastern Plaguelands|
-C Defenders of Darrowshire |QID|5211| |OIDX|1| |N|Diseased Flayers, Gibbering Ghouls and Cannibal Ghouls. the Darrowshire Spirits that spawn from their corpses (28.4, 28.5)| |O| |Z|Eastern Plaguelands|
+C Defenders of Darrowshire |QID|5211| |OIDX|1| |N|Diseased Flayers, Gibbering Ghouls and Cannibal Ghouls. Talk to the Darrowshire Spirits that spawn from their corpses (28.4, 28.5)| |O| |Z|Eastern Plaguelands|
 C Demon Dogs |QID|5542| |OIDX|3| |N|Frenzied Plaguehounds (50.9, 38.3)| |O| |Z|Eastern Plaguelands|
 T Troubled Spirits of Kel'Theril |QID|5245| |N|Aurora Skycaller - (53.5, 22.0)| |Z|Eastern Plaguelands|
 C A Plague Upon Thee |QID|5903| |OIDX|1| |N|the Large Termite Mounds throughout Plaguewood. Loot them for the Plagueland Termites (31.4, 29.6)| |Z|Eastern Plaguelands|
 T The Restless Souls |QID|5281| |N|Egan - (14.4, 33.7)| |Z|Eastern Plaguelands|
-C Defenders of Darrowshire |QID|5211| |OIDX|1| |N|Diseased Flayers, Gibbering Ghouls and Cannibal Ghouls. the Darrowshire Spirits that spawn from their corpses (66.0, 39.2)| |O| |Z|Eastern Plaguelands|
+C Defenders of Darrowshire |QID|5211| |OIDX|1| |N|Diseased Flayers, Gibbering Ghouls and Cannibal Ghouls. Talk to the Darrowshire Spirits that spawn from their corpses (66.0, 39.2)| |O| |Z|Eastern Plaguelands|
 C Demon Dogs |QID|5542| |OIDX|3| |N|Frenzied Plaguehounds (50.9, 38.3)| |Z|Eastern Plaguelands|
 R If you have [Noggenfogger Elixirs] you may try the mountain skip to get to Tirion Fordring faster |N|(23.3, 41.6)| |O| |C|!Priest/!Mage| |Z|Eastern Plaguelands|
 R If you have [Noggenfogger Elixirs] or [Light Feathers] you may try the mountain skip to get to Tirion Fordring faster |N|(23.3, 41.6)| |O| |C|Priest/Mage| |Z|Eastern Plaguelands|
 N The starting location is marked on your map. If you're unable to do it, just run around normally |N|(23.3, 41.6)| |O| |Z|Eastern Plaguelands|
+N Click here for video reference |N|(23.3, 41.6)| |O| |Z|Eastern Plaguelands|
 T Demon Dogs |QID|5542| |N|Tirion Fordring - (7.5, 43.6)| |Z|Eastern Plaguelands|
 T Blood Tinged Skies |QID|5543| |N|Tirion Fordring - (7.5, 43.6)| |Z|Eastern Plaguelands|
 T Carrion Grubbage |QID|5544| |N|Tirion Fordring - (7.5, 43.6)| |Z|Eastern Plaguelands|
@@ -136,9 +137,12 @@ C Zaeldarr the Outcast |QID|6021| |OIDX|1| |N|Zaeldarr the Outcast. Loot him for
 A Hameya's Plea |QID|6024| |N|the Torn Scroll on the ground - (27.3, 85.2)| |Z|Eastern Plaguelands|
 N This quest can be very hard, skip it if you have to |N|(28.3, 86.9)| |Z|Eastern Plaguelands|
 N Try to split pull him if you can |N|(28.3, 86.9)| |Z|Eastern Plaguelands|
+N Click here for a reference video |N|(28.3, 86.9)| |Z|Eastern Plaguelands|
+N Click here to watch a video about splitpulling (useful to learn) |N|(28.3, 86.9)| |Z|Eastern Plaguelands|
 C Of Forgotten Memories |QID|5781| |OIDX|1| |N|Mercutio Filthgorger. Loot him for Taelan's Hammer (28.3, 86.9)| |Z|Eastern Plaguelands|
 T Of Forgotten Memories |QID|5781| |N|Tirion Fordring - (7.5, 43.6)| |Z|Eastern Plaguelands|
 A Of Lost Honor |QID|5845| |N|Tirion Fordring - (7.5, 43.6)| |Z|Eastern Plaguelands|
+H Southshore |N|Hearth to Southshore| |Z|Eastern Plaguelands|
 N Buy food/water if needed |C|!Warrior/!Rogue| |Z|Eastern Plaguelands|
 N Buy food if needed |C|Warrior/Rogue| |Z|Eastern Plaguelands|
 F Fly to Western Plaguelands |N|Darla Harris - (49.3, 52.3)| |O| |Z|Hillsbrad Foothills|
@@ -158,10 +162,13 @@ T A Strange Historian |QID|5153| |N|Chromie upstairs - (39.5, 66.8)| |Z|Western 
 A The Annals of Darrowshire |QID|5154| |N|Chromie upstairs - (39.5, 66.8)| |Z|Western Plaguelands|
 A A Matter of Time |QID|4971| |N|Chromie upstairs - (39.5, 66.8)| |Z|Western Plaguelands|
 R Enter the Ruins of Andorhal Town Hall |N|(43.8, 69.2)| |O| |Z|Western Plaguelands|
+N Click here for video reference on how to enter the Town Hall safely |N|(43.8, 69.2)| |O| |Z|Western Plaguelands|
 N Open the Musty Tomes. Loot them for the Annals of Darrowshire |N|(43.5, 69.5)| |Z|Western Plaguelands|
 N The correct Musty Tome will have its pages be a completely dark-shade, or have a brown stain. If it's only half white and half black, that is a trap |N|(43.5, 69.5)| |Z|Western Plaguelands|
 N There can be times where all Musty Tomes are traps and you must open them to force a correct one to spawn |N|(43.5, 69.5)| |Z|Western Plaguelands|
 C The Annals of Darrowshire |QID|5154| |OIDX|1| |N|Enter the Ruins of Andorhal Town Hall (43.5, 69.5)| |Z|Western Plaguelands|
+N Click here for video reference on how to identify the correct Musty Tome |N|(43.5, 69.5)| |Z|Western Plaguelands|
+N Use the [Temporal Displacer] at the silos to make them spawn. If the silo isn't pulsing blue then it cannot spawn any Temporal Parasites |N|(48.1, 66.2)| |Z|Western Plaguelands|
 N Multiple Temporal Parasites can spawn at the same time, and once one dies, another one can instantly spawn. They will also keep casting [Slow] on you severely reducing your movement and attack speed |N|(48.1, 66.2)| |Z|Western Plaguelands|
 N The Parasites cannot swim! If you get overwhelmed try to run into [Water] to evade them |N|(48.1, 66.2)| |Z|Western Plaguelands|
 C A Matter of Time |QID|4971| |OIDX|1| |N|Temporal Parasites (48.1, 66.2)| |Z|Western Plaguelands|
@@ -181,6 +188,7 @@ C Skeletal Fragments |QID|5537| |OIDX|1| |N|Skeletal Executioners and Skeletal A
 T Skeletal Fragments |QID|5537| |N|Alchemist Arbington - (42.7, 83.8)| |Z|Western Plaguelands|
 F Fly to Eastern Plaguelands |N|Bibilfaz Featherwhistle - (42.9, 85.1)| |Z|Western Plaguelands|
 R Jessica Chambers |N|(81.6, 58.1)| |Z|Eastern Plaguelands|
+h Light's Hope Chapel |N|Set hearth in Light's Hope Chapel (81.6, 58.1)| |Z|Eastern Plaguelands|
 T Brother Carlin |QID|5210| |N|Carlin Redpath - (81.5, 59.8)| |Z|Eastern Plaguelands|
 A Villains of Darrowshire |QID|5181| |N|Carlin Redpath - (81.5, 59.8)| |Z|Eastern Plaguelands|
 A Heroes of Darrowshire |QID|5168| |N|Carlin Redpath - (81.5, 59.8)| |Z|Eastern Plaguelands|
@@ -190,7 +198,7 @@ N Mossflayer Scouts will run away and call for help as soon as you agro them |N|
 N Infiltrator Hameya patrols around the graves of Zul'Mashar |N|(70.8, 16.2)| |Z|Eastern Plaguelands|
 C Hameya's Plea |QID|6024| |OIDX|1| |N|Infiltrator Hameya. Loot him for Hameya's Key (70.8, 16.2)| |Z|Eastern Plaguelands|
 C Villains of Darrowshire |QID|5181| |OIDX|1| |N|the Skull of Horgus underwater (51.1, 49.9)| |Z|Eastern Plaguelands|
-C Defenders of Darrowshire |QID|5211| |OIDX|1| |N|Diseased Flayers, Gibbering Ghouls and Cannibal Ghouls. the Darrowshire Spirits that spawn from their corpses (66.0, 39.2)| |Z|Eastern Plaguelands|
+C Defenders of Darrowshire |QID|5211| |OIDX|1| |N|Diseased Flayers, Gibbering Ghouls and Cannibal Ghouls. Talk to the Darrowshire Spirits that spawn from their corpses (66.0, 39.2)| |Z|Eastern Plaguelands|
 C Villains of Darrowshire |QID|5181| |OIDX|2| |N|the Shattered Sword of Marduk on the ground (53.9, 65.8)| |Z|Eastern Plaguelands|
 T Hameya's Plea |QID|6024| |N|the Mound of Dirt - (28.0, 86.2)| |Z|Eastern Plaguelands|
 T Of Lost Honor |QID|5845| |N|Tirion Fordring - (7.5, 43.6)| |Z|Eastern Plaguelands|
@@ -223,10 +231,14 @@ N You may either run straight to the top and jump down or clear your way up |N|(
 N Avoid High Protector Lorik who is a strong Elite that roams Hearthglen |N|(45.7, 18.8)| |Z|Western Plaguelands|
 N This quest can be difficult. Skip it if you are not confident going into Hearthglen |N|(45.7, 18.8)| |Z|Western Plaguelands|
 C Unfinished Business |QID|6025| |OIDX|1| |N|Ascend the Hearthglen Tower (45.7, 18.8)| |Z|Western Plaguelands|
+N Click here for video reference |N|(45.7, 18.8)| |Z|Western Plaguelands|
 N Avoid High Protector Lorik who is a strong Elite that roams Hearthglen |N|(42.5, 19.0)| |Z|Western Plaguelands|
 N This quest can be difficult. Skip it if you are not confident going into Hearthglen |N|(42.5, 19.0)| |Z|Western Plaguelands|
 C Heroes of Darrowshire |QID|5168| |OIDX|1| |N|Davil's Libram on the table (42.5, 19.0)| |Z|Western Plaguelands|
+N Click here for video reference |N|(42.5, 19.0)| |C|Hunter| |Z|Western Plaguelands|
+N Click here for video reference |N|(42.5, 19.0)| |C|Warlock| |Z|Western Plaguelands|
 T Unfinished Business |QID|6025| |N|Kirsta Deepshadow - (51.9, 28.1)| |Z|Western Plaguelands|
+H Southshore |N|Hearth to Southshore| |Z|Western Plaguelands|
 N Buy food/water if needed |C|!Warrior/!Rogue| |Z|Western Plaguelands|
 N Buy food if needed |C|Warrior/Rogue| |Z|Western Plaguelands|
 F Fly to Western Plaguelands |N|Darla Harris - (49.3, 52.3)| |O| |Z|Hillsbrad Foothills|
@@ -236,6 +248,7 @@ T Mission Accomplished! |QID|5237| |N|Commander Ashlam Valorfist - (42.7, 84.0)|
 T A Plague Upon Thee |QID|6389| |N|Nathaniel Dumah - (43.4, 84.8)| |Z|Western Plaguelands|
 T Of Love and Family |QID|5846| |N|Artist Renfray - (65.7, 75.4)| |Z|Western Plaguelands|
 F Fly to Eastern Plaguelands |N|Bibilfaz Featherwhistle - (42.9, 85.1)| |Z|Western Plaguelands|
+H Light's Hope Chapel |N|Hearth to Light's Hope Chapel| |Z|Western Plaguelands|
 N Buy food/water if needed |C|!Warrior/!Rogue| |Z|Western Plaguelands|
 N Buy food if needed |C|Warrior/Rogue| |Z|Western Plaguelands|
 T Defenders of Darrowshire |QID|5211| |N|Carlin Redpath - (81.5, 59.8)| |Z|Eastern Plaguelands|

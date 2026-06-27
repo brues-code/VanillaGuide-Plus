@@ -15,6 +15,7 @@ N [Standard Issue Flare Gun] |N|(62.7, 37.4)| |Z|The Barrens|
 N [Drawing Kit] |N|(62.7, 37.4)| |Z|The Barrens|
 C Take out any [Noggenfogger Elixirs] from your bank if you have any. Ideally 15-20 or so. You will use them for a quest later. It's no big deal if you don't have them |L|8529 20| |N|Take out any [Noggenfogger Elixirs] from your bank if you have any. Ideally 15-20 or so. You will use them for a quest later. It's no big deal if you don't have them - (62.7, 37.4)| |O| |Z|The Barrens|
 R Innkeeper Wiley |N|(62.0, 39.4)| |Z|The Barrens|
+h Ratchet |N|Set hearth in Ratchet (62.0, 39.4)| |Z|The Barrens|
 F Fly to Azshara |N|Bragok - (63.1, 37.2)| |Z|The Barrens|
 N This will teleport you to the top of the mountain |N|(28.1, 50.1) (ST Dungeon Quest)| |C|Mage| |D|ST| |Z|Azshara|
 T Meeting with the Master |QID|3503| |N|Sanath Lim-yo - (28.1, 50.1) (ST Dungeon Quest)| |C|Mage| |D|ST| |Z|Azshara|
@@ -85,6 +86,7 @@ A Return to Tymor |QID|3461| |N|Pilot Xiggs Fuselighter - (77.8, 91.3)| |Z|Azsha
 t Train your class spells |N|Dink - (27.2, 8.6)| |C|Mage| |Z|Ironforge|
 N Loganaar |N|(52.5, 40.6)| |C|Druid| |Z|Moonglade|
 t Train your class spells |N|Moonglade - (52.5, 40.6)| |C|Druid| |Z|Moonglade|
+H Ratchet |N|Hearth to Ratchet| |Z|Moonglade|
 N Buy food/water if needed |C|!Warrior/!Rogue| |Z|Moonglade|
 N Buy food if needed |C|Warrior/Rogue| |Z|Moonglade|
 T Seeking Spiritual Aid |QID|5158| |N|Islen Waterseer - (65.8, 43.8)| |Z|The Barrens|

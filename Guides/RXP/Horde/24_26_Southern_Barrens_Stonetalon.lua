@@ -30,6 +30,7 @@ A Betrayal from Within |QID|879| |N|Mangletooth - (44.5, 59.3)| |Z|The Barrens|
 R Jorn Skyseer |N|(44.9, 59.1)| |Z|The Barrens|
 T Ruga |QID|1823| |N|Ruga Ragetotem inside the building - (44.7, 59.4)| |C|Warrior| |Z|The Barrens|
 A Trial at the Field of Giants |QID|1824| |N|Ruga Ragetotem inside the building - (44.7, 59.4)| |C|Warrior| |Z|The Barrens|
+h Camp Taurajo |N|Set hearth in Camp Taurajo (45.6, 59.0)| |Z|The Barrens|
 B Sell your junk, then restock on food and water if necessary |N|Innkeeper Byula - (45.6, 59.0)| |C|!Rogue/!Warrior| |Z|The Barrens|
 B Sell your junk, then restock on food if necessary |N|Innkeeper Byula - (45.6, 59.0)| |C|Rogue/Warrior| |Z|The Barrens|
 N Skip this quest if you can't find him |N|(49.6, 59.4)| |Z|The Barrens|
@@ -109,6 +110,7 @@ B Manual: Heavy Silk Bandage (1) |L|16112 1| |N|Balai - (36.5, 30.4)| |Z|Dustwal
 f Get the Brackenwall Village Flight Path |N|Shardi - (35.6, 31.9)| |O| |Z|Dustwallow Marsh|
 F Fly to Camp Taurajo |N|Shardi - (35.6, 31.9)| |O| |Z|Dustwallow Marsh|
 f Get the Brackenwall Village Flight Path |N|Shardi - (35.6, 31.9)| |Z|Dustwallow Marsh|
+H Camp Taurajo |N|Hearth to Camp Taurajo| |O| |Z|Dustwallow Marsh|
 A Weapons of Choice |QID|893| |N|Tatternack - (45.1, 57.7)| |Z|The Barrens|
 T Weapons of Choice |QID|893| |N|Tatternack - (45.1, 57.7)| |Z|The Barrens|
 A A New Ore Sample |QID|1153| |N|Tatternack - (45.1, 57.7)| |Z|The Barrens|
@@ -126,6 +128,7 @@ F Fly to The Crossroads |N|Omusa - (44.5, 59.2)| |O| |Z|The Barrens|
 T Betrayal from Within |QID|906| |N|Thork - (51.5, 30.9)| |Z|The Barrens|
 T Egg Hunt |QID|868| |N|Korran - (51.1, 29.6)| |Z|The Barrens|
 R Innkeeper Boorand |N|(52.0, 29.9)| |Z|The Barrens|
+h Crossroads |N|Set hearth in Crossroads (52.0, 29.9)| |Z|The Barrens|
 B Stock up on [Flash Powder] and supplies for [Instant Poison] |N|Hula'mahi - (51.4, 30.2)| |C|Rogue| |Z|The Barrens|
 F Fly to Orgrimmar |N|Devrak - (51.5, 30.3)| |O| |C|Hunter| |Z|The Barrens|
 N Buy [Razor Arrows] from him |N|(48.1, 80.5)| |C|Hunter| |Z|Orgrimmar|
@@ -159,7 +162,7 @@ T Further Instructions |QID|1095| |N|Ziz - (59.0, 62.6)| |Z|Stonetalon Mountains
 A Gerenzo Wrenchwhistle |QID|1096| |N|Ziz - (59.0, 62.6)| |Z|Stonetalon Mountains|
 C XT:9. It patrols the southern side of the river |QID|1068| |OIDX|2| |N|XT:9. It patrols the southern side of the river - (59.7, 52.1)| |Z|Stonetalon Mountains|
 C XT:4. It patrols the Northern side of the river |QID|1068| |OIDX|1| |N|XT:4. It patrols the Northern side of the river - (64.8, 47.2)| |Z|Stonetalon Mountains|
-C The Flying Machine Airport |QID|1086| |OIDX|1| |N|(66.5, 45.5)| |Z|Stonetalon Mountains|
+C The Flying Machine Airport |QID|1086| |OIDX|1| |N|Use the [Toxic Fogger] below or on top of the platform (66.5, 45.5)| |Z|Stonetalon Mountains|
 R Travel up the mountain and enter the platform |N|(64.6, 38.0)| |O| |Z|Stonetalon Mountains|
 N Be careful! Venture Co. Machine Smiths can summon Venture Co. Harvest Reapers. Kill them one at a time |N|(62.8, 40.3)| |Z|Stonetalon Mountains|
 C Gerenzo Wrenchwhistle |QID|1096| |OIDX|1| |N|Gerenzo. Loot him for his Mechanical Arm (62.8, 40.3)| |Z|Stonetalon Mountains|
@@ -215,6 +218,7 @@ T Shredding Machines |QID|1068| |N|Seereth - (35.3, 27.9)| |Z|The Barrens|
 t Train your class spells |N|Loganaar - (52.5, 40.6)| |C|Druid| |Z|Moonglade|
 F Fly to The Crossroads |N|Bragok - (63.1, 37.2)| |O| |Z|The Barrens|
 t Training (425343) |N|Bragok - (63.1, 37.2)| |O| |C|Shaman| |Z|The Barrens|
+H Crossroads |N|Hearth to Crossroads| |O| |C|!Mage| |Z|The Barrens|
 t Training (425343) |O| |C|Shaman| |Z|The Barrens|
 B Sell your junk, then restock on food and water if necessary |N|Innkeeper Boorand - (52.0, 29.9)| |C|!Rogue/!Warrior| |Z|The Barrens|
 B Sell your junk, then restock on food if necessary |N|Innkeeper Boorand - (52.0, 29.9)| |C|Rogue/Warrior| |Z|The Barrens|

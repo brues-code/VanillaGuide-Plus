@@ -12,6 +12,7 @@ T Veteran Uzzek |QID|1505| |N|Uzzek - (61.4, 21.1)| |C|Warrior| |Z|The Barrens|
 A Path of Defense |QID|1498| |N|Uzzek - (61.4, 21.1)| |C|Warrior| |Z|The Barrens|
 T Call of Fire |QID|2983| |N|Kranal - (55.9, 19.9)| |C|Shaman| |Z|The Barrens|
 A Call of Fire |QID|1524| |N|Kranal - (55.9, 19.9)| |C|Shaman| |Z|The Barrens|
+N Die and respawn at the Spirit Healer |O| |C|Warrior/Shaman| |Z|The Barrens|
 A The Forgotten Pools |QID|870| |N|Tonga - (52.3, 31.9)| |C|Warrior/Shaman| |Z|The Barrens|
 T Crossroads Conscription |QID|842| |N|Sergra - (52.2, 31.0)| |C|Warrior/Shaman| |Z|The Barrens|
 A Plainstrider Menace |QID|844| |N|Sergra - (52.2, 31.0)| |C|Warrior/Shaman| |Z|The Barrens|
@@ -32,6 +33,7 @@ C The Forgotten Pools |QID|870| |OIDX|1| |N|Dive underwater to the Bubble Fissur
 N Keep maximum distance from Kolkar in the area. They are level 12-14 |N|(43.9, 24.4)| |C|Warrior/Shaman| |Z|The Barrens|
 N The follow-up of this quest has the powerful Cauldron Stirrer as a reward. You can skip this quest for now if you do not intend to use it |N|(43.9, 24.4)| |C|Warrior/Shaman| |Z|The Barrens|
 C Fungal Spores |QID|848| |OIDX|1| |N|Collect Laden Mushrooms around The Forgotten Pools Collect Fungal Spores (x4)| |C|Warrior/Shaman| |Z|The Barrens|
+N Die and respawn at the Spirit Healer |O| |C|Warrior/Shaman| |Z|The Barrens|
 N Wait for the RP to finish |N|(51.4, 30.1)| |C|Warrior/Shaman| |Z|The Barrens|
 N This starts a 45-minute timed quest |N|(51.4, 30.1)| |C|Warrior/Shaman| |Z|The Barrens|
 T Fungal Spores |QID|848| |N|Helbrim - (51.4, 30.1)| |C|Warrior/Shaman| |Z|The Barrens|
@@ -72,6 +74,7 @@ N He is located in the cave south/west of Thunder Bluff |N|(32.7, 36.1)| |C|Warr
 T Rite of Vision |QID|772| |N|Wiserunner - (32.7, 36.1)| |C|Warrior/Shaman| |Z|Mulgore|
 A Rite of Wisdom |QID|773| |N|Wiserunner - (32.7, 36.1)| |C|Warrior/Shaman| |Z|Mulgore|
 C Dangers of the Windfury |QID|743| |OIDX|1| |N|Windfury Wind Witches and Windfury Harpies. Loot them for their Talons Windfury Talon (8)| |C|Warrior/Shaman| |Z|Mulgore|
+N Smash the [Picks] at the Forge |N|(31.3, 49.9)| |C|Warrior/Shaman| |Z|Mulgore|
 C Dwarven Digging |QID|746| |OIDX|1| |N|Bael'dun Diggers and Bael'dun Appraisers. Loot them for their Prospector's Picks Broken Tools (5)| |C|Warrior/Shaman| |Z|Mulgore|
 A A Sacred Burial |QID|833| |N|Raintotem - (59.9, 25.6)| |C|Warrior/Shaman| |Z|Mulgore|
 C A Sacred Burial |QID|833| |OIDX|1| |N|Kill Bristleback Interlopers Bristleback Interloper (8)| |O| |C|Warrior/Shaman| |Z|Mulgore|
@@ -99,6 +102,7 @@ C Supervisor Fizsprocket |QID|765| |OIDX|1| |N|Run into the mine and hug the rig
 C The Venture Co |QID|764| |OIDX|1| |N|Venture Co. Workers and Venture Co. Supervisors Venture Co. Worker (14)| |C|Warrior/Shaman| |Z|Mulgore|
 T The Venture Co. |QID|764| |N|He patrols along the eastern road - (55.1, 60.6)| |C|Warrior/Shaman| |Z|Mulgore|
 T Supervisor Fizsprocket |QID|765| |N|He patrols along the eastern road - (55.1, 60.6)| |C|Warrior/Shaman| |Z|Mulgore|
+H Razor Hill |N|Hearth to Razor Hill| |O| |C|Warrior/Shaman| |Z|Mulgore|
 t Train your class spells |N|Tarshaw - (54.2, 42.5)| |C|Warrior| |Z|Durotar|
 t Train your class spells |N|Swart - (54.4, 42.6)| |C|Shaman| |Z|Durotar|
 R Travel the path up the mountain toward Telf |N|(39.2, 58.6)| |O| |C|Shaman| |Z|Durotar|
@@ -130,7 +134,7 @@ C Finding the Antidote |QID|813| |OIDX|1| |N|Kill Venomtail Scorpids. Loot them 
 T Skull Rock |QID|827| |N|Margoz - (56.4, 20.0)| |Z|Durotar|
 A Neeru Fireblade |QID|829| |N|Margoz - (56.4, 20.0)| |Z|Durotar|
 C Securing the Lines |QID|835| |OIDX|1| |N|Dustwind Savages and Dustwind Storm Witches Dustwind Savage (12)| |Z|Durotar|
-R Travel through the cave toward Rezlak |N|(46.4, 22.9)| |O| |Z|Durotar|
+N Die and respawn at the Spirit Healer |O| |Z|Durotar|
 T Securing the Lines |QID|835| |N|Rezlak - (46.4, 22.9)| |Z|Durotar|
 C Finding the Antidote |QID|813| |OIDX|1| |N|Finish killing Venomtail Scorpids. Loot them for their Poison Sacs Venomtail Poison Sac (4)| |C|Warrior/Shaman/Hunter| |Z|Durotar|
 R Travel to Orgrimmar |N|(49.0, 92.8)| |O| |Z|Orgrimmar|
@@ -162,8 +166,10 @@ A Ak'Zeloth |QID|809| |N|Neeru - (49.5, 50.6)| |Z|Orgrimmar|
 T Neeru Fireblade |QID|829| |N|Neeru - (49.5, 50.6)| |Z|Orgrimmar|
 A Ak'Zeloth |QID|809| |N|Neeru - (49.5, 50.6)| |Z|Orgrimmar|
 R Travel to Durotar |N|(47.0, 17.6)| |O| |C|!Warrior/!Shaman/!Hunter| |Z|Durotar|
+N Die and Respawn at the Spirit Healer |N|(47.0, 17.6)| |O| |C|!Warrior/!Shaman/!Hunter| |Z|Durotar|
 R Travel to Orgrimmar |N|(53.0, 48.8)| |O| |C|Warrior/Shaman/Hunter| |Z|Orgrimmar|
 R Travel to Durotar |N|(47.0, 17.6)| |O| |C|Warrior/Shaman/Hunter| |Z|Durotar|
+N Die and Respawn at the Spirit Healer |N|(47.0, 17.6)| |O| |C|Warrior/Shaman/Hunter| |Z|Durotar|
 A Need for a Cure |QID|812| |N|Rhinag - (41.5, 18.6)| |C|Warrior/Shaman/Hunter| |Z|Durotar|
 T Need for a Cure |QID|812| |N|Rhinag - (41.5, 18.6)| |C|Warrior/Shaman/Hunter| |Z|Durotar|
 C Path of Defense |QID|1498| |OIDX|1| |N|Jump down into Thunder Ridge and kill Lightning Hides. Loot them for their Scales Singed Scale (5)| |C|Warrior| |Z|Durotar|

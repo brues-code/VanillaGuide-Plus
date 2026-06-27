@@ -63,6 +63,7 @@ A Family Tree |QID|5361| |N|Cliffwatcher Longhorn - (45.7, 50.7)| |Z|Thousand Ne
 F Fly to Camp Taurajo |N|Nyse - (45.1, 49.1)| |O| |Z|Thousand Needles|
 F Fly to Camp Taurajo |N|Bulkrek - (51.6, 25.4)| |O| |Z|Tanaris|
 R Innkeeper Byula |N|(45.6, 59.0)| |Z|The Barrens|
+h Camp Taurajo |N|Set hearth in Camp Taurajo (45.6, 59.0)| |Z|The Barrens|
 F Fly to The Crossroads |N|Omusa - (44.5, 59.1)| |O| |Z|The Barrens|
 T Parts of the Swarm |QID|1148| |N|Korran - (51.1, 29.6)| |Z|The Barrens|
 A Parts of the Swarm |QID|1184| |N|Korran - (51.1, 29.6)| |Z|The Barrens|
@@ -87,6 +88,7 @@ T Goblin Sponsorship |QID|1181| |N|Baron on the third floor balcony - (27.2, 76.
 A Goblin Sponsorship |QID|1182| |N|Baron on the third floor balcony - (27.2, 76.9)| |Z|Stranglethorn Vale|
 f Get the Booty Bay flight path |N|Gringer around the corner of the balcony - (26.9, 77.1)| |Z|Stranglethorn Vale|
 B Buy [Greater Healing Potions] from him if they're up |N|Glyx - (28.1, 78.1)| |Z|Stranglethorn Vale|
+H Camp Taurajo |N|Hearth to Camp Taurajo| |O| |C|!Mage| |Z|Stranglethorn Vale|
 F Fly to Thunder Bluff |N|Omusa - (44.5, 59.2)| |C|!Mage| |Z|The Barrens|
 T A Vengeful Fate |QID|1102| |N|Auld - (36.0, 59.9) (RFK Dungeon Quest)| |D|RFK| |Z|Thunder Bluff|
 

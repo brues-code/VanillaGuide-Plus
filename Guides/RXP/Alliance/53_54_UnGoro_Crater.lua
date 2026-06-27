@@ -46,7 +46,7 @@ N Use the [Empty Pure Sample Jars] on their corpses |O| |Z|Un'Goro Crater|
 C Kill Muculent Oozes and Glutinous Oozes |QID|4513| |OIDX|1| |N|Kill Muculent Oozes and Glutinous Oozes| |O| |Z|Un'Goro Crater|
 C Expedition Salvation |QID|3881| |OIDX|1| |N|the Crate of Foodstuffs on the ground (68.5, 36.5)| |Z|Un'Goro Crater|
 C The Eastern Pylon |QID|4287| |OIDX|1| |N|the Eastern Crystal Pylon (77.2, 50.0)| |Z|Un'Goro Crater|
-C The Bait for Lar'korwi |QID|4292| |L|11569 1| |Z|Un'Goro Crater|
+C The Bait for Lar'korwi |QID|4292| |L|11569 1| |N|Open [Torwa's Pouch] for the [Preserved Threshadon Meat] and [Preserved Pheromone Mixture]| |Z|Un'Goro Crater|
 N Kill Lar'korwi. Loot him for his Head |N|(79.9, 49.9)| |Z|Un'Goro Crater|
 C The Bait for Lar'korwi |QID|4292| |OIDX|1| |N|Use the [Preserved Threshadon Meat] on the stone-slab, then use the [Preserved Pheromone Mixture] on it to summon Lar'korwi (79.9, 49.9)| |Z|Un'Goro Crater|
 T The Apes of Un'Goro |QID|4289| |N|Torwa Pathfinder - (71.6, 76.0)| |Z|Un'Goro Crater|
@@ -87,13 +87,14 @@ N Dinosaur Bones may also be looted from the ground. The location is marked on y
 C Roll the Bones |QID|3882| |OIDX|1| |N|Diemetradons and Elder Diemetradons. Loot them for their Dinosaur Bones and Webbed Diemetradon Scales (28.4, 60.8)| |Z|Un'Goro Crater|
 C Shizzle's Flyer |QID|4503| |OIDX|1| |N|Diemetradons and Elder Diemetradons. Loot them for their Dinosaur Bones and Webbed Diemetradon Scales (31.0, 77.7)| |Z|Un'Goro Crater|
 R Travel up the Lava Path of Fire Plume Ridge for a shortcut to the top. Follow the Arrow precisely |N|(48.8, 45.9)| |O| |Z|Un'Goro Crater|
-C Finding the Source |QID|974| |OIDX|1| |N|(49.6, 45.7)| |Z|Un'Goro Crater|
+C Finding the Source |QID|974| |OIDX|1| |N|Use [Krakle's Thermometer] atop Fire Plume Ridge at the Hot Spot (49.6, 45.7)| |Z|Un'Goro Crater|
 T Finding the Source |QID|974| |N|Krakle - (30.9, 50.4)| |Z|Un'Goro Crater|
 A The New Springs |QID|980| |N|Krakle - (30.9, 50.4)| |Z|Un'Goro Crater|
 C Volcanic Activity |QID|4502| |OIDX|1| |N|Scorching Elementals and Living Blazes. Loot them for their Ash (49.8, 53.4)| |Z|Un'Goro Crater|
 T Lost! |QID|4492| |N|Ringo - (51.9, 49.9)| |Z|Un'Goro Crater|
 A A Little Help From My Friends |QID|4491| |N|Ringo - (51.9, 49.9)| |Z|Un'Goro Crater|
 N This will start an escort quest |N|(51.9, 49.9)| |Z|Un'Goro Crater|
+N Use [Spraggle's Canteen] on him when he faints and stops following you |N|(43.6, 8.5)| |Z|Un'Goro Crater|
 C A Little Help From My Friends |QID|4491| |OIDX|1| |N|Escort Ringo to Marshal's Refuge (43.6, 8.5)| |Z|Un'Goro Crater|
 T A Little Help From My Friends |QID|4491| |N|Spraggle Frock - (43.6, 8.5)| |Z|Un'Goro Crater|
 T Beware of Pterrordax |QID|4501| |N|Spraggle Frock - (43.6, 8.5)| |Z|Un'Goro Crater|
@@ -134,12 +135,14 @@ N Shift into [Travel Form] and run away to reset it after |N|(ST Dungeon Quest)|
 C Toxic Test |QID|9051| |OIDX|1| |N|Look for a Devilsaur or Ironhide Devilsaur. Avoid Tyrant Devilsaurs (ST Dungeon Quest)| |C|Druid| |D|ST| |Z|Un'Goro Crater|
 T Toxic Test |QID|9051| |N|Torwa Pathfinder - (71.6, 76.0) (ST Dungeon Quest)| |C|Druid| |D|ST| |Z|Un'Goro Crater|
 A A Better Ingredient |QID|9053| |N|Torwa Pathfinder - (71.6, 76.0) (ST Dungeon Quest)| |C|Druid| |D|ST| |Z|Un'Goro Crater|
+N Die and respawn at the Gadgetzan Spirit Healer once you are in Tanaris |O| |Z|Un'Goro Crater|
 T Bungle in the Jungle |QID|4496| |N|Alchemist Pestlezugg - (50.9, 27.0)| |Z|Tanaris|
 R Gimblethorn |N|(52.3, 28.9)| |Z|Tanaris|
 N [Eridan's Vial] |N|(52.3, 28.9)| |Z|Tanaris|
 N [Cenarion Beacon] |N|(52.3, 28.9)| |Z|Tanaris|
 N [Purified Moonwell Water] |N|(52.3, 28.9)| |Z|Tanaris|
 N [Moontouched Feathers] (If you have them) |N|(52.3, 28.9)| |Z|Tanaris|
+H Ratchet |N|Hearth to Ratchet| |Z|Tanaris|
 N Buy food/water if needed |C|!Warrior/!Rogue| |Z|Tanaris|
 N Buy food if needed |C|Warrior/Rogue| |Z|Tanaris|
 T Volcanic Activity |QID|4502| |N|Liv Rizzlefix - (62.4, 38.7)| |Z|The Barrens|
@@ -153,7 +156,7 @@ R Travel to Teldrassil |N|(55.9, 89.5)| |Z|Teldrassil|
 N Cast [Eagle Eye] to try and find her faster |O| |C|Hunter| |Z|Teldrassil|
 A The New Frontier |QID|1047| |N|Herald Moonstalker patrols throughout Darnassus| |O| |Z|Teldrassil|
 R Travel to Darnassus |N|(39.3, 84.7)| |Z|Darnassus|
-C Felbound Ancients |QID|4441| |OIDX|1| |N|(39.3, 84.7)| |Z|Darnassus|
+C Felbound Ancients |QID|4441| |OIDX|1| |N|Use [Eridan's Vial] at the moonwell inside the Temple of the Moon (39.3, 84.7)| |Z|Darnassus|
 t Train your class spells |N|Jandria - (37.9, 82.7)| |C|Priest| |Z|Darnassus|
 t Train your class spells |N|Arias'ta Bladesinger - (58.7, 34.9)| |C|Warrior| |Z|Darnassus|
 A Assisting Arch Druid Staghelm |QID|3763| |N|Innkeeper Saelienne - (67.4, 15.7)| |Z|Darnassus|

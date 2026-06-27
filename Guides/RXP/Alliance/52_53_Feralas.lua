@@ -13,6 +13,7 @@ R Swim to Zorbin Fandazzle |N|(44.8, 43.4)| |O| |Z|Feralas|
 A Zapped Giants |QID|7003| |N|Zorbin Fandazzle - (44.8, 43.4)| |Z|Feralas|
 A Fuel for the Zapping |QID|7721| |N|Zorbin Fandazzle - (44.8, 43.4)| |Z|Feralas|
 C Fuel for the Zapping |QID|7721| |OIDX|1| |N|Kill Sea Elementals and Sea Sprays. Loot them for their Water Elemental Cores| |O| |Z|Feralas|
+N Use [Zorbin's Ultra-Shrinker] to weaken them |N|(46.0, 53.0)| |Z|Feralas|
 C Zapped Giants |QID|7003| |OIDX|1| |N|Wave Striders, Deep Striders and Shore Striders. Loot them for their Miniaturization Residues (46.0, 53.0)| |Z|Feralas|
 C Fuel for the Zapping |QID|7721| |OIDX|1| |N|Sea Elementals and Sea Sprays. Loot them for their Water Elemental Cores (46.0, 53.0)| |Z|Feralas|
 T Zapped Giants |QID|7003| |N|Zorbin Fandazzle - (44.8, 43.4)| |Z|Feralas|
@@ -27,23 +28,17 @@ N This will start an escort quest |N|(38.2, 10.3)| |Z|Feralas|
 T The Giant Guardian |QID|2844| |N|Shay Leafrunner - (38.2, 10.3)| |Z|Feralas|
 A Wandering Shay |QID|2845| |N|Shay Leafrunner - (38.2, 10.3)| |Z|Feralas|
 C Wandering Shay |QID|2845| |OIDX|1| |N|Shay's Chest. Loot it for [Shay's Bell] (38.3, 10.3)| |Z|Feralas|
+N Use [Shay's Bell] whenever Shay wanders away from you |O| |Z|Feralas|
 N If you run too far away from her the quest will fail |O| |Z|Feralas|
 C Wandering Shay |QID|2845| |OIDX|2| |N|Escort Shay Leafrunner to safety| |O| |Z|Feralas|
 C the Four Flames for the Essences |QID|2879| |L|9257 1| |N|(40.5, 12.7)| |Z|Feralas|
-C The Stave of Equinex |QID|2879| |OIDX|1| |N|(38.9, 13.1)| |Z|Feralas|
+C The Stave of Equinex |QID|2879| |OIDX|1| |N|Use [Troyas' Stave] at the Equinex Monolith (38.9, 13.1)| |Z|Feralas|
 T The Stave of Equinex |QID|2879| |N|the Equinex Monolith - (38.8, 13.2)| |Z|Feralas|
 A The Morrow Stone |QID|2942| |N|the Equinex Monolith - (38.8, 13.2)| |Z|Feralas|
+N Use [Shay's Bell] whenever Shay wanders away from you |N|(42.4, 22.0)| |Z|Feralas|
 N If you run too far away from her the quest will fail |N|(42.4, 22.0)| |Z|Feralas|
 C Wandering Shay |QID|2845| |OIDX|2| |N|Escort Shay Leafrunner to safety (42.4, 22.0)| |Z|Feralas|
 T Wandering Shay |QID|2845| |N|Rockbiter - (42.4, 22.0)| |Z|Feralas|
-N Blizzard has adjusted the quest [The Videre Elixir] so it will no longer kill you on Official Hardcore Servers |N|(45.1, 25.6)| |Z|Feralas|
-A The Videre Elixir |QID|4041| |N|Gregan Brewspewer - (45.1, 25.6)| |Z|Feralas|
-T The Videre Elixir |QID|4041| |N|Gregan Brewspewer - (45.1, 25.6)| |Z|Feralas|
-C The Videre Elixir |QID|3909| |OIDX|1| |N|Gregan Brewspewer (45.1, 25.6)| |Z|Feralas|
-N You may safely complete this quest as part of the quest chain for [The Videre Elixir] |N|(45.1, 25.6)| |Z|Feralas|
-A The Videre Elixir |QID|4041| |N|Gregan Brewspewer - (45.1, 25.6)| |Z|Feralas|
-T The Videre Elixir |QID|4041| |N|Gregan Brewspewer - (45.1, 25.6)| |Z|Feralas|
-C The Videre Elixir |QID|3909| |OIDX|1| |N|Gregan Brewspewer (45.1, 25.6)| |Z|Feralas|
 A The Videre Elixir |QID|4041| |N|Gregan Brewspewer - (45.1, 25.6)| |Z|Feralas|
 T The Videre Elixir |QID|4041| |N|Gregan Brewspewer - (45.1, 25.6)| |Z|Feralas|
 C The Videre Elixir |QID|3909| |OIDX|1| |N|Gregan Brewspewer (45.1, 25.6)| |Z|Feralas|
@@ -86,17 +81,16 @@ C Twisted Evils |QID|7028| |OIDX|1| |N|This can be completed OUTSIDE and INSIDE 
 R Travel to Moonglade |N|(52.5, 40.6) (Mara Dungeon Quest)| |C|Druid| |D|Mara| |Z|Moonglade|
 t Train your class spells |N|Loganaar - (52.5, 40.6) (Mara Dungeon Quest)| |C|Druid| |D|Mara| |Z|Moonglade|
 T Seed of Life |QID|7066| |N|the Keeper Remulos - (36.2, 41.8) (Mara Dungeon Quest)| |C|Druid| |D|Mara| |Z|Moonglade|
+N Die inside Maraudon and respawn in Desolace |N|(Mara Dungeon Quest)| |D|Mara| |Z|Moonglade|
 T Twisted Evils |QID|7028| |N|Willow - (62.2, 39.6) (Mara Dungeon Quest)| |D|Mara| |Z|Desolace|
 N The Centaur Pariah patrols slightly around southern Desolace |N|(50.5, 86.7) (Mara Dungeon Quest)| |D|Mara| |Z|Desolace|
 T The Pariah's Instructions |QID|7067| |N|the Centaur Pariah - (50.5, 86.7) (Mara Dungeon Quest)| |D|Mara| |Z|Desolace|
+H Nijel's Point |N|Hearth to Nijel's Point (Mara Dungeon Quest)| |D|Mara| |Z|Desolace|
 T Corruption of Earth and Seed |QID|7065| |N|Keeper Marandis - (63.8, 10.7) (Mara Dungeon Quest)| |D|Mara| |Z|Desolace|
 T Vyletongue Corruption |QID|7041| |N|Talendria - (68.5, 8.9) (Mara Dungeon Quest)| |D|Mara| |Z|Desolace|
 F Fly to Feathermoon |N|Baritanas Skyriver - (64.7, 10.5) (Mara Dungeon Quest)| |D|Mara| |Z|Desolace|
-T Twisted Evils |QID|7028| |N|Willow - (62.2, 39.6) (Mara Dungeon Quest)| |D|Mara| |Z|Desolace|
-N The Centaur Pariah patrols slightly around southern Desolace |N|(50.5, 86.7) (Mara Dungeon Quest)| |D|Mara| |Z|Desolace|
-T The Pariah's Instructions |QID|7067| |N|the Centaur Pariah - (50.5, 86.7) (Mara Dungeon Quest)| |D|Mara| |Z|Desolace|
 R Travel to Feralas |N|(38.2, 24.2) (!Mara Dungeon Quest)| |D|!Mara| |Z|Feralas|
-N Alternatively you may Website Unstuck to Feathermoon Stronghold from the west side of the mountain. The location is marked on your map |N|(38.2, 24.2)| |O| |Z|Feralas|
+N Die on the west side of the mountain giant area and respawn at Feathermoon |N|(38.2, 24.2) (!Mara Dungeon Quest)| |D|!Mara| |Z|Feralas|
 N Mardrack Greenwell and Faralorn |N|(31.0, 43.1)| |O| |C|Hunter| |Z|Feralas|
 N There is a grinding session ahead |N|(31.0, 43.1)| |O| |C|!Mage| |Z|Feralas|
 B Buy food/water if needed |N|Mardrack Greenwell - (31.0, 43.1)| |O| |C|!Warrior/!Rogue| |Z|Feralas|

@@ -5,14 +5,15 @@ return [[
 N 56-58 Western PL/Eastern PL |N|Converted from RestedXP guide|
 
 R Travel to Tirisfal Glades |N|(61.9, 64.8)| |O| |C|Mage| |Z|Tirisfal Glades|
-T A Call to Arms: The Plaguelands! |QID|5095| |N|the Bulwark, then Derrington - (83.2, 68.9)| |Z|Tirisfal Glades|
-A Scarlet Diversions |QID|5096| |N|the Bulwark, then Derrington - (83.2, 68.9)| |Z|Tirisfal Glades|
+T A Call to Arms: The Plaguelands! |QID|5095| |N|the Bulwark, then talk to Derrington - (83.2, 68.9)| |Z|Tirisfal Glades|
+A Scarlet Diversions |QID|5096| |N|the Bulwark, then talk to Derrington - (83.2, 68.9)| |Z|Tirisfal Glades|
 C the Box of Incendiaries by the fire |QID|5096| |L|12814 1| |N|the Box of Incendiaries by the fire - (26.6, 56.2)| |Z|Western Plaguelands|
 T The Everlook Report |QID|6029| |N|Garush - (83.2, 68.5)| |Z|Tirisfal Glades|
 T Argent Dawn Commission |QID|5405| |N|Garush - (83.2, 68.5)| |Z|Tirisfal Glades|
 A A Plague Upon Thee |QID|5901| |N|Mickey - (83.3, 72.3)| |Z|Tirisfal Glades|
 R Travel to Western Plaguelands |N|(40.5, 51.8)| |Z|Western Plaguelands|
-C Scarlet Diversions |QID|5096| |OIDX|1| |N|These mobs are relatively difficult and can chain-pull each other, so be careful (40.5, 51.8)| |Z|Western Plaguelands|
+N These mobs are relatively difficult and can chain-pull each other, so be careful |N|(40.5, 51.8)| |Z|Western Plaguelands|
+C Scarlet Diversions |QID|5096| |OIDX|1| |N|Click the Command Tent, then use your [Scourge Banner] (40.5, 51.8)| |Z|Western Plaguelands|
 T Scarlet Diversions |QID|5096| |N|Derrington - (83.2, 68.9)| |Z|Tirisfal Glades|
 A All Along the Watchtowers |QID|5098| |N|Derrington - (83.2, 68.9)| |Z|Tirisfal Glades|
 A The Scourge Cauldrons |QID|5228| |N|Derrington - (83.2, 68.9)| |Z|Tirisfal Glades|
@@ -21,12 +22,13 @@ A Target: Felstone Field |QID|5229| |N|Vandis - (83.0, 71.9)| |Z|Tirisfal Glades
 C Target: Felstone Field |QID|5229| |OIDX|1| |N|Cauldron Lord Bilemaw. Loot him for his Cauldron Key (37.1, 57.2)| |Z|Western Plaguelands|
 T Target: Felstone Field |QID|5229| |N|the Scourge Cauldron roiling atop the dais - (37.2, 56.8)| |Z|Western Plaguelands|
 A Return to the Bulwark |QID|5230| |N|the Scourge Cauldron roiling atop the dais - (37.2, 56.8)| |Z|Western Plaguelands|
-N You can her from outside at the back of the building |N|(38.4, 54.0)| |Z|Western Plaguelands|
+N You can talk to her from outside at the back of the building |N|(38.4, 54.0)| |Z|Western Plaguelands|
 A Better Late Than Never |QID|5021| |N|Janice on the 2nd floor - (38.4, 54.0)| |Z|Western Plaguelands|
 N You can click it through the hallway wall if you want to skip the mobs inside |N|(38.8, 55.3)| |Z|Western Plaguelands|
 T Better Late Than Never |QID|5021| |N|Janice's Parcel in the barn - (38.8, 55.3)| |Z|Western Plaguelands|
 A Better Late Than Never |QID|5023| |N|Janice's Parcel in the barn - (38.8, 55.3)| |Z|Western Plaguelands|
-C All Along the Watchtowers |QID|5098| |OIDX|2| |N|Do not engage the elite inside (42.3, 66.0)| |Z|Western Plaguelands|
+N Do not engage the elite inside |N|(42.3, 66.0)| |Z|Western Plaguelands|
+C All Along the Watchtowers |QID|5098| |OIDX|2| |N|Use your [Beacon Torch] on the outside corner of the tower's doorway (42.3, 66.0)| |Z|Western Plaguelands|
 C Cauldron Lord Malvinous. Loot him for his Cauldron Key |QID|5231| |OIDX|1| |N|Cauldron Lord Malvinous. Loot him for his Cauldron Key - (46.0, 52.3)| |Z|Western Plaguelands|
 T Target: Dalson's Tears |QID|5231| |N|the Scourge Cauldron roiling atop the dais - (46.2, 52.0)| |Z|Western Plaguelands|
 A Return to the Bulwark |QID|5232| |N|the Scourge Cauldron roiling atop the dais - (46.2, 52.0)| |Z|Western Plaguelands|
@@ -37,9 +39,12 @@ T Locked Away |QID|5059| |N|the Outhouse - (48.2, 49.7)| |O| |Z|Western Plaguela
 C Farmer Dalson. Loot him for his Cabinet Key |QID|5060| |L|12739 1| |N|Farmer Dalson. Loot him for his Cabinet Key - (48.2, 49.7)| |Z|Western Plaguelands|
 T Locked Away |QID|5060| |N|the Locked Cabinet on the top floor of the house - (47.4, 49.7)| |Z|Western Plaguelands|
 A A Matter of Time |QID|4971| |N|Chromie on the top floor of the inn - (39.5, 66.8)| |Z|Western Plaguelands|
-C All Along the Watchtowers |QID|5098| |OIDX|3| |N|Do not engage the elite inside (44.2, 63.1)| |Z|Western Plaguelands|
-C A Matter of Time |QID|4971| |OIDX|1| |N|Temporal Parasites spam Slow and can spawn more parasites upon death. Be ready to run to the water if they begin overwhelming you; they cannot swim (45.8, 63.3)| |Z|Western Plaguelands|
-C All Along the Watchtowers |QID|5098| |OIDX|4| |N|Do not engage the elite inside (46.7, 71.1)| |Z|Western Plaguelands|
+N Do not engage the elite inside |N|(44.2, 63.1)| |Z|Western Plaguelands|
+C All Along the Watchtowers |QID|5098| |OIDX|3| |N|Use your [Beacon Torch] on the outside corner of the tower's doorway (44.2, 63.1)| |Z|Western Plaguelands|
+N Temporal Parasites spam Slow and can spawn more parasites upon death. Be ready to run to the water if they begin overwhelming you; they cannot swim |N|(45.8, 63.3)| |Z|Western Plaguelands|
+C A Matter of Time |QID|4971| |OIDX|1| |N|Spawn the Temporal Parasites by using your [Temporal Displacer] near the glowing silos (45.8, 63.3)| |Z|Western Plaguelands|
+N Do not engage the elite inside |N|(46.7, 71.1)| |Z|Western Plaguelands|
+C All Along the Watchtowers |QID|5098| |OIDX|4| |N|Use your [Beacon Torch] on the outside corner of the tower's doorway (46.7, 71.1)| |Z|Western Plaguelands|
 R Travel to The Hinterlands |N|(23.9, 38.6) (ST Dungeon Quest)| |D|ST| |Z|The Hinterlands|
 R Travel south east along a path into The Hinterlands. Follow the waypoint for directions |N|(24.7, 44.7) (ST Dungeon Quest)| |D|ST| |Z|The Hinterlands|
 T Jammal'an the Prophet |QID|1446| |N|the Atal'ai Exile - (33.8, 75.2) (ST Dungeon Quest)| |D|ST| |Z|The Hinterlands|
@@ -103,7 +108,7 @@ N Clicking the doll pieces can spawn a few Ghosts of the Past which have ice arm
 C the 3 Doll Parts on the floor in ruined buildings |QID|5149| |L|12887 1| |N|the 3 Doll Parts on the floor in ruined buildings - (39.6, 92.5)| |Z|Eastern Plaguelands|
 N Clicking the doll pieces can spawn a few Ghosts of the Past which have ice armor and frost shock |N|(39.7, 90.2)| |Z|Eastern Plaguelands|
 C the 3 Doll Parts on the floor in ruined buildings |QID|5149| |L|12888 1| |N|the 3 Doll Parts on the floor in ruined buildings - (39.7, 90.2)| |Z|Eastern Plaguelands|
-C Pamela's Doll |QID|5149| |OIDX|1| |N|(36.5, 90.8)| |Z|Eastern Plaguelands|
+C Pamela's Doll |QID|5149| |OIDX|1| |N|Click [Pamela's Doll's Head] to combine the three pieces (36.5, 90.8)| |Z|Eastern Plaguelands|
 T Pamela's Doll |QID|5149| |N|Pamela - (36.5, 90.8)| |Z|Eastern Plaguelands|
 A Auntie Marlene |QID|5152| |N|Pamela - (36.5, 90.8)| |Z|Eastern Plaguelands|
 A Uncle Carlin |QID|5241| |N|Pamela - (36.5, 90.8)| |Z|Eastern Plaguelands|
@@ -113,7 +118,7 @@ C Demon Dogs |QID|5542| |OIDX|2| |N|Kill Plaguehound and Noxious Plaguebats| |O|
 C Un-Life's Little Annoyances |QID|6042| |OIDX|1| |N|Kill Plaguehound and Noxious Plaguebats| |O| |Z|Eastern Plaguelands|
 N Groups of elites patrol the north and east road. Invisible mobs patrol inside of Corrin's Crossing, so try to pull mobs out |O| |Z|Eastern Plaguelands|
 C Undead. Loot them for their Living Rot. |L|15447 7| |N|Kill Undead. Loot them for their Living Rot.| |O| |Z|Eastern Plaguelands|
-C To Kill With Purpose |QID|6022| |OIDX|1| |N|(58.0, 67.6)| |Z|Eastern Plaguelands|
+C To Kill With Purpose |QID|6022| |OIDX|1| |N|Use the [Mortar and Pestle] before the Living Rot expires (58.0, 67.6)| |Z|Eastern Plaguelands|
 C Demon Dogs |QID|5542| |OIDX|2| |N|Plaguehound and Noxious Plaguebats (77.9, 69.6)| |Z|Eastern Plaguelands|
 C Un-Life's Little Annoyances |QID|6042| |OIDX|1| |N|Plaguehound and Noxious Plaguebats (77.9, 69.6)| |Z|Eastern Plaguelands|
 T Duke Nicholas Zverenhoff |QID|6030| |N|Nicholas and Carlin - (81.4, 59.8)| |Z|Eastern Plaguelands|
@@ -130,11 +135,12 @@ C Un-Life's Little Annoyances |QID|6042| |OIDX|2| |N|Monstrous Plaguebats and Fr
 C Demon Dogs |QID|5542| |OIDX|3| |N|Monstrous Plaguebats and Frenzied Plaguehounds (51.2, 39.9)| |Z|Eastern Plaguelands|
 C Carrion Grubbage |QID|5544| |OIDX|1| |N|Carrion Worms. Loot them for their Meat (51.2, 39.9)| |Z|Eastern Plaguelands|
 C A Plague Upon Thee |QID|5901| |OIDX|1| |N|the tan Termite Mounds for its Termites (42.8, 34.2)| |Z|Eastern Plaguelands|
-T The Restless Souls |QID|5281| |N|Enter the house, then Egan and Augustus - (14.4, 33.7)| |Z|Eastern Plaguelands|
-A Augustus' Receipt Book |QID|6164| |N|Enter the house, then Egan and Augustus - (14.4, 33.7)| |Z|Eastern Plaguelands|
+T The Restless Souls |QID|5281| |N|Enter the house, then talk to Egan and Augustus - (14.4, 33.7)| |Z|Eastern Plaguelands|
+A Augustus' Receipt Book |QID|6164| |N|Enter the house, then talk to Egan and Augustus - (14.4, 33.7)| |Z|Eastern Plaguelands|
 C Augustus' Receipt Book |QID|6164| |OIDX|1| |N|Augustus' Receipt Book on the second floor of the inn (17.4, 31.1)| |Z|Eastern Plaguelands|
 T Augustus' Receipt Book |QID|6164| |N|Augustus back in the house - (14.4, 33.5)| |Z|Eastern Plaguelands|
 B Sell your junk, then restock on food if necessary |N|Augustus again - (14.4, 33.5)| |Z|Eastern Plaguelands|
+N Click HERE for reference |N|(11.0, 47.8)| |O| |Z|Eastern Plaguelands|
 T Demon Dogs |QID|5542| |N|Tirion - (7.6, 43.6)| |Z|Eastern Plaguelands|
 T Blood Tinged Skies |QID|5543| |N|Tirion - (7.6, 43.6)| |Z|Eastern Plaguelands|
 T Carrion Grubbage |QID|5544| |N|Tirion - (7.6, 43.6)| |Z|Eastern Plaguelands|
@@ -154,6 +160,7 @@ N Split pull the pack that spawns with Volley. Kite Mercutio away until the othe
 N Stealth into the middle of the pack that spawns, then de-stealth, immediately aggroing all mobs at once. Keep refreshing leash on Mercutio whilst sprinting away from the other mobs |N|(28.3, 86.8)| |C|Rogue| |Z|Eastern Plaguelands|
 N Stealth into the middle of the pack that spawns, then de-stealth, immediately aggroing all mobs at once. Keep refreshing leash on Mercutio whilst dashing away from the other mobs |N|(28.3, 86.8)| |C|Druid| |Z|Eastern Plaguelands|
 C Of Forgotten Memories |QID|5781| |OIDX|1| |N|the Loose Dirt Mound to summon Mercutio Filthgorger and 3 Crypt Robbers. Kill him, then loot him for his Hammer (28.3, 86.8)| |Z|Eastern Plaguelands|
+N CLICK HERE for reference |N|(28.3, 86.8)| |C|Mage/Warlock/Hunter/Druid/Rogue| |Z|Eastern Plaguelands|
 C Zaeldarr the Outcast |QID|6021| |OIDX|1| |N|Zaeldarr the Outcast inside the crypt. Loot him for his Head (27.4, 84.9)| |Z|Eastern Plaguelands|
 A Hameya's Plea |QID|6024| |N|the big Torn Scroll on the ground inside the crypt - (27.3, 85.2)| |Z|Eastern Plaguelands|
 T Of Forgotten Memories |QID|5781| |N|Tirion - (7.6, 43.6)| |Z|Eastern Plaguelands|
@@ -166,6 +173,7 @@ T A Strange Historian |QID|5153| |N|Chromie on the top floor of the inn - (39.5,
 A The Annals of Darrowshire |QID|5154| |N|Chromie on the top floor of the inn - (39.5, 66.8)| |Z|Western Plaguelands|
 N Many books are fake and spawn mobs when opened. The real books have entirely white pages, no gray/dark coloration. You may have to click fake books in order to spawn a real one |N|(43.4, 69.6)| |Z|Western Plaguelands|
 C The Annals of Darrowshire |QID|5154| |OIDX|1| |N|Musty Tomes inside the town hall until you loot the Annals of Darrowshire (43.4, 69.6)| |Z|Western Plaguelands|
+N Click HERE for a visual example |N|(43.4, 69.6)| |Z|Western Plaguelands|
 T The Annals of Darrowshire |QID|5154| |N|Chromie on the top floor of the inn - (39.5, 66.8)| |Z|Western Plaguelands|
 A Brother Carlin |QID|5210| |N|Chromie on the top floor of the inn - (39.5, 66.8)| |Z|Western Plaguelands|
 T Skeletal Fragments |QID|964| |N|Dithers - (83.3, 69.2)| |Z|Tirisfal Glades|
@@ -242,17 +250,18 @@ T Target: Gahrron's Withering |QID|5235| |N|the Scourge Cauldron roiling atop th
 A Return to the Bulwark |QID|5236| |N|the Scourge Cauldron roiling atop the dais - (62.5, 58.6)| |Z|Western Plaguelands|
 T A Plague Upon Thee |QID|5902| |N|Enter the mill. Click the Northridge Lumber Mill Crate by the ramp, then click the Termite Barrel - (48.4, 32.0)| |Z|Western Plaguelands|
 A A Plague Upon Thee |QID|6390| |N|Enter the mill. Click the Northridge Lumber Mill Crate by the ramp, then click the Termite Barrel - (48.4, 32.0)| |Z|Western Plaguelands|
-A Unfinished Business |QID|6025| |N|Leave Hearthglen, then Kirsta - (51.9, 28.1)| |Z|Western Plaguelands|
+A Unfinished Business |QID|6025| |N|Leave Hearthglen, then talk to Kirsta - (51.9, 28.1)| |Z|Western Plaguelands|
 N Be mindful that mobs have no Z axis range. They can hit you from the bottom of the tower if they're directly below you |N|(45.6, 18.6)| |Z|Western Plaguelands|
 N Be careful of High Protector Lorik (level 61 elite), he patrols around |N|(45.6, 18.6)| |Z|Western Plaguelands|
 N Be careful of the Scarlet Executioner that might patrol at the top of the tower |N|(45.6, 18.6)| |Z|Western Plaguelands|
 C Unfinished Business |QID|6025| |OIDX|1| |N|Run up to the top of the tower. Be careful as Scarlet Paladins outside can heal (45.6, 18.6)| |Z|Western Plaguelands|
-T Unfinished Business |QID|6025| |N|Leave Hearthglen, then Kirsta - (51.9, 28.1)| |Z|Western Plaguelands|
-N You can her from outside at the back of the building |N|(38.4, 54.0)| |Z|Western Plaguelands|
+T Unfinished Business |QID|6025| |N|Leave Hearthglen, then talk to Kirsta - (51.9, 28.1)| |Z|Western Plaguelands|
+N You can talk to her from outside at the back of the building |N|(38.4, 54.0)| |Z|Western Plaguelands|
 T Good Luck Charm |QID|5050| |N|Janice on the 2nd floor - (38.4, 54.0)| |Z|Western Plaguelands|
 A Two Halves Become One |QID|5051| |N|Janice on the 2nd floor - (38.4, 54.0)| |Z|Western Plaguelands|
+N Use it to create the Good Luck Good Luck Charm |N|(37.8, 57.6)| |Z|Western Plaguelands|
 C Two Halves Become One |QID|5051| |OIDX|1| |N|the Jabbering Ghoul. Loot it for the Good Luck Other-Half-Charm (37.8, 57.6)| |Z|Western Plaguelands|
-N You can her from outside at the back of the building |N|(38.4, 54.0)| |Z|Western Plaguelands|
+N You can talk to her from outside at the back of the building |N|(38.4, 54.0)| |Z|Western Plaguelands|
 T Two Halves Become One |QID|5051| |N|Janice on the 2nd floor - (38.4, 54.0)| |Z|Western Plaguelands|
 T Return to the Bulwark |QID|5236| |N|Vandis - (83.0, 71.9)| |Z|Tirisfal Glades|
 T A Plague Upon Thee |QID|6390| |N|Mickey - (83.3, 72.3)| |Z|Tirisfal Glades|
@@ -283,17 +292,13 @@ C The Rise of the Machines |QID|4061| |OIDX|1| |N|War Reavers. Loot them for the
 N Select the option: "I present you with proof of my deeds, Cyrus." |N|(95.1, 31.6) (BRD Dungeon Quest)| |D|BRD| |Z|Burning Steppes|
 A A Taste of Flame |QID|4022| |N|Cyrus Therepentous - (95.1, 31.6) (BRD Dungeon Quest)| |D|BRD| |Z|Burning Steppes|
 T A Taste of Flame |QID|4022| |N|Cyrus Therepentous - (95.1, 31.6) (BRD Dungeon Quest)| |D|BRD| |Z|Burning Steppes|
-N If you are missing the [Black Dragonflight Molt] and cannot complete the quest, Cyrus and select the option: "I do not possess any proof, Cyrus." |N|(95.1, 31.6) (BRD Dungeon Quest)| |D|BRD| |Z|Burning Steppes|
+N If you are missing the [Black Dragonflight Molt] and cannot complete the quest, talk to Cyrus and select the option: "I do not possess any proof, Cyrus." |N|(95.1, 31.6) (BRD Dungeon Quest)| |D|BRD| |Z|Burning Steppes|
 N This will spawn a level 54 Elite Dragon at the entrance of the small cave. Ensure you have party members with you to help kill it, then loot it for the [Black Dragonflight Molt] |N|(95.1, 31.6) (BRD Dungeon Quest)| |D|BRD| |Z|Burning Steppes|
 N Select the option after: "I present you with proof of my deeds, Cyrus." |N|(95.1, 31.6) (BRD Dungeon Quest)| |D|BRD| |Z|Burning Steppes|
 C Cyrus Therepentous |QID|4022| |L|10575 1| |N|Cyrus Therepentous - (95.1, 31.6) (BRD Dungeon Quest)| |D|BRD| |Z|Burning Steppes|
 A A Taste of Flame |QID|4022| |N|Cyrus Therepentous - (95.1, 31.6) (BRD Dungeon Quest)| |D|BRD| |Z|Burning Steppes|
 T A Taste of Flame |QID|4022| |N|Cyrus Therepentous - (95.1, 31.6) (BRD Dungeon Quest)| |D|BRD| |Z|Burning Steppes|
 A A Taste of Flame |QID|4024| |N|Cyrus Therepentous - (95.1, 31.6) (BRD Dungeon Quest)| |D|BRD| |Z|Burning Steppes|
-A Dark Iron Legacy |QID|3801| |N|Franclorn Forgewright - (48.6, 64.2) (BRD Dungeon Quest)| |D|BRD| |Z|Westfall|
-T Dark Iron Legacy |QID|3801| |N|Franclorn Forgewright - (48.6, 64.2) (BRD Dungeon Quest)| |D|BRD| |Z|Westfall|
-A Dark Iron Legacy |QID|3802| |N|Franclorn Forgewright - (48.6, 64.2) (BRD Dungeon Quest)| |D|BRD| |Z|Westfall|
-N You must have the [Emberglow Vision] debuff to see him |N|(48.6, 64.2) (BRD Dungeon Quest)| |D|BRD| |Z|Westfall|
 A Dark Iron Legacy |QID|3801| |N|Franclorn Forgewright - (48.6, 64.2) (BRD Dungeon Quest)| |D|BRD| |Z|Westfall|
 T Dark Iron Legacy |QID|3801| |N|Franclorn Forgewright - (48.6, 64.2) (BRD Dungeon Quest)| |D|BRD| |Z|Westfall|
 A Dark Iron Legacy |QID|3802| |N|Franclorn Forgewright - (48.6, 64.2) (BRD Dungeon Quest)| |D|BRD| |Z|Westfall|
@@ -316,12 +321,14 @@ N This quest does not need to be completed now |N|(BRD Dungeon Quest)| |D|BRD| |
 C The Last Element |QID|7201| |OIDX|1| |N|Kill Fire Elementals and Golems. Loot them for their Essence of the Elements (BRD Dungeon Quest)| |D|BRD| |Z|Badlands|
 N There is a trick which allows you to loot it without having to open the safe. View the link below to see how it is done |N|(BRD Dungeon Quest)| |D|BRD| |Z|Badlands|
 C The Heart of the Mountain |QID|4123| |OIDX|1| |N|Loot The Heart of the Mountain inside of the safe wall. It takes 15 seconds for it to respawn (BRD Dungeon Quest)| |D|BRD| |Z|Badlands|
+N Click here to see how to loot the Heart of the Mountain |N|(BRD Dungeon Quest)| |D|BRD| |Z|Badlands|
 C Dark Iron Legacy |QID|3802| |OIDX|1| |N|Kill Fineous Darkvire. Loot him for the Ironfel (BRD Dungeon Quest)| |D|BRD| |Z|Badlands|
 C Disharmony of Fire |QID|3907| |OIDX|1| |N|Kill Lord Incendius (BRD Dungeon Quest)| |D|BRD| |Z|Badlands|
 N Click the Monument of Franclorn Forgewright |N|(BRD Dungeon Quest)| |D|BRD| |Z|Badlands|
 T Dark Iron Legacy |QID|3802| |N|Run back near the location above the Ring of Law (BRD Dungeon Quest)| |D|BRD| |Z|Badlands|
 C ON SIGHT: High Ranking Dark Iron Officials |QID|4082| |OIDX|1| |N|Kill Anvilrage Dwarves (BRD Dungeon Quest)| |D|BRD| |Z|Badlands|
 N Kill Bael'Gar |N|(BRD Dungeon Quest)| |D|BRD| |Z|Badlands|
+N Use the [Altered Black Dragonflight Molt] on his corpse |N|(BRD Dungeon Quest)| |D|BRD| |Z|Badlands|
 C A Taste of Flame |QID|4024| |OIDX|1| |N|Head to the Shadowforge Gates at the start of the entrance (BRD Dungeon Quest)| |D|BRD| |Z|Badlands|
 C ON SIGHT: High Ranking Dark Iron Officials |QID|4082| |OIDX|1| |N|Finish killing Anvilrage Dwarves (BRD Dungeon Quest)| |D|BRD| |Z|Badlands|
 N If your group does not have a Rogue you may need to kill High Interrogator Gerstahn for the Prison Cell Key to open the doors |N|(BRD Dungeon Quest)| |D|BRD| |Z|Badlands|
@@ -349,7 +356,7 @@ N Click on the 3 Thunderbrew Lager Kegs to destroy them, forcing Hurley Blackbre
 N Kill Hurley Blackbreath. Loot him for the Lost Thunderbrew Recipe |N|(BRD Dungeon Quest)| |D|BRD| |Z|Badlands|
 C Lost Thunderbrew Recipe |QID|4134| |OIDX|1| |N|Enter the Bar and go into the small room on the left. Do NOT attack any of the neutral mobs while running through the Bar (BRD Dungeon Quest)| |D|BRD| |Z|Badlands|
 N Kill Ribbly Screwspigot. Loot him for his Head |N|(BRD Dungeon Quest)| |D|BRD| |Z|Badlands|
-N To engage Ribbly Screwspigot you have your tank him, then bring him back along with his Cronies into the room with the kegs |N|(BRD Dungeon Quest)| |D|BRD| |Z|Badlands|
+N To engage Ribbly Screwspigot you have your tank talk to him, then bring him back along with his Cronies into the room with the kegs |N|(BRD Dungeon Quest)| |D|BRD| |Z|Badlands|
 C Ribbly Screwspigot |QID|4136| |OIDX|1| |N|Enter the Bar and go into the small room on the left. Do NOT attack any of the neutral mobs while running through the Bar (BRD Dungeon Quest)| |D|BRD| |Z|Badlands|
 N Click on the 3 Thunderbrew Lager Kegs to destroy them, forcing Hurley Blackbreath and his 3 Blackbreath Cronies to engage |N|(BRD Dungeon Quest)| |D|BRD| |Z|Badlands|
 N Kill Hurley Blackbreath. Loot him for the Lost Thunderbrew Recipe |N|(BRD Dungeon Quest)| |D|BRD| |Z|Badlands|

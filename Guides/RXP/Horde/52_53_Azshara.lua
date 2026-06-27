@@ -4,6 +4,7 @@ return [[
 
 N 52-53 Azshara |N|Converted from RestedXP guide|
 
+h Orgrimmar |N|Set hearth in Orgrimmar (54.1, 68.4)| |Z|Orgrimmar|
 t Training (3567) |N|Innkeeper Gryshka - (54.1, 68.4)| |C|Mage| |Z|Orgrimmar|
 R Karus |N|(49.6, 69.1) (!MARA Dungeon Quest)| |D|!MARA| |Z|Orgrimmar|
 N [Box of Empty Vials] (or the [Empty Vials] if you openend the box) |N|(49.6, 69.1) (!MARA Dungeon Quest)| |D|!MARA| |Z|Orgrimmar|
@@ -98,11 +99,11 @@ T Magic Dust |QID|8251| |N|Archmage Xylem - (29.2, 40.2)| |C|Mage| |Z|Azshara|
 A The Siren's Coral |QID|8252| |N|Archmage Xylem - (29.2, 40.2)| |C|Mage| |Z|Azshara|
 R Travel south to the cliff and jump down into the water |N|(47.8, 60.8)| |O| |Z|Azshara|
 C Kim'jael's "Missing" Equipment |QID|5534| |OIDX|1| |N|Kill all Spitelash Nagas. Loot them for Some Rune| |O| |Z|Azshara|
-C Seeping Corruption |QID|3568| |L|10687 1| |O| |Z|Azshara|
-C Seeping Corruption |QID|3568| |OIDX|4| |N|(47.5, 46.2)| |Z|Azshara|
-C Seeping Corruption |QID|3568| |OIDX|3| |N|(48.7, 48.5)| |Z|Azshara|
-C Seeping Corruption |QID|3568| |OIDX|2| |N|(47.8, 51.3)| |Z|Azshara|
-C Seeping Corruption |QID|3568| |OIDX|1| |N|(47.8, 60.8)| |Z|Azshara|
+C Seeping Corruption |QID|3568| |L|10687 1| |N|Open your [Box of Empty Vials]| |O| |Z|Azshara|
+C Seeping Corruption |QID|3568| |OIDX|4| |N|Use your [Empty Vial Labeled #4] in the centre of the puddle (47.5, 46.2)| |Z|Azshara|
+C Seeping Corruption |QID|3568| |OIDX|3| |N|Use your [Empty Vial Labeled #3] in the centre of the puddle (48.7, 48.5)| |Z|Azshara|
+C Seeping Corruption |QID|3568| |OIDX|2| |N|Use your [Empty Vial Labeled #2] in the centre of the puddle (47.8, 51.3)| |Z|Azshara|
+C Seeping Corruption |QID|3568| |OIDX|1| |N|Use your [Empty Vial Labeled #1] in the centre of the puddle (47.8, 60.8)| |Z|Azshara|
 C Stealing Knowledge |QID|3517| |OIDX|1| |N|the Glowing Tablets scattered around the ruins (35.9, 53.5)| |Z|Azshara|
 C The Siren's Coral |QID|8252| |OIDX|1| |N|Spitelash Sirens. Loot them for their Enchanted Corals (46.0, 52.8)| |C|Mage| |Z|Azshara|
 R Run up the hill to leave the Ruins of Eldarath |N|(45.5, 37.8)| |O| |Z|Azshara|

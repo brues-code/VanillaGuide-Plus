@@ -30,6 +30,7 @@ t Train your class spells |N|Jannok Breezesong - (56.4, 60.1)| |C|Rogue| |Z|Teld
 T Dolanaar Delivery |QID|2159| |N|Innkeeper Keldamyr - (55.6, 59.8)| |C|Hunter| |Z|Teldrassil|
 T Dolanaar Delivery |QID|2159| |N|Innkeeper Keldamyr - (55.6, 59.8)| |C|!Hunter| |Z|Teldrassil|
 B Buy 10 Ice Cold Milk or as much as you can afford |N|Innkeeper Keldamyr - (55.6, 59.8)| |C|Priest| |Z|Teldrassil|
+h Dolanaar |N|Set hearth in Dolanaar (55.6, 59.8)| |Z|Teldrassil|
 t Train your class spells |N|Kal - (55.9, 61.6)| |C|Druid| |Z|Teldrassil|
 T Crown of the Earth |QID|928| |N|Corithras Moonrage - (56.1, 61.7)| |Z|Teldrassil|
 A Crown of the Earth |QID|929| |N|Corithras Moonrage - (56.1, 61.7)| |Z|Teldrassil|
@@ -91,9 +92,11 @@ N They are usually located next to tree trunks |O| |Z|Teldrassil|
 C Seek Redemption! |QID|489| |OIDX|1| |N|Loot the Fel Cones on the ground Collect Fel Cone (x3)| |O| |Z|Teldrassil|
 N If there aren't many Gnarlpine Mystics you may have to kill Gnarlpine Warriors to make them spawn |O| |Z|Teldrassil|
 C Ferocitas the Dream Eater |QID|2459| |OIDX|1| |N|Kill Gnarlpine Mystics Kill Gnarlpine Mystic (x7)| |O| |Z|Teldrassil|
+N Use the [Gnarlpine Necklace] to loot Tallonkai's Jewel |N|(69.4, 53.4)| |Z|Teldrassil|
 C Ferocitas the Dream Eater |QID|2459| |OIDX|2| |N|Ferocitas the Dream Eater. Loot him for the [Gnarlpine Necklace]. Be careful as he can [Thrash] hitting you up to three times at once Collect Tallonkai's Jewel (x1)| |Z|Teldrassil|
 N If there aren't many Gnarlpine Mystics you may have to kill Gnarlpine Warriors to make them spawn |N|(69.4, 53.4)| |Z|Teldrassil|
 C Ferocitas the Dream Eater |QID|2459| |OIDX|1| |N|Gnarlpine Mystics Kill Gnarlpine Mystic (x7)| |Z|Teldrassil|
+N Die and respawn at the Spirit Healer |O| |Z|Teldrassil|
 B Vendor and repair if necessary |N|Brannol Eaglemoon - (56.2, 60.2)| |Z|Teldrassil|
 N They are usually located next to tree trunks |N|(58.7, 55.7)| |Z|Teldrassil|
 C Seek Redemption! |QID|489| |OIDX|1| |N|the Fel Cones on the ground Collect Fel Cone (x3)| |Z|Teldrassil|
@@ -103,6 +106,7 @@ C Collect Small Spider Leg (x7) |QID|4161| |L|5465 7| |N|Kill Webwood Lurkers an
 R Fel Rock |N|(54.4, 51.2)| |O| |Z|Teldrassil|
 N Lord Melenas may be located in many different spawn locations throughout Fel Rock |N|(51.2, 50.6)| |Z|Teldrassil|
 C Twisted Hatred |QID|932| |OIDX|1| |N|Lord Melenas. Loot him for his Head Collect Melenas' Head (x1)| |Z|Teldrassil|
+N Die and respawn at the Spirit Healer |O| |Z|Teldrassil|
 T Crown of the Earth |QID|929| |N|Corithras Moonrage - (56.1, 61.7)| |C|!Druid| |Z|Teldrassil|
 A Crown of the Earth |QID|933| |N|Corithras Moonrage - (56.1, 61.7)| |Z|Teldrassil|
 N You need these for a later quest |O| |Z|Teldrassil|
@@ -110,9 +114,9 @@ C Collect Small Spider Leg (x7) |QID|4161| |L|5465 7| |N|Kill Webwood Lurkers an
 R southwestern Teldrassil |N|(42.6, 76.2)| |O| |Z|Teldrassil|
 A The Glowing Fruit |QID|930| |N|the Strange Fruited Plant - (42.6, 76.2)| |Z|Teldrassil|
 R the Pools of Arlithrien |N|(42.4, 67.1)| |O| |Z|Teldrassil|
-C Crown of the Earth |QID|933| |OIDX|1| |N|(42.4, 67.1)| |Z|Teldrassil|
+C Crown of the Earth |QID|933| |OIDX|1| |N|Use the [Tourmaline Phial] at the Pools of Arlithrien moonwell (42.4, 67.1)| |Z|Teldrassil|
 C Collect Small Spider Leg (x7) |QID|4161| |L|5465 7| |N|Webwood Lurkers and Webwood Venomfangs. Loot them for their Small Spider Legs (44.9, 73.8)| |Z|Teldrassil|
-R Dolanaar |N|(56.1, 61.7)| |O| |Z|Teldrassil|
+N Die and respawn at the Dolanaar graveyard, make sure to die east of the moonwell, otherwise you might end up in Darnassus |N|(43.5, 68.4)| |O| |Z|Teldrassil|
 T Crown of the Earth |QID|933| |N|Corithras Moonrage - (56.1, 61.7)| |Z|Teldrassil|
 A Crown of the Earth |QID|7383| |N|Corithras Moonrage - (56.1, 61.7)| |Z|Teldrassil|
 t Train Cooking |N|Zarrin - (57.1, 61.3)| |Z|Teldrassil|
@@ -125,7 +129,7 @@ A The Road to Darnassus |QID|487| |N|Moon Priestess Amara patrols the road west 
 C The Road to Darnassus |QID|487| |OIDX|1| |N|Gnarlpine Ambushers Kill Gnarlpine Ambusher (x6)| |Z|Teldrassil|
 R The Oracle Glade |N|(38.3, 34.4)| |O| |Z|Teldrassil|
 A The Enchanted Glade |QID|937| |N|Sentinel Arynia Cloudsbreak - (38.3, 34.4)| |Z|Teldrassil|
-C Crown of the Earth |QID|7383| |OIDX|1| |N|Collect Filled Amethyst Phial (x1)| |Z|Teldrassil|
+C Crown of the Earth |QID|7383| |OIDX|1| |N|Use the [Amethyst Phial] at The Oracle Glade moonwell Collect Filled Amethyst Phial (x1)| |Z|Teldrassil|
 N Bloodfeather Matriarchs cast [Healing Wave] and [Lightning Bolt] which does a lot of damage. Try to burst them fast |O| |Z|Teldrassil|
 C The Enchanted Glade |QID|937| |OIDX|1| |N|Kill Bloodfeather Harpies. Loot them for their Belts Collect Bloodfeather Belt (x6)| |O| |Z|Teldrassil|
 A The Shimmering Frond |QID|931| |N|the Strange Fronded Plant - (34.6, 28.8)| |Z|Teldrassil|
@@ -147,8 +151,6 @@ G Grind to level 10 |C|!Hunter/!Druid| |Z|Teldrassil|
 C Collect Small Spider Leg (x7) |QID|4161| |L|5465 7| |N|Finish off collecting 7 Small Spider Legs (38.6, 58.0)| |Z|Teldrassil|
 R If you're still behind on xp do the harpy quest north |N|(38.3, 34.4)| |C|Druid| |Z|Teldrassil|
 G Grind to level 10 |C|!Druid| |Z|Teldrassil|
-C The Enchanted Glade |QID|937| |OIDX|1| |N|Kill Bloodfeather Harpies on the way to Darnassus. Loot them for their Belts. You don't have to complete this objective now Collect Bloodfeather Belt (x6)| |O| |C|!Rogue| |Z|Teldrassil|
-R Darnassus |N|(82.0, 36.7)| |O| |C|!Rogue| |Z|Darnassus|
 T Rellian Greenspyre |QID|922| |N|Rellian Greenspyre - (38.2, 21.6)| |C|!Rogue| |Z|Darnassus|
 A Tumors |QID|923| |N|Rellian Greenspyre - (38.2, 21.6)| |C|!Rogue| |Z|Darnassus|
 T Teldrassil |QID|940| |N|Arch Druid Fandral Staghelm atop the Tree - (35.0, 9.0)| |C|!Hunter/!Rogue| |Z|Darnassus|
@@ -162,6 +164,7 @@ C Great Bear Spirit |QID|5929| |OIDX|1| |N|the Great Bear Spirit Seek out the Gr
 N This will make you return faster |O| |C|Druid| |Z|Moonglade|
 T Great Bear Spirit |QID|5929| |N|Dendrite Starblaze up stairs - (56.2, 30.6)| |C|Druid| |Z|Moonglade|
 A Back to Darnassus |QID|5931| |N|Dendrite Starblaze up stairs - (56.2, 30.6)| |C|Druid| |Z|Moonglade|
+H Dolanaar |N|Hearth to Dolanaar| |Z|Moonglade|
 B Buy 4 stacks of [Sharp Arrows]. Equip them as soon as you reach level 10 |N|Jeena Featherbow - (55.9, 59.2)| |C|Hunter| |Z|Teldrassil|
 t Train Cooking |N|(57.1, 61.3)| |Z|Teldrassil|
 A Recipe of the Kaldorei |QID|4161| |N|Zarrin - (57.1, 61.3)| |Z|Teldrassil|
@@ -169,7 +172,7 @@ T Recipe of the Kaldorei |QID|4161| |N|Zarrin - (57.1, 61.3)| |Z|Teldrassil|
 T The Road to Darnassus |QID|487| |N|Find Moon Priestess Amara, she patrols the road west of Dolanaar - (51.9, 56.4)| |Z|Teldrassil|
 A Taming the Beast |QID|6063| |N|Dazalar - (56.7, 59.5)| |O| |C|Hunter| |Z|Teldrassil|
 t Train your level 10 spells |N|Dazalar - (56.7, 59.5)| |O| |C|Hunter| |Z|Teldrassil|
-C Taming the Beast |QID|6063| |OIDX|1| |N|Kill Webwood Lurker Tame a Webwood Lurker| |O| |C|Hunter| |Z|Teldrassil|
+C Taming the Beast |QID|6063| |OIDX|1| |N|Use the [Taming Rod] on a Webwood Lurker Tame a Webwood Lurker| |O| |C|Hunter| |Z|Teldrassil|
 T Taming the Beast |QID|6063| |N|Dazalar - (56.7, 59.5)| |O| |C|Hunter| |Z|Teldrassil|
 A Taming the Beast |QID|6101| |N|Dazalar - (56.7, 59.5)| |O| |C|Hunter| |Z|Teldrassil|
 T Crown of the Earth |QID|7383| |N|Corithras Moonrage - (56.1, 61.7)| |Z|Teldrassil|
@@ -178,20 +181,24 @@ T The Shimmering Frond |QID|931| |N|Denalan - (60.9, 68.5)| |Z|Teldrassil|
 T The Glowing Fruit |QID|930| |N|Denalan - (60.9, 68.5)| |Z|Teldrassil|
 T The Moss-twined Heart |QID|927| |N|Denalan - (60.9, 68.5)| |Z|Teldrassil|
 T Planting the Heart |QID|941| |N|on Denalans Planter - (60.8, 68.6)| |Z|Teldrassil|
-C Taming the Beast |QID|6101| |OIDX|1| |N|You must right click your Pet Frame and Dismiss your pet before you can tame another one Tame a Nightsaber Stalker| |C|Hunter| |Z|Teldrassil|
+N You must right click your Pet Frame and Dismiss your pet before you can tame another one |N|(62.6, 72.2)| |C|Hunter| |Z|Teldrassil|
+C Taming the Beast |QID|6101| |OIDX|1| |N|Use the [Taming Rod] on a Nightsaber Stalker Tame a Nightsaber Stalker| |C|Hunter| |Z|Teldrassil|
 G Grind to level 10 |Z|Teldrassil|
+N Die and respawn at the Spirit Healer |O| |Z|Teldrassil|
 t Train your class spells |N|Laurna Morninglight - (55.6, 56.7)| |C|Priest| |Z|Teldrassil|
 t Train your class spells |N|Kyra Windblade - (56.2, 59.2)| |C|Warrior| |Z|Teldrassil|
 t Train [Slice and Dice] & [Pick Pocket] |N|Jannok Breezesong - (56.4, 60.1)| |C|Rogue| |Z|Teldrassil|
 A Taming the Beast |QID|6063| |N|Dazalar - (56.7, 59.5)| |C|Hunter| |Z|Teldrassil|
 t Train your class spells |N|Dazalar - (56.7, 59.5)| |C|Hunter| |Z|Teldrassil|
-C Taming the Beast |QID|6063| |OIDX|1| |N|Kill Webwood Lurker Tame a Webwood Lurker| |C|Hunter| |Z|Teldrassil|
+C Taming the Beast |QID|6063| |OIDX|1| |N|Use the [Taming Rod] on a Webwood Lurker Tame a Webwood Lurker| |C|Hunter| |Z|Teldrassil|
 T Taming the Beast |QID|6063| |N|Dazalar - (56.7, 59.5)| |C|Hunter| |Z|Teldrassil|
 A Taming the Beast |QID|6101| |N|Dazalar - (56.7, 59.5)| |C|Hunter| |Z|Teldrassil|
-C Taming the Beast |QID|6101| |OIDX|1| |N|You must right click your Pet Frame and Dismiss your pet before you can tame another one Tame a Nightsaber Stalker| |C|Hunter| |Z|Teldrassil|
+N You must right click your Pet Frame and Dismiss your pet before you can tame another one |N|(62.6, 72.2)| |C|Hunter| |Z|Teldrassil|
+C Taming the Beast |QID|6101| |OIDX|1| |N|Use the [Taming Rod] on a Nightsaber Stalker Tame a Nightsaber Stalker| |C|Hunter| |Z|Teldrassil|
 T Taming the Beast |QID|6101| |N|Dazalar - (56.7, 59.5)| |C|Hunter| |Z|Teldrassil|
 A Taming the Beast |QID|6102| |N|Dazalar - (56.7, 59.5)| |C|Hunter| |Z|Teldrassil|
-C Taming the Beast |QID|6102| |OIDX|1| |N|You must right click your Pet Frame and Dismiss your pet before you can tame another one Tame a Strigid Screecher| |C|Hunter| |Z|Teldrassil|
+N You must right click your Pet Frame and Dismiss your pet before you can tame another one |N|(64.7, 66.7)| |C|Hunter| |Z|Teldrassil|
+C Taming the Beast |QID|6102| |OIDX|1| |N|Use the [Taming Rod] on a Strigid Screecher Tame a Strigid Screecher| |C|Hunter| |Z|Teldrassil|
 T Taming the Beast |QID|6102| |N|Dazalar - (56.7, 59.5)| |C|Hunter| |Z|Teldrassil|
 A Training the Beast |QID|6103| |N|Dazalar - (56.7, 59.5)| |C|Hunter| |Z|Teldrassil|
 N Moon Priestess Amara patrols the road west of Dolanaar |N|(55.8, 58.3)| |C|Warrior| |Z|Teldrassil|
@@ -199,7 +206,7 @@ A Elanaria |QID|1684| |N|Moon Priestess Amara - (55.8, 58.3)| |C|Warrior| |Z|Tel
 A The Apple Falls |QID|2241| |N|Jannok Breezesong - (56.4, 60.1)| |C|Rogue| |Z|Teldrassil|
 N Moon Priestess Amara patrols the road west of Dolanaar |N|(55.8, 58.3)| |C|!Druid| |Z|Teldrassil|
 T The Road to Darnassus |QID|487| |N|Moon Priestess Amara - (55.8, 58.3)| |C|!Druid| |Z|Teldrassil|
-R Darnassus |N|(82.0, 36.7)| |O| |C|Rogue| |Z|Darnassus|
+N Once you get past the furbolg area, die on purpose and respawn at the Darnassus graveyard |N|(44.0, 54.6)| |O| |C|Rogue| |Z|Teldrassil|
 T Rellian Greenspyre |QID|922| |N|Rellian Greenspyre - (38.2, 21.6)| |C|Rogue| |Z|Darnassus|
 A Tumors |QID|923| |N|Rellian Greenspyre - (38.2, 21.6)| |C|Rogue| |Z|Darnassus|
 A Grove of the Ancients |QID|952| |N|Arch Druid Fandral Staghelm atop the Tree - (35.0, 9.0)| |C|Rogue| |Z|Darnassus|
@@ -208,6 +215,7 @@ A Destiny Calls |QID|2242| |N|Syurna - (37.0, 21.9)| |C|Rogue| |Z|Darnassus|
 A Tears of the Moon |QID|2518| |N|Priestess A'moora - (36.6, 85.9)| |C|Rogue| |Z|Darnassus|
 R Travel to Teldrassil |N|(45.6, 31.4)| |C|Hunter| |Z|Teldrassil|
 t Attack mobs with it to learn [Claw (Rank 2)] |N|Cast [Tame Beast] on a Strigid Hunter to tame it -- .tame 1997 - (37.6, 28.8)| |C|Hunter| |Z|Teldrassil|
+N Click here for more info about pet training |N|(37.6, 28.8)| |C|Hunter| |Z|Teldrassil|
 C Tumors |QID|923| |OIDX|1| |N|Timberling Tramplers, Timberling Mire Beasts and Elder Timberlings. Loot them for their Tumors Collect Mossy Tumor (x5)| |O| |Z|Teldrassil|
 N Head north along the river and check the easternmost spawn point first. Work on the [Tumors] quest as you go |N|(39.6, 25.6)| |Z|Teldrassil|
 N If she's not east of the river complete the [Tumors] quest before heading west |N|(39.6, 25.6)| |Z|Teldrassil|
@@ -226,13 +234,14 @@ N Keep in mind this is a timed quest, you need to turn it in within 10 minutes o
 T Mist |QID|938| |N|Sentinel Arynia Cloudsbreak - (38.3, 34.4)| |Z|Teldrassil|
 T The Enchanted Glade |QID|937| |N|Sentinel Arynia Cloudsbreak - (38.3, 34.4)| |Z|Teldrassil|
 A Teldrassil |QID|940| |N|Sentinel Arynia Cloudsbreak - (38.3, 34.4)| |Z|Teldrassil|
-R Travel to Darnassus |N|(82.0, 36.7)| |O| |Z|Darnassus|
+R Travel to Darnassus |N|(70.7, 45.4)| |Z|Darnassus|
 A Nessa Shadowsong |QID|6344| |N|Mydrannul - (70.7, 45.4)| |Z|Darnassus|
 T Elanaria |QID|1684| |N|Elanaria - (57.3, 34.6)| |C|Warrior| |Z|Darnassus|
 A Vorlus Vilehoof |QID|1683| |N|Elanaria - (57.3, 34.6)| |C|Warrior| |Z|Darnassus|
 R Travel toward Vorlus Vilehoof |N|(48.7, 62.2)| |O| |C|Warrior| |Z|Teldrassil|
 C Vorlus Vilehoof |QID|1683| |OIDX|1| |N|Vorlus Vilehoof. Loot him for his Horn Collect Horn of Vorlus (x1)| |C|Warrior| |Z|Teldrassil|
-R Darnassus |N|(82.0, 36.7)| |O| |C|Warrior| |Z|Darnassus|
+N Die on purpose after you get past the furbolg area and respawn at Darnassus |N|(43.6, 54.3)| |O| |C|Warrior| |Z|Teldrassil|
+R Travel to Darnassus |N|(57.3, 34.6)| |C|Warrior| |Z|Darnassus|
 T Vorlus Vilehoof |QID|1683| |N|Elanaria - (57.3, 34.6)| |C|Warrior| |Z|Darnassus|
 T Back to Darnassus |QID|5931| |N|Mathrengyl Bearwalker on the middle level - (35.4, 8.4)| |C|Druid| |Z|Darnassus|
 A Body and Heart |QID|6001| |N|Mathrengyl Bearwalker on the middle level - (35.4, 8.4)| |C|Druid| |Z|Darnassus|
@@ -244,7 +253,7 @@ T Tumors |QID|923| |N|Rellian Greenspyre - (38.2, 21.6)| |Z|Darnassus|
 T Destiny Calls |QID|2242| |N|Syurna - (37.0, 21.9)| |C|Rogue| |Z|Darnassus|
 T Tears of the Moon |QID|2518| |N|Priestess A'moora - (36.6, 85.9)| |Z|Darnassus|
 A Sathrah's Sacrifice |QID|2520| |N|Priestess A'moora - (36.6, 85.9)| |Z|Darnassus|
-C Sathrah's Sacrifice |QID|2520| |OIDX|1| |N|Offer the sacrifice at the fountain| |Z|Darnassus|
+C Sathrah's Sacrifice |QID|2520| |OIDX|1| |N|Use [Sathrah's Sacrifice] at the fountain Offer the sacrifice at the fountain| |Z|Darnassus|
 T Sathrah's Sacrifice |QID|2520| |N|Priestess A'moora - (36.6, 85.9)| |Z|Darnassus|
 t Train [Herbalism] |N|Firodren Mooncaller - (48.0, 68.0)| |C|Druid| |Z|Darnassus|
 N [Herbalism] is required to gather 5 [Earthroot] for an important class quest soon. You can unlearn it afterwards |N|(48.0, 68.0)| |C|Druid| |Z|Darnassus|
