@@ -486,6 +486,7 @@ function TurtleGuide:OnEnable()
 end
 
 function TurtleGuide:InitializeRoute()
+    self:SyncWithPfQuestHistory()
     -- Migration: set default route pack for existing characters
     if not self.db.char.routepack and self.db.char.routeselected then
         self.db.char.routepack = "VanillaGuide"
@@ -879,11 +880,7 @@ function TurtleGuide:GetObjectiveStatus(i)
         local action = self.actions[i]
         local qid = self:GetObjectiveTag("QID", i)
         if qid and self:IsQuestCompletedOnServer(qid) then
-            -- TURNIN: auto-complete if quest is done on server
-            -- RUN: auto-complete travel steps if linked quest is done (no longer needed)
-            if action == "TURNIN" or action == "RUN" then
-                turnedin = true
-            end
+            turnedin = true
         end
     end
 
@@ -898,8 +895,21 @@ function TurtleGuide:SetTurnedIn(i, value, noupdate)
 
     if value then value = true else value = nil end -- Cleanup to minimize savedvar data
 
-    self.turnedin[self.quests[i]] = value
-    self:Debug(string.format("Set turned in %q = %s", self.quests[i], tostring(value)))
+    local quest = self.quests[i]
+    self.turnedin[quest] = value
+    self:Debug(string.format("Set turned in %q = %s", quest, tostring(value)))
+
+    -- Mirror manual UNCHECK to clear completion state
+    if not value then
+        local qid = self:GetObjectiveTag("QID", i)
+        local cleanQuest = string.gsub(quest, "@.*@", "")
+        cleanQuest = string.gsub(cleanQuest, TurtleGuide.Locale.PART_GSUB, "")
+        if qid then
+            self.db.char.completedquestsbyid[tonumber(qid)] = nil
+        end
+        self.db.char.completedquests[cleanQuest] = nil
+    end
+
     if not noupdate then
         self:UpdateStatusFrame()
     else
@@ -919,6 +929,16 @@ function TurtleGuide:CompleteQuest(name, noupdate)
         self:Debug(string.format("Action %q Quest %q", action, quest))
         if action == "TURNIN" and not self:GetObjectiveStatus(i) and name == string.gsub(quest, L.PART_GSUB, "") then
             self:Debug(string.format("Saving quest turnin %q", quest))
+
+            -- Save to completion DB permanently
+            local qid = self:GetObjectiveTag("QID", i)
+            local cleanQuest = string.gsub(quest, "@.*@", "")
+            cleanQuest = string.gsub(cleanQuest, TurtleGuide.Locale.PART_GSUB, "")
+            if qid then
+                self.db.char.completedquestsbyid[tonumber(qid)] = true
+            end
+            self.db.char.completedquests[cleanQuest] = true
+
             return self:SetTurnedIn(i, true, noupdate)
         end
     end
@@ -930,6 +950,7 @@ end
 ---------------------------------
 
 function TurtleGuide:QueryServerCompletedQuests(force)
+    self:SyncWithPfQuestHistory()
     -- Count locally tracked completed quests
     local localCountByName = 0
     local localCountByQid = 0
@@ -2159,6 +2180,28 @@ function TurtleGuide.GetUIParentAnchor(frame)
     local dx = hhalf == "RIGHT" and math.floor(frame:GetRight() + 0.5) - w or math.floor(frame:GetLeft() + 0.5)
     local dy = vhalf == "TOP" and math.floor(frame:GetTop() + 0.5) - h or math.floor(frame:GetBottom() + 0.5)
     return vhalf .. hhalf, dx, dy
+end
+
+function TurtleGuide:SyncWithPfQuestHistory()
+    if not pfQuest_history then return end
+    
+    local imported = 0
+
+    -- pfQuest_history is a SavedVariablesPerCharacter flat table:
+    -- pfQuest_history[qid] = { [1] = timestamp, [2] = level }
+    for qid, data in pairs(pfQuest_history) do
+        local qidNum = tonumber(qid)
+        if qidNum and type(data) == "table" then
+            if not self.db.char.completedquestsbyid[qidNum] then
+                self.db.char.completedquestsbyid[qidNum] = true
+                imported = imported + 1
+            end
+        end
+    end
+
+    if imported > 0 then
+        self:Debug(string.format("Imported %d completed quests from pfQuest history.", imported))
+    end
 end
 
 function TurtleGuide:DumpLoc()

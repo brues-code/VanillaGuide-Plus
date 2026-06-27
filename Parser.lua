@@ -350,6 +350,21 @@ function TurtleGuide:SmartSkipToStep()
 		end
 	end
 
+	-- Database Self-Healing:
+	-- If a quest is in the player's quest log, it cannot be fully turned in / completed.
+	-- Clear any stale/corrupted completed flags for this quest and all its candidates in the guide.
+	for i, quest in ipairs(self.quests) do
+		local cleanQuest = string.gsub(quest, "@.*@", "")
+		cleanQuest = string.gsub(cleanQuest, TurtleGuide.Locale.PART_GSUB, "")
+		if completedQuests[cleanQuest] or inProgressQuests[cleanQuest] then
+			local qid = self:GetObjectiveTag("QID", i)
+			if qid then
+				self.db.char.completedquestsbyid[tonumber(qid)] = nil
+			end
+			self.db.char.completedquests[cleanQuest] = nil
+		end
+	end
+
 	-- QUEST CHAIN INFERENCE via pfQuest database:
 	-- For each quest in the guide that's in the player's log, look up its
 	-- prerequisites in pfQuest and mark them as completed.
@@ -362,7 +377,32 @@ function TurtleGuide:SmartSkipToStep()
 				cleanQuest = string.gsub(cleanQuest, TurtleGuide.Locale.PART_GSUB, "")
 				-- If quest is in log, mark its prerequisites as completed
 				if inProgressQuests[cleanQuest] or completedQuests[cleanQuest] then
-					self:MarkPrerequisitesCompleted(tonumber(qid))
+					local qidNum = tonumber(qid)
+					local canInfer = true
+					local prereqs = self:GetQuestPrerequisites(qidNum)
+					if prereqs then
+						for _, preQid in ipairs(prereqs) do
+							if not self.db.char.completedquestsbyid[preQid] then
+								-- Check if the prerequisite has the same name
+								local preQuestData = pfDB["quests"]["data"][preQid]
+								if preQuestData then
+									local preQuestName = pfDB.quests.loc and pfDB.quests.loc[preQid] and pfDB.quests.loc[preQid]["T"] or nil
+									if preQuestName then
+										local cleanPreQuest = string.gsub(preQuestName, "%[[0-9%+%-]+]%s", "")
+										cleanPreQuest = string.gsub(cleanPreQuest, TurtleGuide.Locale.PART_GSUB, "")
+										if cleanPreQuest == cleanQuest then
+											canInfer = false
+											break
+										end
+									end
+								end
+							end
+						end
+					end
+
+					if canInfer then
+						self:MarkPrerequisitesCompleted(qidNum)
+					end
 				end
 			end
 		end
