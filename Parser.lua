@@ -262,6 +262,102 @@ function TurtleGuide:GetQuestPrerequisites(qid)
 	return nil
 end
 
+-- Check if a quest is possible for the player's race and class
+function TurtleGuide:IsQuestPossible(qid, visited)
+	if not qid then return true end
+	qid = tonumber(qid)
+	if not qid then return true end
+
+	visited = visited or {}
+	if visited[qid] then return true end
+	visited[qid] = true
+
+	local questOverrides = {
+		-- Tauren starting area / Rites of the Earthmother chain (Tauren only)
+		[752] = { race = 32 }, -- A Humble Task
+		[753] = { race = 32 }, -- A Humble Task
+		[755] = { race = 32 }, -- Rites of the Earthmother
+		[757] = { race = 32 }, -- Rite of Strength
+		[763] = { race = 32 }, -- The Rite of Vision
+		[767] = { race = 32 }, -- The Rite of Vision
+		[771] = { race = 32 }, -- The Rite of Vision
+		[772] = { race = 32 }, -- The Rite of Vision
+		[773] = { race = 32 }, -- Rite of Wisdom
+	}
+
+	local requiredRace, requiredClass
+	local override = questOverrides[qid]
+	if override then
+		requiredRace = override.race
+		requiredClass = override.class
+	elseif pfDB and pfDB["quests"] and pfDB["quests"]["data"] then
+		local questData = pfDB["quests"]["data"][qid]
+		if questData then
+			requiredRace = questData["race"]
+			requiredClass = questData["class"]
+		end
+	end
+
+	-- Check race restriction
+	if requiredRace and requiredRace ~= 0 then
+		local raceMap = {
+			["Human"] = 1,
+			["Orc"] = 2,
+			["Dwarf"] = 4,
+			["NightElf"] = 8,
+			["Undead"] = 16,
+			["Tauren"] = 32,
+			["Gnome"] = 64,
+			["Troll"] = 128,
+			["HighElf"] = 256,
+			["Goblin"] = 512,
+		}
+		local _, myRaceFile = UnitRace("player")
+		local myRaceMask = raceMap[myRaceFile]
+		if myRaceMask then
+			if math.mod(math.floor(requiredRace / myRaceMask), 2) == 0 then
+				return false
+			end
+		end
+	end
+
+	-- Check class restriction
+	if requiredClass and requiredClass ~= 0 then
+		local classMap = {
+			["WARRIOR"] = 1,
+			["PALADIN"] = 2,
+			["HUNTER"] = 4,
+			["ROGUE"] = 8,
+			["PRIEST"] = 16,
+			["SHAMAN"] = 64,
+			["MAGE"] = 128,
+			["WARLOCK"] = 256,
+			["DRUID"] = 1024,
+		}
+		local _, myClassFile = UnitClass("player")
+		local myClassMask = classMap[myClassFile]
+		if myClassMask then
+			if math.mod(math.floor(requiredClass / myClassMask), 2) == 0 then
+				return false
+			end
+		end
+	end
+
+	-- Recursively check prerequisites (only if not overridden)
+	if not override then
+		local prereqs = self:GetQuestPrerequisites(qid)
+		if prereqs then
+			for _, prereqQid in ipairs(prereqs) do
+				if not self:IsQuestPossible(prereqQid, visited) then
+					return false
+				end
+			end
+		end
+	end
+
+	return true
+end
+
 -- Recursively mark all prerequisites of a quest as completed
 -- Returns count of newly marked quests
 function TurtleGuide:MarkPrerequisitesCompleted(qid, visited)
@@ -469,13 +565,16 @@ function TurtleGuide:SmartSkipToStep()
 		end
 	end
 
-	-- Pre-mark completed quests by QID (from pfQuest inference)
+	-- Pre-mark completed quests by QID (from pfQuest inference) or impossible quests
 	for i, quest in ipairs(self.quests) do
 		local action = self.actions[i]
 		local qid = self:GetObjectiveTag("QID", i)
-		if qid and self.db.char.completedquestsbyid[tonumber(qid)] then
-			if action == "TURNIN" or action == "ACCEPT" or action == "COMPLETE" or action == "RUN" then
-				self.turnedin[quest] = true
+		if qid then
+			local qidNum = tonumber(qid)
+			if (qidNum and self.db.char.completedquestsbyid[qidNum]) or not self:IsQuestPossible(qidNum) then
+				if action == "TURNIN" or action == "ACCEPT" or action == "COMPLETE" or action == "RUN" then
+					self.turnedin[quest] = true
+				end
 			end
 		end
 	end

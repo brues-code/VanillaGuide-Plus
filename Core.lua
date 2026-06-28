@@ -957,11 +957,18 @@ function TurtleGuide:GetObjectiveStatus(i)
     local oidx = oidx_str and tonumber(oidx_str) or nil
     local logi, complete = self:GetQuestDetails(self.quests[i], oidx)
 
+    local qid = self:GetObjectiveTag("QID", i)
+    local qidNum = qid and tonumber(qid) or nil
+
+    -- Auto-complete if the quest is impossible for this player (due to race/class/prereq restrictions)
+    if qidNum and not self:IsQuestPossible(qidNum) then
+        turnedin = true
+    end
+
     -- Server-side completion check for TURNIN and RUN actions with QID
     if not turnedin then
         local action = self.actions[i]
-        local qid = self:GetObjectiveTag("QID", i)
-        if qid and self:IsQuestCompletedOnServer(qid) then
+        if qidNum and self:IsQuestCompletedOnServer(qidNum) then
             turnedin = true
         end
     end
