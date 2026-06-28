@@ -35,7 +35,9 @@ N Deneb Walker |N|(27.0, 58.8)| |O| |Z|Arathi Highlands|
 N Buy the [Expert First Aid - Under Wraps], [Manual: Heavy Silk Bandage] and [Manual: Mageweave Bandage] from him |N|(27.0, 58.8)| |O| |Z|Arathi Highlands|
 N Deneb Walker also has limited supply items such as [Scrolls] and [Potions] as well which you should buy |N|(27.0, 58.8)| |O| |C|!Warrior/!Rogue| |Z|Arathi Highlands|
 N Deneb Walker also has limited supply items such as [Scrolls] and [Potions] as well which you should buy |N|(27.0, 58.8)| |O| |C|Warrior/Rogue| |Z|Arathi Highlands|
-B Stromgarde Keep to further train your [First Aid] |L|16084 1| |N|Stromgarde Keep to further train your [First Aid] - (27.0, 58.8)| |O| |Z|Arathi Highlands|
+B Buy Expert First Aid - Under Wraps (x1) |L|16084 1| |N|Stromgarde Keep to further train your [First Aid] - (27.0, 58.8)| |O| |Z|Arathi Highlands|
+B Buy Manual: Heavy Silk Bandage (x1) |L|16112 1| |N|Stromgarde Keep to further train your [First Aid] - (27.0, 58.8)| |O| |Z|Arathi Highlands|
+B Buy Manual: Mageweave Bandage (x1) |L|16113 1| |N|Stromgarde Keep to further train your [First Aid] - (27.0, 58.8)| |O| |Z|Arathi Highlands|
 N Cast [Eagle Eye] to try and find the Forsaken Courier |N|[Group]| |O| |C|Hunter| |P|GROUP| |Z|Arathi Highlands|
 N If you can't see them in Arathi, look for them in Hillsbrad after finishing Northfold Manor |N|[Group]| |O| |C|Hunter| |P|GROUP| |Z|Arathi Highlands|
 C Hints of a New Plague? |QID|658| |OIDX|1| |N|[Group] The Forsaken Courier patrols the road between Tarren Mill and Go'Shek Farm| |O| |P|GROUP| |Z|Arathi Highlands|

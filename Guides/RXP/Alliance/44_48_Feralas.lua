@@ -32,7 +32,7 @@ A Against Lord Shalzaru |QID|2870| |N|Latronicus Moonspear - (30.4, 46.2)| |Z|Fe
 R the Isle of Dread. Enter Shalzaru's Lair |N|(26.1, 67.4)| |O| |Z|Feralas|
 C Against Lord Shalzaru |QID|2870| |OIDX|1| |N|Lord Shalzaru. Loot him for the Mysterious Relic (28.5, 70.6)| |Z|Feralas|
 N Don't start the quest for this yet |Z|Feralas|
-C Do loops around the cave grinding Nagas until you get the [OOX-22/FE Distress Beacon] |QID|2766| |L|8705 1| |N|Do loops around the cave grinding Nagas until you get the [OOX-22/FE Distress Beacon]| |Z|Feralas|
+C Collect OOX-22/FE Distress Beacon (x1) |QID|2766| |L|8705 1| |N|Do loops around the cave grinding Nagas until you get the [OOX-22/FE Distress Beacon]| |Z|Feralas|
 R Exit the naga cave and head southeast towards the ocean |N|(38.7, 75.1)| |O| |Z|Feralas|
 R Swim to the mainland |N|(41.2, 74.5)| |O| |Z|Feralas|
 T The Missing Courier |QID|4125| |N|on the Wrecked Row Boat in the water - (45.4, 65.0)| |Z|Feralas|
@@ -61,11 +61,11 @@ N the Screecher Spirit |N|(57.8, 50.8)| |O| |Z|Feralas|
 C Screecher Spirits |QID|3520| |OIDX|1| |N|Vale Screechers and Rogue Vale Screechers (57.8, 50.8)| |O| |Z|Feralas|
 C Rhapsody's Kalimdor Kocktail |QID|1452| |OIDX|2| |N|Ironfur Bears, Grizzled Ironfur Bears and Groddoc Apes. Loot them for their Livers (58.8, 59.0)| |O| |Z|Feralas|
 N Click here for video reference |N|(55.4, 45.5)| |Z|Feralas|
-C Collect item |QID|2766| |L|8705 1| |N|Use the [OOX-22/FE Distress Beacon] to start the quest| |Z|Feralas|
+C Collect OOX-22/FE Distress Beacon (x1) |QID|2766| |L|8705 1| |N|Use the [OOX-22/FE Distress Beacon] to start the quest| |Z|Feralas|
 A Find OOX-22/FE! |QID|2766| |N|Use the [OOX-22/FE Distress Beacon] to start the quest| |Z|Feralas|
 T Find OOX-22/FE! |QID|2766| |N|the Homing Robot OOX-22/FE - (53.4, 55.7)| |Z|Feralas|
 A Rescue OOX-22/FE! |QID|2767| |N|the Homing Robot OOX-22/FE - (53.4, 55.7)| |Z|Feralas|
-C a Hippogryph Egg from a nest |QID|2741| |L|8564 1| |N|a Hippogryph Egg from a nest - (55.9, 76.0)| |Z|Feralas|
+C Collect Hippogryph Egg (x1) |QID|2741| |L|8564 1| |N|a Hippogryph Egg from a nest (55.9, 76.0)| |Z|Feralas|
 N Prioritize killing Gordunni Shamans. You may need to kill other Gordunni Ogres to force Gordunni Shamans to spawn |N|(59.5, 63.1)| |Z|Feralas|
 C The High Wilderness |QID|2982| |OIDX|2| |N|Kill Gordunni Shamans, Gordunni Warlocks and Gordunni Brutes (59.5, 63.1)| |Z|Feralas|
 C Rhapsody's Kalimdor Kocktail |QID|1452| |OIDX|2| |N|Ironfur Bears, Grizzled Ironfur Bears and Groddoc Apes. Loot them for their Livers (59.3, 60.5)| |O| |Z|Feralas|
@@ -87,7 +87,7 @@ T Doling Justice |QID|2970| |N|Jer'kai Moonweaver - (65.9, 45.6)| |Z|Feralas|
 A Doling Justice |QID|2972| |N|Jer'kai Moonweaver - (65.9, 45.6)| |Z|Feralas|
 T The Woodpaw Gnolls |QID|4131| |N|the Large Leather Backpacks on the tree - (73.3, 56.3)| |Z|Feralas|
 A The Writhing Deep |QID|4135| |N|the Large Leather Backpacks on the tree - (73.3, 56.3)| |Z|Feralas|
-C Collect item |QID|4281| |L|11463 1| |N|Use the [Undelivered Parcel] to start the quest (73.3, 56.3)| |Z|Feralas|
+C Collect Undelivered Parcel (x1) |QID|4281| |L|11463 1| |N|Use the [Undelivered Parcel] to start the quest (73.3, 56.3)| |Z|Feralas|
 A Thalanaar Delivery |QID|4281| |N|Use the [Undelivered Parcel] to start the quest - (73.3, 56.3)| |Z|Feralas|
 R Enter The Writhering Deep Hive from the lower southwest entrance |N|(72.8, 64.5)| |O| |Z|Feralas|
 N You must leave your shapeshift form to turn in this quest |N|(72.1, 63.7)| |C|Druid| |Z|Feralas|
@@ -165,7 +165,8 @@ T The Lost Dwarves |QID|2398| |N|(Ulda Dungeon Quest)| |D|Ulda| |Z|Westfall|
 A The Hidden Chamber |QID|2240| |N|(Ulda Dungeon Quest)| |D|Ulda| |Z|Westfall|
 N Kill Revelosh. Loot him for [The Shaft of Tsol] |N|(Ulda Dungeon Quest)| |D|Ulda| |Z|Westfall|
 N Note other party members can loot these items, and then combine them to create the [Staff of Prehistoria]. Only one person in the group needs to do this |N|(Ulda Dungeon Quest)| |D|Ulda| |Z|Westfall|
-C Baelog's Chest. Loot it for the [Gni'kiv Medallion] |QID|2240| |L|7740 1| |N|Open Baelog's Chest. Loot it for the [Gni'kiv Medallion] (Ulda Dungeon Quest)| |D|Ulda| |Z|Westfall|
+C Collect Gni'kiv Medallion (x1) |QID|2240| |L|7740 1| |N|Open Baelog's Chest. Loot it for the [Gni'kiv Medallion] (Ulda Dungeon Quest)| |D|Ulda| |Z|Westfall|
+C Collect The Shaft of Tsol (x1) |QID|2240| |L|7741 1| |N|Open Baelog's Chest. Loot it for the [Gni'kiv Medallion] (Ulda Dungeon Quest)| |D|Ulda| |Z|Westfall|
 N Use the [Staff of Prehistoria] on the Keystone to summon Ironaya |N|(Ulda Dungeon Quest)| |D|Ulda| |Z|Westfall|
 N Kill Ironaya. Run into the Hidden Chamber she came from after |N|(Ulda Dungeon Quest)| |D|Ulda| |Z|Westfall|
 C The Hidden Chamber |QID|2240| |OIDX|1| |N|Use the [Gni'kiv Medallion] and [The Shaft of Tsol] to combine them into the [Staff of Prehistoria] (Ulda Dungeon Quest)| |D|Ulda| |Z|Westfall|

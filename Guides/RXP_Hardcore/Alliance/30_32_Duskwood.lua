@@ -13,9 +13,10 @@ N Brandur Ironhammer |N|(51.1, 8.7)| |C|Paladin| |Z|Dun Morogh|
 R Travel to Ironforge |N|(23.1, 6.1)| |C|Paladin| |Z|Ironforge|
 t Train your class spells |N|(23.1, 6.1)| |C|!Druid/!Warrior/!Hunter| |Z|Ironforge|
 B Buy 3 [Rune of Teleportations] from her |N|Ginny Longberry - (31.3, 27.8)| |C|Mage| |Z|Ironforge|
-B Ginny Longberry |L|17031 3| |N|Ginny Longberry - (31.3, 27.8)| |C|Mage| |Z|Ironforge|
+B Buy Rune of Teleportation (x3) |L|17031 3| |N|Ginny Longberry - (31.3, 27.8)| |C|Mage| |Z|Ironforge|
 B Buy [Grimoires] for your [Succubus] or your [Voidwalker] |N|Jubahl Corpseseeker - (52.7, 6.1)| |C|Warlock| |Z|Ironforge|
-B Harick Boulderdrum downstairs |L|5347 1| |N|Buy a [Pestilent Wand] if it's better than your current wand - (23.1, 15.9)| |O| |C|Priest| |Z|Ironforge|
+N Harick Boulderdrum downstairs |N|(22.8, 17.1)| |O| |C|Priest| |Z|Ironforge|
+B Buy Pestilent Wand (x1) |L|5347 1| |N|Buy a [Pestilent Wand] if it's better than your current wand - (23.1, 15.9)| |O| |C|Priest| |Z|Ironforge|
 T Sully Balloo's Letter |QID|637| |N|Sara Balloo - (63.5, 67.3)| |Z|Ironforge|
 A Sara Balloo's Plea |QID|683| |N|Sara Balloo - (63.5, 67.3)| |Z|Ironforge|
 T Sara Balloo's Plea |QID|683| |N|King Magni Bronzebeard - (39.1, 56.2)| |Z|Ironforge|
@@ -23,7 +24,7 @@ A A King's Tribute |QID|686| |N|King Magni Bronzebeard - (39.1, 56.2)| |Z|Ironfo
 T A King's Tribute |QID|686| |N|Grand Mason Marblesten - (39.0, 88.0)| |Z|Ironforge|
 A A King's Tribute |QID|689| |N|Grand Mason Marblesten - (39.0, 88.0)| |Z|Ironforge|
 N Buy a [Heavy Quiver] |N|(61.5, 89.4)| |C|Hunter| |Z|Ironforge|
-B Thalgus Thunderfist downstairs |L|7371 1| |N|Thalgus Thunderfist downstairs - (61.5, 89.4)| |C|Hunter| |Z|Ironforge|
+B Buy Heavy Quiver (x1) |L|7371 1| |N|Thalgus Thunderfist downstairs - (61.5, 89.4)| |C|Hunter| |Z|Ironforge|
 A The Brassbolts Brothers |QID|1179| |N|Pilot Longbeard - (72.7, 94.0)| |Z|Ironforge|
 N Regnus Thundergranite |N|(69.9, 82.9)| |C|Hunter| |Z|Ironforge|
 N Bilban Tosslespanner |N|(69.9, 82.9)| |C|Warrior| |Z|Ironforge|
@@ -48,28 +49,28 @@ N You will get a follow up for when you go inside the dungeon |N|(46.0, 48.6) (G
 T Gnogaine |QID|2926| |N|Ozzie Togglevolt - (45.9, 49.4) (Gnomer Dungeon Quest)| |D|Gnomer| |Z|Dun Morogh|
 A The Only Cure is More Green Glow |QID|2962| |N|Ozzie Togglevolt - (45.9, 49.4) (Gnomer Dungeon Quest)| |D|Gnomer| |Z|Dun Morogh|
 R Gnomeregan |N|(43.4, 53.8) (Gnomer Dungeon Quest)| |D|Gnomer| |Z|Westfall|
-C Troggs and Gnomes. Loot them for a [White Punch Card] |QID|2930| |L|9279 1| |N|Troggs and Gnomes. Loot them for a [White Punch Card] - (43.1, 52.8) (Gnomer Dungeon Quest)| |D|Gnomer| |Z|Westfall|
+C Collect White Punch Card (x1) |QID|2930| |L|9279 1| |N|Troggs and Gnomes. Loot them for a [White Punch Card] (43.1, 52.8) (Gnomer Dungeon Quest)| |D|Gnomer| |Z|Westfall|
 N This quest is completed while OUTSIDE of the dungeon |N|(43.1, 52.8) (Gnomer Dungeon Quest)| |D|Gnomer| |Z|Westfall|
 C Save Techbot's Brain! |QID|2922| |OIDX|1| |N|Troggs and Gnomes. Loot them for a [White Punch Card] (43.1, 52.8) (Gnomer Dungeon Quest)| |D|Gnomer| |Z|Westfall|
-C Troggs and Gnomes. Loot them for a [White Punch Card] |L|9279 1| |N|Troggs and Gnomes. Loot them for a [White Punch Card] - (43.4, 53.4) (Gnomer Dungeon Quest)| |D|Gnomer| |Z|Westfall|
+C Collect White Punch Card (x1) |L|9279 1| |N|Troggs and Gnomes. Loot them for a [White Punch Card] (43.4, 53.4) (Gnomer Dungeon Quest)| |D|Gnomer| |Z|Westfall|
 N This quest is completed while OUTSIDE of the dungeon |N|(43.4, 52.7) (Gnomer Dungeon Quest)| |D|Gnomer| |Z|Westfall|
-C Use the [White Punch Card] at the Matrix Punchograph 3005-A |QID|2930| |L|9280 1| |N|Use the [White Punch Card] at the Matrix Punchograph 3005-A - (43.4, 52.7) (Gnomer Dungeon Quest)| |D|Gnomer| |Z|Westfall|
+C Collect Yellow Punch Card (x1) |QID|2930| |L|9280 1| |N|Use the [White Punch Card] at the Matrix Punchograph 3005-A (43.4, 52.7) (Gnomer Dungeon Quest)| |D|Gnomer| |Z|Westfall|
 C Gyrodrillmatic Excavationators |QID|2928| |OIDX|1| |N|Kill all Gnomeregan Mobs. Loot them for their Robo-mechanical Guts (Gnomer Dungeon Quest)| |D|Gnomer| |Z|Westfall|
-C Use the [Yellow Punch Card] at the Matrix Punchograph 3005-B |QID|2930| |L|9282 1| |N|The console looking machine is located at the gnomish safe zone at the bottom floor, next to the big circular room where the slimes are located (Gnomer Dungeon Quest)| |D|Gnomer| |Z|Westfall|
+C Collect Blue Punch Card (x1) |QID|2930| |L|9282 1| |N|The console looking machine is located at the gnomish safe zone at the bottom floor, next to the big circular room where the slimes are located (Gnomer Dungeon Quest)| |D|Gnomer| |Z|Westfall|
 A A Fine Mess |QID|2904| |N|This will start an escort quest. Kernobee spawns randomly in The Dormitory, right outside of the gnomish safe zone (Gnomer Dungeon Quest)| |D|Gnomer| |Z|Westfall|
 C A Fine Mess |QID|2904| |OIDX|1| |N|(Gnomer Dungeon Quest)| |D|Gnomer| |Z|Westfall|
 N The Irradiated Slime, Irradiated Lurker or Irradiated Horror must be ALIVE when you use it |N|(Gnomer Dungeon Quest)| |D|Gnomer| |Z|Westfall|
 N Note: You must turn this quest in within 2 hours of acquiring the [High Potency Radioactive Fallout] |N|(Gnomer Dungeon Quest)| |D|Gnomer| |Z|Westfall|
 C The Only Cure is More Green Glow |QID|2962| |OIDX|1| |N|Use the [Heavy Leaden Collection Phial] on a Irradiated Slime, Irradiated Lurker or Irradiated Horror (Gnomer Dungeon Quest)| |D|Gnomer| |Z|Westfall|
 C Essential Artificials |QID|2924| |OIDX|1| |N|Open the Artificial Extrapolators. Loot them for Essential Artificials (Gnomer Dungeon Quest)| |D|Gnomer| |Z|Westfall|
-C Use the [Blue Punch Card] at the Matrix Punchograph 3005-C |QID|2930| |L|9281 1| |N|The Punchograph is located on the suspended platform right next to the Electrocutioner 6000 (Gnomer Dungeon Quest)| |D|Gnomer| |Z|Westfall|
+C Collect Red Punch Card (x1) |QID|2930| |L|9281 1| |N|The Punchograph is located on the suspended platform right next to the Electrocutioner 6000 (Gnomer Dungeon Quest)| |D|Gnomer| |Z|Westfall|
 C Data Rescue |QID|2930| |OIDX|1| |N|(Gnomer Dungeon Quest)| |D|Gnomer| |Z|Westfall|
 C The Grand Betrayal |QID|2929| |OIDX|1| |N|Kill Mekgineer Thermaplugg (Gnomer Dungeon Quest)| |D|Gnomer| |Z|Westfall|
 N If you still haven't finished this quest, go back to places where you looted them before, since they respawn after a few minutes |N|(Gnomer Dungeon Quest)| |D|Gnomer| |Z|Westfall|
 C Essential Artificials |QID|2924| |OIDX|1| |N|Open the Artificial Extrapolators. Loot them for Essential Artificials (Gnomer Dungeon Quest)| |D|Gnomer| |Z|Westfall|
 C Gyrodrillmatic Excavationators |QID|2928| |OIDX|1| |N|Kill all Gnomeregan Mobs. Loot them for their Robo-mechanical Guts (Gnomer Dungeon Quest)| |D|Gnomer| |Z|Westfall|
 A Grime-Encrusted Ring |QID|2945| |N|(Gnomer Dungeon Quest)| |D|Gnomer| |Z|Westfall|
-C Use the [Grime-Encrusted Ring] to start the quest |QID|2945| |L|9326 1| |N|(Gnomer Dungeon Quest)| |D|Gnomer| |Z|Westfall|
+C Collect Grime-Encrusted Ring (x1) |QID|2945| |L|9326 1| |N|(Gnomer Dungeon Quest)| |D|Gnomer| |Z|Westfall|
 T Grime-Encrusted Ring |QID|2945| |N|(Gnomer Dungeon Quest)| |D|Gnomer| |Z|Westfall|
 A Return of the Ring |QID|2947| |N|(Gnomer Dungeon Quest)| |D|Gnomer| |Z|Westfall|
 H Ironforge |N|Hearth to Ironforge (Gnomer Dungeon Quest)| |D|Gnomer| |Z|Westfall|
@@ -78,7 +79,8 @@ T The Only Cure is More Green Glow |QID|2962| |N|Ozzie Togglevolt - (45.9, 49.4)
 R Travel to Ironforge |N|(14.9, 87.1) (Gnomer Dungeon Quest)| |D|Gnomer| |Z|Ironforge|
 T Return of the Ring |QID|2947| |N|(Gnomer Dungeon Quest)| |D|Gnomer| |Z|Ironforge|
 A Gnome Improvement |QID|2948| |N|(Gnomer Dungeon Quest)| |D|Gnomer| |Z|Ironforge|
-C Talvash del Kissel |QID|2948| |L|2842 1| |N|If you are able to obtain a [Silver Bar] and a [Moss Agate] finish this quest. If not, abandon it (Gnomer Dungeon Quest)| |D|Gnomer| |Z|Ironforge|
+C Collect Silver Bar (x1) |QID|2948| |L|2842 1| |N|If you are able to obtain a [Silver Bar] and a [Moss Agate] finish this quest. If not, abandon it (Gnomer Dungeon Quest)| |D|Gnomer| |Z|Ironforge|
+C Collect Moss Agate (x1) |L|1206 1| |N|If you are able to obtain a [Silver Bar] and a [Moss Agate] finish this quest. If not, abandon it (Gnomer Dungeon Quest)| |D|Gnomer| |Z|Ironforge|
 T Gnome Improvement |QID|2948| |N|If you are able to obtain a [Silver Bar] and a [Moss Agate] finish this quest. If not, abandon it (Gnomer Dungeon Quest)| |D|Gnomer| |Z|Ironforge|
 R Bailey Stonemantle |N|(35.9, 60.2)| |Z|Ironforge|
 N [Skeleton Finger] (If you have any) |N|(35.9, 60.2)| |Z|Ironforge|
@@ -131,7 +133,7 @@ T An Audience with the King |QID|396| |N|Lady Katrana Prestor - (78.1, 17.8)| |Z
 N Buy 7 [Jungle Remedy] from the Auction House for a quest later in Stranglethorn Vale |N|(53.6, 59.8)| |AH| |Z|Stormwind City|
 N This is optional, you may also farm them from the mobs later |N|(53.6, 59.8)| |AH| |Z|Stormwind City|
 N You may want to buy extra for yourself to use as it cures diseases and removes poisons |N|(53.6, 59.8)| |C|!Paladin| |AH| |Z|Stormwind City|
-B Auctioneer Jaxon |L|2633 7| |N|Auctioneer Jaxon - (53.6, 59.8)| |AH| |Z|Stormwind City|
+B Buy Jungle Remedy (x7) |L|2633 7| |N|Auctioneer Jaxon - (53.6, 59.8)| |AH| |Z|Stormwind City|
 F Fly to Duskwood |N|Dungar Longdrink - (66.3, 62.1)| |Z|Stormwind City|
 A Look To The Stars |QID|175| |N|Viktori Prism'Antras - (79.8, 48.0)| |Z|Duskwood|
 N Blind Mary |N|(81.5, 59.0)| |Z|Duskwood|
@@ -230,7 +232,7 @@ T Look To The Stars |QID|181| |N|Viktori Prism'Antras - (79.8, 48.0)| |Z|Duskwoo
 N Be careful as all the mobs in the area respawn at once after a few minutes |N|(62.3, 81.8)| |Z|Duskwood|
 C Worgen in the Woods |QID|222| |OIDX|1| |N|Nightbane Vile Fangs and Nightbane Tainted Ones (62.3, 81.8)| |Z|Duskwood|
 N Use [An Old History Book] to start the quest |N|(64.1, 68.5)| |Z|Duskwood|
-C Nightbane Worgens. Loot them for [An Old History Book] |QID|337| |L|2794 1| |N|Nightbane Worgens. Loot them for [An Old History Book] - (64.1, 68.5)| |Z|Duskwood|
+C Collect An Old History Book (x1) |QID|337| |L|2794 1| |N|Nightbane Worgens. Loot them for [An Old History Book] (64.1, 68.5)| |Z|Duskwood|
 A An Old History Book |QID|337| |N|Nightbane Worgens. Loot them for [An Old History Book] - (64.1, 68.5)| |Z|Duskwood|
 N Kill Nightbane Worgens until your Hearthstone cooldown is <25 minutes |N|(62.3, 81.8)| |Z|Duskwood|
 N Kill Eliza. Loot her for the Embalmer's Heart |N|[Group] (28.9, 30.8)| |P|GROUP| |Z|Duskwood|

@@ -45,7 +45,7 @@ A Find Agmond |QID|738| |N|Prospector Ironband - (65.9, 65.6)| |Z|Loch Modan|
 R Travel to Badlands |N|(49.2, 7.8)| |O| |Z|Badlands|
 N Kill Coyotes. Loot them for their Fangs |O| |Z|Badlands|
 C Badlands Reagent Run |QID|2500| |OIDX|1| |N|Kill Buzzards. Loot them for their Gizzards and Wings| |O| |Z|Badlands|
-C Buzzards. Loot them for their Gizzards and Wings |QID|703| |L|3404 4| |N|Kill Buzzards. Loot them for their Gizzards and Wings| |O| |Z|Badlands|
+C Collect Buzzard Wing (x4) |QID|703| |L|3404 4| |N|Kill Buzzards. Loot them for their Gizzards and Wings| |O| |Z|Badlands|
 A A Dwarf and His Tools |QID|719| |N|Prospector Ryedol and Sigrun Ironhew - (53.4, 43.4)| |Z|Badlands|
 A Mirages |QID|718| |N|Prospector Ryedol and Sigrun Ironhew - (53.4, 43.4)| |Z|Badlands|
 C A Dwarf and His Tools |QID|719| |OIDX|1| |N|Shadowforge Dwarves. Loot them for Ryedol's Lucky Pick (43.5, 30.5)| |O| |Z|Badlands|

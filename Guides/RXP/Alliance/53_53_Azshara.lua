@@ -13,7 +13,7 @@ N [Filled Tainted Ooze Jar] |N|(62.7, 37.4)| |Z|The Barrens|
 R Fuzruckle or Zikkel |N|(62.7, 37.4)| |Z|The Barrens|
 N [Standard Issue Flare Gun] |N|(62.7, 37.4)| |Z|The Barrens|
 N [Drawing Kit] |N|(62.7, 37.4)| |Z|The Barrens|
-C Take out any [Noggenfogger Elixirs] from your bank if you have any. Ideally 15-20 or so. You will use them for a quest later. It's no big deal if you don't have them |L|8529 20| |N|Take out any [Noggenfogger Elixirs] from your bank if you have any. Ideally 15-20 or so. You will use them for a quest later. It's no big deal if you don't have them - (62.7, 37.4)| |O| |Z|The Barrens|
+C Collect Noggenfogger Elixir (x20) |L|8529 20| |N|Take out any [Noggenfogger Elixirs] from your bank if you have any. Ideally 15-20 or so. You will use them for a quest later. It's no big deal if you don't have them (62.7, 37.4)| |O| |Z|The Barrens|
 R Innkeeper Wiley |N|(62.0, 39.4)| |Z|The Barrens|
 h Ratchet |N|Set hearth in Ratchet (62.0, 39.4)| |Z|The Barrens|
 F Fly to Azshara |N|Bragok - (63.1, 37.2)| |Z|The Barrens|

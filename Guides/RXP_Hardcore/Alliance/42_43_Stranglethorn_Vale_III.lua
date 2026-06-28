@@ -152,7 +152,7 @@ C Up to Snuff |QID|587| |OIDX|1| |N|the Bloodsail. Loot them for their Snuff and
 C Keep An Eye Out |QID|576| |OIDX|1| |N|the Bloodsail. Loot them for their Snuff and Dizzy's Eye (27.0, 83.2)| |Z|Stranglethorn Vale|
 R The Cape of Stranglethorn |N|(24.8, 63.7)| |O| |Z|Stranglethorn Vale|
 C Akiris by the Bundle |QID|617| |OIDX|1| |N|Kill Naga Explorers. Loot them for their Akiris Reeds| |O| |Z|Stranglethorn Vale|
-C The Holy Spring. Loot it for the Holy Spring Water |QID|48| |L|737 1| |N|The Holy Spring. Loot it for the Holy Spring Water - (29.0, 61.9)| |Z|Stranglethorn Vale|
+C Collect Holy Spring Water (x1) |QID|48| |L|737 1| |N|The Holy Spring. Loot it for the Holy Spring Water (29.0, 61.9)| |Z|Stranglethorn Vale|
 C Akiris by the Bundle |QID|617| |OIDX|1| |N|Naga Explorers. Loot them for their Akiris Reeds (26.0, 62.5)| |Z|Stranglethorn Vale|
 N Tethis will patrol around in this location |N|[Group] (31.1, 43.2)| |P|GROUP| |Z|Stranglethorn Vale|
 C Raptor Mastery |QID|197| |OIDX|1| |N|[Group] Tethis. Loot him for his Talon (31.1, 43.2)| |P|GROUP| |Z|Stranglethorn Vale|

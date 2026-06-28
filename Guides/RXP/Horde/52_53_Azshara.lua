@@ -33,7 +33,7 @@ A The Hunter's Charm |QID|8151| |N|Ormak - (66.0, 18.5)| |C|Hunter| |Z|Orgrimmar
 t Train your pet spells |N|Xao'tsu - (66.3, 14.8)| |C|Hunter| |Z|Orgrimmar|
 t Train your class spells |N|Grezz - (79.9, 31.4)| |C|Warrior| |Z|Orgrimmar|
 N Buy [Jagged Arrows] from him |N|(48.1, 80.5)| |C|Hunter| |Z|Orgrimmar|
-B Trak'gen |L|11285 2600| |N|Trak'gen - (48.1, 80.5)| |C|Hunter| |Z|Orgrimmar|
+B Buy Jagged Arrow (x2600) |L|11285 2600| |N|Trak'gen - (48.1, 80.5)| |C|Hunter| |Z|Orgrimmar|
 F Fly to Splintertree Post |N|Doras - (45.1, 63.9)| |O| |Z|Orgrimmar|
 R Travel to Ashenvale |N|(95.3, 48.4)| |Z|Ashenvale|
 R Travel to Azshara |N|(10.4, 74.9)| |Z|Azshara|
@@ -41,16 +41,16 @@ A Spiritual Unrest |QID|5535| |N|Loh'atu - (11.4, 78.1)| |Z|Azshara|
 A A Land Filled with Hatred |QID|5536| |N|Loh'atu - (11.4, 78.1)| |Z|Azshara|
 N Kill Highborne Apparitions and Highborne Lichlings. Keep 1 [Ichor of Undeath] for your class quest |O| |C|Priest| |Z|Azshara|
 C Spiritual Unrest |QID|5535| |OIDX|1| |N|Kill Highborne Apparitions and Highborne Lichlings| |O| |Z|Azshara|
-C Highborne Apparitions and Highborne Lichlings |L|7972 1| |N|Kill Highborne Apparitions and Highborne Lichlings| |O| |C|Priest| |Z|Azshara|
+C Collect Ichor of Undeath (x1) |L|7972 1| |N|Kill Highborne Apparitions and Highborne Lichlings| |O| |C|Priest| |Z|Azshara|
 C Spiritual Unrest |QID|5535| |OIDX|1| |N|Kill Highborne Apparitions and Highborne Lichlings| |O| |Z|Azshara|
 C A Land Filled with Hatred |QID|5536| |OIDX|1| |N|Haldarr Satyrs, Haldarr Tricksters and Haldarr Felsworn (20.6, 63.6)| |Z|Azshara|
 N Kill Highborne Apparitions and Highborne Lichlings. Keep 1 [Ichor of Undeath] for your class quest |N|(17.2, 66.0)| |C|Priest| |Z|Azshara|
 C Spiritual Unrest |QID|5535| |OIDX|1| |N|Highborne Apparitions and Highborne Lichlings (17.2, 66.0)| |Z|Azshara|
-C Highborne Apparitions and Highborne Lichlings |L|7972 1| |N|Highborne Apparitions and Highborne Lichlings - (17.2, 66.0)| |C|Priest| |Z|Azshara|
+C Collect Ichor of Undeath (x1) |L|7972 1| |N|Highborne Apparitions and Highborne Lichlings (17.2, 66.0)| |C|Priest| |Z|Azshara|
 C Spiritual Unrest |QID|5535| |OIDX|1| |N|Highborne Apparitions and Highborne Lichlings (17.2, 66.0)| |Z|Azshara|
 T Spiritual Unrest |QID|5535| |N|Loh'atu - (11.4, 78.2)| |Z|Azshara|
 T A Land Filled with Hatred |QID|5536| |N|Loh'atu - (11.4, 78.2)| |Z|Azshara|
-C Highborne Apparitions and Highborne Lichlings. Loot them for a [Ichor of Undeath] for your class quest |L|7972 1| |N|Highborne Apparitions and Highborne Lichlings. Loot them for a [Ichor of Undeath] for your class quest - (17.2, 66.0)| |O| |C|Priest| |Z|Azshara|
+C Collect Ichor of Undeath (x1) |L|7972 1| |N|Highborne Apparitions and Highborne Lichlings. Loot them for a [Ichor of Undeath] for your class quest (17.2, 66.0)| |O| |C|Priest| |Z|Azshara|
 f Get the Azshara Flight Path |N|Kroum - (22.0, 49.7)| |Z|Azshara|
 T Betrayed |QID|3504| |N|Ag'tor - (22.2, 51.5)| |Z|Azshara|
 A Betrayed |QID|3505| |N|Ag'tor - (22.2, 51.5)| |Z|Azshara|
@@ -99,7 +99,10 @@ T Magic Dust |QID|8251| |N|Archmage Xylem - (29.2, 40.2)| |C|Mage| |Z|Azshara|
 A The Siren's Coral |QID|8252| |N|Archmage Xylem - (29.2, 40.2)| |C|Mage| |Z|Azshara|
 R Travel south to the cliff and jump down into the water |N|(47.8, 60.8)| |O| |Z|Azshara|
 C Kim'jael's "Missing" Equipment |QID|5534| |OIDX|1| |N|Kill all Spitelash Nagas. Loot them for Some Rune| |O| |Z|Azshara|
-C Seeping Corruption |QID|3568| |L|10687 1| |N|Open your [Box of Empty Vials]| |O| |Z|Azshara|
+C Collect Empty Vial Labeled #1 (x1) |QID|3568| |L|10687 1| |N|Open your [Box of Empty Vials]| |O| |Z|Azshara|
+C Collect Empty Vial Labeled #2 (x1) |QID|3568| |L|10688 1| |N|Open your [Box of Empty Vials]| |O| |Z|Azshara|
+C Collect Empty Vial Labeled #3 (x1) |QID|3568| |L|10689 1| |N|Open your [Box of Empty Vials]| |O| |Z|Azshara|
+C Collect Empty Vial Labeled #4 (x1) |QID|3568| |L|10690 1| |N|Open your [Box of Empty Vials]| |O| |Z|Azshara|
 C Seeping Corruption |QID|3568| |OIDX|4| |N|Use your [Empty Vial Labeled #4] in the centre of the puddle (47.5, 46.2)| |Z|Azshara|
 C Seeping Corruption |QID|3568| |OIDX|3| |N|Use your [Empty Vial Labeled #3] in the centre of the puddle (48.7, 48.5)| |Z|Azshara|
 C Seeping Corruption |QID|3568| |OIDX|2| |N|Use your [Empty Vial Labeled #2] in the centre of the puddle (47.8, 51.3)| |Z|Azshara|

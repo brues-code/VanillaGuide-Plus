@@ -76,7 +76,7 @@ T Doling Justice |QID|2970| |N|Jer'kai Moonweaver - (65.9, 45.6)| |Z|Feralas|
 A Doling Justice |QID|2972| |N|Jer'kai Moonweaver - (65.9, 45.6)| |Z|Feralas|
 T The Woodpaw Gnolls |QID|4131| |N|the Large Leather Backpacks on the tree - (73.3, 56.3)| |Z|Feralas|
 A The Writhing Deep |QID|4135| |N|the Large Leather Backpacks on the tree - (73.3, 56.3)| |Z|Feralas|
-C Collect item |QID|4281| |L|11463 1| |N|Use the [Undelivered Parcel] to start the quest (73.3, 56.3)| |Z|Feralas|
+C Collect Undelivered Parcel (x1) |QID|4281| |L|11463 1| |N|Use the [Undelivered Parcel] to start the quest (73.3, 56.3)| |Z|Feralas|
 A Thalanaar Delivery |QID|4281| |N|Use the [Undelivered Parcel] to start the quest - (73.3, 56.3)| |Z|Feralas|
 R Enter The Writhering Deep Hive from the lower southwest entrance |N|(72.8, 64.5)| |O| |Z|Feralas|
 T The Writhing Deep |QID|4135| |N|the Zukk'ash Pod - (72.1, 63.7)| |Z|Feralas|
@@ -96,7 +96,7 @@ T A Hero's Welcome |QID|4266| |N|Latronicus Moonspear and Shandris Feathermoon -
 A Rise of the Silithid |QID|4267| |N|Latronicus Moonspear and Shandris Feathermoon - (30.4, 46.2)| |Z|Feralas|
 N Don't accept the quest for it yet. Continue questing normally. You will do it later |N|(26.6, 53.4)| |Z|Feralas|
 N If you don't find it by the time you are 46, skip it for now. You may also grind the Nagas on the southern island |N|(26.6, 53.4)| |Z|Feralas|
-C Hatecrest Screamers, Hatecrest Wave Riders, Hatecrest Warriors and Hatecrest Sirens. Loot them for the [OOX-22/FE Distress Beacon] |QID|2766| |L|8705 1| |N|Kill Hatecrest Screamers, Hatecrest Wave Riders, Hatecrest Warriors and Hatecrest Sirens. Loot them for the [OOX-22/FE Distress Beacon] (26.6, 53.4)| |Z|Feralas|
+C Collect OOX-22/FE Distress Beacon (x1) |QID|2766| |L|8705 1| |N|Kill Hatecrest Screamers, Hatecrest Wave Riders, Hatecrest Warriors and Hatecrest Sirens. Loot them for the [OOX-22/FE Distress Beacon] (26.6, 53.4)| |Z|Feralas|
 R the Isle of Dread. Enter Shalzaru's Lair |N|(26.1, 67.4)| |O| |Z|Feralas|
 C Against Lord Shalzaru |QID|2870| |OIDX|1| |N|Lord Shalzaru. Loot him for the Mysterious Relic (28.5, 70.6)| |Z|Feralas|
 R Feathermoon Stronghold |N|(30.3, 46.2)| |O| |Z|Feralas|

@@ -44,14 +44,20 @@ C Escort Tooga across Tanaris to Steamwheedle Port |QID|1560| |OIDX|1| |N|Escort
 T Tooga's Quest |QID|1560| |N|Torta - (66.6, 25.6)| |Z|Tanaris|
 R Travel to Un'Goro Crater |N|(71.6, 76.0)| |O| |Z|Un'Goro Crater|
 A The Fare of Lar'korwi |QID|4290| |N|Torwa Pathfinder - (71.6, 76.0)| |Z|Un'Goro Crater|
-C Power Crystals on the ground as you quest through Un'Goro Crater |QID|4284| |L|11186 7| |N|Loot Power Crystals on the ground as you quest through Un'Goro Crater| |O| |Z|Un'Goro Crater|
-C Un'Goro Soil on the ground as you quest through Un'Goro Crater |L|11018 25| |N|Loot Un'Goro Soil on the ground as you quest through Un'Goro Crater| |O| |Z|Un'Goro Crater|
+C Collect Red Power Crystal (x7) |QID|4284| |L|11186 7| |N|Loot Power Crystals on the ground as you quest through Un'Goro Crater| |O| |Z|Un'Goro Crater|
+C Collect Green Power Crystal (x7) |QID|4284| |L|11185 7| |N|Loot Power Crystals on the ground as you quest through Un'Goro Crater| |O| |Z|Un'Goro Crater|
+C Collect Blue Power Crystal (x7) |QID|4284| |L|11184 7| |N|Loot Power Crystals on the ground as you quest through Un'Goro Crater| |O| |Z|Un'Goro Crater|
+C Collect Yellow Power Crystal (x7) |QID|4284| |L|11188 7| |N|Loot Power Crystals on the ground as you quest through Un'Goro Crater| |O| |Z|Un'Goro Crater|
+C Collect Un'Goro Soil (x25) |L|11018 25| |N|Loot Un'Goro Soil on the ground as you quest through Un'Goro Crater| |O| |Z|Un'Goro Crater|
 A It's a Secret to Everybody |QID|3844| |N|on the Wrecked Raft - (63.0, 68.6)| |Z|Un'Goro Crater|
 T It's a Secret to Everybody |QID|3844| |N|the Small Pack underwater - (63.1, 69.1)| |Z|Un'Goro Crater|
 A It's a Secret to Everybody |QID|3845| |N|the Small Pack underwater - (63.1, 69.1)| |Z|Un'Goro Crater|
 C The Fare of Lar'korwi |QID|4290| |OIDX|1| |N|the Piece of Threshadon Carcass (68.7, 56.7)| |Z|Un'Goro Crater|
 N Loot Power Crystals on the ground en-route |N|(45.4, 12.1)| |Z|Un'Goro Crater|
-C Marshal's Refuge |QID|4284| |L|11186 7| |N|Marshal's Refuge - (45.4, 12.1)| |Z|Un'Goro Crater|
+C Collect Red Power Crystal (x7) |QID|4284| |L|11186 7| |N|Marshal's Refuge (45.4, 12.1)| |Z|Un'Goro Crater|
+C Collect Green Power Crystal (x7) |QID|4284| |L|11185 7| |N|Marshal's Refuge (45.4, 12.1)| |Z|Un'Goro Crater|
+C Collect Blue Power Crystal (x7) |QID|4284| |L|11184 7| |N|Marshal's Refuge (45.4, 12.1)| |Z|Un'Goro Crater|
+C Collect Yellow Power Crystal (x7) |QID|4284| |L|11188 7| |N|Marshal's Refuge (45.4, 12.1)| |Z|Un'Goro Crater|
 A Muigin and Larion |QID|4141| |N|Muigin - (42.9, 9.6)| |Z|Un'Goro Crater|
 C It's a Secret to Everybody |QID|3845| |OIDX|1| |N|Open the [Small Pack] (44.7, 8.1)| |Z|Un'Goro Crater|
 T It's a Secret to Everybody |QID|3845| |N|Linken - (44.7, 8.1)| |Z|Un'Goro Crater|
@@ -69,7 +75,7 @@ T The Scent of Lar'korwi |QID|4291| |N|Torwa Pathfinder - (71.6, 76.0)| |Z|Un'Go
 C Muigin and Larion |QID|4141| |OIDX|1| |N|Bloodpetal Lashers, Bloodpetal Threshers and Bloodpetal Flayers. Loot them for their Bloodpetals (67.6, 32.6)| |Z|Un'Goro Crater|
 N Any mob in Un'Goro Crater may drop it |Z|Un'Goro Crater|
 N Use [A Mangled Journal] to start the quest |Z|Un'Goro Crater|
-C Ravasaurs. Loot them for [A Mangled Journal] |QID|3884| |L|11116 1| |N|Kill Ravasaurs. Loot them for [A Mangled Journal]| |Z|Un'Goro Crater|
+C Collect A Mangled Journal (x1) |QID|3884| |L|11116 1| |N|Kill Ravasaurs. Loot them for [A Mangled Journal]| |Z|Un'Goro Crater|
 A Williden's Journal |QID|3884| |N|Kill Ravasaurs. Loot them for [A Mangled Journal]| |Z|Un'Goro Crater|
 R Grind Raptors until you've found a Maraudon group |N|(63.0, 66.1) (Mara Dungeon Quest)| |D|Mara| |Z|Un'Goro Crater|
 N Once your group is starting to fill up, Hearth to Gadgetzan to turn in a few quests, then fly to Desolace. You will have to accept a few quests in Desolace before running Maraudon |N|(63.0, 66.1) (Mara Dungeon Quest)| |D|Mara| |Z|Un'Goro Crater|
@@ -108,28 +114,28 @@ A The Pariah's Instructions |QID|7067| |N|the Centaur Pariah - (50.5, 86.7) (Mar
 R Travel to Tirisfal Glades |N|(38.4, 58.0) (Mara Dungeon Quest)| |D|Mara| |Z|Tirisfal Glades|
 N This can be completed OUTSIDE and INSIDE of the Instance. Don't attempt to complete this now |N|(Mara Dungeon Quest)| |D|Mara| |Z|Tirisfal Glades|
 C Twisted Evils |QID|7028| |OIDX|1| |N|Kill all Monsters in Maraudon. Loot them for their Theradric Crystal Carvings (Mara Dungeon Quest)| |D|Mara| |Z|Tirisfal Glades|
-C The Nameless Prophet. Loot it for the [Amulet of Spirits] |QID|7067| |L|17757 1| |N|This is completed OUTSIDE of the Instance. The Nameless Prophets may be patrolling (Mara Dungeon Quest)| |D|Mara| |Z|Tirisfal Glades|
+C Collect Amulet of Spirits (x1) |QID|7067| |L|17757 1| |N|This is completed OUTSIDE of the Instance. The Nameless Prophets may be patrolling (Mara Dungeon Quest)| |D|Mara| |Z|Tirisfal Glades|
 N Kill Gelk. Loot him for the [Gem of the Second Khan] |N|(38.5, 57.3) (Mara Dungeon Quest)| |D|Mara| |Z|Tirisfal Glades|
 N This is completed OUTSIDE of the Instance |N|(38.5, 57.3) (Mara Dungeon Quest)| |D|Mara| |Z|Tirisfal Glades|
-C Use the [Amulet of Spirits] on the Spirit of Gelk |QID|7067| |L|17762 1| |N|Use the [Amulet of Spirits] on the Spirit of Gelk - (38.5, 57.3) (Mara Dungeon Quest)| |D|Mara| |Z|Tirisfal Glades|
+C Collect Gem of the Second Khan (x1) |QID|7067| |L|17762 1| |N|Use the [Amulet of Spirits] on the Spirit of Gelk (38.5, 57.3) (Mara Dungeon Quest)| |D|Mara| |Z|Tirisfal Glades|
 N Kill Kolk. Loot him for the [Gem of the First Khan] |N|(38.5, 57.7) (Mara Dungeon Quest)| |D|Mara| |Z|Tirisfal Glades|
 N This is completed OUTSIDE of the Instance |N|(38.5, 57.7) (Mara Dungeon Quest)| |D|Mara| |Z|Tirisfal Glades|
-C Use the [Amulet of Spirits] on the Spirit of Kolk |QID|7067| |L|17761 1| |N|Use the [Amulet of Spirits] on the Spirit of Kolk - (38.5, 57.7) (Mara Dungeon Quest)| |D|Mara| |Z|Tirisfal Glades|
+C Collect Gem of the First Khan (x1) |QID|7067| |L|17761 1| |N|Use the [Amulet of Spirits] on the Spirit of Kolk (38.5, 57.7) (Mara Dungeon Quest)| |D|Mara| |Z|Tirisfal Glades|
 A Legends of Maraudon |QID|7044| |N|Cavindra - (38.8, 58.1) (Mara Dungeon Quest)| |D|Mara| |Z|Tirisfal Glades|
 C Vyletongue Corruption |QID|7041| |OIDX|2| |N|Use the [Coated Cerulean Vial] in the Orange pool (38.9, 58.4) (Mara Dungeon Quest)| |D|Mara| |Z|Tirisfal Glades|
 N Kill Magra. Loot him for the [Gem of the Third Khan] |N|(39.1, 57.7) (Mara Dungeon Quest)| |D|Mara| |Z|Tirisfal Glades|
 N This is completed OUTSIDE of the Instance |N|(39.1, 57.7) (Mara Dungeon Quest)| |D|Mara| |Z|Tirisfal Glades|
-C Use the [Amulet of Spirits] on the Spirit of Magra |QID|7067| |L|17763 1| |N|Use the [Amulet of Spirits] on the Spirit of Magra - (39.1, 57.7) (Mara Dungeon Quest)| |D|Mara| |Z|Tirisfal Glades|
+C Collect Gem of the Third Khan (x1) |QID|7067| |L|17763 1| |N|Use the [Amulet of Spirits] on the Spirit of Magra (39.1, 57.7) (Mara Dungeon Quest)| |D|Mara| |Z|Tirisfal Glades|
 C Twisted Evils |QID|7028| |OIDX|1| |N|Kill any Monster in Maraudon. Loot them for their Theradric Crystal Carvings (Mara Dungeon Quest)| |D|Mara| |Z|Tirisfal Glades|
 N Kill the Noxxious Scions that are summoned |N|(Mara Dungeon Quest)| |D|Mara| |Z|Tirisfal Glades|
 C Vyletongue Corruption |QID|7041| |OIDX|1| |N|Use the [Filled Cerulean Vial] on small flowers/plants inside Orange (Mara Dungeon Quest)| |D|Mara| |Z|Tirisfal Glades|
 N Veng patrols around INSIDE the Maraudon Orange Instance |N|(Mara Dungeon Quest)| |D|Mara| |Z|Tirisfal Glades|
-C Use the [Amulet of Spirits] on the Spirit of Veng |QID|7067| |L|17765 1| |N|Kill Veng. Loot him for the [Gem of the Fifth Khan] (Mara Dungeon Quest)| |D|Mara| |Z|Tirisfal Glades|
+C Collect Gem of the Fifth Khan (x1) |QID|7067| |L|17765 1| |N|Kill Veng. Loot him for the [Gem of the Fifth Khan] (Mara Dungeon Quest)| |D|Mara| |Z|Tirisfal Glades|
 C Vyletongue Corruption |QID|7041| |OIDX|1| |N|Kill the Noxxious Scions that are summoned (Mara Dungeon Quest)| |D|Mara| |Z|Tirisfal Glades|
 N Noxxion is in the Orange section and Lord Vyletongue in the Purple |N|(Mara Dungeon Quest)| |D|Mara| |Z|Tirisfal Glades|
 C Legends of Maraudon |QID|7044| |OIDX|2| |N|Kill Lord Vyletongue. Loot him for the Celebrian Diamond (Mara Dungeon Quest)| |D|Mara| |Z|Tirisfal Glades|
 N Maraudos patrols around INSIDE the Maraudon Purple Instance |N|(Mara Dungeon Quest)| |D|Mara| |Z|Tirisfal Glades|
-C Use the [Amulet of Spirits] on the Spirit of Maraudos |QID|7067| |L|17764 1| |N|Kill Maraudos. Loot him for the [Gem of the Fourth Khan] (Mara Dungeon Quest)| |D|Mara| |Z|Tirisfal Glades|
+C Collect Gem of the Fourth Khan (x1) |QID|7067| |L|17764 1| |N|Kill Maraudos. Loot him for the [Gem of the Fourth Khan] (Mara Dungeon Quest)| |D|Mara| |Z|Tirisfal Glades|
 C The Pariah's Instructions |QID|7067| |OIDX|1| |N|(Mara Dungeon Quest)| |D|Mara| |Z|Tirisfal Glades|
 T Legends of Maraudon |QID|7044| |N|(Mara Dungeon Quest)| |D|Mara| |Z|Tirisfal Glades|
 A The Scepter of Celebras |QID|7046| |N|(Mara Dungeon Quest)| |D|Mara| |Z|Tirisfal Glades|
@@ -152,7 +158,7 @@ N The Centaur Pariah patrols slightly around southern Desolace |N|(50.5, 86.7) (
 T The Pariah's Instructions |QID|7067| |N|the Centaur Pariah - (50.5, 86.7) (Mara Dungeon Quest)| |D|Mara| |Z|Desolace|
 F Fly to Un'Goro Crater |N|Baritanas Skyriver - (64.7, 10.5) (Mara Dungeon Quest)| |D|Mara| |Z|Desolace|
 F Fly to Un'Goro Crater |N|Bera Stonehammer - (51.0, 29.3)| |Z|Tanaris|
-C Williden Marshal |QID|3884| |L|11116 1| |N|Williden Marshal - (43.9, 7.1)| |Z|Un'Goro Crater|
+C Collect A Mangled Journal (x1) |QID|3884| |L|11116 1| |N|Williden Marshal (43.9, 7.1)| |Z|Un'Goro Crater|
 A Williden's Journal |QID|3884| |N|Williden Marshal - (43.9, 7.1)| |Z|Un'Goro Crater|
 T Williden's Journal |QID|3884| |N|Williden Marshal - (43.9, 7.1)| |Z|Un'Goro Crater|
 T Muigin and Larion |QID|4141| |N|Muigin - (42.9, 9.6)| |Z|Un'Goro Crater|
@@ -173,7 +179,7 @@ A An OOX of Your Own |QID|3721| |N|Oglethorpe Obnoticus - (28.4, 76.4)| |Z|Stran
 T An OOX of Your Own |QID|3721| |N|Oglethorpe Obnoticus - (28.4, 76.4)| |Z|Stranglethorn Vale|
 C The Captain's Chest |QID|8551| |OIDX|1| |N|[Group] Gorlash. Loot him for Smotts' Chest (37.0, 69.7)| |P|GROUP| |Z|Stranglethorn Vale|
 N Use the [Carefully Folded Note] to start the quest |N|(38.7, 61.8)| |Z|Stranglethorn Vale|
-C the Half-Buried Bottles along the coast. Loot them for a [Carefully Folded Note] |QID|594| |L|4098 1| |N|the Half-Buried Bottles along the coast. Loot them for a [Carefully Folded Note] - (38.7, 61.8)| |Z|Stranglethorn Vale|
+C Collect Carefully Folded Note (x1) |QID|594| |L|4098 1| |N|the Half-Buried Bottles along the coast. Loot them for a [Carefully Folded Note] (38.7, 61.8)| |Z|Stranglethorn Vale|
 A Message in a Bottle |QID|594| |N|the Half-Buried Bottles along the coast. Loot them for a [Carefully Folded Note] - (38.7, 61.8)| |Z|Stranglethorn Vale|
 N Beware of Jaguero Stalkers in [Stealth] throughout the Island |N|(38.5, 80.6)| |Z|Stranglethorn Vale|
 T Message in a Bottle |QID|594| |N|Princess Poobah - (38.5, 80.6)| |Z|Stranglethorn Vale|
@@ -184,7 +190,7 @@ N Turn in your 10 [Gorilla Fangs] to summon Mokk the Savage |N|[Group] (35.3, 60
 N Kill Mokk the Savage. Loot him for the Heart of Mokk |N|[Group] (35.3, 60.4)| |P|GROUP| |Z|Stranglethorn Vale|
 N You'll have to deal with 3 waves of attacking Gorillas |N|[Group] (35.3, 60.4)| |P|GROUP| |Z|Stranglethorn Vale|
 C Stranglethorn Fever |QID|348| |OIDX|1| |N|[Group] Witch Doctor Unbagwa (35.3, 60.4)| |P|GROUP| |Z|Stranglethorn Vale|
-C Witch Doctor Unbagwa |L|2799 10| |N|[Group] Witch Doctor Unbagwa - (35.3, 60.4)| |P|GROUP| |Z|Stranglethorn Vale|
+C Collect Gorilla Fang (x10) |L|2799 10| |N|[Group] Witch Doctor Unbagwa (35.3, 60.4)| |P|GROUP| |Z|Stranglethorn Vale|
 N Click here for video reference |N|[Group] (35.3, 60.4)| |P|GROUP| |Z|Stranglethorn Vale|
 R Booty Bay |N|(29.0, 73.0)| |O| |Z|Stranglethorn Vale|
 T The Captain's Chest |QID|8551| |N|Captain Hecklebury Smotts - (26.7, 73.6)| |Z|Stranglethorn Vale|

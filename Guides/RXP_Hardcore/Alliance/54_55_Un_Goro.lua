@@ -25,7 +25,7 @@ R Travel to Un'Goro Crater |N|(43.9, 7.1)| |Z|Un'Goro Crater|
 A Alien Ecology |QID|3883| |N|Williden Marshal and Hol'anyee Marshal - (43.9, 7.1)| |Z|Un'Goro Crater|
 R Travel to Un'Goro Crater |N|(43.9, 7.2)| |Z|Un'Goro Crater|
 A Roll the Bones |QID|3882| |N|Spark Nilminer - (43.5, 7.4)| |Z|Un'Goro Crater|
-C Collect item |L|11953 10| |N|Open the [Bag of Empty Ooze Containers]| |O| |Z|Un'Goro Crater|
+C Collect Empty Pure Sample Jar (x10) |L|11953 10| |N|Open the [Bag of Empty Ooze Containers]| |O| |Z|Un'Goro Crater|
 A The Northern Pylon |QID|4285| |N|J.D. Collie - (41.9, 2.7)| |Z|Un'Goro Crater|
 A The Eastern Pylon |QID|4287| |N|J.D. Collie - (41.9, 2.7)| |Z|Un'Goro Crater|
 A The Western Pylon |QID|4288| |N|J.D. Collie - (41.9, 2.7)| |Z|Un'Goro Crater|
@@ -48,7 +48,8 @@ A The Bait for Lar'korwi |QID|4292| |N|Torwa Pathfinder - (71.6, 76.0)| |C|Druid
 T Torwa Pathfinder |QID|9063| |N|Torwa Pathfinder - (71.6, 76.0)| |C|Druid| |Z|Un'Goro Crater|
 A Bloodpetal Poison |QID|9052| |N|Torwa Pathfinder - (71.6, 76.0)| |C|Druid| |Z|Un'Goro Crater|
 A The Apes of Un'Goro |QID|4289| |N|[Group] Torwa Pathfinder - (71.6, 76.0)| |P|GROUP| |Z|Un'Goro Crater|
-C The Bait for Lar'korwi |QID|4292| |L|11569 1| |N|Open [Torwa's Pouch] for the [Preserved Threshadon Meat] and [Preserved Pheromone Mixture]| |Z|Un'Goro Crater|
+C Collect Preserved Threshadon Meat (x1) |QID|4292| |L|11569 1| |N|Open [Torwa's Pouch] for the [Preserved Threshadon Meat] and [Preserved Pheromone Mixture]| |Z|Un'Goro Crater|
+C Collect Preserved Pheromone Mixture (x1) |QID|4292| |L|11570 1| |N|Open [Torwa's Pouch] for the [Preserved Threshadon Meat] and [Preserved Pheromone Mixture]| |Z|Un'Goro Crater|
 C Bloodpetal Poison |QID|9052| |OIDX|2| |N|Open the Bloodpetal Sprouts on the ground. Loot them for Bloodcaps| |O| |C|Druid| |Z|Un'Goro Crater|
 N Use the [Empty Pure Sample Jars] on their corpses |O| |Z|Un'Goro Crater|
 C A Little Slime Goes a Long Way |QID|4513| |OIDX|1| |N|Kill Muculent Oozes and Glutinous Oozes| |O| |Z|Un'Goro Crater|
@@ -136,8 +137,8 @@ T Chasing A-Me 01 |QID|4244| |N|[Group] A-Me 01 - (67.7, 16.8)| |P|GROUP| |Z|Un'
 A Chasing A-Me 01 |QID|4245| |N|[Group] A-Me 01 - (67.7, 16.8)| |P|GROUP| |Z|Un'Goro Crater|
 C Chasing A-Me 01 |QID|4245| |OIDX|1| |N|[Group] Escort A-Me 01 to Karna Remtravel at Marshal's Refuge (46.4, 13.4)| |P|GROUP| |Z|Un'Goro Crater|
 T Chasing A-Me 01 |QID|4245| |N|[Group]| |P|GROUP| |Z|Un'Goro Crater|
-C Un'Goro Soil on the ground |QID|4496| |L|11018 5| |N|Un'Goro Soil on the ground - (45.5, 24.5)| |Z|Un'Goro Crater|
-C Un'Goro Soil on the ground |QID|4496| |L|11018 25| |N|Un'Goro Soil on the ground - (45.5, 24.5)| |Z|Un'Goro Crater|
+C Collect Un'Goro Soil (x5) |QID|4496| |L|11018 5| |N|Un'Goro Soil on the ground (45.5, 24.5)| |Z|Un'Goro Crater|
+C Collect Un'Goro Soil (x25) |QID|4496| |L|11018 25| |N|Un'Goro Soil on the ground (45.5, 24.5)| |Z|Un'Goro Crater|
 T The Mighty U'cha |QID|4301| |N|[Group] Torwa Pathfinder - (71.6, 76.0)| |P|GROUP| |Z|Un'Goro Crater|
 F Fly to Gadgetzan |N|Gryfe - (45.2, 5.8)| |P|SOLO| |Z|Un'Goro Crater|
 R Travel to Tanaris |N|[Group] (50.9, 27.0)| |O| |P|GROUP| |Z|Tanaris|

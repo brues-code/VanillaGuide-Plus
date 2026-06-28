@@ -45,9 +45,9 @@ N Click Mrs. Dalson's Diary on the ground |N|(47.8, 50.7)| |Z|Western Plagueland
 A Mrs. Dalson Diary |QID|5058| |N|Enter the Dalson's Tears Barn - (47.8, 50.7)| |Z|Western Plaguelands|
 T Mrs. Dalson Diary |QID|5058| |N|Enter the Dalson's Tears Barn - (47.8, 50.7)| |Z|Western Plaguelands|
 N The Wandering Skeleton patrols around the Dalson's Tear Barn and House |N|(47.9, 49.9)| |Z|Western Plaguelands|
-C the Wandering Skeleton. Loot it for the Dalson Outhouse Key |QID|5060| |L|12738 1| |N|the Wandering Skeleton. Loot it for the Dalson Outhouse Key - (47.9, 49.9)| |Z|Western Plaguelands|
+C Collect Dalson Outhouse Key (x1) |QID|5060| |L|12738 1| |N|the Wandering Skeleton. Loot it for the Dalson Outhouse Key (47.9, 49.9)| |Z|Western Plaguelands|
 T Locked Away |QID|5059| |N|the Outhouse to summon Farmer Dalson - (48.1, 49.7)| |O| |Z|Western Plaguelands|
-C Farmer Dalson. Loot him for the Dalson Cabinet Key |QID|5060| |L|12739 1| |N|Farmer Dalson. Loot him for the Dalson Cabinet Key - (48.1, 49.8)| |Z|Western Plaguelands|
+C Collect Dalson Cabinet Key (x1) |QID|5060| |L|12739 1| |N|Farmer Dalson. Loot him for the Dalson Cabinet Key (48.1, 49.8)| |Z|Western Plaguelands|
 T Locked Away |QID|5060| |N|the Locked Cabinet up stairs in the house - (47.4, 49.6)| |Z|Western Plaguelands|
 N Cauldron Lord Malvinious may spawn as you approach the Cauldron |N|(46.2, 52.4)| |Z|Western Plaguelands|
 C Target: Dalson's Tears |QID|5219| |OIDX|1| |N|Cauldron Lord Malvinious. Loot him for the Dalson's Tears Cauldron Key (46.2, 52.4)| |Z|Western Plaguelands|
@@ -57,8 +57,8 @@ R Go inside the house |N|(38.0, 54.6)| |O| |Z|Western Plaguelands|
 T Better Late Than Never |QID|5050| |N|Janice through the ground from the 1st floor - (38.4, 54.0)| |Z|Western Plaguelands|
 A Two Halves Become One |QID|5051| |N|Janice through the ground from the 1st floor - (38.4, 54.0)| |Z|Western Plaguelands|
 N He patrols around the Field |N|(38.2, 57.1)| |Z|Western Plaguelands|
-C the Jabbering Ghoul. Loot it for the [Good Luck Other-Half-Charm] |QID|5051| |L|12722 1| |N|the Jabbering Ghoul. Loot it for the [Good Luck Other-Half-Charm] - (38.2, 57.1)| |Z|Western Plaguelands|
-C Use the [Good Luck Other-Half-Charm] to create the Good Luck Charm |QID|5051| |L|12723 1| |N|Use the [Good Luck Other-Half-Charm] to create the Good Luck Charm| |O| |Z|Western Plaguelands|
+C Collect Good Luck Other-Half-Charm (x1) |QID|5051| |L|12722 1| |N|the Jabbering Ghoul. Loot it for the [Good Luck Other-Half-Charm] (38.2, 57.1)| |Z|Western Plaguelands|
+C Collect Good Luck Charm (x1) |QID|5051| |L|12723 1| |N|Use the [Good Luck Other-Half-Charm] to create the Good Luck Charm| |O| |Z|Western Plaguelands|
 R Go inside the house |N|(38.0, 54.6)| |O| |Z|Western Plaguelands|
 T Two Halves Become One |QID|5051| |N|Janice through the ground from the 1st floor - (38.4, 54.0)| |Z|Western Plaguelands|
 N Diseased Wolves share spawns with Carrion Lurkers. You may need to kill them to force Diseased Wolves to spawn |N|(46.6, 40.4)| |Z|Western Plaguelands|
@@ -97,7 +97,9 @@ A Pamela's Doll |QID|5149| |N|Pamela Redpath - (36.5, 90.7)| |Z|Eastern Plaguela
 T Little Pamela |QID|5142| |N|Pamela Redpath - (36.5, 90.7)| |Z|Eastern Plaguelands|
 A Pamela's Doll |QID|5149| |N|Pamela Redpath - (36.5, 90.7)| |Z|Eastern Plaguelands|
 N They all spawn randomly in any of the 3 buildings in Darrowshire |N|(39.6, 90.1)| |Z|Eastern Plaguelands|
-C [Pamela's Doll's Head], [Pamela's Doll's Left Side] and [Pamela's Doll's Right Side] throughout the buildings |QID|5149| |L|12886 1| |N|[Pamela's Doll's Head], [Pamela's Doll's Left Side] and [Pamela's Doll's Right Side] throughout the buildings - (39.6, 90.1)| |Z|Eastern Plaguelands|
+C Collect Pamela's Doll's Head (x1) |QID|5149| |L|12886 1| |N|[Pamela's Doll's Head], [Pamela's Doll's Left Side] and [Pamela's Doll's Right Side] throughout the buildings (39.6, 90.1)| |Z|Eastern Plaguelands|
+C Collect Pamela's Doll's Left Side (x1) |QID|5149| |L|12887 1| |N|[Pamela's Doll's Head], [Pamela's Doll's Left Side] and [Pamela's Doll's Right Side] throughout the buildings (39.6, 90.1)| |Z|Eastern Plaguelands|
+C Collect Pamela's Doll's Right Side (x1) |QID|5149| |L|12888 1| |N|[Pamela's Doll's Head], [Pamela's Doll's Left Side] and [Pamela's Doll's Right Side] throughout the buildings (39.6, 90.1)| |Z|Eastern Plaguelands|
 C Pamela's Doll |QID|5149| |OIDX|1| |N|Use [Pamela's Doll's Head], [Pamela's Doll's Left Side] or [Pamela's Doll's Right Side] to combine them into Pamela's Doll| |Z|Eastern Plaguelands|
 T Pamela's Doll |QID|5149| |N|Pamela Redpath - (36.5, 90.7)| |Z|Eastern Plaguelands|
 A Auntie Marlene |QID|5152| |N|Pamela Redpath - (36.5, 90.7)| |Z|Eastern Plaguelands|

@@ -84,7 +84,7 @@ T Night Web's Hollow |QID|380| |N|Arren - (32.1, 66.0)| |Z|Tirisfal Glades|
 A The Scarlet Crusade |QID|381| |N|Arren - (32.1, 66.0)| |Z|Tirisfal Glades|
 B Vendor Trash |N|Archibald - (32.4, 65.7)| |C|Rogue/Warrior| |Z|Tirisfal Glades|
 N Buy [Refreshing Spring Water] from him |N|(32.3, 65.4)| |C|Warlock/Mage/Priest| |Z|Tirisfal Glades|
-B Joshua |L|159 15| |N|Joshua - (32.3, 65.4)| |C|Warlock/Mage/Priest| |Z|Tirisfal Glades|
+B Buy Refreshing Spring Water (x15) |L|159 15| |N|Joshua - (32.3, 65.4)| |C|Warlock/Mage/Priest| |Z|Tirisfal Glades|
 B Vendor Trash |N|Joshua - (32.3, 65.4)| |C|Warlock/Mage/Priest| |Z|Tirisfal Glades|
 N Don't kill Meven Korgal yet |N|(36.9, 68.2)| |Z|Tirisfal Glades|
 N Try to avoid Scarlet Initiates if you can as they have [Frost Armor] (slows your attack speed) |N|(36.9, 68.2)| |C|Warrior/Rogue| |Z|Tirisfal Glades|

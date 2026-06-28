@@ -27,6 +27,7 @@ B [Longjaw Mud Snapper] is very cheap |N|Innkeeper Heather - (52.9, 53.7)| |Z|We
 N You can usually find them near Farm Fences or Buildings |O| |Z|Westfall|
 C Poor Old Blanchy |QID|151| |OIDX|1| |N|Open the Sacks of Oats on the ground. Loot them for the Handful of Oats Handful of Oats (8)| |O| |Z|Westfall|
 C Stringy Vulture Meat (3) |QID|38| |L|729 3| |N|Kill Young Goretusks and Young Fleshrippers. Loot them for their Vulture Meat, Snouts and Livers| |O| |Z|Westfall|
+C Goretusk Snout (3) |QID|38| |L|731 3| |N|Kill Young Goretusks and Young Fleshrippers. Loot them for their Vulture Meat, Snouts and Livers| |O| |Z|Westfall|
 C Goretusk Liver (8) |QID|22| |L|723 8| |N|Kill Young Goretusks and Young Fleshrippers. Loot them for their Vulture Meat, Snouts and Livers| |O| |Z|Westfall|
 C The People's Militia |QID|12| |OIDX|1| |N|Kill Defias Trappers and Defias Smugglers. Loot them for their Red Leather Bandanas Defias Trapper slain (15)| |Z|Westfall|
 C Red Leather Bandanas |QID|153| |OIDX|1| |N|Kill Defias Trappers and Defias Smugglers. Loot them for their Red Leather Bandanas Red Leather Bandana (15)| |Z|Westfall|
@@ -45,8 +46,9 @@ T Goretusk Liver Pie |QID|22| |N|Salma Saldean - (56.4, 30.5)| |Z|Westfall|
 B Do NOT sell [Murloc Eyes], [Goretusk Snouts], [Goretusk Livers] or [Stringy Vulture Meat] |N|Farmer Saldean - (56.0, 31.2)| |O| |Z|Westfall|
 C The Killing Fields |QID|9| |OIDX|1| |N|Harvest Watchers. Loot them for their Flask of Oil and Okra Harvest Watcher (20)| |Z|Westfall|
 C Okra (3) |QID|38| |L|732 3| |N|Harvest Watchers. Loot them for their Flask of Oil and Okra (50.8, 21.8)| |Z|Westfall|
-C Harvest Watchers. Loot them for their Flask of Oil and Okra |QID|103| |L|814 5| |N|Harvest Watchers. Loot them for their Flask of Oil and Okra - (50.8, 21.8)| |Z|Westfall|
+C Collect Flask of Oil (x5) |QID|103| |L|814 5| |N|Harvest Watchers. Loot them for their Flask of Oil and Okra (50.8, 21.8)| |Z|Westfall|
 C Stringy Vulture Meat (3) |QID|38| |L|729 3| |N|Young Goretusks and Young Fleshrippers. Loot them for their Vulture Meat, Snouts and Livers (54.4, 40.4)| |Z|Westfall|
+C Goretusk Snout (3) |QID|38| |L|731 3| |N|Young Goretusks and Young Fleshrippers. Loot them for their Vulture Meat, Snouts and Livers (54.4, 40.4)| |Z|Westfall|
 C Goretusk Liver (8) |QID|22| |L|723 8| |N|Young Goretusks and Young Fleshrippers. Loot them for their Vulture Meat, Snouts and Livers (54.4, 40.4)| |Z|Westfall|
 T The Killing Fields |QID|9| |N|Farmer Saldean - (56.0, 31.2)| |Z|Westfall|
 T Westfall Stew |QID|38| |N|Salma Saldean - (56.4, 30.5)| |Z|Westfall|
@@ -106,7 +108,7 @@ B Buy |T133052:0|[Hammer] if you can afford it |N|Gunther Weller - (57.5, 57.1)|
 t Train 1h Swords |N|Woo Ping - (57.1, 57.7)| |C|Rogue| |R|NightElf| |Z|Stormwind City|
 N Buy a [Reinforced Bow] |N|(50.0, 57.6)| |C|Hunter| |R|NightElf| |Z|Stormwind City|
 N Stock up on [Sharp Arrows] |N|(50.0, 57.6)| |C|Hunter| |R|NightElf| |Z|Stormwind City|
-B Frederick Stover |L|3026 1| |N|Frederick Stover - (50.0, 57.6)| |C|Hunter| |R|NightElf| |Z|Stormwind City|
+B Buy Reinforced Bow (x1) |L|3026 1| |N|Frederick Stover - (50.0, 57.6)| |C|Hunter| |R|NightElf| |Z|Stormwind City|
 N Level up your [First Aid] |N|(43.1, 26.2)| |R|NightElf| |Z|Stormwind City|
 t Train Journeyman First Aid |N|Shaina Fuller - (43.1, 26.2)| |R|NightElf| |Z|Stormwind City|
 N Wu or Ilsa |N|(76.1, 50.1)| |C|Warrior| |R|NightElf| |Z|Stormwind City|

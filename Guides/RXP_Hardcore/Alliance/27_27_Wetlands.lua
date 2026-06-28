@@ -13,7 +13,7 @@ N [Vial of Spider Venom] (If you have any) |N|(57.1, 73.0)| |Z|Stormwind City|
 R Newton Burnside |N|(57.1, 73.0)| |C|!Warlock/!Druid| |Z|Stormwind City|
 N [Elixir of Water Breathing] |N|(57.1, 73.0)| |C|!Warlock/!Druid| |Z|Stormwind City|
 N Buy a [Elixir of Water Breathing] from the Auction House |N|(53.6, 59.8)| |C|!Warlock/!Druid| |AH| |Z|Stormwind City|
-B Auctioneer Jaxon |L|5996 1| |N|Auctioneer Jaxon - (53.6, 59.8)| |C|!Warlock/!Druid| |AH| |Z|Stormwind City|
+B Buy Elixir of Water Breathing (x1) |L|5996 1| |N|Auctioneer Jaxon - (53.6, 59.8)| |C|!Warlock/!Druid| |AH| |Z|Stormwind City|
 A Special Delivery for Gaxim |QID|1077| |N|Collin Mauren - (43.1, 80.4)| |C|!Mage| |Z|Stormwind City|
 A Retrieval for Mauren |QID|1078| |N|Collin Mauren - (43.1, 80.4)| |C|!Mage| |Z|Stormwind City|
 R Head to the Slaughtered Lamb and go downstairs |N|(27.2, 78.1)| |O| |C|Warlock| |Z|Stormwind City|

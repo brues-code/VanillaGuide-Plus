@@ -36,7 +36,7 @@ T The Family and the Fishing Pole |QID|1141| |N|Gubber Blump - (36.1, 44.9)| |O|
 N You may need to go in the water for them |N|(35.7, 55.8)| |O| |Z|Darkshore|
 C Buzzbox 827 |QID|983| |OIDX|1| |N|Pygmy Tide Crawlers and Young Reef Crawlers. Loot them for their Legs (35.7, 55.8)| |O| |Z|Darkshore|
 C Washed Ashore |QID|3524| |OIDX|1| |N|the Beached Sea Creature for the Sea Creature Bones (18.8, 26.7)| |Z|Felwood|
-C Level [Herbalism] to 15. Collect 5 [Earthroot] for a future quest |QID|6123| |L|2449 5| |N|Level [Herbalism] to 15. Collect 5 [Earthroot] for a future quest| |O| |C|Druid| |Z|Felwood|
+C Collect Earthroot (x5) |QID|6123| |L|2449 5| |N|Level [Herbalism] to 15. Collect 5 [Earthroot] for a future quest| |O| |C|Druid| |Z|Felwood|
 C How Big a Threat? |QID|984| |OIDX|1| |N|Discover the Furbolg Camp (Run to the totem then run away) Find a corrupt furbolg camp| |Z|Felwood|
 R Travel to Darkshore |N|(38.5, 57.9)| |Z|Darkshore|
 C Plagued Lands |QID|2118| |OIDX|1| |N|Use [Tharnariun's Hope] on a Rabid Thistle Bear (38.5, 57.9)| |Z|Darkshore|
@@ -71,7 +71,7 @@ t Train your class spells |N|Mathrengyl Bearwalker - (35.4, 8.4)| |C|Druid| |Z|D
 t Train your class spells |N|Arias'ta Bladesinger - (58.7, 34.9)| |O| |C|Warrior| |R|NightElf| |Z|Darnassus|
 t Train Thrown |N|Ilyenia Moonfire - (57.6, 46.7)| |C|Warrior| |R|NightElf| |Z|Darnassus|
 R Buy a stack of [Keen Throwing Knives] |N|(58.8, 44.5)| |O| |C|Warrior| |R|NightElf| |Z|Darnassus|
-B Ariyell Skyshadow |L|3107 200| |N|Ariyell Skyshadow - (58.8, 44.5)| |O| |C|Warrior| |R|NightElf| |Z|Darnassus|
+B Buy Keen Throwing Knife (x200) |L|3107 200| |N|Ariyell Skyshadow - (58.8, 44.5)| |O| |C|Warrior| |R|NightElf| |Z|Darnassus|
 t Train your class spells |N|Jandria - (37.9, 82.7)| |C|Priest| |R|NightElf| |Z|Darnassus|
 N Enter the Cenarion Enclave |N|(31.8, 16.7)| |C|Rogue| |R|NightElf| |Z|Darnassus|
 N Syurna |N|(31.8, 16.7)| |C|Rogue| |R|NightElf| |Z|Darnassus|
@@ -100,7 +100,7 @@ C Bashal'Aran |QID|956| |OIDX|1| |N|Deth'ryll Satyr. Loot them for the Moonstone
 T Bashal'Aran |QID|956| |N|Asterion - (27.7, 10.0)| |Z|Felwood|
 A Bashal'Aran |QID|957| |N|Asterion - (27.7, 10.0)| |Z|Felwood|
 N Kill Foreststrider Fledgling. Loot them for their Strider Meat |O| |Z|Felwood|
-C Follow the road south and look for nearby Foreststrider Fledglings |L|5469 5| |N|Follow the road south and look for nearby Foreststrider Fledglings| |O| |Z|Felwood|
+C Collect Strider Meat (x5) |L|5469 5| |N|Follow the road south and look for nearby Foreststrider Fledglings| |O| |Z|Felwood|
 A The Fall of Ameth'Aran |QID|953| |N|Sentinel Tysha Moonblade - (40.3, 59.7)| |Z|Darkshore|
 C Tools of the Highborne |QID|958| |OIDX|1| |N|Kill Cursed Highbornes, Writhing Highbornes, and Wailing Highbornes. Loot them for their Relics| |O| |Z|Darkshore|
 C The Fall of Ameth'Aran |QID|953| |OIDX|1| |N|the The Lay of Ameth'Aran The Lay of Ameth'Aran| |Z|Darkshore|
@@ -111,14 +111,14 @@ C Tools of the Highborne |QID|958| |OIDX|1| |N|Cursed Highbornes, Writhing Highb
 R Travel to Felwood |N|(23.3, 36.7)| |Z|Felwood|
 T The Fall of Ameth'Aran |QID|953| |N|Sentinel Tysha Moonblade - (23.3, 36.7)| |Z|Felwood|
 N Kill Foreststrider Fledgling. Loot them for their Strider Meat |O| |Z|Felwood|
-C Follow the road north and look for nearby Foreststrider Fledglings |L|5469 5| |N|Follow the road north and look for nearby Foreststrider Fledglings| |O| |Z|Felwood|
+C Collect Strider Meat (x5) |L|5469 5| |N|Follow the road north and look for nearby Foreststrider Fledglings| |O| |Z|Felwood|
 R Bashal'Aran |N|(27.7, 10.0)| |O| |Z|Felwood|
 T Bashal'Aran |QID|957| |N|Asterion - (27.7, 10.0)| |Z|Felwood|
 R Travel to Darkshore |N|(45.5, 45.2)| |Z|Darkshore|
 N You will level [Cooking] to 10 later using [Small Eggs] |N|(42.7, 45.7)| |Z|Darkshore|
 C Small Egg |QID|2178| |L|6889 10| |N|Moonkins. Loot them for their [Small Eggs] (42.7, 45.7)| |Z|Darkshore|
 N Kill Foreststrider Fledglings. Loot them for their Strider Meat |N|(46.3, 43.0)| |Z|Darkshore|
-C Be careful of Thistle Bears they stun |L|5469 5| |N|Be careful of Thistle Bears they stun - (46.3, 43.0)| |Z|Darkshore|
+C Collect Strider Meat (x5) |L|5469 5| |N|Be careful of Thistle Bears they stun (46.3, 43.0)| |Z|Darkshore|
 R Gorbold Steelhand |N|(37.5, 41.7)| |Z|Darkshore|
 A Easy Strider Living |QID|2178| |N|Alanndarian Nightsong - (37.7, 40.7)| |Z|Darkshore|
 T Easy Strider Living |QID|2178| |N|Alanndarian Nightsong - (37.7, 40.7)| |Z|Darkshore|

@@ -896,11 +896,56 @@ function TurtleGuide:FindBagSlot(itemid)
     return false
 end
 
+function TurtleGuide:GetItemNameByItemId(itemId)
+    if not itemId then return nil end
+    itemId = tonumber(itemId)
+    if not itemId then return nil end
+
+    -- Try pfQuest localized database
+    if pfDB and pfDB["items"] and pfDB["items"]["loc"] then
+        local name = pfDB["items"]["loc"][itemId] or pfDB["items"]["loc"][tostring(itemId)]
+        if name then return name end
+    end
+
+    -- Fallback to standard client cache
+    local name = GetItemInfo(itemId)
+    if name then return name end
+
+    return nil
+end
+
 function TurtleGuide:GetObjectiveInfo(i)
     local i = i or self.current
     if not self.actions[i] then return end
 
-    return self.actions[i], string.gsub(self.quests[i], "@.*@", ""), self.quests[i] -- Action, display name, full name
+    local action = self.actions[i]
+    local name = string.gsub(self.quests[i], "@.*@", "")
+
+    -- Dynamically enrich name for BUY or COMPLETE/collect steps with item names
+    if (action == "BUY" or action == "COMPLETE") then
+        local lootitem, lootqty = self:GetObjectiveTag("L", i)
+        if lootitem then
+            local itemName = self:GetItemNameByItemId(lootitem)
+            if itemName then
+                local lowerName = string.lower(name)
+                local lowerItem = string.lower(itemName)
+                if not string.find(lowerName, lowerItem, 1, true) then
+                    -- If the quest name is generic, replace it completely. Otherwise append it.
+                    if name == "Collect item" or name == "Auctioneer Stockton" or name == "Auctioneer Stockton in the Trade Quarter" or string.find(lowerName, "^vendor") or string.find(lowerName, "^talk to") then
+                        if action == "BUY" then
+                            name = "Buy: " .. itemName .. " (x" .. lootqty .. ")"
+                        else
+                            name = "Collect: " .. itemName .. " (x" .. lootqty .. ")"
+                        end
+                    else
+                        name = name .. " (" .. itemName .. " x" .. lootqty .. ")"
+                    end
+                end
+            end
+        end
+    end
+
+    return action, name, self.quests[i] -- Action, display name, full name
 end
 
 function TurtleGuide:GetObjectiveStatus(i)

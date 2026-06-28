@@ -22,17 +22,17 @@ t Attack mobs with it to learn [Claw (Rank 6)] |N|Cast [Tame Beast] on a Scorpid
 N Click here for more info about pet training |N|(54.1, 32.2)| |C|Hunter| |Z|Tanaris|
 t Train your class spells |N|Laziphus - (52.3, 28.0)| |C|Hunter| |Z|Tanaris|
 C Wastewander Justice |QID|1690| |OIDX|1| |N|Wastewander Bandits and Wastewander Thieves in the Noonshade Ruins en route to Steamwheedle Port. Loot them for their Water Pouches (60.5, 23.4)| |O| |Z|Tanaris|
-C Wastewander Bandits and Wastewander Thieves in the Noonshade Ruins en route to Steamwheedle Port. Loot them for their Water Pouches |L|8483 10| |N|Wastewander Bandits and Wastewander Thieves in the Noonshade Ruins en route to Steamwheedle Port. Loot them for their Water Pouches - (60.5, 23.4)| |O| |Z|Tanaris|
+C Collect Wastewander Water Pouch (x10) |L|8483 10| |N|Wastewander Bandits and Wastewander Thieves in the Noonshade Ruins en route to Steamwheedle Port. Loot them for their Water Pouches (60.5, 23.4)| |O| |Z|Tanaris|
 C Wastewander Justice |QID|1690| |OIDX|1| |N|Wastewander Bandits and Wastewander Thieves in the Noonshade Ruins en route to Steamwheedle Port. Loot them for their Water Pouches (60.5, 23.4)| |O| |Z|Tanaris|
-C Wastewander Bandits and Wastewander Thieves in the Noonshade Ruins en route to Steamwheedle Port. Loot them for their Water Pouches |L|8483 5| |N|Wastewander Bandits and Wastewander Thieves in the Noonshade Ruins en route to Steamwheedle Port. Loot them for their Water Pouches - (60.5, 23.4)| |O| |Z|Tanaris|
+C Collect Wastewander Water Pouch (x5) |L|8483 5| |N|Wastewander Bandits and Wastewander Thieves in the Noonshade Ruins en route to Steamwheedle Port. Loot them for their Water Pouches (60.5, 23.4)| |O| |Z|Tanaris|
 A Screecher Spirits |QID|3520| |N|Yeh'kinya - (67.0, 22.4)| |Z|Tanaris|
 N Buy [Jagged Arrows] from him |N|(67.0, 22.0)| |C|Hunter| |Z|Tanaris|
-B Jabbey |L|11285 2600| |N|Jabbey - (67.0, 22.0)| |C|Hunter| |Z|Tanaris|
+B Buy Jagged Arrow (x2600) |L|11285 2600| |N|Jabbey - (67.0, 22.0)| |C|Hunter| |Z|Tanaris|
 T Stoley's Debt |QID|2872| |N|Stoley - (67.1, 24.0)| |Z|Tanaris|
 C Wastewander Justice |QID|1690| |OIDX|1| |N|Wastewander Bandits and Wastewander Thieves. Loot them for their Water Pouches (60.5, 23.4)| |Z|Tanaris|
-C Wastewander Bandits and Wastewander Thieves. Loot them for their Water Pouches |L|8483 10| |N|Wastewander Bandits and Wastewander Thieves. Loot them for their Water Pouches - (60.5, 23.4)| |Z|Tanaris|
+C Collect Wastewander Water Pouch (x10) |L|8483 10| |N|Wastewander Bandits and Wastewander Thieves. Loot them for their Water Pouches (60.5, 23.4)| |Z|Tanaris|
 C Wastewander Justice |QID|1690| |OIDX|1| |N|Wastewander Bandits and Wastewander Thieves. Loot them for their Water Pouches (60.5, 23.4)| |Z|Tanaris|
-C Wastewander Bandits and Wastewander Thieves. Loot them for their Water Pouches |L|8483 5| |N|Wastewander Bandits and Wastewander Thieves. Loot them for their Water Pouches - (60.5, 23.4)| |Z|Tanaris|
+C Collect Wastewander Water Pouch (x5) |L|8483 5| |N|Wastewander Bandits and Wastewander Thieves. Loot them for their Water Pouches (60.5, 23.4)| |Z|Tanaris|
 H Hearth or Astral Recall to Gadgetzan |N|Hearth to Hearth or Astral Recall to Gadgetzan| |C|Shaman| |Z|Tanaris|
 B Sell your junk, then restock on food and water if necessary |N|Dirge Quikcleave - (52.6, 28.1)| |C|!Rogue/!Warrior| |Z|Tanaris|
 B Sell your junk, then restock on food if necessary |N|Dirge Quikcleave - (52.6, 28.1)| |C|Rogue/Warrior| |Z|Tanaris|
@@ -137,7 +137,7 @@ A Uldaman Reagent Run |QID|2202| |N|Jarkal Mossmeld - (2.4, 46.0) (ULDA Dungeon 
 A Solution to Doom |QID|709| |N|Theldurin the Lost - (51.4, 76.9) (ULDA Dungeon Quest)| |D|ULDA| |Z|Badlands|
 R Travel to Eastern Kingdoms |N|(54.5, 57.8) (ULDA Dungeon Quest)| |D|ULDA| |Z|Eastern Kingdoms|
 N Do not accept the quest yet as it can cause questlog issues |N|(ULDA Dungeon Quest)| |D|ULDA| |Z|Eastern Kingdoms|
-C If you loot the [Shattered Necklace], save it in your inventory |QID|2283| |L|7666 1| |N|If you loot the [Shattered Necklace], save it in your inventory (ULDA Dungeon Quest)| |D|ULDA| |Z|Eastern Kingdoms|
+C Collect Shattered Necklace (x1) |QID|2283| |L|7666 1| |N|If you loot the [Shattered Necklace], save it in your inventory (ULDA Dungeon Quest)| |D|ULDA| |Z|Eastern Kingdoms|
 N This can be completed INSIDE and OUTSIDE of Uldaman. |N|(ULDA Dungeon Quest)| |D|ULDA| |Z|Eastern Kingdoms|
 N It is recommended that maximum 3 players attempt to complete this quest if you're doing only 1 run. There aren't enough Magenta Fungus Capsr for everybody |N|(ULDA Dungeon Quest)| |D|ULDA| |Z|Eastern Kingdoms|
 C Uldaman Reagent Run |QID|2202| |OIDX|1| |N|Loot the Magenta Fungus Caps on the ground (ULDA Dungeon Quest)| |D|ULDA| |Z|Eastern Kingdoms|

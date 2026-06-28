@@ -25,7 +25,7 @@ B Collect Refreshing Spring Water (x15) |L|159 15| |N|Adlin Pridedrift - (30.1, 
 N Vendor Trash |N|(30.1, 71.6)| |O| |C|Hunter| |Z|Dun Morogh|
 N Buy 600 [Light Shots] from him |N|(30.1, 71.6)| |O| |C|Hunter| |Z|Dun Morogh|
 B Vendor trash |N|Adlin Pridedrift - (30.1, 71.6)| |O| |C|!Hunter| |Z|Dun Morogh|
-B Adlin Pridedrift |L|2516 600| |N|Adlin Pridedrift - (30.1, 71.6)| |O| |C|Hunter| |Z|Dun Morogh|
+B Buy Light Shot (x600) |L|2516 600| |N|Adlin Pridedrift - (30.1, 71.6)| |O| |C|Hunter| |Z|Dun Morogh|
 T Dwarven Outfitters |QID|179| |N|Sten Stoutarm - (29.9, 71.2)| |Z|Dun Morogh|
 A Coldridge Valley Mail Delivery |QID|233| |N|Sten Stoutarm - (29.9, 71.2)| |Z|Dun Morogh|
 A Simple Rune |QID|3106| |N|Sten Stoutarm - (29.9, 71.2)| |C|Warrior| |R|Dwarf| |Z|Dun Morogh|

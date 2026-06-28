@@ -8,7 +8,7 @@ B Buy a [Merciless Axe] from him if it's up and you don't have it yet |N|Delgo -
 N Alternatively you can check the Auction House if something better is available |N|(54.1, 57.2)| |C|Shaman/Warrior| |AH| |Z|Thunder Bluff|
 B Buy a [Merciless Axe] from him if it's up and you don't have it yet |N|Delgo - (54.1, 57.2)| |C|Shaman/Warrior| |Z|Thunder Bluff|
 N Alternatively you can check the Auction House if something better is available |N|(53.0, 56.6)| |C|Rogue| |AH| |Z|Thunder Bluff|
-B Kard. Buy a [Main Gauche] from him for your off-hand |L|2526 1| |N|Kard. Buy a [Main Gauche] from him for your off-hand - (53.0, 56.6)| |C|Rogue| |AH| |Z|Thunder Bluff|
+B Buy Main Gauche (x1) |L|2526 1| |N|Kard. Buy a [Main Gauche] from him for your off-hand - (53.0, 56.6)| |C|Rogue| |AH| |Z|Thunder Bluff|
 T The Sacred Flame |QID|1195| |N|Zangen - (54.9, 51.6)| |Z|Thunder Bluff|
 A The Sacred Flame |QID|1196| |N|Zangen - (54.9, 51.6)| |Z|Thunder Bluff|
 t Train your class spells |N|Kym - (76.8, 31.8)| |C|Druid| |Z|Thunder Bluff|
@@ -29,7 +29,7 @@ t Train your class spells |N|Tigor - (23.6, 18.7)| |C|Shaman| |Z|Thunder Bluff|
 t Train [Heavy Wool Bandage] |N|Pand - (29.7, 21.2)| |Z|Thunder Bluff|
 B Buy a [Sturdy Recurve Bow] from her if it's available |N|Kuna - (47.0, 45.7)| |C|Hunter| |Z|Thunder Bluff|
 N Buy [Razor Arrows] from her |N|(47.0, 45.7)| |C|Hunter| |Z|Thunder Bluff|
-B Kuna |L|3030 1800| |N|Kuna - (47.0, 45.7)| |C|Hunter| |Z|Thunder Bluff|
+B Buy Razor Arrow (x1800) |L|3030 1800| |N|Kuna - (47.0, 45.7)| |C|Hunter| |Z|Thunder Bluff|
 F Fly to Camp Taurajo |N|Tal - (47.0, 49.8)| |Z|Thunder Bluff|
 A A New Ore Sample |QID|1153| |N|Tatternack - (45.1, 57.7)| |Z|The Barrens|
 t Train Travel Form (Shapeshift) |N|Mangletooth - (44.5, 59.3)| |C|Druid| |Z|The Barrens|
@@ -55,7 +55,7 @@ T Calling in the Reserves |QID|5881| |N|Grish - (31.9, 21.7)| |Z|Thousand Needle
 A Message to Freewind Post |QID|4542| |N|Moonhorn - (32.2, 22.2)| |Z|Thousand Needles|
 R Take the lift down to Thousand Needles |N|(32.0, 23.8)| |Z|Thousand Needles|
 N Don't fall off! You'll DIE! |N|(32.0, 23.8)| |Z|Thousand Needles|
-C the Galak Messenger. Loot him for the [Assassination Note]. Use it to start the quest |QID|4881| |L|12564 1| |N|He spawns at Splithoof Crag (the eastern Centaur camp) (38.6, 31.5)| |O| |Z|Thousand Needles|
+C Collect Assassination Note (x1) |QID|4881| |L|12564 1| |N|He spawns at Splithoof Crag (the eastern Centaur camp) (38.6, 31.5)| |O| |Z|Thousand Needles|
 A Assassination Plot |QID|4881| |N|He spawns at Splithoof Crag (the eastern Centaur camp) - (38.6, 31.5)| |O| |Z|Thousand Needles|
 R Freewind Post's Elevators |N|(46.7, 48.3)| |O| |Z|Thousand Needles|
 R Take the Elevator up to Freewind |N|(45.9, 49.9)| |Z|Thousand Needles|
@@ -77,7 +77,7 @@ R Enter the cave |N|[Group] (44.1, 37.2)| |O| |P|GROUP| |Z|Thousand Needles|
 R Travel toward the Ancient Brazier |N|[Group] (42.0, 31.5)| |O| |P|GROUP| |Z|Thousand Needles|
 N Be careful! The brazier is defended by two level 30 Galak Flame Guards |N|[Group] (42.0, 31.5)| |P|GROUP| |Z|Thousand Needles|
 C The Sacred Flame |QID|1197| |OIDX|1| |N|[Group] the Ancient Brazier. Loot it for the Cloven Hoof (42.0, 31.5)| |P|GROUP| |Z|Thousand Needles|
-C the Galak Messenger. Loot him for the [Assassination Note]. Use it to start the quest |QID|4881| |L|12564 1| |N|He spawns at Splithoof Crag (the eastern Centaur camp) (38.5, 32.6)| |O| |Z|Thousand Needles|
+C Collect Assassination Note (x1) |QID|4881| |L|12564 1| |N|He spawns at Splithoof Crag (the eastern Centaur camp) (38.5, 32.6)| |O| |Z|Thousand Needles|
 A Assassination Plot |QID|4881| |N|He spawns at Splithoof Crag (the eastern Centaur camp) - (38.5, 32.6)| |O| |Z|Thousand Needles|
 C Pacify the Centaur |QID|4841| |OIDX|1| |N|Galak Scouts, Galak Wranglers, and Galak Windchasers (44.4, 38.4)| |Z|Thousand Needles|
 R Travel toward Dorn |N|(54.0, 41.5)| |O| |Z|Thousand Needles|
@@ -99,11 +99,11 @@ T Alien Egg |QID|4821| |N|Hagar - (44.7, 50.3)| |Z|Thousand Needles|
 A Serpent Wild |QID|4865| |N|Hagar - (44.7, 50.3)| |Z|Thousand Needles|
 B Buy a [Dense Shortbow] from him if it's up |N|Starn - (44.9, 50.7)| |C|Hunter| |Z|Thousand Needles|
 N Buy [Razor Arrows] from him |N|(44.9, 50.7)| |C|Hunter| |Z|Thousand Needles|
-B Starn |L|3030 1800| |N|Starn - (44.9, 50.7)| |C|Hunter| |Z|Thousand Needles|
+B Buy Razor Arrow (x1800) |L|3030 1800| |N|Starn - (44.9, 50.7)| |C|Hunter| |Z|Thousand Needles|
 B Buy [Healing Potions] and [Scrolls] from him if they're up |N|Montarr - (45.1, 50.8)| |C|!Warrior| |Z|Thousand Needles|
 B Buy [Healing Potions], [Scrolls] and [Liferoot] from him if they're up |N|Montarr - (45.1, 50.8)| |C|Warrior| |Z|Thousand Needles|
 N Buy one or more [Rune of Teleportation] from him |N|(45.1, 50.8)| |C|Mage| |Z|Thousand Needles|
-B Montarr |L|17031 1| |N|Montarr - (45.1, 50.8)| |C|Mage| |Z|Thousand Needles|
+B Buy Rune of Teleportation (x1) |L|17031 1| |N|Montarr - (45.1, 50.8)| |C|Mage| |Z|Thousand Needles|
 h Freewind Post |N|Set hearth in Freewind Post (46.1, 51.5)| |O| |C|Mage| |Z|Thousand Needles|
 t Train Teleport: Thunder Bluff |N|Innkeeper Abeqwa - (46.1, 51.5)| |O| |C|Mage| |Z|Thousand Needles|
 R Enter Roguefeather Den |N|[Group] (27.3, 51.3)| |P|GROUP| |Z|Thousand Needles|
@@ -133,7 +133,7 @@ C Hypercapacitor Gizmo |QID|5151| |OIDX|1| |N|[Group] the cage and kill the Enra
 N He spawns at Splithoof Crag (the eastern Centaur camp) |N|(39.5, 33.4)| |Z|Thousand Needles|
 N Scout for him with [Eagle Eye] if you have trained it |N|(39.5, 33.4)| |C|Hunter| |Z|Thousand Needles|
 N Scout for him with [Far Sight] if you have trained it |N|(39.5, 33.4)| |C|Shaman| |Z|Thousand Needles|
-C the Galak Messenger. Loot him for the [Assassination Note]. Use it to start the quest |QID|4881| |L|12564 1| |N|the Galak Messenger. Loot him for the [Assassination Note]. Use it to start the quest - (39.5, 33.4)| |Z|Thousand Needles|
+C Collect Assassination Note (x1) |QID|4881| |L|12564 1| |N|the Galak Messenger. Loot him for the [Assassination Note]. Use it to start the quest (39.5, 33.4)| |Z|Thousand Needles|
 A Assassination Plot |QID|4881| |N|the Galak Messenger. Loot him for the [Assassination Note]. Use it to start the quest - (39.5, 33.4)| |Z|Thousand Needles|
 N He patrols counter-clockwise |N|(11.5, 21.6)| |Z|Thousand Needles|
 N Be careful, has two Hyenas defending him! |N|(11.5, 21.6)| |Z|Thousand Needles|
@@ -173,15 +173,15 @@ t Train [Teleport: Thunder Bluff] |N|Birgitte - (22.5, 16.9)| |C|Mage| |Z|Thunde
 t Train your class spells |N|Tigor - (23.6, 18.7)| |C|Shaman| |Z|Thunder Bluff|
 B Buy a [Sturdy Recurve Bow] from her if it's available |N|Kuna - (47.0, 45.7)| |C|Hunter| |Z|Thunder Bluff|
 N Buy [Razor Arrows] from her |N|(47.0, 45.7)| |C|Hunter| |Z|Thunder Bluff|
-B Kuna |L|3030 1800| |N|Kuna - (47.0, 45.7)| |C|Hunter| |Z|Thunder Bluff|
+B Buy Razor Arrow (x1800) |L|3030 1800| |N|Kuna - (47.0, 45.7)| |C|Hunter| |Z|Thunder Bluff|
 B Buy a [Merciless Axe] from him if it's available |N|Delgo - (54.1, 57.2)| |C|Shaman/Warrior| |Z|Thunder Bluff|
 N Alternatively you can also buy a [Bullova] |N|(54.1, 57.2)| |C|Shaman/Warrior| |Z|Thunder Bluff|
 B Buy a [Merciless Axe] from him if it's available |N|Delgo - (54.1, 57.2)| |C|Shaman/Warrior| |AH| |Z|Thunder Bluff|
 N Alternatively you can also buy a [Bullova] or check the Auction House if something better is available |N|(54.1, 57.2)| |C|Shaman/Warrior| |AH| |Z|Thunder Bluff|
 N Alternatively you can check the Auction House if something better is available |N|(53.0, 56.6)| |C|Rogue| |AH| |Z|Thunder Bluff|
-B Kard. Buy a [Broadsword] from him |L|2520 1| |N|Kard. Buy a [Broadsword] from him - (53.0, 56.6)| |C|Rogue| |AH| |Z|Thunder Bluff|
+B Buy Broadsword (x1) |L|2520 1| |N|Kard. Buy a [Broadsword] from him - (53.0, 56.6)| |C|Rogue| |AH| |Z|Thunder Bluff|
 N Alternatively you can check the Auction House if something better is available |N|(53.0, 56.6)| |C|Rogue| |AH| |Z|Thunder Bluff|
-B Kard. Buy a [Main Gauche] from him for your off-hand |L|2526 1| |N|Kard. Buy a [Main Gauche] from him for your off-hand - (53.0, 56.6)| |C|Rogue| |AH| |Z|Thunder Bluff|
+B Buy Main Gauche (x1) |L|2526 1| |N|Kard. Buy a [Main Gauche] from him for your off-hand - (53.0, 56.6)| |C|Rogue| |AH| |Z|Thunder Bluff|
 F Fly to Camp Taurajo |N|Tal - (47.0, 49.8)| |O| |Z|Thunder Bluff|
 T A New Ore Sample |QID|1153| |N|Tatternack - (45.1, 57.7)| |Z|The Barrens|
 R Travel into Dustwallow Marsh |N|(50.5, 78.7)| |Z|The Barrens|
@@ -199,6 +199,8 @@ B Buy a [Big Stick] from him if it's up |N|Zulrg - (36.2, 31.8)| |C|Warrior/Sham
 B Buy [Healing Potions] and [Scrolls] from her if they're up |N|Balai - (36.5, 30.4)| |Z|Dustwallow Marsh|
 N Buy the [First Aid Manuals] from her |N|(36.5, 30.4)| |Z|Dustwallow Marsh|
 B Manual: Heavy Silk Bandage (1) |L|16112 1| |N|Balai - (36.5, 30.4)| |Z|Dustwallow Marsh|
+B Manual: Mageweave Bandage (1) |L|16113 1| |N|Balai - (36.5, 30.4)| |Z|Dustwallow Marsh|
+B Manual: Expert First Aid - Under Wraps (1) |L|16084 1| |N|Balai - (36.5, 30.4)| |Z|Dustwallow Marsh|
 f Get the Brackenwall Village Flight Path |N|Shardi - (35.6, 31.9)| |C|Mage| |Z|Dustwallow Marsh|
 H Freewind Post |N|Hearth to Freewind Post| |C|Mage| |Z|Dustwallow Marsh|
 f Get the Brackenwall Village Flight Path |N|Shardi - (35.6, 31.9)| |O| |Z|Dustwallow Marsh|
@@ -246,9 +248,9 @@ T Free at Last |QID|4904| |N|Thalia - (46.0, 51.5)| |Z|Thousand Needles|
 B Buy [Healing Potions] and [Scrolls] from him if they're up |N|Montarr - (45.1, 50.8)| |C|!Warrior| |Z|Thousand Needles|
 B Buy [Healing Potions], [Scrolls] and [Liferoot] from him if they're up |N|Montarr - (45.1, 50.8)| |C|Warrior| |Z|Thousand Needles|
 B Buy a [Dense Shortbow] from him if it's up and fill your quiver with arrows |N|Starn - (44.9, 50.7)| |C|Hunter| |Z|Thousand Needles|
-B Starn |L|3030 1800| |N|Starn - (44.9, 50.7)| |C|Hunter| |Z|Thousand Needles|
+B Buy Razor Arrow (x1800) |L|3030 1800| |N|Starn - (44.9, 50.7)| |C|Hunter| |Z|Thousand Needles|
 N Buy [Razor Arrows] from him |N|(44.9, 50.7)| |C|Hunter| |Z|Thousand Needles|
-B Starn |L|3030 1800| |N|Starn - (44.9, 50.7)| |C|Hunter| |Z|Thousand Needles|
+B Buy Razor Arrow (x1800) |L|3030 1800| |N|Starn - (44.9, 50.7)| |C|Hunter| |Z|Thousand Needles|
 F Fly to Crossroads |N|Nyse - (45.1, 49.1)| |O| |Z|Thousand Needles|
 A The Swarm Grows |QID|1145| |N|Korran - (51.1, 29.6)| |Z|The Barrens|
 F Fly to Ratchet |N|Devrak - (51.5, 30.3)| |O| |C|!Warrior| |Z|The Barrens|
@@ -264,7 +266,7 @@ T Call of Water |QID|220| |N|Islen - (65.8, 43.8)| |C|Shaman| |Z|The Barrens|
 A Call of Water |QID|63| |N|Islen - (65.8, 43.8)| |C|Shaman| |Z|The Barrens|
 N Make sure you get the [Water Sapta |N|(65.8, 43.8)| |C|Shaman| |Z|The Barrens|
 T Water Sapta |QID|972| |N|Islen - (65.8, 43.8)| |C|Shaman| |Z|The Barrens|
-C Islen |L|6637 1| |N|Islen - (65.8, 43.8)| |C|Shaman| |Z|The Barrens|
+C Collect Water Sapta (x1) |L|6637 1| |N|Islen (65.8, 43.8)| |C|Shaman| |Z|The Barrens|
 R Fray Island |N|(68.6, 49.2)| |O| |C|Warrior| |Z|The Barrens|
 T The Islander |QID|1718| |N|Klannoc - (68.6, 49.2)| |C|Warrior| |Z|The Barrens|
 A The Affray |QID|1719| |N|Klannoc - (68.6, 49.2)| |C|Warrior| |Z|The Barrens|
@@ -277,7 +279,7 @@ R Travel back to Ratchet |N|(62.8, 37.9)| |O| |C|Warrior| |Z|The Barrens|
 F Fly to Orgrimmar |N|Bragok - (63.1, 37.2)| |C|!Mage| |Z|The Barrens|
 N Cast [Teleport: Orgrimmar] |C|Mage| |Z|The Barrens|
 t Train your class spells |N|Pephredo - (38.4, 85.5)| |C|Mage| |Z|Orgrimmar|
-B Horthus. Buy two or more [Rune of Teleportation] from him |L|17031 2| |N|Horthus. Buy two or more [Rune of Teleportation] from him - (45.4, 56.6)| |C|Mage| |Z|Orgrimmar|
+B Buy Rune of Teleportation (x2) |L|17031 2| |N|Horthus. Buy two or more [Rune of Teleportation] from him - (45.4, 56.6)| |C|Mage| |Z|Orgrimmar|
 t Train your class spells |N|Ormok - (43.9, 54.6)| |C|Rogue| |Z|Orgrimmar|
 t Train your class spells |N|Searn - (38.0, 37.8)| |C|Shaman| |Z|Orgrimmar|
 A Call of Air |QID|1531| |N|Searn - (38.0, 37.8)| |C|Shaman| |Z|Orgrimmar|
@@ -285,7 +287,7 @@ N He patrols in the Cleft of Shadows |N|(44.7, 52.0)| |Z|Orgrimmar|
 A Alliance Relations |QID|1431| |N|Craven - (44.7, 52.0)| |Z|Orgrimmar|
 t Train your class spells |N|Mirket - (48.6, 47.0)| |C|Warlock| |Z|Orgrimmar|
 B Buy any pet upgrades you can afford |N|Kurgul - (47.5, 46.7)| |C|Warlock| |Z|Orgrimmar|
-B Katis. Buy a [Pestilent Wand] from her |L|5347 1| |N|Katis. Buy a [Pestilent Wand] from her - (44.2, 48.5)| |C|Priest/Warlock| |Z|Orgrimmar|
+B Buy Pestilent Wand (x1) |L|5347 1| |N|Katis. Buy a [Pestilent Wand] from her - (44.2, 48.5)| |C|Priest/Warlock| |Z|Orgrimmar|
 T The Swarm Grows |QID|1145| |N|Belgrom - (75.0, 34.1)| |Z|Orgrimmar|
 A The Swarm Grows |QID|1146| |N|Belgrom - (75.0, 34.1)| |Z|Orgrimmar|
 t Train your class spells |N|Grezz - (79.9, 31.4)| |C|Warrior| |Z|Orgrimmar|
@@ -298,7 +300,7 @@ N Save at least 1 Gold 88 Silver for later |N|(66.0, 18.5)| |O| |C|Hunter| |Z|Or
 t Train your class spells |N|Ormak - (66.0, 18.5)| |O| |C|Hunter| |Z|Orgrimmar|
 t Train your pet spells |N|Xao'tsu - (66.3, 14.8)| |C|Hunter| |Z|Orgrimmar|
 N Buy [Razor Arrows] from him |N|(78.1, 38.5)| |C|Hunter| |Z|Orgrimmar|
-B Jin'sora |L|3030 1800| |N|Jin'sora - (78.1, 38.5)| |C|Hunter| |Z|Orgrimmar|
+B Buy Razor Arrow (x1800) |L|3030 1800| |N|Jin'sora - (78.1, 38.5)| |C|Hunter| |Z|Orgrimmar|
 t Train Two-Handed Axes |N|Hanashi - (81.5, 19.6)| |C|Hunter| |Z|Orgrimmar|
 t Train your class spells |N|Ur'kyo - (35.6, 87.8)| |C|Priest| |Z|Orgrimmar|
 T Alliance Relations |QID|1431| |N|Keldran near the Western exit of Orgrimmar - (22.5, 52.6)| |Z|Orgrimmar|
@@ -315,7 +317,7 @@ F Fly Camp Taurajo |N|Doras - (45.1, 63.9) (RFK Dungeon Quest)| |D|RFK| |Z|Orgri
 R Travel to Tirisfal Glades |N|(50.9, 70.3) (RFK Dungeon Quest)| |D|RFK| |Z|Tirisfal Glades|
 C Going, Going, Guano! |QID|1109| |OIDX|1| |N|Kill Kraul Bats. Loot them for a Kraul Guano (RFK Dungeon Quest)| |D|RFK| |Z|Tirisfal Glades|
 C A Vengeful Fate |QID|1102| |OIDX|1| |N|Kill Charlga Razorflank. Loot her for her Heart and for the [Small Scroll]. Use the scroll to start the quest (RFK Dungeon Quest)| |D|RFK| |Z|Tirisfal Glades|
-C Charlga Razorflank. Loot her for her Heart and for the [Small Scroll]. Use the scroll to start the quest |QID|6522| |L|17008 1| |N|Kill Charlga Razorflank. Loot her for her Heart and for the [Small Scroll]. Use the scroll to start the quest (RFK Dungeon Quest)| |D|RFK| |Z|Tirisfal Glades|
+C Collect Small Scroll (x1) |QID|6522| |L|17008 1| |N|Kill Charlga Razorflank. Loot her for her Heart and for the [Small Scroll]. Use the scroll to start the quest (RFK Dungeon Quest)| |D|RFK| |Z|Tirisfal Glades|
 A An Unholy Alliance |QID|6522| |N|Kill Charlga Razorflank. Loot her for her Heart and for the [Small Scroll]. Use the scroll to start the quest (RFK Dungeon Quest)| |D|RFK| |Z|Tirisfal Glades|
 N This will start an escort |N|(RFK Dungeon Quest)| |D|RFK| |Z|Tirisfal Glades|
 A Willix the Importer |QID|1144| |N|Willix the Importer (RFK Dungeon Quest)| |D|RFK| |Z|Tirisfal Glades|

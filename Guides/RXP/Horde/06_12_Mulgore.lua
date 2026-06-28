@@ -20,7 +20,7 @@ B Collect Wooden Mallet (1) |L|2493 1| |N|Mahnott. Buy a [Wooden Mallet] from hi
 B Vendor trash. Sell your weapon if it gives you enough money for a [Ornate Blunderbuss] (4s 14c). You'll come back later if you don't have enough yet |N|Kennah - (45.5, 58.5)| |C|Hunter| |Z|Mulgore|
 B Collect Ornate Blunderbuss (1) |L|2509 1| |N|Kennah. Buy a [Ornate Blunderbuss] from him - (45.5, 58.5)| |C|Hunter| |Z|Mulgore|
 N Buy [Light Shots] from him |N|(45.5, 58.5)| |C|Hunter| |Z|Mulgore|
-B Kennah |L|2516 1000| |N|Kennah - (45.5, 58.5)| |C|Hunter| |Z|Mulgore|
+B Buy Light Shot (x1000) |L|2516 1000| |N|Kennah - (45.5, 58.5)| |C|Hunter| |Z|Mulgore|
 A Mazzranache |QID|766| |N|Maur, Zarlman, Harken and Mull - (47.0, 57.1)| |R|Tauren| |Z|Mulgore|
 T Rite of Vision |QID|767| |N|Maur, Zarlman, Harken and Mull - (47.0, 57.1)| |R|Tauren| |Z|Mulgore|
 A Rite of Vision |QID|771| |N|Maur, Zarlman, Harken and Mull - (47.0, 57.1)| |R|Tauren| |Z|Mulgore|
@@ -46,8 +46,8 @@ C Sharing the Land |QID|745| |OIDX|1| |N|Go back and forth between the two camps
 N Buy [Ice Cold Milk] from her |N|(47.6, 61.5)| |C|Shaman/Druid| |Z|Mulgore|
 N Buy [Freshly Baked Bread] from her |N|(47.6, 61.5)| |C|Warrior| |Z|Mulgore|
 B Vendor trash |N|Jhwana - (47.6, 61.5)| |Z|Mulgore|
-B Jhwana |L|1179 10| |N|Jhwana - (47.6, 61.5)| |C|Shaman/Druid| |Z|Mulgore|
-B Jhwana |L|4541 10| |N|Jhwana - (47.6, 61.5)| |C|Warrior| |Z|Mulgore|
+B Buy Ice Cold Milk (x10) |L|1179 10| |N|Jhwana - (47.6, 61.5)| |C|Shaman/Druid| |Z|Mulgore|
+B Buy Freshly Baked Bread (x10) |L|4541 10| |N|Jhwana - (47.6, 61.5)| |C|Warrior| |Z|Mulgore|
 T Winterhoof Cleansing |QID|754| |N|Mull and Baine - (48.5, 60.4)| |R|Tauren| |Z|Mulgore|
 A Thunderhorn Totem |QID|756| |N|Mull and Baine - (48.5, 60.4)| |R|Tauren| |Z|Mulgore|
 T Sharing the Land |QID|745| |N|Mull and Baine - (48.5, 60.4)| |R|Tauren| |Z|Mulgore|
@@ -82,7 +82,7 @@ B Vendor trash. Sell your weapon if it gives you enough money for a [Wooden Mall
 B Collect Wooden Mallet (1) |L|2493 1| |N|Mahnott. Buy a [Wooden Mallet] from him - (45.7, 58.6)| |C|Warrior| |Z|Mulgore|
 B Vendor trash. Sell your weapon if it gives you enough money for a [Ornate Blunderbuss] (4s 14c). You'll come back later if you don't have enough yet |N|Kennah - (45.5, 58.5)| |C|Hunter| |Z|Mulgore|
 B Collect Ornate Blunderbuss (1) |L|2509 1| |N|Kennah. Buy a [Ornate Blunderbuss] from him - (45.5, 58.5)| |C|Hunter| |Z|Mulgore|
-B Loorat |L|2516 1000| |N|Loorat - (45.9, 57.7)| |C|Hunter| |Z|Mulgore|
+B Buy Light Shot (x1000) |L|2516 1000| |N|Loorat - (45.9, 57.7)| |C|Hunter| |Z|Mulgore|
 B Vendor trash and repair |N|Harant - (45.9, 58.7)| |O| |Z|Mulgore|
 T Swoop Hunting |QID|761| |N|Harken - (48.7, 59.3)| |Z|Mulgore|
 T Thunderhorn Totem |QID|756| |N|Mull - (48.5, 60.4)| |R|Tauren| |Z|Mulgore|
@@ -94,8 +94,8 @@ t Train your class spells |N|Yaw - (47.8, 55.7)| |C|Hunter| |Z|Mulgore|
 N Buy [Ice Cold Milk] from him |N|(46.6, 61.1)| |C|Shaman/Druid| |Z|Mulgore|
 N Buy [Freshly Baked Bread] from him |N|(46.6, 61.1)| |C|Warrior| |Z|Mulgore|
 B Vendor Trash |N|Innkeeper Kauth - (46.6, 61.1)| |C|!Hunter| |Z|Mulgore|
-B Innkeeper Kauth |L|1179 10| |N|Innkeeper Kauth - (46.6, 61.1)| |C|Shaman/Druid| |Z|Mulgore|
-B Innkeeper Kauth |L|4541 10| |N|Innkeeper Kauth - (46.6, 61.1)| |C|Warrior| |Z|Mulgore|
+B Buy Ice Cold Milk (x10) |L|1179 10| |N|Innkeeper Kauth - (46.6, 61.1)| |C|Shaman/Druid| |Z|Mulgore|
+B Buy Freshly Baked Bread (x10) |L|4541 10| |N|Innkeeper Kauth - (46.6, 61.1)| |C|Warrior| |Z|Mulgore|
 C Mazzranache |QID|766| |OIDX|1| |N|Finish getting the items for Mazzranache Prairie Wolf Heart (1)| |O| |Z|Mulgore|
 C Swoop Hunting |QID|761| |OIDX|1| |N|Kill Swoops throughout Mulgore. Loot them for their Quills Trophy Swoop Quill (8)| |O| |Z|Mulgore|
 C Thunderhorn Cleansing |QID|758| |OIDX|1| |N|Use the [Thunderhorn Cleansing Totem] at the Well Cleanse the Thunderhorn Water Well (1)| |R|Tauren| |Z|Mulgore|
@@ -139,7 +139,7 @@ T Swoop Hunting |QID|761| |N|(47.4, 62.0)| |R|!Tauren| |Z|Mulgore|
 T Dwarven Digging |QID|746| |N|Baine and Ruul - (47.5, 60.2)| |R|!Tauren| |Z|Mulgore|
 T Dangers of the Windfury |QID|743| |N|Baine and Ruul - (47.5, 60.2)| |R|!Tauren| |Z|Mulgore|
 N Buy [Heavy Shots] from him |N|(45.5, 58.5)| |C|Hunter| |Z|Mulgore|
-B Kennah |L|2519 1000| |N|Kennah - (45.5, 58.5)| |C|Hunter| |Z|Mulgore|
+B Buy Heavy Shot (x1000) |L|2519 1000| |N|Kennah - (45.5, 58.5)| |C|Hunter| |Z|Mulgore|
 T Mazzranache |QID|766| |N|Maur - (47.0, 57.1)| |Z|Mulgore|
 t Train your class spells |N|Krang - (49.5, 60.6)| |C|Warrior| |Z|Mulgore|
 A Veteran Uzzek |QID|1505| |N|Krang - (49.5, 60.6)| |C|Warrior| |Z|Mulgore|
@@ -162,8 +162,8 @@ T Taming the Beast |QID|6088| |N|Yaw - (47.8, 55.7)| |C|Hunter| |Z|Mulgore|
 A Training the Beast |QID|6089| |N|Yaw - (47.8, 55.7)| |C|Hunter| |Z|Mulgore|
 N Buy [Ice Cold Milk] from her |N|(47.6, 61.5)| |C|Shaman/Druid| |Z|Mulgore|
 N Buy [Freshly Baked Bread] from her |N|(47.6, 61.5)| |C|Warrior| |Z|Mulgore|
-B Jhwana |L|1179 20| |N|Jhwana - (47.6, 61.5)| |C|Shaman/Druid| |Z|Mulgore|
-B Jhwana |L|4541 20| |N|Jhwana - (47.6, 61.5)| |C|Warrior| |Z|Mulgore|
+B Buy Ice Cold Milk (x20) |L|1179 20| |N|Jhwana - (47.6, 61.5)| |C|Shaman/Druid| |Z|Mulgore|
+B Buy Freshly Baked Bread (x20) |L|4541 20| |N|Jhwana - (47.6, 61.5)| |C|Warrior| |Z|Mulgore|
 A The Hunter's Way |QID|861| |N|Skorn - (46.8, 60.2)| |Z|Mulgore|
 T The Ravaged Caravan |QID|751| |N|He patrols along the eastern road - (55.1, 60.6)| |Z|Mulgore|
 A The Venture Co |QID|764| |N|He patrols along the eastern road - (55.1, 60.6)| |Z|Mulgore|

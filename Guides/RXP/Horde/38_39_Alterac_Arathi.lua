@@ -14,22 +14,34 @@ T Errand for Apothecary Zinge |QID|238| |N|Zinge - (50.1, 68.0)| |Z|Undercity|
 A Into the Field |QID|243| |N|Zinge - (50.1, 68.0)| |Z|Undercity|
 T Bring the End |QID|3341| |N|Andrew - (74.0, 33.3) (RFD Dungeon Quest)| |D|RFD| |Z|Undercity|
 B Buy a [Massive Longbow] from her if it's available |N|Abigail - (54.7, 38.8)| |C|Hunter| |Z|Undercity|
-B Geoffrey. Buy a [Falchion] from him |L|2528 1| |N|Geoffrey. Buy a [Falchion] from him - (58.7, 33.0)| |C|Rogue| |Z|Undercity|
-B Geoffrey. Buy a [Rondel] from him |L|2534 1| |N|Geoffrey. Buy a [Rondel] from him - (58.7, 33.0)| |C|Rogue| |Z|Undercity|
-B Zane. Buy a [Blackbone Wand] from him |L|5239 1| |N|Zane. Buy a [Blackbone Wand] from him - (69.5, 26.9)| |C|Priest| |Z|Undercity|
-B NathanielBuy two stacks of [Gleaming Throwing Axe] from him |L|15326 400| |N|NathanielBuy two stacks of [Gleaming Throwing Axe] from him - (77.5, 49.6)| |C|Warrior| |Z|Undercity|
+B Buy Falchion (x1) |L|2528 1| |N|Geoffrey. Buy a [Falchion] from him - (58.7, 33.0)| |C|Rogue| |Z|Undercity|
+B Buy Rondel (x1) |L|2534 1| |N|Geoffrey. Buy a [Rondel] from him - (58.7, 33.0)| |C|Rogue| |Z|Undercity|
+B Buy Blackbone Wand (x1) |L|5239 1| |N|Zane. Buy a [Blackbone Wand] from him - (69.5, 26.9)| |C|Priest| |Z|Undercity|
+B Buy Gleaming Throwing Axe (x400) |L|15326 400| |N|NathanielBuy two stacks of [Gleaming Throwing Axe] from him - (77.5, 49.6)| |C|Warrior| |Z|Undercity|
 N If you have money leftover after buying [Nature Protection Potions], purchase the following items: |O| |C|Warrior| |AH| |Z|Undercity|
-B Auctioneer Stockton in the Trade Quarter |L|4480 8| |N|Auctioneer Stockton in the Trade Quarter| |O| |C|Warrior| |AH| |Z|Undercity|
-C Auctioneer Stockton in the Trade Quarter |QID|1713| |L|6052 2| |N|Auctioneer Stockton in the Trade Quarter - (71.4, 46.7)| |C|Warrior| |AH| |Z|Undercity|
+B Buy Thundering Charm (x8) |L|4480 8| |N|Auctioneer Stockton in the Trade Quarter| |O| |C|Warrior| |AH| |Z|Undercity|
+B Buy Burning Charm (x8) |L|4479 8| |N|Auctioneer Stockton in the Trade Quarter| |O| |C|Warrior| |AH| |Z|Undercity|
+B Buy Cresting Charm (x8) |L|4481 8| |N|Auctioneer Stockton in the Trade Quarter| |O| |C|Warrior| |AH| |Z|Undercity|
+B Buy Liferoot (x8) |L|3357 8| |N|Auctioneer Stockton in the Trade Quarter| |O| |C|Warrior| |AH| |Z|Undercity|
+C Collect Nature Protection Potion (x2) |QID|1713| |L|6052 2| |N|Auctioneer Stockton in the Trade Quarter (71.4, 46.7)| |C|Warrior| |AH| |Z|Undercity|
 N If you have money leftover, purchase the following items: |N|[Group] (71.4, 46.7)| |P|GROUP| |AH| |Z|Undercity|
-B Auctioneer Stockton in the Trade Quarter |L|3829 1| |N|[Group] Auctioneer Stockton in the Trade Quarter - (71.4, 46.7)| |P|GROUP| |AH| |Z|Undercity|
+B Buy Frost Oil (x1) |L|3829 1| |N|[Group] Auctioneer Stockton in the Trade Quarter - (71.4, 46.7)| |P|GROUP| |AH| |Z|Undercity|
+B Buy Gyrochronatom (x1) |L|4389 1| |N|[Group] Auctioneer Stockton in the Trade Quarter - (71.4, 46.7)| |P|GROUP| |AH| |Z|Undercity|
+B Buy Healing Potion (x1) |L|929 1| |N|[Group] Auctioneer Stockton in the Trade Quarter - (71.4, 46.7)| |P|GROUP| |AH| |Z|Undercity|
+B Buy Lesser Invisibility Potion (x1) |L|3823 1| |N|[Group] Auctioneer Stockton in the Trade Quarter - (71.4, 46.7)| |P|GROUP| |AH| |Z|Undercity|
+B Buy Patterned Bronze Bracers (x1) |L|2868 1| |N|[Group] Auctioneer Stockton in the Trade Quarter - (71.4, 46.7)| |P|GROUP| |AH| |Z|Undercity|
+B Buy Blue Pearl (x9) |L|4611 9| |N|[Group] Auctioneer Stockton in the Trade Quarter - (71.4, 46.7)| |P|GROUP| |AH| |Z|Undercity|
+B Buy Buzzard Wing (x4) |L|3404 4| |N|[Group] Auctioneer Stockton in the Trade Quarter - (71.4, 46.7)| |P|GROUP| |AH| |Z|Undercity|
 N If you have money leftover, purchase the following items: |N|(71.4, 46.7)| |P|SOLO| |AH| |Z|Undercity|
-B Auctioneer Stockton in the Trade Quarter |L|3829 1| |N|Auctioneer Stockton in the Trade Quarter - (71.4, 46.7)| |P|SOLO| |AH| |Z|Undercity|
-B Ronald. Buy [Soothing Spices] from him |L|3713 1| |N|Ronald. Buy [Soothing Spices] from him - (62.3, 43.1)| |Z|Undercity|
-C Cresting Exiles. Loot them for their [Cresting Charms] |QID|1713| |L|4481 8| |N|Cresting Exiles. Loot them for their [Cresting Charms] - (66.7, 29.7)| |C|Warrior| |Z|Arathi Highlands|
+B Buy Frost Oil (x1) |L|3829 1| |N|Auctioneer Stockton in the Trade Quarter - (71.4, 46.7)| |P|SOLO| |AH| |Z|Undercity|
+B Buy Gyrochronatom (x1) |L|4389 1| |N|Auctioneer Stockton in the Trade Quarter - (71.4, 46.7)| |P|SOLO| |AH| |Z|Undercity|
+B Buy Blue Pearl (x9) |L|4611 9| |N|Auctioneer Stockton in the Trade Quarter - (71.4, 46.7)| |P|SOLO| |AH| |Z|Undercity|
+B Buy Buzzard Wing (x4) |L|3404 4| |N|Auctioneer Stockton in the Trade Quarter - (71.4, 46.7)| |P|SOLO| |AH| |Z|Undercity|
+B Buy Soothing Spices (x1) |L|3713 1| |N|Ronald. Buy [Soothing Spices] from him - (62.3, 43.1)| |Z|Undercity|
+C Collect Cresting Charm (x8) |QID|1713| |L|4481 8| |N|Cresting Exiles. Loot them for their [Cresting Charms] (66.7, 29.7)| |C|Warrior| |Z|Arathi Highlands|
 N Be careful! Thundering Exiles have high burst damage |N|(52.1, 50.6)| |C|Warrior| |Z|Arathi Highlands|
-C Thundering Exiles. Loot them for their [Thundering Charms] |QID|1713| |L|4480 8| |N|Thundering Exiles. Loot them for their [Thundering Charms] - (52.1, 50.6)| |C|Warrior| |Z|Arathi Highlands|
-C Burning Exiles. Loot them for their [Burning Charms] |QID|1713| |L|4479 8| |N|Burning Exiles. Loot them for their [Burning Charms] - (25.5, 30.1)| |C|Warrior| |Z|Arathi Highlands|
+C Collect Thundering Charm (x8) |QID|1713| |L|4480 8| |N|Thundering Exiles. Loot them for their [Thundering Charms] (52.1, 50.6)| |C|Warrior| |Z|Arathi Highlands|
+C Collect Burning Charm (x8) |QID|1713| |L|4479 8| |N|Burning Exiles. Loot them for their [Burning Charms] (25.5, 30.1)| |C|Warrior| |Z|Arathi Highlands|
 F Fly to Tarren Mill |N|Michael - (63.3, 48.5)| |O| |Z|Undercity|
 A Bracers of Binding |QID|557| |N|Bel'varil and Wordeen - (61.6, 20.9)| |C|!Warrior| |Z|Undercity|
 R Travel to Hillsbrad Foothills |N|(61.6, 20.9)| |C|!Warrior| |Z|Hillsbrad Foothills|

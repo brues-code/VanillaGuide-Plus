@@ -58,7 +58,11 @@ N [Frost Oil] |N|(23.8, 71.8)| |O| |AH| |Z|Ironforge|
 N [Gyrochronatom] (Don't buy this unless you have a [Frost Oil]) |N|(23.8, 71.8)| |O| |AH| |Z|Ironforge|
 N [Patterned Bronze Bracers] (Don't buy this unless you have a [Gyrochronatom] and [Frost Oil]) |N|(23.8, 71.8)| |O| |AH| |Z|Ironforge|
 N [Healing Potion] and [Lesser Invisibility Potion] (Don't buy this unless you have a [Gyrochronatom] and [Frost Oil]) |N|(23.8, 71.8)| |O| |AH| |Z|Ironforge|
-B an Ironforge Auctioneer |L|3829 1| |N|an Ironforge Auctioneer - (23.8, 71.8)| |O| |AH| |Z|Ironforge|
+B Buy Frost Oil (x1) |L|3829 1| |N|an Ironforge Auctioneer - (23.8, 71.8)| |O| |AH| |Z|Ironforge|
+B Buy Gyrochronatom (x1) |L|4389 1| |N|an Ironforge Auctioneer - (23.8, 71.8)| |O| |AH| |Z|Ironforge|
+B Buy Patterned Bronze Bracers (x1) |L|2868 1| |N|an Ironforge Auctioneer - (23.8, 71.8)| |O| |AH| |Z|Ironforge|
+B Buy Healing Potion (x1) |L|929 1| |N|an Ironforge Auctioneer - (23.8, 71.8)| |O| |AH| |Z|Ironforge|
+B Buy Lesser Invisibility Potion (x1) |L|3823 1| |N|an Ironforge Auctioneer - (23.8, 71.8)| |O| |AH| |Z|Ironforge|
 R Bailey Stonemantle |N|(35.9, 60.2)| |Z|Ironforge|
 N 15 [Silk Cloth] (If you have them) |N|(35.9, 60.2)| |Z|Ironforge|
 R Bailey Stonemantle |N|(35.9, 60.2)| |Z|Ironforge|
@@ -67,7 +71,7 @@ N [Wildkin Feather] |N|(35.9, 60.2)| |Z|Ironforge|
 N [Sharpbeak's Feather] |N|(35.9, 60.2)| |Z|Ironforge|
 N Buy the following from the Auction House |N|(23.8, 71.8)| |O| |AH| |Z|Ironforge|
 N [Silk Cloth] |N|(23.8, 71.8)| |O| |AH| |Z|Ironforge|
-B an Ironforge Auctioneer |L|4306 15| |N|an Ironforge Auctioneer - (23.8, 71.8)| |O| |AH| |Z|Ironforge|
+B Buy Silk Cloth (x15) |L|4306 15| |N|an Ironforge Auctioneer - (23.8, 71.8)| |O| |AH| |Z|Ironforge|
 F Fly to Loch Modan |N|Gryth Thurden - (55.5, 47.7)| |Z|Ironforge|
 R Travel to Loch Modan |N|(36.5, 48.4) (Ulda Dungeon Quest)| |D|Ulda| |Z|Loch Modan|
 A Uldaman Reagent Run |QID|17| |N|Ghak Healtouch - (37.1, 49.4) (Ulda Dungeon Quest)| |D|Ulda| |Z|Loch Modan|
@@ -127,7 +131,8 @@ T The Lost Dwarves |QID|2398| |N|(Ulda Dungeon Quest)| |D|Ulda| |Z|Westfall|
 A The Hidden Chamber |QID|2240| |N|(Ulda Dungeon Quest)| |D|Ulda| |Z|Westfall|
 N Kill Revelosh. Loot him for [The Shaft of Tsol] |N|(Ulda Dungeon Quest)| |D|Ulda| |Z|Westfall|
 N Note other party members can loot these items, and then combine them to create the [Staff of Prehistoria]. Only one person in the group needs to do this |N|(Ulda Dungeon Quest)| |D|Ulda| |Z|Westfall|
-C Baelog's Chest. Loot it for the [Gni'kiv Medallion] |QID|2240| |L|7740 1| |N|Open Baelog's Chest. Loot it for the [Gni'kiv Medallion] (Ulda Dungeon Quest)| |D|Ulda| |Z|Westfall|
+C Collect Gni'kiv Medallion (x1) |QID|2240| |L|7740 1| |N|Open Baelog's Chest. Loot it for the [Gni'kiv Medallion] (Ulda Dungeon Quest)| |D|Ulda| |Z|Westfall|
+C Collect The Shaft of Tsol (x1) |QID|2240| |L|7741 1| |N|Open Baelog's Chest. Loot it for the [Gni'kiv Medallion] (Ulda Dungeon Quest)| |D|Ulda| |Z|Westfall|
 N Use the [Staff of Prehistoria] on the Keystone to summon Ironaya |N|(Ulda Dungeon Quest)| |D|Ulda| |Z|Westfall|
 N Kill Ironaya. Run into the Hidden Chamber she came from after |N|(Ulda Dungeon Quest)| |D|Ulda| |Z|Westfall|
 C The Hidden Chamber |QID|2240| |OIDX|1| |N|Use the [Gni'kiv Medallion] and [The Shaft of Tsol] to combine them into the [Staff of Prehistoria] (Ulda Dungeon Quest)| |D|Ulda| |Z|Westfall|
@@ -174,7 +179,7 @@ C An Ambassador of Evil |QID|762| |OIDX|1| |N|[Group] Ambassador Infernus. Loot 
 R Travel to Searing Gorge |N|(76.3, 56.4)| |O| |Z|Searing Gorge|
 A Caught! |QID|4449| |N|on the Wooden Outhouse - (65.6, 62.2)| |Z|Searing Gorge|
 C Caught! |QID|4449| |OIDX|1| |N|Dark Iron Geologists. Loot them for their Silk Cloth if you still need more (63.1, 60.9)| |Z|Searing Gorge|
-C Dark Iron Geologists. Loot them for their Silk Cloth if you still need more |L|4306 15| |N|Dark Iron Geologists. Loot them for their Silk Cloth if you still need more - (63.1, 60.9)| |Z|Searing Gorge|
+C Collect Silk Cloth (x15) |L|4306 15| |N|Dark Iron Geologists. Loot them for their Silk Cloth if you still need more (63.1, 60.9)| |Z|Searing Gorge|
 T Caught! |QID|4449| |N|on the Wooden Outhouse - (65.6, 62.2)| |Z|Searing Gorge|
 A Ledger from Tanaris |QID|4450| |N|on the Wooden Outhouse - (65.6, 62.2)| |Z|Searing Gorge|
 C Ledger from Tanaris |QID|4450| |OIDX|1| |N|the Goodsteel Ledger on the ground (65.5, 62.2)| |Z|Searing Gorge|
@@ -222,9 +227,9 @@ H Feathermoon Stronghold |N|Hearth to Feathermoon Stronghold| |O| |Z|Westfall|
 A The Sunken Temple |QID|3445| |N|Angelas Moonbreeze - (31.8, 45.6)| |Z|Feralas|
 N Use the [OOX-22/FE Distress Beacon] to start the quest |N|(26.6, 53.4)| |Z|Feralas|
 N If you don't find it by the time you are 47, skip it |N|(26.6, 53.4)| |Z|Feralas|
-C Hatecrest Nagas until you loot the [OOX-22/FE Distress Beacon] |QID|2766| |L|8705 1| |N|Kill Hatecrest Nagas until you loot the [OOX-22/FE Distress Beacon] (26.6, 53.4)| |Z|Feralas|
+C Collect OOX-22/FE Distress Beacon (x1) |QID|2766| |L|8705 1| |N|Kill Hatecrest Nagas until you loot the [OOX-22/FE Distress Beacon] (26.6, 53.4)| |Z|Feralas|
 A Find OOX-22/FE! |QID|2766| |N|Kill Hatecrest Nagas until you loot the [OOX-22/FE Distress Beacon] - (26.6, 53.4)| |Z|Feralas|
-C Find OOX-22/FE! |QID|2766| |L|8705 1| |N|Use the [OOX-22/FE Distress Beacon] to start the quest| |Z|Feralas|
+C Collect OOX-22/FE Distress Beacon (x1) |QID|2766| |L|8705 1| |N|Use the [OOX-22/FE Distress Beacon] to start the quest| |Z|Feralas|
 A Find OOX-22/FE! |QID|2766| |N|Use the [OOX-22/FE Distress Beacon] to start the quest| |Z|Feralas|
 R Swim to the mainland |N|(47.3, 44.7)| |O| |Z|Feralas|
 N Do NOT accept the follow up and attempt to do the Escort, unless you are in a group |N|(53.4, 55.7)| |Z|Feralas|
@@ -234,7 +239,7 @@ C Rescue OOX-22/FE! |QID|2767| |OIDX|1| |N|[Group] Escort the Homing Robot OOX-2
 N The Cursed Sycamore patrol path is marked on your map |N|(54.1, 71.5)| |Z|Feralas|
 N If you cannot find the Cursed Sycamore but instead see a Wandering Forest Walker, kill it and wait until a Cursed Sycamore spawns. There can only ever be one of these alive at a time |N|(54.1, 71.5)| |Z|Feralas|
 C Sweet Amber |QID|51| |OIDX|1| |N|a Cursed Sycamore. Loot it for its Sycamore Branch (54.1, 71.5)| |Z|Feralas|
-C a Hippogryph Egg from a nest |QID|2741| |L|8564 1| |N|a Hippogryph Egg from a nest - (55.9, 76.0)| |Z|Feralas|
+C Collect Hippogryph Egg (x1) |QID|2741| |L|8564 1| |N|a Hippogryph Egg from a nest (55.9, 76.0)| |Z|Feralas|
 A An Orphan Looking For a Home |QID|3841| |N|Kindal Moonweaver - (65.9, 45.7)| |Z|Feralas|
 T Thalanaar Delivery |QID|4281| |N|Falfindel Waywarder - (89.6, 46.6)| |Z|Feralas|
 F Fly to Tanaris |N|Thyssiana - (89.5, 45.9)| |Z|Feralas|

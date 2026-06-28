@@ -13,7 +13,7 @@ N Defeat Tapoke "Slim" Jahn. Slim's Friend will run away once Tapoke "Slim" Jahn
 N Use any Crowd Control (CC) on Slim's Friend if needed |N|(10.8, 59.6)| |Z|Wetlands|
 C The Missing Diplomat |QID|1249| |OIDX|1| |N|Quickly run outside! (10.8, 59.6)| |Z|Wetlands|
 N Buy a [Flagon of Dwarven Honeymead] from him |N|(10.7, 61.0)| |O| |Z|Wetlands|
-B Innkeeper Helbrek |L|2594 1| |N|Innkeeper Helbrek - (10.7, 61.0)| |O| |Z|Wetlands|
+B Buy Flagon of Mead (x1) |L|2594 1| |N|Innkeeper Helbrek - (10.7, 61.0)| |O| |Z|Wetlands|
 N Wait out the RP |N|(10.6, 60.8)| |Z|Wetlands|
 T The Missing Diplomat |QID|1249| |N|Mikhail - (10.6, 60.8)| |Z|Wetlands|
 A The Missing Diplomat |QID|1250| |N|Tapoke "Slim" Jahn - (10.5, 60.3)| |Z|Wetlands|
@@ -44,9 +44,10 @@ C Stormwind Ho! |QID|562| |OIDX|1| |N|Daggerspine Sirens and Daggerspine Shorehu
 T Stormwind Ho! |QID|562| |N|Lieutenant Farren Orinelle - (51.5, 58.4)| |Z|Hillsbrad Foothills|
 A Reassignment |QID|563| |N|Lieutenant Farren Orinelle - (51.5, 58.4)| |Z|Hillsbrad Foothills|
 N Buy 4 [Soothing Spices] and 1 [Fine Thread] from him |N|(48.9, 55.0)| |Z|Hillsbrad Foothills|
-B Micha Yance |L|3713 4| |N|Micha Yance - (48.9, 55.0)| |Z|Hillsbrad Foothills|
+B Buy Soothing Spices (x4) |L|3713 4| |N|Micha Yance - (48.9, 55.0)| |Z|Hillsbrad Foothills|
+B Buy Fine Thread (x1) |L|2321 1| |N|Micha Yance - (48.9, 55.0)| |Z|Hillsbrad Foothills|
 N Buy 4 [Soothing Spices] from him |N|(48.9, 55.0)| |Z|Hillsbrad Foothills|
-B Micha Yance |L|3713 4| |N|Micha Yance - (48.9, 55.0)| |Z|Hillsbrad Foothills|
+B Buy Soothing Spices (x4) |L|3713 4| |N|Micha Yance - (48.9, 55.0)| |Z|Hillsbrad Foothills|
 B Restock on [Razor Arrows] if necessary| |N|Sarah Raycroft upstairs - (49.0, 55.2)| |C|Hunter| |Z|Hillsbrad Foothills|
 A Bartolo's Yeti Fur Cloak |QID|565| |N|Bartolo Ginsetti - (49.4, 55.5)| |Z|Hillsbrad Foothills|
 R Enter the Darrow Hill Yeti Cave |N|(45.5, 31.2)| |O| |Z|Hillsbrad Foothills|
@@ -67,16 +68,16 @@ C Syndicate Assassins |QID|505| |OIDX|1| |N|Kill Syndicate Thieves and Syndicate
 C Costly Menace |QID|564| |OIDX|1| |N|Finish off kiling Mountain Lions keep killing any Hulking Mountain Lions you see (38.8, 91.1)| |Z|Alterac Mountains|
 N Go up and down along the River until you've completed it |N|(69.7, 72.7)| |Z|Alterac Mountains|
 N Be careful not to run into Narillasanz a level 44 elite red dragon that may be patroling around the area |N|(69.7, 72.7)| |Z|Alterac Mountains|
-C Snapjaws. Loot them for their Turtle Meat |QID|555| |L|3712 10| |N|Snapjaws. Loot them for their Turtle Meat - (69.7, 72.7)| |Z|Alterac Mountains|
+C Collect Turtle Meat (x10) |QID|555| |L|3712 10| |N|Snapjaws. Loot them for their Turtle Meat (69.7, 72.7)| |Z|Alterac Mountains|
 N Be careful not to run into Narillasanz a level 44 elite red dragon that may be patroling around the area |N|(61.8, 35.7)| |Z|Alterac Mountains|
 C Costly Menace |QID|564| |OIDX|2| |N|Finish off kiling Hulking Mountain Lions. If there's not enough spawns to complete the objective you can find more in the area north of Strahnbrad (61.8, 35.7)| |Z|Alterac Mountains|
 R Travel to Western Plaguelands |N|(42.9, 85.1)| |Z|Western Plaguelands|
 f Get the Western Plaguelands Flight Path |N|Bibilfaz Featherwhistle - (42.9, 85.1)| |Z|Western Plaguelands|
 F Fly to Southshore |N|Bibilfaz Featherwhistle - (42.9, 85.1)| |O| |Z|Western Plaguelands|
 N Buy 1 [Fine Thread] from him |N|(48.9, 55.0)| |Z|Hillsbrad Foothills|
-B Micha Yance |L|2321 1| |N|Micha Yance - (48.9, 55.0)| |Z|Hillsbrad Foothills|
+B Buy Fine Thread (x1) |L|2321 1| |N|Micha Yance - (48.9, 55.0)| |Z|Hillsbrad Foothills|
 N Buy 1 [Soothing Spice] from him |N|(48.9, 55.0)| |Z|Hillsbrad Foothills|
-B Micha Yance |L|3713 1| |N|Micha Yance - (48.9, 55.0)| |Z|Hillsbrad Foothills|
+B Buy Soothing Spices (x1) |L|3713 1| |N|Micha Yance - (48.9, 55.0)| |Z|Hillsbrad Foothills|
 T Bartolo's Yeti Fur Cloak |QID|565| |N|Bartolo Ginsetti - (49.4, 55.5)| |Z|Hillsbrad Foothills|
 T Encrypted Letter |QID|511| |N|Loremaster Dibbs - (50.6, 57.1)| |Z|Hillsbrad Foothills|
 A Letter to Stormpike |QID|514| |N|Loremaster Dibbs - (50.6, 57.1)| |Z|Hillsbrad Foothills|
@@ -96,7 +97,9 @@ N Deneb Walker |N|(27.0, 58.8)| |O| |Z|Arathi Highlands|
 N Buy the [Expert First Aid - Under Wraps], [Manual: Heavy Silk Bandage] and [Manual: Mageweave Bandage] from him |N|(27.0, 58.8)| |O| |Z|Arathi Highlands|
 N Deneb Walker also has limited supply items such as [Scrolls] and [Potions] as well which you should buy |N|(27.0, 58.8)| |O| |C|!Warrior/!Rogue| |Z|Arathi Highlands|
 N Deneb Walker also has limited supply items such as [Scrolls] and [Potions] as well which you should buy |N|(27.0, 58.8)| |O| |C|Warrior/Rogue| |Z|Arathi Highlands|
-B Stromgarde Keep to further train your [First Aid] |L|16084 1| |N|Stromgarde Keep to further train your [First Aid] - (27.0, 58.8)| |O| |Z|Arathi Highlands|
+B Buy Expert First Aid - Under Wraps (x1) |L|16084 1| |N|Stromgarde Keep to further train your [First Aid] - (27.0, 58.8)| |O| |Z|Arathi Highlands|
+B Buy Manual: Heavy Silk Bandage (x1) |L|16112 1| |N|Stromgarde Keep to further train your [First Aid] - (27.0, 58.8)| |O| |Z|Arathi Highlands|
+B Buy Manual: Mageweave Bandage (x1) |L|16113 1| |N|Stromgarde Keep to further train your [First Aid] - (27.0, 58.8)| |O| |Z|Arathi Highlands|
 R Travel to Hillsbrad Foothills |N|(59.7, 20.2)| |O| |Z|Hillsbrad Foothills|
 N It respawns about every 7 minutes after being killed or reaching Tarren Mill |N|(59.7, 20.2)| |O| |Z|Hillsbrad Foothills|
 N Cast [Eagle Eye] to try and find the Forsaken Courier |N|(59.7, 20.2)| |O| |C|Hunter| |Z|Hillsbrad Foothills|

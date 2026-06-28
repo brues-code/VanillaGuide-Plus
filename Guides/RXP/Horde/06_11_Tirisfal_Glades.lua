@@ -26,7 +26,7 @@ t Train [Fireball] & [Fire Blast] |N|Cain on the second floor - (62.0, 52.5)| |C
 t Train [Parry] |N|Austil - (61.9, 52.5)| |C|Warrior| |Z|Tirisfal Glades|
 t Train [Sinister Strike] |N|Marion on the second floor - (61.8, 52.0)| |C|Rogue| |Z|Tirisfal Glades|
 N Buy the [Grimoire of Blood Pact] from her |N|(61.6, 52.6)| |C|Warlock| |Z|Tirisfal Glades|
-B Grimoire of Blood Pact |L|16321 1| |N|Gina Lang on the second floor - (61.6, 52.6)| |C|Warlock| |Z|Tirisfal Glades|
+B Grimoire of Blood Pact - Grimoire of Blood Pact (Rank 1) (x1) |L|16321 1| |N|Gina Lang on the second floor - (61.6, 52.6)| |C|Warlock| |Z|Tirisfal Glades|
 B Vendor Trash |N|Gina Lang on the second floor - (61.6, 52.6)| |C|Warlock| |Z|Tirisfal Glades|
 t Blood Pact (Rank 1) |N|Gina Lang on the second floor - (61.6, 52.6)| |C|Warlock| |Z|Tirisfal Glades|
 t Train [Shadow Bolt] & [Life Tap] |N|Rupert - (61.6, 52.4)| |C|Warlock| |Z|Tirisfal Glades|
@@ -36,9 +36,10 @@ N Buy [Ice Cold Milk] from her |N|(61.7, 52.1)| |C|Mage/Priest| |Z|Tirisfal Glad
 N Buy [Red-speckled Mushrooms] from her |N|(61.7, 52.1)| |C|Warrior/Rogue| |Z|Tirisfal Glades|
 N Buy [Ice Cold Milk] and [Red-speckled Mushrooms] from her |N|(61.7, 52.1)| |C|Warlock| |Z|Tirisfal Glades|
 B Vendor Trash |N|Innkeeper Renee - (61.7, 52.1)| |Z|Tirisfal Glades|
-B Innkeeper Renee |L|1179 15| |N|Innkeeper Renee - (61.7, 52.1)| |C|Mage/Priest| |Z|Tirisfal Glades|
-B Innkeeper Renee |L|4605 10| |N|Innkeeper Renee - (61.7, 52.1)| |C|Rogue/Warrior| |Z|Tirisfal Glades|
-B Innkeeper Renee |L|1179 10| |N|Innkeeper Renee - (61.7, 52.1)| |C|Warlock| |Z|Tirisfal Glades|
+B Buy Ice Cold Milk (x15) |L|1179 15| |N|Innkeeper Renee - (61.7, 52.1)| |C|Mage/Priest| |Z|Tirisfal Glades|
+B Buy Red-speckled Mushroom (x10) |L|4605 10| |N|Innkeeper Renee - (61.7, 52.1)| |C|Rogue/Warrior| |Z|Tirisfal Glades|
+B Buy Ice Cold Milk (x10) |L|1179 10| |N|Innkeeper Renee - (61.7, 52.1)| |C|Warlock| |Z|Tirisfal Glades|
+B Buy Red-speckled Mushroom (x5) |L|4605 5| |N|Innkeeper Renee - (61.7, 52.1)| |C|Warlock| |Z|Tirisfal Glades|
 A A New Plague |QID|367| |N|Johaan - (59.5, 52.4)| |Z|Tirisfal Glades|
 N You need Lesser Heal Rank 2 for this quest |N|(59.2, 46.5)| |C|Priest| |Z|Tirisfal Glades|
 C Garments of Darkness |QID|5650| |OIDX|1| |N|Cast [Lesser Heal] and [Power Word: Fortitude] on Deathguard Kel Heal and fortify Deathguard Kel (1)| |C|Priest| |Z|Tirisfal Glades|
@@ -142,9 +143,10 @@ N Buy [Ice Cold Milk] from her |N|(61.7, 52.1)| |C|Mage/Priest| |Z|Tirisfal Glad
 N Buy [Red-speckled Mushrooms] from her |N|(61.7, 52.1)| |C|Warrior/Rogue| |Z|Tirisfal Glades|
 N Buy [Ice Cold Milk] and [Red-speckled Mushrooms] from her |N|(61.7, 52.1)| |C|Warlock| |Z|Tirisfal Glades|
 B Vendor Trash |N|Innkeeper Renee - (61.7, 52.1)| |Z|Tirisfal Glades|
-B Innkeeper Renee |L|1179 20| |N|Innkeeper Renee - (61.7, 52.1)| |C|Mage/Priest| |Z|Tirisfal Glades|
-B Innkeeper Renee |L|4605 20| |N|Innkeeper Renee - (61.7, 52.1)| |C|Rogue/Warrior| |Z|Tirisfal Glades|
-B Innkeeper Renee |L|1179 10| |N|Innkeeper Renee - (61.7, 52.1)| |C|Warlock| |Z|Tirisfal Glades|
+B Buy Ice Cold Milk (x20) |L|1179 20| |N|Innkeeper Renee - (61.7, 52.1)| |C|Mage/Priest| |Z|Tirisfal Glades|
+B Buy Red-speckled Mushroom (x20) |L|4605 20| |N|Innkeeper Renee - (61.7, 52.1)| |C|Rogue/Warrior| |Z|Tirisfal Glades|
+B Buy Ice Cold Milk (x10) |L|1179 10| |N|Innkeeper Renee - (61.7, 52.1)| |C|Warlock| |Z|Tirisfal Glades|
+B Buy Red-speckled Mushroom (x10) |L|4605 10| |N|Innkeeper Renee - (61.7, 52.1)| |C|Warlock| |Z|Tirisfal Glades|
 B Repair your weapon |N|Eliza Callen - (60.3, 52.8)| |C|Rogue/Warrior| |Z|Tirisfal Glades|
 C The Chill of Death |QID|375| |OIDX|1| |N|Duskbats. Loot them for their Pelts Duskbat Pelt (5)| |Z|Tirisfal Glades|
 C Collect A Letter to Yvette (1) |QID|361| |L|2839 1| |N|[Thurman's Letter] may drop from these mobs. Accept the quest if it does| |O| |Z|Tirisfal Glades|
@@ -182,9 +184,10 @@ N Buy [Ice Cold Milk] from her |N|(61.7, 52.1)| |C|Mage/Priest/Shaman| |Z|Tirisf
 N Buy [Red-speckled Mushrooms] from her |N|(61.7, 52.1)| |C|Warrior/Rogue| |Z|Tirisfal Glades|
 N Buy [Ice Cold Milk] and [Red-speckled Mushrooms] from her |N|(61.7, 52.1)| |C|Warlock| |Z|Tirisfal Glades|
 B Vendor Trash |N|Innkeeper Renee - (61.7, 52.1)| |Z|Tirisfal Glades|
-B Innkeeper Renee |L|1179 20| |N|Innkeeper Renee - (61.7, 52.1)| |C|Mage/Priest/Shaman| |Z|Tirisfal Glades|
-B Innkeeper Renee |L|4605 20| |N|Innkeeper Renee - (61.7, 52.1)| |C|Rogue/Warrior| |Z|Tirisfal Glades|
-B Innkeeper Renee |L|1179 15| |N|Innkeeper Renee - (61.7, 52.1)| |C|Warlock| |Z|Tirisfal Glades|
+B Buy Ice Cold Milk (x20) |L|1179 20| |N|Innkeeper Renee - (61.7, 52.1)| |C|Mage/Priest/Shaman| |Z|Tirisfal Glades|
+B Buy Red-speckled Mushroom (x20) |L|4605 20| |N|Innkeeper Renee - (61.7, 52.1)| |C|Rogue/Warrior| |Z|Tirisfal Glades|
+B Buy Ice Cold Milk (x15) |L|1179 15| |N|Innkeeper Renee - (61.7, 52.1)| |C|Warlock| |Z|Tirisfal Glades|
+B Buy Red-speckled Mushroom (x15) |L|4605 15| |N|Innkeeper Renee - (61.7, 52.1)| |C|Warlock| |Z|Tirisfal Glades|
 T Dillinger |QID|1818| |N|Dillinger - (58.2, 51.4)| |C|Warrior| |Z|Tirisfal Glades|
 A Ulag the Cleaver |QID|1819| |N|Dillinger - (58.2, 51.4)| |C|Warrior| |Z|Tirisfal Glades|
 C Ulag the Cleaver |QID|1819| |OIDX|1| |N|on the skull on the ground. This will summon Ulag. Kill him Ulag the Cleaver (1)| |C|Warrior| |Z|Tirisfal Glades|
@@ -360,6 +363,7 @@ t Train [Enchanting] |N|Lavinia - (62.5, 61.8)| |O| |C|Priest| |Z|Undercity|
 N Disenchant all the [Brown Linen Robes] that you made and create a [Runed Copper Rod] |N|(62.4, 61.0)| |O| |C|Priest| |Z|Undercity|
 N If you did not get a [Lesser Magic Essence] then buy one from Thaddeus if there is one available. Otherwise finish this step later |N|(62.4, 61.0)| |O| |C|Priest| |Z|Undercity|
 B Runed Copper Rod (1) |L|6218 1| |N|Thaddeus. Buy a [Copper Rod] and [Simple Wood] from him - (62.4, 61.0)| |O| |C|Priest| |Z|Undercity|
+B Simple Wood (1) |L|4470 1| |N|Thaddeus. Buy a [Copper Rod] and [Simple Wood] from him - (62.4, 61.0)| |O| |C|Priest| |Z|Undercity|
 t Train [Lesser Magic Wand] |N|Malcomb - (62.5, 60.3)| |O| |C|Priest| |Z|Undercity|
 N If you did not get a [Lesser Magic Essence] then buy one from Thaddeus if there is one available. Otherwise finish this step later |O| |C|Priest| |Z|Undercity|
 B Lesser Magic Wand (1) |L|11287 1| |N|Create a [Lesser Magic Wand]| |O| |C|Priest| |Z|Undercity|

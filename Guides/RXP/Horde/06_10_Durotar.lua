@@ -15,9 +15,9 @@ A Report to Orgnil |QID|823| |N|(55.9, 74.4)| |Z|Durotar|
 R Enter the big hut |N|(56.3, 73.8)| |O| |Z|Durotar|
 B Weighted Throwing Axe (200) |L|3131 200| |N|K'waii. Buy  [Weighted Throwing Axe] from her - (56.3, 73.4)| |C|Rogue| |Z|Durotar|
 N Buy [Refreshing Spring Water] from her --Refreshing Spring Water (20) |N|(56.3, 73.4)| |C|Warlock/Mage/Priest| |Z|Durotar|
-B K'waii |L|159 20| |N|K'waii - (56.3, 73.4)| |C|Warlock/Mage/Priest| |Z|Durotar|
+B Buy Refreshing Spring Water (x20) |L|159 20| |N|K'waii - (56.3, 73.4)| |C|Warlock/Mage/Priest| |Z|Durotar|
 N Buy [Refreshing Spring Water] from her --Refreshing Spring Water (10) |N|(56.3, 73.4)| |C|Warlock/Mage/Priest| |Z|Durotar|
-B K'waii |L|159 10| |N|K'waii - (56.3, 73.4)| |C|Warlock/Mage/Priest| |Z|Durotar|
+B Buy Refreshing Spring Water (x10) |L|159 10| |N|K'waii - (56.3, 73.4)| |C|Warlock/Mage/Priest| |Z|Durotar|
 B Vendor trash. Sell your weapon if it gives you enough money for a [Walking Stick] (5s 04c). You'll come back later if you don't have enough yet |N|Trayexir - (56.5, 73.1)| |C|Shaman| |Z|Durotar|
 B Collect Walking Stick (1) |L|2495 1| |N|Trayexir. Buy a [Walking Stick] from him - (56.5, 73.1)| |C|Shaman| |Z|Durotar|
 B Vendor trash. Sell your weapon if it gives you enough money for a [Stiletto] (4s 01c). You'll come back later if you don't have enough yet |N|Trayexir - (56.5, 73.1)| |C|Rogue| |Z|Durotar|
@@ -29,7 +29,7 @@ B Collect Tomahawk (1) |L|2490 1| |N|Trayexir. Buy a [Tomahawk] from him - (56.5
 B Vendor trash. Sell your weapon if it gives you enough money for a [Hornwood Recurve Bow] (2s 83c). You'll come back later if you don't have enough yet |N|Trayexir - (56.5, 73.1)| |C|Hunter| |Z|Durotar|
 B Collect Hornwood Recurve Bow (1) |L|2506 1| |N|Trayexir. Buy a [Hornwood Recurve Bow] from him - (56.5, 73.1)| |C|Hunter| |Z|Durotar|
 t Train [Fireball] & [Fire Blast] |N|Un'Thuwa - (56.3, 75.1)| |C|Mage| |Z|Durotar|
-C Cast [Find Minerals] and mine any Copper Vein you find for [Rough Stones]. Make [Sharpening Stones] from them |QID|786| |L|2862 1| |O| |C|Warrior/Rogue| |Z|Durotar|
+C Collect Rough Sharpening Stone (x1) |QID|786| |L|2862 1| |O| |C|Warrior/Rogue| |Z|Durotar|
 t Mining Trained |O| |C|Warrior/Rogue| |Z|Durotar|
 C A Solvent Spirit |QID|818| |OIDX|2| |N|Run down the beach. Kill Crawlers and Makruras. Loot them for their Mucus and Eyes. You do not have to finish this step here. Crawler Mucus (8)| |O| |Z|Durotar|
 R Reach the end of the beach |N|(52.2, 83.0)| |Z|Durotar|
@@ -54,9 +54,9 @@ N Buy [Haunch of Meat] from him |N|(55.6, 73.6)| |C|Warrior/Rogue/Shaman| |Z|Dur
 B Vendor trash |N|Hai'zan - (55.6, 73.6)| |C|Warrior/Rogue/Shaman| |Z|Durotar|
 B Haunch of Meat (10) |L|2287 10| |N|Hai'zan - (55.6, 73.6)| |C|Warrior/Rogue/Shaman| |Z|Durotar|
 N Buy [Refreshing Spring Water] from her --Refreshing Spring Water (20) |N|(56.3, 73.4)| |C|Warlock/Mage/Priest| |Z|Durotar|
-B K'waii |L|159 20| |N|K'waii - (56.3, 73.4)| |C|Warlock/Mage/Priest| |Z|Durotar|
+B Buy Refreshing Spring Water (x20) |L|159 20| |N|K'waii - (56.3, 73.4)| |C|Warlock/Mage/Priest| |Z|Durotar|
 N Buy [Refreshing Spring Water] from her --Refreshing Spring Water (10) |N|(56.3, 73.4)| |C|Warlock/Mage/Priest| |Z|Durotar|
-B K'waii |L|159 10| |N|K'waii - (56.3, 73.4)| |C|Warlock/Mage/Priest| |Z|Durotar|
+B Buy Refreshing Spring Water (x10) |L|159 10| |N|K'waii - (56.3, 73.4)| |C|Warlock/Mage/Priest| |Z|Durotar|
 T Thwarting Kolkar Aggression |QID|786| |N|Lar. He patrols a little - (54.2, 73.4)| |C|Shaman| |Z|Durotar|
 T Thwarting Kolkar Aggression |QID|786| |N|Lar. He patrols a little - (54.2, 73.4)| |C|!Shaman| |Z|Durotar|
 N Grind mobs on the way |N|(54.4, 62.6)| |Z|Durotar|
@@ -100,7 +100,7 @@ B Vendor trash. Sell your weapon if it gives you enough money for a [Tomahawk] (
 B Collect Tomahawk (1) |L|2490 1| |N|Uhgar. Buy a [Tomahawk] from him - (52.0, 40.5)| |C|Warrior| |R|Troll| |Z|Durotar|
 B Vendor trash. Sell your weapon if it gives you enough money for a [Hornwood Recurve Bow] (2s 83c). You'll come back later if you don't have enough yet |N|Ghrawt - (53.0, 41.0)| |C|Hunter| |Z|Durotar|
 B Collect Hornwood Recurve Bow (1) |L|2506 1| |N|Ghrawt. Buy a [Hornwood Recurve Bow] from him - (53.0, 41.0)| |C|Hunter| |Z|Durotar|
-B Ghrawt. Buy [Rough Arrows] from him |L|2512 1000| |N|Ghrawt. Buy [Rough Arrows] from him - (53.0, 41.0)| |C|Hunter| |Z|Durotar|
+B Buy Rough Arrow (x1000) |L|2512 1000| |N|Ghrawt. Buy [Rough Arrows] from him - (53.0, 41.0)| |C|Hunter| |Z|Durotar|
 N Buy [Ice Cold Milk] from him |N|(51.5, 41.6)| |C|Mage/Warlock/Priest/Shaman/Druid| |Z|Durotar|
 N Buy [Haunch of Meat] from him |N|(51.5, 41.6)| |C|Rogue/Warrior| |Z|Durotar|
 N Save 4 silver for your class spells! |N|(51.5, 41.6)| |C|Rogue/Warrior/Shaman/Warlock| |Z|Durotar|
@@ -239,8 +239,8 @@ H Razor Hill |N|Hearth to Razor Hill| |O| |Z|Orgrimmar|
 B Vendor Trash |N|Innkeeper Grosk - (51.5, 41.6)| |Z|Durotar|
 N Buy [Ice Cold Milk] from him |N|(51.5, 41.6)| |C|Mage/Warlock/Priest/Shaman| |Z|Durotar|
 N Buy [Haunch of Meat] from him |N|(51.5, 41.6)| |C|Rogue/Warrior| |Z|Durotar|
-B Innkeeper Grosk |L|1179 15| |N|Innkeeper Grosk - (51.5, 41.6)| |C|Mage/Warlock/Priest/Shaman| |Z|Durotar|
-B Innkeeper Grosk |L|2287 15| |N|Innkeeper Grosk - (51.5, 41.6)| |C|Rogue/Warrior| |Z|Durotar|
+B Buy Ice Cold Milk (x15) |L|1179 15| |N|Innkeeper Grosk - (51.5, 41.6)| |C|Mage/Warlock/Priest/Shaman| |Z|Durotar|
+B Buy Haunch of Meat (x15) |L|2287 15| |N|Innkeeper Grosk - (51.5, 41.6)| |C|Rogue/Warrior| |Z|Durotar|
 T Dark Storms |QID|806| |N|Orgnil - (52.2, 43.1)| |C|Hunter| |Z|Durotar|
 A Margoz |QID|828| |N|Orgnil - (52.2, 43.1)| |C|Hunter| |Z|Durotar|
 T Break a Few Eggs |QID|815| |N|Torka, Orgnil and Gar'Thok - (51.1, 42.5)| |C|!Hunter| |Z|Durotar|

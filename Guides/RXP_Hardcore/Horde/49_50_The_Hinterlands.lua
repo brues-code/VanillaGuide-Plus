@@ -5,7 +5,7 @@ return [[
 N 49-50 The Hinterlands |N|Converted from RestedXP guide|
 
 B Buy at least four Rune of Teleportation |N|Hannah - (82.8, 15.8)| |C|Mage| |Z|Undercity|
-B Hannah |L|17031 4| |N|Hannah - (82.8, 15.8)| |C|Mage| |Z|Undercity|
+B Buy Rune of Teleportation (x4) |L|17031 4| |N|Hannah - (82.8, 15.8)| |C|Mage| |Z|Undercity|
 A Lines of Communication |QID|2995| |N|Oran - (73.2, 32.8)| |Z|Undercity|
 R Travel toward Zinge |N|(45.2, 71.7)| |O| |Z|Undercity|
 T Return to Apothecary Zinge |QID|864| |N|Zinge - (50.0, 68.2)| |Z|Undercity|
@@ -172,13 +172,22 @@ F Fly to Undercity |N|Urda - (73.1, 32.7)| |C|!Mage| |Z|Arathi Highlands|
 F Fly to Undercity |N|Gorkas - (81.7, 81.8)| |C|!Mage| |Z|The Hinterlands|
 N Cast [Teleport: Undercity] |O| |C|Mage| |Z|The Hinterlands|
 B Buy at least four Rune of Teleportation |N|Hannah - (82.8, 15.8)| |C|Mage| |Z|Undercity|
-B Hannah |L|17031 4| |N|Hannah - (82.8, 15.8)| |C|Mage| |Z|Undercity|
+B Buy Rune of Teleportation (x4) |L|17031 4| |N|Hannah - (82.8, 15.8)| |C|Mage| |Z|Undercity|
 N Buy the following from the Auction House |N|[Group] (64.2, 49.6)| |P|GROUP| |AH| |Z|Undercity|
 N Deposit them onto the bank afterwards! |N|[Group] (64.2, 49.6)| |P|GROUP| |AH| |Z|Undercity|
-B Auctioneer Rhyker |L|8391 5| |N|[Group] Auctioneer Rhyker - (64.2, 49.6)| |P|GROUP| |AH| |Z|Undercity|
+B Buy Snickerfang Jowl (x5) |L|8391 5| |N|[Group] Auctioneer Rhyker - (64.2, 49.6)| |P|GROUP| |AH| |Z|Undercity|
+B Buy Blasted Boar Lung (x6) |L|8392 6| |N|[Group] Auctioneer Rhyker - (64.2, 49.6)| |P|GROUP| |AH| |Z|Undercity|
+B Buy Scorpok Pincer (x6) |L|8393 6| |N|[Group] Auctioneer Rhyker - (64.2, 49.6)| |P|GROUP| |AH| |Z|Undercity|
+B Buy Vulture Gizzard (x14) |L|8396 14| |N|[Group] Auctioneer Rhyker - (64.2, 49.6)| |P|GROUP| |AH| |Z|Undercity|
+B Buy Basilisk Brain (x11) |L|8394 11| |N|[Group] Auctioneer Rhyker - (64.2, 49.6)| |P|GROUP| |AH| |Z|Undercity|
+B Buy Barbecued Buzzard Wing (x10) |L|4457 10| |N|[Group] Auctioneer Rhyker - (64.2, 49.6)| |P|GROUP| |AH| |Z|Undercity|
 N Buy the following from the Auction House |N|(64.2, 49.6)| |P|SOLO| |AH| |Z|Undercity|
 N Deposit them onto the bank afterwards! |N|(64.2, 49.6)| |P|SOLO| |AH| |Z|Undercity|
-B Auctioneer Rhyker |L|8391 5| |N|Auctioneer Rhyker - (64.2, 49.6)| |P|SOLO| |AH| |Z|Undercity|
+B Buy Snickerfang Jowl (x5) |L|8391 5| |N|Auctioneer Rhyker - (64.2, 49.6)| |P|SOLO| |AH| |Z|Undercity|
+B Buy Blasted Boar Lung (x6) |L|8392 6| |N|Auctioneer Rhyker - (64.2, 49.6)| |P|SOLO| |AH| |Z|Undercity|
+B Buy Scorpok Pincer (x6) |L|8393 6| |N|Auctioneer Rhyker - (64.2, 49.6)| |P|SOLO| |AH| |Z|Undercity|
+B Buy Vulture Gizzard (x14) |L|8396 14| |N|Auctioneer Rhyker - (64.2, 49.6)| |P|SOLO| |AH| |Z|Undercity|
+B Buy Basilisk Brain (x11) |L|8394 11| |N|Auctioneer Rhyker - (64.2, 49.6)| |P|SOLO| |AH| |Z|Undercity|
 T Lines of Communication |QID|2995| |N|Oran - (73.5, 32.7)| |Z|Undercity|
 T Rin'ji's Secret |QID|2782| |N|Oran - (73.5, 32.7)| |Z|Undercity|
 A Oran's Gratitude |QID|8273| |N|Oran - (73.5, 32.7)| |Z|Undercity|
@@ -195,7 +204,7 @@ A Noggenfogger Elixir |QID|2662| |N|Marin - (51.8, 28.6)| |Z|Tanaris|
 T Noggenfogger Elixir |QID|2662| |N|Marin - (51.8, 28.6)| |Z|Tanaris|
 N Buy 2 or more additional stacks of [Noggenfogger Elixir] from him |N|(51.8, 28.6)| |Z|Tanaris|
 N [Noggenfogger Elixirs] can be used to get the [Slow Fall] buff which will be needed later in the guide. Put the additional stacks on the bank |N|(51.8, 28.6)| |Z|Tanaris|
-B Marin |L|8529 60| |N|Marin - (51.8, 28.6)| |Z|Tanaris|
+B Buy Noggenfogger Elixir (x60) |L|8529 60| |N|Marin - (51.8, 28.6)| |Z|Tanaris|
 T The Ancient Egg |QID|4787| |N|Yeh'kinya - (67.0, 22.4) (ZF Dungeon Quest)| |D|ZF| |Z|Tanaris|
 F Fly to Shadowprey Village |N|Bulkrek - (51.6, 25.4) (MARA Dungeon Quest)| |D|MARA| |Z|Tanaris|
 A Vyletongue Corruption |QID|7029| |N|Vark at the top of the hut - (23.2, 70.3) (MARA Dungeon Quest)| |D|MARA| |Z|Desolace|
@@ -207,28 +216,28 @@ R Travel to Tirisfal Glades |N|(38.4, 58.0) (MARA Dungeon Quest)| |D|MARA| |Z|Ti
 N This can be completed OUTSIDE and INSIDE of the Instance. Don't attempt to complete this now |N|(MARA Dungeon Quest)| |D|MARA| |Z|Tirisfal Glades|
 C Twisted Evils |QID|7028| |OIDX|1| |N|Kill all Monsters in Maraudon. Loot them for their Theradric Crystal Carvings (MARA Dungeon Quest)| |D|MARA| |Z|Tirisfal Glades|
 N This is completed OUTSIDE of the Instance. The Nameless Prophets may be patrolling |N|(MARA Dungeon Quest)| |D|MARA| |Z|Tirisfal Glades|
-C The Nameless Prophet. Loot it for the [Amulet of Spirits] |QID|7067| |L|17757 1| |N|Kill The Nameless Prophet. Loot it for the [Amulet of Spirits] (MARA Dungeon Quest)| |D|MARA| |Z|Tirisfal Glades|
+C Collect Amulet of Spirits (x1) |QID|7067| |L|17757 1| |N|Kill The Nameless Prophet. Loot it for the [Amulet of Spirits] (MARA Dungeon Quest)| |D|MARA| |Z|Tirisfal Glades|
 N These are only found in the Purple section outside of the Instance |N|(MARA Dungeon Quest)| |D|MARA| |Z|Tirisfal Glades|
 C Kill Shadowshard Smashers and Shadowshard Rumblers. Loot them for their Shadowshard Fragments |QID|7068| |OIDX|1| |N|Kill Shadowshard Smashers and Shadowshard Rumblers. Loot them for their Shadowshard Fragments (MARA Dungeon Quest)| |D|MARA| |Z|Tirisfal Glades|
 N Kill Gelk. Loot him for the [Gem of the Second Khan] |N|(38.5, 57.3) (MARA Dungeon Quest)| |D|MARA| |Z|Tirisfal Glades|
 N This is completed OUTSIDE of the Instance |N|(38.5, 57.3) (MARA Dungeon Quest)| |D|MARA| |Z|Tirisfal Glades|
-C Use the [Amulet of Spirits] on the Spirit of Gelk |QID|7067| |L|17762 1| |N|Use the [Amulet of Spirits] on the Spirit of Gelk - (38.5, 57.3) (MARA Dungeon Quest)| |D|MARA| |Z|Tirisfal Glades|
+C Collect Gem of the Second Khan (x1) |QID|7067| |L|17762 1| |N|Use the [Amulet of Spirits] on the Spirit of Gelk (38.5, 57.3) (MARA Dungeon Quest)| |D|MARA| |Z|Tirisfal Glades|
 N These are only found in the Purple section outside of the Instance |N|(38.1, 56.9) (MARA Dungeon Quest)| |D|MARA| |Z|Tirisfal Glades|
 C Shadowshard Smashers and Shadowshard Rumblers. Loot them for their Shadowshard Fragments |QID|7068| |OIDX|1| |N|Shadowshard Smashers and Shadowshard Rumblers. Loot them for their Shadowshard Fragments - (38.1, 56.9) (MARA Dungeon Quest)| |D|MARA| |Z|Tirisfal Glades|
 N Kill Kolk. Loot him for the [Gem of the First Khan] |N|(38.5, 57.7) (MARA Dungeon Quest)| |D|MARA| |Z|Tirisfal Glades|
 N This is completed OUTSIDE of the Instance |N|(38.5, 57.7) (MARA Dungeon Quest)| |D|MARA| |Z|Tirisfal Glades|
-C Use the [Amulet of Spirits] on the Spirit of Kolk |QID|7067| |L|17761 1| |N|Use the [Amulet of Spirits] on the Spirit of Kolk - (38.5, 57.7) (MARA Dungeon Quest)| |D|MARA| |Z|Tirisfal Glades|
+C Collect Gem of the First Khan (x1) |QID|7067| |L|17761 1| |N|Use the [Amulet of Spirits] on the Spirit of Kolk (38.5, 57.7) (MARA Dungeon Quest)| |D|MARA| |Z|Tirisfal Glades|
 A Legends of Maraudon |QID|7044| |N|the Centaur Pariah - (38.8, 58.1) (MARA Dungeon Quest)| |D|MARA| |Z|Tirisfal Glades|
 C Vyletongue Corruption |QID|7029| |OIDX|2| |N|Use the [Coated Cerulean Vial] in the Orange pool (38.9, 58.4) (MARA Dungeon Quest)| |D|MARA| |Z|Tirisfal Glades|
 N Kill Magra. Loot him for the [Gem of the Third Khan] |N|(39.1, 57.7) (MARA Dungeon Quest)| |D|MARA| |Z|Tirisfal Glades|
 N This is completed OUTSIDE of the Instance |N|(39.1, 57.7) (MARA Dungeon Quest)| |D|MARA| |Z|Tirisfal Glades|
-C Use the [Amulet of Spirits] on the Spirit of Magra |QID|7067| |L|17763 1| |N|Use the [Amulet of Spirits] on the Spirit of Magra - (39.1, 57.7) (MARA Dungeon Quest)| |D|MARA| |Z|Tirisfal Glades|
+C Collect Gem of the Third Khan (x1) |QID|7067| |L|17763 1| |N|Use the [Amulet of Spirits] on the Spirit of Magra (39.1, 57.7) (MARA Dungeon Quest)| |D|MARA| |Z|Tirisfal Glades|
 C Twisted Evils |QID|7028| |OIDX|1| |N|Kill any Monster in Maraudon. Loot them for their Theradric Crystal Carvings (MARA Dungeon Quest)| |D|MARA| |Z|Tirisfal Glades|
 N Kill the Noxxious Scions that are summoned |N|(MARA Dungeon Quest)| |D|MARA| |Z|Tirisfal Glades|
 C Vyletongue Corruption |QID|7029| |OIDX|1| |N|Use the [Filled Cerulean Vial] on small flowers/plants inside Orange (MARA Dungeon Quest)| |D|MARA| |Z|Tirisfal Glades|
 N Kill Veng. Loot him for the [Gem of the Fifth Khan] |N|(MARA Dungeon Quest)| |D|MARA| |Z|Tirisfal Glades|
 N Veng patrols around INSIDE the Maraudon Orange Instance |N|(MARA Dungeon Quest)| |D|MARA| |Z|Tirisfal Glades|
-C Use the [Amulet of Spirits] on the Spirit of Veng |QID|7067| |L|17765 1| |N|Use the [Amulet of Spirits] on the Spirit of Veng (MARA Dungeon Quest)| |D|MARA| |Z|Tirisfal Glades|
+C Collect Gem of the Fifth Khan (x1) |QID|7067| |L|17765 1| |N|Use the [Amulet of Spirits] on the Spirit of Veng (MARA Dungeon Quest)| |D|MARA| |Z|Tirisfal Glades|
 N Kill the Noxxious Scions that are summoned |N|(MARA Dungeon Quest)| |D|MARA| |Z|Tirisfal Glades|
 C Vyletongue Corruption |QID|7029| |OIDX|1| |N|Use the [Filled Cerulean Vial] on small flowers/plants inside Orange (MARA Dungeon Quest)| |D|MARA| |Z|Tirisfal Glades|
 N Kill Lord Vyletongue. Loot him for the Celebrian Diamond |N|(MARA Dungeon Quest)| |D|MARA| |Z|Tirisfal Glades|
@@ -236,7 +245,7 @@ N Noxxion is in the Orange section and Lord Vyletongue in the Purple |N|(MARA Du
 C Legends of Maraudon |QID|7044| |OIDX|2| |N|Kill Noxxion. Loot him for the Celebrian Rod (MARA Dungeon Quest)| |D|MARA| |Z|Tirisfal Glades|
 N Kill Maraudos. Loot him for the [Gem of the Fourth Khan] |N|(MARA Dungeon Quest)| |D|MARA| |Z|Tirisfal Glades|
 N Maraudos patrols around INSIDE the Maraudon Purple Instance |N|(MARA Dungeon Quest)| |D|MARA| |Z|Tirisfal Glades|
-C Use the [Amulet of Spirits] on the Spirit of Maraudos |QID|7067| |L|17764 1| |N|Use the [Amulet of Spirits] on the Spirit of Maraudos (MARA Dungeon Quest)| |D|MARA| |Z|Tirisfal Glades|
+C Collect Gem of the Fourth Khan (x1) |QID|7067| |L|17764 1| |N|Use the [Amulet of Spirits] on the Spirit of Maraudos (MARA Dungeon Quest)| |D|MARA| |Z|Tirisfal Glades|
 C The Pariah's Instructions |QID|7067| |OIDX|1| |N|Channel any of the [Gems of the Khans] to create the [Amulet of Union] (MARA Dungeon Quest)| |D|MARA| |Z|Tirisfal Glades|
 T Legends of Maraudon |QID|7044| |N|Kill Celebras the Cursed then talk to Celebras the Redeemed (MARA Dungeon Quest)| |D|MARA| |Z|Tirisfal Glades|
 A The Scepter of Celebras |QID|7046| |N|Celebras the Redeemed (MARA Dungeon Quest)| |D|MARA| |Z|Tirisfal Glades|

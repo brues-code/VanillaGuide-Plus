@@ -53,7 +53,7 @@ T Khan Jehn |QID|1374| |N|[Group] Uthek the Wise - (36.3, 79.3)| |P|GROUP| |Z|De
 A Khan Hratha |QID|1380| |N|[Group] Uthek the Wise - (36.3, 79.3)| |P|GROUP| |Z|Desolace|
 T Khan Jehn |QID|1374| |N|Uthek the Wise - (36.3, 79.3)| |Z|Desolace|
 N This has a low droprate, it can take a while |N|[Group] (30.2, 57.8)| |P|GROUP| |Z|Desolace|
-C Maraudine Centaurs. Loot them for the [War Horn Mouthpiece] |QID|1380| |L|6074 1| |N|[Group] Maraudine Centaurs. Loot them for the [War Horn Mouthpiece] - (30.2, 57.8)| |P|GROUP| |Z|Desolace|
+C Collect War Horn Mouthpiece (x1) |QID|1380| |L|6074 1| |N|[Group] Maraudine Centaurs. Loot them for the [War Horn Mouthpiece] (30.2, 57.8)| |P|GROUP| |Z|Desolace|
 C Khan Hratha |QID|1380| |OIDX|1| |N|[Group] the Mouthpiece Mount on the summit overlooking Maraudon, then kill waves of Maraudine centaur until Khan Hratha spawns. Kill him, then loot his Key Fragment (29.7, 53.5)| |P|GROUP| |Z|Desolace|
 A Get Me Out of Here! |QID|6132| |N|[Group] Melizza to start the escort - (33.9, 53.6)| |P|GROUP| |Z|Desolace|
 N This quest is HARD!. Two waves of mobs will spawn during the escort. The first wave consists of 4 mobs, try to not use all your cooldowns. The second wave has 5 mobs, use everything here |N|[Group]| |P|GROUP| |Z|Desolace|

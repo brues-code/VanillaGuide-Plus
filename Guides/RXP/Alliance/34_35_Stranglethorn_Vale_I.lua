@@ -60,7 +60,7 @@ C The Second Rebellion |QID|203| |OIDX|1| |N|Kurzen Jungle Fighters and Kurzen M
 C Bad Medicine |QID|204| |OIDX|1| |N|Kurzen Jungle Fighters and Kurzen Medicine Men. Loot the Kurzen Medicine Men for their Jungle Remedies (44.9, 10.2)| |Z|Stranglethorn Vale|
 C Tiger Mastery |QID|186| |OIDX|1| |N|Stranglethorn Tigers (46.8, 15.8)| |Z|Stranglethorn Vale|
 C Hostile Takeover |QID|213| |OIDX|1| |N|Kill Venture Co. Geologists. Loot them for their Crystals| |O| |Z|Stranglethorn Vale|
-C Foreman Cozzle atop the Oil Rig. Loot him for his Key |QID|1182| |L|5851 1| |N|Foreman Cozzle atop the Oil Rig. Loot him for his Key - (42.6, 18.4)| |Z|Stranglethorn Vale|
+C Collect Cozzle's Key (x1) |QID|1182| |L|5851 1| |N|Foreman Cozzle atop the Oil Rig. Loot him for his Key (42.6, 18.4)| |Z|Stranglethorn Vale|
 C Goblin Sponsorship |QID|1182| |OIDX|1| |N|Cozzle's Footlocker. Loot it for the Fuel Regulator Blueprints (43.3, 20.3)| |Z|Stranglethorn Vale|
 C Hostile Takeover |QID|213| |OIDX|1| |N|Venture Co. Geologists. Loot them for their Crystals (45.5, 18.8)| |Z|Stranglethorn Vale|
 C Panther Mastery |QID|190| |OIDX|1| |N|Young Panthers (41.5, 12.0)| |Z|Stranglethorn Vale|
@@ -138,7 +138,7 @@ N [Elixir of Water Breathing] (If you have one) |N|(57.1, 73.0)| |C|!Warlock| |Z
 R Newton Burnside |N|(57.1, 73.0)| |Z|Stormwind City|
 N Deposit any [Green Hills of Stranglethorn - Pages] you found |N|(57.1, 73.0)| |Z|Stormwind City|
 N Buy a [Elixir of Water Breathing] from the Auction House |N|(57.1, 73.0)| |C|!Warlock| |AH| |Z|Stormwind City|
-B Newton Burnside |L|5996 1| |N|Newton Burnside - (57.1, 73.0)| |C|!Warlock| |AH| |Z|Stormwind City|
+B Buy Elixir of Water Breathing (x1) |L|5996 1| |N|Newton Burnside - (57.1, 73.0)| |C|!Warlock| |AH| |Z|Stormwind City|
 R the Stormwind Cathedral |N|(42.5, 33.5)| |O| |C|Priest/Paladin| |Z|Stormwind City|
 N Arthur the Faithful |N|(38.8, 31.3)| |C|Paladin| |Z|Stormwind City|
 t Train your class spells |N|(38.7, 32.8)| |C|Paladin| |Z|Stormwind City|

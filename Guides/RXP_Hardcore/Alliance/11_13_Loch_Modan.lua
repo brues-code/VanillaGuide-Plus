@@ -13,6 +13,8 @@ N Do not accept Stormpike's Order yet |N|(24.8, 18.4)| |P|SOLO| |Z|Loch Modan|
 N Kill Mountain Boars. Loot them for their Boar Intestines |O| |Z|Loch Modan|
 N Kill Forest Lurkers. Loot them for their Ichor |O| |Z|Loch Modan|
 C Collect Boar Intestines (x3) |QID|418| |L|3172 3| |N|Kill Elder Black Bears. Loot them for their Bear Meat| |O| |Z|Loch Modan|
+C Collect Bear Meat (x3) |QID|418| |L|3173 3| |N|Kill Elder Black Bears. Loot them for their Bear Meat| |O| |Z|Loch Modan|
+C Collect Spider Ichor (x3) |QID|418| |L|3174 3| |N|Kill Elder Black Bears. Loot them for their Bear Meat| |O| |Z|Loch Modan|
 R Thelsamar |N|(34.8, 49.3)| |O| |Z|Loch Modan|
 A Thelsamar Blood Sausages |QID|418| |N|Vidra Hearthstove - (34.8, 49.3)| |Z|Loch Modan|
 B Buy 1 or 2 [Small Brown Pouches] if needed |N|Yanni Stoutheart - (34.8, 48.6)| |O| |Z|Loch Modan|
@@ -24,9 +26,13 @@ A Mountaineer Stormpike's Task |QID|1339| |N|Mountaineer Kadrell - (36.8, 46.2)|
 N Kill Mountain Boars. Loot them for their Boar Intestines |N|[Group]| |O| |P|GROUP| |Z|Loch Modan|
 N Kill Forest Lurkers. Loot them for their Ichor |N|[Group]| |O| |P|GROUP| |Z|Loch Modan|
 C Collect Boar Intestines (x3) |QID|418| |L|3172 3| |N|[Group] Kill Elder Black Bears. Loot them for their Bear Meat| |O| |P|GROUP| |Z|Loch Modan|
+C Collect Bear Meat (x3) |QID|418| |L|3173 3| |N|[Group] Kill Elder Black Bears. Loot them for their Bear Meat| |O| |P|GROUP| |Z|Loch Modan|
+C Collect Spider Ichor (x3) |QID|418| |L|3174 3| |N|[Group] Kill Elder Black Bears. Loot them for their Bear Meat| |O| |P|GROUP| |Z|Loch Modan|
 N Kill Mountain Boars. Loot them for their Boar Intestines |O| |P|SOLO| |Z|Loch Modan|
 N Kill Forest Lurkers. Loot them for their Ichor |O| |P|SOLO| |Z|Loch Modan|
 C Collect Boar Intestines (x3) |QID|418| |L|3172 3| |N|Kill Elder Black Bears. Loot them for their Bear Meat| |O| |P|SOLO| |Z|Loch Modan|
+C Collect Bear Meat (x3) |QID|418| |L|3173 3| |N|Kill Elder Black Bears. Loot them for their Bear Meat| |O| |P|SOLO| |Z|Loch Modan|
+C Collect Spider Ichor (x3) |QID|418| |L|3174 3| |N|Kill Elder Black Bears. Loot them for their Bear Meat| |O| |P|SOLO| |Z|Loch Modan|
 C Rat Catching |QID|416| |OIDX|1| |N|[Group] Kill Tunnel Rats. Loot them for their Ears Collect Tunnel Rat Ear (x12)| |O| |P|GROUP| |Z|Loch Modan|
 R Enter the Silver Stream Mine |N|[Group] (35.5, 19.0)| |O| |P|GROUP| |Z|Loch Modan|
 N The Miners' League Crates can be found all throughout the Mine |N|[Group] (35.9, 22.6)| |P|GROUP| |Z|Loch Modan|
@@ -35,13 +41,15 @@ C Filthy Paws |QID|307| |OIDX|1| |N|[Group] the Miners' League Crates. Loot them
 N Kill Mountain Boars. Loot them for their Boar Intestines |N|[Group]| |O| |P|GROUP| |Z|Loch Modan|
 N Kill Forest Lurkers. Loot them for their Ichor |N|[Group]| |O| |P|GROUP| |Z|Loch Modan|
 C Collect Boar Intestines (x3) |QID|418| |L|3172 3| |N|[Group] Kill Elder Black Bears. Loot them for their Bear Meat| |O| |P|GROUP| |Z|Loch Modan|
+C Collect Bear Meat (x3) |QID|418| |L|3173 3| |N|[Group] Kill Elder Black Bears. Loot them for their Bear Meat| |O| |P|GROUP| |Z|Loch Modan|
+C Collect Spider Ichor (x3) |QID|418| |L|3174 3| |N|[Group] Kill Elder Black Bears. Loot them for their Bear Meat| |O| |P|GROUP| |Z|Loch Modan|
 B Nillen Andemar sells [Heavy Spiked Mace] which is a limited supply item |N|Nillen Andemar - (42.9, 9.9)| |C|Paladin/Warrior| |Z|Loch Modan|
 N Check to see if it's available and buy it if you can. If you can't afford it, then grind money from the nearby Tunnel Rats until you have enough |N|(42.9, 9.9)| |C|Paladin/Warrior| |Z|Loch Modan|
 N Do this quickly as another player may purchase it before you do |N|(42.9, 9.9)| |C|Paladin/Warrior| |Z|Loch Modan|
 N Ensure you have 10 [Linen Cloth] for your upcoming Paladin class quest |N|(35.5, 16.8)| |C|Paladin| |Z|Loch Modan|
 N Tunnel Rats can spawn throughout Loch Modan. Check your World Map for their locations |N|(35.5, 16.8)| |Z|Loch Modan|
 C Rat Catching |QID|416| |OIDX|1| |N|Tunnel Rats. Loot them for their Ears Collect Tunnel Rat Ear (x12)| |Z|Loch Modan|
-C Tunnel Rats. Loot them for their Ears |QID|1644| |L|2589 10| |N|Tunnel Rats. Loot them for their Ears - (35.5, 16.8)| |C|Paladin| |Z|Loch Modan|
+C Collect Linen Cloth (x10) |QID|1644| |L|2589 10| |N|Tunnel Rats. Loot them for their Ears (35.5, 16.8)| |C|Paladin| |Z|Loch Modan|
 B Vendor and repair if needed |N|Gothor Brumn - (24.1, 18.2)| |O| |Z|Loch Modan|
 T Filthy Paws |QID|307| |N|[Group] Mountaineer Stormpike - (24.8, 18.4)| |P|GROUP| |Z|Loch Modan|
 T Mountaineer Stormpike's Task |QID|1339| |N|Mountaineer Stormpike - (24.8, 18.4)| |Z|Loch Modan|
@@ -49,6 +57,8 @@ A Stormpike's Order |QID|1338| |N|Mountaineer Stormpike - (24.8, 18.4)| |Z|Loch 
 N Kill Mountain Boars. Loot them for their Boar Intestines |N|(26.9, 10.7)| |Z|Loch Modan|
 N Kill Forest Lurkers. Loot them for their Ichor |N|(26.9, 10.7)| |Z|Loch Modan|
 C Bear Meat (3) |QID|418| |L|3173 3| |N|Kill Elder Black Bears. Loot them for their Bear Meat (26.9, 10.7)| |Z|Loch Modan|
+C Boar Intestines (3) |QID|418| |L|3172 3| |N|Kill Elder Black Bears. Loot them for their Bear Meat (26.9, 10.7)| |Z|Loch Modan|
+C Spider Ichor (3) |QID|418| |L|3174 3| |N|Kill Elder Black Bears. Loot them for their Bear Meat (38.0, 34.9)| |Z|Loch Modan|
 N Mountaineer Kadrell patrols the road through Thelsamar |N|(36.8, 46.2)| |Z|Loch Modan|
 T Rat Catching |QID|416| |N|Mountaineer Kadrell - (36.8, 46.2)| |Z|Loch Modan|
 T Thelsamar Blood Sausages |QID|418| |N|Vidra Hearthstove - (34.8, 49.3)| |Z|Loch Modan|
@@ -62,7 +72,7 @@ R Stonesplinter Valley |N|(30.8, 70.0)| |O| |Z|Loch Modan|
 N Ensure you have 10 [Linen Cloth] for your upcoming Paladin class quest |N|(33.9, 76.6)| |C|Paladin| |Z|Loch Modan|
 C In Defense of the King's Lands |QID|224| |OIDX|1| |N|Stonesplinter Troggs and Stonesplinter Scouts. Loot them for their Teeth Kill Stonesplinter Trogg (x10)| |Z|Loch Modan|
 C The Trogg Threat |QID|267| |OIDX|1| |N|Stonesplinter Troggs and Stonesplinter Scouts. Loot them for their Teeth Collect Trogg Stone Tooth (x8)| |Z|Loch Modan|
-C Stonesplinter Troggs and Stonesplinter Scouts. Loot them for their Teeth |QID|1644| |L|2589 10| |N|Stonesplinter Troggs and Stonesplinter Scouts. Loot them for their Teeth - (33.9, 76.6)| |C|Paladin| |Z|Loch Modan|
+C Collect Linen Cloth (x10) |QID|1644| |L|2589 10| |N|Stonesplinter Troggs and Stonesplinter Scouts. Loot them for their Teeth (33.9, 76.6)| |C|Paladin| |Z|Loch Modan|
 T In Defense of the King's Lands |QID|224| |N|Mountaineer Cobbleflint - (22.1, 73.1)| |Z|Loch Modan|
 T The Trogg Threat |QID|267| |N|Captain Rugelfuss - (23.2, 73.7)| |Z|Loch Modan|
 G Grind to 14 |C|Warlock| |Z|Loch Modan|

@@ -15,7 +15,7 @@ N Search the bottom floor of each Bloodsail Ship for [Cortello's Riddle]. It can
 N Use [Cortello's Riddle] to start the quest |N|[Group] (29.3, 88.3)| |P|GROUP| |Z|Stranglethorn Vale|
 N Cast [Eagle Eye] to try and find which location it is in |N|[Group] (29.3, 88.3)| |C|Hunter| |P|GROUP| |Z|Stranglethorn Vale|
 C The Bloodsail Buccaneers |QID|608| |OIDX|2| |N|[Group] Kill Captain Keelhaul, Fleet Master Firallon and Captain Stillwater (29.3, 88.3)| |P|GROUP| |Z|Stranglethorn Vale|
-C Captain Keelhaul, Fleet Master Firallon and Captain Stillwater |QID|624| |L|4056 1| |N|[Group] Kill Captain Keelhaul, Fleet Master Firallon and Captain Stillwater (32.9, 88.2)| |P|GROUP| |Z|Stranglethorn Vale|
+C Collect Cortello's Riddle (x1) |QID|624| |L|4056 1| |N|[Group] Kill Captain Keelhaul, Fleet Master Firallon and Captain Stillwater (32.9, 88.2)| |P|GROUP| |Z|Stranglethorn Vale|
 A Cortello's Riddle |QID|624| |N|[Group] (32.9, 88.2)| |P|GROUP| |Z|Stranglethorn Vale|
 C Zanzil's Secret |QID|621| |OIDX|1| |N|the Zanzils. Loot them for their Mixtures (34.9, 51.8)| |O| |Z|Stranglethorn Vale|
 C Voodoo Dues |QID|609| |OIDX|3| |N|Chucky "Ten Thumbs". Loot him for his Huge Ring (40.0, 58.2)| |Z|Stranglethorn Vale|
@@ -97,7 +97,7 @@ C Scarab Shells |QID|2865| |OIDX|1| |N|Kill Scarabs. Loot them for their Uncrack
 C The Prophecy of Mosh'aru |QID|3527| |OIDX|1| |N|Kill Theka the Martyr (ZF Dungeon Quest)| |D|ZF| |Z|Tanaris|
 C Scarab Shells |QID|2865| |OIDX|1| |N|(ZF Dungeon Quest)| |D|ZF| |Z|Tanaris|
 N Use the Executioner's Key on one of the Troll Cages to free Sergeant Bly and his band |N|(ZF Dungeon Quest)| |D|ZF| |Z|Tanaris|
-C Ascend the Pyramid |L|8444 1| |N|Anyone in the party may loot the Key (ZF Dungeon Quest)| |D|ZF| |Z|Tanaris|
+C Collect Executioner's Key (x1) |L|8444 1| |N|Anyone in the party may loot the Key (ZF Dungeon Quest)| |D|ZF| |Z|Tanaris|
 N After you kill Nekrum Gutchewer, eat and drink then talk to Sergeant Bly to fight him |N|(ZF Dungeon Quest)| |D|ZF| |Z|Tanaris|
 N Kill Sergeant Bly. Loot him for the Divino-matic Rod |N|(ZF Dungeon Quest)| |D|ZF| |Z|Tanaris|
 C Nekrum's Medallion |QID|2991| |OIDX|1| |N|Kill Nekrum Gutchewer. Loot him for Nekrum's Medallion (ZF Dungeon Quest)| |D|ZF| |Z|Tanaris|

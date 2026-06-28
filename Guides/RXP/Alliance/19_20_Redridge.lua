@@ -14,9 +14,10 @@ t Train your class spells |N|Elsharin - (36.9, 81.1)| |C|Mage| |Z|Stormwind City
 R the Stormwind Cathedral |N|(42.5, 33.5)| |O| |C|Paladin/Priest| |R|!NightElf| |Z|Stormwind City|
 t Train your class spells |N|Arthur the Faithful - (38.7, 32.8)| |C|Paladin| |Z|Stormwind City|
 t Train your class spells |N|Brother Joshua - (38.5, 26.9)| |C|Priest| |R|!NightElf| |Z|Stormwind City|
+N Ardwyn Cailen |N|(42.6, 67.2)| |C|Warlock/Priest| |Z|Stormwind City|
 N Buy a [Burning Wand] if it's an upgrade |N|(42.6, 67.2)| |C|Warlock/Priest| |Z|Stormwind City|
 N It's important to buy a non-shadow damage wand. You'll have to deal with mobs resistant to shadow damage later |N|(42.6, 67.2)| |C|Warlock/Priest| |Z|Stormwind City|
-B Ardwyn Cailen |L|5210 1| |N|(42.9, 65.1)| |C|Warlock/Priest| |Z|Stormwind City|
+B Buy Burning Wand (x1) |L|5210 1| |N|(42.9, 65.1)| |C|Warlock/Priest| |Z|Stormwind City|
 R The Slaughtered Lamb and go downstairs |N|(27.2, 78.1)| |O| |C|Warlock| |Z|Stormwind City|
 t Train your class spells |N|Ursula Deline - (26.1, 77.2)| |C|Warlock| |Z|Stormwind City|
 N Ensure you train [Lockpicking] as well as you will need it for your Rogue class quest soon |N|(74.6, 52.8)| |C|Rogue| |Z|Stormwind City|
@@ -169,20 +170,22 @@ N Kill Tarantulas. Loot them for their Crisp Spider Meat |O| |Z|Redridge Mountai
 N Kill Dire Condors. Loot them for their Tough Condor Meat |O| |Z|Redridge Mountains|
 N Do NOT sell any of these items until you turn the Redridge Goulash quest |O| |Z|Redridge Mountains|
 N Save any [Chunks of Boar Meat] you loot as well as you can use them to level [Cooking] to 50 which is required for Duskwood later |O| |Z|Redridge Mountains|
-B Great Goretusks. Loot them for their Great Goretusk Snouts |L|2296 5| |N|Kill Great Goretusks. Loot them for their Great Goretusk Snouts| |O| |Z|Redridge Mountains|
+B Buy Great Goretusk Snout (x5) |L|2296 5| |N|Kill Great Goretusks. Loot them for their Great Goretusk Snouts| |O| |Z|Redridge Mountains|
+B Buy Tough Condor Meat (x5) |L|1080 5| |N|Kill Great Goretusks. Loot them for their Great Goretusk Snouts| |O| |Z|Redridge Mountains|
+B Buy Crisp Spider Meat (x5) |L|1081 5| |N|Kill Great Goretusks. Loot them for their Great Goretusk Snouts| |O| |Z|Redridge Mountains|
 A Encroaching Gnolls |QID|244| |N|Guard Parker - (15.3, 71.5)| |Z|Redridge Mountains|
 T A Free Lunch |QID|129| |N|Guard Parker - (15.3, 71.5)| |Z|Redridge Mountains|
 A Visit the Herbalist |QID|130| |N|Guard Parker - (15.3, 71.5)| |Z|Redridge Mountains|
 T Encroaching Gnolls |QID|244| |N|Deputy Feldon - (30.7, 60.0)| |Z|Redridge Mountains|
 A Assessing the Threat |QID|246| |N|Deputy Feldon - (30.7, 60.0)| |Z|Redridge Mountains|
-C Tarantulas. Loot them for their Crisp Spider Meat |QID|92| |L|1081 5| |N|Tarantulas. Loot them for their Crisp Spider Meat - (18.9, 73.6)| |Z|Redridge Mountains|
+C Collect Crisp Spider Meat (x5) |QID|92| |L|1081 5| |N|Tarantulas. Loot them for their Crisp Spider Meat (18.9, 73.6)| |Z|Redridge Mountains|
 C Assessing the Threat |QID|246| |OIDX|1| |N|Redridge Mongrels and Redridge Poachers Redridge Mongrel (10)| |Z|Redridge Mountains|
 N Be aware this area is a hyperspawn, meaning the Murlocs respawn quickly |N|(49.0, 70.0)| |Z|Redridge Mountains|
 C Selling Fish |QID|127| |OIDX|1| |N|Murloc Shorestrikers and Murloc Minor Tidecallers. Loot them for their Fins and Sunfish (49.0, 70.0)| |Z|Redridge Mountains|
-C Murloc Shorestrikers and Murloc Minor Tidecallers. Loot them for their Fins and Sunfish |QID|150| |L|1468 8| |N|Murloc Shorestrikers and Murloc Minor Tidecallers. Loot them for their Fins and Sunfish - (49.0, 70.0)| |Z|Redridge Mountains|
+C Collect Murloc Fin (x8) |QID|150| |L|1468 8| |N|Murloc Shorestrikers and Murloc Minor Tidecallers. Loot them for their Fins and Sunfish (49.0, 70.0)| |Z|Redridge Mountains|
 N Be aware the Blackrock Outrunners will cast [Net] on you |N|(74.0, 79.0)| |Z|Redridge Mountains|
 C Blackrock Menace |QID|20| |OIDX|1| |N|Kill Blackrock Grunts and Blackrock Outrunners. Loot them for their Axes Battleworn Axe (10)| |Z|Redridge Mountains|
-C Dire Condors. Loot them for their Tough Condor Meat |QID|92| |L|1080 5| |N|Dire Condors. Loot them for their Tough Condor Meat - (61.4, 77.1)| |Z|Redridge Mountains|
+C Collect Tough Condor Meat (x5) |QID|92| |L|1080 5| |N|Dire Condors. Loot them for their Tough Condor Meat (61.4, 77.1)| |Z|Redridge Mountains|
 R You MUST do this for your [Poisons] quest later |N|(51.8, 45.1)| |C|Rogue| |Z|Redridge Mountains|
 N Stand on the waypoint location. Position your camera and cursor until you can click 3 Practice Lockboxes at once without having to move anything |N|(51.8, 45.1)| |C|Rogue| |Z|Redridge Mountains|
 C Alther's Mill |QID|2282| |OIDX|1| |N|Lucius's Lockbox. Loot it for the Token of Thievery Token of Thievery| |C|Rogue| |Z|Redridge Mountains|
@@ -299,7 +302,7 @@ T Visit the Herbalist |QID|130| |N|Martie Jainrose - (21.9, 46.3)| |Z|Redridge M
 A Delivering Daffodils |QID|131| |N|Martie Jainrose - (21.9, 46.3)| |Z|Redridge Mountains|
 C Underbelly Scales |QID|122| |OIDX|1| |N|Kill Black Dragon Whelps. Loot them for their Scales Underbelly Whelp Scale (6)| |O| |Z|Redridge Mountains|
 N Save any [Chunks of Boar Meat] you loot as well as you can use them to level [Cooking] to 50 which is required for Duskwood later |N|(15.7, 52.8)| |Z|Redridge Mountains|
-C Great Goretusks. Loot them for their Great Goretusk Snouts |QID|92| |L|2296 5| |N|Kill Great Goretusks. Loot them for their Great Goretusk Snouts (15.7, 52.8)| |Z|Redridge Mountains|
+C Collect Great Goretusk Snout (x5) |QID|92| |L|2296 5| |N|Kill Great Goretusks. Loot them for their Great Goretusk Snouts (15.7, 52.8)| |Z|Redridge Mountains|
 A Redridge Goulash |QID|92| |N|Chef Breanna - (22.7, 43.8)| |O| |Z|Redridge Mountains|
 T Redridge Goulash |QID|92| |N|Chef Breanna - (22.7, 43.8)| |O| |Z|Redridge Mountains|
 C Underbelly Scales |QID|122| |OIDX|1| |N|Kill Black Dragon Whelps. Loot them for their Scales Underbelly Whelp Scale (6)| |O| |Z|Redridge Mountains|

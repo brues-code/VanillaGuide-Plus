@@ -30,10 +30,12 @@ F Fly to Loch Modan |N|Gryth Thurden - (55.5, 47.7)| |Z|Ironforge|
 R Travel to Loch Modan |N|(37.2, 47.9)| |Z|Loch Modan|
 T Return to Brock |QID|6392| |N|Brock Stoneseeker - (37.0, 47.8)| |Z|Loch Modan|
 N Buy a [Hunter's Boomstick] if you can afford it |N|(35.8, 43.5)| |C|Hunter| |Z|Loch Modan|
-B Vrok Blunderblast |L|2511 1| |N|Vrok Blunderblast - (35.8, 43.5)| |C|Hunter| |Z|Loch Modan|
+B Buy Hunter's Boomstick (x1) |L|2511 1| |N|Vrok Blunderblast - (35.8, 43.5)| |C|Hunter| |Z|Loch Modan|
 N Kill Mountain Boars. Loot them for their Boar Intestines |O| |Z|Loch Modan|
 N Kill Forest Lurkers. Loot them for their Ichor |O| |Z|Loch Modan|
 C Collect Boar Intestines (x3) |QID|418| |L|3172 3| |N|Kill Elder Black Bears. Loot them for their Bear Meat| |O| |Z|Loch Modan|
+C Collect Bear Meat (x3) |QID|418| |L|3173 3| |N|Kill Elder Black Bears. Loot them for their Bear Meat| |O| |Z|Loch Modan|
+C Collect Spider Ichor (x3) |QID|418| |L|3174 3| |N|Kill Elder Black Bears. Loot them for their Bear Meat| |O| |Z|Loch Modan|
 R Travel north to the Algaz Station |N|(23.9, 17.9)| |O| |Z|Loch Modan|
 T Mountaineer Stormpike's Task |QID|1339| |N|Mountaineer Stormpike inside the bunker - (24.8, 18.4) (DM Dungeon Quest)| |D|DM| |Z|Loch Modan|
 A Stormpike's Order |QID|1338| |N|Mountaineer Stormpike inside the bunker - (24.8, 18.4) (DM Dungeon Quest)| |D|DM| |Z|Loch Modan|
@@ -48,12 +50,16 @@ C Filthy Paws |QID|307| |OIDX|1| |N|the Miners' League Crates. Loot them for the
 N Kill Mountain Boars. Loot them for their Boar Intestines |O| |Z|Loch Modan|
 N Kill Forest Lurkers. Loot them for their Ichor |O| |Z|Loch Modan|
 C Collect Boar Intestines (x3) |QID|418| |L|3172 3| |N|Kill Elder Black Bears. Loot them for their Bear Meat| |O| |Z|Loch Modan|
+C Collect Bear Meat (x3) |QID|418| |L|3173 3| |N|Kill Elder Black Bears. Loot them for their Bear Meat| |O| |Z|Loch Modan|
+C Collect Spider Ichor (x3) |QID|418| |L|3174 3| |N|Kill Elder Black Bears. Loot them for their Bear Meat| |O| |Z|Loch Modan|
 T Filthy Paws |QID|307| |N|Mountaineer Stormpike - (24.8, 18.4)| |Z|Loch Modan|
 N Tunnel Rats can spawn throughout Loch Modan. Check your World Map for their locations |N|(35.5, 16.8)| |Z|Loch Modan|
 C Rat Catching |QID|416| |OIDX|1| |N|Tunnel Rats. Loot them for their Ears Collect Tunnel Rat Ear (x12)| |Z|Loch Modan|
 N Kill Mountain Boars. Loot them for their Boar Intestines |N|(26.9, 10.7)| |Z|Loch Modan|
 N Kill Forest Lurkers. Loot them for their Ichor |N|(26.9, 10.7)| |Z|Loch Modan|
 C Bear Meat (3) |QID|418| |L|3173 3| |N|Kill Elder Black Bears. Loot them for their Bear Meat (26.9, 10.7)| |Z|Loch Modan|
+C Boar Intestines (3) |QID|418| |L|3172 3| |N|Kill Elder Black Bears. Loot them for their Bear Meat (26.9, 10.7)| |Z|Loch Modan|
+C Spider Ichor (3) |QID|418| |L|3174 3| |N|Kill Elder Black Bears. Loot them for their Bear Meat (38.0, 34.9)| |Z|Loch Modan|
 N Mountaineer Kadrell patrols the road through Thelsamar |N|(36.8, 46.2)| |Z|Loch Modan|
 T Rat Catching |QID|416| |N|Mountaineer Kadrell - (36.8, 46.2)| |Z|Loch Modan|
 T Thelsamar Blood Sausages |QID|418| |N|Vidra Hearthstove - (34.8, 49.3)| |Z|Loch Modan|

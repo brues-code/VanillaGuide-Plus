@@ -19,7 +19,7 @@ R Shyrka Wolfrunner |N|(74.5, 43.3)| |O| |C|Hunter| |Z|Feralas|
 t Attack mobs with it to learn [Bite (Rank 6)] |N|Cast [Tame Beast] on a Longtooth Runner to tame it - (70.6, 41.5)| |C|Hunter| |Z|Feralas|
 N Click here for more info about pet training |N|(70.6, 41.5)| |C|Hunter| |Z|Feralas|
 t Train your class spells |N|Shyrka Wolfrunner - (74.5, 43.3)| |C|Hunter| |Z|Feralas|
-C Look out for the [Distress Beacon] drop as you quest throughout Feralas |QID|2766| |L|8705 1| |N|Look out for the [Distress Beacon] drop as you quest throughout Feralas| |O| |Z|Feralas|
+C Collect OOX-22/FE Distress Beacon (x1) |QID|2766| |L|8705 1| |N|Look out for the [Distress Beacon] drop as you quest throughout Feralas| |O| |Z|Feralas|
 A Find OOX-22/FE! |QID|2766| |N|Look out for the [Distress Beacon] drop as you quest throughout Feralas| |O| |Z|Feralas|
 N Woodpaw Trappers cast [Net] which immobilizes movement for 10 seconds |N|(73.2, 36.3)| |Z|Feralas|
 C War on the Woodpaw |QID|2862| |OIDX|1| |N|Woodpaw Gnolls. Loot them for their Manes (73.2, 36.3)| |Z|Feralas|
@@ -27,7 +27,7 @@ N Loot the Gordunni Dirt Mounds that spawn on the ground for Gordunni Cobalt |N|
 C Gordunni Cobalt |QID|2987| |OIDX|1| |N|Use [Orwin's Shovel] at the blue circles (75.3, 28.3)| |O| |Z|Feralas|
 C The Ogres of Feralas |QID|2975| |OIDX|1| |N|Gordunni Ogres, Ogre Mages, and Brutes at the Gordunni Outpost (76.1, 33.2)| |O| |Z|Feralas|
 N Follow the waypoint arrow to its different spawn locations |N|(74.6, 27.9)| |Z|Feralas|
-C the Scroll on the ground for the [Gordunni Scroll]. Use it to start the quest |QID|2978| |L|9370 1| |N|the Scroll on the ground for the [Gordunni Scroll]. Use it to start the quest - (74.6, 27.9)| |Z|Feralas|
+C Collect Gordunni Scroll (x1) |QID|2978| |L|9370 1| |N|the Scroll on the ground for the [Gordunni Scroll]. Use it to start the quest (74.6, 27.9)| |Z|Feralas|
 A The Gordunni Scroll |QID|2978| |N|the Scroll on the ground for the [Gordunni Scroll]. Use it to start the quest - (74.6, 27.9)| |Z|Feralas|
 N Loot the Gordunni Dirt Mounds that spawn on the ground for Gordunni Cobalt |N|(76.7, 33.9)| |Z|Feralas|
 C Gordunni Cobalt |QID|2987| |OIDX|1| |N|Use [Orwin's Shovel] at the blue circles (76.7, 33.9)| |Z|Feralas|
@@ -61,7 +61,7 @@ T The Battle Plans |QID|2903| |N|Hadoken - (74.9, 42.4)| |Z|Feralas|
 A Zukk'ash Infestation |QID|7730| |N|Hadoken - (74.9, 42.4)| |Z|Feralas|
 A Stinglasher |QID|7731| |N|Hadoken - (74.9, 42.4)| |Z|Feralas|
 N Buy [Jagged Arrows] from him |N|(74.9, 45.7)| |C|Hunter| |Z|Feralas|
-B Cawind Trueaim |L|11285 2600| |N|Cawind Trueaim - (74.9, 45.7)| |C|Hunter| |Z|Feralas|
+B Buy Jagged Arrow (x2600) |L|11285 2600| |N|Cawind Trueaim - (74.9, 45.7)| |C|Hunter| |Z|Feralas|
 B Sell your junk, then restock on food and water |N|Innkeeper Greul - (74.8, 45.2)| |C|!Rogue/!Warrior| |Z|Feralas|
 B Sell your junk, then restock on food |N|Innkeeper Greul - (74.8, 45.2)| |C|Rogue/Warrior| |Z|Feralas|
 N Make sure to buy 5 stacks or more. A LONG grind section is coming up |N|(74.8, 45.2)| |C|!Mage| |Z|Feralas|
@@ -77,19 +77,19 @@ N Kill every Shaman you see as they have limited spawns |N|(59.6, 64.5)| |Z|Fera
 C The Ogres of Feralas |QID|2980| |OIDX|1| |N|Gordunni Maulers, Warlocks, and Shamans (59.6, 64.5)| |Z|Feralas|
 C Dark Ceremony |QID|2979| |OIDX|1| |N|Gordunni Mage-Lords. Loot them for their Orb (59.6, 64.5)| |Z|Feralas|
 N [Long Elegant Feathers] are dropped by Hippogryphs only. Stagwings and Skystormers DO NOT drop them |O| |Z|Feralas|
-C Frayfeather Hippogryphs. Loot them for their [Long Elegant Feathers] |QID|7842| |L|4589 10| |N|Kill Frayfeather Hippogryphs. Loot them for their [Long Elegant Feathers]| |O| |Z|Feralas|
+C Collect Long Elegant Feather (x10) |QID|7842| |L|4589 10| |N|Kill Frayfeather Hippogryphs. Loot them for their [Long Elegant Feathers]| |O| |Z|Feralas|
 N You could also buy these from the Auction House instead |O| |AH| |Z|Feralas|
 N [Long Elegant Feathers] are dropped by Hippogryphs only. Stagwings and Skystormers DO NOT drop them |O| |AH| |Z|Feralas|
-B Frayfeather Hippogryphs. Loot them for their [Long Elegant Feathers] |L|4589 10| |N|Kill Frayfeather Hippogryphs. Loot them for their [Long Elegant Feathers]| |O| |AH| |Z|Feralas|
+B Buy Long Elegant Feather (x10) |L|4589 10| |N|Kill Frayfeather Hippogryphs. Loot them for their [Long Elegant Feathers]| |O| |AH| |Z|Feralas|
 N There are multiple nests located in the southern mountains |N|(56.7, 75.9)| |Z|Feralas|
-C a [Hippogryph Egg] from a hippogryph nest |L|8564 1| |N|a [Hippogryph Egg] from a hippogryph nest - (56.7, 75.9)| |Z|Feralas|
+C Collect Hippogryph Egg (x1) |L|8564 1| |N|a [Hippogryph Egg] from a hippogryph nest (56.7, 75.9)| |Z|Feralas|
 N Use [Yeh'kinya's Bramble] on their corpses. Talk to the Screecher Spirit that appears |O| |Z|Feralas|
 C Screecher Spirits |QID|3520| |OIDX|1| |N|Kill Vale Screechers| |O| |Z|Feralas|
 N [Long Elegant Feathers] are dropped by Hippogryphs only. Stagwings and Skystormers DO NOT drop them |N|(55.9, 65.9)| |Z|Feralas|
-C Frayfeather Hippogryphs. Loot them for their [Long Elegant Feathers] |QID|7842| |L|4589 10| |N|Frayfeather Hippogryphs. Loot them for their [Long Elegant Feathers] - (55.9, 65.9)| |Z|Feralas|
+C Collect Long Elegant Feather (x10) |QID|7842| |L|4589 10| |N|Frayfeather Hippogryphs. Loot them for their [Long Elegant Feathers] (55.9, 65.9)| |Z|Feralas|
 N You could also buy these from the Auction House instead |N|(55.9, 65.9)| |AH| |Z|Feralas|
 N [Long Elegant Feathers] are dropped by Hippogryphs only. Stagwings and Skystormers DO NOT drop them |N|(55.9, 65.9)| |AH| |Z|Feralas|
-B Frayfeather Hippogryphs. Loot them for their [Long Elegant Feathers] |L|4589 10| |N|Frayfeather Hippogryphs. Loot them for their [Long Elegant Feathers] - (55.9, 65.9)| |AH| |Z|Feralas|
+B Buy Long Elegant Feather (x10) |L|4589 10| |N|Frayfeather Hippogryphs. Loot them for their [Long Elegant Feathers] - (55.9, 65.9)| |AH| |Z|Feralas|
 R Continue to kill Frayfeather mobs |N|(55.9, 65.9)| |Z|Feralas|
 N Use [Yeh'kinya's Bramble] on their corpses. Talk to the Screecher Spirit that appears |N|(56.7, 56.1)| |Z|Feralas|
 C Screecher Spirits |QID|3520| |OIDX|1| |N|Kill Vale Screechers (56.7, 56.1)| |Z|Feralas|
@@ -107,7 +107,7 @@ B Sell your junk, then restock on food and water if necessary |N|Innkeeper Greul
 B Sell your junk, then restock on food if necessary |N|Innkeeper Greul - (74.8, 45.2)| |C|Rogue/Warrior| |Z|Feralas|
 N Make sure you DO NOT sell any [Long Elegant Feather] |N|(74.8, 45.2)| |Z|Feralas|
 N Buy [Jagged Arrows] from him |N|(74.9, 45.7)| |C|Hunter| |Z|Feralas|
-B Cawind Trueaim |L|11285 2600| |N|Cawind Trueaim - (74.9, 45.7)| |C|Hunter| |Z|Feralas|
+B Buy Jagged Arrow (x2600) |L|11285 2600| |N|Cawind Trueaim - (74.9, 45.7)| |C|Hunter| |Z|Feralas|
 T The Ogres of Feralas |QID|2980| |N|She patrols the road through Camp Mojache| |O| |Z|Feralas|
 T Dark Ceremony |QID|2979| |N|She patrols the road through Camp Mojache| |O| |Z|Feralas|
 A The Gordunni Orb |QID|3002| |N|She patrols the road through Camp Mojache| |O| |Z|Feralas|
@@ -165,7 +165,7 @@ N [Neeru's Herb Pouch] |N|(49.6, 69.1)| |Z|Orgrimmar|
 N [Hippogryph Egg] |N|(49.6, 69.1)| |Z|Orgrimmar|
 N [Long Elegant Feathers] |N|(49.6, 69.1)| |Z|Orgrimmar|
 N Buy ten [Gorilla Fangs] from the Auction House |N|(55.6, 62.9)| |AH| |Z|Orgrimmar|
-B Auctioneer Thathung |L|2799 10| |N|Auctioneer Thathung - (55.6, 62.9)| |AH| |Z|Orgrimmar|
+B Buy Gorilla Fang (x10) |L|2799 10| |N|Auctioneer Thathung - (55.6, 62.9)| |AH| |Z|Orgrimmar|
 t Train [Raptor Riding] |N|Xar'Ti and Zjolnir - (55.3, 75.5)| |O| |R|Troll| |Z|Durotar|
 B Buy a [Raptor] |N|Xar'Ti and Zjolnir - (55.3, 75.5)| |O| |R|Troll| |Z|Durotar|
 R Go up the Zeppelin Tower |N|(50.8, 13.8)| |Z|Durotar|

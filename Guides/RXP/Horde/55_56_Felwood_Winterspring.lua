@@ -38,7 +38,8 @@ C Trolls of a Feather |QID|8422| |OIDX|1| |N|Kill Gasher and Zul'Lor. Loot them 
 N Kill the minions of Hakkar until the Avatar of Hakkar joins |N|(ST Dungeon Quest)| |D|ST| |Z|Eastern Kingdoms|
 N Kill the Avatar of Hakkar. Loot it for the [Essence of Hakkar] |N|(ST Dungeon Quest)| |D|ST| |Z|Eastern Kingdoms|
 N Use the [Essence of Hakkar] to fill the [Egg of Hakkar] |N|(ST Dungeon Quest)| |D|ST| |Z|Eastern Kingdoms|
-C Use the [Egg of Hakkar] while next to the Dragonflayer Skeleton, then complete the event |QID|3528| |L|10663 1| |N|Use the [Egg of Hakkar] while next to the Dragonflayer Skeleton, then complete the event (ST Dungeon Quest)| |D|ST| |Z|Eastern Kingdoms|
+C Collect Essence of Hakkar (x1) |QID|3528| |L|10663 1| |N|Use the [Egg of Hakkar] while next to the Dragonflayer Skeleton, then complete the event (ST Dungeon Quest)| |D|ST| |Z|Eastern Kingdoms|
+C The God Hakkar |QID|3528| |OIDX|1| |N|Use the [Egg of Hakkar] while next to the Dragonflayer Skeleton, then complete the event (ST Dungeon Quest)| |D|ST| |Z|Eastern Kingdoms|
 N You must kill the 6 Trolls on the upper platforms to gain access to Jammal'an the Prophet |N|(ST Dungeon Quest)| |D|ST| |Z|Eastern Kingdoms|
 C Jammal'an the Prophet |QID|1446| |OIDX|1| |N|Kill Jammal'an the Prophet. Loot him for his Head (ST Dungeon Quest)| |D|ST| |Z|Eastern Kingdoms|
 N Kill Morphaz. Loot it for the Arcane Shard |N|(ST Dungeon Quest)| |C|Mage| |D|ST| |Z|Eastern Kingdoms|
@@ -48,7 +49,7 @@ C Destroy Morphaz |QID|8253| |OIDX|1| |N|Kill Morphaz. Loot it for the Tooth of 
 C Blood of Morphaz |QID|8257| |OIDX|1| |N|Kill Morphaz. Loot it for the Tooth of Morphaz (ST Dungeon Quest)| |C|Priest| |D|ST| |Z|Eastern Kingdoms|
 N Use the [Essence of Eranikus] to start the quest |N|(ST Dungeon Quest)| |D|ST| |Z|Eastern Kingdoms|
 N Ensure you have killed all Dragonkin mobs on the upper level before engaging the Shade of Eranikus otherwise they will all agro onto you |N|(ST Dungeon Quest)| |D|ST| |Z|Eastern Kingdoms|
-C the Shade of Eranikus. Loot him for the [Essence of Eranikus] |QID|3373| |L|10454 1| |N|Kill the Shade of Eranikus. Loot him for the [Essence of Eranikus] (ST Dungeon Quest)| |D|ST| |Z|Eastern Kingdoms|
+C Collect Essence of Eranikus (x1) |QID|3373| |L|10454 1| |N|Kill the Shade of Eranikus. Loot him for the [Essence of Eranikus] (ST Dungeon Quest)| |D|ST| |Z|Eastern Kingdoms|
 A The Essence of Eranikus |QID|3373| |N|Kill the Shade of Eranikus. Loot him for the [Essence of Eranikus] (ST Dungeon Quest)| |D|ST| |Z|Eastern Kingdoms|
 T The Essence of Eranikus |QID|3373| |N|Click the Essence Font (ST Dungeon Quest)| |D|ST| |Z|Eastern Kingdoms|
 T The Temple of Atal'Hakkar |QID|1445| |N|Fel'zerul - (47.9, 54.8) (ST Dungeon Quest)| |D|ST| |Z|Swamp of Sorrows|
@@ -85,18 +86,18 @@ A Corrupted Sabers |QID|4506| |N|Winna - (34.3, 52.3)| |Z|Felwood|
 A Wild Guardians |QID|4521| |N|Trull - (34.8, 52.8)| |Z|Felwood|
 T Trolls of a Feather |QID|8422| |N|Impsy - (41.5, 45.0) (ST Dungeon Quest)| |C|Warlock| |D|ST| |Z|Felwood|
 N Grind your way down south until you have 6 |O| |Z|Felwood|
-C Corrupted Soul Shards from any Mobs in Felwood |QID|5882| |L|11515 6| |N|Loot Corrupted Soul Shards from any Mobs in Felwood| |O| |Z|Felwood|
+C Collect Corrupted Soul Shard (x6) |QID|5882| |L|11515 6| |N|Loot Corrupted Soul Shards from any Mobs in Felwood| |O| |Z|Felwood|
 T Cleansed Water Returns to Felwood |QID|5159| |N|Greta - (51.2, 82.1)| |Z|Felwood|
 A Dousing the Flames of Protection |QID|5165| |N|Greta - (51.2, 82.1)| |Z|Felwood|
 N Turn in your [Corrupted Soul Shards] to receive [Cenarion Plant Salves] |N|(46.6, 83.0)| |Z|Felwood|
 N If you don't have 6 get them from the Furbolgs to the south |N|(46.6, 83.0)| |Z|Felwood|
-C Maybess |QID|5887| |L|11515 6| |N|Maybess - (46.6, 83.0)| |Z|Felwood|
+C Collect Corrupted Soul Shard (x6) |QID|5887| |L|11515 6| |N|Maybess (46.6, 83.0)| |Z|Felwood|
 T Salve via Hunting |QID|5887| |N|Maybess - (46.6, 83.0)| |Z|Felwood|
 N Use [Winna's Kitten Carrier] at the corrupted moonwell at the Ruins of Constellas |N|(32.4, 66.6)| |Z|Felwood|
 C Dousing the Flames of Protection |QID|5165| |OIDX|1| |N|Click the four Braziers on the ground (36.3, 56.3)| |O| |Z|Felwood|
 N Use the [Blood Red Key] to start the quest |N|(36.3, 56.3)| |Z|Felwood|
 N This will begin an escort quest. Start this escort even if you still need to Extinguish Braziers |N|(36.3, 56.3)| |Z|Felwood|
-C Jaedenar Enforcers, Jaedenar Darkweavers, Jaedenar Warlocks and Jaedenar Legionnaires. Loot them for a [Blood Red Key] |QID|5202| |L|13140 1| |N|Jaedenar Enforcers, Jaedenar Darkweavers, Jaedenar Warlocks and Jaedenar Legionnaires. Loot them for a [Blood Red Key] - (36.3, 56.3)| |Z|Felwood|
+C Collect Blood Red Key (x1) |QID|5202| |L|13140 1| |N|Jaedenar Enforcers, Jaedenar Darkweavers, Jaedenar Warlocks and Jaedenar Legionnaires. Loot them for a [Blood Red Key] (36.3, 56.3)| |Z|Felwood|
 A A Strange Red Key |QID|5202| |N|Jaedenar Enforcers, Jaedenar Darkweavers, Jaedenar Warlocks and Jaedenar Legionnaires. Loot them for a [Blood Red Key] - (36.3, 56.3)| |Z|Felwood|
 T A Strange Red Key |QID|5202| |N|Captured Arko'narin - (36.2, 55.5)| |Z|Felwood|
 A Rescue From Jaedenar |QID|5203| |N|Captured Arko'narin - (36.2, 55.5)| |Z|Felwood|
@@ -246,7 +247,7 @@ N Alternatively, [Light Feathers] will also work for [Slow Fall] |N|(49.6, 69.1)
 N Cast [Teleport: Undercity] |C|Mage| |Z|Orgrimmar|
 t Train your class spells |N|Anastasia - (85.2, 10.1)| |C|Mage| |Z|Undercity|
 N Buy at least two [Rune of Teleportation] |N|(82.8, 15.8)| |C|Mage| |Z|Undercity|
-B Hannah Akeley |L|17031 2| |N|Hannah Akeley - (82.8, 15.8)| |C|Mage| |Z|Undercity|
+B Buy Rune of Teleportation (x2) |L|17031 2| |N|Hannah Akeley - (82.8, 15.8)| |C|Mage| |Z|Undercity|
 R Go up the Zeppelin Tower |N|(50.8, 13.8)| |C|!Mage| |Z|Durotar|
 
 ]]

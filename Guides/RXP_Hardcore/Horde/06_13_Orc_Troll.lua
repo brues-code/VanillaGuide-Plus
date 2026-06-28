@@ -15,9 +15,9 @@ A Report to Orgnil |QID|823| |N|(55.9, 74.4)| |Z|Durotar|
 R Enter the big hut |N|(56.3, 73.8)| |O| |Z|Durotar|
 B Weighted Throwing Axe (200) |L|3131 200| |N|K'waii. Buy  [Weighted Throwing Axe] from her - (56.3, 73.4)| |C|Rogue| |Z|Durotar|
 N Buy [Refreshing Spring Water] from her --Refreshing Spring Water (20) |N|(56.3, 73.4)| |C|Warlock/Mage/Priest| |Z|Durotar|
-B K'waii |L|159 20| |N|K'waii - (56.3, 73.4)| |C|Warlock/Mage/Priest| |Z|Durotar|
+B Buy Refreshing Spring Water (x20) |L|159 20| |N|K'waii - (56.3, 73.4)| |C|Warlock/Mage/Priest| |Z|Durotar|
 N Buy [Refreshing Spring Water] from her --Refreshing Spring Water (10) |N|(56.3, 73.4)| |C|Warlock/Mage/Priest| |Z|Durotar|
-B K'waii |L|159 10| |N|K'waii - (56.3, 73.4)| |C|Warlock/Mage/Priest| |Z|Durotar|
+B Buy Refreshing Spring Water (x10) |L|159 10| |N|K'waii - (56.3, 73.4)| |C|Warlock/Mage/Priest| |Z|Durotar|
 B Vendor trash. Sell your weapon if it gives you enough money for a [Walking Stick] (5s 04c). You'll come back later if you don't have enough yet |N|Trayexir - (56.5, 73.1)| |C|Shaman| |Z|Durotar|
 B Collect Walking Stick (1) |L|2495 1| |N|Trayexir. Buy a [Walking Stick] from him - (56.5, 73.1)| |C|Shaman| |Z|Durotar|
 B Vendor trash. Sell your weapon if it gives you enough money for a [Stiletto] (4s 01c). You'll come back later if you don't have enough yet |N|Trayexir - (56.5, 73.1)| |C|Rogue| |Z|Durotar|
@@ -41,9 +41,9 @@ T Thwarting Kolkar Aggression |QID|786| |N|Lar. He patrols a little - (54.2, 73.
 T Thwarting Kolkar Aggression |QID|786| |N|Lar. He patrols a little - (54.2, 73.4)| |C|!Shaman| |Z|Durotar|
 T A Solvent Spirit |QID|818| |N|Vornal - (56.0, 74.4)| |O| |Z|Durotar|
 N Buy [Refreshing Spring Water] from her --Refreshing Spring Water (20) |N|(56.3, 73.4)| |C|Warlock/Mage/Priest| |Z|Durotar|
-B K'waii |L|159 20| |N|K'waii - (56.3, 73.4)| |C|Warlock/Mage/Priest| |Z|Durotar|
+B Buy Refreshing Spring Water (x20) |L|159 20| |N|K'waii - (56.3, 73.4)| |C|Warlock/Mage/Priest| |Z|Durotar|
 N Buy [Refreshing Spring Water] from her --Refreshing Spring Water (10) |N|(56.3, 73.4)| |C|Warlock/Mage/Priest| |Z|Durotar|
-B K'waii |L|159 10| |N|K'waii - (56.3, 73.4)| |C|Warlock/Mage/Priest| |Z|Durotar|
+B Buy Refreshing Spring Water (x10) |L|159 10| |N|K'waii - (56.3, 73.4)| |C|Warlock/Mage/Priest| |Z|Durotar|
 N Buy [Haunch of Meat] from him |N|(55.6, 73.6)| |C|Warrior/Rogue/Shaman| |Z|Durotar|
 B Vendor trash |N|Hai'zan - (55.6, 73.6)| |C|Warrior/Rogue/Shaman| |Z|Durotar|
 B Haunch of Meat (10) |L|2287 10| |N|Hai'zan - (55.6, 73.6)| |C|Warrior/Rogue/Shaman| |Z|Durotar|
@@ -68,7 +68,7 @@ N This will allow you to find [Rough Stones] from nodes in order to craft [Sharp
 N Buy a [Mining Pick] from him |N|(51.9, 41.1)| |C|Warrior/Rogue| |Z|Durotar|
 B Mining Pick (1) |L|2901 1| |N|Wuark - (51.9, 41.1)| |C|Warrior/Rogue| |Z|Durotar|
 t Train [Blacksmithing] |N|Dwukk - (52.0, 40.7)| |C|Warrior/Rogue| |Z|Durotar|
-C Cast [Find Minerals] and mine any Copper Vein you find for [Rough Stones]. Make [Sharpening Stones] from them |QID|786| |L|2862 1| |O| |C|Warrior/Rogue| |Z|Durotar|
+C Collect Rough Sharpening Stone (x1) |QID|786| |L|2862 1| |O| |C|Warrior/Rogue| |Z|Durotar|
 t Mining Trained |O| |C|Warrior/Rogue| |Z|Durotar|
 N Grind mobs on the way |N|(57.3, 54.7)| |Z|Durotar|
 R Move toward the second floor of the keep |N|(59.3, 57.9)| |O| |Z|Durotar|
@@ -117,7 +117,7 @@ B Vendor trash. Sell your weapon if it gives you enough money for a [Tomahawk] (
 B Collect Tomahawk (1) |L|2490 1| |N|Uhgar. Buy a [Tomahawk] from him - (52.0, 40.5)| |C|Warrior| |R|Troll| |Z|Durotar|
 B Vendor trash. Sell your weapon if it gives you enough money for a [Hornwood Recurve Bow] (2s 83c). You'll come back later if you don't have enough yet |N|Ghrawt - (53.0, 41.0)| |C|Hunter| |Z|Durotar|
 B Collect Hornwood Recurve Bow (1) |L|2506 1| |N|Ghrawt. Buy a [Hornwood Recurve Bow] from him - (53.0, 41.0)| |C|Hunter| |Z|Durotar|
-B Ghrawt. Buy [Rough Arrows] from him |L|2512 1000| |N|Ghrawt. Buy [Rough Arrows] from him - (53.0, 41.0)| |C|Hunter| |Z|Durotar|
+B Buy Rough Arrow (x1000) |L|2512 1000| |N|Ghrawt. Buy [Rough Arrows] from him - (53.0, 41.0)| |C|Hunter| |Z|Durotar|
 N Buy [Ice Cold Milk] from him |N|(51.5, 41.6)| |C|Mage/Warlock/Priest/Shaman/Druid| |Z|Durotar|
 N Buy [Haunch of Meat] from him |N|(51.5, 41.6)| |C|Rogue/Warrior| |Z|Durotar|
 N Save 4 silver for your class spells! |N|(51.5, 41.6)| |C|Rogue/Warrior/Shaman/Warlock| |Z|Durotar|
@@ -204,7 +204,7 @@ T Break a Few Eggs |QID|815| |N|Torka and Gar'Thok - (51.1, 42.5)| |C|!Shaman/!H
 T From The Wreckage.... |QID|825| |N|Torka and Gar'Thok - (51.1, 42.5)| |C|!Shaman/!Hunter| |Z|Durotar|
 A Taming the Beast |QID|6062| |N|Thotar - (51.9, 43.5)| |C|Hunter| |Z|Durotar|
 t Train your class spells |N|Thotar - (51.9, 43.5)| |C|Hunter| |Z|Durotar|
-B Ghrawt |L|2515 1200| |N|Ghrawt - (53.0, 41.0)| |C|Hunter| |Z|Durotar|
+B Buy Sharp Arrow (x1200) |L|2515 1200| |N|Ghrawt - (53.0, 41.0)| |C|Hunter| |Z|Durotar|
 t Train [First Aid] |N|Rawrk - (54.2, 41.9)| |Z|Durotar|
 t Train your class spells |N|Tarshaw - (54.2, 42.5)| |C|Warrior| |Z|Durotar|
 t Train your class spells |N|Swart - (54.4, 42.6)| |C|Shaman| |Z|Durotar|
@@ -307,13 +307,13 @@ H Razor Hill |N|Hearth to Razor Hill| |C|Shaman| |P|SOLO| |Z|Durotar|
 B Vendor Trash |N|[Group] Innkeeper Grosk - (51.5, 41.6)| |P|GROUP| |Z|Durotar|
 N Buy [Ice Cold Milk] from him |N|[Group] (51.5, 41.6)| |C|Mage/Warlock/Priest/Shaman| |P|GROUP| |Z|Durotar|
 N Buy [Haunch of Meat] from him |N|[Group] (51.5, 41.6)| |C|Rogue/Warrior| |P|GROUP| |Z|Durotar|
-B Innkeeper Grosk |L|1179 15| |N|[Group] Innkeeper Grosk - (51.5, 41.6)| |C|Mage/Warlock/Priest/Shaman| |P|GROUP| |Z|Durotar|
-B Innkeeper Grosk |L|2287 15| |N|[Group] Innkeeper Grosk - (51.5, 41.6)| |C|Rogue/Warrior| |P|GROUP| |Z|Durotar|
+B Buy Ice Cold Milk (x15) |L|1179 15| |N|[Group] Innkeeper Grosk - (51.5, 41.6)| |C|Mage/Warlock/Priest/Shaman| |P|GROUP| |Z|Durotar|
+B Buy Haunch of Meat (x15) |L|2287 15| |N|[Group] Innkeeper Grosk - (51.5, 41.6)| |C|Rogue/Warrior| |P|GROUP| |Z|Durotar|
 B Vendor Trash |N|Innkeeper Grosk - (51.5, 41.6)| |C|Shaman| |Z|Durotar|
 N Buy [Ice Cold Milk] from him |N|(51.5, 41.6)| |C|Mage/Warlock/Priest/Shaman| |Z|Durotar|
 N Buy [Haunch of Meat] from him |N|(51.5, 41.6)| |C|Rogue/Warrior| |Z|Durotar|
-B Innkeeper Grosk |L|1179 15| |N|Innkeeper Grosk - (51.5, 41.6)| |C|Mage/Warlock/Priest/Shaman| |Z|Durotar|
-B Innkeeper Grosk |L|2287 15| |N|Innkeeper Grosk - (51.5, 41.6)| |C|Rogue/Warrior| |Z|Durotar|
+B Buy Ice Cold Milk (x15) |L|1179 15| |N|Innkeeper Grosk - (51.5, 41.6)| |C|Mage/Warlock/Priest/Shaman| |Z|Durotar|
+B Buy Haunch of Meat (x15) |L|2287 15| |N|Innkeeper Grosk - (51.5, 41.6)| |C|Rogue/Warrior| |Z|Durotar|
 T Dark Storms |QID|806| |N|[Group] Orgnil - (52.2, 43.1)| |P|GROUP| |Z|Durotar|
 A Margoz |QID|828| |N|[Group] Orgnil - (52.2, 43.1)| |P|GROUP| |Z|Durotar|
 T Encroachment |QID|837| |N|[Group] Gar'Thok - (52.0, 43.5)| |C|!Shaman| |P|GROUP| |Z|Durotar|
@@ -326,7 +326,7 @@ t Train your class spells |N|[Group] Kaplak - (52.0, 43.7)| |C|Rogue| |P|GROUP| 
 t Train your class spells |N|[Group] Tai'jin - (54.3, 42.9)| |C|Priest| |P|GROUP| |Z|Durotar|
 B Vendor trash. Sell your weapon if it gives you enough money for a [Laminated Recurve Bow] (17s 51c). You'll come back later if you don't have enough yet |N|[Group] Ghrawt - (53.0, 41.0)| |C|Hunter| |P|GROUP| |Z|Durotar|
 B Collect Laminated Recurve Bow (1) |L|2507 1| |N|[Group] Ghrawt. Buy a [Laminated Recurve Bow] from him - (53.0, 41.0)| |C|Hunter| |P|GROUP| |Z|Durotar|
-B Ghrawt |L|2515 1200| |N|[Group] Ghrawt - (53.0, 41.0)| |C|Hunter| |P|GROUP| |Z|Durotar|
+B Buy Sharp Arrow (x1200) |L|2515 1200| |N|[Group] Ghrawt - (53.0, 41.0)| |C|Hunter| |P|GROUP| |Z|Durotar|
 R Margoz |N|[Group] (56.4, 20.0)| |O| |P|GROUP| |Z|Durotar|
 T Margoz |QID|828| |N|[Group] Margoz - (56.4, 20.0)| |P|GROUP| |Z|Durotar|
 A Skull Rock |QID|827| |N|[Group] Margoz - (56.4, 20.0)| |P|GROUP| |Z|Durotar|
@@ -412,6 +412,7 @@ C Plainstrider Menace |QID|844| |OIDX|1| |N|Kill Plainstriders. Loot them for th
 R the top of the mountain |N|(47.6, 19.4)| |C|Shaman/Hunter| |Z|The Barrens|
 N Make sure you have a [Flawed Power Stone] (30 minute duration) on you |N|(48.0, 19.1)| |C|Shaman/Hunter| |Z|The Barrens|
 C Collect Flawed Power Stone |QID|924| |L|4986 1| |N|Right click the Altar (48.0, 19.1)| |C|Shaman/Hunter| |Z|The Barrens|
+C The Demon Seed |QID|924| |OIDX|1| |N|Right click the Altar Destroy the Demon Seed (1)| |C|Shaman/Hunter| |Z|The Barrens|
 R Travel down the mountain where you came from |N|(51.1, 22.7)| |O| |C|Shaman/Hunter| |Z|The Barrens|
 C Plainstrider Menace |QID|844| |OIDX|1| |N|Kill Plainstriders. Loot them for their beaks Plainstrider Beak (7)| |O| |C|Shaman/Hunter| |Z|The Barrens|
 C Disrupt the Attacks |QID|871| |OIDX|1| |N|Kill Water Seekers, Thornweavers and Hunters Razormane Water Seeker (8)| |O| |C|Hunter| |Z|The Barrens|
@@ -430,7 +431,7 @@ T The Disruption Ends |QID|871| |N|Sergra and Thork - (52.2, 31.0)| |C|Shaman/Hu
 A Disrupt the Attacks |QID|872| |N|Sergra and Thork - (52.2, 31.0)| |C|Shaman/Hunter| |Z|The Barrens|
 R Innkeeper Boorand |N|(52.0, 29.9)| |C|Shaman/Hunter| |Z|The Barrens|
 h Crossroads |N|Set hearth in Crossroads (52.0, 29.9)| |C|Shaman/Hunter| |Z|The Barrens|
-B Barg |L|2515 1200| |N|Barg - (51.7, 29.9)| |C|Hunter| |Z|The Barrens|
+B Buy Sharp Arrow (x1200) |L|2515 1200| |N|Barg - (51.7, 29.9)| |C|Hunter| |Z|The Barrens|
 T Meats to Orgrimmar |QID|6365| |N|Devrak - (51.5, 30.3)| |C|Hunter| |Z|The Barrens|
 A Ride to Orgrimmar |QID|6384| |N|Devrak - (51.5, 30.3)| |C|Hunter| |Z|The Barrens|
 F Fly to Orgrimmar |N|Devrak - (51.5, 30.3)| |O| |C|Hunter| |Z|The Barrens|
@@ -476,9 +477,10 @@ N Buy [Ice Cold Milk] from her |N|(61.7, 52.1)| |C|Mage/Priest/Shaman| |Z|Tirisf
 N Buy [Red-speckled Mushrooms] from her |N|(61.7, 52.1)| |C|Warrior/Rogue| |Z|Tirisfal Glades|
 N Buy [Ice Cold Milk] and [Red-speckled Mushrooms] from her |N|(61.7, 52.1)| |C|Warlock| |Z|Tirisfal Glades|
 B Vendor Trash |N|Innkeeper Renee - (61.7, 52.1)| |C|!Mage| |Z|Tirisfal Glades|
-B Innkeeper Renee |L|1179 20| |N|Innkeeper Renee - (61.7, 52.1)| |C|Mage/Priest/Shaman| |Z|Tirisfal Glades|
-B Innkeeper Renee |L|4605 20| |N|Innkeeper Renee - (61.7, 52.1)| |C|Rogue/Warrior| |Z|Tirisfal Glades|
-B Innkeeper Renee |L|1179 15| |N|Innkeeper Renee - (61.7, 52.1)| |C|Warlock| |Z|Tirisfal Glades|
+B Buy Ice Cold Milk (x20) |L|1179 20| |N|Innkeeper Renee - (61.7, 52.1)| |C|Mage/Priest/Shaman| |Z|Tirisfal Glades|
+B Buy Red-speckled Mushroom (x20) |L|4605 20| |N|Innkeeper Renee - (61.7, 52.1)| |C|Rogue/Warrior| |Z|Tirisfal Glades|
+B Buy Ice Cold Milk (x15) |L|1179 15| |N|Innkeeper Renee - (61.7, 52.1)| |C|Warlock| |Z|Tirisfal Glades|
+B Buy Red-speckled Mushroom (x15) |L|4605 15| |N|Innkeeper Renee - (61.7, 52.1)| |C|Warlock| |Z|Tirisfal Glades|
 N Buy one or more [Small Brown Pouches] from her |N|(61.1, 52.6)| |Z|Tirisfal Glades|
 B Small Brown Pouch (1) |L|4496 1| |N|Mrs. Winters - (61.1, 52.6)| |Z|Tirisfal Glades|
 A At War With The Scarlet Crusade |QID|427| |N|Zygand - (60.6, 51.8)| |O| |Z|Tirisfal Glades|
@@ -646,9 +648,10 @@ N Buy [Ice Cold Milk] from her |N|(61.7, 52.1)| |C|Mage/Priest/Shaman| |Z|Tirisf
 N Buy [Red-speckled Mushroom] from her |N|(61.7, 52.1)| |C|Warrior/Rogue| |Z|Tirisfal Glades|
 N Buy [Ice Cold Milk] and [Red-speckled Mushroom] from her |N|(61.7, 52.1)| |C|Warlock/Hunter| |Z|Tirisfal Glades|
 B Vendor Trash |N|Innkeeper Renee - (61.7, 52.1)| |C|!Mage| |Z|Tirisfal Glades|
-B Innkeeper Renee |L|1179 20| |N|Innkeeper Renee - (61.7, 52.1)| |C|Mage/Priest/Shaman| |Z|Tirisfal Glades|
-B Innkeeper Renee |L|4605 20| |N|Innkeeper Renee - (61.7, 52.1)| |C|Rogue/Warrior| |Z|Tirisfal Glades|
-B Innkeeper Renee |L|1179 15| |N|Innkeeper Renee - (61.7, 52.1)| |C|Warlock/Hunter| |Z|Tirisfal Glades|
+B Buy Ice Cold Milk (x20) |L|1179 20| |N|Innkeeper Renee - (61.7, 52.1)| |C|Mage/Priest/Shaman| |Z|Tirisfal Glades|
+B Buy Red-speckled Mushroom (x20) |L|4605 20| |N|Innkeeper Renee - (61.7, 52.1)| |C|Rogue/Warrior| |Z|Tirisfal Glades|
+B Buy Ice Cold Milk (x15) |L|1179 15| |N|Innkeeper Renee - (61.7, 52.1)| |C|Warlock/Hunter| |Z|Tirisfal Glades|
+B Buy Red-speckled Mushroom (x15) |L|4605 15| |N|Innkeeper Renee - (61.7, 52.1)| |C|Warlock/Hunter| |Z|Tirisfal Glades|
 T Forsaken Duties |QID|359| |N|Linnea - (65.5, 60.2)| |O| |Z|Tirisfal Glades|
 A Return to the Magistrate |QID|360| |N|Linnea - (65.5, 60.2)| |O| |Z|Tirisfal Glades|
 A Rear Guard Patrol |QID|356| |N|Linnea - (65.5, 60.2)| |O| |Z|Tirisfal Glades|
@@ -757,6 +760,7 @@ C Brown Linen Robe(9) |QID|398| |L|6238 9| |N|Create as many [Brown Linen Robes]
 N Disenchant all the [Brown Linen Robes] that you made and create a [Runed Copper Rod] |N|(62.4, 61.0)| |C|Priest/Warlock| |Z|Undercity|
 N If you did not get a [Lesser Magic Essence] then buy one from Thaddeus if there is one available. Otherwise finish this step later |N|(62.4, 61.0)| |C|Priest/Warlock| |Z|Undercity|
 B Runed Copper Rod (1) |L|6218 1| |N|Thaddeus. Buy a [Copper Rod] and [Simple Wood] from him - (62.4, 61.0)| |C|Priest/Warlock| |Z|Undercity|
+B Simple Wood (1) |L|4470 1| |N|Thaddeus. Buy a [Copper Rod] and [Simple Wood] from him - (62.4, 61.0)| |C|Priest/Warlock| |Z|Undercity|
 t Train [Lesser Magic Wand] |N|Malcomb - (62.5, 60.3)| |C|Priest/Warlock| |Z|Undercity|
 N If you did not get a [Lesser Magic Essence] then buy one from Thaddeus if there is one available. Otherwise finish this step later |C|Priest/Warlock| |Z|Undercity|
 B Lesser Magic Wand (1) |L|11287 1| |N|Create a [Lesser Magic Wand]| |C|Priest/Warlock| |Z|Undercity|

@@ -131,13 +131,13 @@ C Collect Gold Pickup Schedule (x1) |QID|123| |L|1307 1| |N|Kill Riverpaw Runts 
 A The Collector |QID|123| |N|Kill Riverpaw Runts and Riverpaw Outrunners. Loot them for the [Gold Pickup Schedule]| |O| |Z|Elwynn Forest|
 N Ensure you have 10 [Linen Cloth] for your upcoming Paladin class quest |N|[Group]| |O| |C|Paladin| |R|Dwarf| |P|GROUP| |Z|Elwynn Forest|
 C Riverpaw Gnoll Bounty |QID|11| |OIDX|1| |N|[Group] Kill Riverpaw Runts and Riverpaw Outrunners. Loot them for their Armbands Painted Gnoll Armband (8)| |O| |C|!Warlock| |P|GROUP| |Z|Elwynn Forest|
-C Riverpaw Runts and Riverpaw Outrunners. Loot them for their Armbands |QID|1648| |L|2589 10| |N|[Group] Kill Riverpaw Runts and Riverpaw Outrunners. Loot them for their Armbands| |O| |C|Paladin| |R|Dwarf| |P|GROUP| |Z|Elwynn Forest|
+C Collect Linen Cloth (x10) |QID|1648| |L|2589 10| |N|[Group] Kill Riverpaw Runts and Riverpaw Outrunners. Loot them for their Armbands| |O| |C|Paladin| |R|Dwarf| |P|GROUP| |Z|Elwynn Forest|
 N Ensure you have 10 [Linen Cloth] for your upcoming Paladin class quest |O| |C|Paladin| |R|Dwarf| |Z|Elwynn Forest|
 C Riverpaw Gnoll Bounty |QID|11| |OIDX|1| |N|Kill Riverpaw Runts and Riverpaw Outrunners. Loot them for their Armbands Painted Gnoll Armband (8)| |O| |C|Warlock| |Z|Elwynn Forest|
-C Riverpaw Runts and Riverpaw Outrunners. Loot them for their Armbands |QID|1648| |L|2589 10| |N|Kill Riverpaw Runts and Riverpaw Outrunners. Loot them for their Armbands| |O| |C|Paladin| |R|Dwarf| |Z|Elwynn Forest|
+C Collect Linen Cloth (x10) |QID|1648| |L|2589 10| |N|Kill Riverpaw Runts and Riverpaw Outrunners. Loot them for their Armbands| |O| |C|Paladin| |R|Dwarf| |Z|Elwynn Forest|
 N Ensure you have 10 [Linen Cloth] for your upcoming Paladin class quest |N|(25.9, 93.9)| |C|Paladin| |R|Dwarf| |Z|Elwynn Forest|
 C Riverpaw Gnoll Bounty |QID|11| |OIDX|1| |N|Riverpaw Runts and Riverpaw Outrunners. Loot them for their Armbands Painted Gnoll Armband (8)| |Z|Elwynn Forest|
-C Riverpaw Runts and Riverpaw Outrunners. Loot them for their Armbands |QID|1648| |L|2589 10| |N|Riverpaw Runts and Riverpaw Outrunners. Loot them for their Armbands - (25.9, 93.9)| |C|Paladin| |R|Dwarf| |Z|Elwynn Forest|
+C Collect Linen Cloth (x10) |QID|1648| |L|2589 10| |N|Riverpaw Runts and Riverpaw Outrunners. Loot them for their Armbands (25.9, 93.9)| |C|Paladin| |R|Dwarf| |Z|Elwynn Forest|
 T Wanted: "Hogger" |QID|176| |N|Marshal Dughan - (42.1, 65.9)| |Z|Elwynn Forest|
 T The Collector |QID|123| |N|Marshal Dughan - (42.1, 65.9)| |Z|Elwynn Forest|
 T Riverpaw Gnoll Bounty |QID|11| |N|Deputy Rainer - (24.2, 74.5)| |Z|Elwynn Forest|

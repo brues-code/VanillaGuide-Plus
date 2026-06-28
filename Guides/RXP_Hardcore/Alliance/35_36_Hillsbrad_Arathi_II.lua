@@ -6,7 +6,7 @@ N 35-36 Hillsbrad/Arathi II |N|Converted from RestedXP guide|
 
 F Fly to Southshore |N|Gryth - (55.5, 47.7)| |Z|Ironforge|
 N Buy 1 [Soothing Spice] from him |N|(48.9, 55.0)| |Z|Hillsbrad Foothills|
-B Micha Yance |L|3713 1| |N|Micha Yance - (48.9, 55.0)| |Z|Hillsbrad Foothills|
+B Buy Soothing Spices (x1) |L|3713 1| |N|Micha Yance - (48.9, 55.0)| |Z|Hillsbrad Foothills|
 A Costly Menace |QID|564| |N|Darren Malvew - (52.4, 56.0)| |Z|Hillsbrad Foothills|
 A Soothing Turtle Bisque |QID|555| |N|Chef Jessen - (51.9, 58.7)| |Z|Hillsbrad Foothills|
 T Soothing Turtle Bisque |QID|555| |N|(51.9, 58.7)| |Z|Hillsbrad Foothills|
@@ -32,14 +32,14 @@ C Syndicate Assassins |QID|505| |OIDX|1| |N|Kill Syndicate Thieves and Syndicate
 C Costly Menace |QID|564| |OIDX|1| |N|Mountain Lions and Hulking Mountain Lions (38.8, 91.1)| |Z|Alterac Mountains|
 C Crushridge Bounty |QID|500| |OIDX|1| |N|Crushridge Ogres and Crushridge Brutes. Loot them for their Knucklebones (50.0, 56.0)| |Z|Alterac Mountains|
 N Go up and down along the River until you've completed it |N|(69.3, 12.4)| |Z|Hillsbrad Foothills|
-C Snapjaws. Loot them for their Turtle Meat |QID|555| |L|3712 10| |N|Snapjaws. Loot them for their Turtle Meat - (69.3, 12.4)| |Z|Hillsbrad Foothills|
+C Collect Turtle Meat (x10) |QID|555| |L|3712 10| |N|Snapjaws. Loot them for their Turtle Meat (69.3, 12.4)| |Z|Hillsbrad Foothills|
 T The Windwatcher |QID|1791| |N|Bath'rah the Windwatcher - (80.5, 66.9)| |C|Warrior| |Z|Alterac Mountains|
 A Cyclonian |QID|1712| |N|Bath'rah the Windwatcher - (80.5, 66.9)| |C|Warrior| |Z|Alterac Mountains|
 R Travel to Western Plaguelands |N|(42.9, 85.1)| |Z|Western Plaguelands|
 f Get the Western Plaguelands Flight Path |N|Bibilfaz Featherwhistle - (42.9, 85.1)| |Z|Western Plaguelands|
 F Fly to Southshore |N|Bibilfaz Featherwhistle - (42.9, 85.1)| |O| |Z|Western Plaguelands|
 N Buy 1 [Soothing Spice] from him |N|(48.9, 55.0)| |Z|Hillsbrad Foothills|
-B Micha Yance |L|3713 1| |N|Micha Yance - (48.9, 55.0)| |Z|Hillsbrad Foothills|
+B Buy Soothing Spices (x1) |L|3713 1| |N|Micha Yance - (48.9, 55.0)| |Z|Hillsbrad Foothills|
 T Encrypted Letter |QID|511| |N|Loremaster Dibbs - (50.6, 57.1)| |Z|Hillsbrad Foothills|
 A Letter to Stormpike |QID|514| |N|Loremaster Dibbs - (50.6, 57.1)| |Z|Hillsbrad Foothills|
 T Soothing Turtle Bisque |QID|555| |N|Chef Jessen - (51.9, 58.7)| |Z|Hillsbrad Foothills|
@@ -62,7 +62,7 @@ A A King's Tribute |QID|700| |N|Grand Mason Marblesten - (39.0, 88.0)| |Z|Ironfo
 N Bailey Stonemantle |N|(35.9, 60.2)| |C|!Warlock| |Z|Ironforge|
 N [Elixir of Water Breathing] (If you have one) |N|(35.9, 60.2)| |C|!Warlock| |Z|Ironforge|
 N Buy a [Elixir of Water Breathing] from the Auction House |N|(23.8, 71.8)| |O| |C|!Warlock| |AH| |Z|Ironforge|
-B an Ironforge Auctioneer |L|5996 1| |N|an Ironforge Auctioneer - (23.8, 71.8)| |O| |C|!Warlock| |AH| |Z|Ironforge|
+B Buy Elixir of Water Breathing (x1) |L|5996 1| |N|an Ironforge Auctioneer - (23.8, 71.8)| |O| |C|!Warlock| |AH| |Z|Ironforge|
 T A King's Tribute |QID|700| |N|(39.1, 56.2)| |Z|Ironforge|
 
 ]]

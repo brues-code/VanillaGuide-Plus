@@ -53,7 +53,7 @@ C Spiritual Unrest |QID|5535| |OIDX|1| |N|Highborne Apparitions and Highborne Li
 C A Land Filled with Hatred |QID|5536| |OIDX|1| |N|Haldarr Satyrs, Haldarr Tricksters and Haldarr Felsworns (20.6, 60.9)| |Z|Azshara|
 N Save an Ichor of Undeath for your Sunken Temple class quest later if you get one from them, if not you'll get one later |N|(17.1, 69.0)| |C|Priest| |Z|Azshara|
 C Spiritual Unrest |QID|5535| |OIDX|1| |N|Highborne Apparitions and Highborne Lichlings (17.1, 69.0)| |Z|Azshara|
-C Highborne Apparitions and Highborne Lichlings |QID|8256| |L|7972 1| |N|Highborne Apparitions and Highborne Lichlings - (17.1, 69.0)| |C|Priest| |Z|Azshara|
+C Collect Ichor of Undeath (x1) |QID|8256| |L|7972 1| |N|Highborne Apparitions and Highborne Lichlings (17.1, 69.0)| |C|Priest| |Z|Azshara|
 C Spiritual Unrest |QID|5535| |OIDX|1| |N|Highborne Apparitions and Highborne Lichlings (17.1, 69.0)| |Z|Azshara|
 T Spiritual Unrest |QID|5535| |N|Loh'atu - (11.4, 78.2)| |Z|Azshara|
 T A Land Filled with Hatred |QID|5536| |N|Loh'atu - (11.4, 78.2)| |Z|Azshara|
@@ -67,8 +67,9 @@ A Forces of Jaedenar |QID|5155| |N|Greta Mosshoof - (51.2, 82.1)| |Z|Felwood|
 A Verifying the Corruption |QID|5156| |N|Taronn Redfeather - (50.9, 81.6)| |Z|Felwood|
 A The Corruption of the Jadefire |QID|4421| |N|Eridan Bluewind - (51.4, 81.5)| |Z|Felwood|
 C The Corruption of the Jadefire |QID|4421| |OIDX|1| |N|Kill Jadefire Felsworns, Jadefire Shadowstalkers, Jadefire Rogues and Xavathras (37.2, 68.9)| |Z|Felwood|
-C Jadefire Satyrs and Jadefire Felsworns. Loot them for a Felcloth |QID|8419| |L|14256 1| |N|Jadefire Satyrs and Jadefire Felsworns. Loot them for a Felcloth - (39.5, 84.5)| |C|Warlock| |Z|Felwood|
-C Collect item |L|11914 6| |N|Open the [Package of Empty Ooze Containers]| |O| |Z|Felwood|
+C Collect Felcloth (x1) |QID|8419| |L|14256 1| |N|Jadefire Satyrs and Jadefire Felsworns. Loot them for a Felcloth (39.5, 84.5)| |C|Warlock| |Z|Felwood|
+C Collect Empty Cursed Ooze Jar (x6) |L|11914 6| |N|Open the [Package of Empty Ooze Containers]| |O| |Z|Felwood|
+C Collect Empty Tainted Ooze Jar (x6) |L|11948 6| |N|Open the [Package of Empty Ooze Containers]| |O| |Z|Felwood|
 N Use the [Empty Cursed Ooze Jars] on their corpses |N|(40.8, 66.9)| |Z|Felwood|
 C A Little Slime Goes a Long Way |QID|4512| |OIDX|1| |N|Cursed Oozes (40.8, 66.9)| |Z|Felwood|
 T An Imp's Request |QID|8419| |N|Impsy - (41.5, 45.0)| |C|Warlock| |Z|Felwood|
@@ -89,7 +90,7 @@ C Collection of the Corrupt Water |QID|5157| |OIDX|1| |N|Use the [Empty Canteen]
 C Verifying the Corruption |QID|5156| |OIDX|1| |N|Kill Entropic Beasts and Entropic Horrors (41.5, 43.0)| |Z|Felwood|
 N Use the [Flute of Xavaric] to start the quest |N|(39.0, 22.3)| |Z|Felwood|
 C Further Corruption |QID|4906| |OIDX|4| |N|Xavaric. Loot him for the [Flute of Xavaric] (39.0, 22.3)| |Z|Felwood|
-C Xavaric. Loot him for the [Flute of Xavaric] |QID|939| |L|11668 1| |N|Xavaric. Loot him for the [Flute of Xavaric] - (39.0, 22.3)| |Z|Felwood|
+C Collect Flute of Xavaric (x1) |QID|939| |L|11668 1| |N|Xavaric. Loot him for the [Flute of Xavaric] (39.0, 22.3)| |Z|Felwood|
 A Flute of Xavaric |QID|939| |N|Xavaric. Loot him for the [Flute of Xavaric] - (39.0, 22.3)| |Z|Felwood|
 C Further Corruption |QID|4906| |OIDX|1| |N|Jadefire Hellcallers, Jadefire Betrayers and Jadefire Trickster. Loot them for their Jadefire Felbinds (39.0, 22.3)| |Z|Felwood|
 C Flute of Xavaric |QID|939| |OIDX|1| |N|Jadefire Hellcallers, Jadefire Betrayers and Jadefire Trickster. Loot them for their Jadefire Felbinds (39.0, 22.3)| |Z|Felwood|
@@ -118,7 +119,7 @@ R Head south to the slime pools and die at the arrow location |N|(40.8, 66.8)| |
 N Die and respawn at the Spirit Healer |N|(40.8, 66.8)| |O| |Z|Felwood|
 T Cleansing Felwood |QID|4101| |N|Arathandris Silversky - (54.1, 86.8)| |Z|Felwood|
 N Select the option: "I need a Cenarion beacon." |N|(54.1, 86.8)| |Z|Felwood|
-C Arathandris Silversky |L|11511 1| |N|Arathandris Silversky - (54.1, 86.8)| |Z|Felwood|
+C Collect Cenarion Beacon (x1) |L|11511 1| |N|Arathandris Silversky (54.1, 86.8)| |Z|Felwood|
 T Collection of the Corrupt Water |QID|5157| |N|Greta Mosshoof - (51.2, 82.1)| |Z|Felwood|
 A Seeking Spiritual Aid |QID|5158| |N|Greta Mosshoof - (51.2, 82.1)| |Z|Felwood|
 T Further Corruption |QID|4906| |N|Eridan Bluewind - (51.4, 81.5)| |Z|Felwood|

@@ -57,9 +57,9 @@ H Grom'gol Base Camp |N|Hearth to Grom'gol Base Camp| |Z|Stranglethorn Vale|
 B Sell your junk, then restock on food and water if necessary |N|Innkeeper Thulbek - (31.5, 29.8)| |C|!Rogue/!Warrior| |Z|Stranglethorn Vale|
 B Sell your junk, then restock on food if necessary |N|Innkeeper Thulbek - (31.5, 29.8)| |C|Rogue/Warrior| |Z|Stranglethorn Vale|
 N Buy [Razor Arrows] from him |N|(31.6, 27.9)| |C|Hunter| |Z|Stranglethorn Vale|
-B Uthok |L|3030 2600| |N|Uthok - (31.6, 27.9)| |C|Hunter| |Z|Stranglethorn Vale|
+B Buy Razor Arrow (x2600) |L|3030 2600| |N|Uthok - (31.6, 27.9)| |C|Hunter| |Z|Stranglethorn Vale|
 N Buy [Jagged Arrows] from him |N|(31.6, 27.9)| |C|Hunter| |Z|Stranglethorn Vale|
-B Uthok |L|11285 2600| |N|Uthok - (31.6, 27.9)| |C|Hunter| |Z|Stranglethorn Vale|
+B Buy Jagged Arrow (x2600) |L|11285 2600| |N|Uthok - (31.6, 27.9)| |C|Hunter| |Z|Stranglethorn Vale|
 T Mok'thardin's Enchantment |QID|572| |N|Far Seer Mok'thardin - (32.1, 29.2)| |Z|Stranglethorn Vale|
 T Split Bone Necklace |QID|598| |N|Kin'weelay - (32.2, 27.8)| |Z|Stranglethorn Vale|
 T Speaking with Nezzliok |QID|585| |N|Click on the Bubbling Cauldron| |Z|Stranglethorn Vale|

@@ -23,7 +23,7 @@ A Rune-Inscribed Note |QID|3093| |N|Grull - (44.9, 77.1)| |C|Shaman| |Z|Mulgore|
 A Verdant Note |QID|3094| |N|Grull - (44.9, 77.1)| |C|Druid| |Z|Mulgore|
 A The Hunt Continues |QID|750| |N|Grull - (44.9, 77.1)| |Z|Mulgore|
 N Buy [Light Shots] from her |N|(45.3, 76.5)| |C|Hunter| |Z|Mulgore|
-B Kawnie |L|2516 1000| |N|Kawnie - (45.3, 76.5)| |C|Hunter| |Z|Mulgore|
+B Buy Light Shot (x1000) |L|2516 1000| |N|Kawnie - (45.3, 76.5)| |C|Hunter| |Z|Mulgore|
 B Vendor Trash |N|Kawnie - (45.3, 76.5)| |Z|Mulgore|
 T A Humble Task |QID|753| |N|Chief Hawkwind - (44.2, 76.1)| |Z|Mulgore|
 A Rites of the Earthmother |QID|755| |N|Chief Hawkwind - (44.2, 76.1)| |Z|Mulgore|

@@ -57,9 +57,9 @@ H Grom'gol Base Camp |N|Hearth to Grom'gol Base Camp| |Z|Stranglethorn Vale|
 B Sell your junk, then restock on food and water if necessary |N|Innkeeper Thulbek - (31.5, 29.8)| |C|!Rogue/!Warrior| |Z|Stranglethorn Vale|
 B Sell your junk, then restock on food if necessary |N|Innkeeper Thulbek - (31.5, 29.8)| |C|Rogue/Warrior| |Z|Stranglethorn Vale|
 N Buy [Razor Arrows] from him |N|(31.6, 27.9)| |O| |C|Hunter| |Z|Stranglethorn Vale|
-B Uthok |L|3030 2600| |N|Uthok - (31.6, 27.9)| |O| |C|Hunter| |Z|Stranglethorn Vale|
+B Buy Razor Arrow (x2600) |L|3030 2600| |N|Uthok - (31.6, 27.9)| |O| |C|Hunter| |Z|Stranglethorn Vale|
 N Buy [Jagged Arrows] from him |N|(31.6, 27.9)| |C|Hunter| |Z|Stranglethorn Vale|
-B Uthok |L|11285 2600| |N|Uthok - (31.6, 27.9)| |C|Hunter| |Z|Stranglethorn Vale|
+B Buy Jagged Arrow (x2600) |L|11285 2600| |N|Uthok - (31.6, 27.9)| |C|Hunter| |Z|Stranglethorn Vale|
 T Mok'thardin's Enchantment |QID|572| |N|Far Seer Mok'thardin - (32.1, 29.2)| |Z|Stranglethorn Vale|
 T Split Bone Necklace |QID|598| |N|Kin'weelay - (32.2, 27.8)| |Z|Stranglethorn Vale|
 T Speaking with Nezzliok |QID|585| |N|Click on the Bubbling Cauldron| |Z|Stranglethorn Vale|
@@ -104,7 +104,7 @@ t Train your class spells |N|Greshka - (48.2, 57.9)| |C|Shaman| |Z|Swamp of Sorr
 t Train your class spells |N|Malosh - (44.9, 57.6)| |C|Warrior| |Z|Swamp of Sorrows|
 C Lack of Surplus |QID|698| |OIDX|1| |N|Kill Sawtooth Crocolisks and Sawtooth Snappers. Loot them for their Sawtooth Flanks| |O| |Z|Swamp of Sorrows|
 N Noboru the Cudgel patrols the zone's top-center |N|(32.2, 36.7)| |Z|Swamp of Sorrows|
-C Noboru the Cudgel. Loot him for [Noboru's Cudgel]. Use it to start the quest |QID|1392| |L|6196 1| |N|Noboru the Cudgel. Loot him for [Noboru's Cudgel]. Use it to start the quest - (32.2, 36.7)| |Z|Swamp of Sorrows|
+C Collect Noboru's Truncheon (x1) |QID|1392| |L|6196 1| |N|Noboru the Cudgel. Loot him for [Noboru's Cudgel]. Use it to start the quest (32.2, 36.7)| |Z|Swamp of Sorrows|
 A Noboru the Cudgel |QID|1392| |N|Noboru the Cudgel. Loot him for [Noboru's Cudgel]. Use it to start the quest - (32.2, 36.7)| |Z|Swamp of Sorrows|
 A Draenethyst Crystals |QID|1389| |N|Magtoor - (26.0, 31.4)| |Z|Swamp of Sorrows|
 T Noboru the Cudgel |QID|1392| |N|Magtoor - (26.0, 31.4)| |Z|Swamp of Sorrows|
@@ -160,10 +160,10 @@ N Click the Cannon to kill the Daggerspine Marauders instantly |N|(32.0, 80.7)| 
 C Death From Below |QID|667| |OIDX|1| |N|Board the boat, then wait for the naga to appear (32.0, 80.7)| |Z|Arathi Highlands|
 T Death From Below |QID|667| |N|Return to Shakes O'Breen - (32.3, 81.4)| |Z|Arathi Highlands|
 R Travel to The Hinterlands |N|(9.7, 55.8)| |O| |Z|The Hinterlands|
-C Witherbark Trolls. Loot them for their Skulls |QID|2932| |L|9320 20| |N|Kill Witherbark Trolls. Loot them for their Skulls| |O| |Z|The Hinterlands|
+C Collect Witherbark Skull (x20) |QID|2932| |L|9320 20| |N|Kill Witherbark Trolls. Loot them for their Skulls| |O| |Z|The Hinterlands|
 A Venom Bottles |QID|2933| |N|one of the green Venom Bottles around the camp - (23.0, 57.7)| |Z|The Hinterlands|
-C Witherbark Trolls. Loot them for their Skulls |QID|2932| |L|9320 20| |N|Witherbark Trolls. Loot them for their Skulls - (32.0, 58.0)| |Z|The Hinterlands|
-C Grim Message |QID|2932| |L|9319 1| |N|Use [Nimboya's Pike] to create [Nimboya's Laden Pike]| |O| |Z|The Hinterlands|
+C Collect Witherbark Skull (x20) |QID|2932| |L|9320 20| |N|Witherbark Trolls. Loot them for their Skulls (32.0, 58.0)| |Z|The Hinterlands|
+C Collect Nimboya's Laden Pike (x1) |QID|2932| |L|9319 1| |N|Use [Nimboya's Pike] to create [Nimboya's Laden Pike]| |O| |Z|The Hinterlands|
 C Grim Message |QID|2932| |OIDX|1| |N|Use [Nimboya's Laden Pike] in the middle of the camp (23.9, 58.3)| |Z|The Hinterlands|
 T Venom Bottles |QID|2933| |N|Lydon - (61.5, 19.2)| |Z|Hillsbrad Foothills|
 A Lord Aliden Perenolde |QID|507| |N|Krusk - (63.2, 20.7)| |P|SOLO| |Z|Hillsbrad Foothills|

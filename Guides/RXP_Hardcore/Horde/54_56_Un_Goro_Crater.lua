@@ -19,7 +19,7 @@ A The Eastern Pylon |QID|4287| |N|J.D. Collie - (41.9, 2.7)| |Z|Un'Goro Crater|
 A Beware of Pterrordax |QID|4501| |N|the Wanted Poster - (43.5, 8.4)| |Z|Un'Goro Crater|
 A Larion and Muigin |QID|4145| |N|Larion - (45.5, 8.7)| |Z|Un'Goro Crater|
 A Shizzle's Flyer |QID|4503| |N|Shizzle - (12.8, 8.1)| |Z|Tanaris|
-C Collect Un'Goro Soil as you quest throught Un'Goro |L|11018 25| |N|Collect Un'Goro Soil as you quest throught Un'Goro| |O| |Z|Tanaris|
+C Collect Un'Goro Soil (x25) |L|11018 25| |N|Collect Un'Goro Soil as you quest throught Un'Goro| |O| |Z|Tanaris|
 R Travel to Un'Goro Crater |N|(56.6, 16.6)| |O| |Z|Un'Goro Crater|
 N Their poison deals high damage. Do not focus on this. You can finish it later |N|(60.6, 20.6)| |O| |C|Warrior/Rogue| |Z|Un'Goro Crater|
 N Their poison deals high damage and drains mana. Do not focus on this. You can finish it later |N|(60.6, 20.6)| |O| |C|!Warrior/!Rogue| |Z|Un'Goro Crater|
@@ -107,7 +107,7 @@ N Use your [Devilsaur Barb] on it while it's asleep |C|Druid| |Z|Un'Goro Crater|
 C Toxic Test |QID|9051| |OIDX|1| |N|Track a Devilsaur or Ironhide Devilsaur| |C|Druid| |Z|Un'Goro Crater|
 T Toxic Test |QID|9051| |N|Torwa - (71.6, 76.0)| |C|Druid| |Z|Un'Goro Crater|
 A A Better Ingredient |QID|9053| |N|Torwa - (71.6, 76.0) (ST Dungeon Quest)| |C|Druid| |D|ST| |Z|Un'Goro Crater|
-C Collect Un'Goro Soil from mobs or Un'Goro Dirt Piles |L|11018 25| |N|Collect Un'Goro Soil from mobs or Un'Goro Dirt Piles - (57.9, 44.8)| |Z|Un'Goro Crater|
+C Collect Un'Goro Soil (x25) |L|11018 25| |N|Collect Un'Goro Soil from mobs or Un'Goro Dirt Piles (57.9, 44.8)| |Z|Un'Goro Crater|
 R Take the lava path shortcut on the west side of the volcano to the top |N|(48.6, 49.8)| |O| |Z|Un'Goro Crater|
 C Volcanic Activity |QID|4502| |OIDX|1| |N|Kill Fire Elementals. Loot them for their Ash| |O| |Z|Un'Goro Crater|
 N Be very careful of Blazerunner (56 elite) at the top of the mountain! |N|(49.6, 45.7)| |Z|Un'Goro Crater|
@@ -135,9 +135,9 @@ T The Strength of Corruption |QID|4120| |N|Talo - (76.2, 43.8)| |Z|Feralas|
 R Travel along the border of Dire Maul to the West Side |N|(55.9, 46.2)| |O| |Z|Feralas|
 N Click here for video reference |N|(55.4, 45.5)| |Z|Feralas|
 N Buy some [Bait] from him |N|(45.1, 25.6)| |Z|Feralas|
-B Gregan |L|11141 1| |N|Gregan - (45.1, 25.6)| |Z|Feralas|
+B Buy Bait (x1) |L|11141 1| |N|Gregan - (45.1, 25.6)| |Z|Feralas|
 N Place the [Bait] on the ground next to Miblon Snarltooth to distract him |N|(44.6, 10.6)| |O| |Z|Feralas|
-C the Evoroot inside the Ruins |QID|3909| |L|11242 1| |N|the Evoroot inside the Ruins - (44.5, 10.2)| |Z|Feralas|
+C Collect Evoroot (x1) |QID|3909| |L|11242 1| |N|the Evoroot inside the Ruins (44.5, 10.2)| |Z|Feralas|
 C The Videre Elixir |QID|3909| |OIDX|1| |N|Gregan and trade in the Evoroot (45.1, 25.6)| |Z|Feralas|
 H Camp Taurajo |N|Hearth to Camp Taurajo| |O| |C|!Mage| |Z|Feralas|
 F Fly to Thunder Bluff |N|Omusa - (44.5, 59.1)| |C|!Mage| |Z|The Barrens|

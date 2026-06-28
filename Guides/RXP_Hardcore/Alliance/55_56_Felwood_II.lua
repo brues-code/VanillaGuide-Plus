@@ -12,8 +12,8 @@ A Verifying the Corruption |QID|5156| |N|Taronn Redfeather - (50.9, 81.6)| |Z|Fe
 A The Corruption of the Jadefire |QID|4421| |N|[Group] Eridan Bluewind - (51.4, 81.5)| |P|GROUP| |Z|Felwood|
 T Cleansing Felwood |QID|4101| |N|Arathandris Silversky - (54.1, 86.8)| |Z|Felwood|
 N Select the option: "I need a Cenarion beacon." |N|(54.1, 86.8)| |Z|Felwood|
-C Arathandris Silversky |L|11511 1| |N|Arathandris Silversky - (54.1, 86.8)| |Z|Felwood|
-C Deadwood Warriors, Deadwood Pathfinders and Deadwood Gardeners. Loot them for their Corrupted Soul Shards |QID|5882| |L|11515 6| |N|Deadwood Warriors, Deadwood Pathfinders and Deadwood Gardeners. Loot them for their Corrupted Soul Shards - (48.2, 93.8)| |Z|Felwood|
+C Collect Cenarion Beacon (x1) |L|11511 1| |N|Arathandris Silversky (54.1, 86.8)| |Z|Felwood|
+C Collect Corrupted Soul Shard (x6) |QID|5882| |L|11515 6| |N|Deadwood Warriors, Deadwood Pathfinders and Deadwood Gardeners. Loot them for their Corrupted Soul Shards (48.2, 93.8)| |Z|Felwood|
 A Salve via Hunting |QID|5882| |N|Arathandris Silversky - (54.2, 86.8)| |Z|Felwood|
 T Salve via Hunting |QID|5882| |N|Arathandris Silversky - (54.2, 86.8)| |Z|Felwood|
 N This area can be very dangerous. Be extremely cautious |N|[Group] (37.2, 68.9)| |P|GROUP| |Z|Felwood|
@@ -23,7 +23,7 @@ C The Corruption of the Jadefire |QID|4421| |OIDX|1| |N|[Group] Kill Jadefire Fe
 C Dousing the Flames of Protection |QID|5165| |OIDX|1| |N|[Group] Click the four Braziers on the ground (36.3, 56.3)| |O| |P|GROUP| |Z|Felwood|
 N Use the [Blood Red Key] to start the quest |N|[Group]| |P|GROUP| |Z|Felwood|
 N This will begin an escort quest. Start this escort even if you still need to Extinguish Braziers |N|[Group]| |P|GROUP| |Z|Felwood|
-C Jaedenar Enforcers, Jaedenar Darkweavers, Jaedenar Warlocks and Jaedenar Legionnaires. Loot them for a [Blood Red Key] |QID|5202| |L|13140 1| |N|[Group] Kill Jaedenar Enforcers, Jaedenar Darkweavers, Jaedenar Warlocks and Jaedenar Legionnaires. Loot them for a [Blood Red Key]| |P|GROUP| |Z|Felwood|
+C Collect Blood Red Key (x1) |QID|5202| |L|13140 1| |N|[Group] Kill Jaedenar Enforcers, Jaedenar Darkweavers, Jaedenar Warlocks and Jaedenar Legionnaires. Loot them for a [Blood Red Key]| |P|GROUP| |Z|Felwood|
 A A Strange Red Key |QID|5202| |N|[Group] Kill Jaedenar Enforcers, Jaedenar Darkweavers, Jaedenar Warlocks and Jaedenar Legionnaires. Loot them for a [Blood Red Key]| |P|GROUP| |Z|Felwood|
 T A Strange Red Key |QID|5202| |N|[Group] Captured Arko'narin - (36.2, 55.5)| |P|GROUP| |Z|Felwood|
 A Rescue From Jaedenar |QID|5203| |N|[Group] Captured Arko'narin - (36.2, 55.5)| |P|GROUP| |Z|Felwood|
@@ -45,7 +45,7 @@ N Kill Salia first as she casts [Mind Control] |N|[Group] (38.8, 46.8)| |P|GROUP
 C A Final Blow |QID|5242| |OIDX|1| |N|[Group] Continue further into Shadow Hold (38.8, 46.8)| |P|GROUP| |Z|Felwood|
 N Use the [Flute of Xavaric] to start the quest |N|[Group] (39.0, 22.3)| |P|GROUP| |Z|Felwood|
 C Further Corruption |QID|4906| |OIDX|4| |N|[Group] Xavaric. Loot him for the [Flute of Xavaric] (39.0, 22.3)| |P|GROUP| |Z|Felwood|
-C Xavaric. Loot him for the [Flute of Xavaric] |QID|939| |L|11668 1| |N|[Group] Xavaric. Loot him for the [Flute of Xavaric] - (39.0, 22.3)| |P|GROUP| |Z|Felwood|
+C Collect Flute of Xavaric (x1) |QID|939| |L|11668 1| |N|[Group] Xavaric. Loot him for the [Flute of Xavaric] (39.0, 22.3)| |P|GROUP| |Z|Felwood|
 A Flute of Xavaric |QID|939| |N|[Group] Xavaric. Loot him for the [Flute of Xavaric] - (39.0, 22.3)| |P|GROUP| |Z|Felwood|
 C Further Corruption |QID|4906| |OIDX|1| |N|[Group] Jadefire Hellcallers, Jadefire Betrayers and Jadefire Trickster. Loot them for their Jadefire Felbinds (39.0, 22.3)| |P|GROUP| |Z|Felwood|
 C Flute of Xavaric |QID|939| |OIDX|1| |N|[Group] Jadefire Hellcallers, Jadefire Betrayers and Jadefire Trickster. Loot them for their Jadefire Felbinds (39.0, 22.3)| |P|GROUP| |Z|Felwood|
@@ -83,7 +83,7 @@ T The New Springs |QID|980| |N|Donova Snowden - (31.3, 45.2)| |Z|Winterspring|
 A Threat of the Winterfall |QID|5082| |N|Donova Snowden - (31.3, 45.2)| |Z|Winterspring|
 N Use the [Empty Firewater Flask] to start the quest |N|(41.3, 43.3)| |Z|Winterspring|
 N Ignore the quest to kill the Winterfall for now, just loot the [Empty Firewater Flask] and move on |N|(41.3, 43.3)| |Z|Winterspring|
-C Winterfall Pathfinders, Winterfall Den Watchers and Winterfall Totemics. Loot them for a [Empty Firewater Flask] |QID|5083| |L|12771 1| |N|Winterfall Pathfinders, Winterfall Den Watchers and Winterfall Totemics. Loot them for a [Empty Firewater Flask] - (41.3, 43.3)| |Z|Winterspring|
+C Collect Empty Firewater Flask (x1) |QID|5083| |L|12771 1| |N|Winterfall Pathfinders, Winterfall Den Watchers and Winterfall Totemics. Loot them for a [Empty Firewater Flask] (41.3, 43.3)| |Z|Winterspring|
 A Winterfall Firewater |QID|5083| |N|Winterfall Pathfinders, Winterfall Den Watchers and Winterfall Totemics. Loot them for a [Empty Firewater Flask] - (41.3, 43.3)| |Z|Winterspring|
 T Winterfall Firewater |QID|5083| |N|Donova Snowden - (31.3, 45.2)| |Z|Winterspring|
 A Falling to Corruption |QID|5084| |N|Donova Snowden - (31.3, 45.2)| |Z|Winterspring|

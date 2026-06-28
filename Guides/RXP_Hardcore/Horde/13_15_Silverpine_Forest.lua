@@ -21,7 +21,7 @@ B Buy [Lesser Healing Potions] from him if they're up |N|Gwyn - (44.0, 39.8)| |C
 B Red-speckled Mushroom (20) |L|4605 20| |N|Gwyn - (44.0, 39.8)| |C|!Mage/!Priest| |Z|Silverpine Forest|
 N Buy [Ice Cold Milk] from him |N|(44.0, 39.9)| |C|Mage/Warlock/Priest/Shaman/Druid| |Z|Silverpine Forest|
 B Buy [Lesser Healing Potions] from him if they're up |N|Edwin - (44.0, 39.9)| |Z|Silverpine Forest|
-B Edwin |L|1179 20| |N|Edwin - (44.0, 39.9)| |C|Mage/Warlock/Priest/Shaman/Druid| |Z|Silverpine Forest|
+B Buy Ice Cold Milk (x20) |L|1179 20| |N|Edwin - (44.0, 39.9)| |C|Mage/Warlock/Priest/Shaman/Druid| |Z|Silverpine Forest|
 A Border Crossings |QID|477| |N|Allister and Podrig - (44.0, 40.9)| |R|Undead| |Z|Silverpine Forest|
 A Supplying the Sepulcher |QID|6321| |N|Allister and Podrig - (44.0, 40.9)| |R|Undead| |Z|Silverpine Forest|
 A Border Crossings |QID|477| |N|Allister - (44.0, 40.9)| |Z|Silverpine Forest|
@@ -69,10 +69,11 @@ B Vendor trash |N|Gwyn - (44.0, 39.8)| |C|!Mage/!Priest| |Z|Silverpine Forest|
 B Red-speckled Mushroom (20) |L|4605 20| |N|Gwyn - (44.0, 39.8)| |C|!Mage/!Priest| |Z|Silverpine Forest|
 N Buy [Ice Cold Milk] from him |N|(44.0, 39.9)| |C|Warlock/Priest/Shaman/Druid| |Z|Silverpine Forest|
 B Buy [Lesser Healing Potions] from him if they're up |N|Edwin - (44.0, 39.9)| |Z|Silverpine Forest|
-B Edwin |L|1179 20| |N|Edwin - (44.0, 39.9)| |C|Warlock/Priest/Shaman/Druid| |Z|Silverpine Forest|
+B Buy Ice Cold Milk (x20) |L|1179 20| |N|Edwin - (44.0, 39.9)| |C|Warlock/Priest/Shaman/Druid| |Z|Silverpine Forest|
 B Buy [Wise Man's Belt] from her if they're up |N|Andrea - (44.8, 39.2)| |C|Warlock/Mage/Priest| |Z|Silverpine Forest|
 N Buy a [Fine Longbow] from her if it's up |N|(45.0, 39.3)| |C|Hunter| |Z|Silverpine Forest|
 B Fine Longbow (1) |L|11304 1| |N|Nadia - (45.0, 39.3)| |C|Hunter| |Z|Silverpine Forest|
+B Buy Sharp Arrow (x1200) |L|2515 1200| |N|Nadia - (45.0, 39.3)| |C|Hunter| |Z|Silverpine Forest|
 B Buy [Agile Boots] from her if they're up |N|Alexandre - (44.6, 39.1)| |C|Hunter/Rogue| |Z|Silverpine Forest|
 B Buy [Agile Boots] or [Stable Boots] from her if one of them is up |N|Alexandre - (44.6, 39.1)| |C|Shaman/Warrior/Druid| |Z|Silverpine Forest|
 R Travel down the hill |N|(44.9, 33.1)| |O| |Z|Silverpine Forest|
@@ -164,6 +165,7 @@ T A Recipe for Death |QID|450| |N|[Group] Renferrel - (42.8, 40.9)| |P|GROUP| |Z
 T Ambermill Investigations |QID|479| |N|[Group] Allister - (44.0, 40.9)| |P|GROUP| |Z|Silverpine Forest|
 N Buy a [Fine Longbow] from her if it's up |N|[Group] (45.0, 39.3)| |C|Hunter| |P|GROUP| |Z|Silverpine Forest|
 B Fine Longbow (1) |L|11304 1| |N|[Group] Nadia - (45.0, 39.3)| |C|Hunter| |P|GROUP| |Z|Silverpine Forest|
+B Buy Sharp Arrow (x1200) |L|2515 1200| |N|[Group] Nadia - (45.0, 39.3)| |C|Hunter| |P|GROUP| |Z|Silverpine Forest|
 N Cast [Teleport: Moonglade] |O| |C|Druid| |Z|Silverpine Forest|
 t Train your class spells |N|Loganaar - (52.5, 40.6)| |C|Druid| |Z|Moonglade|
 H Crossroads |N|Hearth to Crossroads| |C|Tauren/Shaman/Hunter| |Z|Moonglade|

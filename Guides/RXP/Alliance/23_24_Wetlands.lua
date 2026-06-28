@@ -30,7 +30,7 @@ N Kill Gobbler. Loot him for his Head |N|(16.3, 39.4)| |Z|Wetlands|
 N Keep any [Murloc Fins] you may get. You will need 8 for a quest later |N|(16.3, 39.4)| |R|NightElf| |Z|Wetlands|
 N Gobbler patrols the Marshlands slightly |N|(16.3, 39.4)| |Z|Wetlands|
 C Claws from the Deep |QID|279| |OIDX|1| |N|Bluegill Murlocs (16.3, 39.4)| |Z|Wetlands|
-C Bluegill Murlocs |L|1468 8| |N|Bluegill Murlocs - (16.3, 39.4)| |R|NightElf| |Z|Wetlands|
+C Collect Murloc Fin (x8) |L|1468 8| |N|Bluegill Murlocs (16.3, 39.4)| |R|NightElf| |Z|Wetlands|
 C The Absent Minded Prospector |QID|943| |OIDX|1| |N|Don't go out of your way to complete this now. You will kill different Raptors later| |O| |C|Hunter| |Z|Wetlands|
 A Ormer's Revenge |QID|294| |N|Ormer Ironbraid - (38.2, 50.9)| |C|Hunter| |Z|Wetlands|
 T In Search of The Excavation Team |QID|305| |N|Merrin Rockweaver - (38.9, 52.3)| |C|Hunter| |Z|Wetlands|

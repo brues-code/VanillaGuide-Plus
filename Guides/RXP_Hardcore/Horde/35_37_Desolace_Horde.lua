@@ -5,7 +5,7 @@ return [[
 N 35-37 Desolace Horde |N|Converted from RestedXP guide|
 
 T Ordanus |QID|1088| |N|[Group] Braelyn - (46.0, 60.5)| |P|GROUP| |Z|Stonetalon Mountains|
-C and loot members of the Burning Blade until you get a [Flayed Demon Skin] |QID|1480| |L|20310 1| |N|and loot members of the Burning Blade until you get a [Flayed Demon Skin] - (55.8, 30.1)| |Z|Desolace|
+C Collect Flayed Demon Skin (x1) |QID|1480| |L|20310 1| |N|and loot members of the Burning Blade until you get a [Flayed Demon Skin] (55.8, 30.1)| |Z|Desolace|
 A The Corrupter |QID|1480| |N|and loot members of the Burning Blade until you get a [Flayed Demon Skin] - (55.8, 30.1)| |Z|Desolace|
 A Sceptre of Light |QID|5741| |N|Azore - (38.9, 27.2)| |Z|Desolace|
 R Ghost Walker Post |N|(56.3, 57.1)| |O| |Z|Desolace|
@@ -56,18 +56,18 @@ A Clam Bait |QID|6142| |N|Mai'Lahii - (22.7, 72.1)| |Z|Desolace|
 A Other Fish to Fry |QID|6143| |N|Drulzegar - (23.3, 72.9)| |Z|Desolace|
 f Get the Shadowprey Village flight path |N|Thalon at the end of the dock - (21.6, 74.1)| |Z|Desolace|
 N The droprates may be low |N|(18.7, 77.2)| |C|Warlock/Druid/Shaman| |Z|Desolace|
-C Shellfish Traps to loot their Shellfish |L|13545 10| |N|Shellfish Traps to loot their Shellfish - (18.7, 77.2)| |C|Warlock/Druid/Shaman| |Z|Desolace|
-C Jinar'Zillen |QID|5386| |L|13546 2| |N|Jinar'Zillen - (22.4, 73.1)| |C|Warlock/Druid/Shaman| |Z|Desolace|
+C Collect Shellfish (x10) |L|13545 10| |N|Shellfish Traps to loot their Shellfish (18.7, 77.2)| |C|Warlock/Druid/Shaman| |Z|Desolace|
+C Collect Bloodbelly Fish (x2) |QID|5386| |L|13546 2| |N|Jinar'Zillen (22.4, 73.1)| |C|Warlock/Druid/Shaman| |Z|Desolace|
 T Fish in a Bucket |QID|5421| |N|Jinar'Zillen - (22.4, 73.1)| |C|Warlock/Druid/Shaman| |Z|Desolace|
 N The droprates may be low |N|(18.7, 77.2)| |C|!Warlock/!Druid/!Shaman| |AH| |Z|Desolace|
 N Drink an [Elixir of Water Breathing] |N|(18.7, 77.2)| |C|!Warlock/!Druid/!Shaman| |AH| |Z|Desolace|
-C Shellfish Traps to loot their Shellfish |L|13545 10| |N|Shellfish Traps to loot their Shellfish - (18.7, 77.2)| |C|!Warlock/!Druid/!Shaman| |AH| |Z|Desolace|
+C Collect Shellfish (x10) |L|13545 10| |N|Shellfish Traps to loot their Shellfish (18.7, 77.2)| |C|!Warlock/!Druid/!Shaman| |AH| |Z|Desolace|
 T Fish in a Bucket TWICE to receive 2 [Bloodbelly Fish] |QID|5421| |N|Jinar'Zillen - (22.4, 73.1)| |C|Warlock/Druid/Shaman| |Z|Desolace|
-C Jinar'Zillen |QID|5386| |L|13546 2| |N|Jinar'Zillen - (22.4, 73.1)| |C|Warlock/Druid/Shaman| |Z|Desolace|
+C Collect Bloodbelly Fish (x2) |QID|5386| |L|13546 2| |N|Jinar'Zillen (22.4, 73.1)| |C|Warlock/Druid/Shaman| |Z|Desolace|
 T Fish in a Bucket TWICE to receive 2 [Bloodbelly Fish] |QID|5421| |N|Jinar'Zillen - (22.4, 73.1)| |C|!Warlock/!Druid/!Shaman| |AH| |Z|Desolace|
-C Jinar'Zillen |QID|5386| |L|13546 2| |N|Jinar'Zillen - (22.4, 73.1)| |C|!Warlock/!Druid/!Shaman| |AH| |Z|Desolace|
+C Collect Bloodbelly Fish (x2) |QID|5386| |L|13546 2| |N|Jinar'Zillen (22.4, 73.1)| |C|!Warlock/!Druid/!Shaman| |AH| |Z|Desolace|
 N Buy [Razor Arrows] from him |N|(24.9, 71.8)| |C|Hunter| |Z|Desolace|
-B Tukk |L|3030 2600| |N|Tukk - (24.9, 71.8)| |C|Hunter| |Z|Desolace|
+B Buy Razor Arrow (x2600) |L|3030 2600| |N|Tukk - (24.9, 71.8)| |C|Hunter| |Z|Desolace|
 R northern Desolace |N|(62.3, 39.0)| |O| |Z|Desolace|
 T Bone Collector |QID|5501| |N|Bibbly - (62.3, 39.0)| |Z|Desolace|
 N Use the [Burning Gem] to get the killing blow (100 damage per tick) |O| |Z|Desolace|
@@ -137,7 +137,7 @@ t Train your class spells |N|Ker - (57.6, 85.5)| |C|Warrior| |Z|Thunder Bluff|
 F Fly to Orgrimmar |N|Tal - (47.0, 49.8)| |C|!Mage| |Z|Thunder Bluff|
 N Cast [Teleport: Orgrimmar] |C|Mage| |Z|Thunder Bluff|
 t Train your class spells |N|Pephredo - (38.4, 85.5)| |C|Mage| |Z|Orgrimmar|
-B Horthus. Buy two or more [Rune of Teleportation] from him |L|17031 2| |N|Horthus. Buy two or more [Rune of Teleportation] from him - (45.4, 56.6)| |C|Mage| |Z|Orgrimmar|
+B Buy Rune of Teleportation (x2) |L|17031 2| |N|Horthus. Buy two or more [Rune of Teleportation] from him - (45.4, 56.6)| |C|Mage| |Z|Orgrimmar|
 t Train your class spells |N|Kardris - (38.8, 36.4)| |C|Shaman| |Z|Orgrimmar|
 N [Instant Poison Rank 3] requires 160 skill in Poisons! |N|(43.9, 54.6)| |C|Rogue| |Z|Orgrimmar|
 t Train your class spells |N|Ormok - (43.9, 54.6)| |C|Rogue| |Z|Orgrimmar|
@@ -148,7 +148,7 @@ t Train your class spells |N|Ur'kyo - (35.6, 87.8)| |C|Priest| |Z|Orgrimmar|
 T Alliance Relations |QID|1436| |N|Keldran - (22.4, 52.8)| |Z|Orgrimmar|
 T Parts of the Swarm |QID|1184| |N|Belgrom - (75.2, 34.3)| |Z|Orgrimmar|
 N Buy three [Catseye Elixir] from the Auction House |N|(55.6, 62.9)| |C|!Hunter| |AH| |Z|Orgrimmar|
-B Auctioneer Thathung |L|10592 3| |N|Auctioneer Thathung - (55.6, 62.9)| |C|!Hunter| |AH| |Z|Orgrimmar|
+B Buy Catseye Elixir (x3) |L|10592 3| |N|Auctioneer Thathung - (55.6, 62.9)| |C|!Hunter| |AH| |Z|Orgrimmar|
 R Innkeeper Gryshka |N|(54.1, 68.4)| |Z|Orgrimmar|
 h Orgrimmar |N|Set hearth in Orgrimmar (54.1, 68.4)| |Z|Orgrimmar|
 R Go up the Zeppelin Tower |N|(50.8, 13.8)| |Z|Durotar|

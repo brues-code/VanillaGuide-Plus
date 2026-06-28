@@ -176,7 +176,7 @@ T The Thandol Span |QID|632| |N|Rhag Garmason - (49.9, 18.2)| |Z|Wetlands|
 A The Thandol Span |QID|633| |N|Rhag Garmason - (49.9, 18.2)| |Z|Wetlands|
 N Open the Waterlogged Letter. Loot it for the [Waterlogged Envelope] |N|(44.3, 92.9)| |Z|Arathi Highlands|
 N Use the [Waterlogged Envelope] to start the quest |N|(44.3, 92.9)| |Z|Arathi Highlands|
-C Dive down underwater |QID|637| |L|4433 1| |N|Dive down underwater - (44.3, 92.9)| |Z|Arathi Highlands|
+C Collect Waterlogged Envelope (x1) |QID|637| |L|4433 1| |N|Dive down underwater (44.3, 92.9)| |Z|Arathi Highlands|
 A Sully Balloo's Letter |QID|637| |N|Dive down underwater - (44.3, 92.9)| |Z|Arathi Highlands|
 R Swim east toward the ramp here |N|(52.5, 90.4)| |O| |Z|Arathi Highlands|
 C The Thandol Span |QID|633| |OIDX|1| |N|the Cache of Explosives (48.8, 88.1)| |Z|Arathi Highlands|
@@ -188,7 +188,7 @@ f Get the Arathi Highlands Flight Path |N|Cedrik Prose - (45.7, 46.1) (SFK Dunge
 F Fly to Southshore |N|Cedrik Prose - (45.7, 46.1) (SFK Dungeon Quest)| |D|SFK| |Z|Arathi Highlands|
 f Get the Arathi Highlands Flight Path |N|Cedrik Prose - (45.7, 46.1) (!SFK Dungeon Quest)| |D|!SFK| |Z|Arathi Highlands|
 N If you manage to kill one you will be able to loot an item that starts a quest: [Assassin's Contract]. The event is rare and the mobs are hard to kill at this level so do not go out of your way to try to get it |O| |Z|Arathi Highlands|
-C Be careful while entering Southshore! Every now and then level 37-38 [Stealthed] Shadowy Assassins ambush the town! |L|3668 1| |N|Be careful while entering Southshore! Every now and then level 37-38 [Stealthed] Shadowy Assassins ambush the town!| |O| |Z|Arathi Highlands|
+C Collect Assassin's Contract (x1) |L|3668 1| |N|Be careful while entering Southshore! Every now and then level 37-38 [Stealthed] Shadowy Assassins ambush the town!| |O| |Z|Arathi Highlands|
 N Wesley |N|(50.4, 58.8)| |C|Hunter| |Z|Arathi Highlands|
 R Travel to Hillsbrad Foothills |N|(50.4, 58.8)| |C|Hunter| |Z|Hillsbrad Foothills|
 f Get the Southshore Flight Path |N|Darla Harris - (49.3, 52.3) (!SFK Dungeon Quest)| |D|!SFK| |Z|Hillsbrad Foothills|
@@ -197,7 +197,7 @@ N Click here for more info about pet training |N|(56.6, 53.8)| |C|Hunter| |Z|Hil
 N Wesley |N|(50.4, 58.8)| |C|Hunter| |Z|Hillsbrad Foothills|
 H Menethil Harbor |N|Hearth to Menethil Harbor| |C|Hunter| |Z|Hillsbrad Foothills|
 C them for Turtle Meat. You will need 10 for a quest later. Don't go out of your way to farm it now |L|3712 10| |N|(65.4, 39.4)| |C|Hunter| |Z|Hillsbrad Foothills|
-C Snapjaws along the river and farm about 5 Turtle Meat, you'll need 10 for a quest later, don't go out of your way to kill them |L|3712 5| |N|(65.4, 39.4)| |O| |C|!Hunter| |Z|Hillsbrad Foothills|
+C Collect Turtle Meat (x5) |L|3712 5| |N|(65.4, 39.4)| |O| |C|!Hunter| |Z|Hillsbrad Foothills|
 T The Eye of Paleth |QID|292| |N|Glorin Steelbrow - (10.6, 60.6)| |Z|Wetlands|
 A Cleansing the Eye |QID|293| |N|Glorin Steelbrow - (10.6, 60.6)| |Z|Wetlands|
 A Lightforge Iron |QID|321| |N|Glorin Steelbrow - (10.6, 60.6)| |Z|Wetlands|

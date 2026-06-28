@@ -20,15 +20,18 @@ T Fuel for the Zapping |QID|7721| |N|Zorbin Fandazzle - (44.8, 43.4)| |Z|Feralas
 N Use the [Pristine Yeti Hide] to start the quest |N|(54.8, 32.8)| |Z|Feralas|
 N If you do not find the [Pristine Yeti Hide], skip it |N|(54.8, 32.8)| |Z|Feralas|
 C Improved Quality |QID|7733| |OIDX|1| |N|Rage Scar Yetis, Elder Rage Scars and Ferocious Rage Scars. Loot them for their Rage Scar Yeti Hide and [Pristine Yeti Hide] (54.8, 32.8)| |Z|Feralas|
-C Rage Scar Yetis, Elder Rage Scars and Ferocious Rage Scars. Loot them for their Rage Scar Yeti Hide and [Pristine Yeti Hide] |QID|7735| |L|18969 1| |N|Rage Scar Yetis, Elder Rage Scars and Ferocious Rage Scars. Loot them for their Rage Scar Yeti Hide and [Pristine Yeti Hide] - (54.8, 32.8)| |Z|Feralas|
+C Collect Pristine Yeti Hide (x1) |QID|7735| |L|18969 1| |N|Rage Scar Yetis, Elder Rage Scars and Ferocious Rage Scars. Loot them for their Rage Scar Yeti Hide and [Pristine Yeti Hide] (54.8, 32.8)| |Z|Feralas|
 A Pristine Yeti Hide |QID|7735| |N|Rage Scar Yetis, Elder Rage Scars and Ferocious Rage Scars. Loot them for their Rage Scar Yeti Hide and [Pristine Yeti Hide] - (54.8, 32.8)| |Z|Feralas|
 T A Visit to Gregan |QID|4142| |N|Gregan Brewspewer - (45.1, 25.6)| |Z|Feralas|
 N Buy [Bait] |N|(45.1, 25.6)| |Z|Feralas|
-B Gregan Brewspewer |L|11141 1| |N|Gregan Brewspewer - (45.1, 25.6)| |Z|Feralas|
+B Buy Bait (x1) |L|11141 1| |N|Gregan Brewspewer - (45.1, 25.6)| |Z|Feralas|
 A The Giant Guardian |QID|2844| |N|Rockbiter - (42.4, 22.0)| |Z|Feralas|
 N Place the [Bait] on the ground next to Miblon Snarltooth to distract him |N|(44.6, 10.6)| |O| |Z|Feralas|
-C the Evoroot inside the Ruins |QID|3909| |L|11242 1| |N|the Evoroot inside the Ruins - (44.5, 10.2)| |Z|Feralas|
-C the Four Flames for the Essences |QID|2879| |L|9257 1| |N|(40.5, 12.7)| |Z|Feralas|
+C Collect Evoroot (x1) |QID|3909| |L|11242 1| |N|the Evoroot inside the Ruins (44.5, 10.2)| |Z|Feralas|
+C Collect Samha Essence (x1) |QID|2879| |L|9257 1| |N|(40.5, 12.7)| |Z|Feralas|
+C Collect Byltan Essence (x1) |QID|2879| |L|9258 1| |N|Collect Samha Essence (x1) (40.5, 12.7)| |Z|Feralas|
+C Collect Lahassa Essence (x1) |QID|2879| |L|9255 1| |N|Collect Samha Essence (x1) (38.5, 15.8)| |Z|Feralas|
+C Collect Imbel Essence (x1) |QID|2879| |L|9256 1| |N|Collect Samha Essence (x1) (37.8, 12.2)| |Z|Feralas|
 C The Stave of Equinex |QID|2879| |OIDX|1| |N|Use [Troyas' Stave] at the Equinex Monolith (38.9, 13.1)| |Z|Feralas|
 T The Stave of Equinex |QID|2879| |N|the Equinex Monolith - (38.8, 13.2)| |Z|Feralas|
 A The Morrow Stone |QID|2942| |N|the Equinex Monolith - (38.8, 13.2)| |Z|Feralas|

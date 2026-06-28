@@ -109,7 +109,7 @@ C Deviate Eradication |QID|1487| |OIDX|1| |N|(WC Dungeon Quest)| |D|WC| |Z|Tiris
 C Deviate Hides |QID|1486| |OIDX|1| |N|Kill all types of Deviate creatures. Loot them for their Deviate Hides (WC Dungeon Quest)| |D|WC| |Z|Tirisfal Glades|
 N Kill Mutanus the Devourer. Loot him for the [Glowing Shard] |N|(WC Dungeon Quest)| |D|WC| |Z|Tirisfal Glades|
 N Use the [Glowing Shard] to start the quest |N|(WC Dungeon Quest)| |D|WC| |Z|Tirisfal Glades|
-C Lord Cobrahn, Lord Pythas, Lord Serpentis and Lady Anacondra then talk to the Disciple of Naralex at the start of the instance to start his escort |QID|6981| |L|10441 1| |N|Escort the Disciple of Naralex through Wailing Caverns and complete the ritual of awakening (WC Dungeon Quest)| |D|WC| |Z|Tirisfal Glades|
+C Collect Glowing Shard (x1) |QID|6981| |L|10441 1| |N|Escort the Disciple of Naralex through Wailing Caverns and complete the ritual of awakening (WC Dungeon Quest)| |D|WC| |Z|Tirisfal Glades|
 A The Glowing Shard |QID|6981| |N|Escort the Disciple of Naralex through Wailing Caverns and complete the ritual of awakening (WC Dungeon Quest)| |D|WC| |Z|Tirisfal Glades|
 C Deviate Hides |QID|1486| |OIDX|1| |N|This can be completed INSIDE and OUTSIDE of Wailing Caverns (WC Dungeon Quest)| |D|WC| |Z|Tirisfal Glades|
 R Travel to The Barrens |N|(63.0, 37.2) (WC Dungeon Quest)| |D|WC| |Z|The Barrens|
@@ -198,7 +198,7 @@ C An Aggressive Defense |QID|1025| |OIDX|4| |N|Kill a few Foulweald Warriors and
 A Elemental Bracers |QID|1016| |N|Sentinel Velene Starstrike - (49.8, 67.2)| |Z|Ashenvale|
 N Use your [Elixir of Water Breathing] |O| |Z|Ashenvale|
 N The Befouled Water Elementals cast [Frost Nova]. Pay attention to your breath timer if you dive underwater to kill them |N|(48.9, 70.0)| |Z|Ashenvale|
-C Befouled Water Elementals. Loot them for their Bracers |QID|1016| |L|12220 5| |N|Befouled Water Elementals. Loot them for their Bracers - (48.9, 70.0)| |Z|Ashenvale|
+C Collect Intact Elemental Bracer (x5) |QID|1016| |L|12220 5| |N|Befouled Water Elementals. Loot them for their Bracers (48.9, 70.0)| |Z|Ashenvale|
 C Elemental Bracers |QID|1016| |OIDX|1| |N|Use the [Divining Scroll] to create the [Divined Scroll]| |Z|Ashenvale|
 T Elemental Bracers |QID|1016| |N|Sentinel Velene Starstrike - (49.8, 67.2)| |Z|Ashenvale|
 N Be careful as the Foulweald Ursas can [Thrash] hitting you 3 times at once |N|(50.1, 59.9)| |Z|Ashenvale|

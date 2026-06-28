@@ -51,12 +51,12 @@ A Lost Necklace |QID|85| |N|"Auntie" Bernice Stonefield and Ma Stonefield - (34.
 A Princess Must Die! |QID|88| |N|"Auntie" Bernice Stonefield and Ma Stonefield - (34.5, 84.3)| |Z|Elwynn Forest|
 N Kill Kobold Tunnelers and Kobold Miners. Open Battered Chests. Loot them for their [Rough Stones] and [Linen Cloth] |O| |C|Paladin| |Z|Elwynn Forest|
 C Rough Stone (1+) |L|2835 1| |N|Kill Kobold Tunnelers and Kobold Miners. Open Battered Chests. Loot them for their [Rough Stones]| |O| |C|Warrior/Paladin/Rogue| |Z|Elwynn Forest|
-C Kobold Tunnelers and Kobold Miners. Open Battered Chests. Loot them for their [Rough Stones] |L|2589 1| |N|Kill Kobold Tunnelers and Kobold Miners. Open Battered Chests. Loot them for their [Rough Stones]| |O| |C|Paladin| |Z|Elwynn Forest|
+C Collect Linen Cloth (x1) |L|2589 1| |N|Kill Kobold Tunnelers and Kobold Miners. Open Battered Chests. Loot them for their [Rough Stones]| |O| |C|Paladin| |Z|Elwynn Forest|
 t Blacksmithing Trained |N|Kill Kobold Tunnelers and Kobold Miners. Open Battered Chests. Loot them for their [Rough Stones]| |O| |C|Warrior/Paladin/Rogue| |Z|Elwynn Forest|
-C [Blacksmith] the [Rough Stones] into [Rough Sharpening Stones] |L|2862 5| |O| |C|Rogue/Warrior| |Z|Elwynn Forest|
-C [Blacksmith] the [Rough Stones] into [Rough Sharpening Stones] |L|3239 5| |O| |C|Paladin| |Z|Elwynn Forest|
-C Rough Stone (5) |L|2835 5| |N|[Blacksmith] the [Rough Stones] into [Rough Sharpening Stones]| |O| |C|Warrior/Paladin/Rogue| |Z|Elwynn Forest|
-C [Blacksmith] the [Rough Stones] into [Rough Sharpening Stones] |L|2589 1| |O| |C|Paladin| |Z|Elwynn Forest|
+C Collect Rough Sharpening Stone (x5) |L|2862 5| |O| |C|Rogue/Warrior| |Z|Elwynn Forest|
+C Collect Rough Weightstone (x5) |L|3239 5| |N|Collect Rough Sharpening Stone (x5)| |O| |C|Paladin| |Z|Elwynn Forest|
+C Rough Stone (5) |L|2835 5| |N|Collect Rough Sharpening Stone (x5)| |O| |C|Warrior/Paladin/Rogue| |Z|Elwynn Forest|
+C Collect Linen Cloth (x1) |L|2589 1| |N|Collect Rough Sharpening Stone (x5)| |O| |C|Paladin| |Z|Elwynn Forest|
 t Train Blacksmithing |O| |C|Warrior/Paladin/Rogue| |Z|Elwynn Forest|
 N Use the [Rough Weightstone] on your current weapon |O| |C|Paladin| |Z|Elwynn Forest|
 N Rough Sharpening Stone (1) |O| |C|Rogue/Warrior| |Z|Elwynn Forest|
@@ -71,12 +71,12 @@ B Buy as much [Ice Cold Milk] as you can afford |N|Joshua Maclure - (42.4, 89.4)
 B Vendor trash |N|Joshua Maclure - (42.4, 89.4)| |O| |C|!Priest/!Warlock/!Mage| |Z|Elwynn Forest|
 N Kill Kobold Tunnelers and Kobold Miners. Open Battered Chests. Loot them for their [Rough Stones] and [Linen Cloth] |O| |C|Paladin| |Z|Elwynn Forest|
 C Rough Stone (1+) |L|2835 1| |N|Kill Kobold Tunnelers and Kobold Miners. Open Battered Chests. Loot them for their [Rough Stones]| |O| |C|Warrior/Paladin/Rogue| |Z|Elwynn Forest|
-C Kobold Tunnelers and Kobold Miners. Open Battered Chests. Loot them for their [Rough Stones] |L|2589 1| |N|Kill Kobold Tunnelers and Kobold Miners. Open Battered Chests. Loot them for their [Rough Stones]| |O| |C|Paladin| |Z|Elwynn Forest|
+C Collect Linen Cloth (x1) |L|2589 1| |N|Kill Kobold Tunnelers and Kobold Miners. Open Battered Chests. Loot them for their [Rough Stones]| |O| |C|Paladin| |Z|Elwynn Forest|
 t Blacksmithing Trained |N|Kill Kobold Tunnelers and Kobold Miners. Open Battered Chests. Loot them for their [Rough Stones]| |O| |C|Warrior/Paladin/Rogue| |Z|Elwynn Forest|
-C [Blacksmith] the [Rough Stones] into [Rough Sharpening Stones] |L|2862 5| |O| |C|Rogue/Warrior| |Z|Elwynn Forest|
-C [Blacksmith] the [Rough Stones] into [Rough Sharpening Stones] |L|3239 5| |O| |C|Paladin| |Z|Elwynn Forest|
-C Rough Stone (5) |L|2835 5| |N|[Blacksmith] the [Rough Stones] into [Rough Sharpening Stones]| |O| |C|Warrior/Paladin/Rogue| |Z|Elwynn Forest|
-C [Blacksmith] the [Rough Stones] into [Rough Sharpening Stones] |L|2589 1| |O| |C|Paladin| |Z|Elwynn Forest|
+C Collect Rough Sharpening Stone (x5) |L|2862 5| |O| |C|Rogue/Warrior| |Z|Elwynn Forest|
+C Collect Rough Weightstone (x5) |L|3239 5| |N|Collect Rough Sharpening Stone (x5)| |O| |C|Paladin| |Z|Elwynn Forest|
+C Rough Stone (5) |L|2835 5| |N|Collect Rough Sharpening Stone (x5)| |O| |C|Warrior/Paladin/Rogue| |Z|Elwynn Forest|
+C Collect Linen Cloth (x1) |L|2589 1| |N|Collect Rough Sharpening Stone (x5)| |O| |C|Paladin| |Z|Elwynn Forest|
 t Train Blacksmithing |O| |C|Warrior/Paladin/Rogue| |Z|Elwynn Forest|
 N Use the [Rough Weightstone] on your current weapon |O| |C|Paladin| |Z|Elwynn Forest|
 N Rough Sharpening Stone (1) |O| |C|Rogue/Warrior| |Z|Elwynn Forest|
@@ -92,12 +92,12 @@ T Gramma |QID|111| |N|Gramma Stonefield inside - (34.9, 83.9)| |Z|Elwynn Forest|
 A Note to William |QID|107| |N|Gramma Stonefield inside - (34.9, 83.9)| |Z|Elwynn Forest|
 N Kill Kobold Tunnelers and Kobold Miners. Open Battered Chests. Loot them for their [Rough Stones] and [Linen Cloth] |O| |C|Paladin| |Z|Elwynn Forest|
 C Rough Stone (1+) |L|2835 1| |N|Kill Kobold Tunnelers and Kobold Miners. Open Battered Chests. Loot them for their [Rough Stones]| |O| |C|Warrior/Paladin/Rogue| |Z|Elwynn Forest|
-C Kobold Tunnelers and Kobold Miners. Open Battered Chests. Loot them for their [Rough Stones] |L|2589 1| |N|Kill Kobold Tunnelers and Kobold Miners. Open Battered Chests. Loot them for their [Rough Stones]| |O| |C|Paladin| |Z|Elwynn Forest|
+C Collect Linen Cloth (x1) |L|2589 1| |N|Kill Kobold Tunnelers and Kobold Miners. Open Battered Chests. Loot them for their [Rough Stones]| |O| |C|Paladin| |Z|Elwynn Forest|
 t Blacksmithing Trained |N|Kill Kobold Tunnelers and Kobold Miners. Open Battered Chests. Loot them for their [Rough Stones]| |O| |C|Warrior/Paladin/Rogue| |Z|Elwynn Forest|
-C [Blacksmith] the [Rough Stones] into [Rough Sharpening Stones] |L|2862 5| |O| |C|Rogue/Warrior| |Z|Elwynn Forest|
-C [Blacksmith] the [Rough Stones] into [Rough Sharpening Stones] |L|3239 5| |O| |C|Paladin| |Z|Elwynn Forest|
-C Rough Stone (5) |L|2835 5| |N|[Blacksmith] the [Rough Stones] into [Rough Sharpening Stones]| |O| |C|Warrior/Paladin/Rogue| |Z|Elwynn Forest|
-C [Blacksmith] the [Rough Stones] into [Rough Sharpening Stones] |L|2589 1| |O| |C|Paladin| |Z|Elwynn Forest|
+C Collect Rough Sharpening Stone (x5) |L|2862 5| |O| |C|Rogue/Warrior| |Z|Elwynn Forest|
+C Collect Rough Weightstone (x5) |L|3239 5| |N|Collect Rough Sharpening Stone (x5)| |O| |C|Paladin| |Z|Elwynn Forest|
+C Rough Stone (5) |L|2835 5| |N|Collect Rough Sharpening Stone (x5)| |O| |C|Warrior/Paladin/Rogue| |Z|Elwynn Forest|
+C Collect Linen Cloth (x1) |L|2589 1| |N|Collect Rough Sharpening Stone (x5)| |O| |C|Paladin| |Z|Elwynn Forest|
 t Train Blacksmithing |O| |C|Warrior/Paladin/Rogue| |Z|Elwynn Forest|
 N Use the [Rough Weightstone] on your current weapon |O| |C|Paladin| |Z|Elwynn Forest|
 N Rough Sharpening Stone (1) |O| |C|Rogue/Warrior| |Z|Elwynn Forest|
@@ -156,12 +156,12 @@ C x20,cooking --Stringy Wolf Meat (10-50) |QID|2178| |L|2672 50| |N|Mangy Wolves
 C Collecting Kelp |QID|112| |OIDX|1| |N|Murlocs and Murloc Streamrunners. Loot them for Crystal Kelp Fronds Collect Crystal Kelp Frond (x4)| |Z|Elwynn Forest|
 N Kill Kobold Miners. Open Battered Chests. Loot them for their [Rough Stones] and [Linen Cloth] |O| |C|Paladin| |Z|Elwynn Forest|
 C Rough Stone (1+) |L|2835 1| |N|Kill Kobold Miners. Open Battered Chests. Loot them for their [Rough Stones]| |O| |C|Warrior/Paladin/Rogue| |Z|Elwynn Forest|
-C Kobold Miners. Open Battered Chests. Loot them for their [Rough Stones] |L|2589 1| |N|Kill Kobold Miners. Open Battered Chests. Loot them for their [Rough Stones]| |O| |C|Paladin| |Z|Elwynn Forest|
+C Collect Linen Cloth (x1) |L|2589 1| |N|Kill Kobold Miners. Open Battered Chests. Loot them for their [Rough Stones]| |O| |C|Paladin| |Z|Elwynn Forest|
 t Blacksmithing Trained |N|Kill Kobold Miners. Open Battered Chests. Loot them for their [Rough Stones]| |O| |C|Warrior/Paladin/Rogue| |Z|Elwynn Forest|
-C [Blacksmith] the [Rough Stones] into [Rough Sharpening Stones] |L|2862 5| |O| |C|Rogue/Warrior| |Z|Elwynn Forest|
-C [Blacksmith] the [Rough Stones] into [Rough Sharpening Stones] |L|3239 5| |O| |C|Paladin| |Z|Elwynn Forest|
-C Rough Stone (5) |L|2835 5| |N|[Blacksmith] the [Rough Stones] into [Rough Sharpening Stones]| |O| |C|Warrior/Paladin/Rogue| |Z|Elwynn Forest|
-C [Blacksmith] the [Rough Stones] into [Rough Sharpening Stones] |L|2589 1| |O| |C|Paladin| |Z|Elwynn Forest|
+C Collect Rough Sharpening Stone (x5) |L|2862 5| |O| |C|Rogue/Warrior| |Z|Elwynn Forest|
+C Collect Rough Weightstone (x5) |L|3239 5| |N|Collect Rough Sharpening Stone (x5)| |O| |C|Paladin| |Z|Elwynn Forest|
+C Rough Stone (5) |L|2835 5| |N|Collect Rough Sharpening Stone (x5)| |O| |C|Warrior/Paladin/Rogue| |Z|Elwynn Forest|
+C Collect Linen Cloth (x1) |L|2589 1| |N|Collect Rough Sharpening Stone (x5)| |O| |C|Paladin| |Z|Elwynn Forest|
 t Train Blacksmithing |O| |C|Warrior/Paladin/Rogue| |Z|Elwynn Forest|
 N Use the [Rough Weightstone] on your current weapon |O| |C|Paladin| |Z|Elwynn Forest|
 N Rough Sharpening Stone (1) |O| |C|Rogue/Warrior| |Z|Elwynn Forest|
@@ -171,12 +171,12 @@ R Enter the Jasperlode Mine |N|(61.7, 53.6)| |O| |Z|Elwynn Forest|
 C The Jasperlode Mine |QID|76| |OIDX|1| |N|Follow the path through middle to explore Jasperlode Mine Scout through the Jasperlode Mine| |Z|Elwynn Forest|
 N Kill Kobold Miners. Open Battered Chests. Loot them for their [Rough Stones] and [Linen Cloth] |O| |C|Paladin| |Z|Elwynn Forest|
 C Rough Stone (1+) |L|2835 1| |N|Kill Kobold Miners. Open Battered Chests. Loot them for their [Rough Stones]| |O| |C|Warrior/Paladin/Rogue| |Z|Elwynn Forest|
-C Kobold Miners. Open Battered Chests. Loot them for their [Rough Stones] |L|2589 1| |N|Kill Kobold Miners. Open Battered Chests. Loot them for their [Rough Stones]| |O| |C|Paladin| |Z|Elwynn Forest|
+C Collect Linen Cloth (x1) |L|2589 1| |N|Kill Kobold Miners. Open Battered Chests. Loot them for their [Rough Stones]| |O| |C|Paladin| |Z|Elwynn Forest|
 t Blacksmithing Trained |N|Kill Kobold Miners. Open Battered Chests. Loot them for their [Rough Stones]| |O| |C|Warrior/Paladin/Rogue| |Z|Elwynn Forest|
-C [Blacksmith] the [Rough Stones] into [Rough Sharpening Stones] |L|2862 5| |O| |C|Rogue/Warrior| |Z|Elwynn Forest|
-C [Blacksmith] the [Rough Stones] into [Rough Sharpening Stones] |L|3239 5| |O| |C|Paladin| |Z|Elwynn Forest|
-C Rough Stone (5) |L|2835 5| |N|[Blacksmith] the [Rough Stones] into [Rough Sharpening Stones]| |O| |C|Warrior/Paladin/Rogue| |Z|Elwynn Forest|
-C [Blacksmith] the [Rough Stones] into [Rough Sharpening Stones] |L|2589 1| |O| |C|Paladin| |Z|Elwynn Forest|
+C Collect Rough Sharpening Stone (x5) |L|2862 5| |O| |C|Rogue/Warrior| |Z|Elwynn Forest|
+C Collect Rough Weightstone (x5) |L|3239 5| |N|Collect Rough Sharpening Stone (x5)| |O| |C|Paladin| |Z|Elwynn Forest|
+C Rough Stone (5) |L|2835 5| |N|Collect Rough Sharpening Stone (x5)| |O| |C|Warrior/Paladin/Rogue| |Z|Elwynn Forest|
+C Collect Linen Cloth (x1) |L|2589 1| |N|Collect Rough Sharpening Stone (x5)| |O| |C|Paladin| |Z|Elwynn Forest|
 t Train Blacksmithing |O| |C|Warrior/Paladin/Rogue| |Z|Elwynn Forest|
 N Use the [Rough Weightstone] on your current weapon |O| |C|Paladin| |Z|Elwynn Forest|
 N Rough Sharpening Stone (1) |O| |C|Rogue/Warrior| |Z|Elwynn Forest|

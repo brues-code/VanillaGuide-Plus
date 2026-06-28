@@ -4,7 +4,7 @@ return [[
 
 N 50-51 Searing Gorge |N|Converted from RestedXP guide|
 
-C Make sure you to keep all the [Silk Cloth] you find during this segment for a quest later |QID|4449| |L|4306 15| |N|Make sure you to keep all the [Silk Cloth] you find during this segment for a quest later| |O|
+C Collect Silk Cloth (x15) |QID|4449| |L|4306 15| |N|Make sure you to keep all the [Silk Cloth] you find during this segment for a quest later| |O|
 A What the Flux? |QID|7722| |N|[Group] Master Smith Burninate - (38.8, 28.5)| |C|Druid/Paladin/Rogue| |P|GROUP| |Z|Searing Gorge|
 A What the Flux? |QID|7722| |N|Master Smith Burninate - (38.8, 28.5)| |C|!Druid/!Paladin/!Rogue| |Z|Searing Gorge|
 A Curse These Fat Fingers |QID|7723| |N|Hansel Heavyhands - (38.6, 27.8)| |Z|Searing Gorge|
@@ -51,7 +51,7 @@ N Any Dark Iron Dwarf may drop Thorium Plated Daggers and the [Grimesilt Outhous
 N Use the [Grimesilt Outhouse Key] to start the quest |N|(43.2, 35.1)| |Z|Searing Gorge|
 C JOB OPPORTUNITY: Culling the Competition |QID|7729| |OIDX|1| |N|Dark Iron Taskmasters and Dark Iron Slavers. Loot them for their Thorium Plated Daggers and the [Grimesilt Outhouse Key] (43.2, 35.1)| |Z|Searing Gorge|
 C Forging the Shaft |QID|3443| |OIDX|1| |N|Dark Iron Taskmasters and Dark Iron Slavers. Loot them for their Thorium Plated Daggers and the [Grimesilt Outhouse Key] (43.2, 35.1)| |Z|Searing Gorge|
-C Dark Iron Taskmasters and Dark Iron Slavers. Loot them for their Thorium Plated Daggers and the [Grimesilt Outhouse Key] |QID|4451| |L|11818 1| |N|Dark Iron Taskmasters and Dark Iron Slavers. Loot them for their Thorium Plated Daggers and the [Grimesilt Outhouse Key] - (43.2, 35.1)| |Z|Searing Gorge|
+C Collect Grimesilt Outhouse Key (x1) |QID|4451| |L|11818 1| |N|Dark Iron Taskmasters and Dark Iron Slavers. Loot them for their Thorium Plated Daggers and the [Grimesilt Outhouse Key] (43.2, 35.1)| |Z|Searing Gorge|
 A The Key to Freedom |QID|4451| |N|Dark Iron Taskmasters and Dark Iron Slavers. Loot them for their Thorium Plated Daggers and the [Grimesilt Outhouse Key] - (43.2, 35.1)| |Z|Searing Gorge|
 N Remember to keep [Shadow Ward] on yourself as well |N|(40.8, 35.8)| |C|Warlock| |Z|Searing Gorge|
 N This quest can be quite difficult. Look for additional group members if required |N|(40.8, 35.8)| |Z|Searing Gorge|
@@ -92,9 +92,9 @@ T The Key to Freedom |QID|4451| |N|on the Wooden Outhouse - (65.6, 62.2)| |O| |Z
 A Caught! |QID|4449| |N|on the Wooden Outhouse - (65.6, 62.2)| |Z|Searing Gorge|
 N You most likely will have to come back for more Dark Iron Geologists later |N|(63.1, 60.9)| |Z|Searing Gorge|
 C Caught! |QID|4449| |OIDX|1| |N|Dark Iron Geologists. Loot them for their Silk Cloth if you still need more (63.1, 60.9)| |Z|Searing Gorge|
-C Dark Iron Geologists. Loot them for their Silk Cloth if you still need more |L|4306 15| |N|Dark Iron Geologists. Loot them for their Silk Cloth if you still need more - (63.1, 60.9)| |Z|Searing Gorge|
+C Collect Silk Cloth (x15) |L|4306 15| |N|Dark Iron Geologists. Loot them for their Silk Cloth if you still need more (63.1, 60.9)| |Z|Searing Gorge|
 N Do not Accept the quest for this yet |N|(72.6, 79.7)| |Z|Searing Gorge|
-C Margol the Rager. Loot it for [Margol's Horn] |QID|3181| |L|10000 1| |N|Margol the Rager. Loot it for [Margol's Horn] - (72.6, 79.7)| |Z|Searing Gorge|
+C Collect Margol's Horn (x1) |QID|3181| |L|10000 1| |N|Margol the Rager. Loot it for [Margol's Horn] (72.6, 79.7)| |Z|Searing Gorge|
 T Caught! |QID|4449| |N|on the Wooden Outhouse - (65.6, 62.2)| |Z|Searing Gorge|
 N This will start an escort. Clear the surrounding area of the pit before accepting this quest |N|(63.9, 61.0)| |Z|Searing Gorge|
 A Suntara Stones |QID|3367| |N|Dorius Stonetender - (63.9, 61.0)| |Z|Searing Gorge|
@@ -126,14 +126,14 @@ N Open the [Hoard of the Black Dragonflight] |O| |Z|Searing Gorge|
 N Kill Dark Iron Lookouts. Loot them for the Lookout's Spyglass |N|(39.1, 50.2)| |Z|Searing Gorge|
 C STOLEN: Smithing Tuyere and Lookout's Spyglass |QID|7728| |OIDX|1| |N|Kill Dark Iron Steamsmiths. Loot them for the Smithing Tuyere (39.1, 50.2)| |Z|Searing Gorge|
 T STOLEN: Smithing Tuyere and Lookout's Spyglass |QID|7728| |N|Taskmaster Scrange - (39.0, 27.5)| |Z|Searing Gorge|
-C The Horn of the Beast |QID|3181| |L|10000 1| |N|Use [Margol's Horn] to start the quest| |O| |Z|Searing Gorge|
+C Collect Margol's Horn (x1) |QID|3181| |L|10000 1| |N|Use [Margol's Horn] to start the quest| |O| |Z|Searing Gorge|
 A The Horn of the Beast |QID|3181| |N|Use [Margol's Horn] to start the quest| |O| |Z|Searing Gorge|
 F Fly to Loch Modan |N|Lanie Reed - (37.9, 30.9)| |Z|Searing Gorge|
 T The Horn of the Beast |QID|3181| |N|Mountaineer Pebblebitty - (18.2, 84.0)| |Z|Loch Modan|
 A Proof of Deed |QID|3182| |N|Mountaineer Pebblebitty - (18.2, 84.0)| |Z|Loch Modan|
 t Train your class spells |N|Dink - (27.2, 8.6)| |C|Mage| |Z|Ironforge|
 B Buy 10 [Rune of Teleportations] from her |N|Ginny Longberry - (31.3, 27.8)| |C|Mage| |Z|Ironforge|
-B Ginny Longberry |L|17031 10| |N|Ginny Longberry - (31.3, 27.8)| |C|Mage| |Z|Ironforge|
+B Buy Rune of Teleportation (x10) |L|17031 10| |N|Ginny Longberry - (31.3, 27.8)| |C|Mage| |Z|Ironforge|
 N Cast Teleport: Moonglade |O| |C|Druid| |Z|Ironforge|
 N Loganaar |N|(52.5, 40.6)| |C|Druid| |Z|Ironforge|
 R Travel to Moonglade |N|(52.5, 40.6)| |C|Druid| |Z|Moonglade|

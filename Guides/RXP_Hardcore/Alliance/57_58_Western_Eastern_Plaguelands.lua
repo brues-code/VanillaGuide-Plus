@@ -40,9 +40,9 @@ N Click Mrs. Dalson's Diary on the ground |N|(47.8, 50.7)| |Z|Western Plagueland
 A Mrs. Dalson Diary |QID|5058| |N|Enter the Dalson's Tears Barn - (47.8, 50.7)| |Z|Western Plaguelands|
 T Mrs. Dalson Diary |QID|5058| |N|Enter the Dalson's Tears Barn - (47.8, 50.7)| |Z|Western Plaguelands|
 N The Wandering Skeleton patrols around the Dalson's Tear Barn and House |N|(47.9, 49.9)| |Z|Western Plaguelands|
-C the Wandering Skeleton. Loot it for the Dalson Outhouse Key |QID|5060| |L|12738 1| |N|the Wandering Skeleton. Loot it for the Dalson Outhouse Key - (47.9, 49.9)| |Z|Western Plaguelands|
+C Collect Dalson Outhouse Key (x1) |QID|5060| |L|12738 1| |N|the Wandering Skeleton. Loot it for the Dalson Outhouse Key (47.9, 49.9)| |Z|Western Plaguelands|
 T Locked Away |QID|5059| |N|the Outhouse to summon Farmer Dalson - (48.1, 49.7)| |O| |Z|Western Plaguelands|
-C Farmer Dalson. Loot him for the Dalson Cabinet Key |QID|5060| |L|12739 1| |N|Farmer Dalson. Loot him for the Dalson Cabinet Key - (48.1, 49.8)| |Z|Western Plaguelands|
+C Collect Dalson Cabinet Key (x1) |QID|5060| |L|12739 1| |N|Farmer Dalson. Loot him for the Dalson Cabinet Key (48.1, 49.8)| |Z|Western Plaguelands|
 T Locked Away |QID|5060| |N|the Locked Cabinet up stairs in the house - (47.4, 49.6)| |Z|Western Plaguelands|
 N Cauldron Lord Malvinious may spawn as you approach the Cauldron |N|(46.2, 52.4)| |Z|Western Plaguelands|
 C Target: Dalson's Tears |QID|5219| |OIDX|1| |N|Cauldron Lord Malvinious. Loot him for the Dalson's Tears Cauldron Key (46.2, 52.4)| |Z|Western Plaguelands|
@@ -82,7 +82,9 @@ C The Eastern Plagues |QID|6185| |OIDX|1| |N|the Mangled Human Remains on the gr
 T Sister Pamela |QID|5601| |N|Pamela Redpath - (36.5, 90.7)| |Z|Eastern Plaguelands|
 A Pamela's Doll |QID|5149| |N|Pamela Redpath - (36.5, 90.7)| |Z|Eastern Plaguelands|
 N They all spawn randomly in any of the 3 buildings in Darrowshire |N|(39.6, 90.1)| |Z|Eastern Plaguelands|
-C [Pamela's Doll's Head], [Pamela's Doll's Left Side] and [Pamela's Doll's Right Side] throughout the buildings |QID|5149| |L|12886 1| |N|[Pamela's Doll's Head], [Pamela's Doll's Left Side] and [Pamela's Doll's Right Side] throughout the buildings - (39.6, 90.1)| |Z|Eastern Plaguelands|
+C Collect Pamela's Doll's Head (x1) |QID|5149| |L|12886 1| |N|[Pamela's Doll's Head], [Pamela's Doll's Left Side] and [Pamela's Doll's Right Side] throughout the buildings (39.6, 90.1)| |Z|Eastern Plaguelands|
+C Collect Pamela's Doll's Left Side (x1) |QID|5149| |L|12887 1| |N|[Pamela's Doll's Head], [Pamela's Doll's Left Side] and [Pamela's Doll's Right Side] throughout the buildings (39.6, 90.1)| |Z|Eastern Plaguelands|
+C Collect Pamela's Doll's Right Side (x1) |QID|5149| |L|12888 1| |N|[Pamela's Doll's Head], [Pamela's Doll's Left Side] and [Pamela's Doll's Right Side] throughout the buildings (39.6, 90.1)| |Z|Eastern Plaguelands|
 C Pamela's Doll |QID|5149| |OIDX|1| |N|Use [Pamela's Doll's Head], [Pamela's Doll's Left Side] or [Pamela's Doll's Right Side] to combine them into Pamela's Doll| |Z|Eastern Plaguelands|
 T Pamela's Doll |QID|5149| |N|Pamela Redpath - (36.5, 90.7)| |Z|Eastern Plaguelands|
 A Auntie Marlene |QID|5152| |N|Pamela Redpath - (36.5, 90.7)| |Z|Eastern Plaguelands|
@@ -304,7 +306,8 @@ C Voodoo Feathers |QID|8425| |OIDX|1| |N|Kill Mijan and Hukku. Loot them for the
 C Trolls of a Feather |QID|8422| |OIDX|1| |N|Kill Mijan and Hukku. Loot them for their Blue Voodoo Feathers (ST Dungeon Quest)| |C|Warlock| |D|ST| |Z|Westfall|
 N Kill the Avatar of Hakkar. Loot it for the [Essence of Hakkar] |N|(ST Dungeon Quest)| |D|ST| |Z|Westfall|
 N Use the [Essence of Hakkar] to fill the [Egg of Hakkar] |N|(ST Dungeon Quest)| |D|ST| |Z|Westfall|
-C Use the [Egg of Hakkar] while next to the Dragonflayer Skeleton, then complete the event |QID|3528| |L|10663 1| |N|Kill the minions of Hakkar until the Avatar of Hakkar joins (ST Dungeon Quest)| |D|ST| |Z|Westfall|
+C Collect Essence of Hakkar (x1) |QID|3528| |L|10663 1| |N|Kill the minions of Hakkar until the Avatar of Hakkar joins (ST Dungeon Quest)| |D|ST| |Z|Westfall|
+C The God Hakkar |QID|3528| |OIDX|1| |N|Kill the minions of Hakkar until the Avatar of Hakkar joins (ST Dungeon Quest)| |D|ST| |Z|Westfall|
 C Jammal'an the Prophet |QID|1446| |OIDX|1| |N|You must kill the 6 Trolls on the upper platforms to gain access to Jammal'an the Prophet (ST Dungeon Quest)| |D|ST| |Z|Westfall|
 N Kill Morphaz. Loot it for the Blood of Morphaz |N|(ST Dungeon Quest)| |C|Priest| |D|ST| |Z|Westfall|
 N Kill Morphaz. Loot it for the Azure Key |N|(ST Dungeon Quest)| |C|Rogue| |D|ST| |Z|Westfall|
@@ -313,7 +316,7 @@ C Destroy Morphaz |QID|8253| |OIDX|1| |N|Kill Morphaz. Loot it for the Arcane Sh
 C Blood of Morphaz |QID|8257| |OIDX|1| |N|Kill Morphaz. Loot it for the Arcane Shard (ST Dungeon Quest)| |C|Priest| |D|ST| |Z|Westfall|
 C The Azure Key |QID|8236| |OIDX|1| |N|Kill Morphaz. Loot it for the Arcane Shard (ST Dungeon Quest)| |C|Rogue| |D|ST| |Z|Westfall|
 N Ensure you have killed all Dragonkin mobs on the upper level before engaging the Shade of Eranikus otherwise they will all agro onto you |N|(ST Dungeon Quest)| |D|ST| |Z|Westfall|
-C the Shade of Eranikus. Loot him for the [Essence of Eranikus] |QID|3373| |L|10454 1| |N|Use the [Essence of Eranikus] to start the quest (ST Dungeon Quest)| |D|ST| |Z|Westfall|
+C Collect Essence of Eranikus (x1) |QID|3373| |L|10454 1| |N|Use the [Essence of Eranikus] to start the quest (ST Dungeon Quest)| |D|ST| |Z|Westfall|
 A The Essence of Eranikus |QID|3373| |N|Use the [Essence of Eranikus] to start the quest (ST Dungeon Quest)| |D|ST| |Z|Westfall|
 T The Essence of Eranikus |QID|3373| |N|(ST Dungeon Quest)| |D|ST| |Z|Westfall|
 N It is strongly advised you choose the [Diamond Flask] as your reward. Although the other rewards are also very good, you will not ever replace the [Diamond Flask] |N|(34.3, 66.1) (ST Dungeon Quest)| |C|Warrior| |D|ST| |Z|Swamp of Sorrows|

@@ -63,7 +63,7 @@ C Buzzbox 411 |QID|1001| |OIDX|1| |N|Darkshore Threshers. Loot them for their Ey
 T Buzzbox 411 |QID|1001| |N|the Buzzbox 411 on the ground - (25.2, 1.3)| |Z|Felwood|
 A Buzzbox 323 |QID|1002| |N|the Buzzbox 411 on the ground - (25.2, 1.3)| |Z|Felwood|
 A Beached Sea Creature |QID|4723| |N|the Beached Sea Creature - (25.1, 4.6)| |Z|Felwood|
-C Collect 5 [Earthroot] as you quest |QID|6123| |L|2449 5| |N|Collect 5 [Earthroot] as you quest| |O| |C|Druid| |Z|Felwood|
+C Collect Earthroot (x5) |QID|6123| |L|2449 5| |N|Collect 5 [Earthroot] as you quest| |O| |C|Druid| |Z|Felwood|
 C Strider Meat |QID|2178| |L|5469 5| |N|Kill Foreststriders and Foreststrider Fledglings. Loot them for their Strider Meat| |O| |Z|Felwood|
 C Buzzbox 323 |QID|1002| |OIDX|1| |N|Kill Moonstalkers and Moonstalker Runts. Loot them for their Fangs Moonstalker Fang (6)| |O| |Z|Felwood|
 C Cleansing of the Infected |QID|2138| |OIDX|1| |N|Kill Rabid Thistle Bears Rabid Thistle Bear slain (20)| |O| |Z|Felwood|
@@ -144,7 +144,7 @@ T The Red Crystal |QID|4811| |N|Sentinel Glynda Nal'Shea - (20.3, 18.1)| |Z|Felw
 A As Water Cascades |QID|4812| |N|Sentinel Glynda Nal'Shea - (20.3, 18.1)| |Z|Felwood|
 R Travel to Darkshore |N|(37.8, 44.1)| |Z|Darkshore|
 C As Water Cascades |QID|4812| |OIDX|1| |N|Use the [Empty Water Tube] at the Auberdine Moonwell (37.8, 44.1)| |Z|Darkshore|
-C The Blackwood Corrupted |QID|4763| |L|12347 1| |N|Use the [Empty Cleansing Bowl] at the Auberdine Moonwell (37.8, 44.1)| |Z|Darkshore|
+C Collect Filled Cleansing Bowl (x1) |QID|4763| |L|12347 1| |N|Use the [Empty Cleansing Bowl] at the Auberdine Moonwell (37.8, 44.1)| |Z|Darkshore|
 R Travel to Felwood |N|(21.6, 18.1)| |Z|Felwood|
 T Cleansing of the Infected |QID|2138| |N|Tharnariun Treetender - (21.6, 18.1)| |Z|Felwood|
 A Tharnariun's Hope |QID|2139| |N|Tharnariun Treetender - (21.6, 18.1)| |Z|Felwood|
@@ -161,7 +161,7 @@ T Bashal'Aran |QID|957| |N|Asterion - (27.7, 10.0)| |Z|Felwood|
 N You need to save 10 [Linen Cloth] for your Paladin class quest later |N|(50.7, 34.7)| |C|Paladin| |Z|Darkshore|
 C Linen Cloth (10) |QID|1| |L|2589 10| |N|Blackwood Warriors and Blackwood Totemics. Loot them for their [Linen Cloth] (50.7, 34.7)| |C|Paladin| |Z|Darkshore|
 N Looting this will spawn 2 Blackwood Furbolgs that will agro and run at you. Be ready to fight them or reset them |N|[Group] (50.7, 34.9)| |P|GROUP| |Z|Darkshore|
-C Blackwood Grain Stores (1) |QID|4763| |L|12342 1| |N|[Group] the Blackwood Grain Stores. Loot it for the Blackwood Grain Sample (50.7, 34.9)| |P|GROUP| |Z|Darkshore|
+C Blackwood Grain Stores (1) - Blackwood Grain Sample (x1) |QID|4763| |L|12342 1| |N|[Group] the Blackwood Grain Stores. Loot it for the Blackwood Grain Sample (50.7, 34.9)| |P|GROUP| |Z|Darkshore|
 N Be careful as the Thistle Cubs can cast [Ravage], a meele instant attack which stuns you for 2 seconds |N|[Group] (51.5, 38.3)| |P|GROUP| |Z|Darkshore|
 C Tharnariun's Hope |QID|2139| |OIDX|1| |N|[Group] Den Mother Den Mother (1)| |P|GROUP| |Z|Darkshore|
 N Looting this will spawn 2 Blackwood Furbolgs that will agro and run at you. Be ready to fight them or reset them |N|[Group] (51.8, 33.5)| |P|GROUP| |Z|Darkshore|
@@ -245,12 +245,12 @@ T The Blackwood Corrupted |QID|4763| |N|[Group] Thundris Windweaver - (20.0, 14.
 T The Principal Source |QID|6122| |N|Alanndarian Nightsong - (37.7, 40.7)| |C|Druid| |Z|Darkshore|
 A Gathering the Cure |QID|6123| |N|Alanndarian Nightsong - (37.7, 40.7)| |C|Druid| |Z|Darkshore|
 N You'll need 50 cooking for a quest later |N|(45.7, 50.3)| |C|Druid| |Z|Darkshore|
-C x21,cooking |QID|90| |L|6889 40| |N|Moonkin. Loot them for their [Small Eggs] (45.7, 50.3)| |C|Druid| |Z|Darkshore|
+C x21,cooking - Small Egg (x40) |QID|90| |L|6889 40| |N|Moonkin. Loot them for their [Small Eggs] (45.7, 50.3)| |C|Druid| |Z|Darkshore|
 C Gathering the Cure |QID|6123| |OIDX|2| |N|Moonkin. Loot them for their [Small Eggs] (45.7, 50.3)| |C|Druid| |Z|Darkshore|
 N You'll need 50 cooking for a quest later |N|(42.7, 45.7)| |Z|Darkshore|
-C x20,cooking |QID|90| |L|6889 40| |N|Moonkin. Loot them for their [Small Eggs] (42.7, 45.7)| |Z|Darkshore|
+C x20,cooking - Small Egg (x40) |QID|90| |L|6889 40| |N|Moonkin. Loot them for their [Small Eggs] (42.7, 45.7)| |Z|Darkshore|
 N You can gather them along the mountains east |C|Druid| |Z|Darkshore|
-C Finish off collecting 5 [Earthroot] |QID|6123| |L|2449 5| |N|Finish off collecting 5 [Earthroot]| |C|Druid| |Z|Darkshore|
+C Collect Earthroot (x5) |QID|6123| |L|2449 5| |N|Finish off collecting 5 [Earthroot]| |C|Druid| |Z|Darkshore|
 T Gathering the Cure |QID|6123| |N|Alanndarian Nightsong - (37.7, 40.7)| |C|Druid| |Z|Darkshore|
 A Curing the Sick |QID|6124| |N|Alanndarian Nightsong - (37.7, 40.7)| |C|Druid| |Z|Darkshore|
 C Curing the Sick |QID|6124| |OIDX|1| |N|Head south while using the [Curative Animal Salve] on Sickly Deer Sickly Deer cured (10)| |C|Druid| |Z|Darkshore|

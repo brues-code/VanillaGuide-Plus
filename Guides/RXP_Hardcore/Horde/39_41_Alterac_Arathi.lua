@@ -14,22 +14,31 @@ T Errand for Apothecary Zinge |QID|238| |N|Zinge - (50.1, 68.0)| |P|SOLO| |Z|Und
 A Into the Field |QID|243| |N|Zinge - (50.1, 68.0)| |P|SOLO| |Z|Undercity|
 T Errand for Apothecary Zinge |QID|238| |N|[Group] Zinge - (50.1, 68.0)| |P|GROUP| |Z|Undercity|
 B Buy a [Massive Longbow] from her if it's available |N|Abigail - (54.7, 38.8)| |C|Hunter| |Z|Undercity|
-B Geoffrey. Buy a [Falchion] from him |L|2528 1| |N|Geoffrey. Buy a [Falchion] from him - (58.7, 33.0)| |C|Rogue| |Z|Undercity|
-B Geoffrey. Buy a [Rondel] from him |L|2534 1| |N|Geoffrey. Buy a [Rondel] from him - (58.7, 33.0)| |C|Rogue| |Z|Undercity|
-B Zane. Buy a [Blackbone Wand] from him |L|5239 1| |N|Zane. Buy a [Blackbone Wand] from him - (69.5, 26.9)| |C|Priest| |Z|Undercity|
-B NathanielBuy two stacks of [Gleaming Throwing Axe] from him |L|15326 400| |N|NathanielBuy two stacks of [Gleaming Throwing Axe] from him - (77.5, 49.6)| |C|Warrior| |Z|Undercity|
+B Buy Falchion (x1) |L|2528 1| |N|Geoffrey. Buy a [Falchion] from him - (58.7, 33.0)| |C|Rogue| |Z|Undercity|
+B Buy Rondel (x1) |L|2534 1| |N|Geoffrey. Buy a [Rondel] from him - (58.7, 33.0)| |C|Rogue| |Z|Undercity|
+B Buy Blackbone Wand (x1) |L|5239 1| |N|Zane. Buy a [Blackbone Wand] from him - (69.5, 26.9)| |C|Priest| |Z|Undercity|
+B Buy Gleaming Throwing Axe (x400) |L|15326 400| |N|NathanielBuy two stacks of [Gleaming Throwing Axe] from him - (77.5, 49.6)| |C|Warrior| |Z|Undercity|
 N If you have money leftover after buying [Nature Protection Potions], purchase the following items: |O| |C|Warrior| |AH| |Z|Undercity|
-B Auctioneer Stockton in the Trade Quarter |L|4480 8| |N|Auctioneer Stockton in the Trade Quarter| |O| |C|Warrior| |AH| |Z|Undercity|
+B Buy Thundering Charm (x8) |L|4480 8| |N|Auctioneer Stockton in the Trade Quarter| |O| |C|Warrior| |AH| |Z|Undercity|
+B Buy Burning Charm (x8) |L|4479 8| |N|Auctioneer Stockton in the Trade Quarter| |O| |C|Warrior| |AH| |Z|Undercity|
+B Buy Cresting Charm (x8) |L|4481 8| |N|Auctioneer Stockton in the Trade Quarter| |O| |C|Warrior| |AH| |Z|Undercity|
+B Buy Liferoot (x8) |L|3357 8| |N|Auctioneer Stockton in the Trade Quarter| |O| |C|Warrior| |AH| |Z|Undercity|
 N Buy a [Nature Protection Potions] from him |N|(71.4, 46.7)| |C|Warrior| |AH| |Z|Undercity|
-B Auctioneer Stockton in the Trade Quarter |L|6052 2| |N|Auctioneer Stockton in the Trade Quarter - (71.4, 46.7)| |C|Warrior| |AH| |Z|Undercity|
+B Buy Nature Protection Potion (x2) |L|6052 2| |N|Auctioneer Stockton in the Trade Quarter - (71.4, 46.7)| |C|Warrior| |AH| |Z|Undercity|
 N If you have money leftover, purchase the following items: |N|(71.4, 46.7)| |AH| |Z|Undercity|
-B Auctioneer Stockton in the Trade Quarter |L|3829 1| |N|Auctioneer Stockton in the Trade Quarter - (71.4, 46.7)| |AH| |Z|Undercity|
+B Buy Frost Oil (x1) |L|3829 1| |N|Auctioneer Stockton in the Trade Quarter - (71.4, 46.7)| |AH| |Z|Undercity|
+B Buy Gyrochronatom (x1) |L|4389 1| |N|Auctioneer Stockton in the Trade Quarter - (71.4, 46.7)| |AH| |Z|Undercity|
+B Buy Healing Potion (x1) |L|929 1| |N|Auctioneer Stockton in the Trade Quarter - (71.4, 46.7)| |AH| |Z|Undercity|
+B Buy Lesser Invisibility Potion (x1) |L|3823 1| |N|Auctioneer Stockton in the Trade Quarter - (71.4, 46.7)| |AH| |Z|Undercity|
+B Buy Patterned Bronze Bracers (x1) |L|2868 1| |N|Auctioneer Stockton in the Trade Quarter - (71.4, 46.7)| |AH| |Z|Undercity|
+B Buy Blue Pearl (x9) |L|4611 9| |N|Auctioneer Stockton in the Trade Quarter - (71.4, 46.7)| |AH| |Z|Undercity|
+B Buy Buzzard Wing (x4) |L|3404 4| |N|Auctioneer Stockton in the Trade Quarter - (71.4, 46.7)| |AH| |Z|Undercity|
 A Reclaimed Treasures |QID|2342| |N|[Group] Patrick - (62.3, 48.5)| |P|GROUP| |Z|Undercity|
 R Travel to Arathi Highlands |N|(45.8, 43.6)| |O| |C|Warrior| |Z|Arathi Highlands|
-C Cresting Exiles. Loot them for their [Cresting Charms] |QID|1713| |L|4481 8| |N|Cresting Exiles. Loot them for their [Cresting Charms] - (66.7, 29.7)| |C|Warrior| |Z|Arathi Highlands|
+C Collect Cresting Charm (x8) |QID|1713| |L|4481 8| |N|Cresting Exiles. Loot them for their [Cresting Charms] (66.7, 29.7)| |C|Warrior| |Z|Arathi Highlands|
 N Be careful! Thundering Exiles have high burst damage |N|(52.1, 50.6)| |C|Warrior| |Z|Arathi Highlands|
-C Thundering Exiles. Loot them for their [Thundering Charms] |QID|1713| |L|4480 8| |N|Thundering Exiles. Loot them for their [Thundering Charms] - (52.1, 50.6)| |C|Warrior| |Z|Arathi Highlands|
-C Burning Exiles. Loot them for their [Burning Charms] |QID|1713| |L|4479 8| |N|Burning Exiles. Loot them for their [Burning Charms] - (25.5, 30.1)| |C|Warrior| |Z|Arathi Highlands|
+C Collect Thundering Charm (x8) |QID|1713| |L|4480 8| |N|Thundering Exiles. Loot them for their [Thundering Charms] (52.1, 50.6)| |C|Warrior| |Z|Arathi Highlands|
+C Collect Burning Charm (x8) |QID|1713| |L|4479 8| |N|Burning Exiles. Loot them for their [Burning Charms] (25.5, 30.1)| |C|Warrior| |Z|Arathi Highlands|
 R Tarren Mill |N|(62.1, 20.2)| |O| |C|Warrior| |Z|Hillsbrad Foothills|
 F Fly to Tarren Mill |N|Michael - (63.3, 48.5)| |O| |Z|Undercity|
 A Bracers of Binding |QID|557| |N|Bel'varil and Wordeen - (61.6, 20.9)| |C|!Warrior| |Z|Undercity|
@@ -74,7 +83,7 @@ A Bracers of Binding |QID|557| |N|Bel'varil and Wordeen - (61.6, 20.9)| |C|Warri
 A Dalaran Patrols |QID|545| |N|Bel'varil and Wordeen - (61.6, 20.9)| |C|Warrior| |Z|Hillsbrad Foothills|
 R Travel to Alterac Mountains |N|(39.9, 80.9)| |O| |Z|Alterac Mountains|
 N [Fresh Carcass] disappears after 30 minutes |N|(46.2, 78.2)| |O| |Z|Alterac Mountains|
-C Mountain Lions. Loot them for a [Fresh Carcass] |L|5810 1| |N|Mountain Lions. Loot them for a [Fresh Carcass] - (46.2, 78.2)| |O| |Z|Alterac Mountains|
+C Collect Fresh Carcass (x1) |L|5810 1| |N|Mountain Lions. Loot them for a [Fresh Carcass] (46.2, 78.2)| |O| |Z|Alterac Mountains|
 C Frostmaw |QID|1136| |OIDX|1| |N|Use the [Fresh Carcass] inside Growless Cave to summon Frostmaw. Kill him and loot him for his Mane (37.6, 68.2)| |Z|Alterac Mountains|
 C Dalaran Patrols |QID|545| |OIDX|1| |N|Dalaran Summoners and Elemental Slaves. Loot them for their Bracers (20.5, 75.2)| |Z|Alterac Mountains|
 C Bracers of Binding |QID|557| |OIDX|1| |N|Dalaran Summoners and Elemental Slaves. Loot them for their Bracers (20.5, 75.2)| |Z|Alterac Mountains|
@@ -102,28 +111,28 @@ A Stones of Binding |QID|651| |N|the Iridescent Shards towards the back of the c
 N Kill Cresting Exiles. Loot them for an [Elemental Water] |N|(66.7, 29.8)| |C|Shaman| |Z|Arathi Highlands|
 N Cresting Exiles have Frost Armor and Frost Nova |N|(66.7, 29.8)| |Z|Arathi Highlands|
 C Stones of Binding |QID|651| |OIDX|2| |N|the Stone of East Binding for the Cresting Key (66.7, 29.8)| |Z|Arathi Highlands|
-C the Stone of East Binding for the Cresting Key |L|7070 1| |N|the Stone of East Binding for the Cresting Key - (66.7, 29.8)| |C|Shaman| |Z|Arathi Highlands|
+C Collect Elemental Water (x1) |L|7070 1| |N|the Stone of East Binding for the Cresting Key (66.7, 29.8)| |C|Shaman| |Z|Arathi Highlands|
 N Cresting Exiles have Frost Armor and Frost Nova |N|(66.7, 29.8)| |Z|Arathi Highlands|
 C Stones of Binding |QID|651| |OIDX|2| |N|the Stone of East Binding for the Cresting Key (66.7, 29.8)| |Z|Arathi Highlands|
 N Kill Thundering Exiles. Loot them for an [Elemental Air] |N|(52.0, 50.8)| |C|Shaman| |Z|Arathi Highlands|
 N Be careful! Thundering Exiles have powerful burst damage |N|(52.0, 50.8)| |Z|Arathi Highlands|
 C Stones of Binding |QID|651| |OIDX|3| |N|the Stone of Outer Binding for the Thundering Key (52.0, 50.8)| |Z|Arathi Highlands|
-C the Stone of Outer Binding for the Thundering Key |L|7069 1| |N|the Stone of Outer Binding for the Thundering Key - (52.0, 50.8)| |C|Shaman| |Z|Arathi Highlands|
+C Collect Elemental Air (x1) |L|7069 1| |N|the Stone of Outer Binding for the Thundering Key (52.0, 50.8)| |C|Shaman| |Z|Arathi Highlands|
 N Be careful! Thundering Exiles have powerful burst damage |N|(52.0, 50.8)| |Z|Arathi Highlands|
 C Stones of Binding |QID|651| |OIDX|3| |N|the Stone of Outer Binding for the Thundering Key (52.0, 50.8)| |Z|Arathi Highlands|
 N Kill Burning Exiles. Loot them for an [Elemental Fire] |N|(25.5, 30.1)| |C|Shaman| |Z|Arathi Highlands|
 N If you find yourself in danger, use a [Cresting Charm] on Burning Exiles |N|(25.5, 30.1)| |Z|Arathi Highlands|
 C Stones of Binding |QID|651| |OIDX|1| |N|the Stone of West Binding for the Burning Key (25.5, 30.1)| |Z|Arathi Highlands|
-C the Stone of West Binding for the Burning Key |L|7068 1| |N|the Stone of West Binding for the Burning Key - (25.5, 30.1)| |C|Shaman| |Z|Arathi Highlands|
+C Collect Elemental Fire (x1) |L|7068 1| |N|the Stone of West Binding for the Burning Key (25.5, 30.1)| |C|Shaman| |Z|Arathi Highlands|
 N If you find yourself in danger, use a [Cresting Charm] on Burning Exiles |N|(25.5, 30.1)| |Z|Arathi Highlands|
 C Stones of Binding |QID|651| |OIDX|1| |N|the Stone of West Binding for the Burning Key (25.5, 30.1)| |Z|Arathi Highlands|
 N Kill Burning Exiles. Loot them for an [Elemental Fire] |N|(25.5, 30.1)| |C|Shaman| |Z|Arathi Highlands|
 C Stones of Binding |QID|651| |OIDX|1| |N|the Stone of West Binding for the Burning Key (25.5, 30.1)| |Z|Arathi Highlands|
-C the Stone of West Binding for the Burning Key |L|7068 1| |N|the Stone of West Binding for the Burning Key - (25.5, 30.1)| |C|Shaman| |Z|Arathi Highlands|
+C Collect Elemental Fire (x1) |L|7068 1| |N|the Stone of West Binding for the Burning Key (25.5, 30.1)| |C|Shaman| |Z|Arathi Highlands|
 C Stones of Binding |QID|651| |OIDX|1| |N|the Stone of West Binding for the Burning Key (25.5, 30.1)| |Z|Arathi Highlands|
 T Stones of Binding |QID|651| |N|the Stone of Inner Binding - (36.2, 57.3)| |Z|Arathi Highlands|
 N You will need these for a level 50 Shaman quest later on. Bank them when you get to Orgrimmar later |N|(36.2, 57.3)| |C|Shaman| |Z|Arathi Highlands|
-C Rumbling Exiles. Loot them for an [Elemental Earth] |L|7067 1| |N|Rumbling Exiles. Loot them for an [Elemental Earth] - (36.2, 57.3)| |C|Shaman| |Z|Arathi Highlands|
+C Collect Elemental Earth (x1) |L|7067 1| |N|Rumbling Exiles. Loot them for an [Elemental Earth] (36.2, 57.3)| |C|Shaman| |Z|Arathi Highlands|
 A Breaking the Keystone |QID|652| |N|[Group] the Stone of Inner Binding again - (36.2, 57.3)| |P|GROUP| |Z|Arathi Highlands|
 C Guile of the Raptor |QID|701| |OIDX|1| |N|Kill Highland Fleshstalkers. Loot them for their Hearts| |O| |Z|Arathi Highlands|
 N Be careful of the Magi's Frost Armor and Frost Nova |N|(53.7, 80.0)| |Z|Arathi Highlands|

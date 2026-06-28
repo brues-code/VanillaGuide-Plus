@@ -30,7 +30,7 @@ C Escape Through Force |QID|994| |OIDX|1| |N|Escort Volcor Help Volcor to the ro
 T Mathystra Relics |QID|951| |N|Onu - (43.6, 76.3)| |Z|Darkshore|
 C Kerlonian's Chest. Loot it for the [Horn of Awakening] |QID|5321| |OIDX|1| |N|Kerlonian's Chest. Loot it for the [Horn of Awakening] - (44.4, 76.3)| |Z|Darkshore|
 R Travel to Ashenvale |N|(29.7, 13.6)| |O| |Z|Ashenvale|
-C and loot Ghostpaw Runners you encounter while questing. Keep any [Lean Wolf Flanks] you get. You will need 10 for a cooking quest later |L|1015 10| |N|Kill and loot Ghostpaw Runners you encounter while questing. Keep any [Lean Wolf Flanks] you get. You will need 10 for a cooking quest later| |O| |Z|Ashenvale|
+C Collect Lean Wolf Flank (x10) |L|1015 10| |N|Kill and loot Ghostpaw Runners you encounter while questing. Keep any [Lean Wolf Flanks] you get. You will need 10 for a cooking quest later| |O| |Z|Ashenvale|
 N Use the [Horn of Awakening] whenever Kerlonian falls asleep next to him |N|(27.3, 35.6)| |Z|Ashenvale|
 N Avoid running on the main road as much as possible. Enemies will only spawn if you're on the road |N|(27.3, 35.6)| |Z|Ashenvale|
 C Escort Kerlonian to Maestra's Post in Ashenvale |QID|5321| |OIDX|2| |N|Escort Kerlonian to Maestra's Post in Ashenvale - (27.3, 35.6)| |Z|Ashenvale|
@@ -50,7 +50,7 @@ T Bathran's Hair |QID|1010| |N|Orendil Broadleaf - (26.4, 38.6)| |Z|Ashenvale|
 A Orendil's Cure |QID|1020| |N|Orendil Broadleaf - (26.4, 38.6)| |Z|Ashenvale|
 T The Tower of Althalaxx |QID|970| |N|Delgren the Purifier - (26.2, 38.7)| |Z|Ashenvale|
 A The Tower of Althalaxx |QID|973| |N|Delgren the Purifier - (26.2, 38.7)| |Z|Ashenvale|
-C and loot Ghostpaw Runners you encounter while questing. Keep any [Lean Wolf Flanks] you get. You will need 10 for a cooking quest later |L|1015 10| |N|Kill and loot Ghostpaw Runners you encounter while questing. Keep any [Lean Wolf Flanks] you get. You will need 10 for a cooking quest later| |O| |Z|Ashenvale|
+C Collect Lean Wolf Flank (x10) |L|1015 10| |N|Kill and loot Ghostpaw Runners you encounter while questing. Keep any [Lean Wolf Flanks] you get. You will need 10 for a cooking quest later| |O| |Z|Ashenvale|
 T Therylune's Escape |QID|945| |N|Therysil - (22.6, 51.9)| |Z|Ashenvale|
 R Head up the ramp to the north-west |N|(522.9, 2716.1)| |C|Hunter| |Z|1440/1|
 C Gooey Spider Legs |QID|93| |L|2251 6| |N|Save up to 6 Gooey Spider Legs looted from the Spiders in the zone for later| |O| |Z|1440/1|
@@ -84,7 +84,7 @@ C The Tower of Althalaxx |QID|973| |OIDX|1| |N|Ilkrud Magthrull. Loot him for hi
 N Click here for video reference |N|(25.3, 60.7)| |Z|Ashenvale|
 T The Tower of Althalaxx |QID|973| |N|Delgren the Purifier - (26.2, 38.7)| |Z|Ashenvale|
 C Gooey Spider Legs |QID|93| |L|2251 6| |N|Save up to 6 Gooey Spider Legs looted from the Spiders in the zone. You will need them for a quest later| |O| |Z|Ashenvale|
-C and loot Ghostpaw Runners you encounter while questing. Keep any [Lean Wolf Flanks] you get. You will need 10 for a cooking quest later |L|1015 10| |N|Kill and loot Ghostpaw Runners you encounter while questing. Keep any [Lean Wolf Flanks] you get. You will need 10 for a cooking quest later| |O| |Z|Ashenvale|
+C Collect Lean Wolf Flank (x10) |L|1015 10| |N|Kill and loot Ghostpaw Runners you encounter while questing. Keep any [Lean Wolf Flanks] you get. You will need 10 for a cooking quest later| |O| |Z|Ashenvale|
 A The Ancient Statuette |QID|1007| |N|Talen - (14.8, 31.3)| |Z|Ashenvale|
 N Don't go out of your way to complete this yet |O| |Z|Ashenvale|
 C The Zoram Strand |QID|1008| |OIDX|1| |N|Kill Wrathtail Nagas. Loot them for their Heads| |O| |Z|Ashenvale|
@@ -102,7 +102,7 @@ C Ruuzel |QID|1009| |OIDX|1| |N|Ruuzel. Loot her for the Ring of Zoram (6.5, 13.
 C The Zoram Strand |QID|1008| |OIDX|1| |N|Wrathtail Nagas. Loot them for their Heads (14.5, 17.1)| |Z|Ashenvale|
 T Ruuzel |QID|1009| |N|Talen - (14.8, 31.3)| |Z|Ashenvale|
 C Gooey Spider Legs |QID|93| |L|2251 6| |N|Save up to 6 Gooey Spider Legs looted from the Spiders in the zone. You will need them for a quest later| |O| |Z|Ashenvale|
-C and loot Ghostpaw Runners you encounter while questing. Keep any [Lean Wolf Flanks] you get. You will need 10 for a cooking quest later |L|1015 10| |N|Kill and loot Ghostpaw Runners you encounter while questing. Keep any [Lean Wolf Flanks] you get. You will need 10 for a cooking quest later| |O| |Z|Ashenvale|
+C Collect Lean Wolf Flank (x10) |L|1015 10| |N|Kill and loot Ghostpaw Runners you encounter while questing. Keep any [Lean Wolf Flanks] you get. You will need 10 for a cooking quest later| |O| |Z|Ashenvale|
 T Raene's Cleansing |QID|991| |N|Teronis' Corpse - (20.3, 42.3)| |Z|Ashenvale|
 A Raene's Cleansing |QID|1023| |N|Teronis' Corpse - (20.3, 42.3)| |Z|Ashenvale|
 C Murloc Fin(8) |L|1468 8| |N|Keep any [Murloc Fins] you might loot. You will need 8 for a quest later| |O| |Z|Ashenvale|

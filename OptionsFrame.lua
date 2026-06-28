@@ -1,4 +1,3 @@
-
 local TurtleGuide = TurtleGuide
 local L = TurtleGuide.Locale
 local ww = WidgetWarlock
@@ -24,15 +23,18 @@ function TurtleGuide:CreateConfigPanel()
 	title:SetText("Options")
 
 	local qtrack = ww.SummonCheckBox(22, frame, "TOPLEFT", 5, -5)
-	ww.SummonFontString(qtrack, "OVERLAY", "GameFontNormalSmall", L["Automatically track quests"], "LEFT", qtrack, "RIGHT", 5, 0)
+	ww.SummonFontString(qtrack, "OVERLAY", "GameFontNormalSmall", L["Automatically track quests"], "LEFT", qtrack,
+		"RIGHT", 5, 0)
 	qtrack:SetScript("OnClick", function() self.db.char.trackquests = not self.db.char.trackquests end)
 
 	local qskipfollowups = ww.SummonCheckBox(22, qtrack, "TOPLEFT", 0, -20)
-	ww.SummonFontString(qskipfollowups, "OVERLAY", "GameFontNormalSmall", L["Automatically skip suggested follow-ups"], "LEFT", qskipfollowups, "RIGHT", 5, 0)
+	ww.SummonFontString(qskipfollowups, "OVERLAY", "GameFontNormalSmall", L["Automatically skip suggested follow-ups"],
+		"LEFT", qskipfollowups, "RIGHT", 5, 0)
 	qskipfollowups:SetScript("OnClick", function() self.db.char.skipfollowups = not self.db.char.skipfollowups end)
 
 	local mapmetamap = ww.SummonCheckBox(22, qskipfollowups, "TOPLEFT", 0, -20)
-	ww.SummonFontString(mapmetamap, "OVERLAY", "GameFontNormalSmall", L["Map MetaMap/BWP"], "LEFT", mapmetamap, "RIGHT", 5, 0)
+	ww.SummonFontString(mapmetamap, "OVERLAY", "GameFontNormalSmall", L["Map MetaMap/BWP"], "LEFT", mapmetamap, "RIGHT",
+		5, 0)
 	mapmetamap:SetScript("OnClick", function() self.db.char.mapmetamap = not self.db.char.mapmetamap end)
 
 	local mapbwp = ww.SummonCheckBox(22, mapmetamap, "TOPLEFT", 0, -20)
@@ -40,7 +42,8 @@ function TurtleGuide:CreateConfigPanel()
 	mapbwp:SetScript("OnClick", function() self.db.char.mapbwp = not self.db.char.mapbwp end)
 
 	local autobranch = ww.SummonCheckBox(22, mapbwp, "TOPLEFT", 0, -20)
-	ww.SummonFontString(autobranch, "OVERLAY", "GameFontNormalSmall", "Auto-branch to Turtle WoW zones", "LEFT", autobranch, "RIGHT", 5, 0)
+	ww.SummonFontString(autobranch, "OVERLAY", "GameFontNormalSmall", "Auto-branch to Turtle WoW zones", "LEFT",
+		autobranch, "RIGHT", 5, 0)
 	autobranch:SetScript("OnClick", function() self.db.char.autobranch = not self.db.char.autobranch end)
 
 	-- Route selector button
@@ -58,7 +61,7 @@ function TurtleGuide:CreateConfigPanel()
 	dungeonsBtn:SetWidth(130)
 	dungeonsBtn:SetHeight(22)
 	dungeonsBtn:SetPoint("LEFT", routeBtn, "RIGHT", 6, 0)
-	dungeonsBtn:SetText("Dungeons")
+	dungeonsBtn:SetText("Dungeons RXP")
 	dungeonsBtn:SetScript("OnClick", function()
 		TurtleGuide:ToggleDungeonPanel()
 	end)
@@ -109,7 +112,7 @@ function TurtleGuide:CreateConfigPanel()
 	filtersBtn:SetWidth(286)
 	filtersBtn:SetHeight(22)
 	filtersBtn:SetPoint("TOPLEFT", refreshBtn, "BOTTOMLEFT", 0, -6)
-	filtersBtn:SetText("Filters (Solo/Group/AH)")
+	filtersBtn:SetText("Filters (Solo/Group/AH) RXP")
 	filtersBtn:SetScript("OnClick", function()
 		TurtleGuide:ToggleFiltersPanel()
 	end)
@@ -210,21 +213,21 @@ function TurtleGuide:CreateDungeonPanel()
 	title:SetText("Dungeons")
 
 	local dungeons = {
-		{ code = "RFC", name = "Ragefire Chasm" },
-		{ code = "WC", name = "Wailing Caverns" },
-		{ code = "DM", name = "Deadmines" },
-		{ code = "SFK", name = "Shadowfang Keep" },
-		{ code = "BFD", name = "Blackfathom Deeps" },
+		{ code = "RFC",       name = "Ragefire Chasm" },
+		{ code = "WC",        name = "Wailing Caverns" },
+		{ code = "DM",        name = "Deadmines" },
+		{ code = "SFK",       name = "Shadowfang Keep" },
+		{ code = "BFD",       name = "Blackfathom Deeps" },
 		{ code = "STOCKADES", name = "The Stockade" },
-		{ code = "GNOMER", name = "Gnomeregan" },
-		{ code = "RFK", name = "Razorfen Kraul" },
-		{ code = "SM", name = "Scarlet Monastery" },
-		{ code = "RFD", name = "Razorfen Downs" },
-		{ code = "ULDA", name = "Uldaman" },
-		{ code = "ZF", name = "Zul'Farrak" },
-		{ code = "MARA", name = "Maraudon" },
-		{ code = "ST", name = "Sunken Temple" },
-		{ code = "BRD", name = "Blackrock Depths" },
+		{ code = "GNOMER",    name = "Gnomeregan" },
+		{ code = "RFK",       name = "Razorfen Kraul" },
+		{ code = "SM",        name = "Scarlet Monastery" },
+		{ code = "RFD",       name = "Razorfen Downs" },
+		{ code = "ULDA",      name = "Uldaman" },
+		{ code = "ZF",        name = "Zul'Farrak" },
+		{ code = "MARA",      name = "Maraudon" },
+		{ code = "ST",        name = "Sunken Temple" },
+		{ code = "BRD",       name = "Blackrock Depths" },
 	}
 
 	local prev = title
@@ -236,16 +239,16 @@ function TurtleGuide:CreateDungeonPanel()
 		else
 			cb:SetPoint("TOPLEFT", prev, "BOTTOMLEFT", 0, -4)
 		end
-		
+
 		local text = ww.SummonFontString(cb, "OVERLAY", "GameFontNormalSmall", d.name, "LEFT", cb, "RIGHT", 5, 0)
 		cb.dungeonCode = d.code
-		
+
 		local code = d.code
 		cb:SetScript("OnClick", function()
 			TurtleGuide.db.char.Dungeons[code] = not not cb:GetChecked()
 			TurtleGuide:LoadGuide(TurtleGuide.db.char.currentguide)
 		end)
-		
+
 		table.insert(frame.checkboxes, cb)
 		prev = cb
 	end
@@ -262,7 +265,7 @@ function TurtleGuide:CreateDungeonPanel()
 
 	frame:SetScript("OnShow", OnShow)
 	ww.SetFadeTime(frame, 0.5)
-	
+
 	table.insert(UISpecialFrames, "TurtleGuideDungeons")
 end
 
@@ -310,7 +313,8 @@ function TurtleGuide:CreateFiltersPanel()
 
 	-- AH Checkbox
 	local ahCb = ww.SummonCheckBox(18, frame, "TOPLEFT", 10, -40)
-	local ahText = ww.SummonFontString(ahCb, "OVERLAY", "GameFontNormalSmall", "Use Auction House", "LEFT", ahCb, "RIGHT", 5, 0)
+	local ahText = ww.SummonFontString(ahCb, "OVERLAY", "GameFontNormalSmall", "Use Auction House", "LEFT", ahCb, "RIGHT",
+		5, 0)
 	frame.ahCb = ahCb
 
 	ahCb:SetScript("OnClick", function()
@@ -319,16 +323,19 @@ function TurtleGuide:CreateFiltersPanel()
 	end)
 
 	-- Play Style Header
-	local psHeader = ww.SummonFontString(frame, "OVERLAY", "GameFontNormal", "Play Style:", "TOPLEFT", frame, "TOPLEFT", 10, -75)
+	local psHeader = ww.SummonFontString(frame, "OVERLAY", "GameFontNormal", "Play Style:", "TOPLEFT", frame, "TOPLEFT",
+		10, -75)
 
 	-- Solo Checkbox
 	local soloCb = ww.SummonCheckBox(18, frame, "TOPLEFT", 10, -95)
-	local soloText = ww.SummonFontString(soloCb, "OVERLAY", "GameFontNormalSmall", "Solo Mode", "LEFT", soloCb, "RIGHT", 5, 0)
+	local soloText = ww.SummonFontString(soloCb, "OVERLAY", "GameFontNormalSmall", "Solo Mode", "LEFT", soloCb, "RIGHT",
+		5, 0)
 	frame.soloCb = soloCb
 
 	-- Group Checkbox
 	local groupCb = ww.SummonCheckBox(18, frame, "TOPLEFT", 10, -118)
-	local groupText = ww.SummonFontString(groupCb, "OVERLAY", "GameFontNormalSmall", "Group Mode", "LEFT", groupCb, "RIGHT", 5, 0)
+	local groupText = ww.SummonFontString(groupCb, "OVERLAY", "GameFontNormalSmall", "Group Mode", "LEFT", groupCb,
+		"RIGHT", 5, 0)
 	frame.groupCb = groupCb
 
 	soloCb:SetScript("OnClick", function()
@@ -358,7 +365,7 @@ function TurtleGuide:CreateFiltersPanel()
 
 	frame:SetScript("OnShow", OnShow)
 	ww.SetFadeTime(frame, 0.5)
-	
+
 	table.insert(UISpecialFrames, "TurtleGuideFilters")
 end
 

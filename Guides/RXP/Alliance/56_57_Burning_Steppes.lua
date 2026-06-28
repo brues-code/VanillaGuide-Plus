@@ -161,7 +161,8 @@ C Voodoo Feathers |QID|8425| |OIDX|1| |N|Kill Mijan and Hukku. Loot them for the
 C Trolls of a Feather |QID|8422| |OIDX|1| |N|Kill Mijan and Hukku. Loot them for their Blue Voodoo Feathers (ST Dungeon Quest)| |C|Warlock| |D|ST| |Z|Westfall|
 N Kill the Avatar of Hakkar. Loot it for the [Essence of Hakkar] |N|(ST Dungeon Quest)| |D|ST| |Z|Westfall|
 N Use the [Essence of Hakkar] to fill the [Egg of Hakkar] |N|(ST Dungeon Quest)| |D|ST| |Z|Westfall|
-C Use the [Egg of Hakkar] while next to the Dragonflayer Skeleton, then complete the event |QID|3528| |L|10663 1| |N|Kill the minions of Hakkar until the Avatar of Hakkar joins (ST Dungeon Quest)| |D|ST| |Z|Westfall|
+C Collect Essence of Hakkar (x1) |QID|3528| |L|10663 1| |N|Kill the minions of Hakkar until the Avatar of Hakkar joins (ST Dungeon Quest)| |D|ST| |Z|Westfall|
+C Kill the minions of Hakkar until the Avatar of Hakkar joins |QID|3528| |OIDX|1| |N|Kill the minions of Hakkar until the Avatar of Hakkar joins (ST Dungeon Quest)| |D|ST| |Z|Westfall|
 C You must kill the 6 Trolls on the upper platforms to gain access to Jammal'an the Prophet |QID|1446| |OIDX|1| |N|You must kill the 6 Trolls on the upper platforms to gain access to Jammal'an the Prophet (ST Dungeon Quest)| |D|ST| |Z|Westfall|
 N Kill Morphaz. Loot it for the Blood of Morphaz |N|(ST Dungeon Quest)| |C|Priest| |D|ST| |Z|Westfall|
 N Kill Morphaz. Loot it for the Azure Key |N|(ST Dungeon Quest)| |C|Rogue| |D|ST| |Z|Westfall|
@@ -170,7 +171,7 @@ C Destroy Morphaz |QID|8253| |OIDX|1| |N|Kill Morphaz. Loot it for the Arcane Sh
 C Blood of Morphaz |QID|8257| |OIDX|1| |N|Kill Morphaz. Loot it for the Arcane Shard (ST Dungeon Quest)| |C|Priest| |D|ST| |Z|Westfall|
 C The Azure Key |QID|8236| |OIDX|1| |N|Kill Morphaz. Loot it for the Arcane Shard (ST Dungeon Quest)| |C|Rogue| |D|ST| |Z|Westfall|
 N Ensure you have killed all Dragonkin mobs on the upper level before engaging the Shade of Eranikus otherwise they will all agro onto you |N|(ST Dungeon Quest)| |D|ST| |Z|Westfall|
-C the Shade of Eranikus. Loot him for the [Essence of Eranikus] |QID|3373| |L|10454 1| |N|Use the [Essence of Eranikus] to start the quest (ST Dungeon Quest)| |D|ST| |Z|Westfall|
+C Collect Essence of Eranikus (x1) |QID|3373| |L|10454 1| |N|Use the [Essence of Eranikus] to start the quest (ST Dungeon Quest)| |D|ST| |Z|Westfall|
 A The Essence of Eranikus |QID|3373| |N|Use the [Essence of Eranikus] to start the quest (ST Dungeon Quest)| |D|ST| |Z|Westfall|
 T The Essence of Eranikus |QID|3373| |N|(ST Dungeon Quest)| |D|ST| |Z|Westfall|
 N It is strongly advised you choose the [Diamond Flask] as your reward. Although the other rewards are also very good, you will not ever replace the [Diamond Flask] |N|(34.3, 66.1) (ST Dungeon Quest)| |C|Warrior| |D|ST| |Z|Swamp of Sorrows|
@@ -195,12 +196,24 @@ R Bailey Stonemantle |N|(35.9, 60.2)| |Z|Ironforge|
 N [Tinkee's Letter] |N|(35.9, 60.2)| |Z|Ironforge|
 N If you have none, [Light Feathers] will also work for [Levitate] |C|Priest| |Z|Ironforge|
 N If you have none, [Light Feathers] will also work for [Slow Fall] |C|Mage| |Z|Ironforge|
-C Take out any [Noggenfogger Elixirs] from your bank if you have any. These will come in handy in EPL shortly for a large mountain skip time save |L|8529 40| |N|Take out any [Noggenfogger Elixirs] from your bank if you have any. These will come in handy in EPL shortly for a large mountain skip time save| |C|Priest/Mage| |Z|Ironforge|
+C Collect Noggenfogger Elixir (x40) |L|8529 40| |N|Take out any [Noggenfogger Elixirs] from your bank if you have any. These will come in handy in EPL shortly for a large mountain skip time save| |C|Priest/Mage| |Z|Ironforge|
+C Collect Light Feather (x5) |L|17056 5| |N|Take out any [Noggenfogger Elixirs] from your bank if you have any. These will come in handy in EPL shortly for a large mountain skip time save| |C|Priest/Mage| |Z|Ironforge|
 N Buy the following items from the Auction House. You will need these later for a free quest turn in in EPL |N|(23.8, 71.8)| |AH| |Z|Ironforge|
-B an Ironforge Auctioneer |L|12359 2| |N|an Ironforge Auctioneer - (23.8, 71.8)| |AH| |Z|Ironforge|
+B Buy Thorium Bar (x2) |L|12359 2| |N|an Ironforge Auctioneer - (23.8, 71.8)| |AH| |Z|Ironforge|
+B Buy Golden Rod (x1) |L|11128 1| |N|an Ironforge Auctioneer - (23.8, 71.8)| |AH| |Z|Ironforge|
+B Buy Hi-Explosive Bomb (x8) |L|10562 8| |N|an Ironforge Auctioneer - (23.8, 71.8)| |AH| |Z|Ironforge|
+B Buy Unstable Trigger (x8) |L|10560 8| |N|an Ironforge Auctioneer - (23.8, 71.8)| |AH| |Z|Ironforge|
 N Buy the following items from the Auction House. You will need these later for multiple free quest turn ins in EPL |N|(23.8, 71.8)| |AH| |Z|Ironforge|
 N There are 5 different quests and each require 30. If you can't get 30 of one type then skip it |N|(23.8, 71.8)| |AH| |Z|Ironforge|
-B an Ironforge Auctioneer |L|22529 30| |N|an Ironforge Auctioneer - (23.8, 71.8)| |AH| |Z|Ironforge|
+B Buy Savage Frond (x30) |L|22529 30| |N|an Ironforge Auctioneer - (23.8, 71.8)| |AH| |Z|Ironforge|
+B Buy Bone Fragments (x30) |L|22526 30| |N|an Ironforge Auctioneer - (23.8, 71.8)| |AH| |Z|Ironforge|
+B Buy Crypt Fiend Parts (x30) |L|22525 30| |N|an Ironforge Auctioneer - (23.8, 71.8)| |AH| |Z|Ironforge|
+B Buy Core of Elements (x30) |L|22527 30| |N|an Ironforge Auctioneer - (23.8, 71.8)| |AH| |Z|Ironforge|
+B Buy Dark Iron Scraps (x30) |L|22528 30| |N|an Ironforge Auctioneer - (23.8, 71.8)| |AH| |Z|Ironforge|
+B Buy Thorium Bar (x2) |L|12359 2| |N|an Ironforge Auctioneer - (23.8, 71.8)| |AH| |Z|Ironforge|
+B Buy Golden Rod (x1) |L|11128 1| |N|an Ironforge Auctioneer - (23.8, 71.8)| |AH| |Z|Ironforge|
+B Buy Hi-Explosive Bomb (x8) |L|10562 8| |N|an Ironforge Auctioneer - (23.8, 71.8)| |AH| |Z|Ironforge|
+B Buy Unstable Trigger (x8) |L|10560 8| |N|an Ironforge Auctioneer - (23.8, 71.8)| |AH| |Z|Ironforge|
 N Toldren Deepiron |N|(25.2, 10.8)| |C|Priest| |Z|Ironforge|
 N Brandur Ironhammer |N|(25.2, 10.8)| |C|Paladin| |Z|Ironforge|
 t Train your class spells |N|(23.1, 6.1)| |C|Priest/Paladin| |Z|Ironforge|

@@ -24,6 +24,7 @@ B [Longjaw Mud Snapper] is very cheap |N|Innkeeper Heather - (52.9, 53.7)| |Z|We
 N You can usually find them near Farm Fences or Buildings |O| |Z|Westfall|
 C Poor Old Blanchy |QID|151| |OIDX|1| |N|Open the Sacks of Oats on the ground. Loot them for the Handful of Oats Handful of Oats (8)| |O| |Z|Westfall|
 C Stringy Vulture Meat (3) |QID|38| |L|729 3| |N|Kill Young Goretusks and Young Fleshrippers. Loot them for their Vulture Meat, Snouts and Livers| |O| |Z|Westfall|
+C Goretusk Snout (3) |QID|38| |L|731 3| |N|Kill Young Goretusks and Young Fleshrippers. Loot them for their Vulture Meat, Snouts and Livers| |O| |Z|Westfall|
 C Goretusk Liver (8) |QID|22| |L|723 8| |N|Kill Young Goretusks and Young Fleshrippers. Loot them for their Vulture Meat, Snouts and Livers| |O| |Z|Westfall|
 C The People's Militia |QID|12| |OIDX|1| |N|Kill Defias Trappers and Defias Smugglers. Loot them for their Red Leather Bandanas Defias Trapper slain (15)| |O| |Z|Westfall|
 C Red Leather Bandanas |QID|153| |OIDX|1| |N|Kill Defias Trappers and Defias Smugglers. Loot them for their Red Leather Bandanas Red Leather Bandana (15)| |O| |Z|Westfall|
@@ -34,6 +35,7 @@ C Okra (3) |QID|38| |L|732 3| |N|Kill Harvest Watchers located on any of the fie
 C Flask of Oil (5) |QID|103| |L|814 5| |N|Kill Harvest Watchers located on any of the fields as you run by them| |O| |Z|Westfall|
 C Alexston's Chest. Loot it for A Simple Compass |QID|399| |OIDX|1| |N|Alexston's Chest. Loot it for A Simple Compass - (36.2, 54.5)| |Z|Westfall|
 C Stringy Vulture Meat (3) |QID|38| |L|729 3| |N|Kill Young Goretusks and Young Fleshrippers. Loot them for their Vulture Meat, Snouts and Livers| |O| |Z|Westfall|
+C Goretusk Snout (3) |QID|38| |L|731 3| |N|Kill Young Goretusks and Young Fleshrippers. Loot them for their Vulture Meat, Snouts and Livers| |O| |Z|Westfall|
 C Goretusk Liver (8) |QID|22| |L|723 8| |N|Kill Young Goretusks and Young Fleshrippers. Loot them for their Vulture Meat, Snouts and Livers| |O| |Z|Westfall|
 C The People's Militia |QID|12| |OIDX|1| |N|Kill Defias Trappers and Defias Smugglers. Loot them for their Red Leather Bandanas Defias Trapper slain (15)| |O| |Z|Westfall|
 C Red Leather Bandanas |QID|153| |OIDX|1| |N|Kill Defias Trappers and Defias Smugglers. Loot them for their Red Leather Bandanas Red Leather Bandana (15)| |O| |Z|Westfall|
@@ -65,6 +67,7 @@ C Flask of Oil (5) |QID|103| |L|814 5| |N|Harvest Watchers. Loot them for their 
 C The Killing Fields |QID|9| |OIDX|1| |N|Harvest Watchers. Loot them for their Flasks of Oil Harvest Watcher (20)| |Z|Westfall|
 C Flask of Oil (5) |QID|103| |L|814 5| |N|Harvest Watchers. Loot them for their Flasks of Oil (50.8, 21.8)| |Z|Westfall|
 C Stringy Vulture Meat (3) |QID|38| |L|729 3| |N|Young Goretusks and Young Fleshrippers. Loot them for their Vulture Meat, Snouts and Livers (54.4, 40.4)| |Z|Westfall|
+C Goretusk Snout (3) |QID|38| |L|731 3| |N|Young Goretusks and Young Fleshrippers. Loot them for their Vulture Meat, Snouts and Livers (54.4, 40.4)| |Z|Westfall|
 C Goretusk Liver (8) |QID|22| |L|723 8| |N|Young Goretusks and Young Fleshrippers. Loot them for their Vulture Meat, Snouts and Livers (54.4, 40.4)| |Z|Westfall|
 T The Killing Fields |QID|9| |N|Farmer Saldean - (56.0, 31.2)| |Z|Westfall|
 T Westfall Stew |QID|38| |N|Salma Saldean - (56.4, 30.5)| |Z|Westfall|
@@ -100,7 +103,7 @@ t Train Thrown |N|Bixi Wobblebonk - (62.0, 89.6)| |C|Warrior| |R|Human| |Z|Ironf
 B Brenwyn Wintersteel down stairs |N|(62.4, 88.7)| |C|Rogue| |R|Human| |AH| |Z|Ironforge|
 R Brenwyn Wintersteel down stairs |N|(62.4, 88.7)| |C|Rogue| |R|Human| |Z|Ironforge|
 N Buy a [Keen Throwing Dagger] |N|(62.4, 88.7)| |C|Rogue| |R|Human| |Z|Ironforge|
-B Keen Throwing Dagger |L|3107 100| |N|Brenwyn Wintersteel down stairs - (62.4, 88.7)| |C|Rogue| |R|Human| |Z|Ironforge|
+B Keen Throwing Dagger - Keen Throwing Knife (x100) |L|3107 100| |N|Brenwyn Wintersteel down stairs - (62.4, 88.7)| |C|Rogue| |R|Human| |Z|Ironforge|
 t Train your class spells |N|Beldruk Doombrow - (24.6, 4.5)| |C|Paladin| |R|Dwarf| |Z|Ironforge|
 R Travel toward Muiredon upstairs |N|(24.4, 11.9)| |O| |C|Paladin| |R|Dwarf| |Z|Ironforge|
 T The Tome of Divinity |QID|1784| |N|Muiredon Battleforge - (23.5, 8.3)| |C|Paladin| |R|Dwarf| |Z|Ironforge|

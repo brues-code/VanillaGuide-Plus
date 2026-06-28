@@ -27,7 +27,7 @@ T Forces of Jaedenar |QID|5155| |N|Greta - (51.2, 82.2)| |Z|Felwood|
 A Collection of the Corrupt Water |QID|5157| |N|Greta - (51.2, 82.2)| |Z|Felwood|
 N Be very careful of Jaedenar Adepts; they have blink, as well as a strong fireball and fire blast |N|(35.2, 59.8)| |Z|Felwood|
 C Collection of the Corrupt Water |QID|5157| |OIDX|1| |N|Use your [Empty Canteen] in the green moonwell (35.2, 59.8)| |Z|Felwood|
-C Jadefire Satyrs and Jadefire Felsworns. Loot them for a [Felcloth] |QID|8419| |L|14256 1| |N|Jadefire Satyrs and Jadefire Felsworns. Loot them for a [Felcloth] - (39.5, 84.5)| |C|Warlock| |Z|Felwood|
+C Collect Felcloth (x1) |QID|8419| |L|14256 1| |N|Jadefire Satyrs and Jadefire Felsworns. Loot them for a [Felcloth] (39.5, 84.5)| |C|Warlock| |Z|Felwood|
 T An Imp's Request |QID|8419| |N|Impsy - (41.5, 45.0)| |C|Warlock| |Z|Felwood|
 A The Wrong Stuff |QID|8421| |N|Impsy - (41.5, 45.0)| |C|Warlock| |Z|Felwood|
 N Only Tainted Oozes can drop Bloodvenom Essence |N|(43.4, 48.2)| |C|Warlock| |Z|Felwood|
@@ -51,12 +51,12 @@ N If you are not Unfriendly with Timbermaw Hold, Furbolgs will attack you |N|(67
 A Threat of the Winterfall |QID|5082| |N|Donova Snowden - (31.3, 45.2)| |Z|Winterspring|
 T It's a Secret to Everybody |QID|3908| |N|Donova Snowden - (31.3, 45.2)| |Z|Winterspring|
 N This has a low droprate and is NOT groupeshared |O| |Z|Winterspring|
-C Winterfall Furbolgs until you loot an [Empty Firewater Flask]. Use it to accept the quest |QID|5083| |L|12771 1| |N|Kill Winterfall Furbolgs until you loot an [Empty Firewater Flask]. Use it to accept the quest| |O| |Z|Winterspring|
+C Collect Empty Firewater Flask (x1) |QID|5083| |L|12771 1| |N|Kill Winterfall Furbolgs until you loot an [Empty Firewater Flask]. Use it to accept the quest| |O| |Z|Winterspring|
 A Winterfall Firewater |QID|5083| |N|Kill Winterfall Furbolgs until you loot an [Empty Firewater Flask]. Use it to accept the quest| |O| |Z|Winterspring|
 N Clear the southeastern camps if you run out of spawns |N|(33.6, 37.0)| |Z|Winterspring|
 C Threat of the Winterfall |QID|5082| |OIDX|1| |N|Winterfall Pathfinders, Winterfall Den Watchers and Winterfall Totemics (33.6, 37.0)| |Z|Winterspring|
 N This has a low droprate and is NOT groupeshared |N|(42.4, 42.4)| |Z|Winterspring|
-C Winterfall Furbolgs until you loot an [Empty Firewater Flask]. Use it to accept the quest |QID|5083| |L|12771 1| |N|Winterfall Furbolgs until you loot an [Empty Firewater Flask]. Use it to accept the quest - (42.4, 42.4)| |Z|Winterspring|
+C Collect Empty Firewater Flask (x1) |QID|5083| |L|12771 1| |N|Winterfall Furbolgs until you loot an [Empty Firewater Flask]. Use it to accept the quest (42.4, 42.4)| |Z|Winterspring|
 A Winterfall Firewater |QID|5083| |N|Winterfall Furbolgs until you loot an [Empty Firewater Flask]. Use it to accept the quest - (42.4, 42.4)| |Z|Winterspring|
 T Threat of the Winterfall |QID|5082| |N|Donova - (31.3, 45.2)| |Z|Winterspring|
 T Winterfall Firewater |QID|5083| |N|Donova - (31.3, 45.2)| |Z|Winterspring|
@@ -83,14 +83,14 @@ A Seeking Spiritual Aid |QID|5158| |N|Greta - (51.2, 82.1)| |Z|Felwood|
 T Verifying the Corruption |QID|5156| |N|Taronn - (50.9, 81.7)| |Z|Felwood|
 T Cleansing Felwood |QID|4102| |N|Maybess - (46.6, 83.0)| |Z|Felwood|
 N Select the option: "I need a Cenarion beacon." |N|(46.6, 83.0)| |Z|Felwood|
-C Maybess again to receive a [Cenarion Beacon] |L|11511 1| |N|Maybess again to receive a [Cenarion Beacon] - (46.6, 83.0)| |Z|Felwood|
+C Collect Cenarion Beacon (x1) |L|11511 1| |N|Maybess again to receive a [Cenarion Beacon] (46.6, 83.0)| |Z|Felwood|
 H Orgrimmar |N|Hearth to Orgrimmar| |Z|Felwood|
 t Train Teleport: Orgrimmar |C|Mage| |Z|Felwood|
 t Train Teleport: Orgrimmar |N|Cast [Teleport: Orgrimmar]| |C|Mage| |Z|Felwood|
 B Sell your junk, then restock on food and water if necessary |N|Barkeep Morag - (54.6, 67.7)| |C|!Rogue/!Warrior| |Z|Orgrimmar|
 B Sell your junk, then restock on food if necessary |N|Barkeep Morag - (54.6, 67.7)| |C|Rogue/Warrior| |Z|Orgrimmar|
 N Buy one [Mithril Casing] from the Auction House |N|(55.6, 62.9)| |AH| |Z|Orgrimmar|
-B Thathung |L|10561 1| |N|Thathung - (55.6, 62.9)| |AH| |Z|Orgrimmar|
+B Buy Mithril Casing (x1) |L|10561 1| |N|Thathung - (55.6, 62.9)| |AH| |Z|Orgrimmar|
 N He is located at the top of the building |N|(55.5, 34.1)| |Z|Orgrimmar|
 T Delivery to Jes'rimon |QID|3541| |N|Jes'rimon - (55.5, 34.1)| |Z|Orgrimmar|
 A Jes'rimon's Payment to Jediga |QID|3563| |N|Jes'rimon - (55.5, 34.1)| |Z|Orgrimmar|

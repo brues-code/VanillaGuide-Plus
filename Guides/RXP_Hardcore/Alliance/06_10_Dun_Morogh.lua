@@ -46,7 +46,7 @@ A Stocking Jetsteam |QID|317| |N|Pilot Bellowfiz - (49.4, 48.4)| |Z|Dun Morogh|
 A The Grizzled Den |QID|313| |N|Pilot Stonegear - (49.6, 48.6)| |Z|Dun Morogh|
 T Tools for Steelgrill |QID|400| |N|Beldin Steelgrill - (50.4, 49.1)| |Z|Dun Morogh|
 A Ammo for Rumbleshot |QID|5541| |N|Loslor Rudge - (50.1, 49.4)| |Z|Dun Morogh|
-B Loslor Rudge |L|2901 1| |N|Buy a [Mining Pick] if you trained [Blacksmithing] - (50.1, 49.4)| |O| |C|Warrior/Paladin/Rogue| |Z|Dun Morogh|
+B Buy Mining Pick (x1) |L|2901 1| |N|Buy a [Mining Pick] if you trained [Blacksmithing] - (50.1, 49.4)| |O| |C|Warrior/Paladin/Rogue| |Z|Dun Morogh|
 t Train [Mining] |N|Yarr Hammerstone - (50.0, 50.3)| |C|Warrior/Paladin/Rogue| |Z|Dun Morogh|
 N Cast [Find Minerals] |C|Warrior/Paladin/Rogue| |Z|Dun Morogh|
 C Stocking Jetsteam |QID|317| |OIDX|2| |N|Kill Young Black Bears. Loot them for their Fur Collect Thick Bear Fur (x2)| |O| |C|Paladin/Warrior/Rogue| |Z|Dun Morogh|
@@ -232,6 +232,8 @@ A Mountaineer Stormpike's Task |QID|1339| |N|Mountaineer Kadrell - (36.8, 46.2)|
 N Kill Mountain Boars. Loot them for their Boar Intestines |O| |Z|Loch Modan|
 N Kill Forest Lurkers. Loot them for their Ichor |O| |Z|Loch Modan|
 C Collect Boar Intestines (x3) |QID|418| |L|3172 3| |N|Kill Elder Black Bears. Loot them for their Bear Meat| |O| |Z|Loch Modan|
+C Collect Bear Meat (x3) |QID|418| |L|3173 3| |N|Kill Elder Black Bears. Loot them for their Bear Meat| |O| |Z|Loch Modan|
+C Collect Spider Ichor (x3) |QID|418| |L|3174 3| |N|Kill Elder Black Bears. Loot them for their Bear Meat| |O| |Z|Loch Modan|
 N Don't go out of your way to complete this right now. You'll come back to Loch Modan soon |O| |Z|Loch Modan|
 R Travel north to the Algaz Station |N|(23.9, 17.9)| |O| |Z|Loch Modan|
 T Mountaineer Stormpike's Task |QID|1339| |N|[Group] Mountaineer Stormpike - (24.8, 18.4)| |P|GROUP| |Z|Loch Modan|

@@ -29,7 +29,7 @@ t Train your class spells |N|Greshka - (48.2, 57.9)| |C|Shaman| |Z|Swamp of Sorr
 t Train your class spells |N|Malosh - (44.9, 57.6)| |C|Warrior| |Z|Swamp of Sorrows|
 C Lack of Surplus |QID|698| |OIDX|1| |N|Kill Sawtooth Crocolisks and Sawtooth Snappers. Loot them for their Sawtooth Flanks| |O| |Z|Swamp of Sorrows|
 N Noboru the Cudgel patrols the zone's top-center |N|(32.2, 36.7)| |Z|Swamp of Sorrows|
-C Noboru the Cudgel. Loot him for [Noboru's Cudgel]. Use it to start the quest |QID|1392| |L|6196 1| |N|Noboru the Cudgel. Loot him for [Noboru's Cudgel]. Use it to start the quest - (32.2, 36.7)| |Z|Swamp of Sorrows|
+C Collect Noboru's Truncheon (x1) |QID|1392| |L|6196 1| |N|Noboru the Cudgel. Loot him for [Noboru's Cudgel]. Use it to start the quest (32.2, 36.7)| |Z|Swamp of Sorrows|
 A Noboru the Cudgel |QID|1392| |N|Noboru the Cudgel. Loot him for [Noboru's Cudgel]. Use it to start the quest - (32.2, 36.7)| |Z|Swamp of Sorrows|
 A Draenethyst Crystals |QID|1389| |N|Magtoor - (26.0, 31.4)| |Z|Swamp of Sorrows|
 T Noboru the Cudgel |QID|1392| |N|Magtoor - (26.0, 31.4)| |Z|Swamp of Sorrows|

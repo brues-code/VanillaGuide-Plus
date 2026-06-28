@@ -31,7 +31,7 @@ A Crown of the Earth |QID|929| |N|Corithras Moonrage - (56.1, 61.7)| |Z|Teldrass
 t Train [Herbalism] |N|Malorne Bladeleaf - (57.7, 60.6)| |C|Druid| |Z|Teldrassil|
 N [Herbalism] is required to gather 5 [Earthroot] for a level 15 quest later. You can unlearn it afterwards |N|(57.7, 60.6)| |C|Druid| |Z|Teldrassil|
 N Pick 5 Earthroot off the ground for a level 15 quest later |O| |C|Druid| |Z|Teldrassil|
-C Level [Herbalism] to 15 |L|2449 5| |N|Level [Herbalism] to 15| |O| |C|Druid| |Z|Teldrassil|
+C Collect Earthroot (x5) |L|2449 5| |N|Level [Herbalism] to 15| |O| |C|Druid| |Z|Teldrassil|
 N Cast [Lesser Heal (Rank 2)] and [Power Word: Fortitude] on Sentinel Shaya |N|(57.2, 63.5)| |C|Priest| |Z|Teldrassil|
 C Garments of the Moon |QID|5621| |OIDX|1| |N|Target Sentinel Shaya Heal and fortify Sentinel Shaya| |C|Priest| |Z|Teldrassil|
 T Denalan's Earth |QID|997| |N|Denalan - (60.9, 68.5)| |Z|Teldrassil|
@@ -221,9 +221,9 @@ N [Herbalism] is required to gather 5 [Earthroot] for a level 15 quest later. Yo
 t Train Staves |N|Ilyenia Moonfire - (57.6, 46.7)| |C|Hunter/Warrior/Priest| |Z|Darnassus|
 N If you have a Staff in your bags, equip it |N|(57.6, 46.7)| |C|Hunter| |Z|Darnassus|
 N Buy [Sharp Arrows] |N|(58.8, 44.5)| |C|Hunter| |Z|Darnassus|
-B Ariyell Skyshadow |L|2507 1| |N|Buy and equip a [Laminated Recurve Bow] - (58.8, 44.5)| |C|Hunter| |Z|Darnassus|
-B Ariyell Skyshadow |L|854 1| |N|Buy a [Quarter Staff]. Equip it at level 11 - (58.8, 44.5)| |C|Warrior| |Z|Darnassus|
-B Ariyell Skyshadow |L|851 1| |N|Buy and equip a [Cutlass] if you can't afford a [Quarter Staff] - (58.8, 44.5)| |C|Warrior| |Z|Darnassus|
+B Buy Laminated Recurve Bow (x1) |L|2507 1| |N|Buy and equip a [Laminated Recurve Bow] - (58.8, 44.5)| |C|Hunter| |Z|Darnassus|
+B Buy Quarter Staff (x1) |L|854 1| |N|Buy a [Quarter Staff]. Equip it at level 11 - (58.8, 44.5)| |C|Warrior| |Z|Darnassus|
+B Buy Cutlass (x1) |L|851 1| |N|Buy and equip a [Cutlass] if you can't afford a [Quarter Staff] - (58.8, 44.5)| |C|Warrior| |Z|Darnassus|
 R Travel through the purple portal to Rut'theran Village |N|(30.0, 41.4)| |O| |Z|Darnassus|
 T Nessa Shadowsong |QID|6344| |N|Nessa Shadowsong - (56.2, 92.4)| |Z|Teldrassil|
 A The Bounty of Teldrassil |QID|6341| |N|Nessa Shadowsong - (56.2, 92.4)| |Z|Teldrassil|

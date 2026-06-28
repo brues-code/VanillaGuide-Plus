@@ -40,10 +40,10 @@ N These are scattered on the ground throughout all of The Hinterlands |O| |Z|The
 C Favored of Elune? |QID|3661| |OIDX|1| |N|Loot the Wildkin Feathers on the ground| |O| |Z|The Hinterlands|
 T Rhapsody's Kalimdor Kocktail |QID|1452| |N|Rhapsody Shindigger - (26.9, 48.6)| |Z|The Hinterlands|
 A Rhapsody's Tale |QID|1469| |N|Rhapsody Shindigger - (26.9, 48.6)| |Z|The Hinterlands|
-C Witherbark Trolls. Loot them for their Tribal Necklaces |QID|2880| |L|9259 5| |N|Kill Witherbark Trolls. Loot them for their Tribal Necklaces| |O| |Z|The Hinterlands|
+C Collect Troll Tribal Necklace (x5) |QID|2880| |L|9259 5| |N|Kill Witherbark Trolls. Loot them for their Tribal Necklaces| |O| |Z|The Hinterlands|
 C Witherbark Cages |QID|2988| |OIDX|3| |N|the Third Witherbark Cage (32.0, 57.3)| |Z|The Hinterlands|
 C Witherbark Cages |QID|2988| |OIDX|1| |N|Click the First Witherbark Cage and Second Witherbark Cage (23.3, 58.8)| |Z|The Hinterlands|
-C Witherbark Trolls. Loot them for their Tribal Necklaces |QID|2880| |L|9259 5| |N|Witherbark Trolls. Loot them for their Tribal Necklaces - (32.2, 58.2)| |Z|The Hinterlands|
+C Collect Troll Tribal Necklace (x5) |QID|2880| |L|9259 5| |N|Witherbark Trolls. Loot them for their Tribal Necklaces (32.2, 58.2)| |Z|The Hinterlands|
 A Troll Necklace Bounty |QID|2880| |N|Fraggar Thundermantle - (14.8, 44.6)| |Z|The Hinterlands|
 T Troll Necklace Bounty |QID|2880| |N|Fraggar Thundermantle - (14.8, 44.6)| |Z|The Hinterlands|
 A Skulk Rock Clean-up |QID|2877| |N|Fraggar Thundermantle - (14.8, 44.6)| |Z|The Hinterlands|

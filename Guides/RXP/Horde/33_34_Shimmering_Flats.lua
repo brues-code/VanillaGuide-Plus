@@ -7,7 +7,7 @@ N 33-34 Shimmering Flats |N|Converted from RestedXP guide|
 A Family Tree |QID|5361| |N|Cliffwatcher Longhorn - (45.7, 50.7)| |Z|Thousand Needles|
 B Buy a [Dense Shortbow] from him if it's up |N|Starn - (44.9, 50.7)| |C|Hunter| |Z|Thousand Needles|
 N Buy [Razor Arrows] from him |N|(44.9, 50.7)| |C|Hunter| |Z|Thousand Needles|
-B Starn |L|3030 2600| |N|Starn - (44.9, 50.7)| |C|Hunter| |Z|Thousand Needles|
+B Buy Razor Arrow (x2600) |L|3030 2600| |N|Starn - (44.9, 50.7)| |C|Hunter| |Z|Thousand Needles|
 B Buy [Healing Potions] and [Scrolls] from him if they're up |N|Montarr - (45.1, 50.8)| |C|!Warrior| |Z|Thousand Needles|
 B Buy [Healing Potions], [Scrolls] and [Liferoot] from him if they're up |N|Montarr - (45.1, 50.8)| |C|Warrior| |Z|Thousand Needles|
 R Run up the ramp here |N|(54.7, 44.4)| |O| |C|Shaman| |Z|Thousand Needles|
@@ -32,7 +32,7 @@ C A Bump in the Road |QID|1175| |OIDX|1| |N|Loot Rocket Car Rubble and kill Scor
 C Rocket Car Parts |QID|1110| |OIDX|1| |N|Loot Rocket Car Rubble and kill Scorpids, Vultures, Basilisks and Tortoises on the way (69.7, 86.0)| |Z|Thousand Needles|
 N Be careful! They cry for help when attacked, you could accidently agro multiple nearby mobs |O| |Z|Thousand Needles|
 C The Swarm Grows |QID|1147| |OIDX|3| |N|Kill Silithid Invaders, Silithid Invaders and Silithid Invaders| |O| |Z|Thousand Needles|
-C the Silithid mobs for a [Cracked Silithid Carapace]. Use it to start the quest |QID|1148| |L|5877 1| |N|the Silithid mobs for a [Cracked Silithid Carapace]. Use it to start the quest - (67.5, 82.3)| |Z|Thousand Needles|
+C Collect Cracked Silithid Carapace (x1) |QID|1148| |L|5877 1| |N|the Silithid mobs for a [Cracked Silithid Carapace]. Use it to start the quest (67.5, 82.3)| |Z|Thousand Needles|
 A Parts of the Swarm |QID|1148| |N|the Silithid mobs for a [Cracked Silithid Carapace]. Use it to start the quest - (67.5, 82.3)| |Z|Thousand Needles|
 N Be careful! They cry for help when attacked, you could accidently agro multiple nearby mobs |N|(67.5, 82.3)| |Z|Thousand Needles|
 C The Swarm Grows |QID|1147| |OIDX|3| |N|Silithid Invaders, Silithid Searchers and Silithid Hive Drones. Loot them for their Hearts, Talons and Carapaces (67.5, 82.3)| |Z|Thousand Needles|

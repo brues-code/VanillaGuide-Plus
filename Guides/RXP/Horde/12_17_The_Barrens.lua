@@ -38,6 +38,7 @@ R the top of the mountain |N|(47.6, 19.2)| |O| |R|!Tauren/!Undead| |Z|The Barren
 R Go inside Dreadmist Den |N|(47.6, 19.2)| |O| |R|!Tauren/!Undead| |Z|The Barrens|
 N Make sure you have a [Flawed Power Stone] (30 minute duration) on you |N|(48.0, 19.1)| |R|!Tauren/!Undead| |Z|The Barrens|
 C Collect Flawed Power Stone |QID|924| |L|4986 1| |N|Right click the Altar (48.0, 19.1)| |R|!Tauren/!Undead| |Z|The Barrens|
+C Right click the Altar |QID|924| |OIDX|1| |N|Right click the Altar - (48.0, 19.1)| |R|!Tauren/!Undead| |Z|The Barrens|
 C a Razormane Water Seeker or Razormane Thornweaver. Loot them for a Fire Tar |QID|1525| |OIDX|1| |N|a Razormane Water Seeker or Razormane Thornweaver. Loot them for a Fire Tar - (53.6, 25.5)| |C|Shaman| |Z|The Barrens|
 C Disrupt the Attacks |QID|871| |OIDX|1| |N|Kill Water Seekers, Thornweavers and Hunters Razormane Water Seeker (8)| |O| |Z|The Barrens|
 C Collect Chen's Empty Keg |QID|819| |L|4926 1| |N|Loot Chen's Empty Keg from the ground and start the quest. If it's not up you'll get it later (55.7, 27.3)| |Z|The Barrens|
@@ -170,7 +171,7 @@ N Buy [Melon Juice] from him |N|(62.0, 39.4)| |C|Mage/Warlock/Priest/Shaman/Drui
 N [Longjaw Mud Snappers] are extremely cheap, buy as many as you want |N|(62.0, 39.4)| |Z|The Barrens|
 B Vendor Trash |N|Innkeeper Wiley - (62.0, 39.4)| |Z|The Barrens|
 B Longjaw Mud Snapper (20) |L|4592 20| |N|Innkeeper Wiley - (62.0, 39.4)| |Z|The Barrens|
-B Innkeeper Wiley |L|1205 10| |N|Innkeeper Wiley - (62.0, 39.4)| |C|Mage/Warlock/Priest/Shaman/Druid| |Z|The Barrens|
+B Buy Melon Juice (x10) |L|1205 10| |N|Innkeeper Wiley - (62.0, 39.4)| |C|Mage/Warlock/Priest/Shaman/Druid| |Z|The Barrens|
 C Southsea Freebooters |QID|887| |OIDX|1| |N|Kill Southsea Brigands and Southsea Cannoneers Southsea Brigand (12)| |O| |Z|The Barrens|
 N He patrols up and down the hill |O| |C|Rogue/Troll/Rogue| |R|Orc| |Z|The Barrens|
 C Kill Tazan. Loot him for his Satchel |QID|1963| |OIDX|1| |N|Kill Tazan. Loot him for his Satchel| |O| |C|Rogue/Troll/Rogue| |R|Orc| |Z|The Barrens|
@@ -203,12 +204,12 @@ T The Disruption Ends |QID|872| |N|Thork and Sergra - (51.5, 30.9)| |Z|The Barre
 T The Zhevra |QID|845| |N|Thork and Sergra - (51.5, 30.9)| |Z|The Barrens|
 A Prowlers of the Barrens |QID|903| |N|Thork and Sergra - (51.5, 30.9)| |Z|The Barrens|
 N Buy [Sharp Arrows] from him |N|(51.7, 29.9)| |C|Hunter/Orc/Hunter| |R|Troll| |Z|The Barrens|
-B Barg |L|2515 1200| |N|Barg - (51.7, 29.9)| |C|Hunter| |R|Troll| |Z|The Barrens|
+B Buy Sharp Arrow (x1200) |L|2515 1200| |N|Barg - (51.7, 29.9)| |C|Hunter| |R|Troll| |Z|The Barrens|
 N Buy [Heavy Shots] from him |N|(51.7, 29.9)| |C|Hunter| |R|Tauren| |Z|The Barrens|
-B Barg |L|2519 1000| |N|Barg - (51.7, 29.9)| |C|Hunter| |R|Tauren| |Z|The Barrens|
+B Buy Heavy Shot (x1000) |L|2519 1000| |N|Barg - (51.7, 29.9)| |C|Hunter| |R|Tauren| |Z|The Barrens|
 B Buy a [Fine Longbow] from him if it's available and stock up on arrows |N|Uthrok - (51.1, 29.1)| |C|Hunter/Orc/Hunter| |R|Troll| |Z|The Barrens|
 N If it's not up, buy a [Reinforced Bow] instead |N|(51.1, 29.1)| |C|Hunter/Orc/Hunter| |R|Troll| |Z|The Barrens|
-B Uthrok |L|2515 1200| |N|Uthrok - (51.1, 29.1)| |C|Hunter| |R|Troll| |Z|The Barrens|
+B Buy Sharp Arrow (x1200) |L|2515 1200| |N|Uthrok - (51.1, 29.1)| |C|Hunter| |R|Troll| |Z|The Barrens|
 B Collect Hunter's Boomstick (1) |L|2511 1| |N|Uthrok. Buy a [Hunter's Boomstick] from him - (51.1, 29.1)| |C|Hunter| |R|Tauren| |Z|The Barrens|
 C Chen's Empty Keg |QID|821| |OIDX|2| |N|Kill Plainstriders. Loot them for their Kidneys Plainstrider Kidney (5)| |O| |Z|The Barrens|
 C Raptor Thieves |QID|869| |OIDX|1| |N|Kill every Raptor you see. Loot them for their Heads Raptor Head (12)| |O| |Z|The Barrens|
@@ -286,6 +287,7 @@ B Collect Thieves' Tools (1) |L|5060 1| |N|Rekkul. Buy a [Thieves' Tools] from h
 C The Shattered Hand |QID|1858| |OIDX|1| |N|Use [Pick Lock] to open [Tazan's Satchel] Tazan's Logbook (1)| |C|Rogue/Troll/Rogue| |R|Orc| |Z|Orgrimmar|
 T The Shattered Hand |QID|1858| |N|Therzok - (42.7, 53.5)| |C|Rogue/Troll/Rogue| |R|Orc| |Z|Orgrimmar|
 C Tazan's Key |QID|1858| |L|7208 1| |N|Use [Pick Pocket] on Gamon in the Inn. Use his key to open [Tazan's Satchel] (54.0, 68.0)| |C|Rogue/Troll/Rogue| |R|Orc| |Z|Orgrimmar|
+C The Shattered Hand |QID|1858| |OIDX|1| |N|Use [Pick Pocket] on Gamon in the Inn. Use his key to open [Tazan's Satchel] Tazan's Logbook (1)| |C|Rogue/Troll/Rogue| |R|Orc| |Z|Orgrimmar|
 T The Shattered Hand |QID|1858| |N|Therzok - (42.7, 53.5)| |C|Rogue/Troll/Rogue| |R|Orc| |Z|Orgrimmar|
 t Train your class spells |N|Mirket - (48.6, 47.0)| |C|Warlock| |Z|Orgrimmar|
 B Grimoire of Sacrifice (Rank 1) (1) |L|16351 1| |N|Kurgul and buy [Grimoire of Sacrifice] - (47.5, 46.8)| |C|Warlock| |Z|Orgrimmar|
@@ -322,12 +324,13 @@ A The Angry Scytheclaws |QID|905| |N|Sergra - (52.2, 31.0)| |Z|The Barrens|
 A Consumed by Hatred |QID|899| |N|Mankrik - (52.0, 31.6)| |Z|The Barrens|
 A Lost in Battle |QID|4921| |N|Mankrik - (52.0, 31.6)| |Z|The Barrens|
 N Buy [Sharp Arrows] from him |N|(51.7, 29.9)| |C|Hunter| |Z|The Barrens|
-B Barg |L|2515 1800| |N|Barg - (51.7, 29.9)| |C|Hunter| |Z|The Barrens|
+B Buy Sharp Arrow (x1800) |L|2515 1800| |N|Barg - (51.7, 29.9)| |C|Hunter| |Z|The Barrens|
 F Fly to Ratchet |N|Devrak - (51.5, 30.3)| |O| |Z|The Barrens|
 T Wrenix of Ratchet |QID|2382| |N|Wrenix - (63.1, 36.3)| |C|Rogue| |Z|The Barrens|
 A Plundering the Plunderers |QID|2381| |N|Wrenix - (63.1, 36.3)| |C|Rogue| |Z|The Barrens|
 N Obtain an [E.C.A.C.] and a [Thieves' Tools] |N|(63.1, 36.3)| |C|Rogue| |Z|The Barrens|
 C E.C.A.C. (1) |QID|888| |L|7970 1| |N|Wrenix's Gizmotronic Apparatus (63.1, 36.3)| |C|Rogue| |Z|The Barrens|
+C Thieves' Tools (1) |QID|888| |L|5060 1| |N|Wrenix's Gizmotronic Apparatus (63.1, 36.3)| |C|Rogue| |Z|The Barrens|
 T Samophlange |QID|902| |N|Sputtervalve and Dizzywig - (63.0, 37.2)| |Z|The Barrens|
 T The Escape |QID|863| |N|Sputtervalve and Dizzywig - (63.0, 37.2)| |Z|The Barrens|
 A Wenikee Boltbucket |QID|3921| |N|Sputtervalve and Dizzywig - (63.0, 37.2)| |C|Hunter| |Z|The Barrens|
@@ -346,7 +349,7 @@ N Buy [Melon Juice] from him |N|(62.0, 39.4)| |C|Mage/Warlock/Priest/Shaman/Drui
 N [Longjaw Mud Snappers] are extremely cheap, buy as many as you want |N|(62.0, 39.4)| |Z|The Barrens|
 B Vendor Trash |N|Talk toInnkeeper Wiley - (62.0, 39.4)| |Z|The Barrens|
 B Longjaw Mud Snapper (20) |L|4592 20| |N|Talk toInnkeeper Wiley - (62.0, 39.4)| |Z|The Barrens|
-B Talk toInnkeeper Wiley |L|1205 10| |N|Talk toInnkeeper Wiley - (62.0, 39.4)| |C|Mage/Warlock/Priest/Shaman/Druid| |Z|The Barrens|
+B Buy Melon Juice (x10) |L|1205 10| |N|Talk toInnkeeper Wiley - (62.0, 39.4)| |C|Mage/Warlock/Priest/Shaman/Druid| |Z|The Barrens|
 N Use the [E.C.A.C.] on Polly |N|(65.0, 45.4)| |C|Rogue| |Z|The Barrens|
 C Plundering the Plunderers |QID|2381| |OIDX|1| |N|Once your lockpicking is 70, go to the bottom floor of the ship and open The Jewel of the Southsea Southsea Treasure (1)| |C|Rogue| |Z|The Barrens|
 C Stolen Booty |QID|888| |OIDX|2| |N|the Crate on the ground Telescopic Lens (1)| |Z|The Barrens|
@@ -366,10 +369,13 @@ C Fungal Spores |QID|848| |OIDX|1| |N|Collect Laden Mushrooms around The Stagnan
 C Chen's Empty Keg |QID|821| |OIDX|2| |N|Kill Plainstriders. Loot them for their Kidneys Plainstrider Kidney (5)| |O| |Z|The Barrens|
 N Be careful as they cast [Thrash] (Charges 2 extra attacks every 10 seconds) |N|(52.6, 46.1)| |Z|The Barrens|
 C The Angry Scytheclaws |QID|905| |OIDX|1| |N|the Blue Raptor Nest. Kill more Sunscale Scytheclaws if you don't have a [Sunscale Feather] Visit Blue Raptor Nest (1)| |Z|The Barrens|
+C Collect Sunscale Feather (x3) |QID|905| |L|5165 3| |N|the Blue Raptor Nest. Kill more Sunscale Scytheclaws if you don't have a [Sunscale Feather] (52.6, 46.1)| |Z|The Barrens|
 N Be careful as they cast [Thrash] (Charges 2 extra attacks every 10 seconds) |N|(52.5, 46.6)| |Z|The Barrens|
 C The Angry Scytheclaws |QID|905| |OIDX|3| |N|the Red Raptor Nest. Kill more Sunscale Scytheclaws if you don't have a [Sunscale Feather] Visit Red Raptor Nest (1)| |Z|The Barrens|
+C Collect Sunscale Feather (x3) |QID|905| |L|5165 3| |N|the Red Raptor Nest. Kill more Sunscale Scytheclaws if you don't have a [Sunscale Feather] (52.5, 46.6)| |Z|The Barrens|
 N Be careful as they cast [Thrash] (Charges 2 extra attacks every 10 seconds) |N|(52.0, 46.5)| |Z|The Barrens|
 C The Angry Scytheclaws |QID|905| |OIDX|2| |N|the Yellow Raptor Nest. Kill more Sunscale Scytheclaws if you don't have a [Sunscale Feather] Visit Yellow Raptor Nest (1)| |Z|The Barrens|
+C Collect Sunscale Feather (x3) |QID|905| |L|5165 3| |N|the Yellow Raptor Nest. Kill more Sunscale Scytheclaws if you don't have a [Sunscale Feather] (52.0, 46.5)| |Z|The Barrens|
 N Be careful as they cast [Thrash] (Charges 2 extra attacks every 10 seconds) |O| |Z|The Barrens|
 C Raptor Horns |QID|865| |OIDX|1| |N|Kill Sunscale Scytheclaws. Loot them for their Horns Intact Raptor Horn (5)| |O| |Z|The Barrens|
 C Lost in Battle |QID|4921| |OIDX|1| |N|the Beaten Corpse Find Mankrik's Wife (1)| |Z|The Barrens|
@@ -400,6 +406,7 @@ T The Angry Scytheclaws |QID|905| |N|(52.3, 31.9)| |Z|The Barrens|
 A Jorn Skyseer |QID|3261| |N|(52.3, 31.9)| |Z|The Barrens|
 T Stolen Silver |QID|3281| |N|(52.2, 31.0)| |Z|The Barrens|
 B Medium Quiver (1) |L|11362 1| |N|Uthrok. Buy a [Medium Quiver] from him - (51.1, 29.1)| |C|Hunter| |Z|The Barrens|
+B Sharp Arrow (2200) |L|2515 2200| |N|Uthrok. Buy a [Medium Quiver] from him - (51.1, 29.1)| |C|Hunter| |Z|The Barrens|
 T Verog the Dervish |QID|851| |N|Regthar - (45.4, 28.4)| |Z|The Barrens|
 A Hezrul Bloodmark |QID|852| |N|Regthar - (45.4, 28.4)| |Z|The Barrens|
 T Centaur Bracers |QID|855| |N|Regthar - (45.4, 28.4)| |Z|The Barrens|

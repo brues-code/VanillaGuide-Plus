@@ -41,7 +41,7 @@ N Open the [Pirate's Footlocker] until you find the [Ship Schedule] |O| |Z|Tanar
 N Don't start the quest for the [Ship Schedule] yet. This has a low drop chance, skip it if needed |O| |Z|Tanaris|
 C Southsea Shakedown |QID|8366| |OIDX|1| |N|Kill Southsea Pirates, Southsea Freebooters, Southsea Dock Workers and Southsea Swashbucklers. Loot them for their Pirate Hats and [Pirate's Footlocker]| |O| |Z|Tanaris|
 C Pirate Hats Ahoy! |QID|8365| |OIDX|1| |N|Kill Southsea Pirates, Southsea Freebooters, Southsea Dock Workers and Southsea Swashbucklers. Loot them for their Pirate Hats and [Pirate's Footlocker]| |O| |Z|Tanaris|
-C Southsea Pirates, Southsea Freebooters, Southsea Dock Workers and Southsea Swashbucklers. Loot them for their Pirate Hats and [Pirate's Footlocker] |QID|2876| |L|9250 1| |N|Kill Southsea Pirates, Southsea Freebooters, Southsea Dock Workers and Southsea Swashbucklers. Loot them for their Pirate Hats and [Pirate's Footlocker]| |O| |Z|Tanaris|
+C Collect Ship Schedule (x1) |QID|2876| |L|9250 1| |N|Kill Southsea Pirates, Southsea Freebooters, Southsea Dock Workers and Southsea Swashbucklers. Loot them for their Pirate Hats and [Pirate's Footlocker]| |O| |Z|Tanaris|
 C Stoley's Shipment |QID|2873| |OIDX|1| |N|Loot the Stolen Cargo for Stoley's Shipment on the second floor of the western house| |O| |Z|Tanaris|
 N He pulls with nearby mobs. Split-pull him if you can |N|(73.4, 47.1)| |C|Mage/Warlock| |Z|Tanaris|
 C WANTED: Andre Firebeard |QID|2875| |OIDX|1| |N|Andre Firebeard. Loot him for his Head (73.4, 47.1)| |Z|Tanaris|
@@ -50,7 +50,7 @@ N Open the [Pirate's Footlocker] until you find the [Ship Schedule] |N|(71.1, 42
 N Don't start the quest for the [Ship Schedule] yet. This has a low drop chance, skip it if needed |N|(71.1, 42.9)| |Z|Tanaris|
 C Southsea Shakedown |QID|8366| |OIDX|1| |N|Kill Southsea Pirates, Southsea Freebooters, Southsea Dock Workers and Southsea Swashbucklers. Loot them for their Pirate Hats and [Pirate's Footlocker] (71.1, 42.9)| |Z|Tanaris|
 C Pirate Hats Ahoy! |QID|8365| |OIDX|1| |N|Kill Southsea Pirates, Southsea Freebooters, Southsea Dock Workers and Southsea Swashbucklers. Loot them for their Pirate Hats and [Pirate's Footlocker] (75.2, 45.8)| |Z|Tanaris|
-C Southsea Pirates, Southsea Freebooters, Southsea Dock Workers and Southsea Swashbucklers. Loot them for their Pirate Hats and [Pirate's Footlocker] |QID|2876| |L|9250 1| |N|Kill Southsea Pirates, Southsea Freebooters, Southsea Dock Workers and Southsea Swashbucklers. Loot them for their Pirate Hats and [Pirate's Footlocker] (72.2, 46.8)| |Z|Tanaris|
+C Collect Ship Schedule (x1) |QID|2876| |L|9250 1| |N|Kill Southsea Pirates, Southsea Freebooters, Southsea Dock Workers and Southsea Swashbucklers. Loot them for their Pirate Hats and [Pirate's Footlocker] (72.2, 46.8)| |Z|Tanaris|
 R Southsea Pirates |N|(72.2, 44.4)| |Z|Tanaris|
 T The Sunken Temple |QID|3380| |N|Marvon - (52.7, 45.9)| |O| |Z|Tanaris|
 A Gahz'ridian |QID|3161| |N|Marvon - (52.7, 45.9)| |Z|Tanaris|
@@ -101,7 +101,7 @@ A Deliver to MacKinley |QID|2874| |N|Bilgewhizzle and Stoley - (67.1, 23.9)| |O|
 T Pirate Hats Ahoy! |QID|8365| |N|Haughty - (66.6, 22.3)| |Z|Tanaris|
 A The Prophecy of Mosh'aru |QID|3527| |N|Yeh'kinya again - (67.0, 22.4) (ZF Dungeon Quest)| |D|ZF| |Z|Tanaris|
 N Buy [Jagged Arrows] from him |N|(67.0, 22.0)| |C|Hunter| |Z|Tanaris|
-B Jabbey |L|11285 2600| |N|Jabbey - (67.0, 22.0)| |C|Hunter| |Z|Tanaris|
+B Buy Jagged Arrow (x2600) |L|11285 2600| |N|Jabbey - (67.0, 22.0)| |C|Hunter| |Z|Tanaris|
 H Hearth or Astrall Recall to Gadgetzan |N|Hearth to Hearth or Astrall Recall to Gadgetzan| |C|Shaman| |Z|Tanaris|
 B Sell your junk, then restock on food and water if necessary |N|Dirge Quikcleave - (52.6, 28.1)| |C|!Rogue/!Warrior| |Z|Tanaris|
 B Sell your junk, then restock on food if necessary |N|Dirge Quikcleave - (52.6, 28.1)| |C|Rogue/Warrior| |Z|Tanaris|
@@ -140,7 +140,7 @@ C Scarab Shells |QID|2865| |OIDX|1| |N|Kill Scarabs. Loot them for their Uncrack
 C The Prophecy of Mosh'aru |QID|3527| |OIDX|1| |N|Kill Theka the Martyr. Loot him for the First Mosh'aru Tablet (ZF Dungeon Quest)| |D|ZF| |Z|Tanaris|
 C Scarab Shells |QID|2865| |OIDX|1| |N|Kill Scarabs. Loot them for their Uncracked Scarab Shell (ZF Dungeon Quest)| |D|ZF| |Z|Tanaris|
 N Use the Executioner's Key on one of the Troll Cages to free Sergeant Bly and his band |N|(ZF Dungeon Quest)| |D|ZF| |Z|Tanaris|
-C Ascend the Pyramid |L|8444 1| |N|Anyone in the party may loot the Key (ZF Dungeon Quest)| |D|ZF| |Z|Tanaris|
+C Collect Executioner's Key (x1) |L|8444 1| |N|Anyone in the party may loot the Key (ZF Dungeon Quest)| |D|ZF| |Z|Tanaris|
 N Kill Nekrum Gutchewer. Eat and drink then talk to Sergeant Bly to fight him |N|(ZF Dungeon Quest)| |D|ZF| |Z|Tanaris|
 N Kill Sergeant Bly. Loot him for the Divino-matic Rod |N|(ZF Dungeon Quest)| |D|ZF| |Z|Tanaris|
 C Divino-matic Rod |QID|2768| |OIDX|1| |N|Defend Sergeant Bly and his band, then move down with them after a short period of time (ZF Dungeon Quest)| |D|ZF| |Z|Tanaris|

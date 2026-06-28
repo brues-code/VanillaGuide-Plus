@@ -193,7 +193,7 @@ t Train your class spells |N|Miles - (25.3, 15.2)| |C|Priest| |Z|Thunder Bluff|
 t Train your class spells |N|Shymm - (22.7, 14.5)| |C|Mage| |Z|Thunder Bluff|
 t Train your class spells |N|Tigor - (23.6, 18.7)| |C|Shaman| |Z|Thunder Bluff|
 N Save them for later |C|Rogue| |Z|Thunder Bluff|
-C Anti Venom |L|6452 1| |N|Create [Anti-Venom] if you found any [Small Venom Sacs]| |C|Rogue| |Z|Thunder Bluff|
+C Anti Venom - Anti-Venom (x1) |L|6452 1| |N|Create [Anti-Venom] if you found any [Small Venom Sacs]| |C|Rogue| |Z|Thunder Bluff|
 R the Elder Rise |N|(69.9, 30.9)| |O| |Z|Thunder Bluff|
 T Hamuul Runetotem |QID|1489| |N|Hamuul - (78.6, 28.6)| |Z|Thunder Bluff|
 A Nara Wildmane |QID|1490| |N|Hamuul - (78.6, 28.6)| |Z|Thunder Bluff|
@@ -224,7 +224,7 @@ B Collect Long Staff (1) |L|928 1| |N|Etu. Buy a [Long Staff] from him - (53.2, 
 B Collect Long Staff (1) |L|928 1| |N|Etu. Buy a [Long Staff] from him - (53.2, 58.2)| |C|Shaman| |Z|Thunder Bluff|
 B Collect Heavy Recurve Bow (1) |L|3027 1| |N|Kuna. Buy a [Heavy Recurve Bow] from her - (47.0, 45.7)| |C|Hunter| |Z|Thunder Bluff|
 N Buy [Sharp Arrows] from her |N|(47.0, 45.7)| |C|Hunter| |Z|Thunder Bluff|
-B Kuna |L|2515 1600| |N|Kuna - (47.0, 45.7)| |C|Hunter| |Z|Thunder Bluff|
+B Buy Sharp Arrow (x1600) |L|2515 1600| |N|Kuna - (47.0, 45.7)| |C|Hunter| |Z|Thunder Bluff|
 F Fly to Crossroads |N|Tal - (47.0, 49.8)| |Z|Thunder Bluff|
 R the Lushwater Oasis |N|(45.7, 40.3)| |O| |Z|The Barrens|
 N Hezrul patrols around the lake |N|(45.7, 40.6)| |Z|The Barrens|
@@ -424,6 +424,8 @@ C The Shattered Salute |QID|2460| |OIDX|1| |N|After Shenthul does his salute, ty
 T The Shattered Salute |QID|2460| |N|Shenthul - (43.0, 53.7)| |C|Rogue| |Z|Orgrimmar|
 A Deep Cover |QID|2458| |N|Shenthul - (43.0, 53.7)| |C|Rogue| |Z|Orgrimmar|
 B Collect Dust of Decay (20) |L|2928 20| |N|Rekkul. Buy  [Flash Powder] from him - (42.1, 49.5)| |C|Rogue| |Z|Orgrimmar|
+B Collect Empty Vial (20) |L|3371 20| |N|Rekkul. Buy  [Flash Powder] from him - (42.1, 49.5)| |C|Rogue| |Z|Orgrimmar|
+B Collect Flash Powder (20) |L|5140 20| |N|Rekkul. Buy  [Flash Powder] from him - (42.1, 49.5)| |C|Rogue| |Z|Orgrimmar|
 T Rilli Greasygob |QID|3923| |N|Rilli - (76.5, 24.4)| |Z|Orgrimmar|
 A Samophlange Manual |QID|3924| |N|Rilli - (76.5, 24.4)| |Z|Orgrimmar|
 B Collect Burning Wand (1) |L|5210 1| |N|Katis. Buy a [Burning Wand] from her - (44.2, 48.5)| |C|Priest/Warlock| |Z|Orgrimmar|
@@ -451,6 +453,7 @@ C Samophlange Manual Page (5) |L|11148 5| |N|Kill Venture Co. Enforcers and Vent
 T Mission: Possible But Not Probable |QID|2478| |N|Shenthul - (43.0, 53.7)| |C|Rogue| |Z|Orgrimmar|
 A Hinott's Assistance |QID|2479| |N|Shenthul - (43.0, 53.7)| |C|Rogue| |Z|Orgrimmar|
 B Collect Dust of Decay (20) |L|2928 20| |N|Rekkul. Buy  [Dust of Decay] and [Empty Vials] from him - (42.1, 49.5)| |C|Rogue| |Z|Orgrimmar|
+B Collect Empty Vial (20) |L|3371 20| |N|Rekkul. Buy  [Dust of Decay] and [Empty Vials] from him - (42.1, 49.5)| |C|Rogue| |Z|Orgrimmar|
 t Train your class spells |N|Kardris - (38.8, 36.4)| |C|Shaman| |Z|Orgrimmar|
 T Samophlange Manual |QID|3924| |N|Rilli - (76.5, 24.4)| |Z|Orgrimmar|
 t Train Two-Handed Axes |N|Hanashi - (81.5, 19.6)| |C|Warrior/Undead/Warrior/Tauren/Warrior| |R|Troll| |Z|Orgrimmar|

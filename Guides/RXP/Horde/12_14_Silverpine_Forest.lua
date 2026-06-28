@@ -21,7 +21,7 @@ B Buy [Lesser Healing Potions] from him if they're up |N|Gwyn - (44.0, 39.8)| |C
 B Red-speckled Mushroom (20) |L|4605 20| |N|Gwyn - (44.0, 39.8)| |C|!Mage/!Priest| |Z|Silverpine Forest|
 N Buy [Ice Cold Milk] from him |N|(44.0, 39.9)| |C|Mage/Warlock/Priest/Shaman/Druid| |Z|Silverpine Forest|
 B Buy [Lesser Healing Potions] from him if they're up |N|Edwin - (44.0, 39.9)| |Z|Silverpine Forest|
-B Edwin |L|1179 20| |N|Edwin - (44.0, 39.9)| |C|Mage/Warlock/Priest/Shaman/Druid| |Z|Silverpine Forest|
+B Buy Ice Cold Milk (x20) |L|1179 20| |N|Edwin - (44.0, 39.9)| |C|Mage/Warlock/Priest/Shaman/Druid| |Z|Silverpine Forest|
 A Border Crossings |QID|477| |N|Allister and Podrig - (44.0, 40.9)| |R|Undead| |Z|Silverpine Forest|
 A Supplying the Sepulcher |QID|6321| |N|Allister and Podrig - (44.0, 40.9)| |R|Undead| |Z|Silverpine Forest|
 A Border Crossings |QID|477| |N|Allister - (44.0, 40.9)| |Z|Silverpine Forest|
@@ -69,7 +69,7 @@ B Vendor trash |N|Gwyn - (44.0, 39.8)| |C|!Mage/!Priest| |Z|Silverpine Forest|
 B Red-speckled Mushroom (20) |L|4605 20| |N|Gwyn - (44.0, 39.8)| |C|!Mage/!Priest| |Z|Silverpine Forest|
 N Buy [Ice Cold Milk] from him |N|(44.0, 39.9)| |C|Warlock/Priest/Shaman/Druid| |Z|Silverpine Forest|
 B Buy [Lesser Healing Potions] from him if they're up |N|Edwin - (44.0, 39.9)| |Z|Silverpine Forest|
-B Edwin |L|1179 20| |N|Edwin - (44.0, 39.9)| |C|Warlock/Priest/Shaman/Druid| |Z|Silverpine Forest|
+B Buy Ice Cold Milk (x20) |L|1179 20| |N|Edwin - (44.0, 39.9)| |C|Warlock/Priest/Shaman/Druid| |Z|Silverpine Forest|
 B Buy [Wise Man's Belt] from her if it's up |N|Andrea - (44.8, 39.2)| |C|Warlock/Mage/Priest| |Z|Silverpine Forest|
 B Buy [Agile Boots] from her if it's up |N|Alexandre - (44.6, 39.1)| |C|Rogue| |Z|Silverpine Forest|
 T The Decrepit Ferry |QID|438| |N|the Boat at the side of the docks - (58.4, 34.8)| |Z|Silverpine Forest|

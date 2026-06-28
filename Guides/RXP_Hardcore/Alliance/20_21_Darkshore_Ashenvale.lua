@@ -16,12 +16,12 @@ A The Absent Minded Prospector |QID|729| |N|Archaeologist Hollee - (37.4, 41.8)|
 R Travel to Felwood |N|(20.0, 14.4)| |Z|Felwood|
 A The Blackwood Corrupted |QID|4763| |N|Thundris Windweaver - (20.0, 14.4)| |Z|Felwood|
 R Travel to Darkshore |N|(37.8, 44.1)| |Z|Darkshore|
-C The Blackwood Corrupted |QID|4763| |L|12347 1| |N|Use the [Empty Cleansing Bowl] in the Auberdine Moonwell (37.8, 44.1)| |Z|Darkshore|
+C Collect Filled Cleansing Bowl (x1) |QID|4763| |L|12347 1| |N|Use the [Empty Cleansing Bowl] in the Auberdine Moonwell (37.8, 44.1)| |Z|Darkshore|
 T The Corruption Abroad |QID|3765| |N|Gershala Nightwhisper - (38.3, 43.0)| |Z|Darkshore|
 R Travel to Felwood |N|(21.6, 18.1)| |Z|Felwood|
 A Tharnariun's Hope |QID|2139| |N|Tharnariun Treetender - (21.6, 18.1)| |Z|Felwood|
 N Looting this will spawn 2 Blackwood Furbolgs that will agro and run at you. Be ready to fight them or reset them |N|(50.7, 34.9)| |Z|Darkshore|
-C Blackwood Grain Stores (1) |QID|4763| |L|12342 1| |N|the Blackwood Grain Stores. Loot it for the Blackwood Grain Sample (50.7, 34.9)| |Z|Darkshore|
+C Blackwood Grain Stores (1) - Blackwood Grain Sample (x1) |QID|4763| |L|12342 1| |N|the Blackwood Grain Stores. Loot it for the Blackwood Grain Sample (50.7, 34.9)| |Z|Darkshore|
 N Be careful as the Thistle Cubs can cast [Ravage], a meele instant attack which stuns you for 2 seconds |N|(51.5, 38.3)| |Z|Darkshore|
 C Tharnariun's Hope |QID|2139| |OIDX|1| |N|Den Mother Den Mother (1)| |Z|Darkshore|
 N Looting this will spawn 2 Blackwood Furbolgs that will agro and run at you. Be ready to fight them or reset them |N|(51.8, 33.5)| |Z|Darkshore|

@@ -53,7 +53,7 @@ F Fly to Theramore |N|Baritanas Skyriver - (64.7, 10.5)| |C|!Mage| |Z|Desolace|
 R Travel to Dustwallow Marsh |N|(71.5, 56.3)| |C|!Mage| |Z|Dustwallow Marsh|
 t Train your class spells |N|Dink - (27.2, 8.6)| |C|Mage| |Z|Ironforge|
 B Buy [Rune of Teleportations] if needed |N|Ginny Longberry - (31.3, 27.8)| |C|Mage| |Z|Ironforge|
-B Ginny Longberry |L|17031 10| |N|Ginny Longberry - (31.3, 27.8)| |C|Mage| |Z|Ironforge|
+B Buy Rune of Teleportation (x10) |L|17031 10| |N|Ginny Longberry - (31.3, 27.8)| |C|Mage| |Z|Ironforge|
 F Fly to Ironforge |N|Shellei - (9.5, 59.7)| |C|!Mage| |Z|Wetlands|
 T Mythology of the Titans |QID|1050| |N|Librarian Mae Paledust - (75.0, 12.5) (SM Dungeon Quest)| |D|SM| |Z|Ironforge|
 

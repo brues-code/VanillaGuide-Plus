@@ -44,7 +44,7 @@ N Open the [Pirate's Footlocker] until you find the [Ship Schedule] |O| |Z|Tanar
 N Use the [Ship Schedule] to start the quest |O| |Z|Tanaris|
 C Southsea Shakedown |QID|8366| |OIDX|1| |N|Kill Southsea Pirates, Southsea Freebooters, Southsea Dock Workers and Southsea Swashbucklers. Loot them for their Pirate Hats and [Pirate's Footlocker]| |O| |Z|Tanaris|
 C Pirate Hats Ahoy! |QID|8365| |OIDX|1| |N|Kill Southsea Pirates, Southsea Freebooters, Southsea Dock Workers and Southsea Swashbucklers. Loot them for their Pirate Hats and [Pirate's Footlocker]| |O| |Z|Tanaris|
-C Southsea Pirates, Southsea Freebooters, Southsea Dock Workers and Southsea Swashbucklers. Loot them for their Pirate Hats and [Pirate's Footlocker] |QID|2876| |L|9250 1| |N|Kill Southsea Pirates, Southsea Freebooters, Southsea Dock Workers and Southsea Swashbucklers. Loot them for their Pirate Hats and [Pirate's Footlocker]| |O| |Z|Tanaris|
+C Collect Ship Schedule (x1) |QID|2876| |L|9250 1| |N|Kill Southsea Pirates, Southsea Freebooters, Southsea Dock Workers and Southsea Swashbucklers. Loot them for their Pirate Hats and [Pirate's Footlocker]| |O| |Z|Tanaris|
 A Ship Schedules |QID|2876| |N|Kill Southsea Pirates, Southsea Freebooters, Southsea Dock Workers and Southsea Swashbucklers. Loot them for their Pirate Hats and [Pirate's Footlocker]| |O| |Z|Tanaris|
 C WANTED: Andre Firebeard |QID|2875| |OIDX|1| |N|Andre Firebeard. Loot him for his Head (73.4, 47.1)| |O| |Z|Tanaris|
 R Travel upstairs in the house |N|(72.2, 46.8)| |Z|Tanaris|
@@ -53,18 +53,18 @@ N Open the [Pirate's Footlocker] until you find the [Ship Schedule] |O| |Z|Tanar
 N Use the [Ship Schedule] to start the quest |O| |Z|Tanaris|
 C Southsea Shakedown |QID|8366| |OIDX|1| |N|Kill Southsea Pirates, Southsea Freebooters, Southsea Dock Workers and Southsea Swashbucklers. Loot them for their Pirate Hats and [Pirate's Footlocker]| |O| |Z|Tanaris|
 C Pirate Hats Ahoy! |QID|8365| |OIDX|1| |N|Kill Southsea Pirates, Southsea Freebooters, Southsea Dock Workers and Southsea Swashbucklers. Loot them for their Pirate Hats and [Pirate's Footlocker]| |O| |Z|Tanaris|
-C Southsea Pirates, Southsea Freebooters, Southsea Dock Workers and Southsea Swashbucklers. Loot them for their Pirate Hats and [Pirate's Footlocker] |QID|2876| |L|9250 1| |N|Kill Southsea Pirates, Southsea Freebooters, Southsea Dock Workers and Southsea Swashbucklers. Loot them for their Pirate Hats and [Pirate's Footlocker]| |O| |Z|Tanaris|
+C Collect Ship Schedule (x1) |QID|2876| |L|9250 1| |N|Kill Southsea Pirates, Southsea Freebooters, Southsea Dock Workers and Southsea Swashbucklers. Loot them for their Pirate Hats and [Pirate's Footlocker]| |O| |Z|Tanaris|
 A Ship Schedules |QID|2876| |N|Kill Southsea Pirates, Southsea Freebooters, Southsea Dock Workers and Southsea Swashbucklers. Loot them for their Pirate Hats and [Pirate's Footlocker]| |O| |Z|Tanaris|
 C WANTED: Andre Firebeard |QID|2875| |OIDX|1| |N|Andre Firebeard. Loot him for his Head (73.4, 47.1)| |Z|Tanaris|
 N Open the [Pirate's Footlocker] until you find the [Ship Schedule] |N|(71.1, 42.9)| |Z|Tanaris|
 N Use the [Ship Schedule] to start the quest |N|(71.1, 42.9)| |Z|Tanaris|
 C Southsea Shakedown |QID|8366| |OIDX|1| |N|Kill Southsea Pirates, Southsea Freebooters, Southsea Dock Workers and Southsea Swashbucklers. Loot them for their Pirate Hats and [Pirate's Footlocker] (71.1, 42.9)| |Z|Tanaris|
 C Pirate Hats Ahoy! |QID|8365| |OIDX|1| |N|Kill Southsea Pirates, Southsea Freebooters, Southsea Dock Workers and Southsea Swashbucklers. Loot them for their Pirate Hats and [Pirate's Footlocker] (75.2, 45.8)| |Z|Tanaris|
-C Southsea Pirates, Southsea Freebooters, Southsea Dock Workers and Southsea Swashbucklers. Loot them for their Pirate Hats and [Pirate's Footlocker] |QID|2876| |L|9250 1| |N|Kill Southsea Pirates, Southsea Freebooters, Southsea Dock Workers and Southsea Swashbucklers. Loot them for their Pirate Hats and [Pirate's Footlocker] (72.2, 46.8)| |Z|Tanaris|
+C Collect Ship Schedule (x1) |QID|2876| |L|9250 1| |N|Kill Southsea Pirates, Southsea Freebooters, Southsea Dock Workers and Southsea Swashbucklers. Loot them for their Pirate Hats and [Pirate's Footlocker] (72.2, 46.8)| |Z|Tanaris|
 A Ship Schedules |QID|2876| |N|(72.2, 46.8)| |Z|Tanaris|
 N Do not Accept the quest for this yet |N|(72.2, 46.8)| |Z|Tanaris|
 N If you don't find it by the time you are 48, skip it |N|(72.2, 46.8)| |Z|Tanaris|
-C any type of Southsea Pirate. Loot them for the [OOX-17/TN Distress Beacon] |QID|351| |L|8623 1| |N|Kill any type of Southsea Pirate. Loot them for the [OOX-17/TN Distress Beacon] (72.2, 46.8)| |Z|Tanaris|
+C Collect OOX-17/TN Distress Beacon (x1) |QID|351| |L|8623 1| |N|Kill any type of Southsea Pirate. Loot them for the [OOX-17/TN Distress Beacon] (72.2, 46.8)| |Z|Tanaris|
 T Southsea Shakedown |QID|8366| |N|Security Chief Bilgewhizzle and Stoley - (67.1, 23.9)| |Z|Tanaris|
 T WANTED: Andre Firebeard |QID|2875| |N|Security Chief Bilgewhizzle and Stoley - (67.1, 23.9)| |Z|Tanaris|
 T Ship Schedules |QID|2876| |N|Security Chief Bilgewhizzle and Stoley - (67.1, 23.9)| |Z|Tanaris|

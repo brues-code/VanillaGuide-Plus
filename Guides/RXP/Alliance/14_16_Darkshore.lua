@@ -225,6 +225,7 @@ R Go upstairs |N|(39.2, 43.2)| |O| |Z|Darkshore|
 A The Tower of Althalaxx |QID|965| |N|Sentinel Elissa Starbreeze upstairs - (39.0, 43.6)| |Z|Darkshore|
 B Buy [Mild Spices] from him until you have [Mild Spices] equal or more than the amount of [Small Eggs] that you currently have |N|Gorbold Steelhand - (38.1, 41.2)| |O| |C|!Hunter| |Z|Darkshore|
 B x20,cooking --Mild Spices (1-50) |L|2678 50| |N|Gorbold Steelhand - (38.1, 41.2)| |O| |C|!Hunter| |Z|Darkshore|
+B x20,cooking --Small Egg (1-50) |L|6889 50| |N|Gorbold Steelhand - (38.1, 41.2)| |O| |C|!Hunter| |Z|Darkshore|
 A Deep Ocean, Vast Sea |QID|982| |N|Gorbold Steelhand - (38.1, 41.2)| |Z|Darkshore|
 T Deep Ocean, Vast Sea |QID|982| |N|Gorbold Steelhand - (38.1, 41.2)| |O| |Z|Darkshore|
 R Travel toward the Campfire on the ground |N|(37.5, 41.7)| |Z|Darkshore|

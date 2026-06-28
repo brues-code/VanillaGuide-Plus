@@ -37,7 +37,12 @@ N [Frost Oil] |N|(23.8, 71.8)| |O| |AH| |Z|Ironforge|
 N [Gyrochronatom] (Don't buy this unless you have a [Frost Oil]) |N|(23.8, 71.8)| |O| |AH| |Z|Ironforge|
 N [Patterned Bronze Bracers] (Don't buy this unless you have a [Gyrochronatom] and [Frost Oil]) |N|(23.8, 71.8)| |O| |AH| |Z|Ironforge|
 N [Healing Potion] and [Lesser Invisibility Potion] (Don't buy this unless you have a [Gyrochronatom] and [Frost Oil]) |N|(23.8, 71.8)| |O| |AH| |Z|Ironforge|
-B an Ironforge Auctioneer |L|4611 9| |N|an Ironforge Auctioneer - (23.8, 71.8)| |O| |AH| |Z|Ironforge|
+B Buy Blue Pearl (x9) |L|4611 9| |N|an Ironforge Auctioneer - (23.8, 71.8)| |O| |AH| |Z|Ironforge|
+B Buy Frost Oil (x1) |L|3829 1| |N|an Ironforge Auctioneer - (23.8, 71.8)| |O| |AH| |Z|Ironforge|
+B Buy Gyrochronatom (x1) |L|4389 1| |N|an Ironforge Auctioneer - (23.8, 71.8)| |O| |AH| |Z|Ironforge|
+B Buy Patterned Bronze Bracers (x1) |L|2868 1| |N|an Ironforge Auctioneer - (23.8, 71.8)| |O| |AH| |Z|Ironforge|
+B Buy Healing Potion (x1) |L|929 1| |N|an Ironforge Auctioneer - (23.8, 71.8)| |O| |AH| |Z|Ironforge|
+B Buy Lesser Invisibility Potion (x1) |L|3823 1| |N|an Ironforge Auctioneer - (23.8, 71.8)| |O| |AH| |Z|Ironforge|
 N If you have used the website unstuck to travel to Ironforge from Wetlands you will not have the Thelsamar flight path. In that case run through Dun Morogh to Loch Modan instead |N|(55.5, 47.7)| |Z|Ironforge|
 F Fly to Loch Modan |N|Gryth Thurden - (55.5, 47.7)| |Z|Ironforge|
 R Innkeeper Hearthstove |N|(35.5, 48.4)| |Z|Loch Modan|
@@ -49,7 +54,7 @@ A Find Agmond |QID|738| |N|Prospector Ironband - (65.9, 65.6)| |Z|Loch Modan|
 R Travel to Badlands |N|(49.2, 7.8)| |O| |Z|Badlands|
 N Kill Coyotes. Loot them for their Fangs |O| |Z|Badlands|
 C Badlands Reagent Run |QID|2500| |OIDX|1| |N|Kill Buzzards. Loot them for their Gizzards and Wings| |O| |Z|Badlands|
-C Buzzards. Loot them for their Gizzards and Wings |QID|703| |L|3404 4| |N|Kill Buzzards. Loot them for their Gizzards and Wings| |O| |Z|Badlands|
+C Collect Buzzard Wing (x4) |QID|703| |L|3404 4| |N|Kill Buzzards. Loot them for their Gizzards and Wings| |O| |Z|Badlands|
 A A Dwarf and His Tools |QID|719| |N|Prospector Ryedol and Sigrun Ironhew - (53.4, 43.4)| |Z|Badlands|
 A Mirages |QID|718| |N|Prospector Ryedol and Sigrun Ironhew - (53.4, 43.4)| |Z|Badlands|
 C A Dwarf and His Tools |QID|719| |OIDX|1| |N|Shadowforge Dwarves. Loot them for Ryedol's Lucky Pick (43.5, 30.5)| |O| |Z|Badlands|

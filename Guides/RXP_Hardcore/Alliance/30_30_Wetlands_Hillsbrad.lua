@@ -79,7 +79,7 @@ T The Thandol Span |QID|632| |N|Rhag Garmason - (49.9, 18.2)| |Z|Wetlands|
 A The Thandol Span |QID|633| |N|Rhag Garmason - (49.9, 18.2)| |Z|Wetlands|
 N Open the Waterlogged Letter. Loot it for the [Waterlogged Envelope] |N|(44.3, 92.9)| |Z|Arathi Highlands|
 N Use the [Waterlogged Envelope] to start the quest |N|(44.3, 92.9)| |Z|Arathi Highlands|
-C Dive down underwater |QID|637| |L|4433 1| |N|Dive down underwater - (44.3, 92.9)| |Z|Arathi Highlands|
+C Collect Waterlogged Envelope (x1) |QID|637| |L|4433 1| |N|Dive down underwater (44.3, 92.9)| |Z|Arathi Highlands|
 A Sully Balloo's Letter |QID|637| |N|Dive down underwater - (44.3, 92.9)| |Z|Arathi Highlands|
 R Swim east toward the ramp here |N|(52.5, 90.4)| |O| |Z|Arathi Highlands|
 C The Thandol Span |QID|633| |OIDX|1| |N|the Cache of Explosives (48.8, 88.1)| |Z|Arathi Highlands|

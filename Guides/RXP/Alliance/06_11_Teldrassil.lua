@@ -261,12 +261,12 @@ T Sathrah's Sacrifice |QID|2520| |N|Priestess A'moora - (36.6, 85.9)| |Z|Darnass
 t Train [Herbalism] |N|Firodren Mooncaller - (48.0, 68.0)| |C|Druid| |Z|Darnassus|
 N [Herbalism] is required to gather 5 [Earthroot] for an important class quest soon. You can unlearn it afterwards |N|(48.0, 68.0)| |C|Druid| |Z|Darnassus|
 N You will need it to feed your owl, they only eat meat and there's no meat vendor in Darkshore |N|(64.2, 63.0)| |C|Hunter| |Z|Darnassus|
-B Look for Jaeana, she patrols around the Tradesmen's Terrace |L|117 15| |N|Buy a stack of [Tough Jerky] from her. - (64.2, 63.0)| |C|Hunter| |Z|Darnassus|
+B Buy Tough Jerky (x15) |L|117 15| |N|Buy a stack of [Tough Jerky] from her. - (64.2, 63.0)| |C|Hunter| |Z|Darnassus|
 B Buy [Sharp Arrows] |N|Ariyell Skyshadow - (58.8, 44.5)| |C|Hunter| |Z|Darnassus|
 N Buy a [Gnarled Staff]. Equip it at level 15 |N|(58.8, 44.5)| |C|Warrior| |Z|Darnassus|
-B Ariyell Skyshadow |L|2030 1| |N|Ariyell Skyshadow - (58.8, 44.5)| |C|Warrior| |Z|Darnassus|
+B Buy Gnarled Staff (x1) |L|2030 1| |N|Ariyell Skyshadow - (58.8, 44.5)| |C|Warrior| |Z|Darnassus|
 N Buy and equip a [Cutlass] if you can't afford a [Quarter Staff] |N|(58.8, 44.5)| |C|Warrior| |Z|Darnassus|
-B Ariyell Skyshadow |L|851 1| |N|Ariyell Skyshadow - (58.8, 44.5)| |C|Warrior| |Z|Darnassus|
+B Buy Cutlass (x1) |L|851 1| |N|Ariyell Skyshadow - (58.8, 44.5)| |C|Warrior| |Z|Darnassus|
 N Buy a [Balanced Throwing Dagger] |N|(62.7, 65.6)| |C|Rogue| |Z|Darnassus|
 B Balanced Throwing Dagger |L|2946 1| |N|Rellian Greenspyre on the second floor - (62.7, 65.6)| |C|Rogue| |Z|Darnassus|
 T Nessa Shadowsong |QID|6344| |N|Nessa Shadowsong - (56.2, 92.4)| |Z|Teldrassil|

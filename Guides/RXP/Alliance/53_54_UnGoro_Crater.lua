@@ -28,7 +28,10 @@ A Lost! |QID|4492| |N|Spraggle Frock - (43.6, 8.5)| |Z|Un'Goro Crater|
 N If your quest log is full, abandon Moontouched Wildkin if you have not finished the quest. If you have finished it, abandon Cleansed Water Returns to Felwood and you will pick it up again shortly |N|(44.2, 11.6)| |Z|Un'Goro Crater|
 A Shizzle's Flyer |QID|4503| |N|Shizzle - (44.2, 11.6)| |Z|Un'Goro Crater|
 N Complete this now if you havn't done so already. They are scattered on the ground throughout Un'Goro |N|(45.5, 24.5)| |Z|Un'Goro Crater|
-C Power Crystals on the ground |QID|4284| |L|11186 7| |N|Power Crystals on the ground - (45.5, 24.5)| |Z|Un'Goro Crater|
+C Collect Red Power Crystal (x7) |QID|4284| |L|11186 7| |N|Power Crystals on the ground (45.5, 24.5)| |Z|Un'Goro Crater|
+C Collect Green Power Crystal (x7) |QID|4284| |L|11185 7| |N|Power Crystals on the ground (45.5, 24.5)| |Z|Un'Goro Crater|
+C Collect Blue Power Crystal (x7) |QID|4284| |L|11184 7| |N|Power Crystals on the ground (45.5, 24.5)| |Z|Un'Goro Crater|
+C Collect Yellow Power Crystal (x7) |QID|4284| |L|11188 7| |N|Power Crystals on the ground (45.5, 24.5)| |Z|Un'Goro Crater|
 A Crystals of Power |QID|4284| |N|J.D. Collie - (41.9, 2.7)| |Z|Un'Goro Crater|
 T Crystals of Power |QID|4284| |N|J.D. Collie - (41.9, 2.7)| |Z|Un'Goro Crater|
 A The Northern Pylon |QID|4285| |N|J.D. Collie - (41.9, 2.7)| |Z|Un'Goro Crater|
@@ -46,7 +49,8 @@ N Use the [Empty Pure Sample Jars] on their corpses |O| |Z|Un'Goro Crater|
 C Kill Muculent Oozes and Glutinous Oozes |QID|4513| |OIDX|1| |N|Kill Muculent Oozes and Glutinous Oozes| |O| |Z|Un'Goro Crater|
 C Expedition Salvation |QID|3881| |OIDX|1| |N|the Crate of Foodstuffs on the ground (68.5, 36.5)| |Z|Un'Goro Crater|
 C The Eastern Pylon |QID|4287| |OIDX|1| |N|the Eastern Crystal Pylon (77.2, 50.0)| |Z|Un'Goro Crater|
-C The Bait for Lar'korwi |QID|4292| |L|11569 1| |N|Open [Torwa's Pouch] for the [Preserved Threshadon Meat] and [Preserved Pheromone Mixture]| |Z|Un'Goro Crater|
+C Collect Preserved Threshadon Meat (x1) |QID|4292| |L|11569 1| |N|Open [Torwa's Pouch] for the [Preserved Threshadon Meat] and [Preserved Pheromone Mixture]| |Z|Un'Goro Crater|
+C Collect Preserved Pheromone Mixture (x1) |QID|4292| |L|11570 1| |N|Open [Torwa's Pouch] for the [Preserved Threshadon Meat] and [Preserved Pheromone Mixture]| |Z|Un'Goro Crater|
 N Kill Lar'korwi. Loot him for his Head |N|(79.9, 49.9)| |Z|Un'Goro Crater|
 C The Bait for Lar'korwi |QID|4292| |OIDX|1| |N|Use the [Preserved Threshadon Meat] on the stone-slab, then use the [Preserved Pheromone Mixture] on it to summon Lar'korwi (79.9, 49.9)| |Z|Un'Goro Crater|
 T The Apes of Un'Goro |QID|4289| |N|Torwa Pathfinder - (71.6, 76.0)| |Z|Un'Goro Crater|
@@ -102,7 +106,7 @@ T Roll the Bones |QID|3882| |N|Spark Nilminer - (43.5, 7.4)| |Z|Un'Goro Crater|
 T Alien Ecology |QID|3883| |N|Williden Marshal and Hol'anyee Marshal - (43.9, 7.2)| |Z|Un'Goro Crater|
 T Expedition Salvation |QID|3881| |N|Williden Marshal and Hol'anyee Marshal - (43.9, 7.2)| |Z|Un'Goro Crater|
 N Use [A Mangled Journal] to start the quest |N|(43.9, 7.1)| |Z|Un'Goro Crater|
-C Williden Marshal |QID|3884| |L|11116 1| |N|Williden Marshal - (43.9, 7.1)| |Z|Un'Goro Crater|
+C Collect A Mangled Journal (x1) |QID|3884| |L|11116 1| |N|Williden Marshal (43.9, 7.1)| |Z|Un'Goro Crater|
 A Williden's Journal |QID|3884| |N|Williden Marshal - (43.9, 7.1)| |Z|Un'Goro Crater|
 T Williden's Journal |QID|3884| |N|Williden Marshal - (43.9, 7.1)| |Z|Un'Goro Crater|
 T The Northern Pylon |QID|4285| |N|J.D. Collie - (41.9, 2.7)| |Z|Un'Goro Crater|
@@ -122,8 +126,8 @@ A Chasing A-Me 01 |QID|4245| |N|A-Me 01 - (67.7, 16.8)| |Z|Un'Goro Crater|
 C Chasing A-Me 01 |QID|4245| |OIDX|1| |N|Escort A-Me 01 to Karna Remtravel at Marshal's Refuge (46.4, 13.4)| |Z|Un'Goro Crater|
 T Chasing A-Me 01 |QID|4245| |Z|Un'Goro Crater|
 C Bloodpetal Poison |QID|9052| |OIDX|2| |N|(ST Dungeon Quest)| |C|Druid| |D|ST| |Z|Un'Goro Crater|
-C Un'Goro Soil on the ground |QID|4496| |L|11018 5| |N|Un'Goro Soil on the ground - (45.5, 24.5)| |Z|Un'Goro Crater|
-C Un'Goro Soil on the ground |QID|4496| |L|11018 25| |N|Un'Goro Soil on the ground - (45.5, 24.5)| |Z|Un'Goro Crater|
+C Collect Un'Goro Soil (x5) |QID|4496| |L|11018 5| |N|Un'Goro Soil on the ground (45.5, 24.5)| |Z|Un'Goro Crater|
+C Collect Un'Goro Soil (x25) |QID|4496| |L|11018 25| |N|Un'Goro Soil on the ground (45.5, 24.5)| |Z|Un'Goro Crater|
 C Bloodpetal Poison |QID|9052| |OIDX|2| |N|the Bloodpetal Sprouts on the ground. Loot them for Bloodcaps (45.5, 24.5) (ST Dungeon Quest)| |C|Druid| |D|ST| |Z|Un'Goro Crater|
 T The Mighty U'cha |QID|4301| |N|Torwa Pathfinder - (71.6, 76.0)| |Z|Un'Goro Crater|
 T Bloodpetal Poison |QID|9052| |N|Torwa Pathfinder - (71.6, 76.0) (ST Dungeon Quest)| |C|Druid| |D|ST| |Z|Un'Goro Crater|

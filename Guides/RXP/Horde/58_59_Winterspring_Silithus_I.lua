@@ -12,16 +12,17 @@ R Azzleby |N|(60.4, 37.9)| |O| |C|Hunter| |Z|Winterspring|
 t Attack mobs with it to learn [Claw (Rank 8)] |N|Cast [Tame Beast] on a Winterspring Screecher to tame it - (59.6, 18.0)| |C|Hunter| |Z|Winterspring|
 N Click here for more info about pet training |N|(59.6, 18.0)| |C|Hunter| |Z|Winterspring|
 R Ulbrek Firehand |N|(60.4, 37.9)| |C|Hunter| |Z|Winterspring|
-C Frostsabers. Loot them for [Sacred Frostsaber Meat] |QID|5056| |L|12733 1| |N|[Group] Frostsabers. Loot them for [Sacred Frostsaber Meat] - (51.6, 11.3)| |O| |P|GROUP| |Z|Winterspring|
+C Collect Sacred Frostsaber Meat (x1) |QID|5056| |L|12733 1| |N|[Group] Frostsabers. Loot them for [Sacred Frostsaber Meat] (51.6, 11.3)| |O| |P|GROUP| |Z|Winterspring|
 N Kill Shy-Rotam (60 elite) as she appears |N|[Group] (49.7, 9.8)| |P|GROUP| |Z|Winterspring|
 N Be careful! She casts [Terrifying Roar] (5 second AoE fear) |N|[Group] (49.7, 9.8)| |P|GROUP| |Z|Winterspring|
 N At 50% health she will call Sian-Rotam (60 elite) for help |N|[Group] (49.7, 9.8)| |P|GROUP| |Z|Winterspring|
 C Shy-Rotam |QID|5056| |OIDX|1| |N|[Group] Place the [Sacred Frostsaber Meat] at the stone (49.7, 9.8)| |P|GROUP| |Z|Winterspring|
 C Wild Guardians |QID|4721| |OIDX|1| |N|Berserk Owlbeasts. Loot them for a [Blue-feathered Necklace]. Use it to accept the quest (64.0, 20.8)| |Z|Winterspring|
+C Collect Blue-feathered Necklace (x1) |QID|4721| |L|12558 1| |N|Berserk Owlbeasts. Loot them for a [Blue-feathered Necklace]. Use it to accept the quest (64.0, 20.8)| |Z|Winterspring|
 A Guarding Secrets |QID|4882| |N|Berserk Owlbeasts. Loot them for a [Blue-feathered Necklace]. Use it to accept the quest - (64.0, 20.8)| |Z|Winterspring|
 N Kill the Winterfall Shaman first and reset afterwards for safety. Use your offensive cooldowns and CC if you can; his frost shock hits hard |N|(69.6, 38.3)| |Z|Winterspring|
 C High Chief Winterfall |QID|5121| |OIDX|1| |N|High Chief Winterfall. Loot him for his [Crudely-written Log]. Use it to accept the quest (69.6, 38.3)| |Z|Winterspring|
-C High Chief Winterfall. Loot him for his [Crudely-written Log]. Use it to accept the quest |QID|5123| |L|12842 1| |N|High Chief Winterfall. Loot him for his [Crudely-written Log]. Use it to accept the quest - (69.6, 38.3)| |Z|Winterspring|
+C Collect Crudely-written Log (x1) |QID|5123| |L|12842 1| |N|High Chief Winterfall. Loot him for his [Crudely-written Log]. Use it to accept the quest (69.6, 38.3)| |Z|Winterspring|
 A The Final Piece |QID|5123| |N|High Chief Winterfall. Loot him for his [Crudely-written Log]. Use it to accept the quest - (69.6, 38.3)| |Z|Winterspring|
 C Are We There, Yeti? |QID|977| |OIDX|1| |N|Ice Thistle Patriarchs and Ice Thistle Matriarchs. Loot them for their Pristine Yeti Horns (68.4, 41.5)| |Z|Winterspring|
 C Chillwind Horns |QID|4809| |OIDX|1| |N|all Chillwind Chimaeras north of Everlook. Loot them for their Horns (61.2, 41.6)| |Z|Winterspring|
@@ -68,7 +69,10 @@ F Fly to Thunder Bluff |N|Yugrek - (60.5, 36.3)| |O| |C|!Mage| |Z|Winterspring|
 F Fly to Thunder Bluff |N|Vhulgra - (73.2, 61.6)| |O| |C|!Mage| |Z|Ashenvale|
 N Cast [Teleport: Thunder Bluff] |C|Mage| |Z|Ashenvale|
 t Train your class spells |N|Thurston - (25.2, 20.9)| |C|Mage| |Z|Thunder Bluff|
-C If you bought enough cloth earlier, go to the mailbox and retrieve the following |L|2592 60| |O| |AH| |Z|Thunder Bluff|
+C Collect Wool Cloth (x60) |L|2592 60| |O| |AH| |Z|Thunder Bluff|
+C Collect Silk Cloth (x60) |L|4306 60| |N|Collect Wool Cloth (x60)| |O| |AH| |Z|Thunder Bluff|
+C Collect Mageweave Cloth (x60) |L|4338 60| |N|Collect Wool Cloth (x60)| |O| |AH| |Z|Thunder Bluff|
+C Collect Runecloth (x60) |L|14047 60| |N|Collect Wool Cloth (x60)| |O| |AH| |Z|Thunder Bluff|
 N Disable any other addons that automatically turn in reputation items, or you'll be told to buy cloth again later |N|(43.3, 42.8)| |Z|Thunder Bluff|
 N Skip any of the donations which you do not have enough cloth for |N|(43.3, 42.8)| |Z|Thunder Bluff|
 T A Donation of Wool |QID|7820| |N|Rumstag - (43.3, 42.8)| |Z|Thunder Bluff|
@@ -86,7 +90,9 @@ F Fly to Tanaris |N|Tal - (47.0, 49.8)| |O| |Z|Thunder Bluff|
 A Super Sticky |QID|4504| |N|Tran'rek - (51.6, 26.8)| |Z|Tanaris|
 C Are We There, Yeti? |QID|5163| |OIDX|2| |N|Use the [Mechanical Yeti] on Sprinkle (51.1, 26.9)| |Z|Tanaris|
 A Pawn Captures Queen |QID|4507| |N|Pestlezugg - (50.9, 27.0)| |Z|Tanaris|
-C [Eridan's Supplies] for the [Book of Aquor], Silvery Claws and Irontree Heart |QID|4005| |L|11169 1| |N|Open [Eridan's Supplies] for the [Book of Aquor], Silvery Claws and Irontree Heart| |O| |Z|Tanaris|
+C Collect Book of Aquor (x1) |QID|4005| |L|11169 1| |N|Open [Eridan's Supplies] for the [Book of Aquor], Silvery Claws and Irontree Heart| |O| |Z|Tanaris|
+C Collect Silvery Claws (x11) |QID|4005| |L|11172 11| |N|Open [Eridan's Supplies] for the [Book of Aquor], Silvery Claws and Irontree Heart| |O| |Z|Tanaris|
+C Collect Irontree Heart (x1) |QID|4005| |L|11173 1| |N|Open [Eridan's Supplies] for the [Book of Aquor], Silvery Claws and Irontree Heart| |O| |Z|Tanaris|
 N Use the [Book of Aquor] to summon Aquementas at the stone summoning circle within Lost Rigger Cove |N|(70.4, 49.9)| |O| |Z|Tanaris|
 C Aquementas |QID|4005| |OIDX|1| |N|Kill Aquementas (70.4, 49.9)| |Z|Tanaris|
 F Fly to Un'Goro Crater |N|Bulkrek - (51.6, 25.5)| |Z|Tanaris|
@@ -122,7 +128,7 @@ A Dearest Natalia |QID|8304| |N|Mar'alith - (49.2, 34.2)| |Z|Silithus|
 A Secret Communication |QID|8318| |N|Bor - (48.6, 37.8)| |Z|Silithus|
 C Securing the Supply Lines |QID|8280| |OIDX|1| |N|Kill Dredge Strikers| |O| |Z|Silithus|
 C Deadly Desert Venom |QID|8277| |OIDX|1| |N|Kill Stonelash Scorpids and Sand Skitterers. Loot them for their Stingers and Fangs| |O| |Z|Silithus|
-C Brann Bronzebeard's Lost Letter |QID|8308| |L|20461 1| |N|Keep an eye out for [Brann Bronzebeard's Lost Letter] dropped by Hive'Ashi Drones. If it drops, use it to start the quest| |O| |Z|Silithus|
+C Collect Brann Bronzebeard's Lost Letter (x1) |QID|8308| |L|20461 1| |N|Keep an eye out for [Brann Bronzebeard's Lost Letter] dropped by Hive'Ashi Drones. If it drops, use it to start the quest| |O| |Z|Silithus|
 A Brann Bronzebeard's Lost Letter |QID|8308| |N|Keep an eye out for [Brann Bronzebeard's Lost Letter] dropped by Hive'Ashi Drones. If it drops, use it to start the quest| |O| |Z|Silithus|
 N They have a high chance to spawn a Hive'Ashi Drone after dying |O| |Z|Silithus|
 C The Spirits of Southwind |QID|1125| |OIDX|1| |N|Kill Tortured Druids and Tortured Sentinels| |O| |Z|Silithus|
@@ -131,7 +137,7 @@ N They have a high chance to spawn a Hive'Ashi Drone after dying |N|(60.6, 52.8)
 C The Spirits of Southwind |QID|1125| |OIDX|1| |N|Tortured Druids and Tortured Sentinels (60.6, 52.8)| |Z|Silithus|
 T The Spirits of Southwind |QID|1125| |N|Layo - (81.9, 18.9)| |Z|Silithus|
 A Hive in the Tower |QID|1126| |N|Layo - (81.9, 18.9)| |Z|Silithus|
-C Brann Bronzebeard's Lost Letter |QID|8308| |L|20461 1| |N|Keep an eye out for [Brann Bronzebeard's Lost Letter] dropped by Hive'Ashi Drones. If it drops, use it to start the quest| |O| |Z|Silithus|
+C Collect Brann Bronzebeard's Lost Letter (x1) |QID|8308| |L|20461 1| |N|Keep an eye out for [Brann Bronzebeard's Lost Letter] dropped by Hive'Ashi Drones. If it drops, use it to start the quest| |O| |Z|Silithus|
 A Brann Bronzebeard's Lost Letter |QID|8308| |N|Keep an eye out for [Brann Bronzebeard's Lost Letter] dropped by Hive'Ashi Drones. If it drops, use it to start the quest| |O| |Z|Silithus|
 N Kill the two Hive'Ashi Ambushers that spawn on the top floor. Loot them for a Encrusted Silithid Object |N|(60.2, 52.5)| |Z|Silithus|
 N Be careful! Three Hive'Ashi Drones will spawn when you enter the bottom floor of the tower! |N|(60.2, 52.5)| |Z|Silithus|
@@ -166,7 +172,7 @@ T Noggle's Last Hope |QID|8278| |N|Beetix and Noggle - (51.8, 38.5)| |Z|Silithus
 A Noggle's Lost Satchel |QID|8282| |N|Beetix and Noggle - (51.8, 38.5)| |Z|Silithus|
 T Dearest Natalia |QID|8304| |N|Mar'alith - (49.2, 34.3)| |Z|Silithus|
 N Twilight Keepers, Overlords and Masters have very high burst potential |O| |Z|Silithus|
-C Twilight Cultists. Loot them for their Encrypted Twilight Texts |QID|8323| |L|20404 10| |N|Kill Twilight Cultists. Loot them for their Encrypted Twilight Texts| |O| |Z|Silithus|
+C Collect Encrypted Twilight Text (x10) |QID|8323| |L|20404 10| |N|Kill Twilight Cultists. Loot them for their Encrypted Twilight Texts| |O| |Z|Silithus|
 N He patrols the east side of the camp that's just southwest of Cenarion Hold |N|(40.9, 42.2)| |Z|Silithus|
 N Be careful, he has very high burst |N|(40.9, 42.2)| |Z|Silithus|
 C The Twilight Lexicon |QID|8279| |OIDX|3| |N|Twilight Keeper Havunth. Loot him for his Twilight Lexicon Chapter (40.9, 42.2)| |Z|Silithus|
@@ -177,7 +183,7 @@ N He's at the back of the camp very far to the southwest of Cenarion Hold/northw
 N Be careful, he has a stun and mortal strike |N|(16.1, 86.4)| |Z|Silithus|
 C The Twilight Lexicon |QID|8279| |OIDX|2| |N|Twilight Keeper Exeter. Loot him for his Twilight Lexicon Chapter (16.1, 86.4)| |Z|Silithus|
 N Twilight Keepers, Overlords and Masters have very high burst potential |N|(20.5, 86.1)| |Z|Silithus|
-C Twilight Cultists. Loot them for their Encrypted Twilight Texts |QID|8323| |L|20404 10| |N|Twilight Cultists. Loot them for their Encrypted Twilight Texts - (20.5, 86.1)| |Z|Silithus|
+C Collect Encrypted Twilight Text (x10) |QID|8323| |L|20404 10| |N|Twilight Cultists. Loot them for their Encrypted Twilight Texts (20.5, 86.1)| |Z|Silithus|
 C Noggle's Lost Satchel |QID|8282| |OIDX|1| |N|[Group] Loot Noggle's Satchel| |O| |P|GROUP| |Z|Silithus|
 N Kill Deathclasp. Loot him for his Pincer. Do everything that you can to prevent him from getting into melee range |N|[Group] (45.0, 92.2)| |P|GROUP| |Z|Silithus|
 N This quest mob hits hard and has a poison debuff that can stun for 8 seconds. This quest is extremely dangerous if you are unfamiliar/unprepared; skip it if necessary |N|[Group] (45.0, 92.2)| |P|GROUP| |Z|Silithus|

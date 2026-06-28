@@ -7,7 +7,7 @@ N 39-39 Dustwallow Marsh |N|Converted from RestedXP guide|
 R the Menethil Harbor Dock |N|(7.3, 62.5)| |O| |Z|Wetlands|
 R Level your [First Aid] while waiting |N|(5.1, 63.4)| |Z|Wetlands|
 N Buy 3 [Soothing Spices] from her |N|(66.4, 51.5)| |Z|Dustwallow Marsh|
-B Helenia Olden |L|3713 3| |N|Helenia Olden - (66.4, 51.5)| |Z|Dustwallow Marsh|
+B Buy Soothing Spices (x3) |L|3713 3| |N|Helenia Olden - (66.4, 51.5)| |Z|Dustwallow Marsh|
 A Mudrock Soup and Bugs |QID|1204| |N|Morgan Stern - (66.3, 45.5)| |Z|Dustwallow Marsh|
 A The Missing Diplomat |QID|1266| |N|Archmage Tervosh atop Theramore tower - (66.4, 49.3)| |Z|Dustwallow Marsh|
 A Soothing Spices |QID|1218| |N|"Swamp Eye" Jarl - (55.4, 26.3)| |Z|Dustwallow Marsh|

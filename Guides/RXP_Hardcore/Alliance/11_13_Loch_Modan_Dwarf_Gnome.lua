@@ -30,13 +30,17 @@ B Buy some [Freshly Baked Bread] if needed |N|Innkeeper Hearthstove - (35.5, 48.
 B Buy some [Freshly Baked Bread] and [Ice Cold Milk] if needed |N|Innkeeper Hearthstove - (35.5, 48.4)| |O| |C|!Warrior/!Rogue| |Z|Loch Modan|
 T Return to Brock |QID|6392| |N|Brock Stoneseeker - (37.0, 47.8)| |Z|Loch Modan|
 N Buy a [Hunter's Boomstick] if you can afford it |N|(35.8, 43.5)| |C|Hunter| |Z|Loch Modan|
-B Vrok Blunderblast |L|2511 1| |N|Vrok Blunderblast - (35.8, 43.5)| |C|Hunter| |Z|Loch Modan|
+B Buy Hunter's Boomstick (x1) |L|2511 1| |N|Vrok Blunderblast - (35.8, 43.5)| |C|Hunter| |Z|Loch Modan|
 N Kill Mountain Boars. Loot them for their Boar Intestines |N|[Group]| |O| |P|GROUP| |Z|Loch Modan|
 N Kill Forest Lurkers. Loot them for their Ichor |N|[Group]| |O| |P|GROUP| |Z|Loch Modan|
 C Collect Boar Intestines (x3) |QID|418| |L|3172 3| |N|[Group] Kill Elder Black Bears. Loot them for their Bear Meat| |O| |P|GROUP| |Z|Loch Modan|
+C Collect Bear Meat (x3) |QID|418| |L|3173 3| |N|[Group] Kill Elder Black Bears. Loot them for their Bear Meat| |O| |P|GROUP| |Z|Loch Modan|
+C Collect Spider Ichor (x3) |QID|418| |L|3174 3| |N|[Group] Kill Elder Black Bears. Loot them for their Bear Meat| |O| |P|GROUP| |Z|Loch Modan|
 N Kill Mountain Boars. Loot them for their Boar Intestines |O| |P|SOLO| |Z|Loch Modan|
 N Kill Forest Lurkers. Loot them for their Ichor |O| |P|SOLO| |Z|Loch Modan|
 C Collect Boar Intestines (x3) |QID|418| |L|3172 3| |N|Kill Elder Black Bears. Loot them for their Bear Meat| |O| |P|SOLO| |Z|Loch Modan|
+C Collect Bear Meat (x3) |QID|418| |L|3173 3| |N|Kill Elder Black Bears. Loot them for their Bear Meat| |O| |P|SOLO| |Z|Loch Modan|
+C Collect Spider Ichor (x3) |QID|418| |L|3174 3| |N|Kill Elder Black Bears. Loot them for their Bear Meat| |O| |P|SOLO| |Z|Loch Modan|
 C Rat Catching |QID|416| |OIDX|1| |N|[Group] Kill Tunnel Rats. Loot them for their Ears Collect Tunnel Rat Ear (x12)| |O| |P|GROUP| |Z|Loch Modan|
 R Enter the Silver Stream Mine |N|[Group] (35.5, 19.0)| |O| |P|GROUP| |Z|Loch Modan|
 N The Miners' League Crates can be found all throughout the Mine |N|[Group] (35.9, 22.6)| |P|GROUP| |Z|Loch Modan|
@@ -45,6 +49,8 @@ C Filthy Paws |QID|307| |OIDX|1| |N|[Group] the Miners' League Crates. Loot them
 N Kill Mountain Boars. Loot them for their Boar Intestines |N|[Group]| |O| |P|GROUP| |Z|Loch Modan|
 N Kill Forest Lurkers. Loot them for their Ichor |N|[Group]| |O| |P|GROUP| |Z|Loch Modan|
 C Collect Boar Intestines (x3) |QID|418| |L|3172 3| |N|[Group] Kill Elder Black Bears. Loot them for their Bear Meat| |O| |P|GROUP| |Z|Loch Modan|
+C Collect Bear Meat (x3) |QID|418| |L|3173 3| |N|[Group] Kill Elder Black Bears. Loot them for their Bear Meat| |O| |P|GROUP| |Z|Loch Modan|
+C Collect Spider Ichor (x3) |QID|418| |L|3174 3| |N|[Group] Kill Elder Black Bears. Loot them for their Bear Meat| |O| |P|GROUP| |Z|Loch Modan|
 B Nillen Andemar sells [Heavy Spiked Mace] which is a limited supply item |N|Nillen Andemar - (42.9, 9.9)| |C|Paladin/Warrior| |Z|Loch Modan|
 N Check to see if it's available and buy it if you can. If you can't afford it, then grind money from the nearby Tunnel Rats until you have enough |N|(42.9, 9.9)| |C|Paladin/Warrior| |Z|Loch Modan|
 N Do this quickly as another player may purchase it before you do |N|(42.9, 9.9)| |C|Paladin/Warrior| |Z|Loch Modan|
@@ -56,6 +62,8 @@ T Stormpike's Delivery |QID|353| |N|Mountaineer Stormpike - (24.8, 18.4)| |Z|Loc
 N Kill Mountain Boars. Loot them for their Boar Intestines |N|(26.9, 10.7)| |Z|Loch Modan|
 N Kill Forest Lurkers. Loot them for their Ichor |N|(26.9, 10.7)| |Z|Loch Modan|
 C Bear Meat (3) |QID|418| |L|3173 3| |N|Kill Elder Black Bears. Loot them for their Bear Meat (26.9, 10.7)| |Z|Loch Modan|
+C Boar Intestines (3) |QID|418| |L|3172 3| |N|Kill Elder Black Bears. Loot them for their Bear Meat (26.9, 10.7)| |Z|Loch Modan|
+C Spider Ichor (3) |QID|418| |L|3174 3| |N|Kill Elder Black Bears. Loot them for their Bear Meat (38.0, 34.9)| |Z|Loch Modan|
 N Mountaineer Kadrell patrols the road through Thelsamar |N|(36.8, 46.2)| |Z|Loch Modan|
 T Rat Catching |QID|416| |N|Mountaineer Kadrell - (36.8, 46.2)| |Z|Loch Modan|
 T Thelsamar Blood Sausages |QID|418| |N|Vidra Hearthstove - (34.8, 49.3)| |Z|Loch Modan|

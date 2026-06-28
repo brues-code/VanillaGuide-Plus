@@ -27,7 +27,9 @@ N [Crate of Crash Helmets] |N|(62.7, 37.4)| |Z|The Barrens|
 R Fuzruckle or Zikkel |N|(62.7, 37.4)| |Z|The Barrens|
 N [Farren's Report] |N|(62.7, 37.4)| |Z|The Barrens|
 A Blueleaf Tubers |QID|1221| |N|Mebok Mizzyrix - (62.4, 37.6) (RFK Dungeon Quest)| |D|RFK| |Z|The Barrens|
-C the Snufflenose Command Stick, Snufflenose Owner's Manual and Crate With Holes next to Mebok |QID|1221| |L|6684 1| |N|(62.3, 37.6) (RFK Dungeon Quest)| |D|RFK| |Z|The Barrens|
+C Collect Snufflenose Command Stick (x1) |QID|1221| |L|6684 1| |N|(62.3, 37.6) (RFK Dungeon Quest)| |D|RFK| |Z|The Barrens|
+C Collect Snufflenose Owner's Manual (x1) |QID|1221| |L|5897 1| |N|Collect Snufflenose Command Stick (x1) (62.3, 37.6) (RFK Dungeon Quest)| |D|RFK| |Z|The Barrens|
+C Collect Crate With Holes (x1) |QID|1221| |L|5880 1| |N|Collect Snufflenose Command Stick (x1) (62.3, 37.6) (RFK Dungeon Quest)| |D|RFK| |Z|The Barrens|
 R Travel south to the Shady Rest Inn at the Dustwallow Marsh border |N|(51.0, 79.0)| |O| |Z|The Barrens|
 N Click the Black Shield hanging on the fireplace |N|(29.7, 47.6)| |Z|The Barrens|
 N Click the Theramore Guard Badge on the wooden plank |N|(29.7, 47.6)| |Z|The Barrens|
@@ -81,7 +83,7 @@ N Kill Scorpid Reavers and Scorpid Terrors. Loot them for their Venom |N|(87.5, 
 N Kill Saltstone Basilisks, Saltstone Crystalhides and Saltstone Gazers |N|(87.5, 65.6)| |Z|Thousand Needles|
 N Open the Rocket Car Rubble. Loot it for the Rocket Car Parts |N|(87.5, 65.6)| |Z|Thousand Needles|
 C Load Lightening |QID|1176| |OIDX|1| |N|Run circles around The Shimmering Flats until all objectives are complete (87.5, 65.6)| |Z|Thousand Needles|
-C Run circles around The Shimmering Flats until all objectives are complete |QID|555| |L|3712 10| |N|Run circles around The Shimmering Flats until all objectives are complete - (87.5, 65.6)| |Z|Thousand Needles|
+C Collect Turtle Meat (x10) |QID|555| |L|3712 10| |N|Run circles around The Shimmering Flats until all objectives are complete (87.5, 65.6)| |Z|Thousand Needles|
 C Hardened Shells |QID|1105| |OIDX|1| |N|Run circles around The Shimmering Flats until all objectives are complete (87.5, 65.6)| |Z|Thousand Needles|
 C Salt Flat Venom |QID|1104| |OIDX|1| |N|Run circles around The Shimmering Flats until all objectives are complete (82.6, 54.8)| |Z|Thousand Needles|
 C A Bump in the Road |QID|1175| |OIDX|1| |N|Run circles around The Shimmering Flats until all objectives are complete (71.8, 73.4)| |Z|Thousand Needles|

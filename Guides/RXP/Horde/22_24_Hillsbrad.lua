@@ -10,7 +10,7 @@ R Travel to Undercity |N|(64.2, 39.8) (SFK Dungeon Quest)| |D|SFK| |Z|Undercity|
 R Take the lift down to the Undercity |N|(65.5, 43.6) (SFK Dungeon Quest)| |D|SFK| |Z|Undercity|
 t Train [Teleport: Undercity] |N|Lexington - (84.2, 15.6)| |C|Mage| |Z|Undercity|
 N Buy one or more [Rune of Teleportation] from her |N|(82.8, 15.8)| |C|Mage| |Z|Undercity|
-B Hannah |L|17031 1| |N|Hannah - (82.8, 15.8)| |C|Mage| |Z|Undercity|
+B Buy Rune of Teleportation (x1) |L|17031 1| |N|Hannah - (82.8, 15.8)| |C|Mage| |Z|Undercity|
 A The Book of Ur |QID|1013| |N|Bel'dugur - (53.7, 54.5) (SFK Dungeon Quest)| |D|SFK| |Z|Undercity|
 T Devouring Plague |QID|5644| |N|Aelthalyste - (49.0, 18.3)| |C|Priest| |R|Undead| |Z|Undercity|
 F Fly to The Sepulcher |N|Michael - (63.3, 48.5) (SFK Dungeon Quest)| |C|Mage/Warlock/Priest/Rogue| |R|!Undead| |D|SFK| |Z|Undercity|
@@ -24,7 +24,7 @@ T Mura Runetotem |QID|3301| |N|Renferrel and Mura - (42.9, 40.9)| |Z|Silverpine 
 T Until Death Do Us Part |QID|264| |N|Interact with Yuriv's Tombstone on the ground - (44.2, 42.7)| |Z|Silverpine Forest|
 T Return to Podrig |QID|6324| |N|Podrig - (43.4, 41.7)| |R|Undead| |Z|Silverpine Forest|
 R Travel north/east toward the Great Sea |N|(36.1, 28.3)| |O| |C|Druid| |Z|Silverpine Forest|
-C the Strange Lockbox in the water for the [Half Pendant of Aquatic Endurance] |QID|30| |L|15882 1| |N|the Strange Lockbox in the water for the [Half Pendant of Aquatic Endurance] - (29.6, 29.3)| |C|Druid| |Z|Silverpine Forest|
+C Collect Half Pendant of Aquatic Endurance (x1) |QID|30| |L|15882 1| |N|the Strange Lockbox in the water for the [Half Pendant of Aquatic Endurance] (29.6, 29.3)| |C|Druid| |Z|Silverpine Forest|
 A Time To Strike |QID|494| |N|Deathstalker Lesh - (20.8, 47.4)| |Z|Hillsbrad Foothills|
 R Tarren Mill |N|(62.1, 20.2)| |O| |Z|Hillsbrad Foothills|
 f Get the Tarren Mill Flight Path |N|Zarise - (60.1, 18.6)| |Z|Hillsbrad Foothills|
@@ -33,7 +33,7 @@ A Hinott's Assistance |QID|2480| |N|Hinott - (61.5, 19.2)| |C|Rogue| |Z|Hillsbra
 C Hinott's Assistance |QID|2480| |OIDX|1| |N|Wait for Hinott to complete the cure (61.5, 19.2)| |C|Rogue| |Z|Hillsbrad Foothills|
 T Hinott's Assistance |QID|2480| |N|Hinott - (61.6, 19.2)| |C|Rogue| |Z|Hillsbrad Foothills|
 N Use [Hinott's Oil] to cure yourself of the [Touch of Zanzil] |O| |C|Rogue| |Z|Hillsbrad Foothills|
-C Craft [Instant Poisons] |QID|1067| |L|6947 20| |N|Craft [Instant Poisons]| |O| |C|Rogue| |Z|Hillsbrad Foothills|
+C Collect Instant Poison (x20) |QID|1067| |L|6947 20| |N|Craft [Instant Poisons]| |O| |C|Rogue| |Z|Hillsbrad Foothills|
 T Journey to Tarren Mill |QID|1065| |N|Apothecary Lydon - (61.4, 19.1)| |Z|Hillsbrad Foothills|
 A Blood of Innocents |QID|1066| |N|Apothecary Lydon - (61.4, 19.1)| |Z|Hillsbrad Foothills|
 T Journey to Hillsbrad Foothills |QID|493| |N|Apothecary Lydon - (61.4, 19.1)| |Z|Hillsbrad Foothills|
@@ -49,9 +49,9 @@ T Time To Strike |QID|494| |N|High Executor Darthalia - (62.4, 20.3)| |O| |Z|Hil
 A WANTED: Syndicate Personnel |QID|549| |N|the Wanted Poster - (62.6, 20.8)| |Z|Hillsbrad Foothills|
 A The Rescue |QID|498| |N|Krusk - (63.2, 20.6)| |Z|Hillsbrad Foothills|
 N Buy [Sharp Arrows] from him |N|(62.6, 19.9)| |C|Hunter| |Z|Hillsbrad Foothills|
-B Kayren |L|2515 1800| |N|Kayren - (62.6, 19.9)| |C|Hunter| |Z|Hillsbrad Foothills|
+B Buy Sharp Arrow (x1800) |L|2515 1800| |N|Kayren - (62.6, 19.9)| |C|Hunter| |Z|Hillsbrad Foothills|
 N Buy [Razor Arrows] from him |N|(62.6, 19.9)| |C|Hunter| |Z|Hillsbrad Foothills|
-B Kayren |L|3030 1800| |N|Kayren - (62.6, 19.9)| |C|Hunter| |Z|Hillsbrad Foothills|
+B Buy Razor Arrow (x1800) |L|3030 1800| |N|Kayren - (62.6, 19.9)| |C|Hunter| |Z|Hillsbrad Foothills|
 A Dangerous! |QID|567| |N|the Wanted Poster - (62.6, 19.6)| |Z|Hillsbrad Foothills|
 B Sell your junk, then restock on food and water if necessary |N|Innkeeper Shay - (62.8, 19.1)| |C|!Rogue/!Warrior| |Z|Hillsbrad Foothills|
 B Sell your junk, then restock on food if necessary |N|Innkeeper Shay - (62.8, 19.1)| |C|Rogue/Warrior| |Z|Hillsbrad Foothills|
@@ -69,9 +69,9 @@ N Loot the Shadow Mages for their Vials of Innocent Blood |O| |Z|Hillsbrad Footh
 C WANTED: Syndicate Personnel |QID|549| |OIDX|1| |N|Kill Syndicate Rogues, Watchmen, and Shadow Mages.| |O| |Z|Hillsbrad Foothills|
 C Blood of Innocents |QID|1066| |OIDX|1| |N|Kill Syndicate Rogues, Watchmen, and Shadow Mages.| |O| |Z|Hillsbrad Foothills|
 N He can be found in front of Tog'thar's Barracks, or in front of Drull |N|(79.5, 41.9)| |O| |Z|Hillsbrad Foothills|
-C Jailor Eston. Loot him for his Iron Key |QID|498| |L|3467 1| |N|Jailor Eston. Loot him for his Iron Key - (79.5, 41.9)| |O| |Z|Hillsbrad Foothills|
+C Collect Dull Iron Key (x1) |QID|498| |L|3467 1| |N|Jailor Eston. Loot him for his Iron Key (79.5, 41.9)| |O| |Z|Hillsbrad Foothills|
 N He can be found in front of Tog'thar or at the bottom of the tower |N|(78.0, 40.2)| |Z|Hillsbrad Foothills|
-C Jailor Marlgen. Loot him for his Gold Key |QID|498| |L|3499 1| |N|Jailor Marlgen. Loot him for his Gold Key - (78.0, 40.2)| |Z|Hillsbrad Foothills|
+C Collect Burnished Gold Key (x1) |QID|498| |L|3499 1| |N|Jailor Marlgen. Loot him for his Gold Key (78.0, 40.2)| |Z|Hillsbrad Foothills|
 C The Rescue |QID|498| |OIDX|2| |N|the Ball and Chain on the ground (79.8, 39.6)| |Z|Hillsbrad Foothills|
 N Buy [Stalking Pants] and [Wolf Bracers] from her if they're up |N|(80.1, 38.9)| |C|Rogue/Hunter/Shaman| |Z|Hillsbrad Foothills|
 B Vendor and Repair |N|Kris - (80.1, 38.9)| |C|Rogue/Hunter/Shaman| |Z|Hillsbrad Foothills|
@@ -81,7 +81,7 @@ N Buy [Wolf Bracers] from her if they're up |N|(80.1, 38.9)| |C|Rogue/Hunter/Sha
 B Vendor and Repair |N|Kris - (80.1, 38.9)| |C|Rogue/Hunter/Shaman/Druid| |Z|Hillsbrad Foothills|
 B Vendor and Repair |N|Kris - (80.1, 38.9)| |C|!Rogue/!Hunter/!Shaman/!Druid| |Z|Hillsbrad Foothills|
 N He can be found in front of Tog'thar's Barracks, or in front of Drull |N|(75.3, 41.6)| |Z|Hillsbrad Foothills|
-C Jailor Eston. Loot him for his Iron Key |QID|498| |L|3467 1| |N|Jailor Eston. Loot him for his Iron Key - (75.3, 41.6)| |Z|Hillsbrad Foothills|
+C Collect Dull Iron Key (x1) |QID|498| |L|3467 1| |N|Jailor Eston. Loot him for his Iron Key (75.3, 41.6)| |Z|Hillsbrad Foothills|
 C The Rescue |QID|498| |OIDX|1| |N|the Ball and Chain on the ground (75.3, 41.5)| |Z|Hillsbrad Foothills|
 C WANTED: Syndicate Personnel |QID|549| |OIDX|1| |N|Kill Syndicate Rogues and Syndicate Watchmen| |O| |Z|Hillsbrad Foothills|
 N More of them can be found at the tower just southwest of the keep |N|(67.2, 45.9)| |Z|Hillsbrad Foothills|
@@ -93,9 +93,9 @@ C Elixir of Suffering |QID|496| |OIDX|1| |N|Kill Bears and Spiders  en route bac
 T The Rescue |QID|498| |N|Krusk and Darthalia - (63.2, 20.6)| |Z|Hillsbrad Foothills|
 T WANTED: Syndicate Personnel |QID|549| |N|Krusk and Darthalia - (63.2, 20.6)| |Z|Hillsbrad Foothills|
 N Buy [Sharp Arrows] from him |N|(62.6, 19.9)| |C|Hunter| |Z|Hillsbrad Foothills|
-B Kayren |L|2515 1800| |N|Kayren - (62.6, 19.9)| |C|Hunter| |Z|Hillsbrad Foothills|
+B Buy Sharp Arrow (x1800) |L|2515 1800| |N|Kayren - (62.6, 19.9)| |C|Hunter| |Z|Hillsbrad Foothills|
 N Buy [Razor Arrows] from him |N|(62.6, 19.9)| |C|Hunter| |Z|Hillsbrad Foothills|
-B Kayren |L|3030 1800| |N|Kayren - (62.6, 19.9)| |C|Hunter| |Z|Hillsbrad Foothills|
+B Buy Razor Arrow (x1800) |L|3030 1800| |N|Kayren - (62.6, 19.9)| |C|Hunter| |Z|Hillsbrad Foothills|
 B Sell your junk, then restock on food and water if necessary |N|Innkeeper Shay - (62.8, 19.1)| |C|!Rogue/!Warrior| |Z|Hillsbrad Foothills|
 B Sell your junk, then restock on food if necessary |N|Innkeeper Shay - (62.8, 19.1)| |C|Rogue/Warrior| |Z|Hillsbrad Foothills|
 T Blood of Innocents |QID|1066| |N|Lydon and Umpi - (61.4, 19.1)| |O| |Z|Hillsbrad Foothills|
@@ -184,9 +184,9 @@ A Battle of Hillsbrad |QID|529| |N|Darthalia - (62.4, 20.3)| |Z|Hillsbrad Foothi
 B Sell your junk, then restock on food and water if necessary |N|Innkeeper Shay - (62.8, 19.1)| |C|!Rogue/!Warrior| |Z|Hillsbrad Foothills|
 B Sell your junk, then restock on food if necessary |N|Innkeeper Shay - (62.8, 19.1)| |C|Rogue/Warrior| |Z|Hillsbrad Foothills|
 N Buy [Sharp Arrows] from him |N|(62.6, 19.9)| |C|Hunter| |Z|Hillsbrad Foothills|
-B Kayren |L|2515 1800| |N|Kayren - (62.6, 19.9)| |C|Hunter| |Z|Hillsbrad Foothills|
+B Buy Sharp Arrow (x1800) |L|2515 1800| |N|Kayren - (62.6, 19.9)| |C|Hunter| |Z|Hillsbrad Foothills|
 N Buy [Razor Arrows] from him |N|(62.6, 19.9)| |C|Hunter| |Z|Hillsbrad Foothills|
-B Kayren |L|3030 1800| |N|Kayren - (62.6, 19.9)| |C|Hunter| |Z|Hillsbrad Foothills|
+B Buy Razor Arrow (x1800) |L|3030 1800| |N|Kayren - (62.6, 19.9)| |C|Hunter| |Z|Hillsbrad Foothills|
 B Buy a [Merciless Axe] from him if it's up and you don't have it yet |N|Ott - (60.4, 26.2)| |C|Shaman/Warrior| |Z|Hillsbrad Foothills|
 B Buy a [Broad Bladed Knife] from him if it's up and you don't have it yet |N|Ott - (60.4, 26.2)| |C|Rogue| |Z|Hillsbrad Foothills|
 N Wait out the RP, then kill Enraged Stanley |N|(32.7, 35.3)| |O| |Z|Hillsbrad Foothills|
@@ -212,12 +212,15 @@ N Cast [Teleport: Undercity] |N|(SFK Dungeon Quest)| |C|Mage| |D|SFK| |Z|Silverp
 F Fly to the Undercity |N|Karos - (45.6, 42.6) (SFK Dungeon Quest)| |C|!Mage| |D|SFK| |Z|Silverpine Forest|
 T The Book of Ur |QID|1013| |N|Bel'dugur - (53.7, 54.5) (SFK Dungeon Quest)| |D|SFK| |Z|Undercity|
 t Train your class spells |N|Angela - (48.3, 16.0) (SFK Dungeon Quest)| |C|Warrior| |D|SFK| |Z|Undercity|
-B Ezekiel. Buy  [Dust of Decay] and [Empty Vials] from him |L|2928 40| |N|Ezekiel. Buy  [Dust of Decay] and [Empty Vials] from him - (75.2, 51.2) (SFK Dungeon Quest)| |C|Rogue| |D|SFK| |Z|Undercity|
-C Craft [Instant Poisons] |QID|1067| |L|6947 40| |N|Craft [Instant Poisons] (SFK Dungeon Quest)| |C|Rogue| |D|SFK| |Z|Undercity|
+B Buy Dust of Decay (x40) |L|2928 40| |N|Ezekiel. Buy  [Dust of Decay] and [Empty Vials] from him - (75.2, 51.2) (SFK Dungeon Quest)| |C|Rogue| |D|SFK| |Z|Undercity|
+B Buy Empty Vial (x40) |L|3371 40| |N|Ezekiel. Buy  [Dust of Decay] and [Empty Vials] from him - (75.2, 51.2) (SFK Dungeon Quest)| |C|Rogue| |D|SFK| |Z|Undercity|
+C Collect Instant Poison (x40) |QID|1067| |L|6947 40| |N|Craft [Instant Poisons] (SFK Dungeon Quest)| |C|Rogue| |D|SFK| |Z|Undercity|
 t Train your class spells |N|Carolyn - (83.9, 72.1) (SFK Dungeon Quest)| |C|Rogue| |D|SFK| |Z|Undercity|
 t Train your class spells |N|Richard - (88.9, 15.9) (SFK Dungeon Quest)| |C|Warlock| |D|SFK| |Z|Undercity|
 N Cast [Teleport: Moonglade] |O| |C|Druid| |Z|Undercity|
-C Combine the two pendants at the Shrine of Remulos for the Pendant of the Sea Lion |QID|30| |L|15882 1| |N|Combine the two pendants at the Shrine of Remulos for the Pendant of the Sea Lion - (36.0, 41.4)| |C|Druid| |Z|Moonglade|
+C Collect Half Pendant of Aquatic Endurance (x1) |QID|30| |L|15882 1| |N|Combine the two pendants at the Shrine of Remulos for the Pendant of the Sea Lion (36.0, 41.4)| |C|Druid| |Z|Moonglade|
+C Collect Half Pendant of Aquatic Agility (x1) |QID|30| |L|15883 1| |N|Combine the two pendants at the Shrine of Remulos for the Pendant of the Sea Lion (36.0, 41.4)| |C|Druid| |Z|Moonglade|
+C Combine the two pendants at the Shrine of Remulos for the Pendant of the Sea Lion |QID|30| |OIDX|1| |N|Combine the two pendants at the Shrine of Remulos for the Pendant of the Sea Lion - (36.0, 41.4)| |C|Druid| |Z|Moonglade|
 T Trial of the Sea lion |QID|30| |N|Dendrite - (56.2, 30.6)| |C|Druid| |Z|Moonglade|
 A Aquatic Form |QID|31| |N|Dendrite - (56.2, 30.6)| |C|Druid| |Z|Moonglade|
 H Thunder Bluff |N|Hearth to Thunder Bluff| |Z|Moonglade|

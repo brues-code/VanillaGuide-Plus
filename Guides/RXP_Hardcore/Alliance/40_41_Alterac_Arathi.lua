@@ -7,17 +7,17 @@ N 40-41 Alterac/Arathi |N|Converted from RestedXP guide|
 A Wand over Fist |QID|693| |N|Skuerto - (46.7, 47.0)| |Z|Arathi Highlands|
 A The Princess Trapped |QID|642| |N|the Shards of Myzrael - (62.5, 33.7)| |Z|Arathi Highlands|
 N These are found inside of the Cave |O| |Z|Arathi Highlands|
-C Mine the Lesser Bloodstone Deposits. Loot it for Lesser Bloodstone Ore |QID|627| |L|4278 4| |N|Mine the Lesser Bloodstone Deposits. Loot it for Lesser Bloodstone Ore| |O| |Z|Arathi Highlands|
+C Collect Lesser Bloodstone Ore (x4) |QID|627| |L|4278 4| |N|Mine the Lesser Bloodstone Deposits. Loot it for Lesser Bloodstone Ore| |O| |Z|Arathi Highlands|
 N The quest turn in for this is inside the Cave. Clear your way to the back while completing it |N|(84.3, 30.9)| |Z|Arathi Highlands|
 C The Princess Trapped |QID|642| |OIDX|1| |N|Drywhisker Kobolds, Drywhisker Diggers and Drywhisker Surveyors. Loot them for their Motes (84.3, 30.9)| |Z|Arathi Highlands|
 N These are found inside of the Cave |N|(84.3, 30.9)| |Z|Arathi Highlands|
-C Mine the Lesser Bloodstone Deposits. Loot it for Lesser Bloodstone Ore |QID|627| |L|4278 4| |N|Mine the Lesser Bloodstone Deposits. Loot it for Lesser Bloodstone Ore - (84.3, 30.9)| |Z|Arathi Highlands|
+C Collect Lesser Bloodstone Ore (x4) |QID|627| |L|4278 4| |N|Mine the Lesser Bloodstone Deposits. Loot it for Lesser Bloodstone Ore (84.3, 30.9)| |Z|Arathi Highlands|
 T The Princess Trapped |QID|642| |N|the Iridescent Shards at the back of the Cave - (84.3, 30.9)| |Z|Arathi Highlands|
 A Stones of Binding |QID|651| |N|the Iridescent Shards at the back of the Cave - (84.3, 30.9)| |Z|Arathi Highlands|
 R the Circle of East Binding |N|(70.3, 39.5)| |O| |Z|Arathi Highlands|
-C Cresting Exiles. Loot them for their Cresting Charms |QID|1712| |L|4481 8| |N|Kill Cresting Exiles. Loot them for their Cresting Charms| |O| |C|Warrior| |Z|Arathi Highlands|
+C Collect Cresting Charm (x8) |QID|1712| |L|4481 8| |N|Kill Cresting Exiles. Loot them for their Cresting Charms| |O| |C|Warrior| |Z|Arathi Highlands|
 C Stones of Binding |QID|651| |OIDX|2| |N|the Stone of East Binding. Loot it for the Cresting Key (66.7, 29.7)| |Z|Arathi Highlands|
-C Cresting Exiles. Loot them for their Cresting Charms |QID|1712| |L|4481 8| |N|Cresting Exiles. Loot them for their Cresting Charms - (66.8, 29.8)| |C|Warrior| |Z|Arathi Highlands|
+C Collect Cresting Charm (x8) |QID|1712| |L|4481 8| |N|Cresting Exiles. Loot them for their Cresting Charms (66.8, 29.8)| |C|Warrior| |Z|Arathi Highlands|
 A Hints of a New Plague? |QID|658| |N|Quae - (60.2, 53.8)| |Z|Arathi Highlands|
 N Cast [Eagle Eye] to try and find the Forsaken Courier |N|(60.4, 59.0)| |C|Hunter| |Z|Arathi Highlands|
 N If you can't see them in Hillsbrad, look for them in Arathi after. Her patrol route is marked on your map in Hillsbrad and Arathi |N|(60.4, 59.0)| |Z|Arathi Highlands|
@@ -52,7 +52,7 @@ A Ansirem's Key |QID|603| |N|Archmage Ansirem Runeweaver - (18.8, 78.5)| |Z|Alte
 R Travel to Westfall |N|(47.8, 19.6) (SM Dungeon Quest)| |D|SM| |Z|Westfall|
 N This can spawn randomly on the ground or in bookshelves throughout the Library wing |N|(SM Dungeon Quest)| |D|SM| |Z|Westfall|
 C Mythology of the Titans |QID|1050| |OIDX|1| |N|Loot the Mythology of the Titans (SM Dungeon Quest)| |D|SM| |Z|Westfall|
-C Doan's Strongbox. Loot it for [The Scarlet Key] |L|7146 1| |N|Open Doan's Strongbox. Loot it for [The Scarlet Key] (SM Dungeon Quest)| |D|SM| |Z|Westfall|
+C Collect The Scarlet Key (x1) |L|7146 1| |N|Open Doan's Strongbox. Loot it for [The Scarlet Key] (SM Dungeon Quest)| |D|SM| |Z|Westfall|
 N Houndmaster Loksey is located in the Library |N|(SM Dungeon Quest)| |D|SM| |Z|Westfall|
 N Herod is located in the Armory |N|(SM Dungeon Quest)| |D|SM| |Z|Westfall|
 N High Inquisitor Whitemane and Scarlet Commander Mograine are located in the Cathedral |N|(SM Dungeon Quest)| |D|SM| |Z|Westfall|
@@ -80,7 +80,7 @@ N Syndicate Assassins and Syndicate Spies will be in [Stealth] |N|(62.4, 43.6)| 
 C Noble Deaths |QID|512| |OIDX|1| |N|the Syndicate. Loot them for their Signet Rings (62.4, 43.6)| |O| |Z|Alterac Mountains|
 C Dark Council |QID|537| |OIDX|2| |N|Nagaz. Loot him for his Head (39.2, 14.3)| |Z|Alterac Mountains|
 N Use the [Ensorcelled Parchment] to start the quest |N|(39.2, 14.7)| |Z|Alterac Mountains|
-C the Worn Wooden Chest. Loot it for the [Ensorcelled Parchment] |QID|551| |L|3706 1| |N|the Worn Wooden Chest. Loot it for the [Ensorcelled Parchment] - (39.2, 14.7)| |Z|Alterac Mountains|
+C Collect Ensorcelled Parchment (x1) |QID|551| |L|3706 1| |N|the Worn Wooden Chest. Loot it for the [Ensorcelled Parchment] (39.2, 14.7)| |Z|Alterac Mountains|
 A The Ensorcelled Parchment |QID|551| |N|the Worn Wooden Chest. Loot it for the [Ensorcelled Parchment] - (39.2, 14.7)| |Z|Alterac Mountains|
 C Dark Council |QID|537| |OIDX|1| |N|Kill Argus Shadow Mages| |O| |Z|Alterac Mountains|
 N Baron Vardus can be in the outside camps, as well as the basement Inn of Strahnbrad |N|(59.7, 43.9)| |Z|Alterac Mountains|
@@ -108,13 +108,13 @@ A Stormpike's Deciphering |QID|554| |N|Loremaster Dibbs - (50.6, 57.1)| |Z|Hills
 T The Ensorcelled Parchment |QID|551| |N|Loremaster Dibbs - (50.6, 57.1)| |Z|Hillsbrad Foothills|
 A Stormpike's Deciphering |QID|554| |N|Loremaster Dibbs - (50.6, 57.1)| |Z|Hillsbrad Foothills|
 F Fly to Arathi Highlands |N|Darla Harris - (49.3, 52.3)| |O| |Z|Hillsbrad Foothills|
-C Thundering Exiles. Loot them for their Thundering Charms |QID|1712| |L|4480 8| |N|Kill Thundering Exiles. Loot them for their Thundering Charms| |O| |C|Warrior| |Z|Hillsbrad Foothills|
+C Collect Thundering Charm (x8) |QID|1712| |L|4480 8| |N|Kill Thundering Exiles. Loot them for their Thundering Charms| |O| |C|Warrior| |Z|Hillsbrad Foothills|
 C Stones of Binding |QID|651| |OIDX|3| |N|the Stone of Outer Binding. Loot it for the Thundering Key (52.0, 50.7)| |Z|Arathi Highlands|
-C Thundering Exiles. Loot them for their Thundering Charms |QID|1712| |L|4480 8| |N|Thundering Exiles. Loot them for their Thundering Charms - (52.1, 51.1)| |C|Warrior| |Z|Arathi Highlands|
+C Collect Thundering Charm (x8) |QID|1712| |L|4480 8| |N|Thundering Exiles. Loot them for their Thundering Charms (52.1, 51.1)| |C|Warrior| |Z|Arathi Highlands|
 R the Circle of West Binding |N|(25.6, 30.3)| |O| |Z|Arathi Highlands|
-C Burning Exiles. Loot them for their Burning Charms |QID|1712| |L|4479 8| |N|Kill Burning Exiles. Loot them for their Burning Charms| |O| |C|Warrior| |Z|Arathi Highlands|
+C Collect Burning Charm (x8) |QID|1712| |L|4479 8| |N|Kill Burning Exiles. Loot them for their Burning Charms| |O| |C|Warrior| |Z|Arathi Highlands|
 C Stones of Binding |QID|651| |OIDX|1| |N|the Stone of West Binding. Loot it for the Burning Key (25.5, 30.1)| |Z|Arathi Highlands|
-C Burning Exiles. Loot them for their Burning Charms |QID|1712| |L|4479 8| |N|Burning Exiles. Loot them for their Burning Charms - (66.8, 29.8)| |C|Warrior| |Z|Arathi Highlands|
+C Collect Burning Charm (x8) |QID|1712| |L|4479 8| |N|Burning Exiles. Loot them for their Burning Charms (66.8, 29.8)| |C|Warrior| |Z|Arathi Highlands|
 R Chillwind Point in Alterac Mountains |N|(79.3, 66.8)| |O| |C|Warrior| |Z|Alterac Mountains|
 C Cyclonian |QID|1712| |OIDX|3| |N|Bath'rah's Cauldron (79.3, 66.8)| |C|Warrior| |Z|Alterac Mountains|
 N Click here for video reference |O| |C|Warrior| |Z|Alterac Mountains|

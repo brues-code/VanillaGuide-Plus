@@ -99,10 +99,21 @@ N [Studies in Spirit Speaking] |N|(35.9, 60.2)| |Z|Ironforge|
 R Bailey Stonemantle |N|(35.9, 60.2)| |Z|Ironforge|
 N [Tinkee's Letter] |N|(35.9, 60.2)| |Z|Ironforge|
 N Buy the following items from the Auction House. You will need these later for a free quest turn in in EPL |N|(23.8, 71.8)| |AH| |Z|Ironforge|
-B an Ironforge Auctioneer |L|12359 2| |N|an Ironforge Auctioneer - (23.8, 71.8)| |AH| |Z|Ironforge|
+B Buy Thorium Bar (x2) |L|12359 2| |N|an Ironforge Auctioneer - (23.8, 71.8)| |AH| |Z|Ironforge|
+B Buy Golden Rod (x1) |L|11128 1| |N|an Ironforge Auctioneer - (23.8, 71.8)| |AH| |Z|Ironforge|
+B Buy Hi-Explosive Bomb (x8) |L|10562 8| |N|an Ironforge Auctioneer - (23.8, 71.8)| |AH| |Z|Ironforge|
+B Buy Unstable Trigger (x8) |L|10560 8| |N|an Ironforge Auctioneer - (23.8, 71.8)| |AH| |Z|Ironforge|
 N Buy the following items from the Auction House. You will need these later for multiple free quest turn ins in EPL |N|(23.8, 71.8)| |AH| |Z|Ironforge|
 N There are 5 different quests and each require 30. If you can't get 30 of one type then skip it |N|(23.8, 71.8)| |AH| |Z|Ironforge|
-B an Ironforge Auctioneer |L|22529 30| |N|an Ironforge Auctioneer - (23.8, 71.8)| |AH| |Z|Ironforge|
+B Buy Savage Frond (x30) |L|22529 30| |N|an Ironforge Auctioneer - (23.8, 71.8)| |AH| |Z|Ironforge|
+B Buy Bone Fragments (x30) |L|22526 30| |N|an Ironforge Auctioneer - (23.8, 71.8)| |AH| |Z|Ironforge|
+B Buy Crypt Fiend Parts (x30) |L|22525 30| |N|an Ironforge Auctioneer - (23.8, 71.8)| |AH| |Z|Ironforge|
+B Buy Core of Elements (x30) |L|22527 30| |N|an Ironforge Auctioneer - (23.8, 71.8)| |AH| |Z|Ironforge|
+B Buy Dark Iron Scraps (x30) |L|22528 30| |N|an Ironforge Auctioneer - (23.8, 71.8)| |AH| |Z|Ironforge|
+B Buy Thorium Bar (x2) |L|12359 2| |N|an Ironforge Auctioneer - (23.8, 71.8)| |AH| |Z|Ironforge|
+B Buy Golden Rod (x1) |L|11128 1| |N|an Ironforge Auctioneer - (23.8, 71.8)| |AH| |Z|Ironforge|
+B Buy Hi-Explosive Bomb (x8) |L|10562 8| |N|an Ironforge Auctioneer - (23.8, 71.8)| |AH| |Z|Ironforge|
+B Buy Unstable Trigger (x8) |L|10560 8| |N|an Ironforge Auctioneer - (23.8, 71.8)| |AH| |Z|Ironforge|
 T The Smoldering Ruins of Thaurissan |QID|3701| |N|Royal Historian Archesonus - (38.4, 55.3)| |Z|Ironforge|
 F Fly to Southshore |N|Gryth - (55.5, 47.7)| |Z|Ironforge|
 

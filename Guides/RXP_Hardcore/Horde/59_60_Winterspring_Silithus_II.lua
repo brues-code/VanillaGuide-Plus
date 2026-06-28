@@ -30,7 +30,10 @@ N Cast [Teleport: Orgrimmar] |C|Mage| |Z|Moonglade|
 N He is located on the upper level in the Drag |N|[Group] (56.5, 46.4)| |P|GROUP| |Z|Orgrimmar|
 T Calm Before the Storm |QID|4509| |N|[Group] Zilzibin - (56.5, 46.4)| |P|GROUP| |Z|Orgrimmar|
 A Calm Before the Storm |QID|4511| |N|[Group] Zilzibin - (56.5, 46.4)| |P|GROUP| |Z|Orgrimmar|
-C If you bought enough cloth earlier, go to the mailbox and retrieve the following |L|2592 60| |N|If you bought enough cloth earlier, go to the mailbox and retrieve the following - (50.7, 70.4)| |O| |AH| |Z|Orgrimmar|
+C Collect Wool Cloth (x60) |L|2592 60| |N|If you bought enough cloth earlier, go to the mailbox and retrieve the following (50.7, 70.4)| |O| |AH| |Z|Orgrimmar|
+C Collect Silk Cloth (x60) |L|4306 60| |N|If you bought enough cloth earlier, go to the mailbox and retrieve the following (50.7, 70.4)| |O| |AH| |Z|Orgrimmar|
+C Collect Mageweave Cloth (x60) |L|4338 60| |N|If you bought enough cloth earlier, go to the mailbox and retrieve the following (50.7, 70.4)| |O| |AH| |Z|Orgrimmar|
+C Collect Runecloth (x60) |L|14047 60| |N|If you bought enough cloth earlier, go to the mailbox and retrieve the following (50.7, 70.4)| |O| |AH| |Z|Orgrimmar|
 N Disable any other addons that automatically turn in reputation items, or you'll be told to buy cloth again later |N|(63.6, 51.2)| |Z|Orgrimmar|
 N Skip any of the donations which you do not have enough cloth for |N|(63.6, 51.2)| |Z|Orgrimmar|
 T A Donation of Wool |QID|7826| |N|Rashona - (63.6, 51.2)| |Z|Orgrimmar|

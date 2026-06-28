@@ -7,7 +7,7 @@ N 56-58 Western PL/Eastern PL |N|Converted from RestedXP guide|
 R Travel to Tirisfal Glades |N|(61.9, 64.8)| |O| |C|Mage| |Z|Tirisfal Glades|
 T A Call to Arms: The Plaguelands! |QID|5095| |N|the Bulwark, then talk to Derrington - (83.2, 68.9)| |Z|Tirisfal Glades|
 A Scarlet Diversions |QID|5096| |N|the Bulwark, then talk to Derrington - (83.2, 68.9)| |Z|Tirisfal Glades|
-C the Box of Incendiaries by the fire |QID|5096| |L|12814 1| |N|the Box of Incendiaries by the fire - (26.6, 56.2)| |Z|Western Plaguelands|
+C Collect Flame in a Bottle (x1) |QID|5096| |L|12814 1| |N|the Box of Incendiaries by the fire (26.6, 56.2)| |Z|Western Plaguelands|
 T The Everlook Report |QID|6029| |N|Garush - (83.2, 68.5)| |Z|Tirisfal Glades|
 T Argent Dawn Commission |QID|5405| |N|Garush - (83.2, 68.5)| |Z|Tirisfal Glades|
 A A Plague Upon Thee |QID|5901| |N|Mickey - (83.3, 72.3)| |Z|Tirisfal Glades|
@@ -34,9 +34,9 @@ T Target: Dalson's Tears |QID|5231| |N|the Scourge Cauldron roiling atop the dai
 A Return to the Bulwark |QID|5232| |N|the Scourge Cauldron roiling atop the dais - (46.2, 52.0)| |Z|Western Plaguelands|
 T Mrs. Dalson's Diary |QID|5058| |N|Mrs. Dalson's Diary - (47.8, 50.6)| |Z|Western Plaguelands|
 N Grind Bone Fragments if the skeleton isn't spawned |N|(47.5, 51.0)| |Z|Western Plaguelands|
-C the Wandering Skeleton. Loot it for its Outhouse Key |L|12738 1| |N|the Wandering Skeleton. Loot it for its Outhouse Key - (47.5, 51.0)| |Z|Western Plaguelands|
+C Collect Dalson Outhouse Key (x1) |L|12738 1| |N|the Wandering Skeleton. Loot it for its Outhouse Key (47.5, 51.0)| |Z|Western Plaguelands|
 T Locked Away |QID|5059| |N|the Outhouse - (48.2, 49.7)| |O| |Z|Western Plaguelands|
-C Farmer Dalson. Loot him for his Cabinet Key |QID|5060| |L|12739 1| |N|Farmer Dalson. Loot him for his Cabinet Key - (48.2, 49.7)| |Z|Western Plaguelands|
+C Collect Dalson Cabinet Key (x1) |QID|5060| |L|12739 1| |N|Farmer Dalson. Loot him for his Cabinet Key (48.2, 49.7)| |Z|Western Plaguelands|
 T Locked Away |QID|5060| |N|the Locked Cabinet on the top floor of the house - (47.4, 49.7)| |Z|Western Plaguelands|
 A A Matter of Time |QID|4971| |N|Chromie on the top floor of the inn - (39.5, 66.8)| |Z|Western Plaguelands|
 N Do not engage the elite inside |N|(44.2, 63.1)| |Z|Western Plaguelands|
@@ -103,11 +103,11 @@ A Un-Life's Little Annoyances |QID|6042| |N|Nathanos - (26.6, 74.7)| |Z|Eastern 
 T Sister Pamela |QID|5601| |N|Pamela - (36.5, 90.8)| |Z|Eastern Plaguelands|
 A Pamela's Doll |QID|5149| |N|Pamela - (36.5, 90.8)| |Z|Eastern Plaguelands|
 N Clicking the doll pieces can spawn a few Ghosts of the Past which have ice armor and frost shock |N|(38.1, 92.2)| |Z|Eastern Plaguelands|
-C the 3 Doll Parts on the floor in ruined buildings |QID|5149| |L|12886 1| |N|the 3 Doll Parts on the floor in ruined buildings - (38.1, 92.2)| |Z|Eastern Plaguelands|
+C Collect Pamela's Doll's Head (x1) |QID|5149| |L|12886 1| |N|the 3 Doll Parts on the floor in ruined buildings (38.1, 92.2)| |Z|Eastern Plaguelands|
 N Clicking the doll pieces can spawn a few Ghosts of the Past which have ice armor and frost shock |N|(39.6, 92.5)| |Z|Eastern Plaguelands|
-C the 3 Doll Parts on the floor in ruined buildings |QID|5149| |L|12887 1| |N|the 3 Doll Parts on the floor in ruined buildings - (39.6, 92.5)| |Z|Eastern Plaguelands|
+C Collect Pamela's Doll's Left Side (x1) |QID|5149| |L|12887 1| |N|the 3 Doll Parts on the floor in ruined buildings (39.6, 92.5)| |Z|Eastern Plaguelands|
 N Clicking the doll pieces can spawn a few Ghosts of the Past which have ice armor and frost shock |N|(39.7, 90.2)| |Z|Eastern Plaguelands|
-C the 3 Doll Parts on the floor in ruined buildings |QID|5149| |L|12888 1| |N|the 3 Doll Parts on the floor in ruined buildings - (39.7, 90.2)| |Z|Eastern Plaguelands|
+C Collect Pamela's Doll's Right Side (x1) |QID|5149| |L|12888 1| |N|the 3 Doll Parts on the floor in ruined buildings (39.7, 90.2)| |Z|Eastern Plaguelands|
 C Pamela's Doll |QID|5149| |OIDX|1| |N|Click [Pamela's Doll's Head] to combine the three pieces (36.5, 90.8)| |Z|Eastern Plaguelands|
 T Pamela's Doll |QID|5149| |N|Pamela - (36.5, 90.8)| |Z|Eastern Plaguelands|
 A Auntie Marlene |QID|5152| |N|Pamela - (36.5, 90.8)| |Z|Eastern Plaguelands|
@@ -117,7 +117,7 @@ C Demon Dogs |QID|5542| |OIDX|1| |N|Plaguebats and Plaguehound Runts (34.2, 82.2
 C Demon Dogs |QID|5542| |OIDX|2| |N|Kill Plaguehound and Noxious Plaguebats| |O| |Z|Eastern Plaguelands|
 C Un-Life's Little Annoyances |QID|6042| |OIDX|1| |N|Kill Plaguehound and Noxious Plaguebats| |O| |Z|Eastern Plaguelands|
 N Groups of elites patrol the north and east road. Invisible mobs patrol inside of Corrin's Crossing, so try to pull mobs out |O| |Z|Eastern Plaguelands|
-C Undead. Loot them for their Living Rot. |L|15447 7| |N|Kill Undead. Loot them for their Living Rot.| |O| |Z|Eastern Plaguelands|
+C Collect Living Rot (x7) |L|15447 7| |N|Kill Undead. Loot them for their Living Rot.| |O| |Z|Eastern Plaguelands|
 C To Kill With Purpose |QID|6022| |OIDX|1| |N|Use the [Mortar and Pestle] before the Living Rot expires (58.0, 67.6)| |Z|Eastern Plaguelands|
 C Demon Dogs |QID|5542| |OIDX|2| |N|Plaguehound and Noxious Plaguebats (77.9, 69.6)| |Z|Eastern Plaguelands|
 C Un-Life's Little Annoyances |QID|6042| |OIDX|1| |N|Plaguehound and Noxious Plaguebats (77.9, 69.6)| |Z|Eastern Plaguelands|
@@ -198,8 +198,14 @@ N [Filled Vial Labeled #2] |N|(66.0, 44.9)| |Z|Undercity|
 N [Filled Vial Labeled #3] |N|(66.0, 44.9)| |Z|Undercity|
 N [Filled Vial Labeled #4] |N|(66.0, 44.9)| |Z|Undercity|
 N Buy 240 of each type of cloth on the auction house |N|(67.7, 35.9)| |O| |AH| |Z|Undercity|
-B Cain |L|2592 240| |N|Cain - (67.7, 35.9)| |O| |AH| |Z|Undercity|
-C the mailbox and retrieve the following |L|2592 60| |N|(68.2, 38.3)| |O| |AH| |Z|Undercity|
+B Buy Wool Cloth (x240) |L|2592 240| |N|Cain - (67.7, 35.9)| |O| |AH| |Z|Undercity|
+B Buy Silk Cloth (x240) |L|4306 240| |N|Cain - (67.7, 35.9)| |O| |AH| |Z|Undercity|
+B Buy Mageweave Cloth (x240) |L|4338 240| |N|Cain - (67.7, 35.9)| |O| |AH| |Z|Undercity|
+B Buy Runecloth (x240) |L|14047 240| |N|Cain - (67.7, 35.9)| |O| |AH| |Z|Undercity|
+C Collect Wool Cloth (x60) |L|2592 60| |N|(68.2, 38.3)| |O| |AH| |Z|Undercity|
+C Collect Silk Cloth (x60) |L|4306 60| |N|Collect Wool Cloth (x60) (68.2, 38.3)| |O| |AH| |Z|Undercity|
+C Collect Mageweave Cloth (x60) |L|4338 60| |N|Collect Wool Cloth (x60) (68.2, 38.3)| |O| |AH| |Z|Undercity|
+C Collect Runecloth (x60) |L|14047 60| |N|Collect Wool Cloth (x60) (68.2, 38.3)| |O| |AH| |Z|Undercity|
 N Disable any other addons that automatically turn in reputation items, or you'll be told to buy cloth again later |N|(71.7, 29.2)| |Z|Undercity|
 N Skip any of the donations which you do not have enough cloth for |N|(71.7, 29.2)| |Z|Undercity|
 T A Donation of Wool |QID|7813| |N|Ralston - (71.7, 29.2)| |Z|Undercity|
@@ -214,8 +220,12 @@ T Delivery to Andron Gant |QID|3542| |N|Andron - (54.8, 76.3)| |Z|Undercity|
 A Andron's Payment to Jediga |QID|3564| |N|Andron - (54.8, 76.3)| |Z|Undercity|
 N Buy the following items from the Auction House. You will need these later for multiple free quest turn ins in EPL |N|(71.4, 46.7)| |AH| |Z|Undercity|
 N There are 5 different quests and each require 30. If you can't get 30 of one type then skip it |N|(71.4, 46.7)| |AH| |Z|Undercity|
-B Auctioneer Stockton in the Trade Quarter |L|22529 30| |N|Auctioneer Stockton in the Trade Quarter - (71.4, 46.7)| |AH| |Z|Undercity|
-C Take out [Black Dragonflight Molt] from your bank if you completed the quest in Searing Gorge for it earlier. You will need it |QID|4022| |L|10575 1| |N|Take out [Black Dragonflight Molt] from your bank if you completed the quest in Searing Gorge for it earlier. You will need it (BRD Dungeon Quest)| |D|BRD| |Z|Undercity|
+B Buy Savage Frond (x30) |L|22529 30| |N|Auctioneer Stockton in the Trade Quarter - (71.4, 46.7)| |AH| |Z|Undercity|
+B Buy Bone Fragments (x30) |L|22526 30| |N|Auctioneer Stockton in the Trade Quarter - (71.4, 46.7)| |AH| |Z|Undercity|
+B Buy Crypt Fiend Parts (x30) |L|22525 30| |N|Auctioneer Stockton in the Trade Quarter - (71.4, 46.7)| |AH| |Z|Undercity|
+B Buy Core of Elements (x30) |L|22527 30| |N|Auctioneer Stockton in the Trade Quarter - (71.4, 46.7)| |AH| |Z|Undercity|
+B Buy Dark Iron Scraps (x30) |L|22528 30| |N|Auctioneer Stockton in the Trade Quarter - (71.4, 46.7)| |AH| |Z|Undercity|
+C Collect Black Dragonflight Molt (x1) |QID|4022| |L|10575 1| |N|Take out [Black Dragonflight Molt] from your bank if you completed the quest in Searing Gorge for it earlier. You will need it (BRD Dungeon Quest)| |D|BRD| |Z|Undercity|
 R Enter the Royal Quarter |N|(52.9, 89.6)| |O| |Z|Undercity|
 A The Champion of the Banshee Queen |QID|5961| |N|Sylvanas - (58.1, 91.8)| |Z|Undercity|
 F Fly to Light's Hope Chapel |N|Michael - (63.3, 48.5)| |O| |Z|Undercity|
@@ -296,7 +306,7 @@ T A Taste of Flame |QID|4022| |N|Cyrus Therepentous - (95.1, 31.6) (BRD Dungeon 
 N If you are missing the [Black Dragonflight Molt] and cannot complete the quest, talk to Cyrus and select the option: "I do not possess any proof, Cyrus." |N|(95.1, 31.6) (BRD Dungeon Quest)| |D|BRD| |Z|Burning Steppes|
 N This will spawn a level 54 Elite Dragon at the entrance of the small cave. Ensure you have party members with you to help kill it, then loot it for the [Black Dragonflight Molt] |N|(95.1, 31.6) (BRD Dungeon Quest)| |D|BRD| |Z|Burning Steppes|
 N Select the option after: "I present you with proof of my deeds, Cyrus." |N|(95.1, 31.6) (BRD Dungeon Quest)| |D|BRD| |Z|Burning Steppes|
-C Cyrus Therepentous |QID|4022| |L|10575 1| |N|Cyrus Therepentous - (95.1, 31.6) (BRD Dungeon Quest)| |D|BRD| |Z|Burning Steppes|
+C Collect Black Dragonflight Molt (x1) |QID|4022| |L|10575 1| |N|Cyrus Therepentous (95.1, 31.6) (BRD Dungeon Quest)| |D|BRD| |Z|Burning Steppes|
 A A Taste of Flame |QID|4022| |N|Cyrus Therepentous - (95.1, 31.6) (BRD Dungeon Quest)| |D|BRD| |Z|Burning Steppes|
 T A Taste of Flame |QID|4022| |N|Cyrus Therepentous - (95.1, 31.6) (BRD Dungeon Quest)| |D|BRD| |Z|Burning Steppes|
 A A Taste of Flame |QID|4024| |N|Cyrus Therepentous - (95.1, 31.6) (BRD Dungeon Quest)| |D|BRD| |Z|Burning Steppes|

@@ -50,6 +50,8 @@ C x20,cooking --Chunk of Boar Meat (10-50) |QID|2178| |L|769 50| |N|Mountain Boa
 N Kill Mountain Boars. Loot them for their Boar Intestines |O| |Z|Ironforge|
 N Kill Forest Lurkers. Loot them for their Ichor |O| |Z|Ironforge|
 C Collect Boar Intestines (x3) |QID|418| |L|3172 3| |N|Kill Elder Black Bears. Loot them for their Bear Meat| |O| |Z|Ironforge|
+C Collect Bear Meat (x3) |QID|418| |L|3173 3| |N|Kill Elder Black Bears. Loot them for their Bear Meat| |O| |Z|Ironforge|
+C Collect Spider Ichor (x3) |QID|418| |L|3174 3| |N|Kill Elder Black Bears. Loot them for their Bear Meat| |O| |Z|Ironforge|
 R Travel to Loch Modan |N|(37.7, 16.8)| |O| |Z|Loch Modan|
 C Collect Tunnel Rat Ear (x12) |QID|416| |OIDX|1| |N|(37.7, 16.8)| |O| |Z|Loch Modan|
 R Enter the Silver Stream Mine |N|(35.5, 19.0)| |O| |Z|Loch Modan|
@@ -62,6 +64,8 @@ C x20,cooking --Chunk of Boar Meat (10-50) |QID|2178| |L|769 50| |N|Mountain Boa
 N Kill Mountain Boars. Loot them for their Boar Intestines |O| |Z|Ironforge|
 N Kill Forest Lurkers. Loot them for their Ichor |O| |Z|Ironforge|
 C Collect Boar Intestines (x3) |QID|418| |L|3172 3| |N|Kill Elder Black Bears. Loot them for their Bear Meat| |O| |Z|Ironforge|
+C Collect Bear Meat (x3) |QID|418| |L|3173 3| |N|Kill Elder Black Bears. Loot them for their Bear Meat| |O| |Z|Ironforge|
+C Collect Spider Ichor (x3) |QID|418| |L|3174 3| |N|Kill Elder Black Bears. Loot them for their Bear Meat| |O| |Z|Ironforge|
 R Travel to Loch Modan |N|(23.5, 18.0)| |O| |Z|Loch Modan|
 R Enter the Bunker |N|(24.3, 18.0)| |O| |Z|Loch Modan|
 B Vendor and repair if needed |N|Gothor Brumn - (24.1, 18.2)| |O| |Z|Loch Modan|
@@ -74,6 +78,10 @@ C x20,cooking --Chunk of Boar Meat (10-50) |QID|2178| |L|769 50| |N|Mountain Boa
 N Kill Mountain Boars. Loot them for their Boar Intestines |N|(26.9, 10.7)| |Z|Ironforge|
 N Kill Forest Lurkers. Loot them for their Ichor |N|(26.9, 10.7)| |Z|Ironforge|
 C Bear Meat (3) |QID|418| |L|3173 3| |N|Kill Elder Black Bears. Loot them for their Bear Meat (26.9, 10.7)| |Z|Ironforge|
+R Travel to Loch Modan |N|(26.9, 10.7)| |Z|Loch Modan|
+C Boar Intestines (3) |QID|418| |L|3172 3| |N|Kill Elder Black Bears. Loot them for their Bear Meat (26.9, 10.7)| |Z|Loch Modan|
+R Travel to Loch Modan |N|(38.0, 34.9)| |Z|Loch Modan|
+C Spider Ichor (3) |QID|418| |L|3174 3| |N|Kill Elder Black Bears. Loot them for their Bear Meat (38.0, 34.9)| |Z|Loch Modan|
 R Travel to Loch Modan |N|(31.9, 16.4)| |Z|Loch Modan|
 N Mountaineer Kadrell patrols the road through Thelsamar |N|(36.8, 46.2)| |Z|Loch Modan|
 T Rat Catching |QID|416| |N|Mountaineer Kadrell - (36.8, 46.2)| |Z|Loch Modan|

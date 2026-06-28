@@ -6,7 +6,7 @@ N 24-27 Duskwood/Redridge |N|Converted from RestedXP guide|
 
 A The Tome of Valor |QID|1650| |N|Duthorian Rall - (39.8, 29.8)| |C|Paladin| |Z|Stormwind City|
 N Buy [Stormwind Seasoning Herbs] |N|(64.2, 60.6)| |Z|Stormwind City|
-B Felicia Gump |L|2665 1| |N|Felicia Gump - (64.2, 60.6)| |Z|Stormwind City|
+B Buy Stormwind Seasoning Herbs (x1) |L|2665 1| |N|Felicia Gump - (64.2, 60.6)| |Z|Stormwind City|
 R Go into The Slaughtered Lamb. Go downstairs |N|(27.2, 78.1)| |O| |C|Warlock| |Z|Stormwind City|
 t Train your class spells |N|Ursula Deline - (26.1, 77.2)| |C|Warlock| |Z|Stormwind City|
 B Buy [Grimoires] for your [Succubus] which you will have in a second. If you have extra gold also buy them for your [Voidwalker] |N|Spackle Thornberry - (25.7, 77.6)| |C|Warlock| |Z|Stormwind City|
@@ -21,7 +21,7 @@ A Devils in Westfall |QID|1076| |N|Collin Mauren - (43.1, 80.4)| |Z|Stormwind Ci
 R Innkeeper Allison |N|(52.6, 65.7)| |C|Rogue| |Z|Stormwind City|
 h Stormwind City |N|Set hearth in Stormwind City (52.6, 65.7)| |C|Rogue| |Z|Stormwind City|
 B Buy a [Rune of Teleportation] from her |N|Kyra Boucher - (56.1, 65.2)| |O| |C|Mage| |Z|Stormwind City|
-B Kyra Boucher |L|17031 1| |N|Kyra Boucher - (56.1, 65.2)| |O| |C|Mage| |Z|Stormwind City|
+B Buy Rune of Teleportation (x1) |L|17031 1| |N|Kyra Boucher - (56.1, 65.2)| |O| |C|Mage| |Z|Stormwind City|
 F Fly to Westfall |N|Dungar Longdrink - (66.3, 62.1)| |O| |Z|Stormwind City|
 R Travel to Duskwood |N|(7.7, 33.3)| |Z|Duskwood|
 N Do NOT accept the quest Sven's Revenge from Sven Yorgen |N|(7.7, 33.3)| |Z|Duskwood|
@@ -29,7 +29,7 @@ A Wolves at Our Heels |QID|226| |N|Lars - (7.7, 33.3)| |Z|Duskwood|
 R Darkshire |N|(75.8, 45.3)| |O| |Z|Duskwood|
 N You don't have to kill all Wolves now. Save the Lean Wolf Flanks for a later quest |O| |Z|Duskwood|
 C Wolves at Our Heels |QID|226| |OIDX|1| |N|Kill Starving Dire Wolves and Rabid Dire Wolves en-route. Loot them for their Lean Wolf Flanks| |O| |Z|Duskwood|
-C Starving Dire Wolves and Rabid Dire Wolves en-route. Loot them for their Lean Wolf Flanks |QID|90| |L|1015 10| |N|Kill Starving Dire Wolves and Rabid Dire Wolves en-route. Loot them for their Lean Wolf Flanks| |O| |Z|Duskwood|
+C Collect Lean Wolf Flank (x10) |QID|90| |L|1015 10| |N|Kill Starving Dire Wolves and Rabid Dire Wolves en-route. Loot them for their Lean Wolf Flanks| |O| |Z|Duskwood|
 A The Legend of Stalvan |QID|66| |N|Madame Eva - (75.8, 45.3)| |Z|Duskwood|
 A The Totem of Infliction |QID|101| |N|Madame Eva - (75.8, 45.3)| |Z|Duskwood|
 R Innkeeper Trelayne |N|(73.9, 44.4)| |C|!Rogue| |Z|Duskwood|
@@ -50,7 +50,7 @@ T Look To The Stars |QID|174| |N|Viktori Prism'Antras - (79.8, 48.0)| |Z|Duskwoo
 A Look To The Stars |QID|175| |N|Viktori Prism'Antras - (79.8, 48.0)| |Z|Duskwood|
 T Look To The Stars |QID|175| |N|Blind Mary - (81.5, 59.0)| |Z|Duskwood|
 A Look To The Stars |QID|177| |N|Blind Mary - (81.5, 59.0)| |Z|Duskwood|
-C If you loot [An Old History Book] start the quest. This is a zone-wide drop in Duskwood |QID|337| |L|2794 1| |N|If you loot [An Old History Book] start the quest. This is a zone-wide drop in Duskwood| |O| |Z|Duskwood|
+C Collect An Old History Book (x1) |QID|337| |L|2794 1| |N|If you loot [An Old History Book] start the quest. This is a zone-wide drop in Duskwood| |O| |Z|Duskwood|
 A An Old History Book |QID|337| |N|If you loot [An Old History Book] start the quest. This is a zone-wide drop in Duskwood| |O| |Z|Duskwood|
 N Skeletal Warriors apply [Hamstring] |O| |Z|Duskwood|
 N Skeletal Mages cast [Frostbolt] and also snare with [Frost Armor] |O| |Z|Duskwood|
@@ -67,7 +67,7 @@ T The Hermit |QID|165| |N|Abercrombie - (28.1, 31.5)| |Z|Duskwood|
 A Supplies from Darkshire |QID|148| |N|Abercrombie - (28.1, 31.5)| |Z|Duskwood|
 C Wolves at Our Heels |QID|226| |OIDX|1| |N|Starving Dire Wolves and Rabid Dire Wolves (36.2, 24.7)| |Z|Duskwood|
 C Wolves at Our Heels |QID|226| |OIDX|1| |N|Starving Dire Wolves and Rabid Dire Wolves. Loot them for their Lean Wolf Flanks (36.2, 24.7)| |Z|Duskwood|
-C Starving Dire Wolves and Rabid Dire Wolves. Loot them for their Lean Wolf Flanks |QID|90| |L|1015 10| |N|Starving Dire Wolves and Rabid Dire Wolves. Loot them for their Lean Wolf Flanks - (36.2, 24.7)| |Z|Duskwood|
+C Collect Lean Wolf Flank (x10) |QID|90| |L|1015 10| |N|Starving Dire Wolves and Rabid Dire Wolves. Loot them for their Lean Wolf Flanks (36.2, 24.7)| |Z|Duskwood|
 T Deliveries to Sven |QID|164| |N|Sven Yorgen - (7.8, 34.1)| |Z|Duskwood|
 A Sven's Revenge |QID|95| |N|Sven Yorgen - (7.8, 34.1)| |Z|Duskwood|
 N Lars |N|(7.7, 33.3)| |Z|Duskwood|
@@ -101,7 +101,7 @@ C Devils in Westfall |QID|1076| |OIDX|1| |N|Dust Devils. Loot them for their Deb
 T The Legend of Stalvan |QID|67| |N|the Old Footlocker on the ground - (41.5, 66.7)| |Z|Westfall|
 A The Legend of Stalvan |QID|68| |N|the Old Footlocker on the ground - (41.5, 66.7)| |Z|Westfall|
 R Swim out to sea |N|(17.9, 33.1)| |O| |C|Druid| |Z|Westfall|
-C the Strange Lockbox. Loot it for the Half Pendant of Aquatic Endurance |QID|272| |L|15882 1| |N|the Strange Lockbox. Loot it for the Half Pendant of Aquatic Endurance - (17.9, 33.1)| |C|Druid| |Z|Westfall|
+C Collect Half Pendant of Aquatic Endurance (x1) |QID|272| |L|15882 1| |N|the Strange Lockbox. Loot it for the Half Pendant of Aquatic Endurance (17.9, 33.1)| |C|Druid| |Z|Westfall|
 N Cast Teleport: Moonglade |O| |C|Druid| |Z|Westfall|
 R Travel to Moonglade |N|(36.0, 41.4)| |C|Druid| |Z|Moonglade|
 C Use the [Half Pendant of Aquatic Agility] to combine it with the [Half Pendant of Aquatic Endurance] at the Shrine of Remulos |QID|272| |OIDX|1| |N|Use the [Half Pendant of Aquatic Agility] to combine it with the [Half Pendant of Aquatic Endurance] at the Shrine of Remulos - (36.0, 41.4)| |C|Druid| |Z|Moonglade|
@@ -166,12 +166,12 @@ N Redridge Bashers also share spawns with Redridge Drudgers so you may need to k
 N Redridge Drudgers attack very fast and Redridge Bashers have a [Knockdown] stun |N|(19.0, 23.5)| |Z|Redridge Mountains|
 C Rethban Ore |QID|347| |OIDX|1| |N|Kill Redridge Drudgers. Loot them for their Ore (19.0, 23.5)| |Z|Redridge Mountains|
 T An Unwelcome Guest |QID|34| |N|Martie Jainrose - (21.9, 46.3)| |Z|Redridge Mountains|
-C Murloc Scouts and Murloc Tidecallers. Loot them for their Fins and Sunfish |QID|150| |L|1468 8| |N|Murloc Scouts and Murloc Tidecallers. Loot them for their Fins and Sunfish - (56.4, 51.8)| |O| |Z|Redridge Mountains|
+C Collect Murloc Fin (x8) |QID|150| |L|1468 8| |N|Murloc Scouts and Murloc Tidecallers. Loot them for their Fins and Sunfish (56.4, 51.8)| |O| |Z|Redridge Mountains|
 C Selling Fish |QID|127| |OIDX|1| |N|Murloc Scouts and Murloc Tidecallers. Loot them for their Fins and Sunfish (56.4, 51.8)| |O| |Z|Redridge Mountains|
 N Be aware the Blackrock Outrunners will cast [Net] on you |N|(61.8, 43.5)| |Z|Redridge Mountains|
 N Alternate between killing Orcs and the Murlocs marked on the map southwest |N|(61.8, 43.5)| |Z|Redridge Mountains|
 C Blackrock Menace |QID|20| |OIDX|1| |N|Kill Blackrock Grunts and Blackrock Outrunners. Loot them for their Axes (61.8, 43.5)| |Z|Redridge Mountains|
-C Murloc Scouts and Murloc Tidecallers. Loot them for their Fins and Sunfish |QID|150| |L|1468 8| |N|Murloc Scouts and Murloc Tidecallers. Loot them for their Fins and Sunfish - (56.4, 51.8)| |Z|Redridge Mountains|
+C Collect Murloc Fin (x8) |QID|150| |L|1468 8| |N|Murloc Scouts and Murloc Tidecallers. Loot them for their Fins and Sunfish (56.4, 51.8)| |Z|Redridge Mountains|
 C Selling Fish |QID|127| |OIDX|1| |N|Murloc Scouts and Murloc Tidecallers. Loot them for their Fins and Sunfish (56.4, 51.8)| |Z|Redridge Mountains|
 T Blackrock Menace |QID|20| |N|Marshal Marris - (33.5, 49.0)| |Z|Redridge Mountains|
 T Selling Fish |QID|127| |N|Dockmaster Baren - (27.7, 47.4)| |Z|Redridge Mountains|
@@ -185,7 +185,7 @@ T Look To The Stars |QID|174| |N|Viktori Prism'Antras - (79.8, 48.0)| |Z|Duskwoo
 A Look To The Stars |QID|175| |N|Viktori Prism'Antras - (79.8, 48.0)| |Z|Duskwood|
 T Look To The Stars |QID|175| |N|Blind Mary - (81.5, 59.0)| |Z|Duskwood|
 A Look To The Stars |QID|177| |N|Blind Mary - (81.5, 59.0)| |Z|Duskwood|
-C If you loot [An Old History Book] start the quest. This is a zone-wide drop in Duskwood |QID|337| |L|2794 1| |N|If you loot [An Old History Book] start the quest. This is a zone-wide drop in Duskwood| |O| |Z|Duskwood|
+C Collect An Old History Book (x1) |QID|337| |L|2794 1| |N|If you loot [An Old History Book] start the quest. This is a zone-wide drop in Duskwood| |O| |Z|Duskwood|
 A An Old History Book |QID|337| |N|If you loot [An Old History Book] start the quest. This is a zone-wide drop in Duskwood| |O| |Z|Duskwood|
 N The Insane Ghoul may be inside of the chapel or walking around outside |N|(81.0, 71.7)| |Z|Duskwood|
 C Look To The Stars |QID|177| |OIDX|1| |N|the Insane Ghoul. Loot him for Mary's Looking Glass (81.0, 71.7)| |Z|Duskwood|
@@ -216,7 +216,7 @@ R Travel to Stormwind City |N|(70.0, 86.9)| |O| |C|!Mage| |Z|Stormwind City|
 t Train your class spells |N|Jennea - (36.9, 81.1)| |C|Mage| |Z|Stormwind City|
 T Devils in Westfall |QID|1076| |N|Collin Mauren - (43.1, 80.4)| |Z|Stormwind City|
 B Buy 2 [Rune of Teleportations] from her |N|Kyra Boucher - (56.1, 65.2)| |O| |C|Mage| |Z|Stormwind City|
-B Kyra Boucher |L|17031 2| |N|Kyra Boucher - (56.1, 65.2)| |O| |C|Mage| |Z|Stormwind City|
+B Buy Rune of Teleportation (x2) |L|17031 2| |N|Kyra Boucher - (56.1, 65.2)| |O| |C|Mage| |Z|Stormwind City|
 R Head to the Slaughtered Lamb and go downstairs |N|(27.2, 78.1)| |O| |Z|Stormwind City|
 A A Noble Brew |QID|335| |N|Zardeth of the Black Claw - (26.4, 78.7)| |Z|Stormwind City|
 t Train your class spells |N|Ursula Deline - (26.1, 77.2)| |C|Warlock| |Z|Stormwind City|
@@ -246,7 +246,7 @@ N Kill Dextren Ward on the west prison wing. Loot him for his Hand |N|(Stockades
 C Kill Targorr the Dread. Loot him for his Head. Targorr has a random spawn location |N|Kill Targorr the Dread. Loot him for his Head. Targorr has a random spawn location (Stockades Dungeon Quest)| |D|Stockades| |Z|Stormwind City|
 N Ensure you have 3 [Silk Cloth] for the follow up of this quest chain |N|(Stockades Dungeon Quest)| |D|Stockades| |Z|Stormwind City|
 C The Stockade Riots |QID|391| |OIDX|1| |N|Kill Bazil Thredd on the east prison wing. Loot him for his Head (Stockades Dungeon Quest)| |D|Stockades| |Z|Stormwind City|
-C Bazil Thredd on the east prison wing. Loot him for his Head |QID|2746| |L|4306 3| |N|Kill Bazil Thredd on the east prison wing. Loot him for his Head (Stockades Dungeon Quest)| |D|Stockades| |Z|Stormwind City|
+C Collect Silk Cloth (x3) |QID|2746| |L|4306 3| |N|Kill Bazil Thredd on the east prison wing. Loot him for his Head (Stockades Dungeon Quest)| |D|Stockades| |Z|Stormwind City|
 T Quell The Uprising |QID|387| |N|Warden Thelwater - (41.1, 58.1) (Stockades Dungeon Quest)| |D|Stockades| |Z|Stormwind City|
 T The Stockade Riots |QID|391| |N|Warden Thelwater - (41.1, 58.1) (Stockades Dungeon Quest)| |D|Stockades| |Z|Stormwind City|
 A The Curious Visitor |QID|392| |N|Warden Thelwater - (41.1, 58.1) (Stockades Dungeon Quest)| |D|Stockades| |Z|Stormwind City|
@@ -266,7 +266,7 @@ T Look To The Stars |QID|174| |N|Viktori Prism'Antras - (79.8, 48.0)| |Z|Duskwoo
 A Look To The Stars |QID|175| |N|Viktori Prism'Antras - (79.8, 48.0)| |Z|Duskwood|
 T Look To The Stars |QID|175| |N|Blind Mary - (81.5, 59.0)| |Z|Duskwood|
 A Look To The Stars |QID|177| |N|Blind Mary - (81.5, 59.0)| |Z|Duskwood|
-C If you loot [An Old History Book] start the quest. This is a zone-wide drop in Duskwood |QID|337| |L|2794 1| |N|If you loot [An Old History Book] start the quest. This is a zone-wide drop in Duskwood| |O| |Z|Duskwood|
+C Collect An Old History Book (x1) |QID|337| |L|2794 1| |N|If you loot [An Old History Book] start the quest. This is a zone-wide drop in Duskwood| |O| |Z|Duskwood|
 A An Old History Book |QID|337| |N|If you loot [An Old History Book] start the quest. This is a zone-wide drop in Duskwood| |O| |Z|Duskwood|
 N The Insane Ghoul may be inside of the chapel or walking around outside |N|(81.0, 71.7)| |Z|Duskwood|
 C Look To The Stars |QID|177| |OIDX|1| |N|the Insane Ghoul. Loot him for Mary's Looking Glass (81.0, 71.7)| |Z|Duskwood|
@@ -282,7 +282,7 @@ T Inquire at the Inn |QID|266| |N|Tavernkeep Smitts - (73.8, 44.5)| |Z|Duskwood|
 A Finding the Shadowy Figure |QID|453| |N|Tavernkeep Smitts - (73.8, 44.5)| |Z|Duskwood|
 R Innkeeper Trelayne |N|(73.9, 44.4)| |C|Rogue| |Z|Duskwood|
 h Duskwood |N|Set hearth in Duskwood (73.9, 44.4)| |C|Rogue| |Z|Duskwood|
-C If you loot [An Old History Book] start the quest. This is a zone-wide drop in Duskwood |QID|337| |L|2794 1| |N|If you loot [An Old History Book] start the quest. This is a zone-wide drop in Duskwood| |O| |Z|Duskwood|
+C Collect An Old History Book (x1) |QID|337| |L|2794 1| |N|If you loot [An Old History Book] start the quest. This is a zone-wide drop in Duskwood| |O| |Z|Duskwood|
 A An Old History Book |QID|337| |N|If you loot [An Old History Book] start the quest. This is a zone-wide drop in Duskwood| |O| |Z|Duskwood|
 R Raven Hill Cemetery |N|(22.9, 44.8)| |O| |Z|Duskwood|
 C The Night Watch |QID|57| |OIDX|1| |N|Skeletal Fiends and Skeletal Horrors. Loot them for their Rot Blossoms (21.2, 47.1)| |Z|Duskwood|

@@ -27,7 +27,7 @@ N Open the [Pirate's Footlocker] until you find the [Ship Schedule] |O| |Z|Tanar
 N Don't start the quest for the [Ship Schedule] yet |O| |Z|Tanaris|
 C Southsea Shakedown |QID|8366| |OIDX|1| |N|Kill Southsea Pirates, Southsea Freebooters, Southsea Dock Workers and Southsea Swashbucklers. Loot them for their Pirate Hats and [Pirate's Footlocker]| |O| |Z|Tanaris|
 C Pirate Hats Ahoy! |QID|8365| |OIDX|1| |N|Kill Southsea Pirates, Southsea Freebooters, Southsea Dock Workers and Southsea Swashbucklers. Loot them for their Pirate Hats and [Pirate's Footlocker]| |O| |Z|Tanaris|
-C Southsea Pirates, Southsea Freebooters, Southsea Dock Workers and Southsea Swashbucklers. Loot them for their Pirate Hats and [Pirate's Footlocker] |QID|2876| |L|9250 1| |N|Kill Southsea Pirates, Southsea Freebooters, Southsea Dock Workers and Southsea Swashbucklers. Loot them for their Pirate Hats and [Pirate's Footlocker]| |O| |Z|Tanaris|
+C Collect Ship Schedule (x1) |QID|2876| |L|9250 1| |N|Kill Southsea Pirates, Southsea Freebooters, Southsea Dock Workers and Southsea Swashbucklers. Loot them for their Pirate Hats and [Pirate's Footlocker]| |O| |Z|Tanaris|
 C WANTED: Andre Firebeard |QID|2875| |OIDX|1| |N|Andre Firebeard. Loot him for his Head (73.4, 47.1)| |O| |Z|Tanaris|
 R Travel upstairs in the house |N|(72.2, 46.8)| |Z|Tanaris|
 C Stoley's Shipment |QID|2873| |OIDX|1| |N|Open the Stolen Cargo. Loot it for Stoley's Shipment (72.2, 46.8)| |Z|Tanaris|
@@ -35,16 +35,16 @@ N Open the [Pirate's Footlocker] until you find the [Ship Schedule] |O| |Z|Tanar
 N Don't start the quest for the [Ship Schedule] yet |O| |Z|Tanaris|
 C Southsea Shakedown |QID|8366| |OIDX|1| |N|Kill Southsea Pirates, Southsea Freebooters, Southsea Dock Workers and Southsea Swashbucklers. Loot them for their Pirate Hats and [Pirate's Footlocker]| |O| |Z|Tanaris|
 C Pirate Hats Ahoy! |QID|8365| |OIDX|1| |N|Kill Southsea Pirates, Southsea Freebooters, Southsea Dock Workers and Southsea Swashbucklers. Loot them for their Pirate Hats and [Pirate's Footlocker]| |O| |Z|Tanaris|
-C Southsea Pirates, Southsea Freebooters, Southsea Dock Workers and Southsea Swashbucklers. Loot them for their Pirate Hats and [Pirate's Footlocker] |QID|2876| |L|9250 1| |N|Kill Southsea Pirates, Southsea Freebooters, Southsea Dock Workers and Southsea Swashbucklers. Loot them for their Pirate Hats and [Pirate's Footlocker]| |O| |Z|Tanaris|
+C Collect Ship Schedule (x1) |QID|2876| |L|9250 1| |N|Kill Southsea Pirates, Southsea Freebooters, Southsea Dock Workers and Southsea Swashbucklers. Loot them for their Pirate Hats and [Pirate's Footlocker]| |O| |Z|Tanaris|
 C WANTED: Andre Firebeard |QID|2875| |OIDX|1| |N|Andre Firebeard. Loot him for his Head (73.4, 47.1)| |Z|Tanaris|
 N Open the [Pirate's Footlocker] until you find the [Ship Schedule] |N|(71.1, 42.9)| |Z|Tanaris|
 N Don't start the quest for the [Ship Schedule] yet |N|(71.1, 42.9)| |Z|Tanaris|
 C Southsea Shakedown |QID|8366| |OIDX|1| |N|Kill Southsea Pirates, Southsea Freebooters, Southsea Dock Workers and Southsea Swashbucklers. Loot them for their Pirate Hats and [Pirate's Footlocker] (71.1, 42.9)| |Z|Tanaris|
 C Pirate Hats Ahoy! |QID|8365| |OIDX|1| |N|Kill Southsea Pirates, Southsea Freebooters, Southsea Dock Workers and Southsea Swashbucklers. Loot them for their Pirate Hats and [Pirate's Footlocker] (75.2, 45.8)| |Z|Tanaris|
-C Southsea Pirates, Southsea Freebooters, Southsea Dock Workers and Southsea Swashbucklers. Loot them for their Pirate Hats and [Pirate's Footlocker] |QID|2876| |L|9250 1| |N|Kill Southsea Pirates, Southsea Freebooters, Southsea Dock Workers and Southsea Swashbucklers. Loot them for their Pirate Hats and [Pirate's Footlocker] (72.2, 46.8)| |Z|Tanaris|
+C Collect Ship Schedule (x1) |QID|2876| |L|9250 1| |N|Kill Southsea Pirates, Southsea Freebooters, Southsea Dock Workers and Southsea Swashbucklers. Loot them for their Pirate Hats and [Pirate's Footlocker] (72.2, 46.8)| |Z|Tanaris|
 N Do not Accept the quest for this yet |N|(72.2, 46.8)| |Z|Tanaris|
 N If you don't find it by the time you are 49, skip it |N|(72.2, 46.8)| |Z|Tanaris|
-C any type of Southsea Pirate. Loot them for the [OOX-17/TN Distress Beacon] |QID|351| |L|8623 1| |N|Kill any type of Southsea Pirate. Loot them for the [OOX-17/TN Distress Beacon] (72.2, 46.8)| |Z|Tanaris|
+C Collect OOX-17/TN Distress Beacon (x1) |QID|351| |L|8623 1| |N|Kill any type of Southsea Pirate. Loot them for the [OOX-17/TN Distress Beacon] (72.2, 46.8)| |Z|Tanaris|
 G Grind to level 49 Southsea Swashbuckler |Z|Tanaris|
 N Equip the [Gahz'ridian Detector] |O| |C|!Hunter| |Z|Tanaris|
 N You will complete this later, you don't need to finish it right now |O| |C|!Hunter| |Z|Tanaris|
@@ -112,8 +112,11 @@ A The Apes of Un'Goro |QID|4289| |N|Torwa Pathfinder - (71.6, 76.0) (ST Dungeon 
 A The Fare of Lar'korwi |QID|4290| |N|Torwa Pathfinder - (71.6, 76.0) (ST Dungeon Quest)| |D|ST| |Z|Un'Goro Crater|
 C Bloodpetal Poison |QID|9052| |OIDX|2| |N|Open the Bloodpetal Sprouts on the ground. Loot them for Bloodcaps (ST Dungeon Quest)| |C|Druid| |D|ST| |Z|Un'Goro Crater|
 N Try to complete this now as you work your way up to Marshal's Refuge later |O| |Z|Un'Goro Crater|
-C Power Crystals on the ground as you quest through Un'Goro Crater |QID|4284| |L|11186 7| |N|Loot Power Crystals on the ground as you quest through Un'Goro Crater| |O| |Z|Un'Goro Crater|
-C Un'Goro Soil on the ground as you quest through Un'Goro Crater |L|11018 25| |N|Loot Un'Goro Soil on the ground as you quest through Un'Goro Crater| |O| |Z|Un'Goro Crater|
+C Collect Red Power Crystal (x7) |QID|4284| |L|11186 7| |N|Loot Power Crystals on the ground as you quest through Un'Goro Crater| |O| |Z|Un'Goro Crater|
+C Collect Green Power Crystal (x7) |QID|4284| |L|11185 7| |N|Loot Power Crystals on the ground as you quest through Un'Goro Crater| |O| |Z|Un'Goro Crater|
+C Collect Blue Power Crystal (x7) |QID|4284| |L|11184 7| |N|Loot Power Crystals on the ground as you quest through Un'Goro Crater| |O| |Z|Un'Goro Crater|
+C Collect Yellow Power Crystal (x7) |QID|4284| |L|11188 7| |N|Loot Power Crystals on the ground as you quest through Un'Goro Crater| |O| |Z|Un'Goro Crater|
+C Collect Un'Goro Soil (x25) |L|11018 25| |N|Loot Un'Goro Soil on the ground as you quest through Un'Goro Crater| |O| |Z|Un'Goro Crater|
 A It's a Secret to Everybody |QID|3844| |N|on the Wrecked Raft - (63.0, 68.6)| |Z|Un'Goro Crater|
 T It's a Secret to Everybody |QID|3844| |N|the Small Pack underwater - (63.1, 69.1)| |Z|Un'Goro Crater|
 A It's a Secret to Everybody |QID|3845| |N|the Small Pack underwater - (63.1, 69.1)| |Z|Un'Goro Crater|
@@ -124,7 +127,7 @@ T It's a Secret to Everybody |QID|3845| |N|Linken - (44.7, 8.1)| |C|!Warrior/!Ro
 A It's a Secret to Everybody |QID|3908| |N|Linken - (44.7, 8.1)| |C|!Warrior/!Rogue/!Paladin/!Druid| |Z|Un'Goro Crater|
 N You no longer need these |C|!Warrior/!Rogue/!Paladin/!Druid| |Z|Un'Goro Crater|
 N Use [A Mangled Journal] to start the quest |N|(43.9, 7.1)| |C|!Warrior/!Rogue/!Paladin/!Druid| |Z|Un'Goro Crater|
-C Williden Marshal |QID|3884| |L|11116 1| |N|Williden Marshal - (43.9, 7.1)| |C|!Warrior/!Rogue/!Paladin/!Druid| |Z|Un'Goro Crater|
+C Collect A Mangled Journal (x1) |QID|3884| |L|11116 1| |N|Williden Marshal (43.9, 7.1)| |C|!Warrior/!Rogue/!Paladin/!Druid| |Z|Un'Goro Crater|
 A Williden's Journal |QID|3884| |N|Williden Marshal - (43.9, 7.1)| |C|!Warrior/!Rogue/!Paladin/!Druid| |Z|Un'Goro Crater|
 T Williden's Journal |QID|3884| |N|Williden Marshal - (43.9, 7.1)| |C|!Warrior/!Rogue/!Paladin/!Druid| |Z|Un'Goro Crater|
 f Get the Un'Goro Crater Flight Path |N|Gryfe - (45.2, 5.8)| |C|!Warrior/!Rogue/!Paladin/!Druid| |Z|Un'Goro Crater|
@@ -138,14 +141,14 @@ T The Scent of Lar'korwi |QID|4291| |N|Torwa Pathfinder - (71.6, 76.0)| |Z|Un'Go
 A The Bait for Lar'korwi |QID|4292| |N|Torwa Pathfinder - (71.6, 76.0)| |Z|Un'Goro Crater|
 N Any mob in Un'Goro Crater may drop it |N|(66.6, 66.7)| |Z|Un'Goro Crater|
 N Use [A Mangled Journal] to start the quest |N|(66.6, 66.7)| |Z|Un'Goro Crater|
-C Ravasaurs. Loot them for [A Mangled Journal] |QID|3884| |L|11116 1| |N|Ravasaurs. Loot them for [A Mangled Journal] - (66.6, 66.7)| |Z|Un'Goro Crater|
+C Collect A Mangled Journal (x1) |QID|3884| |L|11116 1| |N|Ravasaurs. Loot them for [A Mangled Journal] (66.6, 66.7)| |Z|Un'Goro Crater|
 A Williden's Journal |QID|3884| |N|Ravasaurs. Loot them for [A Mangled Journal] - (66.6, 66.7)| |Z|Un'Goro Crater|
 C Bloodpetal Poison |QID|9052| |OIDX|2| |N|You don't need to complete this now. You can finish it when you come to Un'goro again later (ST Dungeon Quest)| |C|Druid| |D|ST| |Z|Un'Goro Crater|
 C It's a Secret to Everybody |QID|3845| |OIDX|1| |N|Open the [Small Pack] (44.7, 8.1)| |C|Warrior/Rogue/Paladin/Druid| |Z|Un'Goro Crater|
 T It's a Secret to Everybody |QID|3845| |N|Linken - (44.7, 8.1)| |C|Warrior/Rogue/Paladin/Druid| |Z|Un'Goro Crater|
 A It's a Secret to Everybody |QID|3908| |N|Linken - (44.7, 8.1)| |C|Warrior/Rogue/Paladin/Druid| |Z|Un'Goro Crater|
 N You no longer need these |C|Warrior/Rogue/Paladin/Druid| |Z|Un'Goro Crater|
-C Williden Marshal |QID|3884| |L|11116 1| |N|Williden Marshal - (43.9, 7.1)| |C|Warrior/Rogue/Paladin/Druid| |Z|Un'Goro Crater|
+C Collect A Mangled Journal (x1) |QID|3884| |L|11116 1| |N|Williden Marshal (43.9, 7.1)| |C|Warrior/Rogue/Paladin/Druid| |Z|Un'Goro Crater|
 A Williden's Journal |QID|3884| |N|Williden Marshal - (43.9, 7.1)| |C|Warrior/Rogue/Paladin/Druid| |Z|Un'Goro Crater|
 T Williden's Journal |QID|3884| |N|Williden Marshal - (43.9, 7.1)| |C|Warrior/Rogue/Paladin/Druid| |Z|Un'Goro Crater|
 f Get the Un'Goro Crater Flight Path |N|Gryfe - (45.2, 5.8)| |C|Warrior/Rogue/Paladin/Druid| |Z|Un'Goro Crater|
@@ -173,7 +176,7 @@ F Fly to Un'Goro Crater |N|Bera Stonehammer - (51.0, 29.3)| |O| |C|!Warrior/!Rog
 T Muigin and Larion |QID|4141| |N|Muigin - (42.9, 9.6)| |C|!Warrior/!Rogue/!Paladin/!Druid| |Z|Un'Goro Crater|
 A A Visit to Gregan |QID|4142| |N|Muigin - (42.9, 9.6)| |C|!Warrior/!Rogue/!Paladin/!Druid| |Z|Un'Goro Crater|
 N Use [A Mangled Journal] to start the quest |N|(43.9, 7.1)| |O| |C|!Warrior/!Rogue/!Paladin/!Druid| |Z|Un'Goro Crater|
-C Williden Marshal |QID|3884| |L|11116 1| |N|Williden Marshal - (43.9, 7.1)| |O| |C|!Warrior/!Rogue/!Paladin/!Druid| |Z|Un'Goro Crater|
+C Collect A Mangled Journal (x1) |QID|3884| |L|11116 1| |N|Williden Marshal (43.9, 7.1)| |O| |C|!Warrior/!Rogue/!Paladin/!Druid| |Z|Un'Goro Crater|
 A Williden's Journal |QID|3884| |N|Williden Marshal - (43.9, 7.1)| |O| |C|!Warrior/!Rogue/!Paladin/!Druid| |Z|Un'Goro Crater|
 T Williden's Journal |QID|3884| |N|Williden Marshal - (43.9, 7.1)| |O| |C|!Warrior/!Rogue/!Paladin/!Druid| |Z|Un'Goro Crater|
 F Fly to Ratchet |N|Gryfe - (45.2, 5.8)| |C|!Warrior/!Rogue/!Paladin/!Druid| |Z|Un'Goro Crater|

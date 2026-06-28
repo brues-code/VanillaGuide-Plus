@@ -19,7 +19,7 @@ B Collect Wooden Mallet (1) |L|2493 1| |N|Mahnott. Buy a [Wooden Mallet] from hi
 B Vendor trash. Sell your weapon if it gives you enough money for a [Ornate Blunderbuss] (4s 14c). You'll come back later if you don't have enough yet |N|Kennah - (45.5, 58.5)| |C|Hunter| |Z|Mulgore|
 B Collect Ornate Blunderbuss (1) |L|2509 1| |N|Kennah. Buy a [Ornate Blunderbuss] from him - (45.5, 58.5)| |C|Hunter| |Z|Mulgore|
 N Buy [Light Shots] from him |N|(45.5, 58.5)| |C|Hunter| |Z|Mulgore|
-B Kennah |L|2516 1000| |N|Kennah - (45.5, 58.5)| |C|Hunter| |Z|Mulgore|
+B Buy Light Shot (x1000) |L|2516 1000| |N|Kennah - (45.5, 58.5)| |C|Hunter| |Z|Mulgore|
 A Mazzranache |QID|766| |N|Maur, Zarlman, Harken and Mull - (47.0, 57.1)| |R|Tauren| |Z|Mulgore|
 T Rite of Vision |QID|767| |N|Maur, Zarlman, Harken and Mull - (47.0, 57.1)| |R|Tauren| |Z|Mulgore|
 A Rite of Vision |QID|771| |N|Maur, Zarlman, Harken and Mull - (47.0, 57.1)| |R|Tauren| |Z|Mulgore|
@@ -44,8 +44,8 @@ C Sharing the Land |QID|745| |OIDX|1| |N|Go back and forth between the two camps
 N Buy [Ice Cold Milk] from her |N|(47.6, 61.5)| |C|Shaman/Druid| |Z|Mulgore|
 N Buy [Freshly Baked Bread] from her |N|(47.6, 61.5)| |C|Warrior| |Z|Mulgore|
 B Vendor trash |N|Jhwana - (47.6, 61.5)| |Z|Mulgore|
-B Jhwana |L|1179 10| |N|Jhwana - (47.6, 61.5)| |C|Shaman/Druid| |Z|Mulgore|
-B Jhwana |L|4541 10| |N|Jhwana - (47.6, 61.5)| |C|Warrior| |Z|Mulgore|
+B Buy Ice Cold Milk (x10) |L|1179 10| |N|Jhwana - (47.6, 61.5)| |C|Shaman/Druid| |Z|Mulgore|
+B Buy Freshly Baked Bread (x10) |L|4541 10| |N|Jhwana - (47.6, 61.5)| |C|Warrior| |Z|Mulgore|
 T Winterhoof Cleansing |QID|754| |N|Mull and Baine - (48.5, 60.4)| |R|Tauren| |Z|Mulgore|
 A Thunderhorn Totem |QID|756| |N|Mull and Baine - (48.5, 60.4)| |R|Tauren| |Z|Mulgore|
 T Sharing the Land |QID|745| |N|Mull and Baine - (48.5, 60.4)| |R|Tauren| |Z|Mulgore|
@@ -80,7 +80,7 @@ B Vendor trash. Sell your weapon if it gives you enough money for a [Wooden Mall
 B Collect Wooden Mallet (1) |L|2493 1| |N|Mahnott. Buy a [Wooden Mallet] from him - (45.7, 58.6)| |C|Warrior| |Z|Mulgore|
 B Vendor trash. Sell your weapon if it gives you enough money for a [Ornate Blunderbuss] (4s 14c). You'll come back later if you don't have enough yet |N|Kennah - (45.5, 58.5)| |C|Hunter| |Z|Mulgore|
 B Collect Ornate Blunderbuss (1) |L|2509 1| |N|Kennah. Buy a [Ornate Blunderbuss] from him - (45.5, 58.5)| |C|Hunter| |Z|Mulgore|
-B Loorat |L|2516 1000| |N|Loorat - (45.9, 57.7)| |C|Hunter| |Z|Mulgore|
+B Buy Light Shot (x1000) |L|2516 1000| |N|Loorat - (45.9, 57.7)| |C|Hunter| |Z|Mulgore|
 B Vendor trash and repair |N|Harant - (45.9, 58.7)| |O| |Z|Mulgore|
 T Swoop Hunting |QID|761| |N|Harken - (48.7, 59.3)| |Z|Mulgore|
 T Thunderhorn Totem |QID|756| |N|Mull - (48.5, 60.4)| |R|Tauren| |Z|Mulgore|
@@ -92,8 +92,8 @@ t Train your class spells |N|Yaw - (47.8, 55.7)| |C|Hunter| |Z|Mulgore|
 N Buy [Ice Cold Milk] from him |N|(46.6, 61.1)| |C|Shaman/Druid| |Z|Mulgore|
 N Buy [Freshly Baked Bread] from him |N|(46.6, 61.1)| |C|Warrior| |Z|Mulgore|
 B Vendor Trash |N|Innkeeper Kauth - (46.6, 61.1)| |Z|Mulgore|
-B Innkeeper Kauth |L|1179 10| |N|Innkeeper Kauth - (46.6, 61.1)| |C|Shaman/Druid| |Z|Mulgore|
-B Innkeeper Kauth |L|4541 10| |N|Innkeeper Kauth - (46.6, 61.1)| |C|Warrior| |Z|Mulgore|
+B Buy Ice Cold Milk (x10) |L|1179 10| |N|Innkeeper Kauth - (46.6, 61.1)| |C|Shaman/Druid| |Z|Mulgore|
+B Buy Freshly Baked Bread (x10) |L|4541 10| |N|Innkeeper Kauth - (46.6, 61.1)| |C|Warrior| |Z|Mulgore|
 C Mazzranache |QID|766| |OIDX|1| |N|Finish getting the items for Mazzranache Prairie Wolf Heart (1)| |O| |Z|Mulgore|
 C Swoop Hunting |QID|761| |OIDX|1| |N|Kill Swoops throughout Mulgore. Loot them for their Quills Trophy Swoop Quill (8)| |O| |Z|Mulgore|
 C Thunderhorn Cleansing |QID|758| |OIDX|1| |N|Use the [Thunderhorn Cleansing Totem] at the Well Cleanse the Thunderhorn Water Well (1)| |R|Tauren| |Z|Mulgore|
@@ -131,7 +131,7 @@ T Swoop Hunting |QID|761| |N|(47.4, 62.0)| |R|!Tauren| |Z|Mulgore|
 T Dwarven Digging |QID|746| |N|Baine and Ruul - (47.5, 60.2)| |R|!Tauren| |Z|Mulgore|
 T Dangers of the Windfury |QID|743| |N|Baine and Ruul - (47.5, 60.2)| |R|!Tauren| |Z|Mulgore|
 N Buy [Heavy Shots] from him |N|(45.5, 58.5)| |C|Hunter| |Z|Mulgore|
-B Kennah |L|2519 1000| |N|Kennah - (45.5, 58.5)| |C|Hunter| |Z|Mulgore|
+B Buy Heavy Shot (x1000) |L|2519 1000| |N|Kennah - (45.5, 58.5)| |C|Hunter| |Z|Mulgore|
 T Mazzranache |QID|766| |N|Maur - (47.0, 57.1)| |Z|Mulgore|
 t Train your class spells |N|Krang - (49.5, 60.6)| |C|Warrior| |Z|Mulgore|
 A Call of Fire |QID|2984| |N|Narm - (48.4, 59.1)| |C|Shaman| |Z|Mulgore|
@@ -153,8 +153,8 @@ T Taming the Beast |QID|6088| |N|Yaw - (47.8, 55.7)| |C|Hunter| |Z|Mulgore|
 A Training the Beast |QID|6089| |N|Yaw - (47.8, 55.7)| |C|Hunter| |Z|Mulgore|
 N Buy [Ice Cold Milk] from her |N|(47.6, 61.5)| |C|Shaman/Druid| |Z|Mulgore|
 N Buy [Freshly Baked Bread] from her |N|(47.6, 61.5)| |C|Warrior| |Z|Mulgore|
-B Jhwana |L|1179 20| |N|Jhwana - (47.6, 61.5)| |C|Shaman/Druid| |Z|Mulgore|
-B Jhwana |L|4541 20| |N|Jhwana - (47.6, 61.5)| |C|Warrior| |Z|Mulgore|
+B Buy Ice Cold Milk (x20) |L|1179 20| |N|Jhwana - (47.6, 61.5)| |C|Shaman/Druid| |Z|Mulgore|
+B Buy Freshly Baked Bread (x20) |L|4541 20| |N|Jhwana - (47.6, 61.5)| |C|Warrior| |Z|Mulgore|
 T The Ravaged Caravan |QID|751| |N|[Group] He patrols along the eastern road - (55.1, 60.6)| |P|GROUP| |Z|Mulgore|
 A The Venture Co |QID|764| |N|[Group] He patrols along the eastern road - (55.1, 60.6)| |P|GROUP| |Z|Mulgore|
 A Supervisor Fizsprocket |QID|765| |N|[Group] He patrols along the eastern road - (55.1, 60.6)| |P|GROUP| |Z|Mulgore|
@@ -354,8 +354,8 @@ H Razor Hill |N|Hearth to Razor Hill| |O| |C|Shaman| |P|SOLO| |Z|Moonglade|
 B Vendor Trash |N|[Group] Innkeeper Grosk - (51.5, 41.6)| |P|GROUP| |Z|Durotar|
 N Buy [Ice Cold Milk] from him |N|[Group] (51.5, 41.6)| |C|Shaman/Druid| |P|GROUP| |Z|Durotar|
 N Buy [Haunch of Meat] from him |N|[Group] (51.5, 41.6)| |C|Warrior| |P|GROUP| |Z|Durotar|
-B Innkeeper Grosk |L|1179 20| |N|[Group] Innkeeper Grosk - (51.5, 41.6)| |C|Mage/Warlock/Priest/Shaman| |P|GROUP| |Z|Durotar|
-B Innkeeper Grosk |L|2287 20| |N|[Group] Innkeeper Grosk - (51.5, 41.6)| |C|Rogue/Warrior| |P|GROUP| |Z|Durotar|
+B Buy Ice Cold Milk (x20) |L|1179 20| |N|[Group] Innkeeper Grosk - (51.5, 41.6)| |C|Mage/Warlock/Priest/Shaman| |P|GROUP| |Z|Durotar|
+B Buy Haunch of Meat (x20) |L|2287 20| |N|[Group] Innkeeper Grosk - (51.5, 41.6)| |C|Rogue/Warrior| |P|GROUP| |Z|Durotar|
 T Dark Storms |QID|806| |N|[Group] Orgnil - (52.2, 43.1)| |P|GROUP| |Z|Durotar|
 A Margoz |QID|828| |N|[Group] Orgnil - (52.2, 43.1)| |P|GROUP| |Z|Durotar|
 T Encroachment |QID|837| |N|[Group] Gar'Thok - (52.0, 43.5)| |P|GROUP| |Z|Durotar|
@@ -388,7 +388,8 @@ t Train your pet spells |N|Xao'tsu - (66.3, 14.8)| |C|Hunter| |Z|Orgrimmar|
 t Train your class spells |N|Ormakl - (66.1, 18.5)| |C|Hunter| |Z|Orgrimmar|
 t Train Bows |N|Hanashi - (81.5, 19.6)| |C|Hunter| |Z|Orgrimmar|
 B Collect Laminated Recurve Bow (1) |L|2507 1| |N|Zendo'jian. Buy a [Laminated Recurve Bow] from him - (81.2, 18.7)| |C|Hunter| |Z|Orgrimmar|
-B Zendo'jian |L|2515 1600| |N|Zendo'jian - (81.2, 18.7)| |C|Hunter| |Z|Orgrimmar|
+B Buy Sharp Arrow (x1600) |L|2515 1600| |N|Zendo'jian - (81.2, 18.7)| |C|Hunter| |Z|Orgrimmar|
+B Buy Small Quiver (x1) |L|5439 1| |N|Zendo'jian - (81.2, 18.7)| |C|Hunter| |Z|Orgrimmar|
 B Collect Giant Mace (1) |L|1197 1| |N|Urtharo. Buy a [Giant Mace] from him - (47.5, 68.4)| |C|Warrior| |R|Tauren| |Z|Orgrimmar|
 B Collect Quarter Staff (1) |L|854 1| |N|Urtharo. Buy a [Quarter Staff] from him - (47.5, 68.4)| |C|Shaman/Druid| |Z|Orgrimmar|
 R Travel to Durotar |N|(36.6, 28.2)| |Z|Durotar|
@@ -426,6 +427,7 @@ C Plainstrider Menace |QID|844| |OIDX|1| |N|Kill Plainstriders. Loot them for th
 R the top of the mountain |N|(47.6, 19.4)| |Z|The Barrens|
 N Make sure you have a [Flawed Power Stone] (30 minute duration) on you |N|(48.0, 19.1)| |Z|The Barrens|
 C Collect Flawed Power Stone |QID|924| |L|4986 1| |N|Right click the Altar (48.0, 19.1)| |Z|The Barrens|
+C The Demon Seed |QID|924| |OIDX|1| |N|Right click the Altar Destroy the Demon Seed (1)| |Z|The Barrens|
 R Travel down the mountain where you came from |N|(51.1, 22.7)| |O| |Z|The Barrens|
 C Plainstrider Menace |QID|844| |OIDX|1| |N|Kill Plainstriders. Loot them for their Beaks Plainstrider Beak (7)| |O| |Z|The Barrens|
 C Disrupt the Attacks |QID|871| |OIDX|1| |N|Kill Water Seekers, Thornweavers and Hunters Razormane Water Seeker (8)| |O| |Z|The Barrens|
@@ -444,7 +446,7 @@ h Crossroads |N|Set hearth in Crossroads (52.0, 29.9)| |Z|The Barrens|
 N Cast [Teleport: Moonglade] |O| |C|Druid| |P|SOLO| |Z|The Barrens|
 t Train your class spells |N|Loganaar - (52.5, 40.6)| |C|Druid| |P|SOLO| |Z|Moonglade|
 H Crossroads |N|Hearth to Crossroads| |O| |C|Druid| |P|SOLO| |Z|Moonglade|
-B Barg |L|2515 1200| |N|Barg - (51.7, 29.9)| |C|Hunter| |Z|The Barrens|
+B Buy Sharp Arrow (x1200) |L|2515 1200| |N|Barg - (51.7, 29.9)| |C|Hunter| |Z|The Barrens|
 F Fly to Thunder Bluff |N|Devrak - (51.5, 30.3)| |O| |C|Shaman/Warrior| |Z|The Barrens|
 T Ride to Thunder Bluff |QID|6362| |N|Ahanu - (45.6, 55.9)| |C|Shaman/Warrior| |Z|Thunder Bluff|
 A Tal the Wind Rider Master |QID|6363| |N|Ahanu - (45.6, 55.9)| |C|Shaman/Warrior| |Z|Thunder Bluff|

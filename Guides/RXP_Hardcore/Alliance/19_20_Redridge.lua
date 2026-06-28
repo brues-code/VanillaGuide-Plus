@@ -21,9 +21,10 @@ t Train your class spells |N|Elsharin - (36.9, 81.1)| |C|Mage| |Z|Stormwind City
 R the Stormwind Cathedral |N|(42.5, 33.5)| |O| |C|Paladin/Priest| |Z|Stormwind City|
 t Train your class spells |N|Arthur the Faithful - (38.7, 32.8)| |C|Paladin| |Z|Stormwind City|
 t Train your class spells |N|Brother Joshua - (38.5, 26.9)| |C|Priest| |Z|Stormwind City|
+N Ardwyn Cailen |N|(42.6, 67.2)| |C|Warlock/Priest| |Z|Stormwind City|
 N Buy a [Burning Wand] if it's an upgrade |N|(42.6, 67.2)| |C|Warlock/Priest| |Z|Stormwind City|
 N It's important to buy a non-shadow damage wand. You'll have to deal with mobs resistant to shadow damage later |N|(42.6, 67.2)| |C|Warlock/Priest| |Z|Stormwind City|
-B Ardwyn Cailen |L|5210 1| |N|(42.9, 65.1)| |C|Warlock/Priest| |Z|Stormwind City|
+B Buy Burning Wand (x1) |L|5210 1| |N|(42.9, 65.1)| |C|Warlock/Priest| |Z|Stormwind City|
 R The Slaughtered Lamb and go downstairs |N|(27.2, 78.1)| |O| |C|Warlock| |Z|Stormwind City|
 t Train your class spells |N|Ursula Deline - (26.1, 77.2)| |C|Warlock| |Z|Stormwind City|
 t Train your class spells |N|Osborne - (74.6, 52.8)| |C|Rogue| |Z|Stormwind City|
@@ -149,19 +150,23 @@ N Kill Tarantulas. Loot them for their Crisp Spider Meat |O| |Z|Redridge Mountai
 N Kill Dire Condors. Loot them for their Tough Condor Meat |O| |Z|Redridge Mountains|
 N Do NOT sell any of these items until you turn the Redridge Goulash quest |O| |Z|Redridge Mountains|
 N Save any [Chunks of Boar Meat] you loot as well as you can use them to level [Cooking] to 50 which is required for Duskwood later |O| |Z|Redridge Mountains|
-B Great Goretusks. Loot them for their Great Goretusk Snouts |L|2296 5| |N|Kill Great Goretusks. Loot them for their Great Goretusk Snouts| |O| |Z|Redridge Mountains|
+B Buy Great Goretusk Snout (x5) |L|2296 5| |N|Kill Great Goretusks. Loot them for their Great Goretusk Snouts| |O| |Z|Redridge Mountains|
+B Buy Tough Condor Meat (x5) |L|1080 5| |N|Kill Great Goretusks. Loot them for their Great Goretusk Snouts| |O| |Z|Redridge Mountains|
+B Buy Crisp Spider Meat (x5) |L|1081 5| |N|Kill Great Goretusks. Loot them for their Great Goretusk Snouts| |O| |Z|Redridge Mountains|
 N You don't have to complete this quest now |O| |Z|Redridge Mountains|
 C Underbelly Scales |QID|122| |OIDX|1| |N|Kill Black Dragon Whelps. Loot them for their Scales Underbelly Whelp Scale (6)| |O| |Z|Redridge Mountains|
 C Assessing the Threat |QID|246| |OIDX|1| |N|Redridge Mongrels and Redridge Poachers Redridge Mongrel (10)| |Z|Redridge Mountains|
 N Kill Dire Condors. Loot them for their Tough Condor Meat |O| |Z|Redridge Mountains|
 N Do NOT sell any of these items until you turn the Redridge Goulash quest |O| |Z|Redridge Mountains|
 N Save any [Chunks of Boar Meat] you loot as well as you can use them to level [Cooking] to 50 which is required for Duskwood later |O| |Z|Redridge Mountains|
-B Great Goretusks. Loot them for their Great Goretusk Snouts |L|2296 5| |N|Kill Great Goretusks. Loot them for their Great Goretusk Snouts| |O| |Z|Redridge Mountains|
-C Tarantulas. Loot them for their Crisp Spider Meat |QID|92| |L|1081 5| |N|Tarantulas. Loot them for their Crisp Spider Meat - (18.9, 73.6)| |Z|Redridge Mountains|
+B Buy Great Goretusk Snout (x5) |L|2296 5| |N|Kill Great Goretusks. Loot them for their Great Goretusk Snouts| |O| |Z|Redridge Mountains|
+B Buy Tough Condor Meat (x5) |L|1080 5| |N|Kill Great Goretusks. Loot them for their Great Goretusk Snouts| |O| |Z|Redridge Mountains|
+C Collect Crisp Spider Meat (x5) |QID|92| |L|1081 5| |N|Tarantulas. Loot them for their Crisp Spider Meat (18.9, 73.6)| |Z|Redridge Mountains|
 N Kill Dire Condors. Loot them for their Tough Condor Meat |N|(66.4, 76.6)| |Z|Redridge Mountains|
 N Do NOT sell any of these items until you turn the Redridge Goulash quest |N|(66.4, 76.6)| |Z|Redridge Mountains|
 N Save any [Chunks of Boar Meat] you loot as well as you can use them to level [Cooking] to 50 which is required for Duskwood later |N|(66.4, 76.6)| |Z|Redridge Mountains|
-B Great Goretusks. Loot them for their Great Goretusk Snouts |L|1080 5| |N|Kill Great Goretusks. Loot them for their Great Goretusk Snouts - (66.4, 76.6)| |Z|Redridge Mountains|
+B Buy Tough Condor Meat (x5) |L|1080 5| |N|Kill Great Goretusks. Loot them for their Great Goretusk Snouts - (66.4, 76.6)| |Z|Redridge Mountains|
+B Buy Great Goretusk Snout (x5) |L|2296 5| |N|(35.6, 69.6)| |Z|Redridge Mountains|
 N Open the Sunken Chest. Loot it for Oslow's Toolbox |N|(41.5, 54.7)| |Z|Redridge Mountains|
 C The Lost Tools |QID|125| |OIDX|1| |N|Jump into the Lake. Be aware of the patrolling Elite Lake Thresher in the water Oslow's Toolbox (1)| |Z|Redridge Mountains|
 R Lakeshire |N|(30.7, 60.0)| |O| |Z|Redridge Mountains|

@@ -20,7 +20,7 @@ A Lost! |QID|4492| |N|Spraggle - (43.6, 8.5)| |Z|Un'Goro Crater|
 A Beware of Pterrordax |QID|4501| |N|the Wanted Poster - (43.5, 8.4)| |Z|Un'Goro Crater|
 A Larion and Muigin |QID|4145| |N|Larion - (45.5, 8.7)| |Z|Un'Goro Crater|
 A Shizzle's Flyer |QID|4503| |N|Shizzle - (12.8, 8.1)| |Z|Tanaris|
-C Collect Un'Goro Soil as you quest throught Un'Goro |L|11018 25| |N|Collect Un'Goro Soil as you quest throught Un'Goro| |O| |Z|Tanaris|
+C Collect Un'Goro Soil (x25) |L|11018 25| |N|Collect Un'Goro Soil as you quest throught Un'Goro| |O| |Z|Tanaris|
 N This does not need to be finished now |O| |Z|Tanaris|
 C Beware of Pterrordax |QID|4501| |OIDX|1| |N|Kill some of the Pterrordax found north of the Northern Pylon. Loot them for their Scales| |O| |Z|Tanaris|
 C Shizzle's Flyer |QID|4503| |OIDX|2| |N|Kill some of the Pterrordax found north of the Northern Pylon. Loot them for their Scales| |O| |Z|Tanaris|
@@ -139,7 +139,7 @@ N Use your [Devilsaur Barb] on it while it's asleep |N|(ST Dungeon Quest)| |C|Dr
 C Toxic Test |QID|9051| |OIDX|1| |N|Track a Devilsaur or Ironhide Devilsaur (ST Dungeon Quest)| |C|Druid| |D|ST| |Z|Un'Goro Crater|
 T Toxic Test |QID|9051| |N|Torwa - (71.6, 76.0) (ST Dungeon Quest)| |C|Druid| |D|ST| |Z|Un'Goro Crater|
 A A Better Ingredient |QID|9053| |N|Torwa - (71.6, 76.0) (ST Dungeon Quest)| |C|Druid| |D|ST| |Z|Un'Goro Crater|
-C Collect Un'Goro Soil from mobs or Un'Goro Dirt Piles |L|11018 25| |N|Collect Un'Goro Soil from mobs or Un'Goro Dirt Piles - (57.9, 44.8)| |Z|Un'Goro Crater|
+C Collect Un'Goro Soil (x25) |L|11018 25| |N|Collect Un'Goro Soil from mobs or Un'Goro Dirt Piles (57.9, 44.8)| |Z|Un'Goro Crater|
 R Travel to Tanaris |N|(27.1, 56.6)| |O| |Z|Tanaris|
 A Into the Depths |QID|3446| |N|Marvon Rivetseeker - (52.7, 45.9) (ST Dungeon Quest)| |D|ST| |Z|Tanaris|
 A Secret of the Circle |QID|3447| |N|Marvon Rivetseeker - (52.7, 45.9) (ST Dungeon Quest)| |D|ST| |Z|Tanaris|
@@ -151,9 +151,9 @@ T The Strength of Corruption |QID|4120| |N|Talo - (76.2, 43.8)| |Z|Feralas|
 R Travel along the border of Dire Maul to the West Side |N|(55.9, 46.2)| |O| |Z|Feralas|
 N Click here for video reference |N|(55.4, 45.5)| |Z|Feralas|
 N Buy some [Bait] from him |N|(45.1, 25.6)| |Z|Feralas|
-B Gregan |L|11141 1| |N|Gregan - (45.1, 25.6)| |Z|Feralas|
+B Buy Bait (x1) |L|11141 1| |N|Gregan - (45.1, 25.6)| |Z|Feralas|
 N Place the [Bait] on the ground next to Miblon Snarltooth to distract him |N|(44.6, 10.6)| |O| |Z|Feralas|
-C the Evoroot inside the Ruins |QID|3909| |L|11242 1| |N|the Evoroot inside the Ruins - (44.5, 10.2)| |Z|Feralas|
+C Collect Evoroot (x1) |QID|3909| |L|11242 1| |N|the Evoroot inside the Ruins (44.5, 10.2)| |Z|Feralas|
 A The Videre Elixir |QID|4041| |N|Gregan Brewspewer - (45.1, 25.6)| |Z|Feralas|
 T The Videre Elixir |QID|4041| |N|Gregan Brewspewer - (45.1, 25.6)| |Z|Feralas|
 C The Videre Elixir |QID|3909| |OIDX|1| |N|Gregan Brewspewer (45.1, 25.6)| |Z|Feralas|

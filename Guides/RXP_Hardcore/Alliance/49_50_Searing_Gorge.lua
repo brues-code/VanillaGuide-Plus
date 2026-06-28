@@ -35,7 +35,7 @@ N Any Dark Iron Dwarf may drop Thorium Plated Daggers and the [Grimesilt Outhous
 N Use the [Grimesilt Outhouse Key] to start the quest |N|(43.2, 35.1)| |Z|Searing Gorge|
 C JOB OPPORTUNITY: Culling the Competition |QID|7729| |OIDX|1| |N|Dark Iron Taskmasters and Dark Iron Slavers. Loot them for their Thorium Plated Daggers and the [Grimesilt Outhouse Key] (43.2, 35.1)| |Z|Searing Gorge|
 C Forging the Shaft |QID|3443| |OIDX|1| |N|Dark Iron Taskmasters and Dark Iron Slavers. Loot them for their Thorium Plated Daggers and the [Grimesilt Outhouse Key] (43.2, 35.1)| |Z|Searing Gorge|
-C Dark Iron Taskmasters and Dark Iron Slavers. Loot them for their Thorium Plated Daggers and the [Grimesilt Outhouse Key] |QID|4451| |L|11818 1| |N|Dark Iron Taskmasters and Dark Iron Slavers. Loot them for their Thorium Plated Daggers and the [Grimesilt Outhouse Key] - (43.2, 35.1)| |Z|Searing Gorge|
+C Collect Grimesilt Outhouse Key (x1) |QID|4451| |L|11818 1| |N|Dark Iron Taskmasters and Dark Iron Slavers. Loot them for their Thorium Plated Daggers and the [Grimesilt Outhouse Key] (43.2, 35.1)| |Z|Searing Gorge|
 A The Key to Freedom |QID|4451| |N|Dark Iron Taskmasters and Dark Iron Slavers. Loot them for their Thorium Plated Daggers and the [Grimesilt Outhouse Key] - (43.2, 35.1)| |Z|Searing Gorge|
 C WANTED: Overseer Maltorius |QID|7701| |OIDX|1| |N|[Group] Loot the Secret Plans: Fiery Flux on the bench (40.8, 35.8)| |P|GROUP| |Z|Searing Gorge|
 C What the Flux? |QID|7722| |OIDX|1| |N|[Group] Loot the Secret Plans: Fiery Flux on the bench (40.8, 35.8)| |P|GROUP| |Z|Searing Gorge|
@@ -68,7 +68,7 @@ C Sweet Amber |QID|53| |OIDX|1| |N|The Charred Oak. Loot it for the Bundle of Ch
 A The Key to Freedom |QID|4451| |N|on the Wooden Outhouse - (65.6, 62.2)| |O| |Z|Searing Gorge|
 T The Key to Freedom |QID|4451| |N|on the Wooden Outhouse - (65.6, 62.2)| |O| |Z|Searing Gorge|
 N Use [Margol's Horn] to start the quest |N|[Group] (72.6, 79.7)| |P|GROUP| |Z|Searing Gorge|
-C Margol the Rager. Loot it for [Margol's Horn] |QID|3181| |L|10000 1| |N|[Group] Margol the Rager. Loot it for [Margol's Horn] - (72.6, 79.7)| |P|GROUP| |Z|Searing Gorge|
+C Collect Margol's Horn (x1) |QID|3181| |L|10000 1| |N|[Group] Margol the Rager. Loot it for [Margol's Horn] (72.6, 79.7)| |P|GROUP| |Z|Searing Gorge|
 A The Horn of the Beast |QID|3181| |N|[Group] Margol the Rager. Loot it for [Margol's Horn] - (72.6, 79.7)| |P|GROUP| |Z|Searing Gorge|
 N Kill Dark Iron Lookouts. Loot them for the Lookout's Spyglass |N|(39.1, 50.2)| |Z|Searing Gorge|
 C STOLEN: Smithing Tuyere and Lookout's Spyglass |QID|7728| |OIDX|1| |N|Kill Dark Iron Steamsmiths. Loot them for the Smithing Tuyere (39.1, 50.2)| |Z|Searing Gorge|
@@ -89,7 +89,7 @@ A Proof of Deed |QID|3182| |N|Mountaineer Pebblebitty - (18.2, 84.0)| |Z|Loch Mo
 F Fly to Ironforge |N|Thorgrum Borrelson - (33.9, 51.0)| |C|!Mage| |Z|Loch Modan|
 t Train your class spells |N|Dink - (27.2, 8.6)| |C|Mage| |Z|Ironforge|
 B Buy 10 [Rune of Teleportations] from her |N|Ginny Longberry - (31.3, 27.8)| |O| |C|Mage| |Z|Ironforge|
-B Ginny Longberry |L|17031 10| |N|Ginny Longberry - (31.3, 27.8)| |O| |C|Mage| |Z|Ironforge|
+B Buy Rune of Teleportation (x10) |L|17031 10| |N|Ginny Longberry - (31.3, 27.8)| |O| |C|Mage| |Z|Ironforge|
 F Fly to Ironforge |N|Lanie Reed - (37.9, 30.9)| |C|!Mage| |Z|Searing Gorge|
 N Briarthorn |N|(51.1, 8.7)| |C|Warlock| |Z|Searing Gorge|
 N Fenthwick |N|(51.1, 8.7)| |C|Rogue| |Z|Searing Gorge|

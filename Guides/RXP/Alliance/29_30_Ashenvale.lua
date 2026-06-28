@@ -38,7 +38,7 @@ A An Aggressive Defense |QID|1025| |N|Raene Wolfrunner - (36.6, 49.6)| |Z|Ashenv
 A Fallen Sky Lake |QID|1035| |N|Pelturas Whitemoon - (37.4, 51.8)| |Z|Ashenvale|
 T Raene's Cleansing |QID|1024| |N|Shael'dryn - (53.5, 46.2)| |Z|Ashenvale|
 A Raene's Cleansing |QID|1026| |N|Shael'dryn - (53.5, 46.2)| |Z|Ashenvale|
-C Withered Ancients and Crazed Ancients. Loot them for a Wooden Key |QID|1026| |L|5475 1| |N|Withered Ancients and Crazed Ancients. Loot them for a Wooden Key - (55.0, 32.8)| |O| |Z|Ashenvale|
+C Collect Wooden Key (x1) |QID|1026| |L|5475 1| |N|Withered Ancients and Crazed Ancients. Loot them for a Wooden Key (55.0, 32.8)| |O| |Z|Ashenvale|
 C Raene's Cleansing |QID|1026| |OIDX|1| |N|the Worn Chest. Loot it for the Iron Shaft (54.4, 35.4)| |Z|Ashenvale|
 R Run up here for a shortcut |N|(52.7, 37.8)| |O| |Z|Ashenvale|
 C The Howling Vale |QID|1022| |OIDX|1| |N|the Tome of Mel'Thandris on the table (50.5, 39.1)| |Z|Ashenvale|
@@ -59,7 +59,7 @@ N Be careful as the Foulweald Ursas can [Thrash] hitting you 3 times at once |N|
 N You will kill the rest after finishing the Elemental Bracers quest |N|(50.1, 59.9)| |O| |Z|Ashenvale|
 C An Aggressive Defense |QID|1025| |OIDX|4| |N|Kill a few Foulweald Warriors and Foulweald Totemics before heading south toward the Water Elementals ,5| |O| |Z|Ashenvale|
 A Elemental Bracers |QID|1016| |N|Sentinel Velene Starstrike - (49.8, 67.2)| |Z|Ashenvale|
-C Befouled Water Elementals. Loot them for their Bracers |QID|1016| |L|12220 5| |N|Befouled Water Elementals. Loot them for their Bracers - (48.9, 70.0)| |Z|Ashenvale|
+C Collect Intact Elemental Bracer (x5) |QID|1016| |L|12220 5| |N|Befouled Water Elementals. Loot them for their Bracers (48.9, 70.0)| |Z|Ashenvale|
 C Elemental Bracers |QID|1016| |OIDX|1| |N|Use the [Divining Scroll] to create the [Divined Scroll]| |Z|Ashenvale|
 T Elemental Bracers |QID|1016| |N|Sentinel Velene Starstrike - (49.8, 67.2)| |Z|Ashenvale|
 N Be careful as the Foulweald Ursas can [Thrash] hitting you 3 times at once |N|(50.1, 59.9)| |Z|Ashenvale|
@@ -95,6 +95,7 @@ N You must use [Dartol's Rod of Transformation] to turn into a Furbolg before ta
 T Raene's Cleansing |QID|1030| |N|Krolg - (50.9, 75.1)| |Z|Ashenvale|
 A Raene's Cleansing |QID|1045| |N|Krolg - (50.9, 75.1)| |Z|Ashenvale|
 C Raene's Cleansing |QID|1045| |OIDX|2| |N|Bloodtooth Guards and Ran Bloodtooth. Loot him for his Skull (54.7, 79.6)| |Z|Ashenvale|
+C Collect Ran Bloodtooth's Skull (x1) |QID|1045| |L|5388 1| |N|Bloodtooth Guards and Ran Bloodtooth. Loot him for his Skull (54.7, 79.6)| |Z|Ashenvale|
 R Travel toward Krolg |N|(51.4, 75.0)| |O| |Z|Ashenvale|
 N Use [Dartol's Rod of Transformation] to turn into a Furbolg |O| |Z|Ashenvale|
 N You must use [Dartol's Rod of Transformation] to turn into a Furbolg before talking to Krolg |N|(50.8, 75.1)| |Z|Ashenvale|

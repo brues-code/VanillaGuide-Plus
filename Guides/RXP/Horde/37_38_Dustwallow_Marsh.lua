@@ -11,7 +11,7 @@ A The Black Shield |QID|1251| |N|the Black Shield above the fireplace - (29.6, 4
 A Hungry! |QID|1177| |N|Mudcrush - (35.1, 38.3)| |Z|Dustwallow Marsh|
 A Theramore Spies |QID|1201| |N|Nazeer - (35.2, 30.7)| |Z|Dustwallow Marsh|
 N Buy [Razor Arrows] from her |N|(35.5, 30.1)| |C|Hunter| |Z|Dustwallow Marsh|
-B Zanara |L|3030 2600| |N|Zanara - (35.5, 30.1)| |C|Hunter| |Z|Dustwallow Marsh|
+B Buy Razor Arrow (x2600) |L|3030 2600| |N|Zanara - (35.5, 30.1)| |C|Hunter| |Z|Dustwallow Marsh|
 T Suspicious Hoofprints |QID|1268| |N|Krog - (36.4, 31.9)| |Z|Dustwallow Marsh|
 T Lieutenant Paval Reethe |QID|1269| |N|Krog - (36.4, 31.9)| |Z|Dustwallow Marsh|
 T The Black Shield |QID|1251| |N|Krog - (36.4, 31.9)| |Z|Dustwallow Marsh|
@@ -103,9 +103,9 @@ t Train your pet spells |N|Xao'tsu - (66.3, 14.8)| |C|Hunter| |Z|Orgrimmar|
 t Train your class spells |N|Ur'kyo - (35.6, 87.8)| |C|Priest| |Z|Orgrimmar|
 B Buy a [Massive Longbow] from him if it's available |N|Jin'sora - (78.1, 38.5)| |C|Hunter| |Z|Orgrimmar|
 N Buy [Razor Arrows] from him |N|(48.1, 80.5)| |C|Hunter| |Z|Orgrimmar|
-B Trak'gen |L|3030 2600| |N|Trak'gen - (48.1, 80.5)| |C|Hunter| |Z|Orgrimmar|
+B Buy Razor Arrow (x2600) |L|3030 2600| |N|Trak'gen - (48.1, 80.5)| |C|Hunter| |Z|Orgrimmar|
 N Buy [Jagged Arrows] from him |N|(48.1, 80.5)| |C|Hunter| |Z|Orgrimmar|
-B Trak'gen |L|11285 2600| |N|Trak'gen - (48.1, 80.5)| |C|Hunter| |Z|Orgrimmar|
+B Buy Jagged Arrow (x2600) |L|11285 2600| |N|Trak'gen - (48.1, 80.5)| |C|Hunter| |Z|Orgrimmar|
 t Train [Wolf Riding] |N|Kildar and Ogunaro - (69.4, 13.1)| |O| |C|!Warlock| |R|Orc| |Z|Orgrimmar|
 B Buy a [Wolf] |N|Kildar and Ogunaro - (69.4, 13.1)| |O| |C|!Warlock| |R|Orc| |Z|Orgrimmar|
 N Cast [Teleport: Orgrimmar] |O| |C|Mage| |R|Troll| |Z|Orgrimmar|
@@ -128,7 +128,7 @@ t Train your class spells |N|Anastasia - (85.1, 10.0)| |C|Mage| |Z|Undercity|
 t Train [Portal: Undercity] |N|Lexington - (84.2, 15.6)| |C|Mage| |Z|Undercity|
 T Bring the End |QID|3341| |N|Andrew - (74.0, 33.3) (RFD Dungeon Quest)| |C|Mage| |D|RFD| |Z|Undercity|
 N Buy two or more [Rune of Teleportation] from him |N|(82.8, 15.8)| |C|Mage| |Z|Undercity|
-B Hannah |L|17031 2| |N|Hannah - (82.8, 15.8)| |C|Mage| |Z|Undercity|
+B Buy Rune of Teleportation (x2) |L|17031 2| |N|Hannah - (82.8, 15.8)| |C|Mage| |Z|Undercity|
 R Travel toward Varimathras |N|(51.9, 64.7) (SM Dungeon Quest)| |D|SM| |Z|Undercity|
 T An Unholy Alliance |QID|6521| |N|Varimathras - (56.2, 92.2) (SM Dungeon Quest)| |D|SM| |Z|Undercity|
 A Into The Scarlet Monastery |QID|1048| |N|Varimathras - (56.2, 92.2) (SM Dungeon Quest)| |D|SM| |Z|Undercity|

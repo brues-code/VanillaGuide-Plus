@@ -12,7 +12,7 @@ N Save an Ichor of Undeath for your Sunken Temple class quest later if you get o
 C Spiritual Unrest |QID|5535| |OIDX|1| |N|Highborne Apparitions and Highborne Lichlings (17.1, 69.0)| |Z|Azshara|
 N Save an Ichor of Undeath for your Sunken Temple class quest later if you get one from them, if not you'll get one later |N|(17.1, 69.0)| |C|Priest| |Z|Azshara|
 C Spiritual Unrest |QID|5535| |OIDX|1| |N|Highborne Apparitions and Highborne Lichlings (17.1, 69.0)| |C|Priest| |Z|Azshara|
-C Highborne Apparitions and Highborne Lichlings |QID|8256| |L|7972 1| |N|Highborne Apparitions and Highborne Lichlings - (17.1, 69.0)| |C|Priest| |Z|Azshara|
+C Collect Ichor of Undeath (x1) |QID|8256| |L|7972 1| |N|Highborne Apparitions and Highborne Lichlings (17.1, 69.0)| |C|Priest| |Z|Azshara|
 T Spiritual Unrest |QID|5535| |N|Loh'atu - (11.4, 78.2)| |Z|Azshara|
 T A Land Filled with Hatred |QID|5536| |N|Loh'atu - (11.4, 78.2)| |Z|Azshara|
 R Travel to Felwood |N|(54.1, 86.8)| |O| |Z|Felwood|
@@ -21,9 +21,10 @@ A Timbermaw Ally |QID|8460| |N|Grazle - (50.9, 85.0)| |Z|Felwood|
 C Timbermaw Ally |QID|8460| |OIDX|1| |N|Deadwood Warriors, Deadwood Pathfinders and Deadwood Gardeners (48.2, 93.8)| |Z|Felwood|
 T Timbermaw Ally |QID|8460| |N|Grazle - (50.9, 85.0)| |Z|Felwood|
 A Speak to Nafien |QID|8462| |N|Grazle - (50.9, 85.0)| |Z|Felwood|
-C Jadefire Satyrs and Jadefire Felsworns. Loot them for a Felcloth |QID|8419| |L|14256 1| |N|Jadefire Satyrs and Jadefire Felsworns. Loot them for a Felcloth - (39.5, 84.5)| |C|Warlock| |Z|Felwood|
+C Collect Felcloth (x1) |QID|8419| |L|14256 1| |N|Jadefire Satyrs and Jadefire Felsworns. Loot them for a Felcloth (39.5, 84.5)| |C|Warlock| |Z|Felwood|
 A Forces of Jaedenar |QID|5155| |N|Greta Mosshoof - (51.2, 82.1)| |Z|Felwood|
-C Collect item |L|11914 6| |N|Open the [Package of Empty Ooze Containers]| |O| |Z|Felwood|
+C Collect Empty Cursed Ooze Jar (x6) |L|11914 6| |N|Open the [Package of Empty Ooze Containers]| |O| |Z|Felwood|
+C Collect Empty Tainted Ooze Jar (x6) |L|11948 6| |N|Open the [Package of Empty Ooze Containers]| |O| |Z|Felwood|
 N Use the [Empty Cursed Ooze Jars] on their corpses |N|(40.8, 66.9)| |Z|Felwood|
 C A Little Slime Goes a Long Way |QID|4512| |OIDX|1| |N|Cursed Oozes (40.8, 66.9)| |Z|Felwood|
 T An Imp's Request |QID|8419| |N|Impsy - (41.5, 45.0)| |C|Warlock| |Z|Felwood|

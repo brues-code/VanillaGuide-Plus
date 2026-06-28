@@ -17,8 +17,8 @@ B Vendor Trash |N|Hraug - (40.6, 68.4)| |C|Warlock| |Z|Durotar|
 t Train [Immolate] |N|Nartok - (40.6, 68.5)| |C|Warlock| |Z|Durotar|
 N Buy [Refreshing Spring Water] from her |N|(42.6, 67.3)| |C|!Hunter| |Z|Durotar|
 N Buy [Rough Arrows] from her |N|(42.6, 67.3)| |C|Hunter| |Z|Durotar|
-B Duokna |L|159 30| |N|Duokna - (42.6, 67.3)| |C|!Hunter/!Shaman| |Z|Durotar|
-B Duokna |L|2512 1000| |N|Duokna - (42.6, 67.3)| |C|Hunter| |Z|Durotar|
+B Buy Refreshing Spring Water (x30) |L|159 30| |N|Duokna - (42.6, 67.3)| |C|!Hunter/!Shaman| |Z|Durotar|
+B Buy Rough Arrow (x1000) |L|2512 1000| |N|Duokna - (42.6, 67.3)| |C|Hunter| |Z|Durotar|
 N Buy [Refreshing Spring Water] from her |N|(42.6, 67.3)| |C|Warlock| |Z|Durotar|
 B Refreshing Spring Water (5) |L|159 5| |N|Duokna - (42.6, 67.3)| |C|Warlock| |Z|Durotar|
 N Try to get to level 2 before getting there |N|(43.6, 67.3)| |O| |C|Warlock| |Z|Durotar|
@@ -72,8 +72,8 @@ t Train [Corruption] |N|Nartok - (40.6, 68.5)| |C|Warlock| |Z|Durotar|
 A Galgar's Cactus Apple Surprise |QID|4402| |N|Galgar - (42.7, 67.2)| |Z|Durotar|
 N Buy [Refreshing Spring Water] from her |N|(42.6, 67.3)| |C|!Warrior/!Hunter| |Z|Durotar|
 N Buy [Rough Arrows] from her |N|(42.6, 67.3)| |C|Hunter| |Z|Durotar|
-B Duokna |L|159 15| |N|Duokna - (42.6, 67.3)| |C|!Rogue/!Warrior/!Hunter| |Z|Durotar|
-B Duokna |L|2512 1000| |N|Duokna - (42.6, 67.3)| |C|Hunter| |Z|Durotar|
+B Buy Refreshing Spring Water (x15) |L|159 15| |N|Duokna - (42.6, 67.3)| |C|!Rogue/!Warrior/!Hunter| |Z|Durotar|
+B Buy Rough Arrow (x1000) |L|2512 1000| |N|Duokna - (42.6, 67.3)| |C|Hunter| |Z|Durotar|
 B Vendor Trash |N|Duokna - (42.6, 67.3)| |C|!Rogue| |Z|Durotar|
 T Rune-Inscribed Tablet |QID|3084| |N|Shikrik and Canaga - (42.4, 69.0)| |C|Shaman| |R|Troll| |Z|Durotar|
 T Rune-Inscribed Parchment |QID|3089| |N|Shikrik and Canaga - (42.4, 69.0)| |C|Shaman| |R|Orc| |Z|Durotar|
@@ -107,8 +107,8 @@ C Lazy Peons |QID|5441| |OIDX|1| |N|Use the [Foreman's Blackjack] on sleeping La
 T Galgar's Cactus Apple Surprise |QID|4402| |N|Galgar - (42.7, 67.2)| |Z|Durotar|
 N Buy [Refreshing Spring Water] from her |N|(42.6, 67.3)| |C|!Rogue/!Warrior/!Hunter| |Z|Durotar|
 N Buy [Rough Arrows] from her |N|(42.6, 67.3)| |C|Hunter| |Z|Durotar|
-B Duokna |L|159 5| |N|Duokna - (42.6, 67.3)| |C|!Rogue/!Warrior/!Hunter| |Z|Durotar|
-B Duokna |L|2512 1000| |N|Duokna - (42.6, 67.3)| |C|Hunter| |Z|Durotar|
+B Buy Refreshing Spring Water (x5) |L|159 5| |N|Duokna - (42.6, 67.3)| |C|!Rogue/!Warrior/!Hunter| |Z|Durotar|
+B Buy Rough Arrow (x1000) |L|2512 1000| |N|Duokna - (42.6, 67.3)| |C|Hunter| |Z|Durotar|
 B Vendor Trash |N|Duokna - (42.6, 67.3)| |Z|Durotar|
 T Sting of the Scorpid |QID|789| |N|Gornek - (42.1, 68.3)| |C|Shaman| |Z|Durotar|
 T Sting of the Scorpid |QID|789| |N|Gornek - (42.1, 68.3)| |C|!Shaman| |Z|Durotar|
@@ -149,7 +149,7 @@ R Travel toward Rwag |N|(41.3, 68.0)| |O| |C|Rogue| |Z|Durotar|
 t Train [Sinister Strike] & [Gouge] |N|Rwag - (41.3, 68.0)| |C|Rogue| |Z|Durotar|
 R Travel toward Hraug |N|(40.6, 68.4)| |O| |C|Warlock| |Z|Durotar|
 N Buy the [Grimoire of Blood Pact] from him |N|(40.6, 68.4)| |C|Warlock| |Z|Durotar|
-B Grimoire of Blood Pact |L|16321 1| |N|Hraug - (40.6, 68.4)| |C|Warlock| |Z|Durotar|
+B Grimoire of Blood Pact - Grimoire of Blood Pact (Rank 1) (x1) |L|16321 1| |N|Hraug - (40.6, 68.4)| |C|Warlock| |Z|Durotar|
 B Vendor Trash |N|Hraug - (40.6, 68.4)| |C|Warlock| |Z|Durotar|
 t Blood Pact (Rank 1) |N|Hraug - (40.6, 68.4)| |C|Warlock| |Z|Durotar|
 t Train [Shadow Bolt] & [Life Tap] |N|Nartok - (40.6, 68.5)| |C|Warlock| |Z|Durotar|

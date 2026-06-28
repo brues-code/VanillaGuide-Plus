@@ -75,7 +75,7 @@ C Up to Snuff |QID|587| |OIDX|1| |N|Bloodsail Pirates. Loot them for their Snuff
 C Keep An Eye Out |QID|576| |OIDX|1| |N|Bloodsail Pirates. Loot them for Dizzy's Eye (24.5, 54.1)| |P|SOLO| |Z|Stranglethorn Vale|
 C Mok'thardin's Enchantment |QID|573| |OIDX|1| |N|Kill Naga Explorers. Loot them for their Akiris Reed| |O| |Z|Stranglethorn Vale|
 C Akiris by the Bundle |QID|617| |OIDX|1| |N|Kill Naga Explorers. Loot them for their Akiris Reed| |O| |Z|Stranglethorn Vale|
-C The Holy Spring to loot the Holy Spring Water |QID|573| |L|737 1| |N|The Holy Spring to loot the Holy Spring Water - (29.0, 61.9)| |Z|Stranglethorn Vale|
+C Collect Holy Spring Water (x1) |QID|573| |L|737 1| |N|The Holy Spring to loot the Holy Spring Water (29.0, 61.9)| |Z|Stranglethorn Vale|
 C Mok'thardin's Enchantment |QID|573| |OIDX|1| |N|Finish killing Naga Explorers. Loot them for their Akiris Reed (27.0, 61.4)| |Z|Stranglethorn Vale|
 C Akiris by the Bundle |QID|617| |OIDX|1| |N|Finish killing Naga Explorers. Loot them for their Akiris Reed (27.0, 61.4)| |Z|Stranglethorn Vale|
 T Keep An Eye Out |QID|576| |N|Dizzy One-Eye - (28.6, 75.9)| |Z|Stranglethorn Vale|
@@ -111,13 +111,13 @@ R Barnil |N|[Group] (35.7, 10.8)| |O| |P|GROUP| |Z|Stranglethorn Vale|
 T Big Game Hunter |QID|208| |N|[Group] Hemet - (35.7, 10.8)| |P|GROUP| |Z|Stranglethorn Vale|
 T The Mind's Eye |QID|591| |N|[Group] Kin'weelay - (32.2, 27.8)| |P|GROUP| |Z|Stranglethorn Vale|
 A Saving Yenniku |QID|592| |N|[Group] Kin'weelay - (32.2, 27.8)| |P|GROUP| |Z|Stranglethorn Vale|
-C any Gorilla that you find. Loot them for their Fangs |L|2799 10| |N|[Group] any Gorilla that you find. Loot them for their Fangs - (32.8, 65.8)| |O| |P|GROUP| |Z|Stranglethorn Vale|
+C Collect Gorilla Fang (x10) |L|2799 10| |N|[Group] any Gorilla that you find. Loot them for their Fangs (32.8, 65.8)| |O| |P|GROUP| |Z|Stranglethorn Vale|
 T Stranglethorn Fever |QID|349| |N|[Group] Witch Doctor Unbagwa - (35.3, 60.4)| |P|GROUP| |Z|Stranglethorn Vale|
 C Stranglethorn Fever |QID|348| |OIDX|1| |N|[Group] Face waves of Gorillas until Mokk the Savage appears. Kill him and loot him for his Heart (35.3, 60.4)| |P|GROUP| |Z|Stranglethorn Vale|
 C Saving Yenniku |QID|592| |OIDX|1| |N|[Group] Use the [Soul Gem] on Yenniku, then talk to him to retrieve his Gem (39.0, 58.2)| |P|GROUP| |Z|Stranglethorn Vale|
 C The Captain's Chest |QID|8551| |OIDX|1| |N|[Group] Gorlash. Loot him for his Chest (36.9, 69.5)| |P|GROUP| |Z|Stranglethorn Vale|
 A Cortello's Riddle |QID|624| |N|[Group] Search the ships' lower levels until you find a Small Scroll on the ground. Loot it for [Cortello's Riddle]. Use it to start the quest - (29.3, 88.3)| |O| |P|GROUP| |Z|Stranglethorn Vale|
-C Search the ships' lower levels until you find a Small Scroll on the ground. Loot it for [Cortello's Riddle]. Use it to start the quest |QID|624| |L|4056 1| |N|[Group] Search the ships' lower levels until you find a Small Scroll on the ground. Loot it for [Cortello's Riddle]. Use it to start the quest - (29.3, 88.3)| |O| |P|GROUP| |Z|Stranglethorn Vale|
+C Collect Cortello's Riddle (x1) |QID|624| |L|4056 1| |N|[Group] Search the ships' lower levels until you find a Small Scroll on the ground. Loot it for [Cortello's Riddle]. Use it to start the quest (29.3, 88.3)| |O| |P|GROUP| |Z|Stranglethorn Vale|
 C Up to Snuff |QID|587| |OIDX|1| |N|[Group] Kill Bloodsail Pirates. Loot them for their Snuff and Dizzy's Eye| |O| |P|GROUP| |Z|Stranglethorn Vale|
 C Keep An Eye Out |QID|576| |OIDX|1| |N|[Group] Kill Bloodsail Pirates. Loot them for their Snuff and Dizzy's Eye| |O| |P|GROUP| |Z|Stranglethorn Vale|
 C The Bloodsail Buccaneers |QID|608| |OIDX|1| |N|[Group] Captain Stillwater on the 2nd floor at the back of the ship (32.9, 88.2)| |P|GROUP| |Z|Stranglethorn Vale|

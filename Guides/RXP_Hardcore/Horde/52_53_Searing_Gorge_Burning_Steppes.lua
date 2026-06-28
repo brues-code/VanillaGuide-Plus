@@ -5,20 +5,20 @@ return [[
 N 52-53 Searing Gorge/Burning Steppes |N|Converted from RestedXP guide|
 
 A Broken Alliances |QID|793| |N|[Group] Gorn - (2.8, 45.8)| |P|GROUP| |Z|Badlands|
-C the Pillar of Opal for the Opal Runestone |L|4844 1| |N|[Group] the Pillar of Opal for the Opal Runestone - (72.3, 66.8)| |P|GROUP| |Z|Badlands|
-C the Pillar of Amethyst for the Amethyst Runestone |L|4843 1| |N|[Group] the Pillar of Amethyst for the Amethyst Runestone - (81.3, 64.2)| |P|GROUP| |Z|Badlands|
-C the Pillar of Diamond for the Diamond Runestone |L|4845 1| |N|[Group] the Pillar of Diamond for the Diamond Runestone - (83.5, 32.9)| |P|GROUP| |Z|Badlands|
+C Collect Opal Runestone (x1) |L|4844 1| |N|[Group] the Pillar of Opal for the Opal Runestone (72.3, 66.8)| |P|GROUP| |Z|Badlands|
+C Collect Amethyst Runestone (x1) |L|4843 1| |N|[Group] the Pillar of Amethyst for the Amethyst Runestone (81.3, 64.2)| |P|GROUP| |Z|Badlands|
+C Collect Diamond Runestone (x1) |L|4845 1| |N|[Group] the Pillar of Diamond for the Diamond Runestone (83.5, 32.9)| |P|GROUP| |Z|Badlands|
 A Seal of the Earth |QID|795| |N|[Group] After collecting the 3 runestones, click the Seal of the Earth to summon Blacklash and Hematus - (81.7, 49.9)| |P|GROUP| |Z|Badlands|
 T Seal of the Earth |QID|795| |N|[Group] After collecting the 3 runestones, click the Seal of the Earth to summon Blacklash and Hematus - (81.7, 49.9)| |P|GROUP| |Z|Badlands|
 N Simplify this encounter by killing Hematus first, as his flame buffet intensifies Blacklash's fire breath |N|[Group] (81.7, 49.9)| |P|GROUP| |Z|Badlands|
 C Broken Alliances |QID|793| |OIDX|1| |N|[Group] Blacklash and Hematus. Loot them for their Bindings and Chains (81.7, 49.9)| |P|GROUP| |Z|Badlands|
 N You will need the cloth for an upcoming quest. Badlands mobs have a substantially higher drop rate than Searing Gorge mobs |N|[Group]| |P|GROUP| |Z|Badlands|
-C If you don't have 15 Silk Cloth, collect it from Shadowforge dwarves in Angor Fortress or the Hammertoe Dig Site |L|4306 15| |N|[Group] If you don't have 15 Silk Cloth, collect it from Shadowforge dwarves in Angor Fortress or the Hammertoe Dig Site| |P|GROUP| |Z|Badlands|
+C Collect Silk Cloth (x15) |L|4306 15| |N|[Group] If you don't have 15 Silk Cloth, collect it from Shadowforge dwarves in Angor Fortress or the Hammertoe Dig Site| |P|GROUP| |Z|Badlands|
 T Broken Alliances |QID|793| |N|[Group] Gorn - (2.8, 45.8)| |P|GROUP| |Z|Badlands|
 N You may have to wait for Thal'trak to finish his RP. Just follow him |N|(3.4, 48.1)| |Z|Badlands|
 A Dreadmaul Rock |QID|3821| |N|Thal'trak - (3.4, 48.1)| |Z|Badlands|
 N You will need the cloth for an upcoming quest. Badlands mobs have a substantially higher drop rate than Searing Gorge mobs |O| |Z|Badlands|
-C If you don't have 15 Silk Cloth, collect it from Shadowforge dwarves in Angor Fortress or the Hammertoe Dig Site |QID|4449| |L|4306 15| |N|If you don't have 15 Silk Cloth, collect it from Shadowforge dwarves in Angor Fortress or the Hammertoe Dig Site| |O| |Z|Badlands|
+C Collect Silk Cloth (x15) |QID|4449| |L|4306 15| |N|If you don't have 15 Silk Cloth, collect it from Shadowforge dwarves in Angor Fortress or the Hammertoe Dig Site| |O| |Z|Badlands|
 R Travel to Searing Gorge |N|(72.3, 55.5)| |Z|Searing Gorge|
 N You may need to travel between the northern camp and the southern digsite to complete this quest |N|(69.3, 33.4)| |Z|Searing Gorge|
 N Skip this quest for now if there is too much competition |N|(69.3, 33.4)| |Z|Searing Gorge|
@@ -58,7 +58,7 @@ C What the Flux? |QID|7722| |OIDX|1| |N|[Group] Exit the cave again and re-enter
 C WANTED: Overseer Maltorius |QID|7701| |OIDX|1| |N|[Group] Exit the cave again and re-enter through its right side (40.5, 35.8)| |P|GROUP| |Z|Searing Gorge|
 C Forging the Shaft |QID|3443| |OIDX|1| |N|all Dark Iron Dwarves and Slave Workers. Loot them for their Daggers (48.3, 50.8)| |Z|Searing Gorge|
 N Do not accept the quest yet! This may cause questlog issues |N|(48.3, 50.8)| |Z|Searing Gorge|
-C Keep killing Dark Iron Dwarves until you loot the [Grimesilt Outhouse Key] |QID|4451| |L|11818 1| |N|Keep killing Dark Iron Dwarves until you loot the [Grimesilt Outhouse Key] - (48.3, 50.8)| |Z|Searing Gorge|
+C Collect Grimesilt Outhouse Key (x1) |QID|4451| |L|11818 1| |N|Keep killing Dark Iron Dwarves until you loot the [Grimesilt Outhouse Key] (48.3, 50.8)| |Z|Searing Gorge|
 T Forging the Shaft |QID|3443| |N|[Group] Velarok - (39.0, 39.0)| |P|GROUP| |Z|Searing Gorge|
 A The Flame's Casing |QID|3452| |N|[Group] Velarok - (39.0, 39.0)| |P|GROUP| |Z|Searing Gorge|
 T Forging the Shaft |QID|3443| |N|Velarok - (39.0, 39.0)| |Z|Searing Gorge|
@@ -85,7 +85,7 @@ C Set Them Ablaze! |QID|3463| |OIDX|2| |N|[Group] Climb the tower and click the 
 N You may need to travel between the northern camp and the southern digsite to complete this quest |N|(69.3, 33.4)| |Z|Searing Gorge|
 C Caught! |QID|4449| |OIDX|1| |N|Dark Iron Geologists (69.3, 33.4)| |Z|Searing Gorge|
 T Caught! |QID|4449| |N|on the Wooden Outhouse - (65.6, 62.2)| |Z|Searing Gorge|
-C Use the [Grimesilt Outhouse Key] to accept the quest |QID|4451| |L|11818 1| |N|Use the [Grimesilt Outhouse Key] to accept the quest - (65.6, 62.2)| |Z|Searing Gorge|
+C Collect Grimesilt Outhouse Key (x1) |QID|4451| |L|11818 1| |N|Use the [Grimesilt Outhouse Key] to accept the quest (65.6, 62.2)| |Z|Searing Gorge|
 A The Key to Freedom |QID|4451| |N|Use the [Grimesilt Outhouse Key] to accept the quest - (65.6, 62.2)| |Z|Searing Gorge|
 T The Key to Freedom |QID|4451| |N|on the Wooden Outhouse - (65.6, 62.2)| |Z|Searing Gorge|
 N Equip the [Torch of Retribution] to be able light it |N|[Group] (50.1, 54.7)| |P|GROUP| |Z|Searing Gorge|

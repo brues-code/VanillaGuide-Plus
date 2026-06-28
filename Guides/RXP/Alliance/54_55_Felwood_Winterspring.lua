@@ -5,7 +5,7 @@ return [[
 N 54-55 Felwood/Winterspring |N|Converted from RestedXP guide|
 
 N Grind your way down south until you have 6 |O|
-C Corrupted Soul Shards from any Mobs in Felwood |QID|5882| |L|11515 6| |N|Loot Corrupted Soul Shards from any Mobs in Felwood| |O|
+C Collect Corrupted Soul Shard (x6) |QID|5882| |L|11515 6| |N|Loot Corrupted Soul Shards from any Mobs in Felwood| |O|
 T Felbound Ancients |QID|4441| |N|Eridan Bluewind - (51.4, 81.5)| |Z|Felwood|
 T Cleansed Water Returns to Felwood |QID|5159| |N|Greta Mosshoof - (51.2, 82.1)| |Z|Felwood|
 A Dousing the Flames of Protection |QID|5165| |N|Greta Mosshoof - (51.2, 82.1)| |Z|Felwood|
@@ -14,13 +14,13 @@ A Purified! |QID|4442| |N|Eridan Bluewind - (51.4, 81.5)| |Z|Felwood|
 T Purified! |QID|4442| |N|Eridan Bluewind - (51.4, 81.5)| |Z|Felwood|
 N Turn in your 6 [Corrupted Soul Shards] you have to receive 2 [Cenarion Plant Salves] |N|(54.1, 86.8)| |Z|Felwood|
 N If you don't have 6 get them from the Furbolgs to the west |N|(54.1, 86.8)| |Z|Felwood|
-C Arathandris Silversky |QID|5882| |L|11515 6| |N|Arathandris Silversky - (54.1, 86.8)| |Z|Felwood|
+C Collect Corrupted Soul Shard (x6) |QID|5882| |L|11515 6| |N|Arathandris Silversky (54.1, 86.8)| |Z|Felwood|
 A Salve via Hunting |QID|5882| |N|Arathandris Silversky - (54.1, 86.8)| |Z|Felwood|
 T Salve via Hunting |QID|5882| |N|Arathandris Silversky - (54.1, 86.8)| |Z|Felwood|
 C Dousing the Flames of Protection |QID|5165| |OIDX|1| |N|Click the four Braziers on the ground (36.3, 56.3)| |O| |Z|Felwood|
 N Use the [Blood Red Key] to start the quest |Z|Felwood|
 N This will begin an escort quest. Start this escort even if you still need to Extinguish Braziers |Z|Felwood|
-C Jaedenar Enforcers, Jaedenar Darkweavers, Jaedenar Warlocks and Jaedenar Legionnaires. Loot them for a [Blood Red Key] |QID|5202| |L|13140 1| |N|Kill Jaedenar Enforcers, Jaedenar Darkweavers, Jaedenar Warlocks and Jaedenar Legionnaires. Loot them for a [Blood Red Key]| |Z|Felwood|
+C Collect Blood Red Key (x1) |QID|5202| |L|13140 1| |N|Kill Jaedenar Enforcers, Jaedenar Darkweavers, Jaedenar Warlocks and Jaedenar Legionnaires. Loot them for a [Blood Red Key]| |Z|Felwood|
 A A Strange Red Key |QID|5202| |N|Kill Jaedenar Enforcers, Jaedenar Darkweavers, Jaedenar Warlocks and Jaedenar Legionnaires. Loot them for a [Blood Red Key]| |Z|Felwood|
 T A Strange Red Key |QID|5202| |N|Captured Arko'narin - (36.2, 55.5)| |Z|Felwood|
 A Rescue From Jaedenar |QID|5203| |N|Captured Arko'narin - (36.2, 55.5)| |Z|Felwood|
@@ -49,7 +49,7 @@ A Strange Sources |QID|4842| |N|Donova Snowden - (31.3, 45.2)| |Z|Winterspring|
 A Threat of the Winterfall |QID|5082| |N|Donova Snowden - (31.3, 45.2)| |Z|Winterspring|
 C Threat of the Winterfall |QID|5082| |OIDX|1| |N|Winterfall Pathfinders, Winterfall Den Watchers and Winterfall Totemics (41.6, 42.8)| |Z|Winterspring|
 N Use the [Empty Firewater Flask] to start the quest |Z|Winterspring|
-C Winterfall Furbolgs. Loot them for a [Empty Firewater Flask] |QID|5083| |L|12771 1| |N|Kill Winterfall Furbolgs. Loot them for a [Empty Firewater Flask]| |Z|Winterspring|
+C Collect Empty Firewater Flask (x1) |QID|5083| |L|12771 1| |N|Kill Winterfall Furbolgs. Loot them for a [Empty Firewater Flask]| |Z|Winterspring|
 A Winterfall Firewater |QID|5083| |N|Kill Winterfall Furbolgs. Loot them for a [Empty Firewater Flask]| |Z|Winterspring|
 N Be ready to move away from Donova Snowden quickly as after you turn in Winterfall Runners, 3 Winterfall Ambushers will attack her location |N|(31.3, 45.2)| |Z|Winterspring|
 T Threat of the Winterfall |QID|5082| |N|Donova Snowden - (31.3, 45.2)| |Z|Winterspring|

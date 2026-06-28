@@ -13,7 +13,7 @@ t Train Thrown |N|Ilyenia Moonfire - (57.6, 46.7)| |C|Warrior| |R|NightElf| |Z|D
 t Train your class spells |N|Jocaste - (40.4, 8.5)| |O| |C|Hunter| |R|NightElf| |Z|Darnassus|
 N Buy a [Heavy Recurve Bow] if you can afford it. If not then buy a [Reinforced Bow] |N|(63.3, 66.3)| |O| |C|Hunter| |R|NightElf| |Z|Darnassus|
 N Stock up on [Sharp Arrows] |N|(63.3, 66.3)| |O| |C|Hunter| |R|NightElf| |Z|Darnassus|
-B Landria |L|3027 1| |N|Landria - (63.3, 66.3)| |O| |C|Hunter| |R|NightElf| |Z|Darnassus|
+B Buy Heavy Recurve Bow (x1) |L|3027 1| |N|Landria - (63.3, 66.3)| |O| |C|Hunter| |R|NightElf| |Z|Darnassus|
 N Enter the Cenarion Enclave |N|(31.8, 16.7)| |C|Rogue| |R|NightElf| |Z|Darnassus|
 N Syurna |N|(31.8, 16.7)| |C|Rogue| |R|NightElf| |Z|Darnassus|
 t Train your class spells |N|(37.0, 21.9)| |C|Rogue| |R|NightElf| |Z|Darnassus|
@@ -29,7 +29,7 @@ A The Absent Minded Prospector |QID|729| |N|Archaeologist Hollee - (37.4, 41.8)|
 A The Absent Minded Prospector |QID|729| |N|Archaeologist Hollee - (37.4, 41.8)| |O| |R|NightElf| |Z|Darkshore|
 T The Cliffspring River |QID|4762| |N|Thundris Windweaver - (37.4, 40.1)| |Z|Darkshore|
 A The Blackwood Corrupted |QID|4763| |N|Thundris Windweaver - (37.4, 40.1)| |Z|Darkshore|
-C The Blackwood Corrupted |QID|4763| |L|12347 1| |N|Use the [Empty Cleansing Bowl] at the Auberdine Moonwell (37.8, 44.1)| |Z|Darkshore|
+C Collect Filled Cleansing Bowl (x1) |QID|4763| |L|12347 1| |N|Use the [Empty Cleansing Bowl] at the Auberdine Moonwell (37.8, 44.1)| |Z|Darkshore|
 C For Love Eternal |QID|963| |OIDX|1| |N|Be aware that she has a 7-8 minute spawn time and 4 different spawnpoints across Ameth'Aran Anaya's Pendant (1)| |P|SOLO| |Z|Darkshore|
 N You may want to group with others nearby if you can't find her. Ask in General Chat (/1) to group with anyone else that is also looking for her |N|[Group] (42.5, 60.7)| |P|GROUP| |Z|Darkshore|
 C For Love Eternal |QID|963| |OIDX|1| |N|[Group] Be aware that she has a 7-8 minute spawn time and 4 different spawnpoints across Ameth'Aran Anaya's Pendant (1)| |P|GROUP| |Z|Darkshore|
@@ -108,15 +108,18 @@ C Curing the Sick |QID|6124| |OIDX|1| |N|Use the [Curative Animal Salve] on Sick
 C Curing the Sick |QID|6124| |OIDX|1| |N|Kill Sickly Deer Sickly Deer cured (10)| |C|Druid| |Z|Darkshore|
 N Looting this will spawn 2 Blackwood Furbolgs that will agro and run towards you. Be ready to fight them or reset them |N|(50.7, 34.9)| |O| |Z|Darkshore|
 N If you see Xabraxxis yell in chat or see someone fighting him, help them. Open the Xabraxxis' Demon Bag he drops on the ground. Loot it for the Talisman of Corruption |N|(50.7, 34.9)| |O| |Z|Darkshore|
-C Blackwood Grain Stores (1) |QID|4763| |L|12342 1| |N|the Blackwood Grain Stores. Loot it for the [Blackwood Grain Sample] (50.7, 34.9)| |O| |Z|Darkshore|
+C Blackwood Grain Stores (1) - Blackwood Grain Sample (x1) |QID|4763| |L|12342 1| |N|the Blackwood Grain Stores. Loot it for the [Blackwood Grain Sample] (50.7, 34.9)| |O| |Z|Darkshore|
+C The Blackwood Corrupted |QID|4763| |OIDX|1| |N|the Blackwood Grain Stores. Loot it for the [Blackwood Grain Sample] Talisman of Corruption (1)| |O| |Z|Darkshore|
 N Be careful as the Thistle Cubs can cast [Ravage], a meele instant attack which stuns you for 2 seconds |N|(51.5, 38.3)| |Z|Darkshore|
 C Tharnariun's Hope |QID|2139| |OIDX|1| |N|Den Mother Den Mother (1)| |Z|Darkshore|
 N Looting this will spawn 2 Blackwood Furbolgs that will agro and run towards you. Be ready to fight them or reset them |N|(51.8, 33.5)| |O| |Z|Darkshore|
 N If you see Xabraxxis yell in chat or see someone fighting him, help them. Open the Xabraxxis' Demon Bag he drops on the ground. Loot it for the Talisman of Corruption |N|(51.8, 33.5)| |O| |Z|Darkshore|
 C Blackwood Nut Sample (1) |QID|4763| |L|12343 1| |N|the Blackwood Nut Stores. Loot it for the [Blackwood Nut Sample] (51.8, 33.5)| |O| |Z|Darkshore|
+C The Blackwood Corrupted |QID|4763| |OIDX|1| |N|the Blackwood Nut Stores. Loot it for the [Blackwood Nut Sample] Talisman of Corruption (1)| |O| |Z|Darkshore|
 N Looting this will spawn 2 Blackwood Furbolgs that will agro and run towards you. Be ready to fight them or reset them |N|(52.9, 33.4)| |O| |Z|Darkshore|
 N If you see Xabraxxis yell in chat or see someone fighting him, help them. Open the Xabraxxis' Demon Bag he drops on the ground. Loot it for the Talisman of Corruption |N|(52.9, 33.4)| |O| |Z|Darkshore|
 C Blackwood Fruit Sample (1) |QID|4763| |L|12341 1| |N|the Blackwood Fruit Stores. Loot it for the [Blackwood Fruit Sample] (52.9, 33.4)| |O| |Z|Darkshore|
+C The Blackwood Corrupted |QID|4763| |OIDX|1| |N|the Blackwood Fruit Stores. Loot it for the [Blackwood Fruit Sample] Talisman of Corruption (1)| |O| |Z|Darkshore|
 N Use the [Filled Cleansing Bowl] at the Bonfire to summon Xabraxxis |N|(52.4, 33.4)| |O| |Z|Darkshore|
 C The Blackwood Corrupted |QID|4763| |OIDX|1| |N|Xabraxxis. Open the Xabraxxis' Demon Bag he drops on the ground. Loot it for the Talisman of Corruption Talisman of Corruption (1)| |Z|Darkshore|
 C Buzzbox 323 |QID|1002| |OIDX|1| |N|Moonstalker Runts and Moonstalkers. Loot them for their Moonstalker Fangs Moonstalker Fang (6)| |O| |Z|Darkshore|
@@ -202,6 +205,7 @@ B Simple Wood (1) |L|4470 1| |N|Dalmond - (37.5, 40.5)| |C|!Hunter| |Z|Darkshore
 B Flint and Tinder (1) |L|4471 1| |N|Dalmond - (37.5, 40.5)| |C|!Hunter| |Z|Darkshore|
 B Buy [Mild Spices] from him until you have [Mild Spices] equal or more than the amount of [Small Eggs] that you currently have |N|Gorbold Steelhand - (38.1, 41.2)| |O| |C|!Hunter| |Z|Darkshore|
 B x20,cooking --Mild Spices (1-50) |L|2678 50| |N|Gorbold Steelhand - (38.1, 41.2)| |O| |C|!Hunter| |Z|Darkshore|
+B x20,cooking --Small Egg (1-50) |L|6889 50| |N|Gorbold Steelhand - (38.1, 41.2)| |O| |C|!Hunter| |Z|Darkshore|
 R the dock of the Menethil Harbor boat |N|(32.4, 43.7)| |O| |C|!Hunter| |Z|Darkshore|
 N On the Boat if it just arrived or on the dock if the boat just left: |O| |C|!Hunter| |Z|Darkshore|
 N Create a [Basic Campfire] (under the General Tab of your Spellbook) |O| |C|!Hunter| |Z|Darkshore|

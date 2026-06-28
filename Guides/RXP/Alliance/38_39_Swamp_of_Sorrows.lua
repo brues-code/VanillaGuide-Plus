@@ -43,7 +43,7 @@ N The drop rate of this item is very low. Don't go out of your way to complete t
 C Mazen's Behest |QID|1364| |OIDX|1| |N|Kill Swampwalkers, Swampwalker Elders, Tangled Horrors and Mire Lords. Loot them for Khadgar's Essays| |O| |Z|Swamp of Sorrows|
 C Encroaching Wildlife |QID|1396| |OIDX|1| |N|Young Sawtooth Crocolisks, Sorrow Spinners and Swamp Jaguars (28.2, 43.8)| |O| |Z|Swamp of Sorrows|
 N Noboru the Cudgel patrols a large section of Swamp of Sorrows. The patrol path is marked on your map. He spawns where the patrol route starts on the eastern point |N|(55.5, 36.8)| |Z|Swamp of Sorrows|
-C Noboru the Cudgel. Loot him for [Noboru's Cudgel] |QID|1392| |L|6196 1| |N|Use [Noboru's Cudgel] to start the quest (55.5, 36.8)| |Z|Swamp of Sorrows|
+C Collect Noboru's Truncheon (x1) |QID|1392| |L|6196 1| |N|Use [Noboru's Cudgel] to start the quest (55.5, 36.8)| |Z|Swamp of Sorrows|
 A Noboru the Cudgel |QID|1392| |N|Use [Noboru's Cudgel] to start the quest - (55.5, 36.8)| |Z|Swamp of Sorrows|
 T Noboru the Cudgel |QID|1392| |N|Magtoor - (26.0, 31.4)| |Z|Swamp of Sorrows|
 A Draenethyst Crystals |QID|1389| |N|Magtoor - (26.0, 31.4)| |Z|Swamp of Sorrows|
@@ -94,7 +94,7 @@ N [Blue Pearls] |N|(57.1, 73.0)| |Z|Stormwind City|
 N [Silk Cloth] (15) |N|(57.1, 73.0)| |Z|Stormwind City|
 N [Khadgar's Essays on Dimensional Convergence] (if you have it) |N|(57.1, 73.0)| |C|Hunter| |Z|Stormwind City|
 N Buy a [Pitchwood Wand] from her if it's better than your current wand. Equip it at 40 |N|(42.9, 65.1)| |O| |C|Priest| |Z|Stormwind City|
-B Ardwyn Cailen |L|5238 1| |N|Ardwyn Cailen - (42.9, 65.1)| |O| |C|Priest| |Z|Stormwind City|
+B Buy Pitchwood Wand (x1) |L|5238 1| |N|Ardwyn Cailen - (42.9, 65.1)| |O| |C|Priest| |Z|Stormwind City|
 R the Stormwind Cathedral |N|(42.5, 33.5)| |O| |C|Priest/Paladin| |Z|Stormwind City|
 N Arthur the Faithful |N|(38.8, 31.3)| |C|Paladin| |Z|Stormwind City|
 t Train your class spells |N|(38.7, 32.8)| |C|Paladin| |Z|Stormwind City|

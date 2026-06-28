@@ -27,7 +27,7 @@ T Trolls of a Feather |QID|8422| |N|Impsy - (41.5, 45.0) (ST Dungeon Quest)| |C|
 C Silver Heart |QID|4084| |OIDX|1| |N|Kill Irontree Stompers or Irontree Wanderers. Loot them for their Irontree Heart (55.6, 23.4)| |Z|Felwood|
 N Use the [Flute of Xavaric] to start the quest |N|(39.0, 22.3)| |Z|Felwood|
 C Further Corruption |QID|4906| |OIDX|4| |N|Xavaric. Loot him for the [Flute of Xavaric] (39.0, 22.3)| |Z|Felwood|
-C Xavaric. Loot him for the [Flute of Xavaric] |QID|939| |L|11668 1| |N|Xavaric. Loot him for the [Flute of Xavaric] - (39.0, 22.3)| |Z|Felwood|
+C Collect Flute of Xavaric (x1) |QID|939| |L|11668 1| |N|Xavaric. Loot him for the [Flute of Xavaric] (39.0, 22.3)| |Z|Felwood|
 A Flute of Xavaric |QID|939| |N|Xavaric. Loot him for the [Flute of Xavaric] - (39.0, 22.3)| |Z|Felwood|
 C Further Corruption |QID|4906| |OIDX|1| |N|Jadefire Hellcallers, Jadefire Betrayers and Jadefire Trickster. Loot them for their Jadefire Felbinds (39.0, 22.3)| |Z|Felwood|
 C Flute of Xavaric |QID|939| |OIDX|1| |N|Jadefire Hellcallers, Jadefire Betrayers and Jadefire Trickster. Loot them for their Jadefire Felbinds (39.0, 22.3)| |Z|Felwood|
@@ -67,12 +67,12 @@ T The Ruins of Kel'Theril |QID|5244| |N|Wynd Nightchaser and Jaron Stoneshaper -
 A Enraged Wildkin |QID|4861| |N|Wynd Nightchaser and Jaron Stoneshaper - (52.0, 30.4)| |Z|Winterspring|
 N Use the [Crudely-written Log] to start the quest |N|[Group] (69.8, 38.2)| |O| |P|GROUP| |Z|Winterspring|
 C High Chief Winterfall |QID|5121| |OIDX|1| |N|[Group] High Chief Winterfall. Loot him for his [Crudely-written Log] (69.8, 38.2)| |O| |P|GROUP| |Z|Winterspring|
-C High Chief Winterfall. Loot him for his [Crudely-written Log] |QID|5123| |L|12842 1| |N|[Group] High Chief Winterfall. Loot him for his [Crudely-written Log] - (69.8, 38.2)| |O| |P|GROUP| |Z|Winterspring|
+C Collect Crudely-written Log (x1) |QID|5123| |L|12842 1| |N|[Group] High Chief Winterfall. Loot him for his [Crudely-written Log] (69.8, 38.2)| |O| |P|GROUP| |Z|Winterspring|
 A The Final Piece |QID|5123| |N|[Group] High Chief Winterfall. Loot him for his [Crudely-written Log] - (69.8, 38.2)| |O| |P|GROUP| |Z|Winterspring|
 C Winterfall Activity |QID|8464| |OIDX|1| |N|Winterfall Shamans, Winterfall Den Watchers and Winterfall Ursas (68.0, 37.7)| |Z|Winterspring|
 N Use the [Crudely-written Log] to start the quest |N|[Group] (69.8, 38.2)| |P|GROUP| |Z|Winterspring|
 C High Chief Winterfall |QID|5121| |OIDX|1| |N|[Group] High Chief Winterfall. Loot him for his [Crudely-written Log] (69.8, 38.2)| |P|GROUP| |Z|Winterspring|
-C High Chief Winterfall. Loot him for his [Crudely-written Log] |QID|5123| |L|12842 1| |N|[Group] High Chief Winterfall. Loot him for his [Crudely-written Log] - (69.8, 38.2)| |P|GROUP| |Z|Winterspring|
+C Collect Crudely-written Log (x1) |QID|5123| |L|12842 1| |N|[Group] High Chief Winterfall. Loot him for his [Crudely-written Log] (69.8, 38.2)| |P|GROUP| |Z|Winterspring|
 A The Final Piece |QID|5123| |N|[Group] High Chief Winterfall. Loot him for his [Crudely-written Log] - (69.8, 38.2)| |P|GROUP| |Z|Winterspring|
 R Azzleby |N|(60.4, 37.9)| |C|Hunter| |Z|Winterspring|
 t Attack mobs with it to learn [Claw (Rank 8)] |N|Cast [Tame Beast] on a Winterspring Screecher to tame it - (59.6, 18.0)| |C|Hunter| |Z|Winterspring|

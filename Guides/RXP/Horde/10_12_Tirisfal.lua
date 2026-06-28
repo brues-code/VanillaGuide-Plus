@@ -30,9 +30,10 @@ N Buy [Ice Cold Milk] from her |N|(61.7, 52.1)| |C|Mage/Priest/Shaman| |Z|Tirisf
 N Buy [Red-speckled Mushrooms] from her |N|(61.7, 52.1)| |C|Warrior/Rogue| |Z|Tirisfal Glades|
 N Buy [Ice Cold Milk] and [Red-speckled Mushrooms] from her |N|(61.7, 52.1)| |C|Warlock| |Z|Tirisfal Glades|
 B Vendor Trash |N|Innkeeper Renee - (61.7, 52.1)| |C|!Mage| |Z|Tirisfal Glades|
-B Innkeeper Renee |L|1179 20| |N|Innkeeper Renee - (61.7, 52.1)| |C|Mage/Priest/Shaman| |Z|Tirisfal Glades|
-B Innkeeper Renee |L|4605 20| |N|Innkeeper Renee - (61.7, 52.1)| |C|Rogue/Warrior| |Z|Tirisfal Glades|
-B Innkeeper Renee |L|1179 15| |N|Innkeeper Renee - (61.7, 52.1)| |C|Warlock| |Z|Tirisfal Glades|
+B Buy Ice Cold Milk (x20) |L|1179 20| |N|Innkeeper Renee - (61.7, 52.1)| |C|Mage/Priest/Shaman| |Z|Tirisfal Glades|
+B Buy Red-speckled Mushroom (x20) |L|4605 20| |N|Innkeeper Renee - (61.7, 52.1)| |C|Rogue/Warrior| |Z|Tirisfal Glades|
+B Buy Ice Cold Milk (x15) |L|1179 15| |N|Innkeeper Renee - (61.7, 52.1)| |C|Warlock| |Z|Tirisfal Glades|
+B Buy Red-speckled Mushroom (x15) |L|4605 15| |N|Innkeeper Renee - (61.7, 52.1)| |C|Warlock| |Z|Tirisfal Glades|
 N Buy one or more [Small Brown Pouches] from her |N|(61.1, 52.6)| |Z|Tirisfal Glades|
 B Small Brown Pouch (1) |L|4496 1| |N|Mrs. Winters - (61.1, 52.6)| |Z|Tirisfal Glades|
 A At War With The Scarlet Crusade |QID|427| |N|Zygand - (60.6, 51.8)| |Z|Tirisfal Glades|
@@ -163,9 +164,10 @@ N Buy [Ice Cold Milk] from her |N|(61.7, 52.1)| |C|Mage/Priest/Shaman| |Z|Tirisf
 N Buy [Red-speckled Mushroom] from her |N|(61.7, 52.1)| |C|Warrior/Rogue| |Z|Tirisfal Glades|
 N Buy [Ice Cold Milk] and [Red-speckled Mushroom] from her |N|(61.7, 52.1)| |C|Warlock/Hunter| |Z|Tirisfal Glades|
 B Vendor Trash |N|Innkeeper Renee - (61.7, 52.1)| |C|!Mage| |Z|Tirisfal Glades|
-B Innkeeper Renee |L|1179 20| |N|Innkeeper Renee - (61.7, 52.1)| |C|Mage/Priest/Shaman| |Z|Tirisfal Glades|
-B Innkeeper Renee |L|4605 20| |N|Innkeeper Renee - (61.7, 52.1)| |C|Rogue/Warrior| |Z|Tirisfal Glades|
-B Innkeeper Renee |L|1179 15| |N|Innkeeper Renee - (61.7, 52.1)| |C|Warlock/Hunter| |Z|Tirisfal Glades|
+B Buy Ice Cold Milk (x20) |L|1179 20| |N|Innkeeper Renee - (61.7, 52.1)| |C|Mage/Priest/Shaman| |Z|Tirisfal Glades|
+B Buy Red-speckled Mushroom (x20) |L|4605 20| |N|Innkeeper Renee - (61.7, 52.1)| |C|Rogue/Warrior| |Z|Tirisfal Glades|
+B Buy Ice Cold Milk (x15) |L|1179 15| |N|Innkeeper Renee - (61.7, 52.1)| |C|Warlock/Hunter| |Z|Tirisfal Glades|
+B Buy Red-speckled Mushroom (x15) |L|4605 15| |N|Innkeeper Renee - (61.7, 52.1)| |C|Warlock/Hunter| |Z|Tirisfal Glades|
 T Forsaken Duties |QID|359| |N|Linnea - (65.5, 60.2)| |O| |Z|Tirisfal Glades|
 A Return to the Magistrate |QID|360| |N|Linnea - (65.5, 60.2)| |O| |Z|Tirisfal Glades|
 A Rear Guard Patrol |QID|356| |N|Linnea - (65.5, 60.2)| |O| |Z|Tirisfal Glades|
@@ -257,6 +259,7 @@ C Brown Linen Robe(9) |QID|398| |L|6238 9| |N|Create as many [Brown Linen Robes]
 N Disenchant all the [Brown Linen Robes] that you made and create a [Runed Copper Rod] |N|(62.4, 61.0)| |C|Priest| |Z|Undercity|
 N If you did not get a [Lesser Magic Essence] then buy one from Thaddeus if there is one available. Otherwise finish this step later |N|(62.4, 61.0)| |C|Priest| |Z|Undercity|
 B Runed Copper Rod (1) |L|6218 1| |N|Thaddeus. Buy a [Copper Rod] and [Simple Wood] from him - (62.4, 61.0)| |C|Priest| |Z|Undercity|
+B Simple Wood (1) |L|4470 1| |N|Thaddeus. Buy a [Copper Rod] and [Simple Wood] from him - (62.4, 61.0)| |C|Priest| |Z|Undercity|
 t Train [Lesser Magic Wand] |N|Malcomb - (62.5, 60.3)| |C|Priest| |Z|Undercity|
 N If you did not get a [Lesser Magic Essence] then buy one from Thaddeus if there is one available. Otherwise finish this step later |C|Priest| |Z|Undercity|
 B Lesser Magic Wand (1) |L|11287 1| |N|Create a [Lesser Magic Wand]| |C|Priest| |Z|Undercity|
