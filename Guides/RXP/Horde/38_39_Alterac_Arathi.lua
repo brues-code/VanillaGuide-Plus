@@ -18,13 +18,13 @@ B Geoffrey. Buy a [Falchion] from him |L|2528 1| |N|Geoffrey. Buy a [Falchion] f
 B Geoffrey. Buy a [Rondel] from him |L|2534 1| |N|Geoffrey. Buy a [Rondel] from him - (58.7, 33.0)| |C|Rogue| |Z|Undercity|
 B Zane. Buy a [Blackbone Wand] from him |L|5239 1| |N|Zane. Buy a [Blackbone Wand] from him - (69.5, 26.9)| |C|Priest| |Z|Undercity|
 B NathanielBuy two stacks of [Gleaming Throwing Axe] from him |L|15326 400| |N|NathanielBuy two stacks of [Gleaming Throwing Axe] from him - (77.5, 49.6)| |C|Warrior| |Z|Undercity|
-N If you have money leftover after buying [Nature Protection Potions], purchase the following items: |O| |C|Warrior| |Z|Undercity|
-B Auctioneer Stockton in the Trade Quarter |L|4480 8| |N|Auctioneer Stockton in the Trade Quarter| |O| |C|Warrior| |Z|Undercity|
-C Auctioneer Stockton in the Trade Quarter |QID|1713| |L|6052 2| |N|Auctioneer Stockton in the Trade Quarter - (71.4, 46.7)| |C|Warrior| |Z|Undercity|
-N If you have money leftover, purchase the following items: |N|(71.4, 46.7)| |Z|Undercity|
-B Auctioneer Stockton in the Trade Quarter |L|3829 1| |N|Auctioneer Stockton in the Trade Quarter - (71.4, 46.7)| |Z|Undercity|
-N If you have money leftover, purchase the following items: |N|(71.4, 46.7)| |Z|Undercity|
-B Auctioneer Stockton in the Trade Quarter |L|3829 1| |N|Auctioneer Stockton in the Trade Quarter - (71.4, 46.7)| |Z|Undercity|
+N If you have money leftover after buying [Nature Protection Potions], purchase the following items: |O| |C|Warrior| |AH| |Z|Undercity|
+B Auctioneer Stockton in the Trade Quarter |L|4480 8| |N|Auctioneer Stockton in the Trade Quarter| |O| |C|Warrior| |AH| |Z|Undercity|
+C Auctioneer Stockton in the Trade Quarter |QID|1713| |L|6052 2| |N|Auctioneer Stockton in the Trade Quarter - (71.4, 46.7)| |C|Warrior| |AH| |Z|Undercity|
+N If you have money leftover, purchase the following items: |N|[Group] (71.4, 46.7)| |P|GROUP| |AH| |Z|Undercity|
+B Auctioneer Stockton in the Trade Quarter |L|3829 1| |N|[Group] Auctioneer Stockton in the Trade Quarter - (71.4, 46.7)| |P|GROUP| |AH| |Z|Undercity|
+N If you have money leftover, purchase the following items: |N|(71.4, 46.7)| |P|SOLO| |AH| |Z|Undercity|
+B Auctioneer Stockton in the Trade Quarter |L|3829 1| |N|Auctioneer Stockton in the Trade Quarter - (71.4, 46.7)| |P|SOLO| |AH| |Z|Undercity|
 B Ronald. Buy [Soothing Spices] from him |L|3713 1| |N|Ronald. Buy [Soothing Spices] from him - (62.3, 43.1)| |Z|Undercity|
 C Cresting Exiles. Loot them for their [Cresting Charms] |QID|1713| |L|4481 8| |N|Cresting Exiles. Loot them for their [Cresting Charms] - (66.7, 29.7)| |C|Warrior| |Z|Arathi Highlands|
 N Be careful! Thundering Exiles have high burst damage |N|(52.1, 50.6)| |C|Warrior| |Z|Arathi Highlands|
@@ -40,8 +40,8 @@ A Soothing Turtle Bisque |QID|7321| |N|Christoph inside the inn - (62.3, 19.1)| 
 T Soothing Turtle Bisque |QID|7321| |N|Christoph inside the inn - (62.3, 19.1)| |Z|Hillsbrad Foothills|
 A Gol'dir |QID|503| |N|Krusk - (63.2, 20.6)| |Z|Hillsbrad Foothills|
 N CLICK HERE |O| |C|Warrior| |Z|Hillsbrad Foothills|
-N While traveling, use a [Nature Protection Potion] |N|(80.5, 66.9)| |C|Warrior| |Z|Alterac Mountains|
-T Essence of the Exile |QID|1714| |N|Bath'rah the Windwatcher - (80.5, 66.9)| |C|Warrior| |Z|Alterac Mountains|
+N While traveling, use a [Nature Protection Potion] |N|(80.5, 66.9)| |C|Warrior| |AH| |Z|Alterac Mountains|
+T Essence of the Exile |QID|1714| |N|Bath'rah the Windwatcher - (80.5, 66.9)| |C|Warrior| |AH| |Z|Alterac Mountains|
 T Cyclonian |QID|1712| |N|Bath'rah the Windwatcher - (80.5, 66.9)| |C|Warrior| |Z|Alterac Mountains|
 A The Summoning |QID|1713| |N|Bath'rah the Windwatcher - (80.5, 66.9)| |C|Warrior| |Z|Alterac Mountains|
 N Equip your [Gleaming Throwing Axe] if you haven't |N|(80.6, 62.2)| |C|Warrior| |Z|Alterac Mountains|
@@ -67,6 +67,7 @@ A Dalaran Patrols |QID|545| |N|Bel'varil and Wordeen - (61.6, 20.9)| |C|Warrior|
 R Travel to Alterac Mountains |N|(21.3, 53.5)| |Z|Alterac Mountains|
 C Dalaran Patrols |QID|545| |OIDX|1| |N|Dalaran Summoners and Elemental Slaves. Loot them for their Bracers (20.5, 75.2)| |Z|Alterac Mountains|
 C Bracers of Binding |QID|557| |OIDX|1| |N|Dalaran Summoners and Elemental Slaves. Loot them for their Bracers (20.5, 75.2)| |Z|Alterac Mountains|
+N Cast [Track Hidden] as you approach Lord Aliden Perenolde's homestead |O| |C|Hunter| |Z|Alterac Mountains|
 N Be mindful of Syndicate Assassins. Aliden uses Power Word: Shield, casts Renew, and will sleep pets and other players |N|(39.3, 14.5)| |Z|Alterac Mountains|
 C Lord Aliden Perenolde |QID|507| |OIDX|1| |N|Kill Syndicate Assassin (39.3, 14.5)| |Z|Alterac Mountains|
 T Lord Aliden Perenolde |QID|507| |N|Elysa - (39.3, 14.3)| |Z|Alterac Mountains|
@@ -80,11 +81,13 @@ F Fly to Hammerfall |N|Zarise - (60.1, 18.6)| |O| |Z|Hillsbrad Foothills|
 T Trollbane |QID|638| |N|Zengu - (73.8, 33.9)| |Z|Arathi Highlands|
 A Call to Arms |QID|678| |N|Drum Fel - (74.3, 33.8)| |Z|Arathi Highlands|
 A Raising Spirits |QID|675| |N|Gor'mul - (72.6, 33.9)| |Z|Arathi Highlands|
-T Raising Spirits |QID|675| |N|Tor'gan - (74.7, 36.4)| |Z|Arathi Highlands|
-A Guile of the Raptor |QID|701| |N|Tor'gan - (74.7, 36.4)| |Z|Arathi Highlands|
-A Foul Magics |QID|673| |N|Tor'gan - (74.7, 36.4)| |C|Rogue| |Z|Arathi Highlands|
-T Raising Spirits |QID|675| |N|Tor'gan - (74.7, 36.4)| |C|Rogue| |Z|Arathi Highlands|
-A Guile of the Raptor |QID|701| |N|Tor'gan - (74.7, 36.4)| |C|Rogue| |Z|Arathi Highlands|
+T Raising Spirits |QID|675| |N|Tor'gan - (74.7, 36.4)| |C|Rogue| |P|SOLO| |Z|Arathi Highlands|
+T Raising Spirits |QID|675| |N|Tor'gan - (74.7, 36.4)| |C|!Rogue| |Z|Arathi Highlands|
+A Guile of the Raptor |QID|701| |N|Tor'gan - (74.7, 36.4)| |C|Rogue| |P|SOLO| |Z|Arathi Highlands|
+A Guile of the Raptor |QID|701| |N|Tor'gan - (74.7, 36.4)| |C|!Rogue| |Z|Arathi Highlands|
+A Foul Magics |QID|673| |N|Tor'gan - (74.7, 36.4)| |C|Rogue| |P|SOLO| |Z|Arathi Highlands|
+T Raising Spirits |QID|675| |N|[Group] Tor'gan - (74.7, 36.4)| |C|Rogue| |P|GROUP| |Z|Arathi Highlands|
+A Guile of the Raptor |QID|701| |N|[Group] Tor'gan - (74.7, 36.4)| |C|Rogue| |P|GROUP| |Z|Arathi Highlands|
 A The Princess Trapped |QID|642| |N|the Shards of Myzrael - (62.5, 33.8)| |Z|Arathi Highlands|
 C The Princess Trapped |QID|642| |OIDX|1| |N|Drywhisker Kobolds, Diggers and Surveyors. Loot them for their Motes of Myzrael (84.3, 30.9)| |Z|Arathi Highlands|
 T The Princess Trapped |QID|642| |N|the Iridescent Shards towards the back of the cave - (84.3, 30.9)| |Z|Arathi Highlands|
@@ -95,11 +98,11 @@ N Thundering Exiles have powerful burst damage |N|(52.0, 50.8)| |Z|Arathi Highla
 C Stones of Binding |QID|651| |OIDX|3| |N|the Stone of Outer Binding for the Thundering Key (52.0, 50.8)| |Z|Arathi Highlands|
 N If you find yourself in danger, use a [Cresting Charm] on Burning Exiles |N|(25.5, 30.1)| |Z|Arathi Highlands|
 C Stones of Binding |QID|651| |OIDX|1| |N|the Stone of West Binding for the Burning Key (25.5, 30.1)| |Z|Arathi Highlands|
-N She has two spawn locations in the eastern side of the keep (outside). You can stealth to her |N|(29.6, 63.0)| |C|Rogue| |Z|Arathi Highlands|
-N She is elite but can be killed solo. Use [Gouge] to restore energy and kite her. Apply [Crippling Poison] for additional safety |N|(29.6, 63.0)| |C|Rogue| |Z|Arathi Highlands|
-N Be careful of Syndicate Prowlers, they will not body pull as you agro Marez Cowl |N|(29.6, 63.0)| |C|Rogue| |Z|Arathi Highlands|
-N Click here for video reference |N|(29.6, 63.0)| |C|Rogue| |Z|Arathi Highlands|
-C Foul Magics |QID|673| |OIDX|1| |N|Marez Cowl. Loot her for her Orb (29.6, 63.0)| |C|Rogue| |Z|Arathi Highlands|
+N She has two spawn locations in the eastern side of the keep (outside). You can stealth to her |N|(29.6, 63.0)| |C|Rogue| |P|SOLO| |Z|Arathi Highlands|
+N She is elite but can be killed solo. Use [Gouge] to restore energy and kite her. Apply [Crippling Poison] for additional safety |N|(29.6, 63.0)| |C|Rogue| |P|SOLO| |Z|Arathi Highlands|
+N Be careful of Syndicate Prowlers, they will not body pull as you agro Marez Cowl |N|(29.6, 63.0)| |C|Rogue| |P|SOLO| |Z|Arathi Highlands|
+N Click here for video reference |N|(29.6, 63.0)| |C|Rogue| |P|SOLO| |Z|Arathi Highlands|
+C Foul Magics |QID|673| |OIDX|1| |N|Marez Cowl. Loot her for her Orb (29.6, 63.0)| |C|Rogue| |P|SOLO| |Z|Arathi Highlands|
 N Be careful of Rumbling Exiles. Their stun has no diminishing return |N|(36.2, 57.3)| |Z|Arathi Highlands|
 T Stones of Binding |QID|651| |N|the Stone of Inner Binding - (36.2, 57.3)| |Z|Arathi Highlands|
 A Breaking the Keystone |QID|652| |N|the Stone of Inner Binding - (36.2, 57.3)| |Z|Arathi Highlands|
@@ -115,16 +118,18 @@ N If you are in a group, hand in this quest while with your party! Thenan, a lev
 T Breaking the Keystone |QID|652| |N|the Keystone - (36.1, 58.1)| |Z|Arathi Highlands|
 A Myzrael's Allies |QID|688| |N|the Keystone - (36.1, 58.1)| |Z|Arathi Highlands|
 R Return to Hammerfall |N|(73.5, 33.2)| |O| |Z|Arathi Highlands|
-T Guile of the Raptor |QID|701| |N|Tor'gan - (74.7, 36.4)| |Z|Arathi Highlands|
-A Guile of the Raptor |QID|702| |N|Tor'gan - (74.7, 36.4)| |Z|Arathi Highlands|
-A Foul Magics |QID|673| |N|Tor'gan - (74.7, 36.4)| |Z|Arathi Highlands|
-T Foul Magics |QID|673| |N|Tor'gan - (74.7, 36.4)| |C|Rogue| |Z|Arathi Highlands|
-T Guile of the Raptor |QID|701| |N|Tor'gan - (74.7, 36.4)| |Z|Arathi Highlands|
-A Guile of the Raptor |QID|702| |N|Tor'gan - (74.7, 36.4)| |Z|Arathi Highlands|
+T Guile of the Raptor |QID|701| |N|[Group] Tor'gan - (74.7, 36.4)| |P|GROUP| |Z|Arathi Highlands|
+A Guile of the Raptor |QID|702| |N|[Group] Tor'gan - (74.7, 36.4)| |P|GROUP| |Z|Arathi Highlands|
+A Foul Magics |QID|673| |N|[Group] Tor'gan - (74.7, 36.4)| |P|GROUP| |Z|Arathi Highlands|
+T Foul Magics |QID|673| |N|Tor'gan - (74.7, 36.4)| |C|Rogue| |P|SOLO| |Z|Arathi Highlands|
+T Guile of the Raptor |QID|701| |N|Tor'gan - (74.7, 36.4)| |C|Rogue| |P|SOLO| |Z|Arathi Highlands|
+T Guile of the Raptor |QID|701| |N|Tor'gan - (74.7, 36.4)| |C|!Rogue| |Z|Arathi Highlands|
+A Guile of the Raptor |QID|702| |N|Tor'gan - (74.7, 36.4)| |C|Rogue| |P|SOLO| |Z|Arathi Highlands|
+A Guile of the Raptor |QID|702| |N|Tor'gan - (74.7, 36.4)| |C|!Rogue| |Z|Arathi Highlands|
 T Myzrael's Allies |QID|688| |N|Zaruk - (74.4, 35.6)| |Z|Arathi Highlands|
 T Guile of the Raptor |QID|702| |N|Gor'mul - (72.6, 33.9)| |Z|Arathi Highlands|
-T Call to Arms |QID|678| |N|Drum Fel - (74.2, 33.9)| |Z|Arathi Highlands|
-A Call to Arms |QID|679| |N|Drum Fel - (74.2, 33.9)| |Z|Arathi Highlands|
+T Call to Arms |QID|678| |N|[Group] Drum Fel - (74.2, 33.9)| |P|GROUP| |Z|Arathi Highlands|
+A Call to Arms |QID|679| |N|[Group] Drum Fel - (74.2, 33.9)| |P|GROUP| |Z|Arathi Highlands|
 T Call to Arms |QID|678| |N|Drum Fel - (74.2, 33.9)| |Z|Arathi Highlands|
 B Sell your junk, then restock on food and water if necessary |N|Innkeeper Adegwa - (73.8, 32.5)| |C|!Rogue/!Warrior| |Z|Arathi Highlands|
 B Sell your junk, then restock on food if necessary |N|Innkeeper Adegwa - (73.8, 32.5)| |C|Rogue/Warrior| |Z|Arathi Highlands|
@@ -133,24 +138,24 @@ T Guile of the Raptor |QID|847| |N|Tor'gan - (74.7, 36.4)| |Z|Arathi Highlands|
 A Triage |QID|6622| |N|Doctor Gregory Victor - (73.4, 36.9)| |Z|Arathi Highlands|
 C Triage |QID|6622| |OIDX|1| |N|Channel the [Triage Bandage] on the Horde Soldiers. Prioritize Critically Injured Soldiers first (73.0, 36.8)| |Z|Arathi Highlands|
 T Triage |QID|6622| |N|Doctor Gregory Victor - (73.4, 36.9)| |Z|Arathi Highlands|
-A The Real Threat |QID|680| |N|Korin Fel - (74.0, 33.2)| |Z|Arathi Highlands|
-A Sigil of Strom |QID|639| |N|Zengu - (73.8, 33.9)| |Z|Arathi Highlands|
-C Call to Arms |QID|679| |OIDX|1| |N|Kill Boulderfist Shamans and Boulderfist Lords| |O| |Z|Arathi Highlands|
-N Or'Kalar can spawn in two areas around the Tower of Arathor's base |N|(19.6, 66.9)| |Z|Arathi Highlands|
-C The Real Threat |QID|680| |OIDX|1| |N|Or'Kalar. Loot him for his Head (19.6, 66.9)| |Z|Arathi Highlands|
-C Call to Arms |QID|679| |OIDX|1| |N|Boulderfist Shamans and Boulderfist Lords (18.3, 67.4)| |Z|Arathi Highlands|
-N It has a very low drop rate. Be careful of respawns. Be careful of Syndicate Prowlers, who can net and disarm |O| |Z|Arathi Highlands|
-C Sigil of Strom |QID|639| |OIDX|1| |N|Kill Syndicate. Loot them for the Sigil of Strom| |O| |Z|Arathi Highlands|
-N She has two spawn locations in the eastern side of the keep |N|(29.6, 63.0)| |Z|Arathi Highlands|
-C Foul Magics |QID|673| |OIDX|1| |N|Marez Cowl. Loot her for her Orb (29.6, 63.0)| |Z|Arathi Highlands|
-N It has a very low drop rate. Be careful of respawns. Be careful of Syndicate Prowlers, who can net and disarm |N|(29.5, 61.7)| |Z|Arathi Highlands|
-C Sigil of Strom |QID|639| |OIDX|1| |N|Syndicate. Loot them for the Sigil of Strom (29.5, 61.7)| |Z|Arathi Highlands|
-R Return to Hammerfall |N|(73.5, 33.2)| |O| |Z|Arathi Highlands|
-T Foul Magics |QID|673| |N|Tor'gan - (74.7, 36.4)| |Z|Arathi Highlands|
-T Call to Arms |QID|679| |N|Drum Fel - (74.2, 33.9)| |Z|Arathi Highlands|
-T The Real Threat |QID|680| |N|Korin Fel - (74.0, 33.2)| |Z|Arathi Highlands|
-T Sigil of Strom |QID|639| |N|Zengu - (73.8, 33.9)| |Z|Arathi Highlands|
-A Theldurin the Lost |QID|687| |N|Zaruk - (74.4, 35.6)| |O| |Z|Arathi Highlands|
+A The Real Threat |QID|680| |N|[Group] Korin Fel - (74.0, 33.2)| |P|GROUP| |Z|Arathi Highlands|
+A Sigil of Strom |QID|639| |N|[Group] Zengu - (73.8, 33.9)| |P|GROUP| |Z|Arathi Highlands|
+C Call to Arms |QID|679| |OIDX|1| |N|[Group] Kill Boulderfist Shamans and Boulderfist Lords| |O| |P|GROUP| |Z|Arathi Highlands|
+N Or'Kalar can spawn in two areas around the Tower of Arathor's base |N|[Group] (19.6, 66.9)| |P|GROUP| |Z|Arathi Highlands|
+C The Real Threat |QID|680| |OIDX|1| |N|[Group] Or'Kalar. Loot him for his Head (19.6, 66.9)| |P|GROUP| |Z|Arathi Highlands|
+C Call to Arms |QID|679| |OIDX|1| |N|[Group] Boulderfist Shamans and Boulderfist Lords (18.3, 67.4)| |P|GROUP| |Z|Arathi Highlands|
+N It has a very low drop rate. Be careful of respawns. Be careful of Syndicate Prowlers, who can net and disarm |N|[Group]| |O| |P|GROUP| |Z|Arathi Highlands|
+C Sigil of Strom |QID|639| |OIDX|1| |N|[Group] Kill Syndicate. Loot them for the Sigil of Strom| |O| |P|GROUP| |Z|Arathi Highlands|
+N She has two spawn locations in the eastern side of the keep |N|[Group] (29.6, 63.0)| |P|GROUP| |Z|Arathi Highlands|
+C Foul Magics |QID|673| |OIDX|1| |N|[Group] Marez Cowl. Loot her for her Orb (29.6, 63.0)| |P|GROUP| |Z|Arathi Highlands|
+N It has a very low drop rate. Be careful of respawns. Be careful of Syndicate Prowlers, who can net and disarm |N|[Group] (29.5, 61.7)| |P|GROUP| |Z|Arathi Highlands|
+C Sigil of Strom |QID|639| |OIDX|1| |N|[Group] Syndicate. Loot them for the Sigil of Strom (29.5, 61.7)| |P|GROUP| |Z|Arathi Highlands|
+R Return to Hammerfall |N|[Group] (73.5, 33.2)| |O| |P|GROUP| |Z|Arathi Highlands|
+T Foul Magics |QID|673| |N|[Group] Tor'gan - (74.7, 36.4)| |P|GROUP| |Z|Arathi Highlands|
+T Call to Arms |QID|679| |N|[Group] Drum Fel - (74.2, 33.9)| |P|GROUP| |Z|Arathi Highlands|
+T The Real Threat |QID|680| |N|[Group] Korin Fel - (74.0, 33.2)| |P|GROUP| |Z|Arathi Highlands|
+T Sigil of Strom |QID|639| |N|[Group] Zengu - (73.8, 33.9)| |P|GROUP| |Z|Arathi Highlands|
+A Theldurin the Lost |QID|687| |N|[Group] Zaruk - (74.4, 35.6)| |O| |P|GROUP| |Z|Arathi Highlands|
 R Run through the cave to Faldir's Cove |N|(22.1, 79.9)| |O| |Z|Arathi Highlands|
 A Land Ho! |QID|663| |N|Lolo - (31.8, 82.7)| |Z|Arathi Highlands|
 T Land Ho! |QID|663| |N|Shakes O'Breen - (32.3, 81.4)| |Z|Arathi Highlands|

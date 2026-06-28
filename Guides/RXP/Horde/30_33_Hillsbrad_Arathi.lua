@@ -4,6 +4,7 @@ return [[
 
 N 30-33 Hillsbrad/Arathi |N|Converted from RestedXP guide|
 
+N Cast [Teleport: Undercity] |O| |C|Mage|
 N Buy at least two [Rune of Teleportation] |N|(82.8, 15.8)| |C|Mage| |Z|Undercity|
 B Hannah Akeley |L|17031 2| |N|Hannah Akeley - (82.8, 15.8)| |C|Mage| |Z|Undercity|
 R Go up the Zeppelin Tower |N|(50.8, 13.8)| |C|!Mage| |Z|Durotar|
@@ -15,8 +16,8 @@ B Benijah. Buy a [Heavy Quiver] and a [Heavy Crossbow] from him and fill your qu
 B Benijah. Buy a [Heavy Quiver] from him and fill your quiver with arrows |L|7371 1| |N|Benijah. Buy a [Heavy Quiver] from him and fill your quiver with arrows - (58.8, 32.8)| |C|Hunter| |Z|Undercity|
 B Geoffrey. Buy a [Broadsword] from him |L|2520 1| |N|Geoffrey. Buy a [Broadsword] from him - (58.6, 33.1)| |C|Rogue| |Z|Undercity|
 B Geoffrey. Buy a [Main Gauche] from him for your off-hand |L|2526 1| |N|Geoffrey. Buy a [Main Gauche] from him for your off-hand - (58.6, 33.1)| |C|Rogue| |Z|Undercity|
-N Buy [Turtle Meat] from the Auction House |N|(64.2, 49.6)| |Z|Undercity|
-B Auctioneer Rhyker |L|3712 10| |N|Auctioneer Rhyker - (64.2, 49.6)| |Z|Undercity|
+N Buy [Turtle Meat] from the Auction House |N|(64.2, 49.6)| |AH| |Z|Undercity|
+B Auctioneer Rhyker |L|3712 10| |N|Auctioneer Rhyker - (64.2, 49.6)| |AH| |Z|Undercity|
 R Travel toward Varimathras |N|(51.9, 64.7) (RFK Dungeon Quest)| |D|RFK| |Z|Undercity|
 T An Unholy Alliance |QID|6522| |N|Varimathras - (56.2, 92.2) (RFK Dungeon Quest)| |D|RFK| |Z|Undercity|
 R Travel toward Faranell |N|(45.2, 71.7) (RFK Dungeon Quest)| |D|RFK| |Z|Undercity|
@@ -123,8 +124,8 @@ R Travel to Hillsbrad Foothills |N|(61.5, 20.9)| |Z|Hillsbrad Foothills|
 T Souvenirs of Death |QID|546| |N|Samsa - (62.1, 19.7)| |Z|Hillsbrad Foothills|
 T Dangerous! |QID|567| |N|Darthalia - (62.4, 20.3)| |Z|Hillsbrad Foothills|
 T Battle of Hillsbrad |QID|539| |N|Darthalia - (62.4, 20.3)| |Z|Hillsbrad Foothills|
-A Battle of Hillsbrad |QID|541| |N|Darthalia - (62.4, 20.3)| |Z|Hillsbrad Foothills|
-A Humbert's Sword |QID|547| |N|Humbert - (62.8, 20.2)| |Z|Hillsbrad Foothills|
+A Battle of Hillsbrad |QID|541| |N|[Group] Darthalia - (62.4, 20.3)| |P|GROUP| |Z|Hillsbrad Foothills|
+A Humbert's Sword |QID|547| |N|[Group] Humbert - (62.8, 20.2)| |P|GROUP| |Z|Hillsbrad Foothills|
 T Infiltration |QID|533| |N|Krusk - (63.2, 20.6)| |Z|Hillsbrad Foothills|
 N Buy [Razor Arrows] from him |N|(62.6, 19.9)| |C|Hunter| |Z|Hillsbrad Foothills|
 B Kayren |L|3030 1800| |N|Kayren - (62.6, 19.9)| |C|Hunter| |Z|Hillsbrad Foothills|
@@ -134,10 +135,10 @@ A The Hammer May Fall |QID|676| |N|Tallow - (61.9, 19.6)| |Z|Hillsbrad Foothills
 A Elixir of Agony |QID|509| |N|Lydon - (61.4, 19.1)| |Z|Hillsbrad Foothills|
 N Turn this quest in as fast as possible. There are high level Southshore Guards in the area that will attack you. You will most likely die |N|(63.9, 19.7)| |Z|Hillsbrad Foothills|
 T Helcular's Revenge |QID|553| |N|Novice Thaivand - (63.9, 19.7)| |Z|Hillsbrad Foothills|
-R Dun Garok |N|(70.8, 78.1)| |O| |Z|Hillsbrad Foothills|
-N Be careful on your way in and out of Dun Garok; there are multiple patrols on the road and in the stronghold |N|(71.3, 78.7)| |Z|Hillsbrad Foothills|
-C Battle of Hillsbrad |QID|541| |OIDX|1| |N|Dun Garok Soldiers and Captain Ironhill. Loot them for Humbert's Sword (71.3, 78.7)| |Z|Hillsbrad Foothills|
-C Humbert's Sword |QID|547| |OIDX|1| |N|Dun Garok Soldiers and Captain Ironhill. Loot them for Humbert's Sword (71.3, 78.7)| |Z|Hillsbrad Foothills|
+R Dun Garok |N|[Group] (70.8, 78.1)| |O| |P|GROUP| |Z|Hillsbrad Foothills|
+N Be careful on your way in and out of Dun Garok; there are multiple patrols on the road and in the stronghold |N|[Group] (71.3, 78.7)| |P|GROUP| |Z|Hillsbrad Foothills|
+C Battle of Hillsbrad |QID|541| |OIDX|1| |N|[Group] Dun Garok Soldiers and Captain Ironhill. Loot them for Humbert's Sword (71.3, 78.7)| |P|GROUP| |Z|Hillsbrad Foothills|
+C Humbert's Sword |QID|547| |OIDX|1| |N|[Group] Dun Garok Soldiers and Captain Ironhill. Loot them for Humbert's Sword (71.3, 78.7)| |P|GROUP| |Z|Hillsbrad Foothills|
 R Travel to Arathi Highlands |N|(20.2, 29.5)| |Z|Arathi Highlands|
 N Be careful. They can buff themselves with [Fist of Stone] (+100 damage each hit and 75% reduced movement speed) |N|(34.4, 44.2)| |Z|Arathi Highlands|
 C The Hammer May Fall |QID|676| |OIDX|1| |N|Boulderfist Ogres and Boulderfist Enforcers in and around Boulder'gor (34.4, 44.2)| |Z|Arathi Highlands|
@@ -182,9 +183,9 @@ T Call to Arms |QID|677| |N|Return to Drum - (74.2, 33.9)| |Z|Arathi Highlands|
 F Fly to Tarren Mill |N|Urda - (73.1, 32.7)| |O| |Z|Arathi Highlands|
 T Elixir of Agony |QID|509| |N|Return to Lydon - (61.4, 19.1)| |Z|Hillsbrad Foothills|
 A Elixir of Agony |QID|513| |N|Return to Lydon - (61.4, 19.1)| |Z|Hillsbrad Foothills|
-T Humbert's Sword |QID|547| |N|Humbert - (62.8, 20.2)| |Z|Hillsbrad Foothills|
-T Battle of Hillsbrad |QID|541| |N|Darthalia - (62.4, 20.3)| |Z|Hillsbrad Foothills|
-A Battle of Hillsbrad |QID|550| |N|Darthalia - (62.4, 20.3)| |Z|Hillsbrad Foothills|
+T Humbert's Sword |QID|547| |N|[Group] Humbert - (62.8, 20.2)| |P|GROUP| |Z|Hillsbrad Foothills|
+T Battle of Hillsbrad |QID|541| |N|[Group] Darthalia - (62.4, 20.3)| |P|GROUP| |Z|Hillsbrad Foothills|
+A Battle of Hillsbrad |QID|550| |N|[Group] Darthalia - (62.4, 20.3)| |P|GROUP| |Z|Hillsbrad Foothills|
 R Travel to Alterac Mountains |N|(42.8, 83.0)| |O| |Z|Alterac Mountains|
 N [Fresh Carcass] disappears after 30 minutes |N|(41.8, 76.6)| |O| |Z|Alterac Mountains|
 C Mountain Lions. Loot them for a [Fresh Carcass] |L|5810 1| |N|Mountain Lions. Loot them for a [Fresh Carcass] - (41.8, 76.6)| |O| |Z|Alterac Mountains|
@@ -198,16 +199,17 @@ N Use [Fear] as much as possible but remember that he will resist spells at a hi
 N Stay in [Bear Form] as much as possible, only come out to heal |N|(37.6, 68.2)| |C|Druid| |Z|Alterac Mountains|
 N Don't waste mana on Shock abilities, he will resist too much. Try to kite him with [Earthbind Totem] and save mana for healing |N|(37.6, 68.2)| |C|Shaman| |Z|Alterac Mountains|
 C Frostmaw |QID|1136| |OIDX|1| |N|Use the [Fresh Carcass] inside Growless Cave to summon Frostmaw. Kill him and loot him for his Mane (37.6, 68.2)| |Z|Alterac Mountains|
+N Cast [Teleport: Undercity] |O| |C|Mage| |Z|Alterac Mountains|
 F Fly to the Undercity |N|Zarise - (60.1, 18.6)| |O| |C|!Mage| |Z|Hillsbrad Foothills|
 T To Steal From Thieves |QID|1164| |N|Genavie Callow - (63.8, 49.5)| |Z|Undercity|
-N Buy three [Elixir of Water Breathing] |N|(64.2, 49.6)| |C|!Shaman| |Z|Undercity|
-N Buy three [Shiny Fish Scales] |N|(64.2, 49.6)| |C|Shaman| |Z|Undercity|
-B Auctioneer Rhyker |L|5996 3| |N|Auctioneer Rhyker - (64.2, 49.6)| |C|!Shaman| |Z|Undercity|
-B Auctioneer Rhyker |L|17057 3| |N|Auctioneer Rhyker - (64.2, 49.6)| |C|Shaman| |Z|Undercity|
-t Train Water Breathing |N|Auctioneer Rhyker - (64.2, 49.6)| |C|Shaman| |Z|Undercity|
-N Buy three [Elixir of Water Breathing] |N|(64.2, 49.6)| |O| |C|Shaman| |Z|Undercity|
-B Auctioneer Rhyker |L|5996 3| |N|Auctioneer Rhyker - (64.2, 49.6)| |O| |C|Shaman| |Z|Undercity|
-t Train Water Breathing |N|Auctioneer Rhyker - (64.2, 49.6)| |O| |C|Shaman| |Z|Undercity|
+N Buy three [Elixir of Water Breathing] |N|(64.2, 49.6)| |C|!Shaman| |AH| |Z|Undercity|
+N Buy three [Shiny Fish Scales] |N|(64.2, 49.6)| |C|Shaman| |AH| |Z|Undercity|
+B Auctioneer Rhyker |L|5996 3| |N|Auctioneer Rhyker - (64.2, 49.6)| |C|!Shaman| |AH| |Z|Undercity|
+B Auctioneer Rhyker |L|17057 3| |N|Auctioneer Rhyker - (64.2, 49.6)| |C|Shaman| |AH| |Z|Undercity|
+t Train Water Breathing |N|Auctioneer Rhyker - (64.2, 49.6)| |C|Shaman| |AH| |Z|Undercity|
+N Buy three [Elixir of Water Breathing] |N|(64.2, 49.6)| |O| |C|Shaman| |AH| |Z|Undercity|
+B Auctioneer Rhyker |L|5996 3| |N|Auctioneer Rhyker - (64.2, 49.6)| |O| |C|Shaman| |AH| |Z|Undercity|
+t Train Water Breathing |N|Auctioneer Rhyker - (64.2, 49.6)| |O| |C|Shaman| |AH| |Z|Undercity|
 t Train your class spells |N|Angela - (48.3, 16.0)| |C|Warrior| |Z|Undercity|
 t Train your class spells |N|Carolyn - (83.9, 72.1)| |C|Rogue| |Z|Undercity|
 t Train your class spells |N|Richard - (88.9, 15.9)| |C|Warlock| |Z|Undercity|
@@ -215,11 +217,13 @@ t Train your class spells |N|Anastasia - (85.2, 10.1)| |C|Mage| |Z|Undercity|
 t Train your class spells |N|Lazarus - (47.5, 18.9)| |C|Priest| |Z|Undercity|
 R Travel toward Faranell |N|(45.2, 71.7)| |O| |Z|Undercity|
 T Elixir of Agony |QID|513| |N|Faranell - (48.8, 69.3)| |Z|Undercity|
-R Travel toward Varimathras |N|(51.9, 64.7)| |O| |Z|Undercity|
-T Battle of Hillsbrad |QID|550| |N|Varimathras - (56.2, 92.2)| |Z|Undercity|
+R Travel toward Varimathras |N|[Group] (51.9, 64.7)| |O| |P|GROUP| |Z|Undercity|
+T Battle of Hillsbrad |QID|550| |N|[Group] Varimathras - (56.2, 92.2)| |P|GROUP| |Z|Undercity|
+N Cast [Teleport: Moonglade] |O| |C|Druid| |Z|Undercity|
 C Combine the two pendants at the Shrine of Remulos for the Pendant of the Sea Lion |QID|30| |L|15882 1| |N|Combine the two pendants at the Shrine of Remulos for the Pendant of the Sea Lion - (36.0, 41.4)| |O| |C|Druid| |Z|Moonglade|
 T Trial of the Sea lion |QID|30| |N|Dendrite - (56.2, 30.6)| |O| |C|Druid| |Z|Moonglade|
 A Aquatic Form |QID|31| |N|Dendrite - (56.2, 30.6)| |O| |C|Druid| |Z|Moonglade|
+N Cast [Teleport: Moonglade] |O| |C|Druid| |Z|Moonglade|
 t Train your class spells |N|Loganaar - (52.5, 40.6)| |C|Druid| |Z|Moonglade|
 H Freewind Post |N|Hearth to Freewind Post| |O| |Z|Moonglade|
 B Sell your junk, then restock on food and water if necessary |N|Innkeeper Abeqwa - (46.1, 51.5)| |C|!Rogue/!Warrior| |Z|Thousand Needles|

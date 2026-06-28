@@ -69,6 +69,7 @@ T Attack on Camp Narache |QID|781| |N|(44.7, 76.2)| |Z|Mulgore|
 T Rite of Strength |QID|757| |N|(44.7, 76.2)| |Z|Mulgore|
 A Rites of the Earthmother |QID|763| |N|(44.7, 76.2)| |Z|Mulgore|
 R Travel toward the rock |N|(53.7, 80.2)| |O| |C|Shaman| |Z|Mulgore|
+N Use the [Earth Sapta] |O| |C|Shaman| |Z|Mulgore|
 T Call of Earth |QID|1520| |N|the Manifestation - (53.7, 80.2)| |C|Shaman| |Z|Mulgore|
 A Call of Earth |QID|1521| |N|the Manifestation - (53.7, 80.2)| |C|Shaman| |Z|Mulgore|
 T Call of Earth |QID|1521| |N|Ravenfeather - (44.7, 76.2)| |C|Shaman| |Z|Mulgore|

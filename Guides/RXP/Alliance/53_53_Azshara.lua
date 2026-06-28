@@ -79,21 +79,24 @@ T Wavethrashing |QID|8231| |N|Ogtinc - (42.4, 42.6) (ST Dungeon Quest)| |C|Hunte
 A The Green Drake |QID|8232| |N|Ogtinc - (42.4, 42.6) (ST Dungeon Quest)| |C|Hunter| |D|ST| |Z|Azshara|
 A Blood of Morphaz |QID|8257| |N|Ogtinc - (42.4, 42.6) (ST Dungeon Quest)| |C|Priest| |D|ST| |Z|Azshara|
 R Make your way to southern tip Azshara. Follow the arrow |N|(77.8, 91.3)| |O| |Z|Azshara|
+N Once you are at the top of the mountain, use any [Noggenfogger Elixirs] you have to try and get the [Slow Fall] buff. This isn't required as you can still drop down safely without them. If you do get the buff mount up and jump toward the small island |O| |Z|Azshara|
+N Use the [Standard Issue Flare Gun] while on top of the Landing Pad and wait for Pilot Xiggs Fuselighter to arrive |O| |Z|Azshara|
 N NOTE: It can take a few minutes for him to arrive! Wait patiently... |O| |Z|Azshara|
 N Wait patiently for him to arrive! It can take a few minutes |N|(77.8, 91.3)| |Z|Azshara|
 T Arcane Runes |QID|3449| |N|Pilot Xiggs Fuselighter - (77.8, 91.3)| |Z|Azshara|
 A Return to Tymor |QID|3461| |N|Pilot Xiggs Fuselighter - (77.8, 91.3)| |Z|Azshara|
 t Train your class spells |N|Dink - (27.2, 8.6)| |C|Mage| |Z|Ironforge|
+N Cast Teleport: Moonglade |O| |C|Druid| |Z|Ironforge|
 N Loganaar |N|(52.5, 40.6)| |C|Druid| |Z|Moonglade|
 t Train your class spells |N|Moonglade - (52.5, 40.6)| |C|Druid| |Z|Moonglade|
 H Ratchet |N|Hearth to Ratchet| |Z|Moonglade|
 N Buy food/water if needed |C|!Warrior/!Rogue| |Z|Moonglade|
 N Buy food if needed |C|Warrior/Rogue| |Z|Moonglade|
-T Seeking Spiritual Aid |QID|5158| |N|Islen Waterseer - (65.8, 43.8)| |Z|The Barrens|
-A Cleansed Water Returns to Felwood |QID|5159| |N|Islen Waterseer - (65.8, 43.8)| |Z|The Barrens|
+T Seeking Spiritual Aid |QID|5158| |N|Islen Waterseer - (65.8, 43.8)| |P|SOLO| |Z|The Barrens|
+A Cleansed Water Returns to Felwood |QID|5159| |N|Islen Waterseer - (65.8, 43.8)| |P|SOLO| |Z|The Barrens|
 N Do not accept the follow up quest yet |N|(65.8, 43.8) (ST Dungeon Quest)| |D|ST| |Z|The Barrens|
 T Seeking Spiritual Aid |QID|5158| |N|Islen Waterseer - (65.8, 43.8) (ST Dungeon Quest)| |D|ST| |Z|The Barrens|
-T Seeking Spiritual Aid |QID|5158| |N|Islen Waterseer - (65.8, 43.8)| |Z|The Barrens|
+T Seeking Spiritual Aid |QID|5158| |N|[Group] Islen Waterseer - (65.8, 43.8)| |P|GROUP| |Z|The Barrens|
 A Cleansed Water Returns to Felwood |QID|5159| |N|Islen Waterseer - (65.8, 43.8) (!ST Dungeon Quest)| |D|!ST| |Z|The Barrens|
 A Volcanic Activity |QID|4502| |N|Liv Rizzlefix - (62.4, 38.7)| |Z|The Barrens|
 C The Stone Circle |QID|3444| |OIDX|1| |N|Marvon's Chest. Loot it for the Stone Circle (62.5, 38.5)| |Z|The Barrens|

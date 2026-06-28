@@ -8,7 +8,7 @@ function TurtleGuide:CreateConfigPanel()
 	TurtleGuide.optionsframe = frame
 	frame:SetFrameStrata("DIALOG")
 	frame:SetWidth(310)
-	frame:SetHeight(16 + 28 * 8)
+	frame:SetHeight(16 + 28 * 9)
 	frame:SetPoint("TOPRIGHT", TurtleGuide.statusframe, "BOTTOMRIGHT")
 	frame:SetBackdrop(ww.TooltipBorderBG)
 	frame:SetBackdropColor(0.09, 0.09, 0.19, 1)
@@ -105,6 +105,16 @@ function TurtleGuide:CreateConfigPanel()
 		TurtleGuide:ShowErrorLog()
 	end)
 
+	local filtersBtn = CreateFrame("Button", nil, frame, "UIPanelButtonTemplate")
+	filtersBtn:SetWidth(286)
+	filtersBtn:SetHeight(22)
+	filtersBtn:SetPoint("TOPLEFT", refreshBtn, "BOTTOMLEFT", 0, -6)
+	filtersBtn:SetText("Filters (Solo/Group/AH)")
+	filtersBtn:SetScript("OnClick", function()
+		TurtleGuide:ToggleFiltersPanel()
+	end)
+	frame.filtersBtn = filtersBtn
+
 	frame.qtrack = qtrack
 	frame.qskipfollowups = qskipfollowups
 	frame.mapmetamap = mapmetamap
@@ -148,6 +158,9 @@ function TurtleGuide:CreateConfigPanel()
 	frame:SetScript("OnHide", function()
 		if TurtleGuide.dungeonframe then
 			TurtleGuide.dungeonframe:Hide()
+		end
+		if TurtleGuide.filtersframe then
+			TurtleGuide.filtersframe:Hide()
 		end
 	end)
 	ww.SetFadeTime(frame, 0.5)
@@ -251,6 +264,102 @@ function TurtleGuide:CreateDungeonPanel()
 	ww.SetFadeTime(frame, 0.5)
 	
 	table.insert(UISpecialFrames, "TurtleGuideDungeons")
+end
+
+function TurtleGuide:ToggleFiltersPanel()
+	if not self.filtersframe then
+		self:CreateFiltersPanel()
+	end
+	if self.filtersframe:IsShown() then
+		self.filtersframe:Hide()
+	else
+		self.filtersframe:Show()
+		self:PositionFiltersPanel()
+	end
+end
+
+function TurtleGuide:PositionFiltersPanel()
+	if not self.filtersframe or not self.optionsframe then return end
+	local quad, vhalf, hhalf = self.GetQuadrant(self.statusframe)
+	self.filtersframe:ClearAllPoints()
+	if hhalf == "LEFT" then
+		self.filtersframe:SetPoint("TOPRIGHT", self.optionsframe, "TOPLEFT", -5, 0)
+	else
+		self.filtersframe:SetPoint("TOPLEFT", self.optionsframe, "TOPRIGHT", 5, 0)
+	end
+end
+
+function TurtleGuide:CreateFiltersPanel()
+	local frame = CreateFrame("Frame", "TurtleGuideFilters", UIParent)
+	self.filtersframe = frame
+	frame:SetFrameStrata("DIALOG")
+	frame:SetWidth(180)
+	frame:SetHeight(155)
+	frame:SetBackdrop(ww.TooltipBorderBG)
+	frame:SetBackdropColor(0.09, 0.09, 0.19, 1)
+	frame:SetBackdropBorderColor(0.5, 0.5, 0.5, 0.5)
+	frame:Hide()
+
+	local closebutton = CreateFrame("Button", nil, frame, "UIPanelCloseButton")
+	closebutton:SetPoint("TOPRIGHT", frame, "TOPRIGHT")
+
+	local title = ww.SummonFontString(frame, nil, "SubZoneTextFont", nil, "TOPLEFT", frame, "TOPLEFT", 10, -10)
+	local fontname, fontheight, fontflags = title:GetFont()
+	title:SetFont(fontname, 16, fontflags)
+	title:SetText("Filters")
+
+	-- AH Checkbox
+	local ahCb = ww.SummonCheckBox(18, frame, "TOPLEFT", 10, -40)
+	local ahText = ww.SummonFontString(ahCb, "OVERLAY", "GameFontNormalSmall", "Use Auction House", "LEFT", ahCb, "RIGHT", 5, 0)
+	frame.ahCb = ahCb
+
+	ahCb:SetScript("OnClick", function()
+		TurtleGuide.db.char.UseAH = not not ahCb:GetChecked()
+		TurtleGuide:LoadGuide(TurtleGuide.db.char.currentguide)
+	end)
+
+	-- Play Style Header
+	local psHeader = ww.SummonFontString(frame, "OVERLAY", "GameFontNormal", "Play Style:", "TOPLEFT", frame, "TOPLEFT", 10, -75)
+
+	-- Solo Checkbox
+	local soloCb = ww.SummonCheckBox(18, frame, "TOPLEFT", 10, -95)
+	local soloText = ww.SummonFontString(soloCb, "OVERLAY", "GameFontNormalSmall", "Solo Mode", "LEFT", soloCb, "RIGHT", 5, 0)
+	frame.soloCb = soloCb
+
+	-- Group Checkbox
+	local groupCb = ww.SummonCheckBox(18, frame, "TOPLEFT", 10, -118)
+	local groupText = ww.SummonFontString(groupCb, "OVERLAY", "GameFontNormalSmall", "Group Mode", "LEFT", groupCb, "RIGHT", 5, 0)
+	frame.groupCb = groupCb
+
+	soloCb:SetScript("OnClick", function()
+		soloCb:SetChecked(true)
+		groupCb:SetChecked(false)
+		TurtleGuide.db.char.PlayStyle = "SOLO"
+		TurtleGuide:LoadGuide(TurtleGuide.db.char.currentguide)
+	end)
+
+	groupCb:SetScript("OnClick", function()
+		groupCb:SetChecked(true)
+		soloCb:SetChecked(false)
+		TurtleGuide.db.char.PlayStyle = "GROUP"
+		TurtleGuide:LoadGuide(TurtleGuide.db.char.currentguide)
+	end)
+
+	local function OnShow(f)
+		f = f or this
+		TurtleGuide:PositionFiltersPanel()
+		f.ahCb:SetChecked(TurtleGuide.db.char.UseAH)
+		local playstyle = TurtleGuide.db.char.PlayStyle or "SOLO"
+		f.soloCb:SetChecked(playstyle == "SOLO")
+		f.groupCb:SetChecked(playstyle == "GROUP")
+		f:SetAlpha(0)
+		f:SetScript("OnUpdate", ww.FadeIn)
+	end
+
+	frame:SetScript("OnShow", OnShow)
+	ww.SetFadeTime(frame, 0.5)
+	
+	table.insert(UISpecialFrames, "TurtleGuideFilters")
 end
 
 table.insert(UISpecialFrames, "TurtleGuideOptions")

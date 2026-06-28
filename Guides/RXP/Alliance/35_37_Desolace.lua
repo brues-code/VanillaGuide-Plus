@@ -12,6 +12,7 @@ T The Windwatcher |QID|1791| |N|Bath'rah the Windwatcher - (80.5, 66.9)| |C|Warr
 A Cyclonian |QID|1712| |N|Bath'rah the Windwatcher - (80.5, 66.9)| |C|Warrior| |Z|Alterac Mountains|
 N Die on purpose and respawn at Southshore |O| |C|Warrior| |Z|Alterac Mountains|
 t Train Teleport: Darnassus |C|Mage| |Z|Alterac Mountains|
+N Teleport to Darnassus |C|Mage| |Z|Alterac Mountains|
 t Train Teleport: Darnassus |N|(29.5, 41.4)| |O| |C|Mage| |Z|Alterac Mountains|
 R Travel to Darnassus |N|(29.5, 41.4)| |O| |C|Mage| |Z|Darnassus|
 t Train Teleport: Darnassus |N|(58.4, 94.0)| |C|Mage| |Z|Darnassus|

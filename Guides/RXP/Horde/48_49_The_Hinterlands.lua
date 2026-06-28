@@ -6,7 +6,7 @@ N 48-49 The Hinterlands |N|Converted from RestedXP guide|
 
 t Train Teleport: Undercity |O| |C|Mage|
 t Train Teleport: Undercity |N|Go up the Zeppelin Tower - (50.8, 13.8)| |C|Mage| |Z|Durotar|
-t Train Teleport: Undercity |C|Mage| |Z|Durotar|
+t Train Teleport: Undercity |N|Cast [Teleport: Undercity]| |C|Mage| |Z|Durotar|
 t Train [Teleport: Undercity] |N|Lexington - (84.2, 15.6)| |C|Mage| |Z|Undercity|
 B Buy at least four Rune of Teleportation from her |N|Hannah - (82.8, 15.8)| |C|Mage| |Z|Undercity|
 B Hannah |L|17031 4| |N|Hannah - (82.8, 15.8)| |C|Mage| |Z|Undercity|
@@ -16,7 +16,7 @@ T Return to Apothecary Zinge |QID|864| |N|Zinge - (50.0, 68.2)| |Z|Undercity|
 T To the Undercity for Yagyin's Digest |QID|728| |N|Bel'dugur - (53.8, 54.5) (ULDA Dungeon Quest)| |D|ULDA| |Z|Undercity|
 T Reclaimed Treasures |QID|2342| |N|Patrick - (62.3, 48.6) (ULDA Dungeon Quest)| |D|ULDA| |Z|Undercity|
 R William |N|(66.0, 44.9)| |Z|Undercity|
-B Buy [Long Elegant Feathers] from the Auction House |L|4589 10| |N|Auctioneer Rhyker - (64.2, 49.6)| |Z|Undercity|
+B Buy [Long Elegant Feathers] from the Auction House |L|4589 10| |N|Auctioneer Rhyker - (64.2, 49.6)| |AH| |Z|Undercity|
 t Train [Undead Horsemanship] |N|Velma and Zachariah - (60.1, 52.5)| |O| |C|!Warlock| |R|Undead| |Z|Tirisfal Glades|
 B Buy a [Skeletal Horse] |N|Velma and Zachariah - (60.1, 52.5)| |O| |C|!Warlock| |R|Undead| |Z|Tirisfal Glades|
 F Fly to Tarren Mill |N|Michael - (63.3, 48.5)| |O| |Z|Undercity|
@@ -92,9 +92,9 @@ T Rin'ji is Trapped! |QID|2742| |N|Swim to the island to the far east, then clic
 A Rin'ji's Secret |QID|2782| |N|Swim to the island to the far east, then click Rinji's Secret - (86.3, 59.0)| |Z|The Hinterlands|
 T Vilebranch Hooligans |QID|7839| |N|Slagtree - (77.2, 80.2)| |Z|The Hinterlands|
 T Cannibalistic Cousins |QID|7844| |N|Yayo'jin - (78.8, 78.2)| |Z|The Hinterlands|
-N These are 5-man group quests |N|(79.1, 79.0)| |Z|The Hinterlands|
-A Wanted: Vile Priestess Hexx and Her Minions |QID|7861| |N|the Call to Arms! wanted poster by the hut - (79.1, 79.0)| |Z|The Hinterlands|
-A Job Opening: Guard Captain of Revantusk Village |QID|7862| |N|the Call to Arms! wanted poster by the hut - (79.1, 79.0)| |Z|The Hinterlands|
+N These are 5-man group quests |N|[Group] (79.1, 79.0)| |P|GROUP| |Z|The Hinterlands|
+A Wanted: Vile Priestess Hexx and Her Minions |QID|7861| |N|[Group] the Call to Arms! wanted poster by the hut - (79.1, 79.0)| |P|GROUP| |Z|The Hinterlands|
+A Job Opening: Guard Captain of Revantusk Village |QID|7862| |N|[Group] the Call to Arms! wanted poster by the hut - (79.1, 79.0)| |P|GROUP| |Z|The Hinterlands|
 T Stalking the Stalkers |QID|7828| |N|Markhor - (79.1, 79.5)| |Z|The Hinterlands|
 T Hunt the Savages |QID|7829| |N|Markhor - (79.1, 79.5)| |Z|The Hinterlands|
 T Avenging the Fallen |QID|7830| |N|Markhor - (79.1, 79.5)| |Z|The Hinterlands|
@@ -102,47 +102,47 @@ T Message to the Wildhammer |QID|7841| |N|Otho - (79.3, 79.1)| |Z|The Hinterland
 A Another Message to the Wildhammer |QID|7842| |N|Otho - (79.3, 79.1)| |Z|The Hinterlands|
 T Another Message to the Wildhammer |QID|7842| |N|Otho - (79.3, 79.1)| |Z|The Hinterlands|
 A Another Message to the Wildhammer |QID|7843| |N|Otho - (79.3, 79.1)| |Z|The Hinterlands|
-B Sell your junk, then restock on food and water if necessary |N|Lard - (78.2, 81.3)| |C|!Rogue/!Warrior| |Z|The Hinterlands|
-B Sell your junk, then restock on food if necessary |N|Lard - (78.2, 81.3)| |C|Rogue/Warrior| |Z|The Hinterlands|
-N These are 5-man group quests |N|(79.2, 79.5)| |Z|The Hinterlands|
-A Separation Anxiety |QID|7849| |N|Markhor and Torntusk - (79.2, 79.5)| |Z|The Hinterlands|
-A Kidnapped Elder Torntusk! |QID|7845| |N|Markhor and Torntusk - (79.2, 79.5)| |Z|The Hinterlands|
-A Dark Vessels |QID|7850| |N|Markhor and Torntusk - (79.2, 79.5)| |Z|The Hinterlands|
-N Don't worry about focusing on this; you can finish it in later steps |O| |Z|The Hinterlands|
-C Dark Vessels |QID|7850| |OIDX|1| |N|Loot the Vessels of Tainted Blood on the ground| |O| |Z|The Hinterlands|
-N Don't worry about focusing on this; you can finish it in later steps |O| |Z|The Hinterlands|
-C Job Opening: Guard Captain of Revantusk Village |QID|7862| |OIDX|4| |N|Kill Vilebranch Trolls| |O| |Z|The Hinterlands|
-C Separation Anxiety |QID|7849| |OIDX|2| |N|the Pile of Bones at the center of the pit for Huntsman Malkhor's Bones (62.1, 75.3)| |Z|The Hinterlands|
-C Separation Anxiety |QID|7849| |OIDX|1| |N|the Pile of Skulls for Huntsman Malkhor's Skull (58.6, 64.9)| |Z|The Hinterlands|
-T Kidnapped Elder Torntusk! |QID|7845| |N|Elder Torntusk - (59.6, 77.8)| |Z|The Hinterlands|
-A Recover the Key! |QID|7846| |N|Elder Torntusk - (59.6, 77.8)| |Z|The Hinterlands|
-R You can get to the upper level (without fighting through many guards) by doing a jump skip |N|(57.3, 86.0)| |O| |Z|The Hinterlands|
-N Click here for a video guide |N|(57.3, 86.0)| |O| |Z|The Hinterlands|
-C Wanted: Vile Priestess Hexx and Her Minions |QID|7861| |OIDX|2| |N|Kill Vilebranch Aman'zasi Guards| |O| |Z|The Hinterlands|
-N Be extremely cautious of her Hex ability, which she can potentially spam |N|(59.3, 78.2)| |Z|The Hinterlands|
-C Wanted: Vile Priestess Hexx and Her Minions |QID|7861| |OIDX|1| |N|Vile Priestess Hex (59.3, 78.2)| |Z|The Hinterlands|
-C The Ancient Egg |QID|4787| |OIDX|1| |N|Loot the Ancient Egg| |O| |Z|The Hinterlands|
-C Recover the Key! |QID|7846| |OIDX|1| |N|Hitah'ya the Keeper. Loot her for her Key (57.8, 86.8)| |Z|The Hinterlands|
-C The Ancient Egg |QID|4787| |OIDX|1| |N|the Ancient Egg (57.6, 86.8)| |Z|The Hinterlands|
-C Wanted: Vile Priestess Hexx and Her Minions |QID|7861| |OIDX|2| |N|Vilebranch Aman'zasi Guards (59.6, 77.9)| |Z|The Hinterlands|
-T Recover the Key! |QID|7846| |N|Elder Torntusk - (59.6, 77.9)| |Z|The Hinterlands|
-A Return to Primal Torntusk |QID|7847| |N|Elder Torntusk - (59.6, 77.9)| |Z|The Hinterlands|
-N Soul Eaters are on the 2nd level. Berserkers are on the 3rd level. Blood Drinkers and Shadow Hunters are on the 4th and 5th levels |N|(60.6, 65.4)| |Z|The Hinterlands|
-C Job Opening: Guard Captain of Revantusk Village |QID|7862| |OIDX|4| |N|Finish killing Vilebranch Trolls (60.6, 65.4)| |Z|The Hinterlands|
-C Dark Vessels |QID|7850| |OIDX|1| |N|Finish looting the Vessels of Tainted Blood on the ground (67.9, 73.4)| |Z|The Hinterlands|
-R Go upstairs |N|(78.1, 81.7)| |O| |Z|The Hinterlands|
-T Job Opening: Guard Captain of Revantusk Village |QID|7862| |N|Primal Torntusk - (78.2, 81.2)| |Z|The Hinterlands|
-T Wanted: Vile Priestess Hexx and Her Minions |QID|7861| |N|Primal Torntusk - (78.2, 81.2)| |Z|The Hinterlands|
-T Job Opening: Guard Captain of Revantusk Village |QID|7862| |N|Primal Torntusk - (78.2, 81.2)| |O| |Z|The Hinterlands|
-T Separation Anxiety |QID|7849| |N|Markhor - (79.2, 79.5)| |Z|The Hinterlands|
-B Sell your junk, then restock on food and water if necessary |N|Lard - (78.2, 81.3)| |C|!Rogue/!Warrior| |Z|The Hinterlands|
-B Sell your junk, then restock on food if necessary |N|Lard - (78.2, 81.3)| |C|Rogue/Warrior| |Z|The Hinterlands|
-T Kidnapped Elder Torntusk! |QID|7845| |N|Primal Torntusk - (78.2, 81.2)| |Z|The Hinterlands|
-T Dark Vessels |QID|7850| |N|Primal Torntusk - (78.2, 81.2)| |Z|The Hinterlands|
-T Return to Primal Torntusk |QID|7847| |N|Primal Torntusk - (78.2, 81.2)| |Z|The Hinterlands|
-T Kidnapped Elder Torntusk! |QID|7845| |N|Primal Torntusk - (78.2, 81.2)| |O| |Z|The Hinterlands|
-T Dark Vessels |QID|7850| |N|Primal Torntusk - (78.2, 81.2)| |O| |Z|The Hinterlands|
-T Return to Primal Torntusk |QID|7847| |N|Primal Torntusk - (78.2, 81.2)| |O| |Z|The Hinterlands|
+B Sell your junk, then restock on food and water if necessary |N|[Group] Lard - (78.2, 81.3)| |C|!Rogue/!Warrior| |P|GROUP| |Z|The Hinterlands|
+B Sell your junk, then restock on food if necessary |N|[Group] Lard - (78.2, 81.3)| |C|Rogue/Warrior| |P|GROUP| |Z|The Hinterlands|
+N These are 5-man group quests |N|[Group] (79.2, 79.5)| |P|GROUP| |Z|The Hinterlands|
+A Separation Anxiety |QID|7849| |N|[Group] Markhor and Torntusk - (79.2, 79.5)| |P|GROUP| |Z|The Hinterlands|
+A Kidnapped Elder Torntusk! |QID|7845| |N|[Group] Markhor and Torntusk - (79.2, 79.5)| |P|GROUP| |Z|The Hinterlands|
+A Dark Vessels |QID|7850| |N|[Group] Markhor and Torntusk - (79.2, 79.5)| |P|GROUP| |Z|The Hinterlands|
+N Don't worry about focusing on this; you can finish it in later steps |N|[Group]| |O| |P|GROUP| |Z|The Hinterlands|
+C Dark Vessels |QID|7850| |OIDX|1| |N|[Group] Loot the Vessels of Tainted Blood on the ground| |O| |P|GROUP| |Z|The Hinterlands|
+N Don't worry about focusing on this; you can finish it in later steps |N|[Group]| |O| |P|GROUP| |Z|The Hinterlands|
+C Job Opening: Guard Captain of Revantusk Village |QID|7862| |OIDX|4| |N|[Group] Kill Vilebranch Trolls| |O| |P|GROUP| |Z|The Hinterlands|
+C Separation Anxiety |QID|7849| |OIDX|2| |N|[Group] the Pile of Bones at the center of the pit for Huntsman Malkhor's Bones (62.1, 75.3)| |P|GROUP| |Z|The Hinterlands|
+C Separation Anxiety |QID|7849| |OIDX|1| |N|[Group] the Pile of Skulls for Huntsman Malkhor's Skull (58.6, 64.9)| |P|GROUP| |Z|The Hinterlands|
+T Kidnapped Elder Torntusk! |QID|7845| |N|[Group] Elder Torntusk - (59.6, 77.8)| |P|GROUP| |Z|The Hinterlands|
+A Recover the Key! |QID|7846| |N|[Group] Elder Torntusk - (59.6, 77.8)| |P|GROUP| |Z|The Hinterlands|
+R You can get to the upper level (without fighting through many guards) by doing a jump skip |N|[Group] (57.3, 86.0)| |O| |P|GROUP| |Z|The Hinterlands|
+N Click here for a video guide |N|[Group] (57.3, 86.0)| |O| |P|GROUP| |Z|The Hinterlands|
+C Wanted: Vile Priestess Hexx and Her Minions |QID|7861| |OIDX|2| |N|[Group] Kill Vilebranch Aman'zasi Guards| |O| |P|GROUP| |Z|The Hinterlands|
+N Be extremely cautious of her Hex ability, which she can potentially spam |N|[Group] (59.3, 78.2)| |P|GROUP| |Z|The Hinterlands|
+C Wanted: Vile Priestess Hexx and Her Minions |QID|7861| |OIDX|1| |N|[Group] Vile Priestess Hex (59.3, 78.2)| |P|GROUP| |Z|The Hinterlands|
+C The Ancient Egg |QID|4787| |OIDX|1| |N|[Group] Loot the Ancient Egg| |O| |P|GROUP| |Z|The Hinterlands|
+C Recover the Key! |QID|7846| |OIDX|1| |N|[Group] Hitah'ya the Keeper. Loot her for her Key (57.8, 86.8)| |P|GROUP| |Z|The Hinterlands|
+C The Ancient Egg |QID|4787| |OIDX|1| |N|[Group] the Ancient Egg (57.6, 86.8)| |P|GROUP| |Z|The Hinterlands|
+C Wanted: Vile Priestess Hexx and Her Minions |QID|7861| |OIDX|2| |N|[Group] Vilebranch Aman'zasi Guards (59.6, 77.9)| |P|GROUP| |Z|The Hinterlands|
+T Recover the Key! |QID|7846| |N|[Group] Elder Torntusk - (59.6, 77.9)| |P|GROUP| |Z|The Hinterlands|
+A Return to Primal Torntusk |QID|7847| |N|[Group] Elder Torntusk - (59.6, 77.9)| |P|GROUP| |Z|The Hinterlands|
+N Soul Eaters are on the 2nd level. Berserkers are on the 3rd level. Blood Drinkers and Shadow Hunters are on the 4th and 5th levels |N|[Group] (60.6, 65.4)| |P|GROUP| |Z|The Hinterlands|
+C Job Opening: Guard Captain of Revantusk Village |QID|7862| |OIDX|4| |N|[Group] Finish killing Vilebranch Trolls (60.6, 65.4)| |P|GROUP| |Z|The Hinterlands|
+C Dark Vessels |QID|7850| |OIDX|1| |N|[Group] Finish looting the Vessels of Tainted Blood on the ground (67.9, 73.4)| |P|GROUP| |Z|The Hinterlands|
+R Go upstairs |N|[Group] (78.1, 81.7)| |O| |P|GROUP| |Z|The Hinterlands|
+T Job Opening: Guard Captain of Revantusk Village |QID|7862| |N|[Group] Primal Torntusk - (78.2, 81.2)| |P|GROUP| |Z|The Hinterlands|
+T Wanted: Vile Priestess Hexx and Her Minions |QID|7861| |N|[Group] Primal Torntusk - (78.2, 81.2)| |P|GROUP| |Z|The Hinterlands|
+T Job Opening: Guard Captain of Revantusk Village |QID|7862| |N|[Group] Primal Torntusk - (78.2, 81.2)| |O| |P|GROUP| |Z|The Hinterlands|
+T Separation Anxiety |QID|7849| |N|[Group] Markhor - (79.2, 79.5)| |P|GROUP| |Z|The Hinterlands|
+B Sell your junk, then restock on food and water if necessary |N|[Group] Lard - (78.2, 81.3)| |C|!Rogue/!Warrior| |P|GROUP| |Z|The Hinterlands|
+B Sell your junk, then restock on food if necessary |N|[Group] Lard - (78.2, 81.3)| |C|Rogue/Warrior| |P|GROUP| |Z|The Hinterlands|
+T Kidnapped Elder Torntusk! |QID|7845| |N|[Group] Primal Torntusk - (78.2, 81.2)| |P|GROUP| |Z|The Hinterlands|
+T Dark Vessels |QID|7850| |N|[Group] Primal Torntusk - (78.2, 81.2)| |P|GROUP| |Z|The Hinterlands|
+T Return to Primal Torntusk |QID|7847| |N|[Group] Primal Torntusk - (78.2, 81.2)| |P|GROUP| |Z|The Hinterlands|
+T Kidnapped Elder Torntusk! |QID|7845| |N|[Group] Primal Torntusk - (78.2, 81.2)| |O| |P|GROUP| |Z|The Hinterlands|
+T Dark Vessels |QID|7850| |N|[Group] Primal Torntusk - (78.2, 81.2)| |O| |P|GROUP| |Z|The Hinterlands|
+T Return to Primal Torntusk |QID|7847| |N|[Group] Primal Torntusk - (78.2, 81.2)| |O| |P|GROUP| |Z|The Hinterlands|
 N If you do not have the Hammerfall flight path, fly to Tarren Mill and run there instead |N|(81.7, 81.8)| |O| |Z|The Hinterlands|
 F Fly to Hammerfall |N|Gorkas - (81.7, 81.8)| |O| |Z|The Hinterlands|
 t Train Runecloth Bandage |N|Doctor Gregory Victor - (73.4, 36.9)| |Z|Arathi Highlands|
@@ -178,11 +178,12 @@ N The Undamaged Venom Sac has a 30 minute duration, so turn it in ASAP |N|(61.5,
 T Undamaged Venom Sac |QID|2934| |N|Lydon - (61.5, 19.2)| |Z|Hillsbrad Foothills|
 A Consult Master Gadrin |QID|2935| |N|Lydon - (61.5, 19.2)| |R|Troll| |Z|Hillsbrad Foothills|
 F Fly to Undercity |N|Zarise - (60.1, 18.6)| |O| |C|!Mage| |Z|Hillsbrad Foothills|
+N Cast [Teleport: Undercity] |O| |C|Mage| |Z|Hillsbrad Foothills|
 B Buy at least four Rune of Teleportation from her |N|Hannah - (82.8, 15.8)| |C|Mage| |Z|Undercity|
 B Hannah |L|17031 4| |N|Hannah - (82.8, 15.8)| |C|Mage| |Z|Undercity|
-N Buy the following from the Auction House |N|(64.2, 49.6)| |Z|Undercity|
-N Deposit them onto the bank afterwards! |N|(64.2, 49.6)| |Z|Undercity|
-B Auctioneer Rhyker |L|8391 5| |N|Auctioneer Rhyker - (64.2, 49.6)| |Z|Undercity|
+N Buy the following from the Auction House |N|(64.2, 49.6)| |AH| |Z|Undercity|
+N Deposit them onto the bank afterwards! |N|(64.2, 49.6)| |AH| |Z|Undercity|
+B Auctioneer Rhyker |L|8391 5| |N|Auctioneer Rhyker - (64.2, 49.6)| |AH| |Z|Undercity|
 T Lines of Communication |QID|2995| |N|Oran - (73.5, 32.7)| |Z|Undercity|
 T Rin'ji's Secret |QID|2782| |N|Oran - (73.5, 32.7)| |Z|Undercity|
 A Oran's Gratitude |QID|8273| |N|Oran - (73.5, 32.7)| |Z|Undercity|
@@ -244,6 +245,7 @@ C Use the [Amulet of Spirits] on the Spirit of Maraudos |QID|7067| |L|17764 1| |
 C The Pariah's Instructions |QID|7067| |OIDX|1| |N|Channel any of the [Gems of the Khans] to create the [Amulet of Union] (MARA Dungeon Quest)| |D|MARA| |Z|Tirisfal Glades|
 T Legends of Maraudon |QID|7044| |N|Kill Celebras the Cursed then talk to Celebras the Redeemed (MARA Dungeon Quest)| |D|MARA| |Z|Tirisfal Glades|
 A The Scepter of Celebras |QID|7046| |N|Celebras the Redeemed (MARA Dungeon Quest)| |D|MARA| |Z|Tirisfal Glades|
+N Click the Incantation of Celebras on the ground |N|(MARA Dungeon Quest)| |D|MARA| |Z|Tirisfal Glades|
 C The Scepter of Celebras |QID|7046| |OIDX|1| |N|Wait out the RP (MARA Dungeon Quest)| |D|MARA| |Z|Tirisfal Glades|
 T The Scepter of Celebras |QID|7046| |N|Celebras the Redeemed (MARA Dungeon Quest)| |D|MARA| |Z|Tirisfal Glades|
 C Corruption of Earth and Seed |QID|7064| |OIDX|1| |N|Kill Princess Theradras (MARA Dungeon Quest)| |D|MARA| |Z|Tirisfal Glades|

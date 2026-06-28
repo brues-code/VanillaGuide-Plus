@@ -58,3 +58,9 @@ Guides\Both\Guides.xml
 # RestedXP Converted Guides (Survival routes)
 Guides\RXP\Alliance\Guides.xml
 Guides\RXP\Horde\Guides.xml
+
+# RestedXP Hardcore Converted Guides (Survival routes)
+Guides\RXP_Hardcore\Alliance\Guides.xml
+Guides\RXP_Hardcore\Horde\Guides.xml
+
+

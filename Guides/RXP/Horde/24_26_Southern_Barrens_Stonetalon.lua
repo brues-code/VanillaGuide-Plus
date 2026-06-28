@@ -78,15 +78,15 @@ A Revenge of Gann |QID|846| |N|Gann - (46.1, 75.4)| |Z|The Barrens|
 N Gann patrols North and South on the road |N|(46.1, 75.4)| |O| |Z|The Barrens|
 A Revenge of Gann |QID|846| |N|Gann - (46.1, 75.4)| |O| |Z|The Barrens|
 R Bael Modan |N|(48.6, 84.5)| |O| |Z|The Barrens|
-N Be Careful! Bael'dun Officers have a 50% increased parry chance for 8 seconds after they do their defense stance animation |O| |C|Rogue/Warrior/Druid/Shaman| |Z|The Barrens|
-C Revenge of Gann |QID|846| |OIDX|1| |N|Kill Bael'dun Dwarves. Loot them for their Nitroglycerin, Wood Pulp, and Sodium Nitrate| |O| |Z|The Barrens|
-A The Tear of the Moons |QID|857| |N|Feegly - (48.9, 86.3)| |Z|The Barrens|
-R Go down to the bottom floor of Bael'dun |N|(49.4, 84.3)| |O| |Z|The Barrens|
-N Be careful! It is very easy overpull in General Twinbraid's room |N|(49.1, 84.2)| |Z|The Barrens|
-N Directly pull any mob other than General Twinbraid |N|(49.1, 84.2)| |Z|The Barrens|
-C The Tear of the Moons |QID|857| |OIDX|1| |N|General Twinbraid's Strongbox. Loot it for the Tear of the Moons (49.1, 84.2)| |Z|The Barrens|
-R Exit Bael'dun's Keep |N|(48.8, 84.6)| |O| |Z|The Barrens|
-T The Tear of the Moons |QID|857| |N|Feegly - (48.9, 86.3)| |Z|The Barrens|
+N Be Careful! Bael'dun Officers have a 50% increased parry chance for 8 seconds after they do their defense stance animation |N|[Group]| |O| |C|Rogue/Warrior/Druid/Shaman| |P|GROUP| |Z|The Barrens|
+C Revenge of Gann |QID|846| |OIDX|1| |N|[Group] Kill Bael'dun Dwarves. Loot them for their Nitroglycerin, Wood Pulp, and Sodium Nitrate| |O| |P|GROUP| |Z|The Barrens|
+A The Tear of the Moons |QID|857| |N|[Group] Feegly - (48.9, 86.3)| |P|GROUP| |Z|The Barrens|
+R Go down to the bottom floor of Bael'dun |N|[Group] (49.4, 84.3)| |O| |P|GROUP| |Z|The Barrens|
+N Be careful! It is very easy overpull in General Twinbraid's room |N|[Group] (49.1, 84.2)| |P|GROUP| |Z|The Barrens|
+N Directly pull any mob other than General Twinbraid |N|[Group] (49.1, 84.2)| |P|GROUP| |Z|The Barrens|
+C The Tear of the Moons |QID|857| |OIDX|1| |N|[Group] General Twinbraid's Strongbox. Loot it for the Tear of the Moons (49.1, 84.2)| |P|GROUP| |Z|The Barrens|
+R Exit Bael'dun's Keep |N|[Group] (48.8, 84.6)| |O| |P|GROUP| |Z|The Barrens|
+T The Tear of the Moons |QID|857| |N|[Group] Feegly - (48.9, 86.3)| |P|GROUP| |Z|The Barrens|
 N Be Careful! Bael'dun Officers have a 50% increased parry chance for 8 seconds after they do their defense stance animation |N|(49.1, 84.7)| |C|Rogue/Warrior/Druid/Shaman| |Z|The Barrens|
 C Revenge of Gann |QID|846| |OIDX|1| |N|Bael'dun Dwarves. Loot them for their Nitroglycerin, Wood Pulp, and Sodium Nitrate (49.1, 84.7)| |Z|The Barrens|
 C Washte Pawne. Loot him for [Washte Pawne's Feather]. Use it to start the quest |QID|885| |L|5103 1| |N|Kill Washte Pawne. Loot him for [Washte Pawne's Feather]. Use it to start the quest| |O| |Z|The Barrens|
@@ -215,6 +215,7 @@ T Bloodfury Bloodline |QID|6283| |N|Maggran - (47.2, 61.2)| |Z|Stonetalon Mounta
 T Jin'Zil's Forest Magic |QID|1058| |N|Jin'Zil - (74.5, 97.9)| |Z|Stonetalon Mountains|
 T Letter to Jin'Zil |QID|1060| |N|Jin'Zil - (74.5, 97.9)| |O| |Z|Stonetalon Mountains|
 T Shredding Machines |QID|1068| |N|Seereth - (35.3, 27.9)| |Z|The Barrens|
+N Cast [Teleport: Moonglade] |O| |C|Druid| |Z|The Barrens|
 t Train your class spells |N|Loganaar - (52.5, 40.6)| |C|Druid| |Z|Moonglade|
 F Fly to The Crossroads |N|Bragok - (63.1, 37.2)| |O| |Z|The Barrens|
 t Train your class spells |N|Bragok - (63.1, 37.2)| |O| |C|Shaman| |Z|The Barrens|
@@ -223,16 +224,17 @@ t Train your class spells |O| |C|Shaman| |Z|The Barrens|
 B Sell your junk, then restock on food and water if necessary |N|Innkeeper Boorand - (52.0, 29.9)| |C|!Rogue/!Warrior| |Z|The Barrens|
 B Sell your junk, then restock on food if necessary |N|Innkeeper Boorand - (52.0, 29.9)| |C|Rogue/Warrior| |Z|The Barrens|
 t Train your class spells |N|Innkeeper Boorand - (52.0, 29.9)| |C|Shaman| |Z|The Barrens|
-F Fly to Orgrimmar |N|Devrak - (51.5, 30.3)| |C|!Mage| |Z|The Barrens|
-N Buy the [Shredder Operating Manual Pages] from the Auction House if they're available |N|(55.6, 62.9)| |Z|Orgrimmar|
-B Thathung |L|16645 1| |N|Thathung - (55.6, 62.9)| |Z|Orgrimmar|
-B Buy a [Sturdy Recurve Bow] from her if it's available |N|Jin'sora - (78.1, 38.5)| |C|Hunter| |Z|Orgrimmar|
-N Buy [Razor Arrows] from him |N|(78.1, 38.5)| |C|Hunter| |Z|Orgrimmar|
-B Jin'sora |L|3030 1800| |N|Jin'sora - (78.1, 38.5)| |C|Hunter| |Z|Orgrimmar|
-R Travel to Ashenvale |N|(91.8, 68.7)| |O| |Z|Ashenvale|
-R Travel north alongside the river into Ashenvale |N|(91.4, 65.9)| |O| |Z|Ashenvale|
-R Splintertree Post |N|(73.5, 63.5)| |Z|Ashenvale|
-N You may encounter a few level 29-30 mobs, avoid them if possible |N|(73.5, 63.5)| |Z|Ashenvale|
+F Fly to Orgrimmar |N|Devrak - (51.5, 30.3)| |C|!Mage| |AH| |Z|The Barrens|
+N Cast [Teleport: Orgrimmar] |C|Mage| |AH| |Z|The Barrens|
+N Buy the [Shredder Operating Manual Pages] from the Auction House if they're available |N|(55.6, 62.9)| |AH| |Z|Orgrimmar|
+B Thathung |L|16645 1| |N|Thathung - (55.6, 62.9)| |AH| |Z|Orgrimmar|
+B Buy a [Sturdy Recurve Bow] from her if it's available |N|Jin'sora - (78.1, 38.5)| |C|Hunter| |AH| |Z|Orgrimmar|
+N Buy [Razor Arrows] from him |N|(78.1, 38.5)| |C|Hunter| |AH| |Z|Orgrimmar|
+B Jin'sora |L|3030 1800| |N|Jin'sora - (78.1, 38.5)| |C|Hunter| |AH| |Z|Orgrimmar|
+R Travel to Ashenvale |N|(91.8, 68.7)| |O| |AH| |Z|Ashenvale|
+R Travel north alongside the river into Ashenvale |N|(91.4, 65.9)| |O| |AH| |Z|Ashenvale|
+R Splintertree Post |N|(73.5, 63.5)| |AH| |Z|Ashenvale|
+N You may encounter a few level 29-30 mobs, avoid them if possible |N|(73.5, 63.5)| |AH| |Z|Ashenvale|
 F Fly to Splintertree Post |N|Devrak - (51.5, 30.3)| |C|Hunter| |Z|The Barrens|
 R Travel to Ashenvale |N|(68.7, 85.9)| |C|!Hunter| |Z|Ashenvale|
 

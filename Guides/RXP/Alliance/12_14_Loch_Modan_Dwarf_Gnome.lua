@@ -4,10 +4,10 @@ return [[
 
 N 12-14 Loch Modan (Dwarf/Gnome) |N|Converted from RestedXP guide|
 
-R Travel to Stormwind City |N|(57.5, 57.1)| |O| |C|Rogue| |Z|Stormwind City|
-N Buy a [Cutlass] from him |N|(53.6, 59.8)| |O| |C|Rogue| |Z|Stormwind City|
-N Alternatively, check the Auction House for something better or cheaper |N|(53.6, 59.8)| |O| |C|Rogue| |Z|Stormwind City|
-B Cutlass (1) |L|851 1| |N|Gunther Weller - (53.6, 59.8)| |O| |C|Rogue| |Z|Stormwind City|
+R Travel to Stormwind City |N|(57.5, 57.1)| |O| |C|Rogue| |AH| |Z|Stormwind City|
+N Buy a [Cutlass] from him |N|(53.6, 59.8)| |O| |C|Rogue| |AH| |Z|Stormwind City|
+N Alternatively, check the Auction House for something better or cheaper |N|(53.6, 59.8)| |O| |C|Rogue| |AH| |Z|Stormwind City|
+B Cutlass (1) |L|851 1| |N|Gunther Weller - (53.6, 59.8)| |O| |C|Rogue| |AH| |Z|Stormwind City|
 N Buy a [Cutlass] from him |N|(57.5, 57.1)| |O| |C|Rogue| |Z|Stormwind City|
 B Cutlass (1) |L|851 1| |N|Gunther Weller - (57.5, 57.1)| |O| |C|Rogue| |Z|Stormwind City|
 R Enter the Everyday Merchandise building |N|(57.8, 61.4)| |O| |C|Rogue| |Z|Stormwind City|
@@ -93,6 +93,7 @@ T In Defense of the King's Lands |QID|224| |N|Mountaineer Cobbleflint - (22.1, 7
 F Fly to Ironforge |N|Thorgrum Borrelson - (33.9, 51.0)| |R|!Dwarf/!Paladin| |Z|Loch Modan|
 R Travel to Ironforge |N|(84.3, 51.4)| |O| |C|Paladin| |R|Dwarf| |Z|Ironforge|
 R Travel to Dun Morogh |N|(78.3, 58.1)| |O| |C|Paladin| |R|Dwarf| |Z|Dun Morogh|
+N Use the [Symbol of Life] on Narm Faulk on the ground |N|(78.3, 58.1)| |O| |C|Paladin| |R|Dwarf| |Z|Dun Morogh|
 T The Tome of Divinity |QID|1783| |N|Narm Faulk - (78.3, 58.1)| |C|Paladin| |R|Dwarf| |Z|Dun Morogh|
 A The Tome of Divinity |QID|1784| |N|Narm Faulk - (78.3, 58.1)| |C|Paladin| |R|Dwarf| |Z|Dun Morogh|
 C The Tome of Divinity |QID|1784| |OIDX|1| |N|Dark Iron Spies. Loot them for the Dark Iron Script Dark Iron Script (1)| |C|Paladin| |R|Dwarf| |Z|Dun Morogh|
@@ -110,6 +111,11 @@ R Travel toward Bilban Tosslespanner |N|(65.9, 88.4)| |O| |C|Warrior| |Z|Ironfor
 t Train your class spells |N|Bilban Tosslespanner - (65.9, 88.4)| |C|Warrior| |Z|Ironforge|
 B Buy a [Bronze Tube] from him (if it's up) |N|Gearcutter Cogspinner - (67.8, 42.5)| |O| |C|!Paladin| |Z|Ironforge|
 N On the Tram when it arrives: |O| |C|!Paladin| |Z|Ironforge|
+N Create a [Basic Campfire] (under the General Tab of your Spellbook) |O| |C|!Paladin| |Z|Ironforge|
+N On the Tram when it arrives: |O| |C|!Paladin| |Z|Ironforge|
+N Create a [Basic Campfire] (under the General Tab of your Spellbook) |O| |C|!Paladin| |Z|Ironforge|
+N On the Tram when it arrives: |O| |C|!Paladin| |Z|Ironforge|
+N Create a [Basic Campfire] (under the General Tab of your Spellbook) |O| |C|!Paladin| |Z|Ironforge|
 N You need 50 [Cooking] for a quest in Duskwood later |O| |C|!Paladin| |Z|Ironforge|
 N [Cook] the following items: |O| |C|!Paladin| |Z|Ironforge|
 N [Cook] the [Chunks of Boar Meat] into [Roasted Boar Meat] |O| |C|!Paladin| |Z|Ironforge|
@@ -126,12 +132,12 @@ t Train your class spells |N|Arthur the Faithful - (38.7, 32.8)| |C|Paladin| |Z|
 A Humble Beginnings |QID|399| |N|Baros Alexston - (49.2, 30.3)| |C|Paladin| |Z|Stormwind City|
 B Buy a [Bronze Tube] from him (if it's up) |N|Billibub Cogspinner - (55.2, 7.0)| |O| |Z|Stormwind City|
 A Humble Beginnings |QID|399| |N|Baros Alexston - (49.2, 30.3)| |C|!Paladin| |Z|Stormwind City|
-N Buy up to 2 [Scimitars] from her if you can afford it or something better from the Auction House |N|(57.4, 56.8)| |C|Rogue| |Z|Stormwind City|
-B Scimitar |L|2027 1| |N|Marda Weller - (57.4, 56.8)| |C|Rogue| |Z|Stormwind City|
+N Buy up to 2 [Scimitars] from her if you can afford it or something better from the Auction House |N|(57.4, 56.8)| |C|Rogue| |AH| |Z|Stormwind City|
+B Scimitar |L|2027 1| |N|Marda Weller - (57.4, 56.8)| |C|Rogue| |AH| |Z|Stormwind City|
 N Buy up to 2 [Scimitars] from her if you can afford it |N|(57.4, 56.8)| |C|Rogue| |Z|Stormwind City|
 B Scimitar |L|2027 1| |N|Marda Weller - (57.4, 56.8)| |C|Rogue| |Z|Stormwind City|
-N Buy a [Smoldering Wand] from her |N|(42.9, 65.1)| |O| |C|Mage/Priest/Warlock| |Z|Stormwind City|
-B Smoldering Wand (1) |L|5208 1| |N|Ardwyn Cailen - (42.9, 65.1)| |O| |C|Mage/Priest/Warlock| |Z|Stormwind City|
+N Buy a [Smoldering Wand] from her |N|(42.9, 65.1)| |O| |C|Mage/Priest/Warlock| |AH| |Z|Stormwind City|
+B Smoldering Wand (1) |L|5208 1| |N|Ardwyn Cailen - (42.9, 65.1)| |O| |C|Mage/Priest/Warlock| |AH| |Z|Stormwind City|
 F Fly to Westfall |N|Dungar Longdrink - (66.3, 62.1)| |Z|Stormwind City|
 T Road to Salvation |QID|2218| |N|Hulfdan Blackbeard downstairs - (52.0, 14.8)| |O| |C|Rogue/Gnome/Rogue| |R|Dwarf| |Z|Ironforge|
 

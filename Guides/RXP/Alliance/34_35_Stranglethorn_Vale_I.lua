@@ -94,6 +94,7 @@ T Tiger Mastery |QID|187| |N|Hemet Nesingwary, Ajeck Rouack and Sir S. J. Erlgad
 A Tiger Mastery |QID|188| |N|Hemet Nesingwary, Ajeck Rouack and Sir S. J. Erlgadin - (35.7, 10.8)| |Z|Stranglethorn Vale|
 T Panther Mastery |QID|191| |N|(35.6, 10.6)| |Z|Stranglethorn Vale|
 A Panther Mastery |QID|192| |N|(35.6, 10.6)| |Z|Stranglethorn Vale|
+N Cast Teleport: Moonglade |O| |C|Druid| |Z|Stranglethorn Vale|
 N Loganaar |N|(52.5, 40.6)| |C|Druid| |Z|Stranglethorn Vale|
 R Travel to Moonglade |N|(52.5, 40.6)| |C|Druid| |Z|Moonglade|
 t Train your class spells |N|Teleport to Moonglade - (52.5, 40.6)| |C|Druid| |Z|Moonglade|
@@ -136,8 +137,8 @@ N [Alterac Granite] |N|(57.1, 73.0)| |Z|Stormwind City|
 N [Elixir of Water Breathing] (If you have one) |N|(57.1, 73.0)| |C|!Warlock| |Z|Stormwind City|
 R Newton Burnside |N|(57.1, 73.0)| |Z|Stormwind City|
 N Deposit any [Green Hills of Stranglethorn - Pages] you found |N|(57.1, 73.0)| |Z|Stormwind City|
-N Buy a [Elixir of Water Breathing] from the Auction House |N|(57.1, 73.0)| |C|!Warlock| |Z|Stormwind City|
-B Newton Burnside |L|5996 1| |N|Newton Burnside - (57.1, 73.0)| |C|!Warlock| |Z|Stormwind City|
+N Buy a [Elixir of Water Breathing] from the Auction House |N|(57.1, 73.0)| |C|!Warlock| |AH| |Z|Stormwind City|
+B Newton Burnside |L|5996 1| |N|Newton Burnside - (57.1, 73.0)| |C|!Warlock| |AH| |Z|Stormwind City|
 R the Stormwind Cathedral |N|(42.5, 33.5)| |O| |C|Priest/Paladin| |Z|Stormwind City|
 N Arthur the Faithful |N|(38.8, 31.3)| |C|Paladin| |Z|Stormwind City|
 t Train your class spells |N|(38.7, 32.8)| |C|Paladin| |Z|Stormwind City|

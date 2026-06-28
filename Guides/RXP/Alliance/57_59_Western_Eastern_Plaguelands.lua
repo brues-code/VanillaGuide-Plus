@@ -17,6 +17,7 @@ T The Everlook Report |QID|6028| |N|Argent Officer Pureheart - (43.0, 83.5)| |Z|
 T Forging the Mightstone |QID|8418| |N|Commander Ashlam Valorfist - (42.7, 84.0) (ST Dungeon Quest)| |C|Paladin| |D|ST| |Z|Western Plaguelands|
 A Argent Dawn Commission |QID|5401| |N|Argent Officer Pureheart - (43.0, 83.5)| |Z|Western Plaguelands|
 T Argent Dawn Commission |QID|5401| |N|Argent Officer Pureheart - (43.0, 83.5)| |Z|Western Plaguelands|
+N Equip the [Argent Dawn Commission] to start collecting [Scourgestones] |O| |Z|Western Plaguelands|
 C Clear the Way |QID|5092| |OIDX|1| |N|Skeletal Flayers and Slavering Ghouls (50.0, 76.9)| |Z|Western Plaguelands|
 T Clear the Way |QID|5092| |N|Commander Ashlam Valorfist - (42.7, 84.0)| |Z|Western Plaguelands|
 A The Scourge Cauldrons |QID|5215| |N|Commander Ashlam Valorfist - (42.7, 84.0)| |Z|Western Plaguelands|
@@ -108,8 +109,8 @@ C Demon Dogs |QID|5542| |OIDX|1| |N|Kill Plaguebats (31.6, 71.6)| |Z|Eastern Pla
 T Duke Nicholas Zverenhoff |QID|6030| |N|Duke Nicholas Zverenhoff - (81.4, 59.8)| |Z|Eastern Plaguelands|
 T Uncle Carlin |QID|5241| |N|Carlin Redpath - (81.5, 59.8)| |Z|Eastern Plaguelands|
 A Defenders of Darrowshire |QID|5211| |N|Carlin Redpath - (81.5, 59.8)| |Z|Eastern Plaguelands|
-A That's Asking A Lot |QID|6026| |N|Smokey LaRue - (80.6, 58.0)| |Z|Eastern Plaguelands|
-T That's Asking A Lot |QID|6026| |N|Smokey LaRue - (80.6, 58.0)| |Z|Eastern Plaguelands|
+A That's Asking A Lot |QID|6026| |N|Smokey LaRue - (80.6, 58.0)| |AH| |Z|Eastern Plaguelands|
+T That's Asking A Lot |QID|6026| |N|Smokey LaRue - (80.6, 58.0)| |AH| |Z|Eastern Plaguelands|
 f Get the Light's Hope Chapel flight path |N|Khaelyn Steelwing - (81.6, 59.3)| |Z|Eastern Plaguelands|
 A The Restless Souls |QID|5281| |N|Caretaker Alen - (79.4, 64.0)| |Z|Eastern Plaguelands|
 A Zaeldarr the Outcast |QID|6021| |N|Caretaker Alen - (79.4, 64.0)| |Z|Eastern Plaguelands|
@@ -135,6 +136,7 @@ A Of Forgotten Memories |QID|5781| |N|Tirion Fordring - (7.5, 43.6)| |Z|Eastern 
 R Enter The Undercroft crypt |N|(27.9, 86.2)| |O| |Z|Eastern Plaguelands|
 C Zaeldarr the Outcast |QID|6021| |OIDX|1| |N|Zaeldarr the Outcast. Loot him for his Head (27.5, 84.9)| |Z|Eastern Plaguelands|
 A Hameya's Plea |QID|6024| |N|the Torn Scroll on the ground - (27.3, 85.2)| |Z|Eastern Plaguelands|
+N Click the Loose Dirt Mound to summon Mercutio Filthgorger and 3 additional Crypt Robbers |N|(28.3, 86.9)| |O| |Z|Eastern Plaguelands|
 N This quest can be very hard, skip it if you have to |N|(28.3, 86.9)| |Z|Eastern Plaguelands|
 N Try to split pull him if you can |N|(28.3, 86.9)| |Z|Eastern Plaguelands|
 N Click here for a reference video |N|(28.3, 86.9)| |Z|Eastern Plaguelands|

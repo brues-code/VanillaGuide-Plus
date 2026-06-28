@@ -21,6 +21,7 @@ R Swim to the hill west |N|(55.0, 50.7)| |O| |Z|Dustwallow Marsh|
 C Razzeric's Tweaking |QID|1187| |OIDX|1| |N|the Gizmorium Shipping Crate. Loot it for the Seaforium Booster (54.1, 56.5)| |Z|Dustwallow Marsh|
 T Cortello's Riddle |QID|625| |N|the Musty Scroll on the rock - (31.1, 66.1)| |Z|Dustwallow Marsh|
 A Cortello's Riddle |QID|626| |N|the Musty Scroll on the rock - (31.1, 66.1)| |Z|Dustwallow Marsh|
+N Cast Teleport: Moonglade |O| |C|Druid| |Z|Dustwallow Marsh|
 N Loganaar |N|(52.5, 40.6)| |C|Druid| |Z|Dustwallow Marsh|
 R Travel to Moonglade |N|(52.5, 40.6)| |C|Druid| |Z|Moonglade|
 t Train your class spells |N|Teleport to Moonglade - (52.5, 40.6)| |C|Druid| |Z|Moonglade|
@@ -71,8 +72,10 @@ A Stoley's Shipment |QID|2873| |N|Security Chief Bilgewhizzle and Stoley - (67.1
 C Wastewander Justice |QID|1690| |OIDX|1| |N|Wastewander Bandits and Wastewander Thieves. Loot them for their Wastewander Water Pouches (63.9, 31.6)| |Z|Tanaris|
 C Water Pouch Bounty |QID|1707| |OIDX|1| |N|Wastewander Bandits and Wastewander Thieves. Loot them for their Wastewander Water Pouches (63.9, 31.6)| |Z|Tanaris|
 A Gahz'ridian |QID|3161| |N|Marvon Rivetseeker - (52.7, 45.9)| |C|Hunter| |Z|Tanaris|
+N Equip the [Gahz'ridian Detector] |O| |C|Hunter| |Z|Tanaris|
 N The Gahz'ridian will show up on your minimap with the [Gahz'ridian Detector] equiped |N|(47.8, 64.8)| |C|Hunter| |Z|Tanaris|
 C Gahz'ridian |QID|3161| |OIDX|1| |N|the Gahz'ridian on the ground around the Ruins (47.8, 64.8)| |C|Hunter| |Z|Tanaris|
+N Equip your normal [Helmet] |O| |C|Hunter| |Z|Tanaris|
 T Gahz'ridian |QID|3161| |N|Marvon Rivetseeker - (52.7, 45.9)| |C|Hunter| |Z|Tanaris|
 R Gimblethorn |N|(52.3, 28.9)| |Z|Tanaris|
 N [Fool's Stout Report] |N|(52.3, 28.9)| |Z|Tanaris|

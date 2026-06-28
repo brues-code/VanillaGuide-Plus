@@ -312,6 +312,87 @@ local RXPHordeSharedPath = {
     { zone = "Winterspring/Silithus",         levels = "59-60", guide = "RXP/59-60 Winterspring/Silithus II" },
 }
 
+-- RXP Hardcore Shared Paths
+-- ============================================================================
+local RXPHardcoreAllianceSharedPath = {
+    { zone = "Westfall",              levels = "13-15", guide = "RXP_Hardcore/13-15 Westfall" },
+    { zone = "Darkshore",             levels = "15-18", guide = "RXP_Hardcore/15-18 Darkshore" },
+    { zone = "Loch Modan",            levels = "18-19", guide = "RXP_Hardcore/18-19 Loch Modan" },
+    { zone = "Redridge Mountains",    levels = "19-20", guide = "RXP_Hardcore/19-20 Redridge" },
+    { zone = "Darkshore/Ashenvale",   levels = "20-21", guide = "RXP_Hardcore/20-21 Darkshore/Ashenvale" },
+    { zone = "Stonetalon/Ashenvale",  levels = "21-23", guide = "RXP_Hardcore/21-23 Stonetalon/Ashenvale" },
+    { zone = "Wetlands",              levels = "23-24", guide = "RXP_Hardcore/23-24 Wetlands" },
+    { zone = "Duskwood/Redridge",     levels = "24-27", guide = "RXP_Hardcore/24-27 Duskwood/Redridge" },
+    { zone = "Wetlands",              levels = "27-27", guide = "RXP_Hardcore/27-27 Wetlands" },
+    { zone = "Ashenvale",             levels = "27-30", guide = "RXP_Hardcore/27-30 Ashenvale" },
+    { zone = "Wetlands/Hillsbrad",    levels = "30-30", guide = "RXP_Hardcore/30-30 Wetlands/Hillsbrad" },
+    { zone = "Duskwood",              levels = "30-32", guide = "RXP_Hardcore/30-32 Duskwood" },
+    { zone = "Hillsbrad/Arathi",      levels = "32-33", guide = "RXP_Hardcore/32-33 Hillsbrad/Arathi I" },
+    { zone = "Thousand Needles",      levels = "33-34", guide = "RXP_Hardcore/33-34 Thousand Needles" },
+    { zone = "Stranglethorn Vale",    levels = "34-35", guide = "RXP_Hardcore/34-35 Stranglethorn Vale I" },
+    { zone = "Hillsbrad/Arathi",      levels = "35-36", guide = "RXP_Hardcore/35-36 Hillsbrad/Arathi II" },
+    { zone = "Desolace",              levels = "36-37", guide = "RXP_Hardcore/36-37 Desolace" },
+    { zone = "Stranglethorn Vale",    levels = "37-38", guide = "RXP_Hardcore/37-38 Stranglethorn Vale II" },
+    { zone = "Swamp of Sorrows",      levels = "38-39", guide = "RXP_Hardcore/38-39 Swamp of Sorrows" },
+    { zone = "Dustwallow Marsh",      levels = "39-39", guide = "RXP_Hardcore/39-39 Dustwallow Marsh" },
+    { zone = "Desolace",              levels = "39-40", guide = "RXP_Hardcore/39-40 Desolace" },
+    { zone = "Alterac/Arathi",        levels = "40-41", guide = "RXP_Hardcore/40-41 Alterac/Arathi" },
+    { zone = "Badlands",              levels = "41-42", guide = "RXP_Hardcore/41-42 Badlands" },
+    { zone = "Stranglethorn Vale",    levels = "42-43", guide = "RXP_Hardcore/42-43 Stranglethorn Vale" },
+    { zone = "Desolace",              levels = "43-43", guide = "RXP_Hardcore/43-43 Desolace II" },
+    { zone = "Tanaris/Dustwallow",    levels = "43-45", guide = "RXP_Hardcore/43-45 Tanaris/Dustwallow" },
+    { zone = "Feralas",               levels = "45-46", guide = "RXP_Hardcore/45-46 Feralas" },
+    { zone = "Southern STV",          levels = "46-47", guide = "RXP_Hardcore/46-47 Southern Stranglethorn" },
+    { zone = "Swamp of Sorrows",      levels = "47-48", guide = "RXP_Hardcore/47-48 Swamp of Sorrows" },
+    { zone = "Tanaris",               levels = "47-49", guide = "RXP_Hardcore/47-49 Tanaris" },
+    { zone = "The Hinterlands",       levels = "49-50", guide = "RXP_Hardcore/49-50 The Hinterlands" },
+    { zone = "Feralas",               levels = "50-51", guide = "RXP_Hardcore/50-51 Feralas" },
+    { zone = "Stranglethorn/Blasted", levels = "51-52", guide = "RXP_Hardcore/51-52 Stranglethorn/Blasted Lands" },
+    { zone = "Searing Gorge/Burning", levels = "52-53", guide = "RXP_Hardcore/52-53 Searing Gorge/Burning Steppes" },
+    { zone = "Azshara",               levels = "53-54", guide = "RXP_Hardcore/53-54 Azshara" },
+    { zone = "Felwood",               levels = "54-54", guide = "RXP_Hardcore/54-54 Felwood" },
+    { zone = "Un'Goro Crater",        levels = "54-56", guide = "RXP_Hardcore/54-56 Un'Goro Crater" },
+    { zone = "Felwood/Winterspring",  levels = "56-57", guide = "RXP_Hardcore/56-57 Felwood/Winterspring" },
+    { zone = "Plaguelands",           levels = "57-59", guide = "RXP_Hardcore/57-59 Western PL/Eastern PL" },
+    { zone = "Winterspring/Silithus", levels = "59-59", guide = "RXP_Hardcore/59-59 Winterspring/Silithus I" },
+    { zone = "Winterspring/Silithus", levels = "59-60", guide = "RXP_Hardcore/59-60 Winterspring/Silithus II" },
+}
+
+local RXPHardcoreHordeSharedPath = {
+    { zone = "Silverpine Forest",            levels = "13-15", guide = "RXP_Hardcore/13-15 Silverpine Forest" },
+    { zone = "The Barrens",                  levels = "15-19", guide = "RXP_Hardcore/15-19 The Barrens" },
+    { zone = "Stonetalon/Barrens/Ashenvale", levels = "19-23", guide = "RXP_Hardcore/19-23 Stonetalon/Barrens/Ashenvale" },
+    { zone = "Hillsbrad",                    levels = "23-25", guide = "RXP_Hardcore/23-25 Hillsbrad" },
+    { zone = "Southern Barrens/Stonetalon",  levels = "25-27", guide = "RXP_Hardcore/25-27 Southern Barrens/Stonetalon" },
+    { zone = "Ashenvale",                    levels = "27-29", guide = "RXP_Hardcore/27-29 Ashenvale" },
+    { zone = "Thousand Needles",             levels = "29-31", guide = "RXP_Hardcore/29-31 Thousand Needles" },
+    { zone = "Hillsbrad/Arathi",             levels = "31-34", guide = "RXP_Hardcore/31-34 Hillsbrad/Arathi" },
+    { zone = "Shimmering Flats",             levels = "34-35", guide = "RXP_Hardcore/34-35 Shimmering Flats" },
+    { zone = "Desolace",                     levels = "35-37", guide = "RXP_Hardcore/35-37 Desolace Horde" },
+    { zone = "Northern STV",                 levels = "37-38", guide = "RXP_Hardcore/37-38 Northern Stranglethorn" },
+    { zone = "Dustwallow Marsh",             levels = "38-39", guide = "RXP_Hardcore/38-39 Dustwallow Marsh" },
+    { zone = "Alterac/Arathi",               levels = "39-41", guide = "RXP_Hardcore/39-41 Alterac/Arathi" },
+    { zone = "Badlands",                     levels = "41-42", guide = "RXP_Hardcore/41-42 Badlands" },
+    { zone = "Stranglethorn Vale",           levels = "42-43", guide = "RXP_Hardcore/42-43 Stranglethorn Vale" },
+    { zone = "Desolace",                     levels = "43-43", guide = "RXP_Hardcore/43-43 Desolace II" },
+    { zone = "Tanaris/Dustwallow",           levels = "43-45", guide = "RXP_Hardcore/43-45 Tanaris/Dustwallow" },
+    { zone = "Feralas",                      levels = "45-46", guide = "RXP_Hardcore/45-46 Feralas" },
+    { zone = "Southern STV",                 levels = "46-47", guide = "RXP_Hardcore/46-47 Southern Stranglethorn" },
+    { zone = "Swamp of Sorrows",             levels = "47-48", guide = "RXP_Hardcore/47-48 Swamp of Sorrows" },
+    { zone = "Tanaris",                      levels = "47-49", guide = "RXP_Hardcore/47-49 Tanaris" },
+    { zone = "The Hinterlands",              levels = "49-50", guide = "RXP_Hardcore/49-50 The Hinterlands" },
+    { zone = "Feralas",                      levels = "50-51", guide = "RXP_Hardcore/50-51 Feralas" },
+    { zone = "Stranglethorn/Blasted",        levels = "51-52", guide = "RXP_Hardcore/51-52 Stranglethorn/Blasted Lands" },
+    { zone = "Searing Gorge/Burning",        levels = "52-53", guide = "RXP_Hardcore/52-53 Searing Gorge/Burning Steppes" },
+    { zone = "Azshara",                      levels = "53-54", guide = "RXP_Hardcore/53-54 Azshara" },
+    { zone = "Felwood",                      levels = "54-54", guide = "RXP_Hardcore/54-54 Felwood" },
+    { zone = "Un'Goro Crater",               levels = "54-56", guide = "RXP_Hardcore/54-56 Un'Goro Crater" },
+    { zone = "Felwood/Winterspring",         levels = "56-57", guide = "RXP_Hardcore/56-57 Felwood/Winterspring" },
+    { zone = "Plaguelands",                  levels = "57-59", guide = "RXP_Hardcore/57-59 Western PL/Eastern PL" },
+    { zone = "Winterspring/Silithus",        levels = "59-59", guide = "RXP_Hardcore/59-59 Winterspring/Silithus I" },
+    { zone = "Winterspring/Silithus",        levels = "59-60", guide = "RXP_Hardcore/59-60 Winterspring/Silithus II" },
+}
+
 TurtleGuide:RegisterRoutePack("RestedXP", {
     displayName = "RestedXP",
     description = "Speedrun-optimized leveling routes (Original RXP Era)",
@@ -324,13 +405,13 @@ TurtleGuide:RegisterRoutePack("RestedXP", {
         }, RXPAllianceSharedPath),
         Dwarf = MergeRoutes({
             { zone = "Coldridge Valley", levels = "1-6",   guide = "RXP/1-6 Coldridge Valley" },
-            { zone = "Dun Morogh",       levels = "6-11",  guide = "RXP/06-11 Dun Morogh" },
+            { zone = "Dun Morogh",       levels = "6-11",  guide = "RXP/6-11 Dun Morogh" },
             { zone = "Elwynn",           levels = "11-12", guide = "RXP/11-12 Elwynn (Dwarf/Gnome)" },
             { zone = "Loch Modan",       levels = "12-14", guide = "RXP/12-14 Loch Modan (Dwarf/Gnome)" },
         }, RXPAllianceSharedPath),
         Gnome = MergeRoutes({
             { zone = "Coldridge Valley", levels = "1-6",   guide = "RXP/1-6 Coldridge Valley" },
-            { zone = "Dun Morogh",       levels = "6-11",  guide = "RXP/06-11 Dun Morogh" },
+            { zone = "Dun Morogh",       levels = "6-11",  guide = "RXP/6-11 Dun Morogh" },
             { zone = "Elwynn",           levels = "11-12", guide = "RXP/11-12 Elwynn (Dwarf/Gnome)" },
             { zone = "Loch Modan",       levels = "12-14", guide = "RXP/12-14 Loch Modan (Dwarf/Gnome)" },
         }, RXPAllianceSharedPath),
@@ -340,21 +421,71 @@ TurtleGuide:RegisterRoutePack("RestedXP", {
             { zone = "Darkshore",  levels = "11-14", guide = "RXP/14-16 Darkshore" }, -- Starts early in NE path
         }, RXPAllianceSharedPath),
         Orc = MergeRoutes({
-            { zone = "Durotar", levels = "1-7",  guide = "RXP/1-7 Durotar" },
-            { zone = "Durotar", levels = "7-13", guide = "RXP/7-13 Durotar" },
+            { zone = "Durotar", levels = "1-6",   guide = "RXP/1-6 Durotar" },
+            { zone = "Durotar", levels = "6-10",  guide = "RXP/6-10 Durotar" },
+            { zone = "Durotar", levels = "10-12", guide = "RXP/10-12 Durotar" },
         }, RXPHordeSharedPath),
         Troll = MergeRoutes({
-            { zone = "Durotar", levels = "1-7",  guide = "RXP/1-7 Durotar" },
-            { zone = "Durotar", levels = "7-13", guide = "RXP/7-13 Durotar" },
+            { zone = "Durotar", levels = "1-6",   guide = "RXP/1-6 Durotar" },
+            { zone = "Durotar", levels = "6-10",  guide = "RXP/6-10 Durotar" },
+            { zone = "Durotar", levels = "10-12", guide = "RXP/10-12 Durotar" },
         }, RXPHordeSharedPath),
         Tauren = MergeRoutes({
-            { zone = "Mulgore", levels = "1-7",  guide = "RXP/1-7 Mulgore" },
-            { zone = "Mulgore", levels = "7-13", guide = "RXP/7-13 Mulgore" },
+            { zone = "Mulgore", levels = "1-6",  guide = "RXP/1-6 Mulgore" },
+            { zone = "Mulgore", levels = "6-12", guide = "RXP/6-12 Mulgore" },
         }, RXPHordeSharedPath),
         Undead = MergeRoutes({
-            { zone = "Tirisfal", levels = "1-7",  guide = "RXP/1-7 Tirisfal Glades" },
-            { zone = "Tirisfal", levels = "7-13", guide = "RXP/7-13 Tirisfal Glades" },
+            { zone = "Tirisfal", levels = "1-6",   guide = "RXP/1-6 Tirisfal Glades" },
+            { zone = "Tirisfal", levels = "6-11",  guide = "RXP/6-11 Tirisfal Glades" },
+            { zone = "Tirisfal", levels = "10-12", guide = "RXP/10-12 Tirisfal" },
         }, RXPHordeSharedPath),
+    },
+})
+
+-- RestedXP Hardcore Route Pack - Survival routes (Full 1-60)
+TurtleGuide:RegisterRoutePack("RXP Hardcore", {
+    displayName = "RXP Hardcore",
+    description = "Hardcore-optimized survival routes (RXP Survival Guide)",
+    routes = {
+        Human = MergeRoutes({
+            { zone = "Northshire",    levels = "1-6",   guide = "RXP_Hardcore/1-6 Northshire" },
+            { zone = "Elwynn Forest", levels = "6-11",  guide = "RXP_Hardcore/6-11 Elwynn Forest" },
+            { zone = "Loch Modan",    levels = "11-13", guide = "RXP_Hardcore/11-13 Loch Modan" },
+        }, RXPHardcoreAllianceSharedPath),
+        Dwarf = MergeRoutes({
+            { zone = "Coldridge Valley", levels = "1-6",   guide = "RXP_Hardcore/1-6 Coldridge Valley" },
+            { zone = "Dun Morogh",       levels = "6-10",  guide = "RXP_Hardcore/6-10 Dun Morogh" },
+            { zone = "Elwynn",           levels = "10-11", guide = "RXP_Hardcore/10-11 Elwynn (Dwarf/Gnome)" },
+            { zone = "Loch Modan",       levels = "11-13", guide = "RXP_Hardcore/11-13 Loch Modan (Dwarf/Gnome)" },
+        }, RXPHardcoreAllianceSharedPath),
+        Gnome = MergeRoutes({
+            { zone = "Coldridge Valley", levels = "1-6",   guide = "RXP_Hardcore/1-6 Coldridge Valley" },
+            { zone = "Dun Morogh",       levels = "6-10",  guide = "RXP_Hardcore/6-10 Dun Morogh" },
+            { zone = "Elwynn",           levels = "10-11", guide = "RXP_Hardcore/10-11 Elwynn (Dwarf/Gnome)" },
+            { zone = "Loch Modan",       levels = "11-13", guide = "RXP_Hardcore/11-13 Loch Modan (Dwarf/Gnome)" },
+        }, RXPHardcoreAllianceSharedPath),
+        NightElf = MergeRoutes({
+            { zone = "Shadowglen", levels = "1-6",   guide = "RXP_Hardcore/1-6 Shadowglen" },
+            { zone = "Teldrassil", levels = "6-11",  guide = "RXP_Hardcore/6-11 Teldrassil" },
+            { zone = "Darkshore",  levels = "11-13", guide = "RXP_Hardcore/11-13 Darkshore (Night Elf)" },
+            { zone = "Loch Modan", levels = "13-13", guide = "RXP_Hardcore/13-13 Loch Modan (Night Elf)" },
+        }, RXPHardcoreAllianceSharedPath),
+        Orc = MergeRoutes({
+            { zone = "Durotar", levels = "1-6",  guide = "RXP_Hardcore/1-6 Orc/Troll" },
+            { zone = "Durotar", levels = "6-13", guide = "RXP_Hardcore/6-13 Orc/Troll" },
+        }, RXPHardcoreHordeSharedPath),
+        Troll = MergeRoutes({
+            { zone = "Durotar", levels = "1-6",  guide = "RXP_Hardcore/1-6 Orc/Troll" },
+            { zone = "Durotar", levels = "6-13", guide = "RXP_Hardcore/6-13 Orc/Troll" },
+        }, RXPHardcoreHordeSharedPath),
+        Tauren = MergeRoutes({
+            { zone = "Mulgore", levels = "1-6",  guide = "RXP_Hardcore/1-6 Tauren" },
+            { zone = "Mulgore", levels = "6-13", guide = "RXP_Hardcore/6-13 Tauren" },
+        }, RXPHardcoreHordeSharedPath),
+        Undead = MergeRoutes({
+            { zone = "Tirisfal", levels = "1-6",  guide = "RXP_Hardcore/1-6 Undead" },
+            { zone = "Tirisfal", levels = "6-13", guide = "RXP_Hardcore/6-13 Undead" },
+        }, RXPHardcoreHordeSharedPath),
     },
 })
 

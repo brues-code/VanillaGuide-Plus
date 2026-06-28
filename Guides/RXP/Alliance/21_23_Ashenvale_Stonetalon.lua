@@ -71,6 +71,7 @@ T On Guard in Stonetalon |QID|1085| |N|Gaxim Rustfizzle - (59.5, 67.1)| |Z|Stone
 A A Gnome's Respite |QID|1071| |N|Gaxim Rustfizzle - (59.5, 67.1)| |Z|Stonetalon Mountains|
 C Super Reaper 6000 |QID|1093| |OIDX|1| |N|Venture Co. Operators. Loot them for the Blueprints (66.7, 51.9)| |Z|Stonetalon Mountains|
 C A Gnome's Respite |QID|1071| |OIDX|1| |N|Venture Co. Deforesters and Venture Co. Loggers (66.7, 51.9)| |Z|Stonetalon Mountains|
+G Grind Goblins to level 22 and 6700+xp |Z|Stonetalon Mountains|
 T Super Reaper 6000 |QID|1093| |N|Ziz Fizziks - (59.0, 62.6)| |Z|Stonetalon Mountains|
 T A Gnome's Respite |QID|1071| |N|Gaxim Rustfizzle - (59.5, 67.1)| |Z|Stonetalon Mountains|
 A An Old Colleague |QID|1072| |N|Gaxim Rustfizzle| |Z|Stonetalon Mountains|
@@ -87,6 +88,7 @@ A An Aggressive Defense |QID|1025| |N|Raene Wolfrunner - (36.6, 49.6)| |Z|Ashenv
 A Fallen Sky Lake |QID|1035| |N|Pelturas Whitemoon - (37.4, 51.8)| |Z|Ashenvale|
 A Elemental Bracers |QID|1016| |N|Sentinel Velene Starstrike - (49.8, 67.2)| |Z|Ashenvale|
 t Train your class skills |N|Danlaar Nightstride - (50.1, 67.9)| |C|Hunter| |Z|Ashenvale|
+N Use your [Elixir of Water Breathing] |O| |Z|Ashenvale|
 N The Befouled Water Elementals cast [Frost Nova]. Pay attention to your breath timer if you dive underwater to kill them |N|(48.9, 70.0)| |Z|Ashenvale|
 C Befouled Water Elementals. Loot them for their Bracers |QID|1016| |L|12220 5| |N|Befouled Water Elementals. Loot them for their Bracers - (48.9, 70.0)| |Z|Ashenvale|
 C Elemental Bracers |QID|1016| |OIDX|1| |N|Use the [Divining Scroll] to create the [Divined Scroll]| |Z|Ashenvale|

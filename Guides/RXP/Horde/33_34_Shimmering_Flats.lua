@@ -90,6 +90,7 @@ f Get the Booty Bay flight path |N|Gringer around the corner of the balcony - (2
 B Buy [Greater Healing Potions] from him if they're up |N|Glyx - (28.1, 78.1)| |Z|Stranglethorn Vale|
 H Camp Taurajo |N|Hearth to Camp Taurajo| |O| |C|!Mage| |Z|Stranglethorn Vale|
 F Fly to Thunder Bluff |N|Omusa - (44.5, 59.2)| |C|!Mage| |Z|The Barrens|
+N Cast [Teleport: Thunder Bluff] |C|Mage| |Z|The Barrens|
 T A Vengeful Fate |QID|1102| |N|Auld - (36.0, 59.9) (RFK Dungeon Quest)| |D|RFK| |Z|Thunder Bluff|
 
 ]]

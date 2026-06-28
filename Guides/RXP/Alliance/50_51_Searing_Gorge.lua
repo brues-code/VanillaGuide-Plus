@@ -5,16 +5,20 @@ return [[
 N 50-51 Searing Gorge |N|Converted from RestedXP guide|
 
 C Make sure you to keep all the [Silk Cloth] you find during this segment for a quest later |QID|4449| |L|4306 15| |N|Make sure you to keep all the [Silk Cloth] you find during this segment for a quest later| |O|
-A What the Flux? |QID|7722| |N|Master Smith Burninate - (38.8, 28.5)| |Z|Searing Gorge|
+A What the Flux? |QID|7722| |N|[Group] Master Smith Burninate - (38.8, 28.5)| |C|Druid/Paladin/Rogue| |P|GROUP| |Z|Searing Gorge|
+A What the Flux? |QID|7722| |N|Master Smith Burninate - (38.8, 28.5)| |C|!Druid/!Paladin/!Rogue| |Z|Searing Gorge|
 A Curse These Fat Fingers |QID|7723| |N|Hansel Heavyhands - (38.6, 27.8)| |Z|Searing Gorge|
 A Fiery Menace! |QID|7724| |N|Hansel Heavyhands - (38.6, 27.8)| |Z|Searing Gorge|
 A Incendosaurs? Whateverosaur is More Like It |QID|7727| |N|Hansel Heavyhands - (38.6, 27.8)| |Z|Searing Gorge|
-A STOLEN: Smithing Tuyere and Lookout's Spyglass |QID|7728| |N|the Wanted Board - (37.6, 26.5)| |Z|Searing Gorge|
-A JOB OPPORTUNITY: Culling the Competition |QID|7729| |N|the Wanted Board - (37.6, 26.5)| |Z|Searing Gorge|
+A STOLEN: Smithing Tuyere and Lookout's Spyglass |QID|7728| |N|the Wanted Board - (37.6, 26.5)| |P|SOLO| |Z|Searing Gorge|
+A JOB OPPORTUNITY: Culling the Competition |QID|7729| |N|the Wanted Board - (37.6, 26.5)| |P|SOLO| |Z|Searing Gorge|
+A WANTED: Overseer Maltorius |QID|7701| |N|the Wanted Board - (37.6, 26.5)| |C|Warlock| |P|SOLO| |Z|Searing Gorge|
+A STOLEN: Smithing Tuyere and Lookout's Spyglass |QID|7728| |N|[Group] the Wanted Board - (37.6, 26.5)| |C|!Warlock| |P|GROUP| |Z|Searing Gorge|
+A STOLEN: Smithing Tuyere and Lookout's Spyglass |QID|7728| |N|the Wanted Board - (37.6, 26.5)| |C|Warlock| |Z|Searing Gorge|
+A JOB OPPORTUNITY: Culling the Competition |QID|7729| |N|[Group] the Wanted Board - (37.6, 26.5)| |C|!Warlock| |P|GROUP| |Z|Searing Gorge|
+A JOB OPPORTUNITY: Culling the Competition |QID|7729| |N|the Wanted Board - (37.6, 26.5)| |C|Warlock| |Z|Searing Gorge|
+A WANTED: Overseer Maltorius |QID|7701| |N|[Group] the Wanted Board - (37.6, 26.5)| |C|!Warlock| |P|GROUP| |Z|Searing Gorge|
 A WANTED: Overseer Maltorius |QID|7701| |N|the Wanted Board - (37.6, 26.5)| |C|Warlock| |Z|Searing Gorge|
-A STOLEN: Smithing Tuyere and Lookout's Spyglass |QID|7728| |N|the Wanted Board - (37.6, 26.5)| |Z|Searing Gorge|
-A JOB OPPORTUNITY: Culling the Competition |QID|7729| |N|the Wanted Board - (37.6, 26.5)| |Z|Searing Gorge|
-A WANTED: Overseer Maltorius |QID|7701| |N|the Wanted Board - (37.6, 26.5)| |Z|Searing Gorge|
 A Divine Retribution |QID|3441| |N|Velarok Windblade - (39.1, 39.0)| |Z|Searing Gorge|
 C Divine Retribution |QID|3441| |OIDX|1| |N|Velarok Windblade (39.1, 39.0)| |Z|Searing Gorge|
 T Divine Retribution |QID|3441| |N|Velarok Windblade - (39.1, 39.0)| |Z|Searing Gorge|
@@ -130,6 +134,7 @@ A Proof of Deed |QID|3182| |N|Mountaineer Pebblebitty - (18.2, 84.0)| |Z|Loch Mo
 t Train your class spells |N|Dink - (27.2, 8.6)| |C|Mage| |Z|Ironforge|
 B Buy 10 [Rune of Teleportations] from her |N|Ginny Longberry - (31.3, 27.8)| |C|Mage| |Z|Ironforge|
 B Ginny Longberry |L|17031 10| |N|Ginny Longberry - (31.3, 27.8)| |C|Mage| |Z|Ironforge|
+N Cast Teleport: Moonglade |O| |C|Druid| |Z|Ironforge|
 N Loganaar |N|(52.5, 40.6)| |C|Druid| |Z|Ironforge|
 R Travel to Moonglade |N|(52.5, 40.6)| |C|Druid| |Z|Moonglade|
 t Train your class spells |N|Teleport to Moonglade - (52.5, 40.6)| |C|Druid| |Z|Moonglade|

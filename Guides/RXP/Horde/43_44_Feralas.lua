@@ -78,18 +78,18 @@ C The Ogres of Feralas |QID|2980| |OIDX|1| |N|Gordunni Maulers, Warlocks, and Sh
 C Dark Ceremony |QID|2979| |OIDX|1| |N|Gordunni Mage-Lords. Loot them for their Orb (59.6, 64.5)| |Z|Feralas|
 N [Long Elegant Feathers] are dropped by Hippogryphs only. Stagwings and Skystormers DO NOT drop them |O| |Z|Feralas|
 C Frayfeather Hippogryphs. Loot them for their [Long Elegant Feathers] |QID|7842| |L|4589 10| |N|Kill Frayfeather Hippogryphs. Loot them for their [Long Elegant Feathers]| |O| |Z|Feralas|
-N You could also buy these from the Auction House instead |O| |Z|Feralas|
-N [Long Elegant Feathers] are dropped by Hippogryphs only. Stagwings and Skystormers DO NOT drop them |O| |Z|Feralas|
-B Frayfeather Hippogryphs. Loot them for their [Long Elegant Feathers] |L|4589 10| |N|Kill Frayfeather Hippogryphs. Loot them for their [Long Elegant Feathers]| |O| |Z|Feralas|
+N You could also buy these from the Auction House instead |O| |AH| |Z|Feralas|
+N [Long Elegant Feathers] are dropped by Hippogryphs only. Stagwings and Skystormers DO NOT drop them |O| |AH| |Z|Feralas|
+B Frayfeather Hippogryphs. Loot them for their [Long Elegant Feathers] |L|4589 10| |N|Kill Frayfeather Hippogryphs. Loot them for their [Long Elegant Feathers]| |O| |AH| |Z|Feralas|
 N There are multiple nests located in the southern mountains |N|(56.7, 75.9)| |Z|Feralas|
 C a [Hippogryph Egg] from a hippogryph nest |L|8564 1| |N|a [Hippogryph Egg] from a hippogryph nest - (56.7, 75.9)| |Z|Feralas|
 N Use [Yeh'kinya's Bramble] on their corpses. Talk to the Screecher Spirit that appears |O| |Z|Feralas|
 C Screecher Spirits |QID|3520| |OIDX|1| |N|Kill Vale Screechers| |O| |Z|Feralas|
 N [Long Elegant Feathers] are dropped by Hippogryphs only. Stagwings and Skystormers DO NOT drop them |N|(55.9, 65.9)| |Z|Feralas|
 C Frayfeather Hippogryphs. Loot them for their [Long Elegant Feathers] |QID|7842| |L|4589 10| |N|Frayfeather Hippogryphs. Loot them for their [Long Elegant Feathers] - (55.9, 65.9)| |Z|Feralas|
-N You could also buy these from the Auction House instead |N|(55.9, 65.9)| |Z|Feralas|
-N [Long Elegant Feathers] are dropped by Hippogryphs only. Stagwings and Skystormers DO NOT drop them |N|(55.9, 65.9)| |Z|Feralas|
-B Frayfeather Hippogryphs. Loot them for their [Long Elegant Feathers] |L|4589 10| |N|Frayfeather Hippogryphs. Loot them for their [Long Elegant Feathers] - (55.9, 65.9)| |Z|Feralas|
+N You could also buy these from the Auction House instead |N|(55.9, 65.9)| |AH| |Z|Feralas|
+N [Long Elegant Feathers] are dropped by Hippogryphs only. Stagwings and Skystormers DO NOT drop them |N|(55.9, 65.9)| |AH| |Z|Feralas|
+B Frayfeather Hippogryphs. Loot them for their [Long Elegant Feathers] |L|4589 10| |N|Frayfeather Hippogryphs. Loot them for their [Long Elegant Feathers] - (55.9, 65.9)| |AH| |Z|Feralas|
 R Continue to kill Frayfeather mobs |N|(55.9, 65.9)| |Z|Feralas|
 N Use [Yeh'kinya's Bramble] on their corpses. Talk to the Screecher Spirit that appears |N|(56.7, 56.1)| |Z|Feralas|
 C Screecher Spirits |QID|3520| |OIDX|1| |N|Kill Vale Screechers (56.7, 56.1)| |Z|Feralas|
@@ -123,6 +123,7 @@ T Dark Ceremony |QID|2979| |N|Rok - (75.5, 43.7)| |Z|Feralas|
 A The Gordunni Orb |QID|3002| |N|Rok - (75.5, 43.7)| |Z|Feralas|
 t Train your class spells |N|Jannos - (76.0, 42.3)| |C|Druid| |Z|Feralas|
 F Fly to Thunder Bluff |N|Shyn - (75.5, 44.4)| |O| |C|!Mage| |Z|Feralas|
+N Cast [Teleport: Thunder Bluff] |O| |C|Mage| |Z|Feralas|
 T The Platinum Discs |QID|2280| |N|Sage - (34.4, 46.9) (ULDA Dungeon Quest)| |D|ULDA| |Z|Thunder Bluff|
 A The Platinum Discs |QID|2440| |N|Sage - (34.4, 46.9) (ULDA Dungeon Quest)| |D|ULDA| |Z|Thunder Bluff|
 T The Platinum Discs |QID|2440| |N|Bena - (46.6, 33.2) (ULDA Dungeon Quest)| |D|ULDA| |Z|Thunder Bluff|
@@ -132,6 +133,7 @@ A Seeing What Happens |QID|2966| |N|Nara - (75.7, 31.6) (ULDA Dungeon Quest)| |D
 T Deadmire |QID|1205| |N|Melor - (61.5, 80.9)| |Z|Thunder Bluff|
 F Fly to Orgrimmar |N|Tal - (47.0, 49.8)| |O| |C|!Mage| |Z|Thunder Bluff|
 F Fly to Orgrimmar |N|Shyn - (75.5, 44.4)| |O| |C|!Mage| |Z|Feralas|
+N Cast [Teleport: Orgrimmar] |O| |C|Mage| |Z|Feralas|
 T The Gordunni Orb |QID|3002| |N|Uthel'nay - (39.2, 86.3)| |Z|Orgrimmar|
 t Train your class spells |N|Pephredo - (38.4, 85.5)| |C|Mage| |Z|Orgrimmar|
 t Train your class spells |N|Ur'kyo - (35.6, 87.8)| |C|Priest| |Z|Orgrimmar|
@@ -162,8 +164,8 @@ N [Seaforium Booster] |N|(49.6, 69.1)| |Z|Orgrimmar|
 N [Neeru's Herb Pouch] |N|(49.6, 69.1)| |Z|Orgrimmar|
 N [Hippogryph Egg] |N|(49.6, 69.1)| |Z|Orgrimmar|
 N [Long Elegant Feathers] |N|(49.6, 69.1)| |Z|Orgrimmar|
-N Buy ten [Gorilla Fangs] from the Auction House |N|(55.6, 62.9)| |Z|Orgrimmar|
-B Auctioneer Thathung |L|2799 10| |N|Auctioneer Thathung - (55.6, 62.9)| |Z|Orgrimmar|
+N Buy ten [Gorilla Fangs] from the Auction House |N|(55.6, 62.9)| |AH| |Z|Orgrimmar|
+B Auctioneer Thathung |L|2799 10| |N|Auctioneer Thathung - (55.6, 62.9)| |AH| |Z|Orgrimmar|
 t Train [Raptor Riding] |N|Xar'Ti and Zjolnir - (55.3, 75.5)| |O| |R|Troll| |Z|Durotar|
 B Buy a [Raptor] |N|Xar'Ti and Zjolnir - (55.3, 75.5)| |O| |R|Troll| |Z|Durotar|
 R Go up the Zeppelin Tower |N|(50.8, 13.8)| |Z|Durotar|

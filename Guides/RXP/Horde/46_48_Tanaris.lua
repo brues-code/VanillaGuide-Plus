@@ -174,14 +174,15 @@ T Cortello's Riddle |QID|625| |N|Enter the cave, then click the Musty Scroll on 
 A Cortello's Riddle |QID|626| |N|Enter the cave, then click the Musty Scroll on the rock - (31.1, 66.1)| |Z|Dustwallow Marsh|
 C The Brood of Onyxia |QID|1172| |OIDX|1| |N|Eggs of Onyxia to destroy them (53.6, 72.5)| |Z|Dustwallow Marsh|
 T Tiara of the Deep |QID|2846| |N|Tabetha - (46.0, 57.1) (ZF Dungeon Quest)| |D|ZF| |Z|Dustwallow Marsh|
-N Die and respawn at the Spirit Healer |O| |Z|Dustwallow Marsh|
+N Die and respawn at the Spirit Healer |O| |P|SOLO| |Z|Dustwallow Marsh|
 T The Brood of Onyxia |QID|1172| |N|Draz'Zilb - (37.1, 33.1)| |Z|Dustwallow Marsh|
-N Accepting this quest turns Overlord Mok'Morokk hostile. He hits extremely hard and should be kited. Be prepared |N|(36.3, 31.5)| |Z|Dustwallow Marsh|
-A Challenge Overlord Mok'Morokk |QID|1173| |N|Mok'Morokk - (36.3, 31.5)| |Z|Dustwallow Marsh|
-N He hits extremely hard and should be kited |N|(36.3, 31.5)| |Z|Dustwallow Marsh|
-N He can be feared |N|(36.3, 31.5)| |C|Warlock/Priest/Warrior| |Z|Dustwallow Marsh|
-C Challenge Overlord Mok'Morokk |QID|1173| |OIDX|1| |N|Defeat Overlord Mok'Morokk by reducing his health to about 30% (36.3, 31.5)| |Z|Dustwallow Marsh|
-T Challenge Overlord Mok'Morokk |QID|1173| |N|Draz'Zilb - (37.1, 33.0)| |Z|Dustwallow Marsh|
+N Accepting this quest turns Overlord Mok'Morokk hostile. He hits extremely hard and should be kited. Be prepared |N|[Group] (36.3, 31.5)| |P|GROUP| |Z|Dustwallow Marsh|
+A Challenge Overlord Mok'Morokk |QID|1173| |N|[Group] Mok'Morokk - (36.3, 31.5)| |P|GROUP| |Z|Dustwallow Marsh|
+N He hits extremely hard and should be kited |N|[Group] (36.3, 31.5)| |P|GROUP| |Z|Dustwallow Marsh|
+N He can be feared |N|[Group] (36.3, 31.5)| |C|Warlock/Priest/Warrior| |P|GROUP| |Z|Dustwallow Marsh|
+C Challenge Overlord Mok'Morokk |QID|1173| |OIDX|1| |N|[Group] Defeat Overlord Mok'Morokk by reducing his health to about 30% (36.3, 31.5)| |P|GROUP| |Z|Dustwallow Marsh|
+T Challenge Overlord Mok'Morokk |QID|1173| |N|[Group] Draz'Zilb - (37.1, 33.0)| |P|GROUP| |Z|Dustwallow Marsh|
+N Cast [Teleport: Thunder Bluff] |N|(ULDA Dungeon Quest)| |C|Mage| |D|ULDA| |Z|Dustwallow Marsh|
 F Fly to Thunder Bluff |N|Shardi - (35.6, 31.9) (ULDA Dungeon Quest)| |C|!Mage| |D|ULDA| |Z|Dustwallow Marsh|
 F Fly to Thunder Bluff |N|Bulkrek - (51.6, 25.4) (ULDA Dungeon Quest)| |C|!Mage| |D|ULDA| |Z|Tanaris|
 T Return to Thunder Bluff |QID|2967| |N|Nara - (75.7, 31.6) (ULDA Dungeon Quest)| |D|ULDA| |Z|Thunder Bluff|
@@ -194,6 +195,7 @@ t Train your class spells |N|Turak - (76.5, 27.2) (ULDA Dungeon Quest)| |C|Druid
 F Fly to Orgrimmar |N|Tal - (47.0, 49.8) (ULDA Dungeon Quest)| |C|!Mage| |D|ULDA| |Z|Thunder Bluff|
 F Fly to Orgrimmar |N|Shardi - (35.6, 31.9)| |C|!Mage| |Z|Dustwallow Marsh|
 F Fly to Orgrimmar |N|Bulkrek - (51.6, 25.4)| |O| |C|!Mage| |Z|Tanaris|
+N Cast [Teleport: Orgrimmar] |C|Mage| |Z|Tanaris|
 t Train your class spells |N|Pephredo - (38.4, 85.5)| |C|Mage| |Z|Orgrimmar|
 t Train your class spells |N|Ur'kyo - (35.6, 87.8)| |C|Priest| |Z|Orgrimmar|
 t Train your class spells |N|Kardris - (38.8, 36.4)| |C|Shaman| |Z|Orgrimmar|

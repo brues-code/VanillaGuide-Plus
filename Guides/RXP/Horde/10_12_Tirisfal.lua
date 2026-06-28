@@ -11,12 +11,12 @@ f Get the Undercity flight path |N|(63.2, 48.6)| |C|Rogue/Troll/Rogue| |R|Orc| |
 t Train 1h Swords |N|Archibald in the War Quarter - (57.3, 32.7)| |C|Rogue/Troll/Rogue| |R|Orc| |Z|Undercity|
 N Buy a [Cutlass] from him |N|(61.1, 40.9)| |O| |C|Rogue/Troll/Rogue| |R|Orc| |Z|Undercity|
 B Collect Cutlass (1) |L|851 1| |N|Louis Warren in the Trade Quarter - (61.1, 40.9)| |O| |C|Rogue/Troll/Rogue| |R|Orc| |Z|Undercity|
-N Buy a [Cutlass] from him |N|(61.1, 40.9)| |O| |C|Rogue/Troll/Rogue| |R|Orc| |Z|Undercity|
-N Alternatively, check the Auction House for something better or cheaper |N|(61.1, 40.9)| |O| |C|Rogue/Troll/Rogue| |R|Orc| |Z|Undercity|
-B Collect Cutlass (1) |L|851 1| |N|Louis Warren in the Trade Quarter - (61.1, 40.9)| |O| |C|Rogue/Troll/Rogue| |R|Orc| |Z|Undercity|
-N Buy Six [Discolored Worg Hearts] from the Auction House |N|(64.2, 49.6)| |O| |C|Rogue/Troll/Rogue| |R|Orc| |Z|Undercity|
-N Skip this if you want, it's only a small time saver |N|(64.2, 49.6)| |O| |C|Rogue/Troll/Rogue| |R|Orc| |Z|Undercity|
-B Collect Discolored Worg Heart (x6) |L|3164 6| |N|Auctioneer Rhyker - (64.2, 49.6)| |O| |C|Rogue/Troll/Rogue| |R|Orc| |Z|Undercity|
+N Buy a [Cutlass] from him |N|(61.1, 40.9)| |O| |C|Rogue/Troll/Rogue| |R|Orc| |AH| |Z|Undercity|
+N Alternatively, check the Auction House for something better or cheaper |N|(61.1, 40.9)| |O| |C|Rogue/Troll/Rogue| |R|Orc| |AH| |Z|Undercity|
+B Collect Cutlass (1) |L|851 1| |N|Louis Warren in the Trade Quarter - (61.1, 40.9)| |O| |C|Rogue/Troll/Rogue| |R|Orc| |AH| |Z|Undercity|
+N Buy Six [Discolored Worg Hearts] from the Auction House |N|(64.2, 49.6)| |O| |C|Rogue/Troll/Rogue| |R|Orc| |AH| |Z|Undercity|
+N Skip this if you want, it's only a small time saver |N|(64.2, 49.6)| |O| |C|Rogue/Troll/Rogue| |R|Orc| |AH| |Z|Undercity|
+B Collect Discolored Worg Heart (x6) |L|3164 6| |N|Auctioneer Rhyker - (64.2, 49.6)| |O| |C|Rogue/Troll/Rogue| |R|Orc| |AH| |Z|Undercity|
 R Brill |N|(61.5, 53.2)| |O| |Z|Tirisfal Glades|
 N Gretchen is on the second floor |N|(61.7, 52.3)| |Z|Tirisfal Glades|
 A Deaths in the Family |QID|354| |N|Coleman and Gretchen inside the inn - (61.7, 52.3)| |Z|Tirisfal Glades|
@@ -69,9 +69,9 @@ A Proof of Demise |QID|374| |N|Burgess - (60.9, 52.0)| |O| |Z|Tirisfal Glades|
 R Travel to Undercity |N|(64.2, 39.8)| |O| |C|Warlock/Mage| |Z|Undercity|
 R Take the lift down to the Undercity |N|(65.5, 43.6)| |O| |C|Warlock/Mage| |Z|Undercity|
 f Get the Undercity flight path |N|Michael - (63.2, 48.6)| |C|Warlock/Mage| |Z|Undercity|
-N Buy Six [Discolored Worg Hearts] from the Auction House |N|(64.2, 49.6)| |O| |C|Warlock/Mage| |Z|Undercity|
-N Skip this if you want, it's only a small time saver |N|(64.2, 49.6)| |O| |C|Warlock/Mage| |Z|Undercity|
-B Collect Discolored Worg Heart (x6) |L|3164 6| |N|Auctioneer Rhyker - (64.2, 49.6)| |O| |C|Warlock/Mage| |Z|Undercity|
+N Buy Six [Discolored Worg Hearts] from the Auction House |N|(64.2, 49.6)| |O| |C|Warlock/Mage| |AH| |Z|Undercity|
+N Skip this if you want, it's only a small time saver |N|(64.2, 49.6)| |O| |C|Warlock/Mage| |AH| |Z|Undercity|
+B Collect Discolored Worg Heart (x6) |L|3164 6| |N|Auctioneer Rhyker - (64.2, 49.6)| |O| |C|Warlock/Mage| |AH| |Z|Undercity|
 T Halgar's Summons |QID|1478| |N|Carendin in the Magic Quarter - (85.1, 26.0)| |C|Warlock| |Z|Undercity|
 A Creature of the Void |QID|1473| |N|Carendin in the Magic Quarter - (85.1, 26.0)| |C|Warlock| |Z|Undercity|
 T Anatasia |QID|1881| |N|Anastasia in the Magic Quarter - (85.1, 10.1)| |C|Mage| |Z|Undercity|
@@ -79,9 +79,9 @@ A The Balnir Farmstead |QID|1882| |N|Anastasia in the Magic Quarter - (85.1, 10.
 R Travel to Tirisfal Glades |N|(61.8, 65.1)| |O| |C|Priest| |R|Undead| |Z|Tirisfal Glades|
 R Travel to Undercity |N|(64.2, 39.8)| |O| |C|Priest| |R|Undead| |Z|Undercity|
 R Take the lift down to the Undercity |N|(65.5, 43.6)| |O| |C|Priest| |R|Undead| |Z|Undercity|
-N Buy Six [Discolored Worg Hearts] from the Auction House |N|(64.2, 49.6)| |O| |C|Priest| |R|Undead| |Z|Undercity|
-N Skip this if you want, it's only a small time saver |N|(64.2, 49.6)| |O| |C|Priest| |R|Undead| |Z|Undercity|
-B Collect Discolored Worg Heart (x6) |L|3164 6| |N|Auctioneer Rhyker - (64.2, 49.6)| |O| |C|Priest| |R|Undead| |Z|Undercity|
+N Buy Six [Discolored Worg Hearts] from the Auction House |N|(64.2, 49.6)| |O| |C|Priest| |R|Undead| |AH| |Z|Undercity|
+N Skip this if you want, it's only a small time saver |N|(64.2, 49.6)| |O| |C|Priest| |R|Undead| |AH| |Z|Undercity|
+B Collect Discolored Worg Heart (x6) |L|3164 6| |N|Auctioneer Rhyker - (64.2, 49.6)| |O| |C|Priest| |R|Undead| |AH| |Z|Undercity|
 T Touch of Weakness |QID|5660| |N|Aelthalyste - (49.0, 18.3)| |O| |C|Priest| |R|Undead| |Z|Undercity|
 A Touch of Weakness |QID|5658| |N|Aelthalyste - (49.0, 18.3)| |C|Priest| |R|Undead| |Z|Undercity|
 T Touch of Weakness |QID|5658| |N|Aelthalyste - (49.0, 18.3)| |C|Priest| |R|Undead| |Z|Undercity|
@@ -91,15 +91,15 @@ R Take the lift down to the Undercity |N|(65.5, 43.6)| |O| |C|Rogue| |Z|Undercit
 f Get the Undercity flight path |N|(63.2, 48.6)| |C|Rogue| |Z|Undercity|
 N Buy a [Cutlass] from him |N|(61.1, 40.9)| |O| |C|Rogue/Troll/Rogue| |R|Orc| |Z|Undercity|
 B Collect Cutlass (1) |L|851 1| |N|Louis Warren in the Trade Quarter - (61.1, 40.9)| |O| |C|Rogue/Troll/Rogue| |R|Orc| |Z|Undercity|
-N Buy a [Cutlass] from him |N|(61.1, 40.9)| |O| |C|Rogue/Troll/Rogue| |R|Orc| |Z|Undercity|
-N Alternatively, check the Auction House for something better or cheaper |N|(61.1, 40.9)| |O| |C|Rogue/Troll/Rogue| |R|Orc| |Z|Undercity|
-B Collect Cutlass (1) |L|851 1| |N|Louis Warren in the Trade Quarter - (61.1, 40.9)| |O| |C|Rogue/Troll/Rogue| |R|Orc| |Z|Undercity|
+N Buy a [Cutlass] from him |N|(61.1, 40.9)| |O| |C|Rogue/Troll/Rogue| |R|Orc| |AH| |Z|Undercity|
+N Alternatively, check the Auction House for something better or cheaper |N|(61.1, 40.9)| |O| |C|Rogue/Troll/Rogue| |R|Orc| |AH| |Z|Undercity|
+B Collect Cutlass (1) |L|851 1| |N|Louis Warren in the Trade Quarter - (61.1, 40.9)| |O| |C|Rogue/Troll/Rogue| |R|Orc| |AH| |Z|Undercity|
 T Mennet Carkad |QID|1885| |N|Mennet - (83.5, 69.1)| |C|Rogue| |R|Undead| |Z|Undercity|
 A The Deathstalkers |QID|1886| |N|Mennet - (83.5, 69.1)| |C|Rogue| |R|Undead| |Z|Undercity|
 t Train 1h Swords |N|Archibald in the War Quarter - (57.3, 32.7)| |C|Rogue| |Z|Undercity|
-N Buy Six [Discolored Worg Hearts] from the Auction House |N|(64.2, 49.6)| |O| |C|Rogue| |Z|Undercity|
-N Skip this if you want, it's only a small time saver |N|(64.2, 49.6)| |O| |C|Rogue| |Z|Undercity|
-B Collect Discolored Worg Heart (x6) |L|3164 6| |N|Auctioneer Rhyker - (64.2, 49.6)| |O| |C|Rogue| |Z|Undercity|
+N Buy Six [Discolored Worg Hearts] from the Auction House |N|(64.2, 49.6)| |O| |C|Rogue| |AH| |Z|Undercity|
+N Skip this if you want, it's only a small time saver |N|(64.2, 49.6)| |O| |C|Rogue| |AH| |Z|Undercity|
+B Collect Discolored Worg Heart (x6) |L|3164 6| |N|Auctioneer Rhyker - (64.2, 49.6)| |O| |C|Rogue| |AH| |Z|Undercity|
 R Travel to Tirisfal Glades |N|(51.1, 71.5)| |O| |C|Warlock/Mage/Rogue| |Z|Tirisfal Glades|
 N You don't have to complete this step now |O| |Z|Tirisfal Glades|
 C Proof of Demise |QID|374| |OIDX|1| |N|Collect Scarlet Insignia Rings Scarlet Insignia Ring (10)| |O| |Z|Tirisfal Glades|
@@ -109,6 +109,7 @@ C Creature of the Void |QID|1473| |OIDX|1| |N|Perrine's Chest on the ground for 
 R Travel to Undercity |N|(45.7, 43.6)| |O| |C|Warlock| |Z|Undercity|
 T Creature of the Void |QID|1473| |N|Carendin in the Magic Quarter - (85.1, 26.0)| |C|Warlock| |Z|Undercity|
 A The Binding |QID|1471| |N|Carendin in the Magic Quarter - (85.1, 26.0)| |C|Warlock| |Z|Undercity|
+N Use the [Runes of Summoning] at the Summoning Circle |N|(86.6, 27.1)| |O| |C|Warlock| |Z|Undercity|
 C The Binding |QID|1471| |OIDX|1| |N|the Summoned Voidwalker Kill Summoned Voidwalker (1)| |C|Warlock| |Z|Undercity|
 T The Binding |QID|1471| |N|Carendin - (85.0, 26.0)| |C|Warlock| |Z|Undercity|
 R Travel to Tirisfal Glades |N|(61.9, 64.8)| |O| |C|Warlock| |Z|Tirisfal Glades|
@@ -232,9 +233,9 @@ R Travel to Undercity |N|(64.2, 39.8)| |O| |C|!Rogue/!Mage| |Z|Undercity|
 R Take the lift down to the Undercity |N|(65.5, 43.6)| |O| |C|!Rogue/!Mage| |Z|Undercity|
 N Buy a [Cutlass] from him |N|(61.1, 40.9)| |O| |C|Rogue/Troll/Rogue| |R|Orc| |Z|Undercity|
 B Collect Cutlass (1) |L|851 1| |N|Louis Warren in the Trade Quarter - (61.1, 40.9)| |O| |C|Rogue/Troll/Rogue| |R|Orc| |Z|Undercity|
-N Buy a [Cutlass] from him |N|(61.1, 40.9)| |O| |C|Rogue/Troll/Rogue| |R|Orc| |Z|Undercity|
-N Alternatively, check the Auction House for something better or cheaper |N|(61.1, 40.9)| |O| |C|Rogue/Troll/Rogue| |R|Orc| |Z|Undercity|
-B Collect Cutlass (1) |L|851 1| |N|Louis Warren in the Trade Quarter - (61.1, 40.9)| |O| |C|Rogue/Troll/Rogue| |R|Orc| |Z|Undercity|
+N Buy a [Cutlass] from him |N|(61.1, 40.9)| |O| |C|Rogue/Troll/Rogue| |R|Orc| |AH| |Z|Undercity|
+N Alternatively, check the Auction House for something better or cheaper |N|(61.1, 40.9)| |O| |C|Rogue/Troll/Rogue| |R|Orc| |AH| |Z|Undercity|
+B Collect Cutlass (1) |L|851 1| |N|Louis Warren in the Trade Quarter - (61.1, 40.9)| |O| |C|Rogue/Troll/Rogue| |R|Orc| |AH| |Z|Undercity|
 T Mennet Carkad |QID|1885| |N|Mennet - (83.5, 69.1)| |C|Rogue| |R|Undead| |Z|Undercity|
 A The Deathstalkers |QID|1886| |N|Mennet - (83.5, 69.1)| |C|Rogue| |R|Undead| |Z|Undercity|
 t Train 1h Swords |N|Archibald in the War Quarter - (57.3, 32.7)| |C|Rogue| |Z|Undercity|
@@ -243,9 +244,9 @@ R Travel to Tirisfal Glades |N|(61.8, 65.1)| |O| |C|Warrior| |R|Undead| |Z|Tiris
 R Travel to Undercity |N|(64.2, 39.8)| |O| |C|Warrior| |R|Undead| |Z|Undercity|
 R Take the lift down to the Undercity |N|(65.5, 43.6)| |O| |C|Warrior| |R|Undead| |Z|Undercity|
 B Collect Quarter Staff (1) |L|854 1| |N|Benijah. Buy a [Quarter Staff] from him - (58.8, 32.8)| |C|Warrior/Undead/Warrior/Tauren/Shaman/Troll/Shaman/Orc/Shaman| |R|Troll| |Z|Undercity|
-N Buy Six [Discolored Worg Hearts] from the Auction House |N|(64.2, 49.6)| |O| |Z|Undercity|
-N Skip this if you want, it's only a small time saver |N|(64.2, 49.6)| |O| |Z|Undercity|
-B Collect Discolored Worg Heart (x6) |L|3164 6| |N|Auctioneer Rhyker - (64.2, 49.6)| |O| |Z|Undercity|
+N Buy Six [Discolored Worg Hearts] from the Auction House |N|(64.2, 49.6)| |O| |AH| |Z|Undercity|
+N Skip this if you want, it's only a small time saver |N|(64.2, 49.6)| |O| |AH| |Z|Undercity|
+B Collect Discolored Worg Heart (x6) |L|3164 6| |N|Auctioneer Rhyker - (64.2, 49.6)| |O| |AH| |Z|Undercity|
 t Train [Enchanting] |N|Lavinia - (62.5, 61.8)| |C|Priest| |Z|Undercity|
 t Train [Tailoring] |N|Josef - (70.8, 30.7)| |C|Priest| |Z|Undercity|
 C Bolt of Linen Cloth (30) |QID|435| |L|2996 30| |N|Turn all your [Linen Cloth] into [Bolt of linen Linen Cloth] (70.8, 30.7)| |C|Priest| |Z|Undercity|

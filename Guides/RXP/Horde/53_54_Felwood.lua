@@ -86,10 +86,11 @@ N Select the option: "I need a Cenarion beacon." |N|(46.6, 83.0)| |Z|Felwood|
 C Maybess again to receive a [Cenarion Beacon] |L|11511 1| |N|Maybess again to receive a [Cenarion Beacon] - (46.6, 83.0)| |Z|Felwood|
 H Orgrimmar |N|Hearth to Orgrimmar| |Z|Felwood|
 t Train Teleport: Orgrimmar |C|Mage| |Z|Felwood|
+t Train Teleport: Orgrimmar |N|Cast [Teleport: Orgrimmar]| |C|Mage| |Z|Felwood|
 B Sell your junk, then restock on food and water if necessary |N|Barkeep Morag - (54.6, 67.7)| |C|!Rogue/!Warrior| |Z|Orgrimmar|
 B Sell your junk, then restock on food if necessary |N|Barkeep Morag - (54.6, 67.7)| |C|Rogue/Warrior| |Z|Orgrimmar|
-N Buy one [Mithril Casing] from the Auction House |N|(55.6, 62.9)| |Z|Orgrimmar|
-B Thathung |L|10561 1| |N|Thathung - (55.6, 62.9)| |Z|Orgrimmar|
+N Buy one [Mithril Casing] from the Auction House |N|(55.6, 62.9)| |AH| |Z|Orgrimmar|
+B Thathung |L|10561 1| |N|Thathung - (55.6, 62.9)| |AH| |Z|Orgrimmar|
 N He is located at the top of the building |N|(55.5, 34.1)| |Z|Orgrimmar|
 T Delivery to Jes'rimon |QID|3541| |N|Jes'rimon - (55.5, 34.1)| |Z|Orgrimmar|
 A Jes'rimon's Payment to Jediga |QID|3563| |N|Jes'rimon - (55.5, 34.1)| |Z|Orgrimmar|

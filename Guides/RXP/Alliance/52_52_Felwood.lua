@@ -4,6 +4,7 @@ return [[
 
 N 52-52 Felwood |N|Converted from RestedXP guide|
 
+N Cast Teleport: Moonglade |O| |C|Druid|
 N Loganaar |N|(52.5, 40.6)| |C|Druid|
 R Travel to Moonglade |N|(52.5, 40.6)| |C|Druid| |Z|Moonglade|
 t Train your class spells |N|Teleport to Moonglade - (52.5, 40.6)| |C|Druid| |Z|Moonglade|

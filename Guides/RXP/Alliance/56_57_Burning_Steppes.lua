@@ -28,25 +28,25 @@ T A Little Slime Goes a Long Way |QID|4512| |N|Laris Geardawdle - (75.8, 23.4)| 
 A A Little Slime Goes a Long Way |QID|4513| |N|Laris Geardawdle - (75.8, 23.4)| |C|Mage| |Z|Ironforge|
 A A Little Slime Goes a Long Way |QID|4513| |N|Laris Geardawdle - (75.8, 23.4) (BRD Dungeon Quest)| |D|BRD| |Z|Ironforge|
 T A Little Slime Goes a Long Way |QID|4513| |N|Laris Geardawdle - (75.8, 23.4)| |O| |Z|Ironforge|
-N Curator Thorius patrols through the Hall of Explorers |N|(71.8, 16.1)| |Z|Ironforge|
-N Only accept this quest if you're able to find party members to complete elite quests in Searing Gorge shortly |N|(71.8, 16.1)| |Z|Ironforge|
-A Dwarven Justice |QID|3371| |N|Curator Thorius - (71.8, 16.1)| |Z|Ironforge|
+N Curator Thorius patrols through the Hall of Explorers |N|[Group] (71.8, 16.1)| |P|GROUP| |Z|Ironforge|
+N Only accept this quest if you're able to find party members to complete elite quests in Searing Gorge shortly |N|[Group] (71.8, 16.1)| |P|GROUP| |Z|Ironforge|
+A Dwarven Justice |QID|3371| |N|[Group] Curator Thorius - (71.8, 16.1)| |P|GROUP| |Z|Ironforge|
 N Regnus Thundergranite |N|(69.9, 82.9)| |C|Hunter| |Z|Ironforge|
 N Bilban Tosslespanner |N|(69.9, 82.9)| |C|Warrior| |Z|Ironforge|
 t Train your class spells |N|(65.9, 88.4)| |C|Warrior/Hunter| |Z|Ironforge|
-N Try to find group members while flying to complete Release Them and Prayer to Elune. You will accept them both shortly |N|(55.5, 47.7)| |Z|Ironforge|
-F Fly to Searing Gorge |N|Gryth Thurden - (55.5, 47.7)| |Z|Ironforge|
-R Travel to Searing Gorge |N|(35.2, 42.6)| |Z|Searing Gorge|
-N Try to find group members while flying to complete Release Them and Prayer to Elune. You will accept them both shortly |N|(35.2, 42.6)| |Z|Searing Gorge|
-T Dwarven Justice |QID|3371| |N|the Dying Archaeologist - (41.2, 25.5)| |Z|Searing Gorge|
-A Release Them |QID|3372| |N|the Dying Archaeologist - (41.2, 25.5)| |Z|Searing Gorge|
-A Prayer to Elune |QID|3377| |N|Zamael Lunthistle - (29.5, 26.3)| |Z|Searing Gorge|
-T Prayer to Elune |QID|3377| |N|Zamael Lunthistle - (29.5, 26.3)| |Z|Searing Gorge|
-A Prayer to Elune |QID|3378| |N|Zamael Lunthistle - (29.5, 26.3)| |Z|Searing Gorge|
-T Release Them |QID|3372| |N|the Altar of Suntara - (41.3, 25.4)| |Z|Searing Gorge|
-A Rise, Obsidion! |QID|3566| |N|Dying Archaeologist - (41.2, 25.5)| |Z|Searing Gorge|
-C Rise, Obsidion! |QID|3566| |OIDX|1| |N|Kill +Obsidion| |Z|Searing Gorge|
-F Fly to Burning Steppes |N|Lanie Reed - (37.9, 30.9)| |Z|Searing Gorge|
+N Try to find group members while flying to complete Release Them and Prayer to Elune. You will accept them both shortly |N|[Group] (55.5, 47.7)| |P|GROUP| |Z|Ironforge|
+F Fly to Searing Gorge |N|[Group] Gryth Thurden - (55.5, 47.7)| |P|GROUP| |Z|Ironforge|
+R Travel to Searing Gorge |N|[Group] (35.2, 42.6)| |P|GROUP| |Z|Searing Gorge|
+N Try to find group members while flying to complete Release Them and Prayer to Elune. You will accept them both shortly |N|[Group] (35.2, 42.6)| |P|GROUP| |Z|Searing Gorge|
+T Dwarven Justice |QID|3371| |N|[Group] the Dying Archaeologist - (41.2, 25.5)| |P|GROUP| |Z|Searing Gorge|
+A Release Them |QID|3372| |N|[Group] the Dying Archaeologist - (41.2, 25.5)| |P|GROUP| |Z|Searing Gorge|
+A Prayer to Elune |QID|3377| |N|[Group] Zamael Lunthistle - (29.5, 26.3)| |P|GROUP| |Z|Searing Gorge|
+T Prayer to Elune |QID|3377| |N|[Group] Zamael Lunthistle - (29.5, 26.3)| |P|GROUP| |Z|Searing Gorge|
+A Prayer to Elune |QID|3378| |N|[Group] Zamael Lunthistle - (29.5, 26.3)| |P|GROUP| |Z|Searing Gorge|
+T Release Them |QID|3372| |N|[Group] the Altar of Suntara - (41.3, 25.4)| |P|GROUP| |Z|Searing Gorge|
+A Rise, Obsidion! |QID|3566| |N|[Group] Dying Archaeologist - (41.2, 25.5)| |P|GROUP| |Z|Searing Gorge|
+C Rise, Obsidion! |QID|3566| |OIDX|1| |N|[Group] Kill +Obsidion| |P|GROUP| |Z|Searing Gorge|
+F Fly to Burning Steppes |N|[Group] Lanie Reed - (37.9, 30.9)| |P|GROUP| |Z|Searing Gorge|
 F Fly to Burning Steppes |N|Gryth Thurden - (55.5, 47.7)| |Z|Ironforge|
 F Fly to Redridge |N|Gryth Thurden - (55.5, 47.7)| |Z|Ironforge|
 R Travel to Burning Steppes |N|(77.5, 68.0)| |O| |Z|Burning Steppes|
@@ -177,6 +177,7 @@ N It is strongly advised you choose the [Diamond Flask] as your reward. Although
 T Voodoo Feathers |QID|8425| |N|the Fallen Hero of the Horde - (34.3, 66.1) (ST Dungeon Quest)| |C|Warrior| |D|ST| |Z|Swamp of Sorrows|
 F Fly to Stormwind |N|Alexandra Constantine - (65.5, 24.3) (ST Dungeon Quest)| |D|ST| |Z|Blasted Lands|
 T Into The Temple of Atal'Hakkar |QID|1475| |N|Brohann Caskbelly - (64.3, 20.6) (ST Dungeon Quest)| |D|ST| |Z|Stormwind City|
+N Cast Teleport: Moonglade |O| |C|Druid| |Z|Stormwind City|
 N Loganaar |N|(52.5, 40.6)| |C|Druid| |Z|Stormwind City|
 R Travel to Moonglade |N|(52.5, 40.6)| |C|Druid| |Z|Moonglade|
 t Train your class spells |N|Teleport to Moonglade - (52.5, 40.6)| |C|Druid| |Z|Moonglade|
@@ -195,11 +196,11 @@ N [Tinkee's Letter] |N|(35.9, 60.2)| |Z|Ironforge|
 N If you have none, [Light Feathers] will also work for [Levitate] |C|Priest| |Z|Ironforge|
 N If you have none, [Light Feathers] will also work for [Slow Fall] |C|Mage| |Z|Ironforge|
 C Take out any [Noggenfogger Elixirs] from your bank if you have any. These will come in handy in EPL shortly for a large mountain skip time save |L|8529 40| |N|Take out any [Noggenfogger Elixirs] from your bank if you have any. These will come in handy in EPL shortly for a large mountain skip time save| |C|Priest/Mage| |Z|Ironforge|
-N Buy the following items from the Auction House. You will need these later for a free quest turn in in EPL |N|(23.8, 71.8)| |Z|Ironforge|
-B an Ironforge Auctioneer |L|12359 2| |N|an Ironforge Auctioneer - (23.8, 71.8)| |Z|Ironforge|
-N Buy the following items from the Auction House. You will need these later for multiple free quest turn ins in EPL |N|(23.8, 71.8)| |Z|Ironforge|
-N There are 5 different quests and each require 30. If you can't get 30 of one type then skip it |N|(23.8, 71.8)| |Z|Ironforge|
-B an Ironforge Auctioneer |L|22529 30| |N|an Ironforge Auctioneer - (23.8, 71.8)| |Z|Ironforge|
+N Buy the following items from the Auction House. You will need these later for a free quest turn in in EPL |N|(23.8, 71.8)| |AH| |Z|Ironforge|
+B an Ironforge Auctioneer |L|12359 2| |N|an Ironforge Auctioneer - (23.8, 71.8)| |AH| |Z|Ironforge|
+N Buy the following items from the Auction House. You will need these later for multiple free quest turn ins in EPL |N|(23.8, 71.8)| |AH| |Z|Ironforge|
+N There are 5 different quests and each require 30. If you can't get 30 of one type then skip it |N|(23.8, 71.8)| |AH| |Z|Ironforge|
+B an Ironforge Auctioneer |L|22529 30| |N|an Ironforge Auctioneer - (23.8, 71.8)| |AH| |Z|Ironforge|
 N Toldren Deepiron |N|(25.2, 10.8)| |C|Priest| |Z|Ironforge|
 N Brandur Ironhammer |N|(25.2, 10.8)| |C|Paladin| |Z|Ironforge|
 t Train your class spells |N|(23.1, 6.1)| |C|Priest/Paladin| |Z|Ironforge|
@@ -210,8 +211,8 @@ B Buy [Grimoires] for your pets |N|Jubahl Corpseseeker - (52.7, 6.1)| |C|Warlock
 N Regnus Thundergranite |N|(69.9, 82.9)| |C|Hunter| |Z|Ironforge|
 N Bilban Tosslespanner |N|(69.9, 82.9)| |C|Warrior| |Z|Ironforge|
 t Train your class spells |N|(65.9, 88.4)| |C|Warrior/Hunter| |Z|Ironforge|
-N Curator Thorius patrols through the Hall of Explorers |N|(71.8, 16.1)| |Z|Ironforge|
-T Rise Obsidion! |QID|3566| |N|Curator Thorius - (71.8, 16.1)| |Z|Ironforge|
+N Curator Thorius patrols through the Hall of Explorers |N|[Group] (71.8, 16.1)| |P|GROUP| |Z|Ironforge|
+T Rise Obsidion! |QID|3566| |N|[Group] Curator Thorius - (71.8, 16.1)| |P|GROUP| |Z|Ironforge|
 T The Smoldering Ruins of Thaurissan |QID|3701| |N|Royal Historian Archesonus - (38.4, 55.3)| |Z|Ironforge|
 
 ]]

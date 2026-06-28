@@ -196,6 +196,7 @@ N Be careful as the Foulweald Ursas can [Thrash] hitting you 3 times at once |N|
 N You will kill the rest after finishing the Elemental Bracers quest |N|(50.1, 59.9)| |O| |Z|Ashenvale|
 C An Aggressive Defense |QID|1025| |OIDX|4| |N|Kill a few Foulweald Warriors and Foulweald Totemics before heading south toward the Water Elementals ,5| |O| |Z|Ashenvale|
 A Elemental Bracers |QID|1016| |N|Sentinel Velene Starstrike - (49.8, 67.2)| |Z|Ashenvale|
+N Use your [Elixir of Water Breathing] |O| |Z|Ashenvale|
 N The Befouled Water Elementals cast [Frost Nova]. Pay attention to your breath timer if you dive underwater to kill them |N|(48.9, 70.0)| |Z|Ashenvale|
 C Befouled Water Elementals. Loot them for their Bracers |QID|1016| |L|12220 5| |N|Befouled Water Elementals. Loot them for their Bracers - (48.9, 70.0)| |Z|Ashenvale|
 C Elemental Bracers |QID|1016| |OIDX|1| |N|Use the [Divining Scroll] to create the [Divined Scroll]| |Z|Ashenvale|

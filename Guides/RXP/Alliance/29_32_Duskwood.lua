@@ -50,13 +50,13 @@ N Newton Burnside |N|(57.0, 72.9)| |Z|Stormwind City|
 N [Musquash Root] |N|(57.0, 72.9)| |Z|Stormwind City|
 N [Crate of Crash Helmets] |N|(57.0, 72.9)| |Z|Stormwind City|
 N [Turtle Meat] |N|(57.0, 72.9)| |Z|Stormwind City|
-N Buy the following items for faster turn ins at Duskwood shortly |N|(53.6, 59.8)| |Z|Stormwind City|
-N [Bronze Tube] |N|(53.6, 59.8)| |Z|Stormwind City|
-B Auctioneer Jaxon |L|4371 1| |N|Auctioneer Jaxon - (53.6, 59.8)| |Z|Stormwind City|
-N Buy 7 [Jungle Remedy] from the Auction House for a quest later in Stranglethorn Vale |N|(53.6, 59.8)| |Z|Stormwind City|
-N This is optional, you may also farm them from the mobs later |N|(53.6, 59.8)| |Z|Stormwind City|
-N You may want to buy extra for yourself to use as it cures diseases and removes poisons |N|(53.6, 59.8)| |C|!Paladin| |Z|Stormwind City|
-B Auctioneer Jaxon |L|2633 7| |N|Auctioneer Jaxon - (53.6, 59.8)| |Z|Stormwind City|
+N Buy the following items for faster turn ins at Duskwood shortly |N|(53.6, 59.8)| |AH| |Z|Stormwind City|
+N [Bronze Tube] |N|(53.6, 59.8)| |AH| |Z|Stormwind City|
+B Auctioneer Jaxon |L|4371 1| |N|Auctioneer Jaxon - (53.6, 59.8)| |AH| |Z|Stormwind City|
+N Buy 7 [Jungle Remedy] from the Auction House for a quest later in Stranglethorn Vale |N|(53.6, 59.8)| |AH| |Z|Stormwind City|
+N This is optional, you may also farm them from the mobs later |N|(53.6, 59.8)| |AH| |Z|Stormwind City|
+N You may want to buy extra for yourself to use as it cures diseases and removes poisons |N|(53.6, 59.8)| |C|!Paladin| |AH| |Z|Stormwind City|
+B Auctioneer Jaxon |L|2633 7| |N|Auctioneer Jaxon - (53.6, 59.8)| |AH| |Z|Stormwind City|
 F Fly to Duskwood |N|Dungar Longdrink - (66.3, 62.1)| |Z|Stormwind City|
 A Look To The Stars |QID|175| |N|Viktori Prism'Antras - (79.8, 48.0)| |Z|Duskwood|
 N Blind Mary |N|(81.5, 59.0)| |Z|Duskwood|
@@ -111,6 +111,7 @@ A Note to the Mayor |QID|160| |N|Abercrombie - (28.1, 31.5)| |Z|Duskwood|
 A The Weathered Grave |QID|225| |N|Click A Weathered Grave - (17.7, 29.1)| |Z|Duskwood|
 T Armed and Ready |QID|325| |N|Sven Yorgen - (7.8, 34.1)| |Z|Duskwood|
 A Morbent Fel |QID|55| |N|Sven Yorgen - (7.8, 34.1)| |Z|Duskwood|
+N Cast Teleport: Moonglade |O| |C|Druid| |Z|Duskwood|
 N Loganaar |N|(52.5, 40.6)| |C|Druid| |Z|Duskwood|
 R Travel to Moonglade |N|(52.5, 40.6)| |C|Druid| |Z|Moonglade|
 t Train your class spells |N|Teleport to Moonglade - (52.5, 40.6)| |C|Druid| |Z|Moonglade|
@@ -168,6 +169,7 @@ N You can avoid dealing with Eliza's Guards by using the Wagon to jump on top of
 N You can evade Eliza's Guards by using the Wagon to jump on top of Abercrombie's Hut. Eliza will continue to cast [Frostbolt] at you if you do this while she's alive |N|(28.9, 30.8)| |C|Warrior/Rogue/Druid/Paladin| |Z|Duskwood|
 C Bride of the Embalmer |QID|253| |OIDX|1| |N|Eliza's Grave Dirt to summon Eliza (28.9, 30.8)| |Z|Duskwood|
 N Clear your way to the 2nd floor of the house |O| |Z|Duskwood|
+N Equip [Morbent's Bane] in your off-hand |O| |Z|Duskwood|
 N Use [Morbent's Bane] on Morbent Fel to weaken him |O| |Z|Duskwood|
 N Remember to equip your weapon/off-hand slot after weakening him |O| |Z|Duskwood|
 T Morbent Fel |QID|55| |N|Sven Yorgen - (7.8, 34.1)| |Z|Duskwood|
@@ -187,6 +189,7 @@ T Tiger Mastery |QID|185| |N|Ajeck Rouack and Sir S. J. Erlgadin - (35.6, 10.6)|
 T Panther Mastery |QID|190| |N|Ajeck Rouack and Sir S. J. Erlgadin - (35.6, 10.6)| |Z|Stranglethorn Vale|
 N Don't accept the follow up yet |N|(38.0, 3.0)| |Z|Stranglethorn Vale|
 T Jungle Secrets |QID|215| |N|Lieutenant Doren - (38.0, 3.0)| |Z|Stranglethorn Vale|
+N Cast Teleport: Moonglade |O| |C|Druid| |Z|Stranglethorn Vale|
 N Loganaar |N|(52.5, 40.6)| |C|Druid| |Z|Stranglethorn Vale|
 R Travel to Moonglade |N|(52.5, 40.6)| |C|Druid| |Z|Moonglade|
 t Train your class spells |N|Teleport to Moonglade - (52.5, 40.6)| |C|Druid| |Z|Moonglade|

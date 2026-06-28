@@ -86,11 +86,14 @@ local function OnClick()
             f:SetChecked(false)
         else
             local isRXP = string.find(text, "^RXP/")
+            local isRXPHC = string.find(text, "^RXP_Hardcore/")
             local currentPack = TurtleGuide.db.char.routepack
 
             -- If manually picking an RXP guide, ensure an RXP-based route pack is active
             -- so that auto-navigation continues with compatible guides
-            if isRXP and currentPack ~= "RestedXP" and currentPack ~= "Kamisayo Speedrun" then
+            if isRXPHC and currentPack ~= "RXP Hardcore" then
+                TurtleGuide:SelectRoutePack("RXP Hardcore")
+            elseif isRXP and currentPack ~= "RestedXP" and currentPack ~= "Kamisayo Speedrun" then
                 TurtleGuide:SelectRoutePack("RestedXP")
             end
 
@@ -169,8 +172,20 @@ rxpCheck:SetScript("OnClick", function()
     TurtleGuide:UpdateGuideListPanel()
 end)
 
+-- RXP Hardcore checkbox
+rxphcCheck = ww.SummonCheckBox(18, frame, "TOPLEFT", 410, -6)
+local rxphcLabel = ww.SummonFontString(rxphcCheck, "OVERLAY", "GameFontNormalSmall", "RXP Hardcore", "LEFT",
+    rxphcCheck, "RIGHT", 2, 0)
+rxphcCheck:SetScript("OnClick", function()
+    if TurtleGuide.db.char.filterRXPHC == nil then TurtleGuide.db.char.filterRXPHC = true end
+    TurtleGuide.db.char.filterRXPHC = not TurtleGuide.db.char.filterRXPHC
+    rxphcCheck:SetChecked(TurtleGuide.db.char.filterRXPHC)
+    offset = 0
+    TurtleGuide:UpdateGuideListPanel()
+end)
+
 -- Zone checkbox
-zoneCheck = ww.SummonCheckBox(18, frame, "TOPLEFT", 410, -6)
+zoneCheck = ww.SummonCheckBox(18, frame, "TOPLEFT", 510, -6)
 local zoneLabel = ww.SummonFontString(zoneCheck, "OVERLAY", "GameFontNormalSmall", "Zone", "LEFT",
     zoneCheck, "RIGHT", 2, 0)
 zoneCheck:SetScript("OnClick", function()
@@ -317,6 +332,7 @@ function TurtleGuide:UpdateGuideListPanel()
     if self.db.char.filterTurtle == nil then self.db.char.filterTurtle = true end
     if self.db.char.filterOptimized == nil then self.db.char.filterOptimized = true end
     if self.db.char.filterRXP == nil then self.db.char.filterRXP = true end
+    if self.db.char.filterRXPHC == nil then self.db.char.filterRXPHC = true end
     if self.db.char.filterZone == nil then self.db.char.filterZone = true end
 
     -- Update filter checkboxes state
@@ -324,6 +340,7 @@ function TurtleGuide:UpdateGuideListPanel()
     if turtleCheck then turtleCheck:SetChecked(self.db.char.filterTurtle) end
     if optimizedCheck then optimizedCheck:SetChecked(self.db.char.filterOptimized) end
     if rxpCheck then rxpCheck:SetChecked(self.db.char.filterRXP) end
+    if rxphcCheck then rxphcCheck:SetChecked(self.db.char.filterRXPHC) end
     if zoneCheck then zoneCheck:SetChecked(self.db.char.filterZone) end
 
     -- Build categorized display list (fresh table each time)
@@ -331,6 +348,7 @@ function TurtleGuide:UpdateGuideListPanel()
     local turtleGuides = {}
     local optimizedGuides = {}
     local rxpGuides = {}
+    local rxphcGuides = {}
     local zoneGuides = {}
     local seen = {}
 
@@ -365,6 +383,10 @@ function TurtleGuide:UpdateGuideListPanel()
                     if self.db.char.filterRXP then
                         table.insert(rxpGuides, name)
                     end
+                elseif cat == "rxp_hc" then
+                    if self.db.char.filterRXPHC then
+                        table.insert(rxphcGuides, name)
+                    end
                 else
                     if self.db.char.filterZone then
                         table.insert(zoneGuides, name)
@@ -377,6 +399,7 @@ function TurtleGuide:UpdateGuideListPanel()
     table.sort(turtleGuides, SortGuidesByLevel)
     table.sort(optimizedGuides, SortGuidesByLevel)
     table.sort(rxpGuides, SortGuidesByLevel)
+    table.sort(rxphcGuides, SortGuidesByLevel)
     table.sort(zoneGuides, SortGuidesByLevel)
 
     if table.getn(turtleGuides) > 0 then
@@ -396,6 +419,13 @@ function TurtleGuide:UpdateGuideListPanel()
     if table.getn(rxpGuides) > 0 then
         table.insert(displayList, { header = true, text = "--- RXP Guides ---" })
         for _, name in ipairs(rxpGuides) do
+            table.insert(displayList, { guide = name })
+        end
+    end
+
+    if table.getn(rxphcGuides) > 0 then
+        table.insert(displayList, { header = true, text = "--- RXP Hardcore Guides ---" })
+        for _, name in ipairs(rxphcGuides) do
             table.insert(displayList, { guide = name })
         end
     end

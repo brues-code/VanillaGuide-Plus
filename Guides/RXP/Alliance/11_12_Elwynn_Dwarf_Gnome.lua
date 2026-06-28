@@ -100,6 +100,7 @@ t Train your class spells |N|Ursula Deline - (26.1, 77.2)| |C|Warlock| |Z|Stormw
 T Surena Caledon |QID|1688| |N|Gakin the Darkbinder - (25.2, 78.6)| |C|Warlock| |Z|Stormwind City|
 A The Binding |QID|1689| |N|Gakin the Darkbinder - (25.2, 78.6)| |C|Warlock| |Z|Stormwind City|
 R the bottom of The Slaughtered Lamb |N|(25.2, 77.4)| |O| |C|Warlock| |Z|Stormwind City|
+N Use the [Bloodstone Choker] to call forth a Summoned Voidwalker |N|(25.2, 77.4)| |O| |C|Warlock| |Z|Stormwind City|
 C The Binding |QID|1689| |OIDX|1| |N|Kill the Summoned Voidwalker Kill Summoned Voidwalker (x1)| |C|Warlock| |Z|Stormwind City|
 T The Binding |QID|1689| |N|Gakin the Darkbinder - (25.2, 78.6)| |C|Warlock| |Z|Stormwind City|
 N Die and respawn at the Spirit Healer by using [Life Tap] and standing on the Bonfire next to you |C|Warlock| |Z|Stormwind City|

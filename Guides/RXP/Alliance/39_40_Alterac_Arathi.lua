@@ -39,11 +39,11 @@ C Thundering Exiles. Loot them for their Thundering Charms |QID|1712| |L|4480 8|
 C Stones of Binding |QID|651| |OIDX|3| |N|the Stone of Outer Binding. Loot it for the Thundering Key (52.0, 50.7)| |Z|Arathi Highlands|
 C Thundering Exiles. Loot them for their Thundering Charms |QID|1712| |L|4480 8| |N|Thundering Exiles. Loot them for their Thundering Charms - (52.1, 51.1)| |C|Warrior| |Z|Arathi Highlands|
 T Worth Its Weight in Gold |QID|691| |N|Apprentice Kryten - (46.2, 47.8)| |Z|Arathi Highlands|
-A Wand over Fist |QID|693| |N|Skuerto - (46.7, 47.0)| |Z|Arathi Highlands|
-R Enter the Bolderfist Hall Cave |N|(54.2, 77.8)| |O| |Z|Arathi Highlands|
-C Wand over Fist |QID|693| |OIDX|1| |N|Kor'gresh Coldrage. Loot him for Trelane's Wand (54.8, 81.9)| |Z|Arathi Highlands|
-N Do not accept the follow up yet |N|(46.7, 47.0)| |Z|Arathi Highlands|
-T Wand over Fist |QID|693| |N|Skuerto - (46.7, 47.0)| |Z|Arathi Highlands|
+A Wand over Fist |QID|693| |N|[Group] Skuerto - (46.7, 47.0)| |P|GROUP| |Z|Arathi Highlands|
+R Enter the Bolderfist Hall Cave |N|[Group] (54.2, 77.8)| |O| |P|GROUP| |Z|Arathi Highlands|
+C Wand over Fist |QID|693| |OIDX|1| |N|[Group] Kor'gresh Coldrage. Loot him for Trelane's Wand (54.8, 81.9)| |P|GROUP| |Z|Arathi Highlands|
+N Do not accept the follow up yet |N|[Group] (46.7, 47.0)| |P|GROUP| |Z|Arathi Highlands|
+T Wand over Fist |QID|693| |N|[Group] Skuerto - (46.7, 47.0)| |P|GROUP| |Z|Arathi Highlands|
 F Fly to Southshore |N|Cedrik Prose - (45.7, 46.1)| |Z|Arathi Highlands|
 T Southshore |QID|538| |N|Loremaster Dibbs - (50.6, 57.1)| |Z|Hillsbrad Foothills|
 T Hints of a New Plague? |QID|661| |N|Phin Odelic - (50.3, 59.0)| |Z|Hillsbrad Foothills|
@@ -145,9 +145,9 @@ N He will cast [Trelane's Freezing Touch] which has a 3 second cast time that si
 C Wand over Fist |QID|693| |OIDX|1| |N|Kor'gresh Coldrage. Loot him for Trelane's Wand (54.8, 81.9)| |Z|Arathi Highlands|
 T Wand over Fist |QID|693| |N|Skuerto - (46.7, 47.0)| |Z|Arathi Highlands|
 A Trelane's Defenses |QID|694| |N|Skuerto - (46.7, 47.0)| |Z|Arathi Highlands|
-A Wanted! Marez Cowl |QID|684| |N|the Wanted Board - (46.0, 47.8)| |C|Hunter/Druid/Rogue| |Z|Arathi Highlands|
-A Wanted! Marez Cowl |QID|684| |N|the Wanted Board - (46.0, 47.8)| |Z|Arathi Highlands|
-A Wanted! Otto and Falconcrest |QID|685| |N|the Wanted Board - (46.0, 47.8)| |Z|Arathi Highlands|
+A Wanted! Marez Cowl |QID|684| |N|the Wanted Board - (46.0, 47.8)| |C|Hunter/Druid/Rogue| |P|SOLO| |Z|Arathi Highlands|
+A Wanted! Marez Cowl |QID|684| |N|[Group] the Wanted Board - (46.0, 47.8)| |P|GROUP| |Z|Arathi Highlands|
+A Wanted! Otto and Falconcrest |QID|685| |N|[Group] the Wanted Board - (46.0, 47.8)| |P|GROUP| |Z|Arathi Highlands|
 C Burning Exiles. Loot them for their Burning Charms |QID|1712| |L|4479 8| |N|Kill Burning Exiles. Loot them for their Burning Charms| |O| |C|Warrior| |Z|Arathi Highlands|
 C Stones of Binding |QID|651| |OIDX|1| |N|the Stone of West Binding. Loot it for the Burning Key (25.5, 30.1)| |Z|Arathi Highlands|
 C Burning Exiles. Loot them for their Burning Charms |QID|1712| |L|4479 8| |N|Burning Exiles. Loot them for their Burning Charms - (66.8, 29.8)| |C|Warrior| |Z|Arathi Highlands|
@@ -179,14 +179,14 @@ N Click here for a reference video about splitpulling |Z|Arathi Highlands|
 N If you are still in a group, hand in this quest while with your party! Thenan, a level 42 Elite will spawn. You can either kill him or run away and reset him if you're solo |N|(36.1, 58.1)| |Z|Arathi Highlands|
 T Breaking the Keystone |QID|652| |N|on the Keystone - (36.1, 58.1)| |Z|Arathi Highlands|
 A Myzrael's Allies |QID|653| |N|on the Keystone - (36.1, 58.1) (!SM Dungeon Quest)| |D|!SM| |Z|Arathi Highlands|
-N Marez Cowl has 2 different spawn locations. One is on the high ground location, and the other is below behind the house. They are marked on your map |N|(29.6, 63.7)| |O| |Z|Arathi Highlands|
-N Cast [Eagle Eye] to try and find which location she is in |N|(29.6, 63.7)| |O| |C|Hunter| |Z|Arathi Highlands|
-C Wanted! Marez Cowl |QID|684| |OIDX|1| |N|Marez Cowl. Loot her for her Head (29.6, 63.7)| |O| |Z|Arathi Highlands|
-C Wanted! Otto and Falconcrest |QID|685| |OIDX|1| |N|Otto and Lord Falconcrest. Loot them for their Heads (26.0, 65.7)| |Z|Arathi Highlands|
-N Marez Cowl has 2 different spawn locations. One is on the high ground location, and the other is below behind the house. They are marked on your map |N|(29.6, 63.0)| |Z|Arathi Highlands|
-N Be careful as there are [Stealthed] level 36-37 elite Syndicate Prowlers in the area surrounding both her spawns |N|(29.6, 63.0)| |Z|Arathi Highlands|
-N Cast [Eagle Eye] to try and find which location she is in |N|(29.6, 63.0)| |C|Hunter| |Z|Arathi Highlands|
-C Wanted! Marez Cowl |QID|684| |OIDX|1| |N|Marez Cowl. Loot her for her Head (29.6, 63.0)| |Z|Arathi Highlands|
+N Marez Cowl has 2 different spawn locations. One is on the high ground location, and the other is below behind the house. They are marked on your map |N|[Group] (29.6, 63.7)| |O| |P|GROUP| |Z|Arathi Highlands|
+N Cast [Eagle Eye] to try and find which location she is in |N|[Group] (29.6, 63.7)| |O| |C|Hunter| |P|GROUP| |Z|Arathi Highlands|
+C Wanted! Marez Cowl |QID|684| |OIDX|1| |N|[Group] Marez Cowl. Loot her for her Head (29.6, 63.7)| |O| |P|GROUP| |Z|Arathi Highlands|
+C Wanted! Otto and Falconcrest |QID|685| |OIDX|1| |N|[Group] Otto and Lord Falconcrest. Loot them for their Heads (26.0, 65.7)| |P|GROUP| |Z|Arathi Highlands|
+N Marez Cowl has 2 different spawn locations. One is on the high ground location, and the other is below behind the house. They are marked on your map |N|[Group] (29.6, 63.0)| |P|GROUP| |Z|Arathi Highlands|
+N Be careful as there are [Stealthed] level 36-37 elite Syndicate Prowlers in the area surrounding both her spawns |N|[Group] (29.6, 63.0)| |P|GROUP| |Z|Arathi Highlands|
+N Cast [Eagle Eye] to try and find which location she is in |N|[Group] (29.6, 63.0)| |C|Hunter| |P|GROUP| |Z|Arathi Highlands|
+C Wanted! Marez Cowl |QID|684| |OIDX|1| |N|[Group] Marez Cowl. Loot her for her Head (29.6, 63.0)| |P|GROUP| |Z|Arathi Highlands|
 R Escape Stromgarde through the hole in the wall in the south of the Ogre area. You can do this by jumping up on either side of the metal railings near the bent lamp post and running over to it |N|(21.2, 70.3)| |O| |Z|Arathi Highlands|
 R Head to Faldir's Cove, follow the path between the mountains and Stromgarde's southeastern wall |N|(22.0, 79.8)| |O| |Z|Arathi Highlands|
 N Click here for video reference |N|(22.0, 79.8)| |O| |Z|Arathi Highlands|
@@ -202,6 +202,7 @@ N Follow Professor Phizzlethorpe back to the camp afterwards |N|(33.9, 80.4)| |Z
 C Sunken Treasure |QID|665| |OIDX|1| |N|Escort Professor Phizzlethorpe into the small Cave (33.9, 80.4)| |Z|Arathi Highlands|
 T Sunken Treasure |QID|665| |N|Doctor Draxlegauge - (33.9, 80.4)| |Z|Arathi Highlands|
 A Sunken Treasure |QID|666| |N|Doctor Draxlegauge - (33.9, 80.4)| |Z|Arathi Highlands|
+N Use your [Elixir of Water Breathing] if you have one |O| |C|!Warlock/!Druid| |Z|Arathi Highlands|
 N PAY CLOSE ATTENTION TO YOUR BREATH BAR IF YOU DO NOT HAVE ONE! |O| |C|!Warlock/!Druid| |Z|Arathi Highlands|
 N Equip your [Goggles of Gem Hunting] so the Elven Gems show up on your minimap |O| |Z|Arathi Highlands|
 N Ensure you have buffed yourself with [Unending Breath] |O| |C|Warlock| |Z|Arathi Highlands|
@@ -241,6 +242,8 @@ T Wanted! Otto and Falconcrest |QID|685| |N|Captain Nials - (45.8, 47.5)| |Z|Ara
 T Trelane's Defenses |QID|694| |N|Apprentice Kryten - (46.2, 47.8)| |Z|Arathi Highlands|
 A An Apprentice's Enchantment |QID|695| |N|Apprentice Kryten - (46.2, 47.8)| |Z|Arathi Highlands|
 T An Apprentice's Enchantment |QID|695| |N|Skuerto - (46.7, 47.0)| |Z|Arathi Highlands|
+G Grind to level 40 |C|Warlock/Paladin| |Z|Arathi Highlands|
+N Cast Teleport: Moonglade |O| |C|Druid| |Z|Arathi Highlands|
 N Loganaar |N|(52.5, 40.6)| |C|Druid| |Z|Arathi Highlands|
 R Travel to Moonglade |N|(52.5, 40.6)| |C|Druid| |Z|Moonglade|
 t Train your class spells |N|Teleport to Moonglade - (52.5, 40.6)| |C|Druid| |Z|Moonglade|

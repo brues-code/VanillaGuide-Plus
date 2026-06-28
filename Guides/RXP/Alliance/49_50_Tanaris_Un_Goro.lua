@@ -45,10 +45,13 @@ C Southsea Pirates, Southsea Freebooters, Southsea Dock Workers and Southsea Swa
 N Do not Accept the quest for this yet |N|(72.2, 46.8)| |Z|Tanaris|
 N If you don't find it by the time you are 49, skip it |N|(72.2, 46.8)| |Z|Tanaris|
 C any type of Southsea Pirate. Loot them for the [OOX-17/TN Distress Beacon] |QID|351| |L|8623 1| |N|Kill any type of Southsea Pirate. Loot them for the [OOX-17/TN Distress Beacon] (72.2, 46.8)| |Z|Tanaris|
+G Grind to level 49 Southsea Swashbuckler |Z|Tanaris|
+N Equip the [Gahz'ridian Detector] |O| |C|!Hunter| |Z|Tanaris|
 N You will complete this later, you don't need to finish it right now |O| |C|!Hunter| |Z|Tanaris|
 C The Dunemaul Compound |QID|5863| |OIDX|1| |N|Kill Dunemaul Brutes and Dunemaul Enforcers| |O| |C|!Hunter| |Z|Tanaris|
 N The Gahz'ridian will show up on your minimap with the [Gahz'ridian Detector] equiped |N|(47.8, 64.8)| |C|!Hunter| |Z|Tanaris|
 C Gahz'ridian |QID|3161| |OIDX|1| |N|the Gahz'ridian on the ground around the Ruins (47.8, 64.8)| |C|!Hunter| |Z|Tanaris|
+N Equip your normal [Helmet] |O| |C|!Hunter| |Z|Tanaris|
 R Enter The Gaping Chasm Hive |N|(54.6, 70.8)| |O| |Z|Tanaris|
 N The Scrimshank's Surveying Gear is inside of the Hive |N|(56.0, 71.2)| |Z|Tanaris|
 C The Scrimshank Redemption |QID|10| |OIDX|1| |N|the Scrimshank's Surveying Gear on the ground (56.0, 71.2)| |Z|Tanaris|
@@ -68,6 +71,7 @@ A Deliver to MacKinley |QID|2874| |N|Security Chief Bilgewhizzle and Stoley - (6
 T Pirate Hats Ahoy! |QID|8365| |N|Haughty Modiste - (66.6, 22.3)| |Z|Tanaris|
 T Screecher Spirits |QID|3520| |N|Yeh'kinya - (67.0, 22.4)| |Z|Tanaris|
 B Buy [Jagged Arrows] before leaving the port |N|Jabbey - (67.0, 22.0)| |C|Hunter| |Z|Tanaris|
+N Cast Teleport: Moonglade |O| |C|Druid| |Z|Tanaris|
 N Loganaar |N|(52.5, 40.6)| |C|Druid| |Z|Tanaris|
 R Travel to Moonglade |N|(52.5, 40.6)| |C|Druid| |Z|Moonglade|
 t Train your class spells |N|Teleport to Moonglade - (52.5, 40.6)| |C|Druid| |Z|Moonglade|

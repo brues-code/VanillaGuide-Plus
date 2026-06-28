@@ -86,7 +86,9 @@ T Troll Witchery |QID|205| |N|Brother Nimetz - (37.8, 3.6)| |Z|Stranglethorn Val
 T Colonel Kurzen |QID|202| |N|Lieutenant Doren - (38.0, 3.0)| |Z|Stranglethorn Vale|
 T Return to Corporal Kaleb |QID|622| |N|Corporal Kaleb - (37.7, 3.3)| |O| |Z|Stranglethorn Vale|
 C Excelsior |QID|628| |OIDX|1| |N|a Elder Saltwater Crocolisk. Loot it for its Elder Crocolisk Skin (21.6, 16.6)| |Z|Stranglethorn Vale|
+N Use your [Elixir of Water Breathing] if you have one |O| |C|!Warlock/!Druid| |Z|Stranglethorn Vale|
 N PAY CLOSE ATTENTION TO YOUR BREATH BAR IF YOU DO NOT HAVE ONE! |O| |C|!Warlock/!Druid| |Z|Stranglethorn Vale|
+N Use [Catelyn's Blade] on the Altar of the Tides underwater to summon Gazban |N|(25.0, 23.6)| |O| |Z|Stranglethorn Vale|
 C The Curse of the Tides |QID|611| |OIDX|1| |N|Gazban. Loot him for the Stone of the Tides (25.0, 23.6)| |Z|Stranglethorn Vale|
 H Booty Bay |N|Hearth to Booty Bay| |O| |Z|Stranglethorn Vale|
 N Buy food/water if needed |O| |C|!Warrior/!Rogue| |Z|Stranglethorn Vale|

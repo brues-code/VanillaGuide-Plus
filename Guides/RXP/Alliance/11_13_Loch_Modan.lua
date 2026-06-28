@@ -81,9 +81,9 @@ N Ardwyn Cailen |N|(42.6, 67.2)| |C|Warlock/Priest| |Z|Loch Modan|
 N Buy a [Smoldering Wand] from her |N|(42.6, 67.2)| |C|Warlock/Priest| |Z|Loch Modan|
 R Travel to Stormwind City |N|(42.9, 65.1)| |C|Warlock/Priest| |Z|Stormwind City|
 B Smoldering Wand (1) |L|5208 1| |N|(42.9, 65.1)| |C|Warlock/Priest| |Z|Stormwind City|
-N Ardwyn Cailen |N|(42.6, 67.2)| |C|Warlock/Priest| |Z|Stormwind City|
-N Buy a [Smoldering Wand] from her or check the Auction House for a [Greater Magic Wand] |N|(42.6, 67.2)| |C|Warlock/Priest| |Z|Stormwind City|
-B Smoldering Wand (1) |L|5208 1| |N|(42.9, 65.1)| |C|Warlock/Priest| |Z|Stormwind City|
+N Ardwyn Cailen |N|(42.6, 67.2)| |C|Warlock/Priest| |AH| |Z|Stormwind City|
+N Buy a [Smoldering Wand] from her or check the Auction House for a [Greater Magic Wand] |N|(42.6, 67.2)| |C|Warlock/Priest| |AH| |Z|Stormwind City|
+B Smoldering Wand (1) |L|5208 1| |N|(42.9, 65.1)| |C|Warlock/Priest| |AH| |Z|Stormwind City|
 R The Slaughtered Lamb and go downstairs |N|(27.2, 78.1)| |O| |C|Warlock| |Z|Stormwind City|
 t Train your class spells |N|Ursula Deline - (26.1, 77.2)| |C|Warlock| |Z|Stormwind City|
 B Buy [Grimoire of Consume Shadows (Rank 1)] and [Grimoire of Sacrifice (Rank 1)] if you can afford them. If not you can buy them later |N|Spackle Thornberry - (25.7, 77.6)| |C|Warlock| |Z|Stormwind City|
@@ -106,9 +106,9 @@ t Train your class spells |N|(78.7, 45.8)| |C|Warrior| |Z|Stormwind City|
 T The Tome of Divinity |QID|1643| |N|Stephanie Turner - (57.1, 61.7)| |C|Paladin| |R|Human| |Z|Stormwind City|
 A The Tome of Divinity |QID|1644| |N|Stephanie Turner - (57.1, 61.7)| |C|Paladin| |R|Human| |Z|Stormwind City|
 T The Tome of Divinity |QID|1644| |N|Stephanie Turner - (57.1, 61.7)| |C|Paladin| |R|Human| |Z|Stormwind City|
-N Buy up to 2 [Scimitars] from her if you can afford it, or you can buy something better/cheaper from the Auction House |N|(57.4, 56.8)| |C|Rogue| |Z|Stormwind City|
-N Equip them both once you're level 14 |N|(57.4, 56.8)| |C|Rogue| |Z|Stormwind City|
-B Scimitar |L|2027 2| |N|Marda Weller - (57.4, 56.8)| |C|Rogue| |Z|Stormwind City|
+N Buy up to 2 [Scimitars] from her if you can afford it, or you can buy something better/cheaper from the Auction House |N|(57.4, 56.8)| |C|Rogue| |AH| |Z|Stormwind City|
+N Equip them both once you're level 14 |N|(57.4, 56.8)| |C|Rogue| |AH| |Z|Stormwind City|
+B Scimitar |L|2027 2| |N|Marda Weller - (57.4, 56.8)| |C|Rogue| |AH| |Z|Stormwind City|
 N Buy up to 2 [Scimitars] from her if you can afford it |N|(57.4, 56.8)| |C|Rogue| |Z|Stormwind City|
 N Equip them both once you're level 14 |N|(57.4, 56.8)| |C|Rogue| |Z|Stormwind City|
 B Scimitar |L|2027 2| |N|Marda Weller - (57.4, 56.8)| |C|Rogue| |Z|Stormwind City|

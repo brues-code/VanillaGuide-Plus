@@ -22,6 +22,7 @@ T A Visit to Gregan |QID|4142| |N|Gregan Brewspewer - (45.1, 25.6)| |C|!Warrior/
 N Buy [Bait] |N|(45.1, 25.6)| |Z|Feralas|
 B Gregan Brewspewer |L|11141 1| |N|Gregan Brewspewer - (45.1, 25.6)| |Z|Feralas|
 A The Giant Guardian |QID|2844| |N|Rockbiter - (42.4, 22.0)| |Z|Feralas|
+N Place the [Bait] on the ground next to Miblon Snarltooth to distract him |N|(44.6, 10.6)| |O| |Z|Feralas|
 C the Evoroot inside the Ruins |QID|3909| |L|11242 1| |N|the Evoroot inside the Ruins - (44.5, 10.2)| |Z|Feralas|
 C the Four Flames for the Essences |QID|2879| |L|9257 1| |N|(40.5, 12.7)| |Z|Feralas|
 N This will start an escort quest |N|(38.2, 10.3)| |Z|Feralas|
@@ -73,11 +74,13 @@ C Use the [Amulet of Spirits] on the Spirit of Maraudos |QID|7067| |L|17764 1| |
 C The Pariah's Instructions |QID|7067| |OIDX|1| |N|(Mara Dungeon Quest)| |D|Mara| |Z|Tirisfal Glades|
 T Legends of Maraudon |QID|7044| |N|(Mara Dungeon Quest)| |D|Mara| |Z|Tirisfal Glades|
 A The Scepter of Celebras |QID|7046| |N|(Mara Dungeon Quest)| |D|Mara| |Z|Tirisfal Glades|
+N Click the Incantation of Celebras on the ground |N|(Mara Dungeon Quest)| |D|Mara| |Z|Tirisfal Glades|
 C The Scepter of Celebras |QID|7046| |OIDX|1| |N|(Mara Dungeon Quest)| |D|Mara| |Z|Tirisfal Glades|
 T The Scepter of Celebras |QID|7046| |N|(Mara Dungeon Quest)| |D|Mara| |Z|Tirisfal Glades|
 C Corruption of Earth and Seed |QID|7065| |OIDX|1| |N|Kill Princess Theradras (Mara Dungeon Quest)| |D|Mara| |Z|Tirisfal Glades|
 A Seed of Life |QID|7066| |N|Zaetar's Spirit (Mara Dungeon Quest)| |D|Mara| |Z|Tirisfal Glades|
 C Twisted Evils |QID|7028| |OIDX|1| |N|This can be completed OUTSIDE and INSIDE of the Instance (Mara Dungeon Quest)| |D|Mara| |Z|Tirisfal Glades|
+N Cast Teleport: Moonglade |N|(Mara Dungeon Quest)| |C|Druid| |D|Mara| |Z|Tirisfal Glades|
 R Travel to Moonglade |N|(52.5, 40.6) (Mara Dungeon Quest)| |C|Druid| |D|Mara| |Z|Moonglade|
 t Train your class spells |N|Loganaar - (52.5, 40.6) (Mara Dungeon Quest)| |C|Druid| |D|Mara| |Z|Moonglade|
 T Seed of Life |QID|7066| |N|the Keeper Remulos - (36.2, 41.8) (Mara Dungeon Quest)| |C|Druid| |D|Mara| |Z|Moonglade|

@@ -27,13 +27,14 @@ C the Half-Buried Bottles on Jaguero Isle. Loot them for a [Carefully Folded Not
 A Message in a Bottle |QID|594| |N|the Half-Buried Bottles on Jaguero Isle. Loot them for a [Carefully Folded Note] - (38.7, 61.8)| |Z|Stranglethorn Vale|
 N Beware of Jaguero Stalkers in [Stealth] throughout the Island |N|(38.5, 80.6)| |Z|Stranglethorn Vale|
 T Message in a Bottle |QID|594| |N|Princess Poobah - (38.5, 80.6)| |Z|Stranglethorn Vale|
-A Message in a Bottle |QID|630| |N|Princess Poobah - (38.5, 80.6)| |Z|Stranglethorn Vale|
+A Message in a Bottle |QID|630| |N|[Group] Princess Poobah - (38.5, 80.6)| |C|!Hunter| |P|GROUP| |Z|Stranglethorn Vale|
+A Message in a Bottle |QID|630| |N|Princess Poobah - (38.5, 80.6)| |C|Hunter| |Z|Stranglethorn Vale|
 N You can kite King Mukla around the large tree |N|(40.9, 83.9)| |C|Hunter| |Z|Stranglethorn Vale|
 C Message in a Bottle |QID|630| |OIDX|1| |N|King Mukla. Loot him for the Shackle Key (40.9, 83.9)| |C|Hunter| |Z|Stranglethorn Vale|
 N Click here for video reference |N|(40.9, 83.9)| |C|Hunter| |Z|Stranglethorn Vale|
-N You can kite King Mukla around the large tree |N|(40.9, 83.9)| |C|!Hunter| |Z|Stranglethorn Vale|
-N Click here for video reference |N|(40.9, 83.9)| |C|!Hunter| |Z|Stranglethorn Vale|
-C Message in a Bottle |QID|630| |OIDX|1| |N|King Mukla. Loot him for the Shackle Key (40.9, 83.9)| |C|!Hunter| |Z|Stranglethorn Vale|
+N You can kite King Mukla around the large tree |N|[Group] (40.9, 83.9)| |C|!Hunter| |P|GROUP| |Z|Stranglethorn Vale|
+N Click here for video reference |N|[Group] (40.9, 83.9)| |C|!Hunter| |P|GROUP| |Z|Stranglethorn Vale|
+C Message in a Bottle |QID|630| |OIDX|1| |N|[Group] King Mukla. Loot him for the Shackle Key (40.9, 83.9)| |C|!Hunter| |P|GROUP| |Z|Stranglethorn Vale|
 T Message in a Bottle |QID|630| |N|Princess Poobah - (38.5, 80.6)| |Z|Stranglethorn Vale|
 N Don't try to solo him unless you're in a group or have cooldowns/potion CDs ready |N|(37.0, 69.7)| |C|Rogue/Warrior/Paladin| |Z|Stranglethorn Vale|
 N Try to kite him if required to the Booty Bay enterance so guards assist you |N|(37.0, 69.7)| |Z|Stranglethorn Vale|
@@ -61,8 +62,8 @@ F Fly to Stormwind |N|Gyll - (27.5, 77.8)| |C|!Mage| |Z|Stranglethorn Vale|
 t Train your class spells |N|Jennea - (36.9, 81.1)| |C|Mage| |Z|Stormwind City|
 R Newton Burnside |N|(57.1, 73.0)| |Z|Stormwind City|
 N 15 [Silk Cloth] (If you have them) |N|(57.1, 73.0)| |Z|Stormwind City|
-N Buy [Silk Cloth] from the Auction House for a quest later in Searing Gorge |N|(53.6, 59.8)| |Z|Stormwind City|
-B Auctioneer Jaxon |L|4306 15| |N|Auctioneer Jaxon - (53.6, 59.8)| |Z|Stormwind City|
+N Buy [Silk Cloth] from the Auction House for a quest later in Searing Gorge |N|(53.6, 59.8)| |AH| |Z|Stormwind City|
+B Auctioneer Jaxon |L|4306 15| |N|Auctioneer Jaxon - (53.6, 59.8)| |AH| |Z|Stormwind City|
 R Innkeeper Allison |N|(52.6, 65.7)| |Z|Stormwind City|
 h Stormwind City |N|Set hearth in Stormwind City (52.6, 65.7)| |Z|Stormwind City|
 t Train your class spells |N|Sheldras Moontree - (20.9, 55.5)| |C|Druid| |Z|Stormwind City|

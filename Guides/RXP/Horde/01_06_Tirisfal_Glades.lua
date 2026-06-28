@@ -27,6 +27,7 @@ C Piercing the Veil |QID|1470| |OIDX|1| |N|Rattlecage Skeletons. Loot them for t
 N Buy [Refreshing Spring Water] from him |N|(32.3, 65.4)| |C|Warlock| |Z|Tirisfal Glades|
 B Collect Refreshing Spring Water (5) |L|159 5| |N|Joshua - (32.3, 65.4)| |C|Warlock| |Z|Tirisfal Glades|
 T Piercing the Veil |QID|1470| |N|Venya - (31.0, 66.4)| |C|Warlock| |Z|Tirisfal Glades|
+N Cast [Summon Imp] |O| |C|Warlock| |Z|Tirisfal Glades|
 C The Mindless Ones |QID|364| |OIDX|1| |N|Mindless Zombies and Wretched Zombies Kill Mindless Zombie (x8)| |Z|Tirisfal Glades|
 N Buy [Refreshing Spring Water] from him |N|(32.3, 65.4)| |C|Mage/Warlock/Priest| |Z|Tirisfal Glades|
 B Collect Refreshing Spring Water (10) |L|159 10| |N|Joshua - (32.3, 65.4)| |C|Mage/Warlock/Priest| |Z|Tirisfal Glades|
@@ -79,6 +80,7 @@ C Night Web's Hollow |QID|380| |OIDX|1| |N|Young Night Web Spiders close to the 
 R Go inside the cave |N|(26.3, 59.6)| |O| |Z|Tirisfal Glades|
 C Night Web's Hollow |QID|380| |OIDX|2| |N|Night Web Spiders inside the cave Kill Night Web Spider (x8)| |Z|Tirisfal Glades|
 N Die and respawn at the Spirit Healer |O| |Z|Tirisfal Glades|
+N Cast [Summon Imp] |O| |C|Warlock| |Z|Tirisfal Glades|
 T Scavenging Deathknell |QID|3902| |N|Saltain - (31.6, 65.6)| |Z|Tirisfal Glades|
 T Night Web's Hollow |QID|380| |N|Arren - (32.1, 66.0)| |Z|Tirisfal Glades|
 A The Scarlet Crusade |QID|381| |N|Arren - (32.1, 66.0)| |Z|Tirisfal Glades|
@@ -92,6 +94,7 @@ C The Scarlet Crusade |QID|381| |OIDX|1| |N|Scarlet Initiates and Scarlet Conver
 C Collect Samuel's Remains |QID|6395| |L|16333 1| |N|Samuel. Loot him for Samuel's Remains (36.7, 61.7)| |Z|Tirisfal Glades|
 N Die and respawn at the Spirit Healer |O| |Z|Tirisfal Glades|
 C Marla's Last Wish |QID|6395| |OIDX|1| |N|Marla's Grave on the ground Collect Samuel's Remains Buried (1)| |Z|Tirisfal Glades|
+N Cast [Summon Imp] |O| |C|Warlock| |Z|Tirisfal Glades|
 N Elreth and Duesten |N|(31.4, 66.2)| |C|Priest| |Z|Tirisfal Glades|
 T Marla's Last Wish |QID|6395| |N|Elreth - (31.4, 66.2)| |Z|Tirisfal Glades|
 A In Favor of Darkness |QID|5651| |N|(30.9, 66.0)| |C|Priest| |Z|Tirisfal Glades|

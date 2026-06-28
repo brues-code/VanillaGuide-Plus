@@ -15,15 +15,22 @@ A Protect Kaya |QID|6523| |N|Kaya - (73.5, 85.6)| |Z|Stonetalon Mountains|
 N Be careful! Three Grimtotems will spawn when you reach the bonfire in Camp Aparaje |N|(76.7, 90.8)| |Z|Stonetalon Mountains|
 C Protect Kaya |QID|6523| |OIDX|1| |N|Escort Kaya and stay close to her Kaya Escorted to Camp Aparaje| |Z|Stonetalon Mountains|
 A Blood Feeders |QID|6461| |N|Xen'Zilla - (71.2, 95.0)| |Z|Stonetalon Mountains|
-C Blood Feeders |QID|6461| |OIDX|1| |N|every Deepmoss Creeper you see Kill Deepmoss Creeper (x10)| |O| |C|Priest/Mage/Warlock| |Z|Stonetalon Mountains|
-A Arachnophobia |QID|6284| |N|the Wanted Poster - (59.1, 75.7)| |C|Warlock/Priest/Mage| |Z|Stonetalon Mountains|
-C Blood Feeders |QID|6461| |OIDX|2| |N|Kill Deepmoss Venomspitters and Deepmoss Creepers Kill Deepmoss Venomspitter (x7)| |O| |C|Warlock/Priest/Mage| |Z|Stonetalon Mountains|
-N Be careful! The Deepmoss Hatchlings have a chance of summoning a level 22 Deepmoss Matriarch |O| |C|Warlock/Priest/Mage| |Z|Stonetalon Mountains|
-C Deepmoss Spider Eggs |QID|1069| |OIDX|1| |N|Loot the Spider Eggs near the trees Collect Deepmoss Egg (x15)| |O| |C|Warlock/Priest/Mage| |Z|Stonetalon Mountains|
+C Blood Feeders |QID|6461| |OIDX|1| |N|[Group] every Deepmoss Creeper you see Kill Deepmoss Creeper (x10)| |O| |C|Mage/Priest| |P|GROUP| |Z|Stonetalon Mountains|
+C Blood Feeders |QID|6461| |OIDX|1| |N|every Deepmoss Creeper you see Kill Deepmoss Creeper (x10)| |O| |C|Warlock| |Z|Stonetalon Mountains|
+A Arachnophobia |QID|6284| |N|[Group] the Wanted Poster - (59.1, 75.7)| |C|Mage/Priest| |P|GROUP| |Z|Stonetalon Mountains|
+A Arachnophobia |QID|6284| |N|the Wanted Poster - (59.1, 75.7)| |C|Warlock| |Z|Stonetalon Mountains|
+C Blood Feeders |QID|6461| |OIDX|2| |N|[Group] Kill Deepmoss Venomspitters and Deepmoss Creepers Kill Deepmoss Venomspitter (x7)| |O| |C|Mage/Priest| |P|GROUP| |Z|Stonetalon Mountains|
+C Blood Feeders |QID|6461| |OIDX|2| |N|Kill Deepmoss Venomspitters and Deepmoss Creepers Kill Deepmoss Venomspitter (x7)| |O| |C|Warlock| |Z|Stonetalon Mountains|
+N Be careful! The Deepmoss Hatchlings have a chance of summoning a level 22 Deepmoss Matriarch |N|[Group]| |O| |C|Mage/Priest| |P|GROUP| |Z|Stonetalon Mountains|
+N Be careful! The Deepmoss Hatchlings have a chance of summoning a level 22 Deepmoss Matriarch |O| |C|Warlock| |Z|Stonetalon Mountains|
+C Deepmoss Spider Eggs |QID|1069| |OIDX|1| |N|[Group] Loot the Spider Eggs near the trees Collect Deepmoss Egg (x15)| |O| |C|Mage/Priest| |P|GROUP| |Z|Stonetalon Mountains|
+C Deepmoss Spider Eggs |QID|1069| |OIDX|1| |N|Loot the Spider Eggs near the trees Collect Deepmoss Egg (x15)| |O| |C|Warlock| |Z|Stonetalon Mountains|
 N Clear the area around Besseleth. Be careful as she webs you. Keep her permanently feared with dots |N|(54.8, 72.0)| |C|Warlock| |Z|Stonetalon Mountains|
 N This quest is optional. If you can't do it, skip this quest. You can try it again later |N|(54.8, 72.0)| |C|Warlock| |Z|Stonetalon Mountains|
-C Arachnophobia |QID|6284| |OIDX|1| |N|Besseleth. Loot her for for her Fang Collect Besseleth's Fang (x1)| |C|Warlock/Priest/Mage| |Z|Stonetalon Mountains|
-C Blood Feeders |QID|6461| |OIDX|1| |N|Deepmoss Creepers Kill Deepmoss Creeper (x10)| |C|Warlock/Priest/Mage| |Z|Stonetalon Mountains|
+C Arachnophobia |QID|6284| |OIDX|1| |N|[Group] Besseleth. Loot her for for her Fang Collect Besseleth's Fang (x1)| |C|Mage/Priest| |P|GROUP| |Z|Stonetalon Mountains|
+C Arachnophobia |QID|6284| |OIDX|1| |N|Besseleth. Loot her for for her Fang Collect Besseleth's Fang (x1)| |C|Warlock| |Z|Stonetalon Mountains|
+C Blood Feeders |QID|6461| |OIDX|1| |N|[Group] Deepmoss Creepers Kill Deepmoss Creeper (x10)| |C|Mage/Priest| |P|GROUP| |Z|Stonetalon Mountains|
+C Blood Feeders |QID|6461| |OIDX|1| |N|Deepmoss Creepers Kill Deepmoss Creeper (x10)| |C|Warlock| |Z|Stonetalon Mountains|
 N Save any [Small Venom Sacs] you loot |N|(55.0, 76.0)| |C|Rogue| |Z|Stonetalon Mountains|
 C Blood Feeders |QID|6461| |OIDX|1| |N|Deepmoss Creepers Kill Deepmoss Creeper (x10)| |C|!Warlock| |Z|Stonetalon Mountains|
 B Sell your junk, then restock on food and water if necessary |N|Innkeeper Jayka - (47.5, 62.1)| |C|!Rogue/!Warrior| |Z|Stonetalon Mountains|
@@ -53,6 +60,7 @@ T Super Reaper 6000 |QID|1093| |N|Ziz - (59.0, 62.6)| |Z|Stonetalon Mountains|
 A Further Instructions |QID|1094| |N|Ziz - (59.0, 62.6)| |Z|Stonetalon Mountains|
 N Save any [Small Venom Sacs] you loot |N|(59.0, 73.0)| |C|Rogue| |Z|Stonetalon Mountains|
 C Blood Feeders |QID|6461| |OIDX|1| |N|Finish killing Deepmoss Creepers Kill Deepmoss Creeper (x10)| |Z|Stonetalon Mountains|
+N Cast [Teleport: Moonglade] |O| |C|Druid| |Z|Stonetalon Mountains|
 t Train your class spells |N|Loganaar - (52.5, 40.6)| |C|Druid| |Z|Moonglade|
 H Camp Taurajo |N|Hearth to Camp Taurajo| |O| |Z|Moonglade|
 B Sell your junk, then restock on food and water if necessary |N|Innkeeper Byula - (45.6, 59.0)| |C|!Rogue/!Warrior| |Z|The Barrens|
@@ -130,8 +138,8 @@ t Train your class spells |N|Ormok - (43.9, 54.6) (DM Dungeon Quest)| |C|Rogue| 
 t Train your class spells |N|Zevrost - (48.5, 45.4) (DM Dungeon Quest)| |C|Warlock| |D|DM| |Z|Undercity|
 t Train your class spells |N|Pephredo - (38.4, 85.5) (DM Dungeon Quest)| |C|Mage| |D|DM| |Z|Orgrimmar|
 t Train your class spells |N|Ur'kyo - (35.6, 87.8) (DM Dungeon Quest)| |C|Priest| |D|DM| |Z|Orgrimmar|
-N Buy [Flask of Oil] from the Auction House if possible |N|(55.6, 62.9) (DM Dungeon Quest)| |D|DM| |Z|Orgrimmar|
-B Flask of Oil (5) |L|814 5| |N|Thathung - (55.6, 62.9) (DM Dungeon Quest)| |D|DM| |Z|Orgrimmar|
+N Buy [Flask of Oil] from the Auction House if possible |N|(55.6, 62.9) (DM Dungeon Quest)| |D|DM| |AH| |Z|Orgrimmar|
+B Flask of Oil (5) |L|814 5| |N|Thathung - (55.6, 62.9) (DM Dungeon Quest)| |D|DM| |AH| |Z|Orgrimmar|
 R Go up the Zeppelin Tower |N|(50.8, 13.8) (DM Dungeon Quest)| |D|DM| |Z|Durotar|
 R Travel to Westfall |N|(37.1, 89.2) (DM Dungeon Quest)| |D|DM| |Z|Westfall|
 R Swim directly to the west from Grom'Gol into the Vile Reef and then swim north toward Westfall |N|(30.0, 86.0) (DM Dungeon Quest)| |D|DM| |Z|Westfall|
@@ -236,11 +244,12 @@ A Leaders of the Fang |QID|914| |N|Nara - (75.7, 31.6) (WC Dungeon Quest)| |D|WC
 T Nara Wildmane |QID|1490| |N|Nara - (75.7, 31.6)| |Z|Thunder Bluff|
 t Train your class spells |N|Turak - (76.5, 27.2)| |C|Druid| |Z|Thunder Bluff|
 A A Lesson to Learn |QID|27| |N|Turak - (76.5, 27.2)| |C|Druid| |Z|Thunder Bluff|
+N Cast [Teleport: Moonglade] |O| |C|Druid| |Z|Thunder Bluff|
 T A Lesson to Learn |QID|27| |N|Dendrite - (56.2, 30.6)| |C|Druid| |Z|Moonglade|
 A Trial of the Lake |QID|28| |N|Dendrite - (56.2, 30.6)| |C|Druid| |Z|Moonglade|
 C the Bauble Container at the bottom of the lake for a[Shrine Bauble] |QID|28| |L|15877 1| |N|(54.3, 55.7)| |O| |C|Druid| |Z|Moonglade|
 N Do not go underwater untill you arive right above the Bauble |N|(54.3, 55.7)| |O| |C|Druid| |Z|Moonglade|
-C Trial of the Lake |QID|28| |OIDX|1| |N|Complete the Trial of the Lake| |C|Druid| |Z|Moonglade|
+C Trial of the Lake |QID|28| |OIDX|1| |N|Use the [Shrine Bauble] at the Shrine of Remulos Complete the Trial of the Lake| |C|Druid| |Z|Moonglade|
 T Trial of the Lake |QID|28| |N|Tajarri - (36.5, 40.1)| |C|Druid| |Z|Moonglade|
 A Trial of the Sea Lion |QID|30| |N|Tajarri - (36.5, 40.1)| |C|Druid| |Z|Moonglade|
 H Thunder Bluff |N|Hearth to Thunder Bluff (!WC Dungeon Quest)| |C|Druid| |D|!WC| |Z|Moonglade|
@@ -380,14 +389,14 @@ R Run up the path to the right |N|(47.2, 64.0)| |O| |Z|Stonetalon Mountains|
 A Trouble in the Deeps |QID|6562| |N|Tsunaman - (47.4, 64.2)| |Z|Stonetalon Mountains|
 A Elemental War |QID|6393| |N|Tsunaman - (47.4, 64.2)| |Z|Stonetalon Mountains|
 T Further Instructions |QID|1095| |N|Ziz - (59.0, 62.6)| |Z|Stonetalon Mountains|
-N This quest takes 5 minutes, and will spawn 3 waves of Kobolds at set times: |N|(71.9, 60.0)| |Z|Stonetalon Mountains|
-N First wave at 15 seconds (3 Kobolds), Second wave at 2 minutes 15 seconds (4 Kobolds, 2 casters 2 melee), and the Third wave at 3 minutes 20 seconds (4 Kobolds). The objective completes at 5 minutes |N|(71.9, 60.0)| |Z|Stonetalon Mountains|
-A Gerenzo's Orders |QID|1090| |N|Piznik - (71.9, 60.0)| |Z|Stonetalon Mountains|
-N First wave at 15 seconds (3 Kobolds), Second wave at 2 minutes 15 seconds (4 Kobolds, 2 casters 2 melee), and the Third wave at 3 minutes 20 seconds (4 Kobolds). The objective completes at 5 minutes |N|(71.8, 60.2)| |Z|Stonetalon Mountains|
-C Gerenzo's Orders |QID|1090| |OIDX|1| |N|Protect Piznik from incoming Windshear Vermin Keep Piznik safe while he mines the mysterious ore| |Z|Stonetalon Mountains|
-T Gerenzo's Orders |QID|1090| |N|Piznik - (71.9, 60.0)| |Z|Stonetalon Mountains|
-A Gerenzo's Orders |QID|1092| |N|Piznik - (71.9, 60.0)| |Z|Stonetalon Mountains|
-T Gerenzo's Orders |QID|1092| |N|Ziz - (59.0, 62.6)| |Z|Stonetalon Mountains|
+N This quest takes 5 minutes, and will spawn 3 waves of Kobolds at set times: |N|[Group] (71.9, 60.0)| |P|GROUP| |Z|Stonetalon Mountains|
+N First wave at 15 seconds (3 Kobolds), Second wave at 2 minutes 15 seconds (4 Kobolds, 2 casters 2 melee), and the Third wave at 3 minutes 20 seconds (4 Kobolds). The objective completes at 5 minutes |N|[Group] (71.9, 60.0)| |P|GROUP| |Z|Stonetalon Mountains|
+A Gerenzo's Orders |QID|1090| |N|[Group] Piznik - (71.9, 60.0)| |P|GROUP| |Z|Stonetalon Mountains|
+N First wave at 15 seconds (3 Kobolds), Second wave at 2 minutes 15 seconds (4 Kobolds, 2 casters 2 melee), and the Third wave at 3 minutes 20 seconds (4 Kobolds). The objective completes at 5 minutes |N|[Group] (71.8, 60.2)| |P|GROUP| |Z|Stonetalon Mountains|
+C Gerenzo's Orders |QID|1090| |OIDX|1| |N|[Group] Protect Piznik from incoming Windshear Vermin Keep Piznik safe while he mines the mysterious ore| |P|GROUP| |Z|Stonetalon Mountains|
+T Gerenzo's Orders |QID|1090| |N|[Group] Piznik - (71.9, 60.0)| |P|GROUP| |Z|Stonetalon Mountains|
+A Gerenzo's Orders |QID|1092| |N|[Group] Piznik - (71.9, 60.0)| |P|GROUP| |Z|Stonetalon Mountains|
+T Gerenzo's Orders |QID|1092| |N|[Group] Ziz - (59.0, 62.6)| |P|GROUP| |Z|Stonetalon Mountains|
 R Enter the Talondeep Path |N|(78.3, 42.5)| |O| |Z|Stonetalon Mountains|
 R Travel to Ashenvale |N|(18.4, 32.9)| |O| |Z|Ashenvale|
 R Travel toward the Zoram'gar Outpost |N|(12.0, 34.3)| |O| |Z|Ashenvale|
@@ -451,6 +460,7 @@ A Love's Gift |QID|1512| |N|Dogran - (43.3, 47.9)| |C|Warlock| |Z|The Barrens|
 F Fly to Orgrimmar |N|Omusa - (44.5, 59.2)| |C|Warlock| |Z|The Barrens|
 T Love's Gift |QID|1512| |N|Gan'rul - (48.2, 45.3)| |C|Warlock| |Z|Orgrimmar|
 A The Binding |QID|1513| |N|Gan'rul - (48.2, 45.3)| |C|Warlock| |Z|Orgrimmar|
+N Use [Dogran's Pendant] at the Summoning Circle |O| |C|Warlock| |Z|Orgrimmar|
 C The Binding |QID|1513| |OIDX|1| |N|the Summoned Succubus Kill Summoned Succubus (1)| |C|Warlock| |Z|Orgrimmar|
 T The Binding |QID|1513| |N|Gan'rul - (48.2, 45.3)| |C|Warlock| |Z|Orgrimmar|
 t Train your class spells |N|Mirket - (48.6, 47.0)| |C|Warlock| |Z|Orgrimmar|

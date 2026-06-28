@@ -129,6 +129,7 @@ t Train your class spells |N|Ormok - (43.9, 54.6) (ULDA Dungeon Quest)| |C|Rogue
 B Stock up on [Flash Powder] and [Poisons] |N|Rekkul - (42.1, 49.5) (ULDA Dungeon Quest)| |C|Rogue| |D|ULDA| |Z|Orgrimmar|
 t Train your class spells |N|Mirket - (48.6, 47.0) (ULDA Dungeon Quest)| |C|Warlock| |D|ULDA| |Z|Orgrimmar|
 R Go up the Zeppelin Tower |N|(50.8, 13.8) (ULDA Dungeon Quest)| |C|!Mage| |D|ULDA| |Z|Durotar|
+N Cast [Teleport: Undercity] |N|(ULDA Dungeon Quest)| |C|Mage| |D|ULDA| |Z|Durotar|
 t Train your class spells |N|Anastasia - (85.1, 10.0) (ULDA Dungeon Quest)| |C|Mage| |D|ULDA| |Z|Undercity|
 A Reclaimed Treasures |QID|2342| |N|Patrick - (62.3, 48.6) (ULDA Dungeon Quest)| |D|ULDA| |Z|Undercity|
 F Fly to Badlands |N|Michael - (63.3, 48.5) (ULDA Dungeon Quest)| |D|ULDA| |Z|Undercity|

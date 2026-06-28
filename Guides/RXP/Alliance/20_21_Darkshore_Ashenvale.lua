@@ -4,6 +4,7 @@ return [[
 
 N 20-21 Darkshore/Ashenvale |N|Converted from RestedXP guide|
 
+N Cast Teleport: Moonglade |O| |C|Druid|
 N Loganaar |N|(52.5, 40.6)| |C|Druid| |Z|Moonglade|
 t Train your class spells |N|Moonglade - (52.5, 40.6)| |C|Druid| |Z|Moonglade|
 H Auberdine |N|Hearth to Auberdine| |O| |Z|Moonglade|
@@ -22,6 +23,7 @@ A The Master's Glaive |QID|944| |N|Onu - (43.6, 76.3)| |Z|Darkshore|
 R The Master's Glaive |N|(38.5, 86.0)| |Z|Darkshore|
 C Book: The Powers Below (1) |QID|968| |L|5352 1| |N|Kill Twilight Disciples and Twilight Thugs. Loot them for the [Book: The Powers Below]| |O| |Z|Darkshore|
 C The Master's Glaive |QID|944| |OIDX|1| |N|Discover The Master's Glaive Enter the Master's Glaive (1)| |O| |Z|Darkshore|
+N Use the [Phial of Scrying] and place it on the ground |O| |Z|Darkshore|
 T The Master's Glaive |QID|944| |N|the Scrying Bowl on the ground - (38.5, 86.0)| |Z|Darkshore|
 A The Twilight Camp |QID|949| |N|the Scrying Bowl on the ground - (38.5, 86.0)| |Z|Darkshore|
 T The Twilight Camp |QID|949| |N|the Twilight Tome on the northern pedestal - (38.5, 86.0)| |Z|Darkshore|

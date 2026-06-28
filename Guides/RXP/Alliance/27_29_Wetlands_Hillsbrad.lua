@@ -131,10 +131,10 @@ C Apprentice's Duties |QID|471| |OIDX|1| |N|Giant Wetlands Crocolisks. Loot them
 N Fen Creepers are in [Stealth] along the river streams |N|(20.7, 28.7)| |O| |Z|Wetlands|
 N You don't have to complete this objective now but you should encounter around 8-10 of them while heading east if no one killed them beforehand |N|(20.7, 28.7)| |O| |Z|Wetlands|
 C Blisters on The Land |QID|275| |OIDX|1| |N|all Fen Creepers you can find as you head towards the Dragonmaw Orc encampment (20.7, 28.7)| |O| |Z|Wetlands|
-T Nek'rosh's Gambit |QID|465| |N|the Dragonmaw Catapult - (47.5, 47.0)| |Z|Wetlands|
-A Defeat Nek'rosh |QID|474| |N|the Dragonmaw Catapult - (47.5, 47.0)| |C|Hunter/Warlock/Mage| |Z|Wetlands|
-T Nek'rosh's Gambit |QID|465| |N|the Dragonmaw Catapult - (47.5, 47.0)| |Z|Wetlands|
-A Defeat Nek'rosh |QID|474| |N|the Dragonmaw Catapult - (47.5, 47.0)| |Z|Wetlands|
+T Nek'rosh's Gambit |QID|465| |N|the Dragonmaw Catapult - (47.5, 47.0)| |P|SOLO| |Z|Wetlands|
+A Defeat Nek'rosh |QID|474| |N|the Dragonmaw Catapult - (47.5, 47.0)| |C|Hunter/Warlock/Mage| |P|SOLO| |Z|Wetlands|
+T Nek'rosh's Gambit |QID|465| |N|[Group] the Dragonmaw Catapult - (47.5, 47.0)| |P|GROUP| |Z|Wetlands|
+A Defeat Nek'rosh |QID|474| |N|[Group] the Dragonmaw Catapult - (47.5, 47.0)| |P|GROUP| |Z|Wetlands|
 N You can split pull Nek'Rosh from the mobs around him by using [Rain of Fire] |N|(53.2, 56.0)| |C|Warlock| |Z|Wetlands|
 N You can split pull Nek'Rosh from the mobs around him by using [Blizzard] |N|(53.2, 56.0)| |C|Mage| |Z|Wetlands|
 N Chieftain Nek'rosh is snareable |N|(53.2, 56.0)| |C|Hunter/Warlock/Mage| |Z|Wetlands|
@@ -143,31 +143,31 @@ N Chieftain Nek'rosh is immune to Fire damage |N|(53.2, 56.0)| |C|Mage/Warlock| 
 C Defeat Nek'rosh |QID|474| |OIDX|1| |N|Chieftain Nek'rosh. Loot him for his Head (53.2, 56.0)| |C|Hunter/Warlock/Mage| |Z|Wetlands|
 N Click here for a video guide |N|(53.2, 56.0)| |C|Warlock| |Z|Wetlands|
 N Click here for a video guide |N|(53.2, 56.0)| |C|Hunter| |Z|Wetlands|
-N You can split pull Nek'Rosh from the mobs around him by using [Rain of Fire] |N|(53.2, 56.0)| |C|Warlock| |Z|Wetlands|
-N You can split pull Nek'Rosh from the mobs around him by using [Blizzard] |N|(53.2, 56.0)| |C|Mage| |Z|Wetlands|
-N Chieftain Nek'rosh is snareable |N|(53.2, 56.0)| |Z|Wetlands|
-N Chieftain Nek'rosh can be [Feared] |N|(53.2, 56.0)| |C|Warlock/Priest| |Z|Wetlands|
-N Chieftain Nek'rosh is immune to Fire damage |N|(53.2, 56.0)| |C|Mage/Warlock| |Z|Wetlands|
-C Defeat Nek'rosh |QID|474| |OIDX|1| |N|Chieftain Nek'rosh. Loot him for his Head (53.2, 56.0)| |Z|Wetlands|
-N Click here for a video guide |N|(53.2, 56.0)| |C|Warlock| |Z|Wetlands|
-N Click here for a video guide |N|(53.2, 56.0)| |C|Hunter| |Z|Wetlands|
+N You can split pull Nek'Rosh from the mobs around him by using [Rain of Fire] |N|[Group] (53.2, 56.0)| |C|Warlock| |P|GROUP| |Z|Wetlands|
+N You can split pull Nek'Rosh from the mobs around him by using [Blizzard] |N|[Group] (53.2, 56.0)| |C|Mage| |P|GROUP| |Z|Wetlands|
+N Chieftain Nek'rosh is snareable |N|[Group] (53.2, 56.0)| |P|GROUP| |Z|Wetlands|
+N Chieftain Nek'rosh can be [Feared] |N|[Group] (53.2, 56.0)| |C|Warlock/Priest| |P|GROUP| |Z|Wetlands|
+N Chieftain Nek'rosh is immune to Fire damage |N|[Group] (53.2, 56.0)| |C|Mage/Warlock| |P|GROUP| |Z|Wetlands|
+C Defeat Nek'rosh |QID|474| |OIDX|1| |N|[Group] Chieftain Nek'rosh. Loot him for his Head (53.2, 56.0)| |P|GROUP| |Z|Wetlands|
+N Click here for a video guide |N|[Group] (53.2, 56.0)| |C|Warlock| |P|GROUP| |Z|Wetlands|
+N Click here for a video guide |N|[Group] (53.2, 56.0)| |C|Hunter| |P|GROUP| |Z|Wetlands|
 N Fen Creepers are in [Stealth] |N|(51.1, 32.7)| |Z|Wetlands|
 N Skip this quest if you can't find any and you aren't close to completing it |N|(51.1, 32.7)| |Z|Wetlands|
 C Blisters on The Land |QID|275| |OIDX|1| |N|Finish off killing Fen Creepers, there should be spawns in the ponds north and south of the Greenwarden (marked on your map) (51.1, 32.7)| |Z|Wetlands|
 T Blisters on The Land |QID|275| |N|Rethiel the Greenwarden - (56.4, 40.4)| |Z|Wetlands|
 T Fall of Dun Modr |QID|472| |N|Longbraid the Grim and Rhag Garmason - (49.8, 18.3)| |Z|Wetlands|
 A The Thandol Span |QID|631| |N|Longbraid the Grim and Rhag Garmason - (49.8, 18.3)| |Z|Wetlands|
-A The Dark Iron War |QID|303| |N|(49.7, 18.2)| |Z|Wetlands|
-A A Grim Task |QID|304| |N|(49.7, 18.2)| |Z|Wetlands|
-N Dark Iron Saboteurs will cast [Sapper Explode] as they die which deals Fire damage in close proximity |N|(62.5, 28.4)| |O| |Z|Wetlands|
-N Dark Iron Demolitionists will continously throw [Bombs] from range |N|(62.5, 28.4)| |O| |Z|Wetlands|
-C The Dark Iron War |QID|303| |OIDX|1| |N|Dark Iron Dwarves, Dark Iron Tunnelers, Dark Iron Saboteurs and Dark Iron Demolitionists (62.5, 28.4)| |O| |Z|Wetlands|
-C A Grim Task |QID|304| |OIDX|1| |N|Balgaras the Foul. Loot him for his Ear (62.5, 28.4)| |Z|Wetlands|
-N Dark Iron Saboteurs will cast [Sapper Explode] as they die which deals Fire damage in close proximity |N|(62.5, 28.4)| |Z|Wetlands|
-N Dark Iron Demolitionists will continously throw [Bombs] from range |N|(62.5, 28.4)| |Z|Wetlands|
-C The Dark Iron War |QID|303| |OIDX|1| |N|Dark Iron Dwarves, Dark Iron Tunnelers, Dark Iron Saboteurs and Dark Iron Demolitionists (62.5, 28.4)| |Z|Wetlands|
-T The Dark Iron War |QID|303| |N|Motley Garmason - (49.7, 18.2)| |Z|Wetlands|
-T A Grim Task |QID|304| |N|Longbraid the Grim - (49.8, 18.3)| |Z|Wetlands|
+A The Dark Iron War |QID|303| |N|[Group] Motley Garmason and Longbraid the Grim - (49.7, 18.2)| |P|GROUP| |Z|Wetlands|
+A A Grim Task |QID|304| |N|[Group] Motley Garmason and Longbraid the Grim - (49.7, 18.2)| |P|GROUP| |Z|Wetlands|
+N Dark Iron Saboteurs will cast [Sapper Explode] as they die which deals Fire damage in close proximity |N|[Group] (62.5, 28.4)| |O| |P|GROUP| |Z|Wetlands|
+N Dark Iron Demolitionists will continously throw [Bombs] from range |N|[Group] (62.5, 28.4)| |O| |P|GROUP| |Z|Wetlands|
+C The Dark Iron War |QID|303| |OIDX|1| |N|[Group] Dark Iron Dwarves, Dark Iron Tunnelers, Dark Iron Saboteurs and Dark Iron Demolitionists (62.5, 28.4)| |O| |P|GROUP| |Z|Wetlands|
+C A Grim Task |QID|304| |OIDX|1| |N|[Group] Balgaras the Foul. Loot him for his Ear (62.5, 28.4)| |P|GROUP| |Z|Wetlands|
+N Dark Iron Saboteurs will cast [Sapper Explode] as they die which deals Fire damage in close proximity |N|[Group] (62.5, 28.4)| |P|GROUP| |Z|Wetlands|
+N Dark Iron Demolitionists will continously throw [Bombs] from range |N|[Group] (62.5, 28.4)| |P|GROUP| |Z|Wetlands|
+C The Dark Iron War |QID|303| |OIDX|1| |N|[Group] Dark Iron Dwarves, Dark Iron Tunnelers, Dark Iron Saboteurs and Dark Iron Demolitionists (62.5, 28.4)| |P|GROUP| |Z|Wetlands|
+T The Dark Iron War |QID|303| |N|[Group] Motley Garmason - (49.7, 18.2)| |P|GROUP| |Z|Wetlands|
+T A Grim Task |QID|304| |N|[Group] Longbraid the Grim - (49.8, 18.3)| |P|GROUP| |Z|Wetlands|
 N Ensure you are on full HP before going down the Spiral Staircase. There are 2 Elite Dark Iron Sabotuers. Cast any crowd-control abilities on them when once you go down and then run past them. Run back up and out after |N|(51.3, 8.0)| |Z|Wetlands|
 T The Thandol Span |QID|631| |N|on Ebenezer Rustlocke's Corpse - (51.3, 8.0)| |Z|Wetlands|
 A The Thandol Span |QID|632| |N|on Ebenezer Rustlocke's Corpse - (51.3, 8.0)| |Z|Wetlands|
@@ -210,8 +210,8 @@ T Lightforge Iron |QID|321| |N|Click the Waterlogged Chest - (12.1, 64.2)| |Z|We
 A The Lost Ingots |QID|324| |N|Click the Waterlogged Chest - (12.1, 64.2)| |Z|Wetlands|
 C The Lost Ingots |QID|324| |OIDX|1| |N|Bluegill Raiders. Loot them for Ingots (12.6, 65.2)| |Z|Wetlands|
 T Apprentice's Duties |QID|471| |N|James Halloran - (8.5, 55.7)| |Z|Wetlands|
-T Defeat Nek'rosh |QID|474| |N|(9.9, 57.5)| |C|Hunter/Warlock/Mage| |Z|Wetlands|
-T Defeat Nek'rosh |QID|474| |N|(9.9, 57.5)| |Z|Wetlands|
+T Defeat Nek'rosh |QID|474| |N|(9.9, 57.5)| |C|Hunter/Warlock/Mage| |P|SOLO| |Z|Wetlands|
+T Defeat Nek'rosh |QID|474| |N|[Group] (9.9, 57.5)| |P|GROUP| |Z|Wetlands|
 T The Lost Ingots |QID|324| |N|Glorin Steelbrow - (10.6, 60.6)| |Z|Wetlands|
 A Blessed Arm |QID|322| |N|Glorin Steelbrow - (10.6, 60.6)| |Z|Wetlands|
 F Fly to Ironforge |N|Shellei Brondir - (9.5, 59.7)| |C|Hunter| |Z|Wetlands|

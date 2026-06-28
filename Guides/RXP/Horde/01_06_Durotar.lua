@@ -36,6 +36,7 @@ N Grind Mottled Boars. Loot them until you have 1 silver worth of vendor items |
 B Vendor Trash |N|Duokna - (42.6, 67.3)| |C|Rogue| |Z|Durotar|
 T Vile Familiars |QID|1485| |N|Ruzan - (42.6, 69.0)| |C|Warlock| |Z|Durotar|
 A Vile Familiars |QID|1499| |N|Ruzan - (42.6, 69.0)| |C|Warlock| |Z|Durotar|
+N Cast [Summon Imp] |O| |C|Warlock| |Z|Durotar|
 T Vile Familiars |QID|1499| |N|Zureetha - (42.9, 69.2)| |C|Warlock| |Z|Durotar|
 A Burning Blade Medallion |QID|794| |N|Zureetha - (42.9, 69.2)| |C|Warlock| |Z|Durotar|
 T Cutting Teeth |QID|788| |N|Gornek - (42.1, 68.3)| |C|Shaman| |Z|Durotar|
@@ -111,6 +112,7 @@ t Train [Serpent Sting] |N|Jen'shan - (42.8, 69.3)| |C|Hunter| |Z|Durotar|
 t Train [Charge] & [Rend] |N|Frang - (42.9, 69.4)| |C|Warrior| |Z|Durotar|
 T Lazy Peons |QID|5441| |N|Thazz'ril - (44.6, 68.7)| |Z|Durotar|
 A Thazz'ril's Pick |QID|6394| |N|Thazz'ril - (44.6, 68.7)| |Z|Durotar|
+G Grind to 1720+/2100xp Vile Familiar |O| |Z|Durotar|
 C Galgar's Cactus Apple Surprise |QID|4402| |OIDX|1| |N|the Cactus Apples near the Cacti Cactus Apple (10)| |Z|Durotar|
 R Enter the cave |N|(45.4, 56.3)| |O| |Z|Durotar|
 R Travel toward Thazz'ril's Pick |N|(43.7, 53.8)| |O| |Z|Durotar|
@@ -154,6 +156,7 @@ B Vendor Trash |N|Hraug - (40.6, 68.4)| |C|Warlock| |Z|Durotar|
 t Blood Pact (Rank 1) |N|Hraug - (40.6, 68.4)| |C|Warlock| |Z|Durotar|
 t Train [Shadow Bolt] & [Life Tap] |N|Nartok - (40.6, 68.5)| |C|Warlock| |Z|Durotar|
 R Travel toward the Shaman Shrine |N|(44.1, 76.4)| |O| |C|Shaman| |Z|Durotar|
+N Use the [Earth Sapta] |O| |C|Shaman| |Z|Durotar|
 T Call of Earth |QID|1517| |N|the Manifestation - (44.0, 76.2)| |C|Shaman| |Z|Durotar|
 A Call of Earth |QID|1518| |N|the Manifestation - (44.0, 76.2)| |C|Shaman| |Z|Durotar|
 T Call of Earth |QID|1518| |N|Canaga - (42.4, 69.2)| |C|Shaman| |Z|Durotar|

@@ -9,25 +9,25 @@ T Rescue OOX-09/HL! |QID|836| |N|Oglethorpe - (28.4, 76.3)| |Z|Stranglethorn Val
 T Rescue OOX-22/FE! |QID|2767| |N|Oglethorpe - (28.4, 76.3)| |Z|Stranglethorn Vale|
 A An OOX of Your Own |QID|3721| |N|Oglethorpe - (28.4, 76.3)| |Z|Stranglethorn Vale|
 T An OOX of Your Own |QID|3721| |N|Oglethorpe - (28.4, 76.3)| |Z|Stranglethorn Vale|
-T The Monogrammed Sash |QID|8552| |N|Smotts - (26.7, 73.6)| |C|!Warrior/!Rogue/!Shaman| |Z|Stranglethorn Vale|
-T The Monogrammed Sash |QID|8552| |N|Smotts - (26.7, 73.6)| |Z|Stranglethorn Vale|
-A The Captain's Cutlass |QID|615| |N|Smotts and Sprogger - (26.7, 73.6)| |C|!Warrior/!Rogue/!Shaman| |Z|Stranglethorn Vale|
-T The Captain's Cutlass |QID|615| |N|Smotts and Sprogger - (26.7, 73.6)| |C|!Warrior/!Rogue/!Shaman| |Z|Stranglethorn Vale|
-A The Captain's Cutlass |QID|615| |N|Smotts and Sprogger - (26.7, 73.6)| |Z|Stranglethorn Vale|
-T The Captain's Cutlass |QID|615| |N|Smotts and Sprogger - (26.7, 73.6)| |Z|Stranglethorn Vale|
-A Facing Negolash |QID|8554| |N|Sprogger - (26.7, 73.6)| |Z|Stranglethorn Vale|
+T The Monogrammed Sash |QID|8552| |N|Smotts - (26.7, 73.6)| |C|!Warrior/!Rogue/!Shaman| |P|SOLO| |Z|Stranglethorn Vale|
+T The Monogrammed Sash |QID|8552| |N|[Group] Smotts - (26.7, 73.6)| |P|GROUP| |Z|Stranglethorn Vale|
+A The Captain's Cutlass |QID|615| |N|Smotts and Sprogger - (26.7, 73.6)| |C|!Warrior/!Rogue/!Shaman| |P|SOLO| |Z|Stranglethorn Vale|
+T The Captain's Cutlass |QID|615| |N|Smotts and Sprogger - (26.7, 73.6)| |C|!Warrior/!Rogue/!Shaman| |P|SOLO| |Z|Stranglethorn Vale|
+A The Captain's Cutlass |QID|615| |N|[Group] Smotts and Sprogger - (26.7, 73.6)| |P|GROUP| |Z|Stranglethorn Vale|
+T The Captain's Cutlass |QID|615| |N|[Group] Smotts and Sprogger - (26.7, 73.6)| |P|GROUP| |Z|Stranglethorn Vale|
+A Facing Negolash |QID|8554| |N|[Group] Sprogger - (26.7, 73.6)| |P|GROUP| |AH| |Z|Stranglethorn Vale|
 T Deliver to MacKinley |QID|2874| |N|"Sea Wolf" - (27.7, 77.1)| |Z|Stranglethorn Vale|
 T Whiskey Slim's Lost Grog |QID|580| |N|Whiskey Slim - (27.1, 77.5)| |Z|Stranglethorn Vale|
 T Report Back to Fizzlebub |QID|1122| |N|Crank - (27.1, 77.3)| |Z|Stranglethorn Vale|
-T Facing Negolash |QID|619| |N|the Ruined Lifeboat - (32.5, 81.9)| |Z|Stranglethorn Vale|
-C the Half-Burried Bottles along the southeastern coast |QID|594| |L|4098 1| |N|the Half-Burried Bottles along the southeastern coast - (32.4, 82.2)| |Z|Stranglethorn Vale|
-A Message in a Bottle |QID|594| |N|the Half-Burried Bottles along the southeastern coast - (32.4, 82.2)| |Z|Stranglethorn Vale|
-T Message in a Bottle |QID|594| |N|Princess Poobah - (38.5, 80.6)| |Z|Stranglethorn Vale|
-A Message in a Bottle |QID|630| |N|Princess Poobah - (38.5, 80.6)| |Z|Stranglethorn Vale|
-N Clear a bit of space around King Mukla, as he has a fear |N|(40.9, 83.9)| |Z|Stranglethorn Vale|
-C Message in a Bottle |QID|630| |OIDX|1| |N|King Mukla. Loot him for his Key (40.9, 83.9)| |Z|Stranglethorn Vale|
-T Message in a Bottle |QID|630| |N|Princess Poobah - (38.5, 80.6)| |Z|Stranglethorn Vale|
-T Facing Negolash |QID|8554| |N|Sprogger - (26.7, 73.6)| |Z|Stranglethorn Vale|
+T Facing Negolash |QID|619| |N|[Group] the Ruined Lifeboat - (32.5, 81.9)| |P|GROUP| |AH| |Z|Stranglethorn Vale|
+C the Half-Burried Bottles along the southeastern coast |QID|594| |L|4098 1| |N|[Group] the Half-Burried Bottles along the southeastern coast - (32.4, 82.2)| |P|GROUP| |AH| |Z|Stranglethorn Vale|
+A Message in a Bottle |QID|594| |N|[Group] the Half-Burried Bottles along the southeastern coast - (32.4, 82.2)| |P|GROUP| |AH| |Z|Stranglethorn Vale|
+T Message in a Bottle |QID|594| |N|[Group] Princess Poobah - (38.5, 80.6)| |P|GROUP| |AH| |Z|Stranglethorn Vale|
+A Message in a Bottle |QID|630| |N|[Group] Princess Poobah - (38.5, 80.6)| |P|GROUP| |AH| |Z|Stranglethorn Vale|
+N Clear a bit of space around King Mukla, as he has a fear |N|[Group] (40.9, 83.9)| |P|GROUP| |AH| |Z|Stranglethorn Vale|
+C Message in a Bottle |QID|630| |OIDX|1| |N|[Group] King Mukla. Loot him for his Key (40.9, 83.9)| |P|GROUP| |AH| |Z|Stranglethorn Vale|
+T Message in a Bottle |QID|630| |N|[Group] Princess Poobah - (38.5, 80.6)| |P|GROUP| |AH| |Z|Stranglethorn Vale|
+T Facing Negolash |QID|8554| |N|[Group] Sprogger - (26.7, 73.6)| |P|GROUP| |AH| |Z|Stranglethorn Vale|
 t Train your class spells |N|Ian on the second floor of the inn - (26.8, 77.2)| |C|Rogue| |Z|Stranglethorn Vale|
 R Viznik |N|(26.6, 76.6)| |Z|Stranglethorn Vale|
 N NOTE: The Blasted Lands part of the guide is a filler section in case you are behind on levels. If you are level 52 or above skip to the next part (Searing Gorge or Azshara) |N|(26.9, 77.1)| |O| |Z|Stranglethorn Vale|

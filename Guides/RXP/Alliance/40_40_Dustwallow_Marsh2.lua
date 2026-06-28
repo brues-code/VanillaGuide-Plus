@@ -33,7 +33,7 @@ A Triage |QID|6624| |N|Doctor Gustaf VanHowzen - (67.8, 49.0)| |Z|Dustwallow Mar
 C Triage |QID|6624| |OIDX|1| |N|Channel the [Triage Bandage] on the Alliance Soldiers. Prioritize Critically Injured Soldiers first (67.8, 49.0)| |Z|Dustwallow Marsh|
 T Triage |QID|6624| |N|Doctor Gustaf VanHowzen - (67.8, 49.0)| |Z|Dustwallow Marsh|
 A The Deserters |QID|1286| |N|Captain Garran Vimes - (68.2, 48.6)| |Z|Dustwallow Marsh|
-T Morgan Stern |QID|1260| |N|Morgan Stern - (66.3, 45.5)| |C|!Warrior/!Rogue/!Druid/!Hunter| |Z|Dustwallow Marsh|
+T Morgan Stern |QID|1260| |N|Morgan Stern - (66.3, 45.5)| |C|!Warrior/!Rogue/!Druid/!Hunter| |P|SOLO| |Z|Dustwallow Marsh|
 A Mudrock Soup and Bugs |QID|1204| |N|Morgan Stern - (66.3, 45.5)| |Z|Dustwallow Marsh|
 C Mudrock Soup and Bugs |QID|1204| |OIDX|1| |N|Mudrock Spikeshells and Mudrock Tortoises. Loot them for their Tongues (59.7, 17.7)| |O| |Z|Dustwallow Marsh|
 N Be careful not to swim into a Coral Shark that patrols the waters in the area. It can [Thrash] you for upwards of 1200 damage instantly |N|(57.6, 21.6)| |Z|Dustwallow Marsh|

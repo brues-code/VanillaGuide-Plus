@@ -7,6 +7,7 @@ N 59-59 Winterspring/Silithus part 1 |N|Converted from RestedXP guide|
 T The Blightcaller Cometh |QID|6186| |N|Highlord Bolvar Fordragon - (78.2, 18.0)| |Z|Stormwind City|
 T Prayer to Elune |QID|3378| |N|Astarii Starseeker - (38.3, 81.0)| |C|Mage| |Z|Darnassus|
 F Fly to Winterspring |N|Vesprystus - (58.4, 94.0)| |C|Mage| |Z|Teldrassil|
+N Cast Teleport: Moonglade |O| |C|Druid| |Z|Teldrassil|
 N Loganaar |N|(52.5, 40.6)| |C|Druid| |Z|Teldrassil|
 R Travel to Moonglade |N|(52.5, 40.6)| |C|Druid| |Z|Moonglade|
 t Train your class spells |N|Teleport to Moonglade - (52.5, 40.6)| |C|Druid| |Z|Moonglade|
@@ -24,8 +25,8 @@ R Innkeeper Vizzie |N|(61.4, 38.8)| |Z|Winterspring|
 h Everlook |N|Set hearth in Everlook (61.4, 38.8)| |Z|Winterspring|
 T Felnok Steelspring |QID|4808| |N|Felnok Steelspring - (61.6, 38.6)| |Z|Winterspring|
 A Chillwind Horns |QID|4809| |N|Felnok Steelspring - (61.6, 38.6)| |Z|Winterspring|
-A Luck Be With You |QID|969| |N|Witch Doctor Mau'ari - (61.9, 38.3)| |C|Hunter| |Z|Winterspring|
-A Luck Be With You |QID|969| |N|Witch Doctor Mau'ari - (61.9, 38.3)| |Z|Winterspring|
+A Luck Be With You |QID|969| |N|Witch Doctor Mau'ari - (61.9, 38.3)| |C|Hunter| |P|SOLO| |Z|Winterspring|
+A Luck Be With You |QID|969| |N|[Group] Witch Doctor Mau'ari - (61.9, 38.3)| |P|GROUP| |Z|Winterspring|
 A Are We There, Yeti? |QID|3783| |N|Umi Rumplesnicker - (60.9, 37.6)| |Z|Winterspring|
 N Don't go out of your way to complete this yet |O| |Z|Winterspring|
 C Chillwind Horns |QID|4809| |OIDX|1| |N|Kill Fledgling Chillwinds, Chillwind Chimaeras and Chillwind Ravagers. Loot them for their Uncracked Chillwind Horns| |O| |Z|Winterspring|
@@ -70,6 +71,7 @@ T The Final Piece |QID|5123| |N|Donova Snowden - (31.3, 45.2)| |Z|Winterspring|
 A Words of the High Chief |QID|5128| |N|Donova Snowden - (31.3, 45.2)| |Z|Winterspring|
 T Winterfall Activity |QID|8464| |N|Salfa - (27.7, 34.5)| |Z|Winterspring|
 R Travel to Moonglade |N|(35.8, 71.9)| |O| |C|!Druid| |Z|Moonglade|
+N Cast Teleport: Moonglade |O| |C|Druid| |Z|Moonglade|
 N Loganaar |N|(52.5, 40.6)| |C|Druid| |Z|Moonglade|
 t Train your class spells |N|Teleport to Moonglade - (52.5, 40.6)| |C|Druid| |Z|Moonglade|
 T Seed of Life |QID|7066| |N|the Keeper Remulos - (36.2, 41.8) (Mara Dungeon Quest)| |C|!Druid| |D|Mara| |Z|Moonglade|
@@ -89,6 +91,7 @@ T The Remains of Trey Lightforge |QID|5385| |N|Jessir Moonbow - (51.3, 82.0)| |Z
 T Words of the High Chief |QID|5128| |N|Kelek Skykeeper - (51.1, 81.8)| |Z|Felwood|
 T Silver Heart |QID|4084| |N|Eridan Bluewind - (51.4, 81.5)| |Z|Felwood|
 A Aquementas |QID|4005| |N|Eridan Bluewind - (51.4, 81.5)| |Z|Felwood|
+N Look for a Corrupted Songflower. Click it to cleanse it. Click the Cleansed Songflower to receive the hour-long [Songflower Serenade] buff |N|(63.3, 22.6)| |O| |Z|Felwood|
 N Their locations have been marked on your map. Don't go very far out of your way to find one |N|(63.3, 22.6)| |O| |Z|Felwood|
 F Fly to Azshara |N|Daelyshia - (34.4, 48.0) (ST Dungeon Quest)| |C|Hunter/Priest/Mage| |D|ST| |Z|Ashenvale|
 T The Green Drake |QID|8232| |N|Ogtinc - (42.4, 42.6) (ST Dungeon Quest)| |C|Hunter| |D|ST| |Z|Azshara|
@@ -105,6 +108,7 @@ A Pawn Captures Queen |QID|4507| |N|Alchemist Pestlezugg - (50.9, 27.0)| |Z|Tana
 C Are We There, Yeti? |QID|5163| |OIDX|2| |N|Use [Umi's Mechanical Yeti] on Sprinkle (51.1, 26.9)| |Z|Tanaris|
 A Super Sticky |QID|4504| |N|Tran'rek - (51.6, 26.8)| |Z|Tanaris|
 C [Eridan's Supplies] for the [Book of Aquor], Silvery Claws and Irontree Heart |QID|4005| |L|11169 1| |N|Open [Eridan's Supplies] for the [Book of Aquor], Silvery Claws and Irontree Heart| |O| |Z|Tanaris|
+N Use the [Book of Aquor] to summon Aquementas at the stone summoning circle within Lost Rigger Cove |N|(70.4, 49.9)| |O| |Z|Tanaris|
 C Aquementas |QID|4005| |OIDX|1| |N|Kill Aquementas (70.4, 49.9)| |Z|Tanaris|
 T The God Hakkar |QID|3528| |N|Yeh'kinya - (67.0, 22.4) (ST Dungeon Quest)| |D|ST| |Z|Tanaris|
 F Fly to Un'Goro Crater |N|Bera Stonehammer - (51.0, 29.3)| |Z|Tanaris|
@@ -115,18 +119,21 @@ A It's Dangerous to Go Alone |QID|3962| |N|Linken - (44.7, 8.1)| |Z|Un'Goro Crat
 C Are We There, Yeti? |QID|5163| |OIDX|3| |N|Use [Umi's Mechanical Yeti] on Quixxil (43.7, 9.4)| |Z|Un'Goro Crater|
 C Super Sticky |QID|4504| |OIDX|1| |N|Tar Beasts, Tar Creepers, Tar Lurkers and Tar Lords. Loot them for their Super Sticky Tar (51.6, 24.8)| |Z|Un'Goro Crater|
 N Make your way to the top of Fire Plume Ridge |O| |Z|Un'Goro Crater|
+N Equip the [Silver Totem of Aquementas] in your off-hand |O| |Z|Un'Goro Crater|
 N Use the [Silver Totem of Aquementas] on Blazerunner to dispel his aura. His aura will knock you back, and he can periodically recast it during combat. Ensure someone is always ready to use the [Silver Totem of Aquementas] |O| |Z|Un'Goro Crater|
 N Kill Blazerunner |N|(49.4, 49.3)| |Z|Un'Goro Crater|
 C It's Dangerous to Go Alone |QID|3962| |OIDX|1| |N|Use the [Silver Totem of Aquementas] on Blazerunner to dispel his aura (49.4, 49.3)| |Z|Un'Goro Crater|
 C It's Dangerous to Go Alone |QID|3962| |OIDX|2| |N|the Ornate Chest. Loot it for the Golden Flame (50.3, 50.0)| |Z|Un'Goro Crater|
 T A Better Ingredient |QID|9053| |N|Torwa Pathfinder - (71.6, 76.0) (ST Dungeon Quest)| |C|Druid| |D|ST| |Z|Un'Goro Crater|
 R Enter The Slithering Scar Hive |N|(49.9, 81.7)| |O| |Z|Un'Goro Crater|
+N Use the [Gorishi Queen Lure] at the Gorishi Silithid Crystal inside of The Slithering Scar. You will have to defeat 3 waves of attacking Gorishi. If you kill the final mob of each wave while OUTSIDE of the main room, you will be able to drink/eat between waves |O| |Z|Un'Goro Crater|
 N Kill the Gorishi Hive Queen. Loot her for her Brain |N|(43.5, 81.1)| |Z|Un'Goro Crater|
 C Pawn Captures Queen |QID|4507| |OIDX|1| |N|Defeat the 3 waves of Gorishi attackers. Use the outside room as a reset point to eat/drink between waves if needed (43.5, 81.1)| |Z|Un'Goro Crater|
 N Use the [Empty Pure Sample Jars] on their corpses |N|(28.4, 60.8) (BRD Dungeon Quest)| |D|BRD| |Z|Un'Goro Crater|
 C A Little Slime Goes a Long Way |QID|4513| |OIDX|1| |N|Muculent Oozes and Glutinous Oozes (28.4, 60.8) (BRD Dungeon Quest)| |D|BRD| |Z|Un'Goro Crater|
 T Wasteland |QID|1124| |N|Layo Starstrike - (81.9, 18.9)| |Z|Silithus|
 A The Spirits of Southwind |QID|1125| |N|Layo Starstrike - (81.9, 18.9)| |Z|Silithus|
+G Skip to the part 2 of the guide once you have enough xp to ding 60 |O| |Z|Silithus|
 A Desert Recipe |QID|8307| |N|Calandrath - (51.9, 39.2)| |Z|Silithus|
 A Deadly Desert Venom |QID|8277| |N|Beetix Ficklespragg upstairs - (51.8, 38.6)| |Z|Silithus|
 A Wanted - Deathclasp, Terror of the Sands |QID|8283| |N|the Wanted Poster: Deathclasp - (51.4, 38.3)| |Z|Silithus|

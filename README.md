@@ -8,7 +8,8 @@ A leveling guide addon for Turtle WoW (1.12 client) based on [Joana's classic sp
 - **RestedXP Speedrun routes** - Full 1-60 RXP speedrun-optimized routes for Alliance and Horde (excluded custom quests for now)
 - **Race-based starting zones** - automatically selects your race's starting path
 - **Shared optimized path** - all races merge into the same route after level 12
-- **Dungeon Select Support (RXP Guides Only)** - Toggle dungeon steps and their prerequisite setups on or off directly from the options panel (supports RFC, WC, DM, SFK, BFD, Stockades, Gnomer, RFK, SM, RFD, Ulda, ZF, Mara, ST, BRD)
+- **Dungeon Select Support (RXP & RXP Hardcore Guides Only)** - Toggle dungeon steps and their prerequisite setups on or off directly from the options panel (supports RFC, WC, DM, SFK, BFD, Stockades, Gnomer, RFK, SM, RFD, Ulda, ZF, Mara, ST, BRD)
+- **Play Style & AH Filters (RXP & RXP Hardcore Guides Only)** - Customize your leveling path using the new Filters panel, toggling Solo/Group mode and Auction House steps. Switching to RestedXP automatically defaults to Group/AH enabled, while switching to RXP Hardcore defaults to Solo/AH disabled (configurable at any time).
 - **Branch system** - temporarily switch to any zone guide, then return to the optimized path
 - **Turtle WoW custom zones** - guides for all custom content available via branching
 - **Smart quest tracking** - automatically detects completed objectives and advances

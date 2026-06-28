@@ -147,11 +147,26 @@ local function StepParse(guide)
 		return hasMatches
 	end
 
+	local function matchPlayStyleFilter(playstyle)
+		if not playstyle then return true end
+		local setting = TurtleGuide.db and TurtleGuide.db.char and TurtleGuide.db.char.PlayStyle or "SOLO"
+		return string.upper(playstyle) == string.upper(setting)
+	end
+
+	local function matchAHFilter(ah)
+		if not ah then return true end
+		return TurtleGuide.db and TurtleGuide.db.char and not not TurtleGuide.db.char.UseAH
+	end
+
 	for _, text in pairs(guidet) do
 		local _, _, class = string.find(text, "|C|([^|]+)|")
 		local _, _, race = string.find(text, "|R|([^|]+)|")
 		local _, _, dungeon = string.find(text, "|D|([^|]+)|")
-		if text ~= "" and matchFilter(class, myclass) and matchFilter(race, myrace) and matchDungeonFilter(dungeon) then
+		local _, _, playstyle = string.find(text, "|P|([^|]+)|")
+		local hasAH = not not string.find(text, "|AH|", 1, true)
+		if text ~= "" and matchFilter(class, myclass) and matchFilter(race, myrace)
+			and matchDungeonFilter(dungeon) and matchPlayStyleFilter(playstyle)
+			and matchAHFilter(hasAH) then
 			local _, _, action, quest, tag = string.find(text, "^(%a) ([^|]*)(.*)")
 			if action and actiontypes[action] then
 				quest = TurtleGuide.trim(quest)

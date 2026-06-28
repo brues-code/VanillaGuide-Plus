@@ -50,6 +50,7 @@ N This item has a cooldown and only works on one corpse at a time, even if they'
 C Mountain Giant Muisek |QID|3127| |OIDX|1| |N|Use [Zorbin's Ultra-Shrinker] on Land Walkers and Cliff Giants. Kill them and loot their Residue (39.5, 22.0)| |Z|Feralas|
 C Zapped Giants |QID|7003| |OIDX|1| |N|Use [Zorbin's Ultra-Shrinker] on Land Walkers and Cliff Giants. Kill them and loot their Residue (39.5, 22.0)| |Z|Feralas|
 T Zapped Giants |QID|7003| |N|Zorbin - (44.8, 43.4)| |Z|Feralas|
+N Cast [Teleport: Moonglade] |O| |C|Druid| |Z|Feralas|
 t Train your class spells |N|Loganaar - (52.5, 40.6)| |C|Druid| |Z|Moonglade|
 H Gadgetzan |N|Hearth to Gadgetzan| |Z|Moonglade|
 B Sell your junk, then restock on food and water if necessary |N|Dirge - (52.6, 28.1)| |C|!Rogue/!Warrior| |Z|Tanaris|

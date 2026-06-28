@@ -31,13 +31,13 @@ N Bailey Stonemantle |N|(35.9, 60.2)| |Z|Ironforge|
 N 9 [Blue Pearls] (If you have them) |N|(35.9, 60.2)| |Z|Ironforge|
 N [Buzzard Wings] (If you have any) |N|(35.9, 60.2)| |Z|Ironforge|
 N [Fizzle Brassbolts' Letter] |N|(35.9, 60.2)| |Z|Ironforge|
-N Buy the following from the Auction House. This step is optional and will allow you to complete a few extra quests if you have the items |N|(23.8, 71.8)| |O| |Z|Ironforge|
-N [Blue Pearl] |N|(23.8, 71.8)| |O| |Z|Ironforge|
-N [Frost Oil] |N|(23.8, 71.8)| |O| |Z|Ironforge|
-N [Gyrochronatom] (Don't buy this unless you have a [Frost Oil]) |N|(23.8, 71.8)| |O| |Z|Ironforge|
-N [Patterned Bronze Bracers] (Don't buy this unless you have a [Gyrochronatom] and [Frost Oil]) |N|(23.8, 71.8)| |O| |Z|Ironforge|
-N [Healing Potion] and [Lesser Invisibility Potion] (Don't buy this unless you have a [Gyrochronatom] and [Frost Oil]) |N|(23.8, 71.8)| |O| |Z|Ironforge|
-B an Ironforge Auctioneer |L|4611 9| |N|an Ironforge Auctioneer - (23.8, 71.8)| |O| |Z|Ironforge|
+N Buy the following from the Auction House. This step is optional and will allow you to complete a few extra quests if you have the items |N|(23.8, 71.8)| |O| |AH| |Z|Ironforge|
+N [Blue Pearl] |N|(23.8, 71.8)| |O| |AH| |Z|Ironforge|
+N [Frost Oil] |N|(23.8, 71.8)| |O| |AH| |Z|Ironforge|
+N [Gyrochronatom] (Don't buy this unless you have a [Frost Oil]) |N|(23.8, 71.8)| |O| |AH| |Z|Ironforge|
+N [Patterned Bronze Bracers] (Don't buy this unless you have a [Gyrochronatom] and [Frost Oil]) |N|(23.8, 71.8)| |O| |AH| |Z|Ironforge|
+N [Healing Potion] and [Lesser Invisibility Potion] (Don't buy this unless you have a [Gyrochronatom] and [Frost Oil]) |N|(23.8, 71.8)| |O| |AH| |Z|Ironforge|
+B an Ironforge Auctioneer |L|4611 9| |N|an Ironforge Auctioneer - (23.8, 71.8)| |O| |AH| |Z|Ironforge|
 N If you have used the website unstuck to travel to Ironforge from Wetlands you will not have the Thelsamar flight path. In that case run through Dun Morogh to Loch Modan instead |N|(55.5, 47.7)| |Z|Ironforge|
 F Fly to Loch Modan |N|Gryth Thurden - (55.5, 47.7)| |Z|Ironforge|
 R Innkeeper Hearthstove |N|(35.5, 48.4)| |Z|Loch Modan|
@@ -125,6 +125,7 @@ T Tremors of the Earth |QID|732| |N|Garek - (61.9, 54.3)| |Z|Badlands|
 R Travel to Searing Gorge |N|(72.3, 55.5)| |O| |Z|Searing Gorge|
 N Once you get to Searing Gorge, die and respawn at Thorium Point |N|(63.4, 60.8)| |O| |Z|Searing Gorge|
 f Get the Thorium Point flight path |N|Lanie Reed - (37.9, 30.9)| |Z|Searing Gorge|
+N Cast Teleport: Moonglade |O| |C|Druid| |Z|Searing Gorge|
 N Loganaar |N|(52.5, 40.6)| |C|Druid| |Z|Searing Gorge|
 R Travel to Moonglade |N|(52.5, 40.6)| |C|Druid| |Z|Moonglade|
 t Train your class spells |N|Teleport to Moonglade - (52.5, 40.6)| |C|Druid| |Z|Moonglade|

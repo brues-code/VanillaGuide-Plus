@@ -99,6 +99,7 @@ R Enter Frostmane Hold |N|(24.5, 50.8)| |O| |Z|Dun Morogh|
 C Frostmane Hold |QID|287| |OIDX|2| |N|Drop down to this location to explore Frostmane Hold. If there are mobs below, clear around normally and do NOT drop down Fully explore Frostmane Hold| |Z|Dun Morogh|
 C Frostmane Hold |QID|287| |OIDX|1| |N|Frostmane Headhunters Kill Frostmane Headhunter (x5)| |Z|Dun Morogh|
 C Operation Recombobulation |QID|412| |OIDX|2| |N|Leper Gnomes. Loot them for their Gears and Cogs Collect Gyromechanic Gear (x8)| |Z|Dun Morogh|
+G Grind until you are 1450xp away from level 10 |Z|Dun Morogh|
 N Die and respawn at Kharanos |O| |Z|Dun Morogh|
 T Frostmane Hold |QID|287| |N|Senir Whitebeard - (46.7, 53.8)| |Z|Dun Morogh|
 A The Reports |QID|291| |N|Senir Whitebeard - (46.7, 53.8)| |Z|Dun Morogh|

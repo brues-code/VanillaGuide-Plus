@@ -4,11 +4,11 @@ return [[
 
 N 28-30 Thousand Needles |N|Converted from RestedXP guide|
 
+B Buy a [Merciless Axe] from him if it's up and you don't have it yet |N|Delgo - (54.1, 57.2)| |C|Shaman/Warrior| |AH| |Z|Thunder Bluff|
+N Alternatively you can check the Auction House if something better is available |N|(54.1, 57.2)| |C|Shaman/Warrior| |AH| |Z|Thunder Bluff|
 B Buy a [Merciless Axe] from him if it's up and you don't have it yet |N|Delgo - (54.1, 57.2)| |C|Shaman/Warrior| |Z|Thunder Bluff|
-N Alternatively you can check the Auction House if something better is available |N|(54.1, 57.2)| |C|Shaman/Warrior| |Z|Thunder Bluff|
-B Buy a [Merciless Axe] from him if it's up and you don't have it yet |N|Delgo - (54.1, 57.2)| |C|Shaman/Warrior| |Z|Thunder Bluff|
-N Alternatively you can check the Auction House if something better is available |N|(53.0, 56.6)| |C|Rogue| |Z|Thunder Bluff|
-B Kard. Buy a [Main Gauche] from him for your off-hand |L|2526 1| |N|Kard. Buy a [Main Gauche] from him for your off-hand - (53.0, 56.6)| |C|Rogue| |Z|Thunder Bluff|
+N Alternatively you can check the Auction House if something better is available |N|(53.0, 56.6)| |C|Rogue| |AH| |Z|Thunder Bluff|
+B Kard. Buy a [Main Gauche] from him for your off-hand |L|2526 1| |N|Kard. Buy a [Main Gauche] from him for your off-hand - (53.0, 56.6)| |C|Rogue| |AH| |Z|Thunder Bluff|
 T The Sacred Flame |QID|1195| |N|Zangen - (54.9, 51.6)| |Z|Thunder Bluff|
 A The Sacred Flame |QID|1196| |N|Zangen - (54.9, 51.6)| |Z|Thunder Bluff|
 t Train your class spells |N|Kym - (76.8, 31.8)| |C|Druid| |Z|Thunder Bluff|
@@ -152,6 +152,7 @@ N Be careful as Scalding Elementals cast [Scald], instantly dealing 150 fire dam
 C Sacred Fire |QID|5062| |OIDX|1| |N|the Incendia Agave Plants on the ground and underwater (36.0, 37.4)| |Z|Thousand Needles|
 H Thunder Bluff |N|Hearth to Thunder Bluff| |O| |Z|Thousand Needles|
 t Train Teleport: Thunder Bluff |O| |C|Mage| |Z|Thousand Needles|
+t Train Teleport: Thunder Bluff |N|Cast [Teleport: Thunder Bluff]| |O| |C|Mage| |Z|Thousand Needles|
 t Train your class spells |N|Shymm - (22.7, 14.5)| |C|Mage| |Z|Thunder Bluff|
 B Sell your junk, then restock on food and water if necessary |N|Innkeeper Pala - (45.8, 64.7)| |C|!Rogue/!Warrior| |Z|Thunder Bluff|
 B Sell your junk, then restock on food if necessary |N|Innkeeper Pala - (45.8, 64.7)| |C|Rogue/Warrior| |Z|Thunder Bluff|
@@ -261,6 +262,7 @@ T The Affray |QID|1719| |N|Klannoc - (68.6, 49.2)| |C|Warrior| |Z|The Barrens|
 A The Windwatcher |QID|1791| |N|Klannoc - (68.6, 49.2)| |C|Warrior| |Z|The Barrens|
 R Travel back to Ratchet |N|(62.8, 37.9)| |O| |C|Warrior| |Z|The Barrens|
 F Fly to Orgrimmar |N|Bragok - (63.1, 37.2)| |C|!Mage| |Z|The Barrens|
+N Cast [Teleport: Orgrimmar] |C|Mage| |Z|The Barrens|
 t Train your class spells |N|Pephredo - (38.4, 85.5)| |C|Mage| |Z|Orgrimmar|
 N Buy two or more [Rune of Teleportation] from him |N|(45.4, 56.6)| |C|Mage| |Z|Orgrimmar|
 B Horthus |L|17031 2| |N|Horthus - (45.4, 56.6)| |C|Mage| |Z|Orgrimmar|
@@ -271,7 +273,7 @@ N He patrols in the Cleft of Shadows |N|(44.7, 52.0)| |Z|Orgrimmar|
 A Alliance Relations |QID|1431| |N|Craven - (44.7, 52.0)| |Z|Orgrimmar|
 t Train your class spells |N|Mirket - (48.6, 47.0)| |C|Warlock| |Z|Orgrimmar|
 B Buy any pet upgrades you can afford |N|Kurgul - (47.5, 46.7)| |C|Warlock| |Z|Orgrimmar|
-B Katis. Buy a [Pestilent Wand] from her |L|5347 1| |N|Katis. Buy a [Pestilent Wand] from her - (44.2, 48.5)| |C|Priest/Warlock| |Z|Orgrimmar|
+B Katis. Buy a [Pestilent Wand] from her |L|5347 1| |N|Katis. Buy a [Pestilent Wand] from her - (44.2, 48.5)| |C|Priest/Warlock| |AH| |Z|Orgrimmar|
 N Alternatively you can check the Auction House if something better is available |N|(44.2, 48.5)| |C|Priest/Warlock| |Z|Orgrimmar|
 B Katis. Buy a [Pestilent Wand] from her |L|5347 1| |N|Katis. Buy a [Pestilent Wand] from her - (44.2, 48.5)| |C|Priest/Warlock| |Z|Orgrimmar|
 T The Swarm Grows |QID|1145| |N|Belgrom - (75.0, 34.1)| |Z|Orgrimmar|
@@ -316,6 +318,7 @@ H Freewind Post |N|Hearth to Freewind Post (GNOMER Dungeon Quest)| |C|!Mage| |D|
 F Fly to Orgrimmar |N|Nyse - (45.1, 49.1) (!RFK Dungeon Quest)| |C|!Mage| |D|!RFK| |Z|Thousand Needles|
 F Fly to Orgrimmar |N|Nyse - (45.1, 49.1) (!GNOMER Dungeon Quest)| |C|!Mage| |D|!GNOMER| |Z|Thousand Needles|
 F Fly to Orgrimmar |N|Bragok - (63.1, 37.2) (GNOMER Dungeon Quest)| |C|!Mage| |D|GNOMER| |Z|The Barrens|
+N Cast [Teleport: Orgrimmar] |N|(GNOMER Dungeon Quest)| |C|Mage| |D|GNOMER| |Z|The Barrens|
 T Rig Wars |QID|2841| |N|Nogg - (76.0, 25.4) (GNOMER Dungeon Quest)| |D|GNOMER| |Z|Orgrimmar|
 
 ]]

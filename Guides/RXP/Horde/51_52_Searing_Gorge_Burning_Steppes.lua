@@ -21,13 +21,13 @@ A The Flawless Flame |QID|3442| |N|Velarok - (39.0, 39.0)| |Z|Searing Gorge|
 A Curse These Fat Fingers |QID|7723| |N|Hansel - (38.6, 27.8)| |Z|Searing Gorge|
 A Fiery Menace! |QID|7724| |N|Hansel - (38.6, 27.8)| |Z|Searing Gorge|
 A Incendosaurs? Whateverosaur is More Like It |QID|7727| |N|Hansel - (38.6, 27.8)| |Z|Searing Gorge|
-A STOLEN: Smithing Tuyere and Lookout's Spyglass |QID|7728| |N|on the Wanted/Missing/Lost & Found board - (37.6, 26.5)| |Z|Searing Gorge|
-A JOB OPPORTUNITY: Culling the Competition |QID|7729| |N|on the Wanted/Missing/Lost & Found board - (37.6, 26.5)| |Z|Searing Gorge|
-A WANTED: Overseer Maltorius |QID|7701| |N|on the Wanted/Missing/Lost & Found board - (37.6, 26.5)| |Z|Searing Gorge|
-A STOLEN: Smithing Tuyere and Lookout's Spyglass |QID|7728| |N|on the Wanted/Missing/Lost & Found board - (37.6, 26.5)| |Z|Searing Gorge|
-A JOB OPPORTUNITY: Culling the Competition |QID|7729| |N|on the Wanted/Missing/Lost & Found board - (37.6, 26.5)| |Z|Searing Gorge|
-A What the Flux? |QID|7722| |N|Burninate - (38.6, 27.8)| |C|!Shaman/!Druid| |Z|Searing Gorge|
-A What the Flux? |QID|7722| |N|Burninate - (38.6, 27.8)| |Z|Searing Gorge|
+A STOLEN: Smithing Tuyere and Lookout's Spyglass |QID|7728| |N|[Group] on the Wanted/Missing/Lost & Found board - (37.6, 26.5)| |P|GROUP| |Z|Searing Gorge|
+A JOB OPPORTUNITY: Culling the Competition |QID|7729| |N|[Group] on the Wanted/Missing/Lost & Found board - (37.6, 26.5)| |P|GROUP| |Z|Searing Gorge|
+A WANTED: Overseer Maltorius |QID|7701| |N|[Group] on the Wanted/Missing/Lost & Found board - (37.6, 26.5)| |P|GROUP| |Z|Searing Gorge|
+A STOLEN: Smithing Tuyere and Lookout's Spyglass |QID|7728| |N|on the Wanted/Missing/Lost & Found board - (37.6, 26.5)| |P|SOLO| |Z|Searing Gorge|
+A JOB OPPORTUNITY: Culling the Competition |QID|7729| |N|on the Wanted/Missing/Lost & Found board - (37.6, 26.5)| |P|SOLO| |Z|Searing Gorge|
+A What the Flux? |QID|7722| |N|Burninate - (38.6, 27.8)| |C|!Shaman/!Druid| |P|SOLO| |Z|Searing Gorge|
+A What the Flux? |QID|7722| |N|[Group] Burninate - (38.6, 27.8)| |P|GROUP| |Z|Searing Gorge|
 f Get the Searing Gorge Flight Path |N|Grisha - (34.8, 30.9)| |Z|Searing Gorge|
 N Kill any Magma Elementals that you see. They can drop both quest items |O| |Z|Searing Gorge|
 C The Flawless Flame |QID|3442| |OIDX|1| |N|Kill War Golems and Elementals. Loot them for their Heart of Flame and Golem Oil| |O| |Z|Searing Gorge|
@@ -82,9 +82,9 @@ T Curse These Fat Fingers |QID|7723| |N|Hansel and Scrange - (38.6, 27.8)| |Z|Se
 T Fiery Menace! |QID|7724| |N|Hansel and Scrange - (38.6, 27.8)| |Z|Searing Gorge|
 T Incendosaurs? Whateverosaur is More Like It |QID|7727| |N|Hansel and Scrange - (38.6, 27.8)| |Z|Searing Gorge|
 T STOLEN: Smithing Tuyere and Lookout's Spyglass |QID|7728| |N|Hansel and Scrange - (38.6, 27.8)| |Z|Searing Gorge|
-T WANTED: Overseer Maltorius |QID|7701| |N|Lolo - (37.6, 26.6)| |Z|Searing Gorge|
-T What the Flux? |QID|7722| |N|Burninate - (38.8, 28.5)| |C|!Shaman/!Druid| |Z|Searing Gorge|
-T What the Flux? |QID|7722| |N|Burninate - (38.8, 28.5)| |Z|Searing Gorge|
+T WANTED: Overseer Maltorius |QID|7701| |N|[Group] Lolo - (37.6, 26.6)| |P|GROUP| |Z|Searing Gorge|
+T What the Flux? |QID|7722| |N|Burninate - (38.8, 28.5)| |C|!Shaman/!Druid| |P|SOLO| |Z|Searing Gorge|
+T What the Flux? |QID|7722| |N|[Group] Burninate - (38.8, 28.5)| |P|GROUP| |Z|Searing Gorge|
 T JOB OPPORTUNITY: Culling the Competition |QID|7729| |N|Scrange - (39.0, 27.5)| |Z|Searing Gorge|
 f Get the Burning Steppes Flight Path |N|Vahgruk - (65.7, 24.2)| |Z|Burning Steppes|
 A Broodling Essence |QID|4726| |N|Tinkee and Maxwort - (65.2, 24.0)| |Z|Burning Steppes|
@@ -102,9 +102,11 @@ C Broodling Essence |QID|4726| |OIDX|1| |N|Use the [Draco-Incarcinatrix 900] on 
 T Broodling Essence |QID|4726| |N|Tinkee and Maxwort - (65.2, 24.0)| |Z|Burning Steppes|
 A Felnok Steelspring |QID|4808| |N|Tinkee and Maxwort - (65.2, 24.0)| |Z|Burning Steppes|
 T Tablet of the Seven |QID|4296| |N|Tinkee and Maxwort - (65.2, 24.0)| |Z|Burning Steppes|
+N Cast [Teleport: Moonglade] |O| |C|Druid| |Z|Burning Steppes|
 t Train your class spells |N|Loganaar - (52.5, 40.6)| |C|Druid| |Z|Moonglade|
 H Crossroads |N|Hearth to Crossroads| |O| |C|!Mage| |Z|Moonglade|
 F Fly to Orgrimmar |N|Devrak - (51.5, 30.3)| |C|!Mage| |Z|The Barrens|
+N Cast [Teleport: Orgrimmar] |C|Mage| |Z|The Barrens|
 
 ]]
 end)

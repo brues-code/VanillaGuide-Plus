@@ -23,6 +23,7 @@ A Morbent Fel |QID|55| |N|Sven Yorgen - (7.8, 34.1)| |Z|Duskwood|
 N Mor'Ladim hits very hard but moves quite slow. Try to kite him around any large trees if required |N|(19.6, 37.3)| |Z|Duskwood|
 C Mor'Ladim |QID|228| |OIDX|1| |N|Mor'Ladim. Loot him for his Skull (19.6, 37.3)| |Z|Duskwood|
 N Clear your way to the 2nd floor of the house |O| |Z|Duskwood|
+N Equip [Morbent's Bane] in your off-hand |O| |Z|Duskwood|
 N Use [Morbent's Bane] on Morbent Fel to weaken him |O| |Z|Duskwood|
 N Remember to equip your weapon/off-hand slot after weakening him |O| |Z|Duskwood|
 T Morbent Fel |QID|55| |N|Sven Yorgen - (7.8, 34.1)| |Z|Duskwood|
@@ -85,6 +86,7 @@ C Bloodscalp Ears |QID|189| |OIDX|1| |N|Bloodscalp Trolls. Loot them for their E
 C Bloodscalp Trolls. Loot them for their Ears |QID|4449| |L|4306 15| |N|Bloodscalp Trolls. Loot them for their Ears - (25.5, 9.4)| |Z|Stranglethorn Vale|
 R the Haunted Island |N|(21.1, 22.8)| |O| |Z|Stranglethorn Vale|
 C Water Elementals |QID|601| |OIDX|1| |N|Lesser Water Elementals. Loot them for their Bracers (21.1, 22.8)| |Z|Stranglethorn Vale|
+N Use your [Elixir of Water Breathing] if you have one |O| |Z|Stranglethorn Vale|
 C Kurzen's Mystery |QID|207| |OIDX|2| |N|Gri'lek the Wanderer underwater. Loot it for The Second Troll Legend (24.8, 22.9)| |Z|Stranglethorn Vale|
 N Die and respawn at the Spirit Healer |O| |Z|Stranglethorn Vale|
 R the Rebel Camp |N|(38.6, 4.4)| |O| |Z|Stranglethorn Vale|
@@ -106,6 +108,7 @@ A Raptor Mastery |QID|196| |N|Hemet Nesingwary, Ajeck Rouack and Sir S. J. Erlga
 T Tiger Mastery |QID|188| |N|Hemet Nesingwary, Ajeck Rouack and Sir S. J. Erlgadin - (35.7, 10.8)| |Z|Stranglethorn Vale|
 T Panther Mastery |QID|192| |N|(35.6, 10.6)| |Z|Stranglethorn Vale|
 A Panther Mastery |QID|193| |N|(35.6, 10.6)| |Z|Stranglethorn Vale|
+N Cast Teleport: Moonglade |O| |C|Druid| |Z|Stranglethorn Vale|
 N Loganaar |N|(52.5, 40.6)| |C|Druid| |Z|Stranglethorn Vale|
 R Travel to Moonglade |N|(52.5, 40.6)| |C|Druid| |Z|Moonglade|
 t Train your class spells |N|Teleport to Moonglade - (52.5, 40.6)| |C|Druid| |Z|Moonglade|
@@ -121,6 +124,7 @@ N Click here to watch a video about splitpulling (useful to learn) |O| |Z|Strang
 T Water Elementals |QID|601| |N|Baron Revilgaz - (27.2, 76.9)| |Z|Stranglethorn Vale|
 A Magical Analysis |QID|602| |N|Baron Revilgaz - (27.2, 76.9)| |Z|Stranglethorn Vale|
 T Some Assembly Required |QID|577| |N|Drizzlik - (28.3, 77.6)| |Z|Stranglethorn Vale|
+G Make sure you are level 38 before starting the next segment |Z|Stranglethorn Vale|
 F Fly to Stormwind |N|Gyll - (27.5, 77.8)| |C|!Mage| |Z|Stranglethorn Vale|
 N Buy 400 [Wicked Throwing Daggers] |N|(58.4, 61.7)| |C|Warrior| |Z|Stormwind City|
 B Thurman Mullby |L|15327 400| |N|Thurman Mullby - (58.4, 61.7)| |C|Warrior| |Z|Stormwind City|

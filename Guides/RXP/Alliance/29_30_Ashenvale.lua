@@ -90,11 +90,13 @@ T An Aggressive Defense |QID|1025| |N|Raene Wolfrunner - (36.6, 49.6)| |Z|Ashenv
 T Raene's Cleansing |QID|1029| |N|Raene Wolfrunner - (36.6, 49.6)| |Z|Ashenvale|
 A Raene's Cleansing |QID|1030| |N|Raene Wolfrunner - (36.6, 49.6)| |Z|Ashenvale|
 R Travel toward Krolg |N|(51.4, 75.0)| |Z|Ashenvale|
+N Use [Dartol's Rod of Transformation] to turn into a Furbolg |O| |Z|Ashenvale|
 N You must use [Dartol's Rod of Transformation] to turn into a Furbolg before talking to Krolg |N|(50.9, 75.1)| |Z|Ashenvale|
 T Raene's Cleansing |QID|1030| |N|Krolg - (50.9, 75.1)| |Z|Ashenvale|
 A Raene's Cleansing |QID|1045| |N|Krolg - (50.9, 75.1)| |Z|Ashenvale|
 C Raene's Cleansing |QID|1045| |OIDX|2| |N|Bloodtooth Guards and Ran Bloodtooth. Loot him for his Skull (54.7, 79.6)| |Z|Ashenvale|
 R Travel toward Krolg |N|(51.4, 75.0)| |O| |Z|Ashenvale|
+N Use [Dartol's Rod of Transformation] to turn into a Furbolg |O| |Z|Ashenvale|
 N You must use [Dartol's Rod of Transformation] to turn into a Furbolg before talking to Krolg |N|(50.8, 75.1)| |Z|Ashenvale|
 T Raene's Cleansing |QID|1045| |N|Krolg - (50.8, 75.1)| |Z|Ashenvale|
 A Raene's Cleansing |QID|1046| |N|Krolg - (50.8, 75.1)| |Z|Ashenvale|

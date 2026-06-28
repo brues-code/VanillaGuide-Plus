@@ -55,6 +55,7 @@ T The Temple of Atal'Hakkar |QID|1445| |N|Fel'zerul - (47.9, 54.8) (ST Dungeon Q
 N It is strongly advised you choose the [Diamond Flask] as your reward. Although the other rewards are also very good, you will not ever replace the [Diamond Flask] |N|(34.3, 66.1) (ST Dungeon Quest)| |C|Warrior| |D|ST| |Z|Swamp of Sorrows|
 T Voodoo Feathers |QID|8425| |N|the Fallen Hero of the Horde - (34.3, 66.1) (ST Dungeon Quest)| |C|Warrior| |D|ST| |Z|Swamp of Sorrows|
 H Camp Taurajo |N|Hearth to Camp Taurajo (ST Dungeon Quest)| |C|!Mage| |D|ST| |Z|Swamp of Sorrows|
+N Cast [Teleport: Thunder Bluff] |N|(ST Dungeon Quest)| |C|Mage| |D|ST| |Z|Swamp of Sorrows|
 F Fly to Un'Goro Crater |N|Tal - (47.0, 49.8) (ST Dungeon Quest)| |C|Mage| |D|ST| |Z|Thunder Bluff|
 F Fly to Un'Goro Crater |N|Omusa - (44.5, 59.2) (ST Dungeon Quest)| |D|ST| |Z|The Barrens|
 T Zapper Fuel |QID|4146| |N|Larion - (45.5, 8.7) (ST Dungeon Quest)| |D|ST| |Z|Un'Goro Crater|
@@ -91,6 +92,7 @@ N Turn in your [Corrupted Soul Shards] to receive [Cenarion Plant Salves] |N|(46
 N If you don't have 6 get them from the Furbolgs to the south |N|(46.6, 83.0)| |Z|Felwood|
 C Maybess |QID|5887| |L|11515 6| |N|Maybess - (46.6, 83.0)| |Z|Felwood|
 T Salve via Hunting |QID|5887| |N|Maybess - (46.6, 83.0)| |Z|Felwood|
+N Use [Winna's Kitten Carrier] at the corrupted moonwell at the Ruins of Constellas |N|(32.4, 66.6)| |Z|Felwood|
 C Dousing the Flames of Protection |QID|5165| |OIDX|1| |N|Click the four Braziers on the ground (36.3, 56.3)| |O| |Z|Felwood|
 N Use the [Blood Red Key] to start the quest |N|(36.3, 56.3)| |Z|Felwood|
 N This will begin an escort quest. Start this escort even if you still need to Extinguish Braziers |N|(36.3, 56.3)| |Z|Felwood|
@@ -149,6 +151,7 @@ T Wild Guardians |QID|4521| |N|Trull - (34.7, 52.8)| |Z|Felwood|
 A Wild Guardians |QID|4741| |N|Trull - (34.7, 52.8)| |Z|Felwood|
 F Fly to Tanaris |N|Brakkar - (34.4, 54.0)| |O| |Z|Felwood|
 R Travel to Tanaris |N|(54.0, 28.6)| |O| |Z|Tanaris|
+N Use the [Videre Elixir] at the Tanaris graveyard |N|(54.0, 28.6)| |O| |Z|Tanaris|
 N You must be dead in order to speak to Gaeriyan |N|(53.9, 23.3)| |Z|Tanaris|
 T Meet at the Grave |QID|3912| |N|Gaeriyan - (53.9, 23.3)| |Z|Tanaris|
 A A Grave Situation |QID|3913| |N|Gaeriyan - (53.9, 23.3)| |Z|Tanaris|
@@ -159,6 +162,7 @@ T Linken's Sword |QID|3914| |N|Linken - (44.7, 8.1)| |Z|Un'Goro Crater|
 A A Gnome's Assistance |QID|3941| |N|Linken - (44.7, 8.1)| |Z|Un'Goro Crater|
 T A Gnome's Assistance |QID|3941| |N|J.D. Collie - (41.9, 2.7)| |Z|Un'Goro Crater|
 A Linken's Memory |QID|3942| |N|J.D. Collie - (41.9, 2.7)| |Z|Un'Goro Crater|
+N Cast [Teleport: Moonglade] |O| |C|Druid| |Z|Un'Goro Crater|
 t Train your class spells |N|Loganaar - (52.5, 40.6)| |C|Druid| |Z|Moonglade|
 H Winterspring |N|Hearth to Winterspring| |Z|Moonglade|
 B Sell your junk, then restock on food and water if necessary |N|Vizzie - (61.4, 38.8)| |C|!Rogue/!Warrior| |Z|Winterspring|
@@ -219,6 +223,7 @@ T Winterfall Runners |QID|5087| |N|Donova - (31.3, 45.2)| |Z|Winterspring|
 A High Chief Winterfall |QID|5121| |N|Donova - (31.3, 45.2)| |Z|Winterspring|
 N Die and respawn at the Spirit Healer in Everlook |O| |C|!Mage| |Z|Winterspring|
 F Fly to Felwood |N|Yugrek` - (60.5, 36.3)| |C|!Mage| |Z|Winterspring|
+N Cast [Teleport: Orgrimmar] |O| |C|Mage| |Z|Winterspring|
 F Fly to Splintertree Post |N|Doras - (45.1, 63.9)| |C|Mage| |Z|Orgrimmar|
 R Travel to Ashenvale |N|(55.8, 28.1)| |O| |C|Mage| |Z|Ashenvale|
 T A Final Blow |QID|5242| |N|Greta - (51.2, 82.2)| |Z|Felwood|
@@ -238,6 +243,7 @@ B Stock up on [Flash Powder] and [Poisons] |N|Rekkul - (42.1, 49.5)| |C|Rogue| |
 t Train your class spells |N|Ormak - (66.0, 18.5)| |C|Hunter| |Z|Orgrimmar|
 R Karus |N|(49.6, 69.1)| |Z|Orgrimmar|
 N Alternatively, [Light Feathers] will also work for [Slow Fall] |N|(49.6, 69.1)| |C|Mage| |Z|Orgrimmar|
+N Cast [Teleport: Undercity] |C|Mage| |Z|Orgrimmar|
 t Train your class spells |N|Anastasia - (85.2, 10.1)| |C|Mage| |Z|Undercity|
 N Buy at least two [Rune of Teleportation] |N|(82.8, 15.8)| |C|Mage| |Z|Undercity|
 B Hannah Akeley |L|17031 2| |N|Hannah Akeley - (82.8, 15.8)| |C|Mage| |Z|Undercity|

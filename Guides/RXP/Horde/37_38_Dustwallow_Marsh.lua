@@ -89,6 +89,7 @@ A Extinguishing the Idol |QID|3525| |N|Belnistrasz (RFD Dungeon Quest)| |D|RFD| 
 C Extinguishing the Idol |QID|3525| |OIDX|1| |N|Follow and protect Belnistrasz during his ritual (RFD Dungeon Quest)| |D|RFD| |Z|Tirisfal Glades|
 T Extinguishing the Idol |QID|3525| |N|Click Belnistrasz's Brazier (RFD Dungeon Quest)| |D|RFD| |Z|Tirisfal Glades|
 C Bring the End |QID|3341| |OIDX|1| |N|Kill Amnennar the Coldbringer. Loot him for his Skull (RFD Dungeon Quest)| |D|RFD| |Z|Tirisfal Glades|
+N Cast [Teleport: Moonglade] |O| |C|Druid| |Z|Tirisfal Glades|
 t Train your class spells |N|Loganaar - (52.5, 40.6)| |C|Druid| |Z|Moonglade|
 H Orgrimmar |N|Hearth to Orgrimmar| |C|Druid| |Z|Moonglade|
 H Orgrimmar |N|Hearth to Orgrimmar| |C|!Mage/!Druid| |Z|Moonglade|
@@ -107,6 +108,7 @@ N Buy [Jagged Arrows] from him |N|(48.1, 80.5)| |C|Hunter| |Z|Orgrimmar|
 B Trak'gen |L|11285 2600| |N|Trak'gen - (48.1, 80.5)| |C|Hunter| |Z|Orgrimmar|
 t Train [Wolf Riding] |N|Kildar and Ogunaro - (69.4, 13.1)| |O| |C|!Warlock| |R|Orc| |Z|Orgrimmar|
 B Buy a [Wolf] |N|Kildar and Ogunaro - (69.4, 13.1)| |O| |C|!Warlock| |R|Orc| |Z|Orgrimmar|
+N Cast [Teleport: Orgrimmar] |O| |C|Mage| |R|Troll| |Z|Orgrimmar|
 t Train [Raptor Riding] |N|Xar'Ti and Zjolnir - (55.3, 75.5)| |O| |R|Troll| |Z|Durotar|
 B Buy a [Raptor] |N|Xar'Ti and Zjolnir - (55.3, 75.5)| |O| |R|Troll| |Z|Durotar|
 t Train your class spells |N|Mirket - (48.6, 47.0)| |C|Warlock| |Z|Orgrimmar|
@@ -121,6 +123,7 @@ B Buy a [Kodo] |N|Xar'Ti and Zjolnir - (47.6, 58.5)| |O| |R|Tauren| |Z|Mulgore|
 H Orgrimmar |N|Hearth to Orgrimmar| |O| |R|Tauren| |Z|Mulgore|
 F Fly to Orgrimmar |N|Tal - (47.0, 49.8)| |O| |R|Tauren| |Z|Thunder Bluff|
 R Go up the Zeppelin Tower |N|(50.8, 13.8)| |C|!Mage| |Z|Durotar|
+N Cast [Teleport: Undercity] |C|Mage| |Z|Durotar|
 t Train your class spells |N|Anastasia - (85.1, 10.0)| |C|Mage| |Z|Undercity|
 t Train [Portal: Undercity] |N|Lexington - (84.2, 15.6)| |C|Mage| |Z|Undercity|
 T Bring the End |QID|3341| |N|Andrew - (74.0, 33.3) (RFD Dungeon Quest)| |C|Mage| |D|RFD| |Z|Undercity|
@@ -143,6 +146,7 @@ N High Inquisitor Whitemane and Scarlet Commander Mograine are located in the Ca
 C Into The Scarlet Monastery |QID|1048| |OIDX|4| |N|Kill Houndmaster Loksey, Herod, High Inquisitor Whitemane and Scarlet Commander Mograine (SM Dungeon Quest)| |D|SM| |Z|Eastern Kingdoms|
 N It's located in a bookshelf on the left in the last corner of the dungeon |N|(SM Dungeon Quest)| |R|!Undead| |D|SM| |Z|Eastern Kingdoms|
 C Compendium of the Fallen |QID|1049| |OIDX|1| |N|Loot the Compendium of the Fallen (SM Dungeon Quest)| |R|!Undead| |D|SM| |Z|Eastern Kingdoms|
+N Cast [Teleport: Undercity] |N|(SM Dungeon Quest)| |C|Mage| |D|SM| |Z|Eastern Kingdoms|
 R Undercity |N|(66.1, 9.2) (SM Dungeon Quest)| |C|!Mage| |D|SM| |Z|Undercity|
 R Travel toward Varimathras |N|(51.9, 64.7) (SM Dungeon Quest)| |D|SM| |Z|Undercity|
 T Into The Scarlet Monastery |QID|1048| |N|Varimathras - (56.2, 92.2) (SM Dungeon Quest)| |D|SM| |Z|Undercity|

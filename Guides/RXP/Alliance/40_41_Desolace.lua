@@ -39,6 +39,7 @@ T Rumors for Kravel |QID|1117| |N|Kravel Koalbeard - (77.8, 77.3)| |Z|Thousand N
 A Back to Booty Bay |QID|1118| |N|Kravel Koalbeard - (77.8, 77.3)| |Z|Thousand Needles|
 T Razzeric's Tweaking |QID|1187| |N|Razzeric - (80.3, 76.1)| |Z|Thousand Needles|
 A Safety First |QID|1188| |N|Razzeric - (80.3, 76.1)| |Z|Thousand Needles|
+N Cast Teleport: Moonglade |O| |C|Druid| |Z|Thousand Needles|
 N Loganaar |N|(52.5, 40.6)| |C|Druid| |Z|Thousand Needles|
 R Travel to Moonglade |N|(52.5, 40.6)| |C|Druid| |Z|Moonglade|
 t Train your class spells |N|Teleport to Moonglade - (52.5, 40.6)| |C|Druid| |Z|Moonglade|

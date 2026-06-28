@@ -14,7 +14,7 @@ N [Exlir of Water Breathing] |N|(57.1, 73.0)| |O| |C|!Warlock| |Z|Stormwind City
 R Go into The Slaughtered Lamb and go downstairs |N|(27.2, 78.1)| |O| |C|Warlock| |Z|Stormwind City|
 t Train your class spells |N|Ursula Deline - (26.1, 77.2)| |C|Warlock| |Z|Stormwind City|
 B Buy [Grimoires] for your pets |N|Spackle Thornberry - (25.7, 77.6)| |C|Warlock| |Z|Stormwind City|
-A Morgan Stern |QID|1260| |N|Angus Stern - (41.5, 89.4)| |C|!Warrior/!Rogue/!Druid/!Hunter| |Z|Stormwind City|
+A Morgan Stern |QID|1260| |N|Angus Stern - (41.5, 89.4)| |C|!Warrior/!Rogue/!Druid/!Hunter| |P|SOLO| |Z|Stormwind City|
 A Mazen's Behest |QID|1363| |N|Mazen Mac'Nadir - (41.5, 64.3)| |Z|Stormwind City|
 T Mazen's Behest |QID|1363| |N|Acolyte Dellis up stairs - (41.0, 63.8)| |Z|Stormwind City|
 A Mazen's Behest |QID|1364| |N|Acolyte Dellis up stairs - (41.0, 63.8)| |Z|Stormwind City|

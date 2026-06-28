@@ -214,18 +214,19 @@ R Norman |N|(67.7, 38.0)| |C|!Warlock| |Z|Undercity|
 h Undercity |N|Set hearth in Undercity (67.7, 38.0)| |C|!Warlock| |Z|Undercity|
 T Creature of the Void |QID|1473| |N|Carendin in the Magic Quarter - (85.1, 26.0)| |C|Warlock| |Z|Undercity|
 A The Binding |QID|1471| |N|Carendin in the Magic Quarter - (85.1, 26.0)| |C|Warlock| |Z|Undercity|
+N Use the [Runes of Summoning] at the Summoning Circle |O| |C|Warlock| |Z|Undercity|
 C The Binding |QID|1471| |OIDX|1| |N|the Summoned Voidwalker Kill Summoned Voidwalker (1)| |C|Warlock| |Z|Undercity|
 T The Binding |QID|1471| |N|Carendin - (85.0, 26.0)| |C|Warlock| |Z|Undercity|
 N Buy a [Claymore] from him |N|(77.1, 49.4)| |C|Warrior| |Z|Undercity|
 B Collect Claymore (1) |L|1198 1| |N|Charles Seaton in the Rogue Quarter - (77.1, 49.4)| |C|Warrior| |Z|Undercity|
-N Buy a [Claymore] from him |N|(77.1, 49.4)| |C|Warrior| |Z|Undercity|
-N Alternatively, check the Auction House for something better or cheaper |N|(77.1, 49.4)| |C|Warrior| |Z|Undercity|
-B Collect Claymore (1) |L|1198 1| |N|Charles Seaton in the Rogue Quarter - (77.1, 49.4)| |C|Warrior| |Z|Undercity|
+N Buy a [Claymore] from him |N|(77.1, 49.4)| |C|Warrior| |AH| |Z|Undercity|
+N Alternatively, check the Auction House for something better or cheaper |N|(77.1, 49.4)| |C|Warrior| |AH| |Z|Undercity|
+B Collect Claymore (1) |L|1198 1| |N|Charles Seaton in the Rogue Quarter - (77.1, 49.4)| |C|Warrior| |AH| |Z|Undercity|
 N Buy a [Cutlass] from him |N|(77.1, 49.4)| |C|Rogue| |Z|Undercity|
 B Collect Cutlass (1) |L|851 1| |N|Charles Seaton in the Rogue Quarter - (77.1, 49.4)| |C|Rogue| |Z|Undercity|
-N Buy a [Cutlass] from him |N|(77.1, 49.4)| |C|Rogue| |Z|Undercity|
-N Alternatively, check the Auction House for something better or cheaper |N|(77.1, 49.4)| |C|Rogue| |Z|Undercity|
-B Collect Cutlass (1) |L|851 1| |N|Charles Seaton in the Rogue Quarter - (77.1, 49.4)| |C|Rogue| |Z|Undercity|
+N Buy a [Cutlass] from him |N|(77.1, 49.4)| |C|Rogue| |AH| |Z|Undercity|
+N Alternatively, check the Auction House for something better or cheaper |N|(77.1, 49.4)| |C|Rogue| |AH| |Z|Undercity|
+B Collect Cutlass (1) |L|851 1| |N|Charles Seaton in the Rogue Quarter - (77.1, 49.4)| |C|Rogue| |AH| |Z|Undercity|
 N Buy [Keen Throwing Knives] from him |N|(77.5, 49.6)| |C|Rogue| |Z|Undercity|
 B Keen Throwing Knife (200) |L|3107 200| |N|Nathaniel Steenwick in the Rogue Quarter - (77.5, 49.6)| |C|Rogue| |Z|Undercity|
 T Mennet Carkad |QID|1885| |N|Mennet - (83.5, 69.1)| |C|Rogue| |Z|Undercity|
@@ -276,22 +277,22 @@ B Sell your junk, then restock on food if necessary |N|Innkeeper Renee - (61.7, 
 T Fields of Grief |QID|407| |N|the Captured Scarlet Zealot and the Captured Mountaineer downstairs in the back of the inn - (62.0, 51.3)| |Z|Tirisfal Glades|
 T A New Plague |QID|492| |N|the Captured Scarlet Zealot and the Captured Mountaineer downstairs in the back of the inn - (62.0, 51.3)| |Z|Tirisfal Glades|
 H Undercity |N|Hearth to Undercity| |O| |Z|Tirisfal Glades|
-N Buy Six [Discolored Worg Hearts] from the Auction House |N|(64.2, 49.6)| |Z|Undercity|
-N Skip this if you want, it's only a small time saver |N|(64.2, 49.6)| |Z|Undercity|
-B Collect Discolored Worg Heart (x6) |L|3164 6| |N|Auctioneer Rhyker - (64.2, 49.6)| |Z|Undercity|
+N Buy Six [Discolored Worg Hearts] from the Auction House |N|(64.2, 49.6)| |AH| |Z|Undercity|
+N Skip this if you want, it's only a small time saver |N|(64.2, 49.6)| |AH| |Z|Undercity|
+B Collect Discolored Worg Heart (x6) |L|3164 6| |N|Auctioneer Rhyker - (64.2, 49.6)| |AH| |Z|Undercity|
 T The Balnir Farmstead |QID|1882| |N|Anastasia in the Magic Quarter - (85.1, 10.1)| |C|Mage| |Z|Undercity|
 T The Lich's Identity |QID|357| |N|Bethor - (84.1, 17.5)| |O| |Z|Undercity|
 A Return the Book |QID|366| |N|Bethor - (84.1, 17.5)| |O| |Z|Undercity|
 N Buy a [Cutlass] from him |N|(77.1, 49.4)| |C|Rogue| |Z|Undercity|
 B Collect Cutlass (1) |L|851 1| |N|Charles Seaton in the Rogue Quarter - (77.1, 49.4)| |C|Rogue| |Z|Undercity|
-N Buy a [Cutlass] from him |N|(77.1, 49.4)| |C|Rogue| |Z|Undercity|
-N Alternatively, check the Auction House for something better or cheaper |N|(77.1, 49.4)| |C|Rogue| |Z|Undercity|
-B Collect Cutlass (1) |L|851 1| |N|Charles Seaton in the Rogue Quarter - (77.1, 49.4)| |C|Rogue| |Z|Undercity|
+N Buy a [Cutlass] from him |N|(77.1, 49.4)| |C|Rogue| |AH| |Z|Undercity|
+N Alternatively, check the Auction House for something better or cheaper |N|(77.1, 49.4)| |C|Rogue| |AH| |Z|Undercity|
+B Collect Cutlass (1) |L|851 1| |N|Charles Seaton in the Rogue Quarter - (77.1, 49.4)| |C|Rogue| |AH| |Z|Undercity|
 N Buy a [Claymore] from him |N|(77.1, 49.4)| |C|Warrior| |Z|Undercity|
 B Collect Claymore (1) |L|1198 1| |N|Charles Seaton in the Rogue Quarter - (77.1, 49.4)| |C|Warrior| |Z|Undercity|
-N Buy a [Claymore] from him |N|(77.1, 49.4)| |C|Warrior| |Z|Undercity|
-N Alternatively, check the Auction House for something better or cheaper |N|(77.1, 49.4)| |C|Warrior| |Z|Undercity|
-B Collect Claymore (1) |L|1198 1| |N|Charles Seaton in the Rogue Quarter - (77.1, 49.4)| |C|Warrior| |Z|Undercity|
+N Buy a [Claymore] from him |N|(77.1, 49.4)| |C|Warrior| |AH| |Z|Undercity|
+N Alternatively, check the Auction House for something better or cheaper |N|(77.1, 49.4)| |C|Warrior| |AH| |Z|Undercity|
+B Collect Claymore (1) |L|1198 1| |N|Charles Seaton in the Rogue Quarter - (77.1, 49.4)| |C|Warrior| |AH| |Z|Undercity|
 T The Deathstalkers |QID|1886| |N|Mennet - (83.5, 69.1)| |C|Rogue| |Z|Undercity|
 A The Deathstalkers |QID|1898| |N|Mennet - (83.5, 69.1)| |C|Rogue| |Z|Undercity|
 T The Deathstalkers |QID|1898| |N|Andron - (54.8, 76.3)| |C|Rogue| |Z|Undercity|
@@ -317,6 +318,10 @@ C Collect Candle of Beckoning (1) |QID|409| |L|3080 1| |N|the Crate of Candles o
 C Proving Allegiance |QID|409| |OIDX|1| |N|Nefara Lillith Nefara (1)| |Z|Tirisfal Glades|
 T Proving Allegiance |QID|409| |N|Gunther - (68.2, 41.9)| |Z|Tirisfal Glades|
 A The Prodigal Lich Returns |QID|411| |N|Gunther - (68.2, 41.9)| |Z|Tirisfal Glades|
+G Grind to 4900+/8800xp |Z|Tirisfal Glades|
+G Grind to 5525+/8800xp |O| |Z|Tirisfal Glades|
+G Grind to 5600+/8800xp |O| |Z|Tirisfal Glades|
+G Grind to 6225+/8800xp |O| |Z|Tirisfal Glades|
 N Swim west, die to mobs and respawn at the Spirit Healer |N|(64.4, 42.6)| |O| |Z|Tirisfal Glades|
 T At War With The Scarlet Crusade |QID|372| |N|Zygand - (60.6, 51.8)| |Z|Tirisfal Glades|
 T Proof of Demise |QID|374| |N|Burgess - (60.9, 52.0)| |Z|Tirisfal Glades|
@@ -334,14 +339,14 @@ R Travel to Undercity |N|(64.2, 39.8)| |O| |C|Priest/Rogue/Warrior| |Z|Undercity
 R Take the lift down to the Undercity |N|(65.5, 43.6)| |O| |C|Priest/Rogue/Warrior| |Z|Undercity|
 N Buy a [Cutlass] from him |N|(61.1, 40.9)| |O| |C|Rogue| |Z|Undercity|
 B Collect Cutlass (1) |L|851 1| |N|Louis Warren in the Trade Quarter - (61.1, 40.9)| |O| |C|Rogue| |Z|Undercity|
-N Buy a [Cutlass] from him |N|(61.1, 40.9)| |O| |C|Rogue| |Z|Undercity|
-N Alternatively, check the Auction House for something better or cheaper |N|(61.1, 40.9)| |O| |C|Rogue| |Z|Undercity|
-B Collect Cutlass (1) |L|851 1| |N|Louis Warren in the Trade Quarter - (61.1, 40.9)| |O| |C|Rogue| |Z|Undercity|
+N Buy a [Cutlass] from him |N|(61.1, 40.9)| |O| |C|Rogue| |AH| |Z|Undercity|
+N Alternatively, check the Auction House for something better or cheaper |N|(61.1, 40.9)| |O| |C|Rogue| |AH| |Z|Undercity|
+B Collect Cutlass (1) |L|851 1| |N|Louis Warren in the Trade Quarter - (61.1, 40.9)| |O| |C|Rogue| |AH| |Z|Undercity|
 N Buy a [Claymore] from him |N|(61.1, 40.9)| |O| |C|Warrior| |Z|Undercity|
 B Collect Claymore (1) |L|1198 1| |N|Louis Warren in the Trade Quarter - (61.1, 40.9)| |O| |C|Warrior| |Z|Undercity|
-N Buy a [Claymore] from him |N|(61.1, 40.9)| |O| |C|Warrior| |Z|Undercity|
-N Alternatively, check the Auction House for something better or cheaper |N|(61.1, 40.9)| |O| |C|Warrior| |Z|Undercity|
-B Collect Claymore (1) |L|1198 1| |N|Louis Warren in the Trade Quarter - (61.1, 40.9)| |O| |C|Warrior| |Z|Undercity|
+N Buy a [Claymore] from him |N|(61.1, 40.9)| |O| |C|Warrior| |AH| |Z|Undercity|
+N Alternatively, check the Auction House for something better or cheaper |N|(61.1, 40.9)| |O| |C|Warrior| |AH| |Z|Undercity|
+B Collect Claymore (1) |L|1198 1| |N|Louis Warren in the Trade Quarter - (61.1, 40.9)| |O| |C|Warrior| |AH| |Z|Undercity|
 T Touch of Weakness |QID|5658| |N|Aelthalyste - (49.0, 18.3)| |O| |C|Priest| |Z|Undercity|
 t Touch of Weakness not trained |N|Aelthalyste - (49.0, 18.3)| |O| |C|Priest| |Z|Undercity|
 T The Prodigal Lich Returns |QID|411| |N|Bethor - (84.1, 17.5)| |O| |C|Rogue/Warrior/Priest| |Z|Undercity|

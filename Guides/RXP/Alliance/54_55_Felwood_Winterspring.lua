@@ -70,6 +70,7 @@ N Buy food/water if needed |C|!Warrior/!Rogue| |Z|Teldrassil|
 N Buy food if needed |C|Warrior/Rogue| |Z|Teldrassil|
 F Fly to Tanaris |N|Bragok - (63.1, 37.2)| |Z|The Barrens|
 R Travel to Tanaris |N|(54.0, 28.6)| |O| |Z|Tanaris|
+N Use the [Videre Elixir] at the Tanaris graveyard |N|(54.0, 28.6)| |O| |Z|Tanaris|
 N You must be dead in order to speak to Gaeriyan |N|(53.9, 23.3)| |Z|Tanaris|
 T Meet at the Grave |QID|3912| |N|Gaeriyan - (53.9, 23.3)| |Z|Tanaris|
 A A Grave Situation |QID|3913| |N|Gaeriyan - (53.9, 23.3)| |Z|Tanaris|

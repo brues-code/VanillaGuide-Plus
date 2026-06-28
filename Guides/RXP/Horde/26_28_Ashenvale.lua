@@ -28,16 +28,16 @@ R Qeeju |N|(73.4, 61.0)| |C|Hunter| |Z|Ashenvale|
 A Ashenvale Outrunners |QID|6503| |N|Kuray'bin - (71.1, 68.1)| |Z|Ashenvale|
 C Sharptalon. Loot him for [Sharptalon's Claw] and use it to start the quest |QID|2| |L|16305 1| |N|Be careful! Sharptalon is level 31 and patrols around. You can kite him back to Splintertree Post or the Forsaken Camp if you're struggling to kill him. If you do this, make sure you do 50%+ damage to get credit. You can also do this quest later (75.2, 71.9)| |O| |Z|Ashenvale|
 A Sharptalon's Claw |QID|2| |N|Be careful! Sharptalon is level 31 and patrols around. You can kite him back to Splintertree Post or the Forsaken Camp if you're struggling to kill him. If you do this, make sure you do 50%+ damage to get credit. You can also do this quest later - (75.2, 71.9)| |O| |Z|Ashenvale|
-t Train Track Hidden |O| |C|Hunter| |Z|Ashenvale|
+t Train Track Hidden |N|Cast [Track Hidden] to find the Ashenvale Outrunners more easily| |O| |C|Hunter| |Z|Ashenvale|
 N They are stealthed |N|(73.8, 75.0)| |Z|Ashenvale|
 C Ashenvale Outrunners |QID|6503| |OIDX|1| |N|Kill Ashenvale Outrunner (73.8, 75.0)| |Z|Ashenvale|
 C Sharptalon. Loot him for [Sharptalon's Claw] and use it to start the quest |QID|2| |L|16305 1| |N|Be careful! Sharptalon is level 31 and patrols around. You can kite him back to Splintertree Post or the Forsaken Camp if you're struggling to kill him. If you do this, make sure you do 50%+ damage to get credit. You can also do this quest later (71.5, 70.1)| |Z|Ashenvale|
 A Sharptalon's Claw |QID|2| |N|Be careful! Sharptalon is level 31 and patrols around. You can kite him back to Splintertree Post or the Forsaken Camp if you're struggling to kill him. If you do this, make sure you do 50%+ damage to get credit. You can also do this quest later - (71.5, 70.1)| |Z|Ashenvale|
-N Torek has a 5 minute respawn time |N|(68.3, 75.3)| |C|!Hunter| |Z|Ashenvale|
-A Torek's Assault |QID|6544| |N|Torek to start the escort - (68.3, 75.3)| |C|!Hunter| |Z|Ashenvale|
-N Let Torek and his Splintertree Raiders tank the Silverwing Warriors and Silverwing Sentinels |N|(64.8, 75.3)| |C|!Hunter| |Z|Ashenvale|
-N When you clear the building, run toward the Balcony. When Duriel Moonfire comes, let Torek and his Splintertree Raiders take aggro before you deal damage |N|(64.8, 75.3)| |C|!Hunter| |Z|Ashenvale|
-C Torek's Assault |QID|6544| |OIDX|1| |N|Follow Torek (64.8, 75.3)| |C|!Hunter| |Z|Ashenvale|
+N Torek has a 5 minute respawn time |N|(68.3, 75.3)| |C|!Hunter| |AH| |Z|Ashenvale|
+A Torek's Assault |QID|6544| |N|Torek to start the escort - (68.3, 75.3)| |C|!Hunter| |AH| |Z|Ashenvale|
+N Let Torek and his Splintertree Raiders tank the Silverwing Warriors and Silverwing Sentinels |N|(64.8, 75.3)| |C|!Hunter| |AH| |Z|Ashenvale|
+N When you clear the building, run toward the Balcony. When Duriel Moonfire comes, let Torek and his Splintertree Raiders take aggro before you deal damage |N|(64.8, 75.3)| |C|!Hunter| |AH| |Z|Ashenvale|
+C Torek's Assault |QID|6544| |OIDX|1| |N|Follow Torek (64.8, 75.3)| |C|!Hunter| |AH| |Z|Ashenvale|
 C Stonetalon Standstill |QID|25| |OIDX|1| |N|Kill Befouled Water Elementals| |O| |Z|Ashenvale|
 C Tideress. Loot her for the [Befouled Water Globe]. Use it to start the quest |QID|1918| |L|16408 1| |N|Tideress patrols around the island and underwater| |O| |Z|Ashenvale|
 A The Befouled Element |QID|1918| |N|Tideress patrols around the island and underwater| |O| |Z|Ashenvale|
@@ -84,7 +84,7 @@ C The Sacred Flame |QID|1195| |OIDX|1| |N|Use the [Etched Phial] in the Moonwell
 T Ashenvale Outrunners |QID|6503| |N|Kuray'bin - (71.1, 68.1)| |Z|Ashenvale|
 C Sharptalon. Loot him for [Sharptalon's Claw] and use it to start the quest |QID|2| |L|16305 1| |N|Be careful! Sharptalon is level 31 and patrols around. You can kite him back to Splintertree Post or the Forsaken Camp if you're struggling to kill him. If you do this, make sure you do 50%+ damage to get credit (71.5, 70.1)| |Z|Ashenvale|
 A Sharptalon's Claw |QID|2| |N|Be careful! Sharptalon is level 31 and patrols around. You can kite him back to Splintertree Post or the Forsaken Camp if you're struggling to kill him. If you do this, make sure you do 50%+ damage to get credit - (71.5, 70.1)| |Z|Ashenvale|
-T Torek's Assault |QID|6544| |N|Ertog - (73.0, 62.5)| |C|!Hunter| |Z|Ashenvale|
+T Torek's Assault |QID|6544| |N|Ertog - (73.0, 62.5)| |C|!Hunter| |AH| |Z|Ashenvale|
 T Sharptalon's Claw |QID|2| |N|Senani - (73.8, 61.5)| |Z|Ashenvale|
 T Shadumbra's Head |QID|24| |N|Senani - (73.8, 61.5)| |Z|Ashenvale|
 T Ursangous's Paw |QID|23| |N|Senani - (73.8, 61.5)| |Z|Ashenvale|
@@ -164,6 +164,7 @@ t Train your class spells |N|Mirket - (48.6, 47.0)| |C|Warlock| |Z|Orgrimmar|
 B Buy any pet upgrades you can afford |N|Kurgul - (47.5, 46.7)| |C|Warlock| |Z|Orgrimmar|
 B Katis. Buy a [Pestilent Wand] from her |L|5347 1| |N|Katis. Buy a [Pestilent Wand] from her - (44.2, 48.5)| |C|Warlock| |Z|Orgrimmar|
 F Fly to Thunder Bluff |N|Doras - (45.1, 63.9)| |C|Rogue| |Z|Orgrimmar|
+N Cast [Teleport: Moonglade] |O| |C|Druid| |Z|Orgrimmar|
 t Train your class spells |N|Loganaar - (52.5, 40.6)| |C|Druid| |Z|Moonglade|
 H Crossroads |N|Hearth to Crossroads (!BFD Dungeon Quest)| |C|!Rogue| |D|!BFD| |Z|Moonglade|
 F Fly to Thunder Bluff |N|Devrak - (51.5, 30.3) (!BFD Dungeon Quest)| |C|!Rogue| |D|!BFD| |Z|The Barrens|

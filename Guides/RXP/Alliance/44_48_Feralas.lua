@@ -37,6 +37,7 @@ R Exit the naga cave and head southeast towards the ocean |N|(38.7, 75.1)| |O| |
 R Swim to the mainland |N|(41.2, 74.5)| |O| |Z|Feralas|
 T The Missing Courier |QID|4125| |N|on the Wrecked Row Boat in the water - (45.4, 65.0)| |Z|Feralas|
 A Boat Wreckage |QID|4127| |N|on the Wrecked Row Boat in the water - (45.4, 65.0)| |Z|Feralas|
+N Cast Teleport: Moonglade |O| |C|Druid| |Z|Feralas|
 N Loganaar |N|(52.5, 40.6)| |C|Druid| |Z|Feralas|
 R Travel to Moonglade |N|(52.5, 40.6)| |C|Druid| |Z|Moonglade|
 t Train your class spells |N|Teleport to Moonglade - (52.5, 40.6)| |C|Druid| |Z|Moonglade|
@@ -103,6 +104,7 @@ T A Hero's Welcome |QID|4266| |N|Shandris Feathermoon - (30.3, 46.2)| |Z|Feralas
 A Rise of the Silithid |QID|4267| |N|Shandris Feathermoon - (30.3, 46.2)| |Z|Feralas|
 B Buy Ammo if needed |N|Faralorn - (30.6, 43.4)| |C|Hunter| |Z|Feralas|
 F Fly to Teldrassil |N|Fyldren Moonfeather - (30.2, 43.3)| |C|!Mage/!Druid| |Z|Feralas|
+N Cast Teleport: Moonglade |C|Druid| |Z|Feralas|
 F Fly to Darnassus |N|Silva Fil'naveth - (44.1, 45.2)| |C|Druid| |Z|Moonglade|
 R Travel to Feralas |N|(30.2, 43.3)| |C|Mage| |Z|Feralas|
 N If you don't have [Teleport: Darnassus] trained then fly there |N|(30.2, 43.3)| |C|Mage| |Z|Feralas|

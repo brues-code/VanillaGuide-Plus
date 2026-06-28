@@ -101,6 +101,11 @@ F Fly to Wetlands |N|Thorgrum - (33.9, 51.0)| |Z|Loch Modan|
 R Travel to Wetlands |N|(7.1, 58.0)| |O| |Z|Wetlands|
 R the dock of the Auberdine boat |N|(4.6, 57.3)| |O| |Z|Wetlands|
 N On the Boat if it just arrived or on the dock if the boat just left: |O| |Z|Wetlands|
+N Create a [Basic Campfire] (under the General Tab of your Spellbook) |O| |Z|Wetlands|
+N On the Boat if it just arrived or on the dock if the boat just left: |O| |Z|Wetlands|
+N Create a [Basic Campfire] (under the General Tab of your Spellbook) |O| |Z|Wetlands|
+N On the Boat if it just arrived or on the dock if the boat just left: |O| |Z|Wetlands|
+N Create a [Basic Campfire] (under the General Tab of your Spellbook) |O| |Z|Wetlands|
 N You need 50 [Cooking] for a quest in Duskwood later |O| |Z|Wetlands|
 N [Cook] the following items: |O| |Z|Wetlands|
 N [Cook] the [Chunks of Boar Meat] into [Roasted Boar Meat] |O| |Z|Wetlands|

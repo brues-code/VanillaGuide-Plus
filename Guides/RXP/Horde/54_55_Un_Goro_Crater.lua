@@ -121,11 +121,11 @@ A Chasing A-Me 01 |QID|4243| |N|Karna - (46.4, 13.4)| |Z|Un'Goro Crater|
 C The Northern Pylon |QID|4285| |OIDX|1| |N|the Northern Crystal Pylon (56.5, 12.4)| |Z|Un'Goro Crater|
 T Chasing A-Me 01 |QID|4243| |N|Hug the right wall as you enter the cave, then talk to A-Me 01 - (67.7, 16.8)| |Z|Un'Goro Crater|
 C The Mighty U'cha |QID|4301| |OIDX|1| |N|U'cha in the back of the cave. Loot him for his Pelt (68.0, 13.2)| |Z|Un'Goro Crater|
-T Chasing A-Me 01 |QID|4243| |N|A-Me - (67.7, 16.8)| |Z|Un'Goro Crater|
-A Chasing A-Me 01 |QID|4244| |N|A-Me - (67.7, 16.8)| |Z|Un'Goro Crater|
-T Chasing A-Me 01 |QID|4244| |N|A-Me - (67.7, 16.8)| |Z|Un'Goro Crater|
-A Chasing A-Me 01 |QID|4245| |N|A-Me - (67.7, 16.8)| |Z|Un'Goro Crater|
-C Chasing A-Me 01 |QID|4245| |OIDX|1| |N|Escort A-Me 01 back to the outside of Marshal's Refuge (46.4, 13.4)| |Z|Un'Goro Crater|
+T Chasing A-Me 01 |QID|4243| |N|A-Me - (67.7, 16.8)| |AH| |Z|Un'Goro Crater|
+A Chasing A-Me 01 |QID|4244| |N|A-Me - (67.7, 16.8)| |AH| |Z|Un'Goro Crater|
+T Chasing A-Me 01 |QID|4244| |N|A-Me - (67.7, 16.8)| |AH| |Z|Un'Goro Crater|
+A Chasing A-Me 01 |QID|4245| |N|A-Me - (67.7, 16.8)| |AH| |Z|Un'Goro Crater|
+C Chasing A-Me 01 |QID|4245| |OIDX|1| |N|Escort A-Me 01 back to the outside of Marshal's Refuge (46.4, 13.4)| |AH| |Z|Un'Goro Crater|
 T Chasing A-Me 01 |QID|4245| |N|Karna - (46.4, 13.4)| |Z|Un'Goro Crater|
 T The Northern Pylon |QID|4285| |N|J.D. Collie inside the cave - (41.9, 2.6)| |Z|Un'Goro Crater|
 A Making Sense of It |QID|4321| |N|J.D. Collie inside the cave - (41.9, 2.6)| |Z|Un'Goro Crater|
@@ -152,12 +152,14 @@ R Travel along the border of Dire Maul to the West Side |N|(55.9, 46.2)| |O| |Z|
 N Click here for video reference |N|(55.4, 45.5)| |Z|Feralas|
 N Buy some [Bait] from him |N|(45.1, 25.6)| |Z|Feralas|
 B Gregan |L|11141 1| |N|Gregan - (45.1, 25.6)| |Z|Feralas|
+N Place the [Bait] on the ground next to Miblon Snarltooth to distract him |N|(44.6, 10.6)| |O| |Z|Feralas|
 C the Evoroot inside the Ruins |QID|3909| |L|11242 1| |N|the Evoroot inside the Ruins - (44.5, 10.2)| |Z|Feralas|
 A The Videre Elixir |QID|4041| |N|Gregan Brewspewer - (45.1, 25.6)| |Z|Feralas|
 T The Videre Elixir |QID|4041| |N|Gregan Brewspewer - (45.1, 25.6)| |Z|Feralas|
 C The Videre Elixir |QID|3909| |OIDX|1| |N|Gregan Brewspewer (45.1, 25.6)| |Z|Feralas|
 H Camp Taurajo |N|Hearth to Camp Taurajo| |O| |C|!Mage| |Z|Feralas|
 F Fly to Thunder Bluff |N|Omusa - (44.5, 59.1)| |C|!Mage| |Z|The Barrens|
+N Cast [Teleport: Thunder Bluff] |C|Mage| |Z|The Barrens|
 t Train your class spells |N|Thurston - (25.2, 20.9)| |C|Mage| |Z|Thunder Bluff|
 N He patrols the terraces, so you may have to look around for him |N|(41.5, 57.9)| |O| |Z|Thunder Bluff|
 A The New Frontier |QID|1000| |N|Bluff Runner Windstrider - (41.5, 57.9)| |O| |Z|Thunder Bluff|

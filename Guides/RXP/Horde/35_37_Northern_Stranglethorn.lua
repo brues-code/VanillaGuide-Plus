@@ -5,6 +5,7 @@ return [[
 N 35-37 Northern Stranglethorn |N|Converted from RestedXP guide|
 
 F Fly to Orgrimmar |N|Tal - (47.0, 49.8)| |C|!Mage| |Z|Thunder Bluff|
+N Cast [Teleport: Orgrimmar] |C|Mage| |Z|Thunder Bluff|
 t Train your class spells |N|Pephredo - (38.4, 85.5)| |C|Mage| |Z|Orgrimmar|
 N Buy two or more [Rune of Teleportation] from him |N|(45.4, 56.6)| |C|Mage| |Z|Orgrimmar|
 B Horthus |L|17031 2| |N|Horthus - (45.4, 56.6)| |C|Mage| |Z|Orgrimmar|
@@ -19,8 +20,8 @@ t Train your class spells |N|Ur'kyo - (35.6, 87.8)| |C|Priest| |Z|Orgrimmar|
 T Alliance Relations |QID|1436| |N|Keldran - (22.4, 52.8)| |Z|Orgrimmar|
 T Parts of the Swarm |QID|1184| |N|Belgrom - (75.2, 34.3)| |Z|Orgrimmar|
 t Train your pet spells |N|Xao'tsu - (66.3, 14.8)| |C|Hunter| |Z|Orgrimmar|
-N Buy three [Catseye Elixir] from the Auction House |N|(55.6, 62.9)| |C|!Hunter| |Z|Orgrimmar|
-B Auctioneer Thathung |L|10592 3| |N|Auctioneer Thathung - (55.6, 62.9)| |C|!Hunter| |Z|Orgrimmar|
+N Buy three [Catseye Elixir] from the Auction House |N|(55.6, 62.9)| |C|!Hunter| |AH| |Z|Orgrimmar|
+B Auctioneer Thathung |L|10592 3| |N|Auctioneer Thathung - (55.6, 62.9)| |C|!Hunter| |AH| |Z|Orgrimmar|
 R Innkeeper Gryshka |N|(54.1, 68.4)| |Z|Orgrimmar|
 h Orgrimmar |N|Set hearth in Orgrimmar (54.1, 68.4)| |Z|Orgrimmar|
 R Go up the Zeppelin Tower |N|(50.8, 13.8)| |Z|Durotar|
@@ -47,11 +48,11 @@ N [Jungle Remedy] can be used to dispell long lasting poison effects later in th
 N You can decide for yourself how much [Jungle Remedy] you would like to grind |N|(44.0, 10.5)| |C|Warrior| |Z|Stranglethorn Vale|
 N Jungle Fighters and Medicine Men share spawns, so you'll have to kill both |N|(44.0, 10.5)| |C|Warrior| |Z|Stranglethorn Vale|
 C Kurzen Medicine Men. Loot them for their [Liferoot] and [Jungle Remedy] |QID|1712| |L|3357 8| |N|Kurzen Medicine Men. Loot them for their [Liferoot] and [Jungle Remedy] - (44.0, 10.5)| |C|Warrior| |Z|Stranglethorn Vale|
-N You could also buy [Liferoot] from the Auction House instead |N|(44.0, 10.5)| |C|Warrior| |Z|Stranglethorn Vale|
-N [Jungle Remedy] can be used to dispell long lasting poison effects later in the guide |N|(44.0, 10.5)| |C|Warrior| |Z|Stranglethorn Vale|
-N You can decide for yourself how much [Jungle Remedy] you would like to grind |N|(44.0, 10.5)| |C|Warrior| |Z|Stranglethorn Vale|
-N Jungle Fighters and Medicine Men share spawns, so you'll have to kill both |N|(44.0, 10.5)| |C|Warrior| |Z|Stranglethorn Vale|
-B Kurzen Medicine Men. Loot them for their [Liferoot] and [Jungle Remedy] |L|3357 8| |N|Kurzen Medicine Men. Loot them for their [Liferoot] and [Jungle Remedy] - (44.0, 10.5)| |C|Warrior| |Z|Stranglethorn Vale|
+N You could also buy [Liferoot] from the Auction House instead |N|(44.0, 10.5)| |C|Warrior| |AH| |Z|Stranglethorn Vale|
+N [Jungle Remedy] can be used to dispell long lasting poison effects later in the guide |N|(44.0, 10.5)| |C|Warrior| |AH| |Z|Stranglethorn Vale|
+N You can decide for yourself how much [Jungle Remedy] you would like to grind |N|(44.0, 10.5)| |C|Warrior| |AH| |Z|Stranglethorn Vale|
+N Jungle Fighters and Medicine Men share spawns, so you'll have to kill both |N|(44.0, 10.5)| |C|Warrior| |AH| |Z|Stranglethorn Vale|
+B Kurzen Medicine Men. Loot them for their [Liferoot] and [Jungle Remedy] |L|3357 8| |N|Kurzen Medicine Men. Loot them for their [Liferoot] and [Jungle Remedy] - (44.0, 10.5)| |C|Warrior| |AH| |Z|Stranglethorn Vale|
 N [Fadeleaf] is needed to make [Blinding Powder] for your [Blind] ability |N|(44.0, 10.5)| |C|Rogue| |Z|Stranglethorn Vale|
 N [Jungle Remedy] can be used to dispell long lasting poison effects later in the guide |N|(44.0, 10.5)| |C|Rogue| |Z|Stranglethorn Vale|
 N You can decide for yourself how much of these items you would like to grind |N|(44.0, 10.5)| |C|Rogue| |Z|Stranglethorn Vale|
@@ -124,6 +125,7 @@ C Goblin Sponsorship |QID|1182| |OIDX|1| |N|Cozzle's Footlocker for the Fuel Reg
 C The Defense of Grom'gol |QID|569| |OIDX|1| |N|Return to the Mizjah Ruins and finish killing Mosh'Ogg Brutes and Mosh'Ogg Witch Doctors (35.6, 30.6)| |Z|Stranglethorn Vale|
 C Hostile Takeover |QID|213| |OIDX|1| |N|Finish killing Venture Co. Geologists. Loot them for their Crystals (43.6, 19.3)| |Z|Stranglethorn Vale|
 C Mok'thardin's Enchantment |QID|570| |OIDX|2| |N|Kill Stranglethorn Tigresses. Loot them for a Pristine Tigress Fang| |O| |Z|Stranglethorn Vale|
+N Cast [Track Hidden] to find the Shadowmaw Panthers more easily |O| |C|Hunter| |Z|Stranglethorn Vale|
 N These are stealthed mobs. Search any vacant areas |N|(47.8, 21.2)| |Z|Stranglethorn Vale|
 C Mok'thardin's Enchantment |QID|570| |OIDX|1| |N|Shadowmaw Panthers. Loot them for their Claws (47.8, 21.2)| |Z|Stranglethorn Vale|
 C Panther Mastery |QID|192| |OIDX|1| |N|Shadowmaw Panthers. Loot them for their Claws (47.8, 21.2)| |Z|Stranglethorn Vale|
@@ -161,8 +163,9 @@ A Some Assembly Required |QID|577| |N|Drizzlik - (28.3, 77.6)| |Z|Stranglethorn 
 T Supply and Demand |QID|575| |N|Drizzlik - (28.3, 77.6)| |O| |Z|Stranglethorn Vale|
 B Buy [Greater Healing Potions] from him if they're up |N|Glyx - (28.1, 78.1)| |Z|Stranglethorn Vale|
 B Stock up on [Flash Powder] and [Poisons] |N|Sly - (28.4, 76.8)| |C|Rogue| |Z|Stranglethorn Vale|
+N Cast [Teleport: Moonglade] |O| |C|Druid| |Z|Stranglethorn Vale|
 t Train your class spells |N|Loganaar - (52.5, 40.6)| |C|Druid| |Z|Moonglade|
-t Train Teleport: Orgrimmar |C|Mage| |Z|Moonglade|
+t Train Teleport: Orgrimmar |N|Cast [Teleport: Orgrimmar]| |C|Mage| |Z|Moonglade|
 H Orgrimmar |N|Hearth to Orgrimmar| |O| |Z|Moonglade|
 t Train Teleport: Orgrimmar |O| |C|Mage| |Z|Moonglade|
 B Sell your junk, then restock on food and water if necessary |N|Barkeep Morag - (54.6, 67.7)| |C|!Rogue/!Warrior| |Z|Orgrimmar|

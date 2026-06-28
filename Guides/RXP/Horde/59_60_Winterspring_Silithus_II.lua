@@ -15,6 +15,7 @@ H Everlook |N|Hearth to Everlook| |O| |Z|Tanaris|
 B Sell your junk, then restock on food and water if necessary |N|Vizzie - (61.4, 38.8)| |C|!Rogue/!Warrior| |Z|Winterspring|
 B Sell your junk, then restock on food if necessary |N|Vizzie - (61.4, 38.8)| |C|Rogue/Warrior| |Z|Winterspring|
 T Are We There, Yeti? |QID|5163| |N|Umi - (60.9, 37.6)| |Z|Winterspring|
+N Cast [Teleport: Moonglade] |C|Druid| |Z|Winterspring|
 F Fly to Moonglade |N|Yugrek - (60.5, 36.3)| |C|!Druid| |Z|Winterspring|
 R Travel to Moonglade |N|(47.7, 39.7)| |Z|Moonglade|
 N Umber may be patrolling through Nighthaven |N|(44.9, 35.6)| |Z|Moonglade|
@@ -27,11 +28,12 @@ A Under the Chitin Was... |QID|1185| |N|Umber - (44.9, 35.6)| |Z|Moonglade|
 T Under the Chitin Was... |QID|1185| |N|Umber - (44.9, 35.6)| |Z|Moonglade|
 R Travel to Felwood |N|(63.2, 13.0)| |Z|Felwood|
 F Fly to Orgrimmar |N|Faustron - (32.1, 66.6)| |C|!Mage| |Z|Moonglade|
+N Cast [Teleport: Orgrimmar] |O| |C|Mage| |Z|Moonglade|
 N He is located on the upper level in the Drag |N|(56.5, 46.4)| |Z|Orgrimmar|
 T Calm Before the Storm |QID|4509| |N|Zilzibin - (56.5, 46.4)| |Z|Orgrimmar|
 A Calm Before the Storm |QID|4511| |N|Zilzibin - (56.5, 46.4)| |Z|Orgrimmar|
 T Calm Before the Storm |QID|4511| |N|Karus - (49.7, 69.3)| |Z|Orgrimmar|
-C If you bought enough cloth earlier, go to the mailbox and retrieve the following |L|2592 60| |N|If you bought enough cloth earlier, go to the mailbox and retrieve the following:| |O| |Z|Orgrimmar|
+C If you bought enough cloth earlier, go to the mailbox and retrieve the following |L|2592 60| |N|If you bought enough cloth earlier, go to the mailbox and retrieve the following:| |O| |AH| |Z|Orgrimmar|
 N Disable any other addons that automatically turn in reputation items, or you'll be told to buy cloth again later |N|(63.6, 51.2)| |Z|Orgrimmar|
 N Skip any of the donations which you do not have enough cloth for |N|(63.6, 51.2)| |Z|Orgrimmar|
 T A Donation of Wool |QID|7826| |N|Rashona - (63.6, 51.2)| |Z|Orgrimmar|

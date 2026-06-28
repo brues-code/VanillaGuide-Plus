@@ -61,6 +61,7 @@ T Chillwind Point |QID|8415| |N|Commander Ashlam Valorfist - (42.7, 84.0)| |C|Pa
 A Dispelling Evil |QID|8414| |N|Commander Ashlam Valorfist - (42.7, 84.0)| |C|Paladin| |Z|Western Plaguelands|
 A Argent Dawn Commission |QID|5401| |N|Argent Officer Pureheart - (43.0, 83.5)| |Z|Western Plaguelands|
 T Argent Dawn Commission |QID|5401| |N|Argent Officer Pureheart - (43.0, 83.5)| |Z|Western Plaguelands|
+N Equip the [Argent Dawn Commission] to start collecting [Scourgestones] |O| |Z|Western Plaguelands|
 C Dispelling Evil |QID|8414| |OIDX|1| |N|Kill any of the Scourge. Loot them for their Minion's Scourgestones| |O| |C|Paladin| |Z|Western Plaguelands|
 C Clear the Way |QID|5092| |OIDX|1| |N|Skeletal Flayers and Slavering Ghouls (50.0, 76.9)| |Z|Western Plaguelands|
 T Dispelling Evil |QID|8414| |N|High Priest Thel'danis - (52.0, 82.8)| |O| |C|Paladin| |Z|Western Plaguelands|
@@ -84,6 +85,7 @@ N You can do this from behind the wall to avoid aggroing anything inside |N|(38.
 N Avoid aggroing the Scarlets outside the barn. If you do, run away |N|(38.7, 55.2)| |Z|Western Plaguelands|
 T Better Late Than Never |QID|5021| |N|Janice's Parcel on the ground - (38.7, 55.2)| |Z|Western Plaguelands|
 A Better Late Than Never |QID|5022| |N|Janice's Parcel on the ground - (38.7, 55.2)| |Z|Western Plaguelands|
+G Grind until you are 16950 XP away from 52 |C|Hunter| |Z|Western Plaguelands|
 N If you are not yet close, do one more Cauldron quest to get you where you need to be |C|Hunter| |Z|Western Plaguelands|
 C Dispelling Evil |QID|8414| |OIDX|1| |N|any of the Scourge. Loot them for their Minion's Scourgestones (37.2, 56.9)| |C|Paladin| |Z|Western Plaguelands|
 N Die and respawn at the Chillwind Camp Spirit Healer |O| |Z|Western Plaguelands|

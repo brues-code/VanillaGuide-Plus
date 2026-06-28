@@ -117,6 +117,7 @@ T Northfold Manor |QID|681| |N|Captain Nials - (45.8, 47.5)| |Z|Arathi Highlands
 N Cast [Tame Beast] on a Plains Creeper to tame it |N|(48.0, 58.6)| |C|Hunter| |Z|Arathi Highlands|
 t Attack mobs with it to learn [Bite (Rank 5)] |N|Cast [Eagle Eye] to try and find a Plains Creeper. Some of their locations are marked on your map - (48.0, 58.6)| |C|Hunter| |Z|Arathi Highlands|
 N Click here for more info about pet training |N|(48.0, 58.6)| |C|Hunter| |Z|Arathi Highlands|
+N Cast Teleport: Moonglade |O| |C|Druid| |Z|Arathi Highlands|
 N Loganaar |N|(52.5, 40.6)| |C|Druid| |Z|Arathi Highlands|
 R Travel to Moonglade |N|(52.5, 40.6)| |C|Druid| |Z|Moonglade|
 t Train your class spells |N|Teleport to Moonglade - (52.5, 40.6)| |C|Druid| |Z|Moonglade|

@@ -17,6 +17,7 @@ A The Binding |QID|1739| |N|Gakin the Darkbinder - (25.2, 78.5)| |O| |C|Warlock|
 T Heartswood |QID|1738| |N|Gakin the Darkbinder - (25.2, 78.5)| |O| |C|Warlock| |Z|Stormwind City|
 A The Binding |QID|1739| |N|Gakin the Darkbinder - (25.2, 78.5)| |O| |C|Warlock| |Z|Stormwind City|
 R the bottom of The Slaughtered Lamb |N|(25.2, 77.4)| |O| |C|Warlock| |Z|Stormwind City|
+N Use the [Heartswood Core] to call forth a Summoned Succubus |N|(25.2, 77.4)| |O| |C|Warlock| |Z|Stormwind City|
 C The Binding |QID|1739| |OIDX|1| |N|Kill the Summoned Succubus (25.2, 77.4)| |C|Warlock| |Z|Stormwind City|
 N Use the [Wooden Figurine] to call forth a Summoned Incubus |N|(25.2, 77.4)| |C|Warlock| |Z|Stormwind City|
 C The Binding |QID|1739| |OIDX|1| |N|the bottom of The Slaughtered Lamb (25.2, 77.4)| |C|Warlock| |Z|Stormwind City|
@@ -124,6 +125,8 @@ N Be careful as the Malformed Defias Drone and Defias Drones can be at the entra
 C Klaven's Tower |QID|2359| |OIDX|1| |N|Manually [Unstealth], then press your "Interact with Target" keybind to open the Duskwood Chest. Loot it for Klaven Mortwake's Journal (70.4, 74.0)| |C|Rogue| |Z|Westfall|
 C Craft an [Anti-Venom] |L|6452 1| |C|Rogue| |R|!Dwarf| |Z|Westfall|
 t Train your class spells |C|Rogue| |R|!Dwarf| |Z|Westfall|
+N Use the [Anti-Venom] in your bags to remove the [Touch of Zanzil] debuff |O| |C|Rogue| |R|!Dwarf| |Z|Westfall|
+N Cast [Stoneform] to remove the [Touch of Zanzil] debuff |O| |C|Rogue| |R|Dwarf| |Z|Westfall|
 N Dust Devils can spawn throughout all of Westfall. Their spawn locations are marked on the map |N|(34.8, 67.4)| |Z|Westfall|
 C Devils in Westfall |QID|1076| |OIDX|1| |N|Dust Devils. Loot them for their Debris (34.8, 67.4)| |Z|Westfall|
 T The Legend of Stalvan |QID|67| |N|the Old Footlocker on the ground - (41.5, 66.7)| |Z|Westfall|
@@ -136,8 +139,10 @@ T Keeper of the Flame |QID|103| |N|Captain Grayson - (30.0, 86.0)| |Z|Westfall|
 T The Coastal Menace |QID|104| |N|Captain Grayson - (30.0, 86.0)| |Z|Westfall|
 R Swim out to sea |N|(17.9, 33.1)| |O| |C|Druid| |Z|Westfall|
 C the Strange Lockbox. Loot it for the Half Pendant of Aquatic Endurance |QID|272| |L|15882 1| |N|the Strange Lockbox. Loot it for the Half Pendant of Aquatic Endurance - (17.9, 33.1)| |C|Druid| |Z|Westfall|
+N Cast Teleport: Moonglade |O| |C|Druid| |Z|Westfall|
 R Travel to Moonglade |N|(36.0, 41.4)| |C|Druid| |Z|Moonglade|
 C Use the [Half Pendant of Aquatic Agility] to combine it with the [Half Pendant of Aquatic Endurance] at the Shrine of Remulos |QID|272| |OIDX|1| |N|Use the [Half Pendant of Aquatic Agility] to combine it with the [Half Pendant of Aquatic Endurance] at the Shrine of Remulos - (36.0, 41.4)| |C|Druid| |Z|Moonglade|
+N Cast Teleport: Moonglade |O| |C|Druid| |Z|Moonglade|
 N This will save you time from running back |O| |C|Druid| |Z|Moonglade|
 T Trial of the Sea Lion |QID|272| |N|Dendrite Starblaze - (56.2, 30.6)| |C|Druid| |Z|Moonglade|
 A Aquatic Form |QID|5061| |N|Dendrite Starblaze - (56.2, 30.6)| |C|Druid| |Z|Moonglade|
@@ -158,6 +163,7 @@ N If you have a Paladin or Druid friend, ask them to remove the [Touch of Zanzil
 t Train [Anti-Venom] |N|Shaina Fuller - (43.1, 26.2)| |C|Rogue| |R|!Dwarf| |Z|Stormwind City|
 C Craft an [Anti-Venom] |L|6452 1| |C|Rogue| |R|!Dwarf| |Z|Stormwind City|
 t Train your class spells |C|Rogue| |R|!Dwarf| |Z|Stormwind City|
+N Use the [Anti-Venom] in your bags to remove the [Touch of Zanzil] debuff |C|Rogue| |R|!Dwarf| |Z|Stormwind City|
 R Enter the SI:7 Headquarters. Travel up stairs toward Master Mathias Shaw |N|(78.7, 60.1)| |O| |C|Rogue| |Z|Stormwind City|
 N Remember to re-equip your main weapon if you switched to a [Dagger] earlier |N|(75.8, 59.8)| |C|Rogue| |Z|Stormwind City|
 T Klaven's Tower |QID|2359| |N|Master Mathias Shaw - (75.8, 59.8)| |C|Rogue| |Z|Stormwind City|
@@ -272,7 +278,8 @@ R the Stormwind Keep |N|(72.0, 21.5) (Stockades Dungeon Quest)| |D|Stockades| |Z
 T Infiltrating the Castle |QID|2745| |N|Tyrion - (69.2, 14.4) (Stockades Dungeon Quest)| |D|Stockades| |Z|Stormwind City|
 A Items of Some Consequence |QID|2746| |N|Tyrion - (69.2, 14.4) (Stockades Dungeon Quest)| |D|Stockades| |Z|Stormwind City|
 R Exit Stormwind. Travel to Clara's Farm House in Elwynn Forest |N|(32.4, 49.9) (Stockades Dungeon Quest)| |D|Stockades| |Z|Elwynn Forest|
-N If you still need [Silk Cloth] buy some from the Auction House |N|(34.0, 57.2) (Stockades Dungeon Quest)| |D|Stockades| |Z|Elwynn Forest|
+N If you still need [Silk Cloth] buy some from the Auction House |N|(34.0, 57.2) (Stockades Dungeon Quest)| |D|Stockades| |AH| |Z|Elwynn Forest|
+C Items of Some Consequence |QID|2746| |OIDX|2| |N|Loot Clara's Fresh Apples on the table (34.0, 57.2) (Stockades Dungeon Quest)| |D|Stockades| |AH| |Z|Elwynn Forest|
 C Items of Some Consequence |QID|2746| |OIDX|2| |N|Loot Clara's Fresh Apples on the table (34.0, 57.2) (Stockades Dungeon Quest)| |D|Stockades| |Z|Elwynn Forest|
 R Travel to Stormwind City |N|(70.3, 27.2) (Stockades Dungeon Quest)| |D|Stockades| |Z|Stormwind City|
 R the Stormwind Keep |N|(72.0, 21.5) (Stockades Dungeon Quest)| |D|Stockades| |Z|Stormwind City|
@@ -372,11 +379,11 @@ N Run along the road north to Redridge if you don't have the Redridge Flight Pat
 F Fly to Redridge Mountains |N|Felicia Maline - (77.5, 44.3)| |O| |Z|Duskwood|
 R Travel to Redridge Mountains |N|(31.5, 57.9)| |Z|Redridge Mountains|
 A Blackrock Bounty |QID|128| |N|Guard Howe - (31.5, 57.9)| |Z|Redridge Mountains|
-A Tharil'zun |QID|19| |N|Marshal Marris - (33.5, 49.0)| |C|Hunter/Warlock| |Z|Redridge Mountains|
-A Tharil'zun |QID|19| |N|Marshal Marris - (33.5, 49.0)| |Z|Redridge Mountains|
-A Shadow Magic |QID|115| |N|Marshal Marris - (33.5, 49.0)| |Z|Redridge Mountains|
+A Tharil'zun |QID|19| |N|Marshal Marris - (33.5, 49.0)| |C|Hunter/Warlock| |P|SOLO| |Z|Redridge Mountains|
+A Tharil'zun |QID|19| |N|[Group] Marshal Marris - (33.5, 49.0)| |P|GROUP| |Z|Redridge Mountains|
+A Shadow Magic |QID|115| |N|[Group] Marshal Marris - (33.5, 49.0)| |P|GROUP| |Z|Redridge Mountains|
 A Howling in the Hills |QID|126| |N|Verner Osgood - (31.0, 47.3)| |C|!Hunter| |Z|Redridge Mountains|
-A Wanted: Gath'Ilzogg |QID|169| |N|on The Wanted Poster - (29.6, 46.2)| |Z|Redridge Mountains|
+A Wanted: Gath'Ilzogg |QID|169| |N|[Group] on The Wanted Poster - (29.6, 46.2)| |P|GROUP| |Z|Redridge Mountains|
 A Solomon's Law |QID|91| |N|Bailiff Conacher - (29.7, 44.3)| |Z|Redridge Mountains|
 A Wanted: Lieutenant Fangore |QID|180| |N|on The Wanted Poster - (26.8, 46.4)| |Z|Redridge Mountains|
 A An Unwelcome Guest |QID|34| |N|Martie Jainrose - (21.9, 46.3)| |Z|Redridge Mountains|
@@ -385,17 +392,17 @@ T An Unwelcome Guest |QID|34| |N|Martie Jainrose - (21.9, 46.3)| |Z|Redridge Mou
 N Split pull him using [Blizzard] or [Flamestrike] |N|(27.6, 21.8)| |C|Mage| |Z|Redridge Mountains|
 C Howling in the Hills |QID|126| |OIDX|1| |N|Yowler. Loot him for his Paw (27.6, 21.8)| |Z|Redridge Mountains|
 T A Watchful Eye |QID|94| |N|the Old Lion Statue - (84.5, 46.8)| |Z|Redridge Mountains|
-A Looking Further |QID|248| |N|the Old Lion Statue - (84.5, 46.8)| |Z|Redridge Mountains|
+A Looking Further |QID|248| |N|[Group] the Old Lion Statue - (84.5, 46.8)| |P|GROUP| |Z|Redridge Mountains|
 C Solomon's Law |QID|91| |OIDX|1| |N|the Shadowhides. Loot them for their Pendants (77.5, 36.3)| |Z|Redridge Mountains|
+C Shadow Magic |QID|115| |OIDX|1| |N|[Group] Kill Blackrock Shadowcasters. Loot them for their Orbs| |O| |P|GROUP| |Z|Redridge Mountains|
+C Tharil'zun |QID|19| |OIDX|1| |N|[Group] Tharil'zun. Loot him for his Head (71.4, 55.1)| |O| |P|GROUP| |Z|Redridge Mountains|
+N Kill Gath'Ilzogg. Loot him for his Head |N|[Group] (69.6, 55.8)| |P|GROUP| |Z|Redridge Mountains|
+C Wanted: Gath'Ilzogg |QID|169| |OIDX|1| |N|[Group] Enter Stonewatch Keep (69.6, 55.8)| |P|GROUP| |Z|Redridge Mountains|
 C Shadow Magic |QID|115| |OIDX|1| |N|Kill Blackrock Shadowcasters. Loot them for their Orbs| |O| |Z|Redridge Mountains|
-C Tharil'zun |QID|19| |OIDX|1| |N|Tharil'zun. Loot him for his Head (71.4, 55.1)| |O| |Z|Redridge Mountains|
-N Kill Gath'Ilzogg. Loot him for his Head |N|(69.6, 55.8)| |Z|Redridge Mountains|
-C Wanted: Gath'Ilzogg |QID|169| |OIDX|1| |N|Enter Stonewatch Keep (69.6, 55.8)| |Z|Redridge Mountains|
-C Shadow Magic |QID|115| |OIDX|1| |N|Kill Blackrock Shadowcasters. Loot them for their Orbs| |O| |Z|Redridge Mountains|
-C Tharil'zun |QID|19| |OIDX|1| |N|Tharil'zun. Loot him for his Head (71.4, 55.1)| |Z|Redridge Mountains|
-C Shadow Magic |QID|115| |OIDX|1| |N|Blackrock Shadowcasters. Loot them for their Orbs (66.7, 56.3)| |Z|Redridge Mountains|
-N Don't accept the follow up |N|(63.2, 49.8)| |Z|Redridge Mountains|
-T Looking Further |QID|248| |N|An Empty Jar on the barrel at the top of Stonewatch Tower - (63.2, 49.8)| |Z|Redridge Mountains|
+C Tharil'zun |QID|19| |OIDX|1| |N|[Group] Tharil'zun. Loot him for his Head (71.4, 55.1)| |P|GROUP| |Z|Redridge Mountains|
+C Shadow Magic |QID|115| |OIDX|1| |N|[Group] Blackrock Shadowcasters. Loot them for their Orbs (66.7, 56.3)| |P|GROUP| |Z|Redridge Mountains|
+N Don't accept the follow up |N|[Group] (63.2, 49.8)| |P|GROUP| |Z|Redridge Mountains|
+T Looking Further |QID|248| |N|[Group] An Empty Jar on the barrel at the top of Stonewatch Tower - (63.2, 49.8)| |P|GROUP| |Z|Redridge Mountains|
 C Blackrock Bounty |QID|128| |OIDX|1| |N|Blackrock Champions (28.9, 13.2)| |Z|Redridge Mountains|
 A Missing In Action |QID|219| |N|Corporal Keeshan in the back of Render's Rock - (28.4, 12.6)| |Z|Redridge Mountains|
 N Be careful to not pull too many mobs right after you leave the cave |N|(33.4, 48.5)| |Z|Redridge Mountains|

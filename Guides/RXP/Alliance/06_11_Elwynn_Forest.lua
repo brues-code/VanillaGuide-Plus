@@ -18,6 +18,7 @@ A Kobold Candles |QID|60| |N|William Pestle - (43.3, 65.7)| |Z|Elwynn Forest|
 T Rest and Relaxation |QID|2158| |N|Innkeeper Farley - (43.8, 65.8)| |C|Rogue/Warrior| |Z|Elwynn Forest|
 T Rest and Relaxation |QID|2158| |N|Innkeeper Farley - (43.8, 65.8)| |C|!Rogue/!Warrior| |Z|Elwynn Forest|
 h Goldshire |N|Set hearth in Goldshire (43.8, 65.8)| |Z|Elwynn Forest|
+G Grind to 6 |O| |Z|Elwynn Forest|
 B Buy the [Balanced Throwing Daggers] from him if you can afford it |N|Brog Hamfist - (44.0, 65.9)| |C|Rogue| |Z|Elwynn Forest|
 B Collect Balanced Throwing Dagger (200) |L|2946 200| |N|Brog Hamfist - (44.0, 65.9)| |C|Rogue| |Z|Elwynn Forest|
 R Travel downstairs |N|(44.1, 66.0)| |O| |C|Warlock| |Z|Elwynn Forest|
@@ -57,8 +58,10 @@ C [Blacksmith] the [Rough Stones] into [Rough Sharpening Stones] |L|3239 5| |O| 
 C Rough Stone (5) |L|2835 5| |N|[Blacksmith] the [Rough Stones] into [Rough Sharpening Stones]| |O| |C|Warrior/Paladin/Rogue| |Z|Elwynn Forest|
 C [Blacksmith] the [Rough Stones] into [Rough Sharpening Stones] |L|2589 1| |O| |C|Paladin| |Z|Elwynn Forest|
 t Train Blacksmithing |O| |C|Warrior/Paladin/Rogue| |Z|Elwynn Forest|
+N Use the [Rough Weightstone] on your current weapon |O| |C|Paladin| |Z|Elwynn Forest|
+N Rough Sharpening Stone (1) |O| |C|Rogue/Warrior| |Z|Elwynn Forest|
 N Rough Weightstone (1) |O| |C|Paladin| |Z|Elwynn Forest|
-t Train Blacksmithing |N|Rough Sharpening Stone (1)| |O| |C|Warrior/Paladin/Rogue| |Z|Elwynn Forest|
+t Train Blacksmithing |N|Use the [Rough Sharpening Stone] on your current weapon| |O| |C|Warrior/Paladin/Rogue| |Z|Elwynn Forest|
 C Kobold Candles |QID|60| |OIDX|1| |N|Kobold Tunnelers and Kobold Miners. Loot them for their Kobold Candles and Gold Dust Kobold Candle (8)| |O| |Z|Elwynn Forest|
 C Gold Dust Exchange |QID|47| |OIDX|1| |N|Kobold Tunnelers and Kobold Miners. Loot them for their Kobold Candles and Gold Dust Gold Dust (10)| |O| |Z|Elwynn Forest|
 T Lost Necklace |QID|85| |N|Billy Maclure - (43.1, 85.7)| |Z|Elwynn Forest|
@@ -75,8 +78,10 @@ C [Blacksmith] the [Rough Stones] into [Rough Sharpening Stones] |L|3239 5| |O| 
 C Rough Stone (5) |L|2835 5| |N|[Blacksmith] the [Rough Stones] into [Rough Sharpening Stones]| |O| |C|Warrior/Paladin/Rogue| |Z|Elwynn Forest|
 C [Blacksmith] the [Rough Stones] into [Rough Sharpening Stones] |L|2589 1| |O| |C|Paladin| |Z|Elwynn Forest|
 t Train Blacksmithing |O| |C|Warrior/Paladin/Rogue| |Z|Elwynn Forest|
+N Use the [Rough Weightstone] on your current weapon |O| |C|Paladin| |Z|Elwynn Forest|
+N Rough Sharpening Stone (1) |O| |C|Rogue/Warrior| |Z|Elwynn Forest|
 N Rough Weightstone (1) |O| |C|Paladin| |Z|Elwynn Forest|
-t Train Blacksmithing |N|Rough Sharpening Stone (1)| |O| |C|Warrior/Paladin/Rogue| |Z|Elwynn Forest|
+t Train Blacksmithing |N|Use the [Rough Sharpening Stone] on your current weapon| |O| |C|Warrior/Paladin/Rogue| |Z|Elwynn Forest|
 C Kobold Candles |QID|60| |OIDX|1| |N|Kobold Tunnelers and Kobold Miners. Loot them for their Kobold Candles and Gold Dust Kobold Candle (8)| |O| |Z|Elwynn Forest|
 C Gold Dust Exchange |QID|47| |OIDX|1| |N|Kobold Tunnelers and Kobold Miners. Loot them for their Kobold Candles and Gold Dust Gold Dust (10)| |O| |Z|Elwynn Forest|
 T Young Lovers |QID|106| |N|Tommy Joe Stonefield - (29.8, 86.0)| |Z|Elwynn Forest|
@@ -94,8 +99,10 @@ C [Blacksmith] the [Rough Stones] into [Rough Sharpening Stones] |L|3239 5| |O| 
 C Rough Stone (5) |L|2835 5| |N|[Blacksmith] the [Rough Stones] into [Rough Sharpening Stones]| |O| |C|Warrior/Paladin/Rogue| |Z|Elwynn Forest|
 C [Blacksmith] the [Rough Stones] into [Rough Sharpening Stones] |L|2589 1| |O| |C|Paladin| |Z|Elwynn Forest|
 t Train Blacksmithing |O| |C|Warrior/Paladin/Rogue| |Z|Elwynn Forest|
+N Use the [Rough Weightstone] on your current weapon |O| |C|Paladin| |Z|Elwynn Forest|
+N Rough Sharpening Stone (1) |O| |C|Rogue/Warrior| |Z|Elwynn Forest|
 N Rough Weightstone (1) |O| |C|Paladin| |Z|Elwynn Forest|
-t Train Blacksmithing |N|Rough Sharpening Stone (1)| |O| |C|Warrior/Paladin/Rogue| |Z|Elwynn Forest|
+t Train Blacksmithing |N|Use the [Rough Sharpening Stone] on your current weapon| |O| |C|Warrior/Paladin/Rogue| |Z|Elwynn Forest|
 C Kobold Candles |QID|60| |OIDX|1| |N|Kill Kobold Miner Kobold Candle (8)| |Z|Elwynn Forest|
 C Gold Dust Exchange |QID|47| |OIDX|1| |N|Kobold Candles Gold Dust (10)| |Z|Elwynn Forest|
 T Back to Billy |QID|84| |N|Billy Maclure - (43.1, 85.7)| |Z|Elwynn Forest|
@@ -126,6 +133,7 @@ T Kobold Candles |QID|60| |N|William Pestle - (43.3, 65.7)| |Z|Elwynn Forest|
 A Shipment to Stormwind |QID|61| |N|William Pestle - (43.3, 65.7)| |Z|Elwynn Forest|
 T Note to William |QID|107| |N|William Pestle - (43.3, 65.7)| |Z|Elwynn Forest|
 A Collecting Kelp |QID|112| |N|William Pestle - (43.3, 65.7)| |Z|Elwynn Forest|
+G Grind to 8 |O| |Z|Elwynn Forest|
 t Train your class spells |N|Lyria Du Lac - (41.1, 65.8)| |C|Warrior| |Z|Elwynn Forest|
 t Train your class spells |N|Brother Wilhelm - (41.1, 66.0)| |C|Paladin| |Z|Elwynn Forest|
 R Travel downstairs in the Inn |N|(44.1, 66.0)| |O| |C|Warlock| |Z|Elwynn Forest|
@@ -155,8 +163,10 @@ C [Blacksmith] the [Rough Stones] into [Rough Sharpening Stones] |L|3239 5| |O| 
 C Rough Stone (5) |L|2835 5| |N|[Blacksmith] the [Rough Stones] into [Rough Sharpening Stones]| |O| |C|Warrior/Paladin/Rogue| |Z|Elwynn Forest|
 C [Blacksmith] the [Rough Stones] into [Rough Sharpening Stones] |L|2589 1| |O| |C|Paladin| |Z|Elwynn Forest|
 t Train Blacksmithing |O| |C|Warrior/Paladin/Rogue| |Z|Elwynn Forest|
+N Use the [Rough Weightstone] on your current weapon |O| |C|Paladin| |Z|Elwynn Forest|
+N Rough Sharpening Stone (1) |O| |C|Rogue/Warrior| |Z|Elwynn Forest|
 N Rough Weightstone (1) |O| |C|Paladin| |Z|Elwynn Forest|
-t Train Blacksmithing |N|Rough Sharpening Stone (1)| |O| |C|Warrior/Paladin/Rogue| |Z|Elwynn Forest|
+t Train Blacksmithing |N|Use the [Rough Sharpening Stone] on your current weapon| |O| |C|Warrior/Paladin/Rogue| |Z|Elwynn Forest|
 R Enter the Jasperlode Mine |N|(61.7, 53.6)| |O| |Z|Elwynn Forest|
 C The Jasperlode Mine |QID|76| |OIDX|1| |N|Follow the path through middle to explore Jasperlode Mine Scout through the Jasperlode Mine| |Z|Elwynn Forest|
 N Kill Kobold Miners. Open Battered Chests. Loot them for their [Rough Stones] and [Linen Cloth] |O| |C|Paladin| |Z|Elwynn Forest|
@@ -168,8 +178,10 @@ C [Blacksmith] the [Rough Stones] into [Rough Sharpening Stones] |L|3239 5| |O| 
 C Rough Stone (5) |L|2835 5| |N|[Blacksmith] the [Rough Stones] into [Rough Sharpening Stones]| |O| |C|Warrior/Paladin/Rogue| |Z|Elwynn Forest|
 C [Blacksmith] the [Rough Stones] into [Rough Sharpening Stones] |L|2589 1| |O| |C|Paladin| |Z|Elwynn Forest|
 t Train Blacksmithing |O| |C|Warrior/Paladin/Rogue| |Z|Elwynn Forest|
+N Use the [Rough Weightstone] on your current weapon |O| |C|Paladin| |Z|Elwynn Forest|
+N Rough Sharpening Stone (1) |O| |C|Rogue/Warrior| |Z|Elwynn Forest|
 N Rough Weightstone (1) |O| |C|Paladin| |Z|Elwynn Forest|
-t Train Blacksmithing |N|Rough Sharpening Stone (1)| |O| |C|Warrior/Paladin/Rogue| |Z|Elwynn Forest|
+t Train Blacksmithing |N|Use the [Rough Sharpening Stone] on your current weapon| |O| |C|Warrior/Paladin/Rogue| |Z|Elwynn Forest|
 R Exit Jasperlode Mine |N|(61.8, 53.9)| |O| |Z|Elwynn Forest|
 C x20,cooking --Stringy Wolf Meat (1-10) |QID|2178| |L|2672 10| |N|Gray Forest Wolves. Loot them for their [Stringy Wolf Meat] (63.7, 64.7)| |O| |Z|Elwynn Forest|
 N Don't go out of your way to farm this now. Simply kill and loot all the wolves you're passing by |N|(63.7, 64.7)| |O| |Z|Elwynn Forest|
@@ -261,6 +273,7 @@ A Cloth and Leather Armor |QID|59| |N|Marshal Dughan - (42.1, 65.9)| |C|Warlock|
 A Report to Gryan Stoutmantle |QID|109| |N|Marshal Dughan - (42.1, 65.9)| |Z|Elwynn Forest|
 B Vendor Trash |N|Corina Steele - (41.5, 65.9)| |Z|Elwynn Forest|
 A Elmore's Task |QID|1097| |N|Smith Argus - (41.7, 65.5)| |Z|Elwynn Forest|
+G Grind to 10 |O| |C|Warlock/Warrior| |Z|Elwynn Forest|
 A A Warrior's Training |QID|1638| |N|Lyria Du Lac - (41.1, 65.8)| |C|Warrior| |Z|Elwynn Forest|
 t Train your class spells |N|Lyria Du Lac - (41.1, 65.8)| |C|Warrior| |Z|Elwynn Forest|
 N Do not train as you need to save your money for later |N|(41.1, 65.8)| |O| |C|Warrior| |Z|Elwynn Forest|
@@ -283,6 +296,8 @@ T The Escape |QID|114| |N|Maybell Maclure - (43.2, 89.6)| |Z|Elwynn Forest|
 T Princess Must Die! |QID|88| |N|Ma Stonefield - (34.7, 84.5)| |C|Rogue/Hunter| |Z|Elwynn Forest|
 T Princess Must Die! |QID|88| |N|Ma Stonefield - (34.7, 84.5)| |C|Warrior/Paladin| |Z|Elwynn Forest|
 T Princess Must Die! |QID|88| |N|Ma Stonefield - (34.7, 84.5)| |C|!Rogue/!Hunter/!Warrior/!Paladin| |Z|Elwynn Forest|
+G Grind en route to 4510+/6500xp |O| |C|!Warrior/!Warlock| |Z|Elwynn Forest|
+G Grind en route to 5110+/6500xp |O| |C|!Warrior/!Warlock| |Z|Elwynn Forest|
 R Westbrook Garrison |N|(24.8, 76.2)| |O| |Z|Elwynn Forest|
 T Westbrook Garrison Needs Help! |QID|239| |N|Deputy Rainer - (24.2, 74.5)| |Z|Elwynn Forest|
 A Riverpaw Gnoll Bounty |QID|11| |N|Deputy Rainer - (24.2, 74.5)| |C|Warlock| |Z|Elwynn Forest|
@@ -300,6 +315,8 @@ N Kite him back to the guard tower if required ensuring you've done at least 50%
 C Wanted: "Hogger" |QID|176| |OIDX|1| |N|Hogger. Loot him for his Claw Huge Gnoll Claw (1)| |C|Warlock| |Z|Elwynn Forest|
 C Riverpaw Gnoll Bounty |QID|11| |OIDX|1| |N|Riverpaw Runts and Riverpaw Outrunners. Loot them for their Armbands Painted Gnoll Armband (8)| |C|Warlock| |Z|Elwynn Forest|
 T Riverpaw Gnoll Bounty |QID|11| |N|Deputy Rainer - (24.2, 74.5)| |C|Warlock| |Z|Elwynn Forest|
+G Grind en route to 4575+/6500xp |O| |C|!Warrior/!Warlock| |Z|Elwynn Forest|
+G Grind en route to 5175+/6500xp |O| |C|!Warrior/!Warlock| |Z|Elwynn Forest|
 R Travel to Westfall |N|(60.0, 19.4)| |O| |Z|Westfall|
 A The Forgotten Heirloom |QID|64| |N|Farmer Furlbrow and Verna Furlbrow - (60.0, 19.4)| |O| |Z|Westfall|
 T Furlbrow's Deed |QID|184| |N|Farmer Furlbrow and Verna Furlbrow - (60.0, 19.4)| |O| |Z|Westfall|
@@ -341,15 +358,15 @@ t Sprint not Trained |N|Gunther Weller - (57.5, 57.1)| |O| |C|Rogue| |Z|Stormwin
 N Buy a [Cutlass] from him |N|(57.5, 57.1)| |O| |C|Rogue| |Z|Stormwind City|
 B Cutlass (1) |L|851 1| |N|Gunther Weller - (57.5, 57.1)| |O| |C|Rogue| |Z|Stormwind City|
 t Sprint Trained |N|Gunther Weller - (57.5, 57.1)| |O| |C|Rogue| |Z|Stormwind City|
-N Buy a [Cutlass] from him |N|(53.6, 59.8)| |O| |C|Rogue| |Z|Stormwind City|
-N Alternatively, check the Auction House for something better or cheaper |N|(53.6, 59.8)| |O| |C|Rogue| |Z|Stormwind City|
-N Make sure you save 6s for training later |N|(53.6, 59.8)| |O| |C|Rogue| |Z|Stormwind City|
-B Cutlass (1) |L|851 1| |N|Gunther Weller - (53.6, 59.8)| |O| |C|Rogue| |Z|Stormwind City|
-t Sprint not Trained |N|Gunther Weller - (53.6, 59.8)| |O| |C|Rogue| |Z|Stormwind City|
-N Buy a [Cutlass] from him |N|(53.6, 59.8)| |O| |C|Rogue| |Z|Stormwind City|
-N Alternatively, check the Auction House for something better or cheaper |N|(53.6, 59.8)| |O| |C|Rogue| |Z|Stormwind City|
-B Cutlass (1) |L|851 1| |N|Gunther Weller - (53.6, 59.8)| |O| |C|Rogue| |Z|Stormwind City|
-t Sprint Trained |N|Gunther Weller - (53.6, 59.8)| |O| |C|Rogue| |Z|Stormwind City|
+N Buy a [Cutlass] from him |N|(53.6, 59.8)| |O| |C|Rogue| |AH| |Z|Stormwind City|
+N Alternatively, check the Auction House for something better or cheaper |N|(53.6, 59.8)| |O| |C|Rogue| |AH| |Z|Stormwind City|
+N Make sure you save 6s for training later |N|(53.6, 59.8)| |O| |C|Rogue| |AH| |Z|Stormwind City|
+B Cutlass (1) |L|851 1| |N|Gunther Weller - (53.6, 59.8)| |O| |C|Rogue| |AH| |Z|Stormwind City|
+t Sprint not Trained |N|Gunther Weller - (53.6, 59.8)| |O| |C|Rogue| |AH| |Z|Stormwind City|
+N Buy a [Cutlass] from him |N|(53.6, 59.8)| |O| |C|Rogue| |AH| |Z|Stormwind City|
+N Alternatively, check the Auction House for something better or cheaper |N|(53.6, 59.8)| |O| |C|Rogue| |AH| |Z|Stormwind City|
+B Cutlass (1) |L|851 1| |N|Gunther Weller - (53.6, 59.8)| |O| |C|Rogue| |AH| |Z|Stormwind City|
+t Sprint Trained |N|Gunther Weller - (53.6, 59.8)| |O| |C|Rogue| |AH| |Z|Stormwind City|
 R Innkeeper Allison |N|(52.6, 65.7)| |Z|Stormwind City|
 h Stormwind City |N|Set hearth in Stormwind City (52.6, 65.7)| |Z|Stormwind City|
 R The Slaughtered Lamb and go downstairs |N|(27.2, 78.1)| |O| |C|Warlock| |Z|Stormwind City|
@@ -394,6 +411,7 @@ t Train your class spells |N|Ursula Deline - (26.1, 77.2)| |O| |C|Warlock| |Z|St
 T Surena Caledon |QID|1688| |N|Gakin the Darkbinder - (25.2, 78.6)| |C|Warlock| |Z|Stormwind City|
 A The Binding |QID|1689| |N|Gakin the Darkbinder - (25.2, 78.6)| |C|Warlock| |Z|Stormwind City|
 R the bottom of The Slaughtered Lamb |N|(25.2, 77.4)| |O| |C|Warlock| |Z|Stormwind City|
+N Use the [Bloodstone Choker] to call forth a Summoned Voidwalker |N|(25.2, 77.4)| |O| |C|Warlock| |Z|Stormwind City|
 C The Binding |QID|1689| |OIDX|1| |N|Kill the Summoned Voidwalker Kill Summoned Voidwalker (x1)| |C|Warlock| |Z|Stormwind City|
 T The Binding |QID|1689| |N|Gakin the Darkbinder - (25.2, 78.6)| |C|Warlock| |Z|Stormwind City|
 N Only train [Dual Wield] and [Sprint] |N|(74.6, 52.8)| |C|Rogue| |Z|Stormwind City|
@@ -419,6 +437,11 @@ B Buy a [Mining Pick] from her |L|2901 1| |N|Kaita Deepforge - (56.3, 17.0)| |O|
 N You'll train [Mining] later |N|(56.3, 17.0)| |O| |C|Warrior/Paladin/Rogue| |Z|Stormwind City|
 t Blacksmithing |N|Kaita Deepforge - (56.3, 17.0)| |O| |C|Warrior/Paladin/Rogue| |Z|Stormwind City|
 N On the Tram when it arrives: |O| |Z|Stormwind City|
+N Create a [Basic Campfire] (under the General Tab of your Spellbook) |O| |Z|Stormwind City|
+N On the Tram when it arrives: |O| |Z|Stormwind City|
+N Create a [Basic Campfire] (under the General Tab of your Spellbook) |O| |Z|Stormwind City|
+N On the Tram when it arrives: |O| |Z|Stormwind City|
+N Create a [Basic Campfire] (under the General Tab of your Spellbook) |O| |Z|Stormwind City|
 N You need 50 [Cooking] for a quest in Duskwood later |O| |Z|Stormwind City|
 N [Cook] the following items: |O| |Z|Stormwind City|
 N [Cook] the [Chunks of Boar Meat] into [Roasted Boar Meat] |O| |Z|Stormwind City|
@@ -486,7 +509,7 @@ A The Public Servant |QID|433| |N|Senator Mehr Stonehallow and Foreman Stonebrow
 R Travel to Dun Morogh |N|(68.7, 56.0)| |Z|Dun Morogh|
 A Those Blasted Troggs! |QID|432| |N|Senator Mehr Stonehallow and Foreman Stonebrow - (68.7, 56.0)| |Z|Dun Morogh|
 R Travel to Dun Morogh |N|(69.1, 56.3)| |Z|Dun Morogh|
-t Mining Trained |O| |C|Warrior/Paladin/Rogue| |Z|Dun Morogh|
+t Mining Trained |N|Cast [Find Minerals]| |O| |C|Warrior/Paladin/Rogue| |Z|Dun Morogh|
 C Those Blasted Troggs! |QID|432| |OIDX|1| |N|Rockjaw Skullthumpers and Rockjaw Bonesnappers inside the cave Kill Rockjaw Skullthumper (x6)| |Z|Dun Morogh|
 C The Public Servant |QID|433| |OIDX|1| |N|Rockjaw Skullthumpers and Rockjaw Bonesnappers inside the cave Kill Rockjaw Bonesnapper (x10)| |Z|Dun Morogh|
 T Those Blasted Troggs! |QID|432| |N|Foreman Stonebrow and Senator Mehr Stonehallow - (69.1, 56.3)| |Z|Dun Morogh|

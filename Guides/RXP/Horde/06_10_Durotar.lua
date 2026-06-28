@@ -212,6 +212,7 @@ T Winds in the Desert |QID|834| |N|Rezlak - (46.4, 22.9)| |Z|Durotar|
 A Securing the Lines |QID|835| |N|Rezlak - (46.4, 22.9)| |Z|Durotar|
 R Jump into Thunder Ridge |N|(41.7, 25.7)| |O| |C|!Hunter/!Warlock| |Z|Durotar|
 R Dismiss your [Imp] by right clicking its unit frame and clicking dismiss |N|(41.7, 25.7)| |O| |C|Warlock| |Z|Durotar|
+N Cast Dismiss Pet |N|(41.7, 25.7)| |O| |C|Hunter| |Z|Durotar|
 N Be careful. Kill the patrolling Burning Blade Fanatic and the Lightning Hides in the back before you pull him |N|(42.1, 26.7)| |Z|Durotar|
 N Pull him backwards towards the Lightning Hides you just killed. Otherwise you may bodypull additional Burning Blade mobs |N|(42.1, 26.7)| |Z|Durotar|
 N Don't be afraid to die for the Claw as you will be respawning at the Spirit Healer after |N|(42.1, 26.7)| |Z|Durotar|

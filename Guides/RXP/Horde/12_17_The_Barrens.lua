@@ -76,6 +76,7 @@ R Travel to Durotar |N|(39.2, 57.9) (RFC Dungeon Quest)| |C|Shaman| |R|Tauren| |
 R Travel the path up the mountain toward Telf |N|(39.2, 58.6) (RFC Dungeon Quest)| |C|Shaman| |R|Tauren| |D|RFC| |Z|Durotar|
 T Call of Fire |QID|1525| |N|Telf - (38.5, 58.9) (RFC Dungeon Quest)| |C|Shaman| |R|Tauren| |D|RFC| |Z|Durotar|
 A Call of Fire |QID|1526| |N|Telf - (38.5, 58.9) (RFC Dungeon Quest)| |C|Shaman| |R|Tauren| |D|RFC| |Z|Durotar|
+N Use the [Fire Sapta] |N|(38.2, 58.6) (RFC Dungeon Quest)| |C|Shaman| |R|Tauren| |D|RFC| |Z|Durotar|
 C Call of Fire |QID|1526| |OIDX|1| |N|the Minor Manifestation of Fire. Loot him for a Glowing Ember Glowing Ember (1) (RFC Dungeon Quest)| |C|Shaman| |R|Tauren| |D|RFC| |Z|Durotar|
 T Call of Fire |QID|1526| |N|the Brazier on the ground - (39.0, 58.2) (RFC Dungeon Quest)| |C|Shaman| |R|Tauren| |D|RFC| |Z|Durotar|
 A Call of Fire |QID|1527| |N|the Brazier on the ground - (39.0, 58.2) (RFC Dungeon Quest)| |C|Shaman| |R|Tauren| |D|RFC| |Z|Durotar|
@@ -140,6 +141,7 @@ R Travel to Durotar |N|(36.7, 57.8)| |O| |C|Shaman| |Z|Durotar|
 R Travel the path up the mountain toward Telf |N|(39.2, 58.6)| |O| |C|Shaman| |Z|Durotar|
 T Call of Fire |QID|1525| |N|Telf - (38.5, 58.9)| |C|Shaman| |Z|Durotar|
 A Call of Fire |QID|1526| |N|Telf - (38.5, 58.9)| |C|Shaman| |Z|Durotar|
+N Use the [Fire Sapta] |N|(38.2, 58.6)| |O| |C|Shaman| |Z|Durotar|
 C Call of Fire |QID|1526| |OIDX|1| |N|the Minor Manifestation of Fire. Loot him for a Glowing Ember Glowing Ember (1)| |C|Shaman| |Z|Durotar|
 T Call of Fire |QID|1526| |N|the Brazier on the ground - (39.0, 58.2)| |C|Shaman| |Z|Durotar|
 A Call of Fire |QID|1527| |N|the Brazier on the ground - (39.0, 58.2)| |C|Shaman| |Z|Durotar|
@@ -261,8 +263,8 @@ C Chen's Empty Keg |QID|821| |OIDX|2| |N|Kill Plainstriders. Loot them for their
 N If it hasn't dropped after 25+ mobs, feel free to skip this quest |N|(61.5, 4.4)| |Z|The Barrens|
 C Miner's Fortune |QID|896| |OIDX|1| |N|Venture Co. Enforcers and Venture Co. Overseers. Loot them for Cats Eye Emerald Cats Eye Emerald (1)| |Z|The Barrens|
 C Flask of Oil (5) |QID|103| |L|814 5| |N|Venture Co. Overseers. Loot them for their [Flask of Oil] (61.5, 4.4) (DM Dungeon Quest)| |D|DM| |Z|The Barrens|
-N You could also buy them from the auction house instead |N|(61.5, 4.4) (DM Dungeon Quest)| |D|DM| |Z|The Barrens|
-B Flask of Oil (5) |L|814 5| |N|Venture Co. Overseers. Loot them for their [Flask of Oil] - (61.5, 4.4) (DM Dungeon Quest)| |D|DM| |Z|The Barrens|
+N You could also buy them from the auction house instead |N|(61.5, 4.4) (DM Dungeon Quest)| |D|DM| |AH| |Z|The Barrens|
+B Flask of Oil (5) |L|814 5| |N|Venture Co. Overseers. Loot them for their [Flask of Oil] - (61.5, 4.4) (DM Dungeon Quest)| |D|DM| |AH| |Z|The Barrens|
 R Travel to Kalimdor |N|(56.8, 45.5)| |O| |Z|Kalimdor|
 t Train your class spells |N|Ur'kyo - (35.6, 87.8)| |O| |C|Priest| |Z|Orgrimmar|
 t Train your class spells |N|Pephredo - (38.4, 85.5)| |C|Mage| |Z|Orgrimmar|

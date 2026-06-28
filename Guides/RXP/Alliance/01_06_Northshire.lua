@@ -13,6 +13,7 @@ N Click here for video reference |N|(56.7, 44.0)| |C|Warlock| |Z|Elwynn Forest|
 C The Stolen Tome |QID|1598| |OIDX|1| |N|Run into the Tent at the Defias Camp Collect Powers of the Void (x1)| |C|Warlock| |Z|Elwynn Forest|
 N Die and respawn at the Spirit Healer |N|(49.5, 43.5)| |O| |C|Warlock| |Z|Elwynn Forest|
 T The Stolen Tome |QID|1598| |N|Drusilla La Salle - (49.9, 42.6)| |C|Warlock| |Z|Elwynn Forest|
+N Cast [Summon Imp] |O| |C|Warlock| |Z|Elwynn Forest|
 A A Threat Within |QID|783| |N|Deputy Willem - (48.2, 42.9)| |Z|Elwynn Forest|
 N You will train [Battle Shout] which increases early leveling speeds |N|(46.4, 40.3)| |C|Warrior| |Z|Elwynn Forest|
 N Brother Danil |N|(46.4, 40.3)| |C|Warrior| |Z|Elwynn Forest|

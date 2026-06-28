@@ -97,9 +97,9 @@ T Ride to the Undercity |QID|6323| |N|Gordon - (61.5, 41.8)| |R|Undead| |Z|Under
 A Michael Garrett |QID|6322| |N|Gordon - (61.5, 41.8)| |R|Undead| |Z|Undercity|
 N Buy a [Scimitar] from him |N|(61.1, 40.9)| |C|Rogue| |Z|Undercity|
 B Collect Scimitar (1) |L|2027 1| |N|Louis Warren in the Trade Quarter - (61.1, 40.9)| |C|Rogue| |Z|Undercity|
-N Buy a [Scimitar] from him |N|(61.1, 40.9)| |C|Rogue| |Z|Undercity|
-N Alternatively, check the Auction House for something better or cheaper |N|(61.1, 40.9)| |C|Rogue| |Z|Undercity|
-B Collect Scimitar (1) |L|2027 1| |N|Louis Warren in the Trade Quarter - (61.1, 40.9)| |C|Rogue| |Z|Undercity|
+N Buy a [Scimitar] from him |N|(61.1, 40.9)| |C|Rogue| |AH| |Z|Undercity|
+N Alternatively, check the Auction House for something better or cheaper |N|(61.1, 40.9)| |C|Rogue| |AH| |Z|Undercity|
+B Collect Scimitar (1) |L|2027 1| |N|Louis Warren in the Trade Quarter - (61.1, 40.9)| |C|Rogue| |AH| |Z|Undercity|
 T Michael Garrett |QID|6322| |N|Michael - (63.3, 48.5)| |R|Undead| |Z|Undercity|
 t Train your class spells |N|Baltus Fowler - (47.4, 17.3) (RFC Dungeon Quest)| |C|Warrior| |R|Undead| |D|RFC| |Z|Undercity|
 T The Prodigal Lich Returns |QID|411| |N|Bethor - (84.1, 17.5)| |C|Rogue/Undead/Warrior| |R|Undead| |Z|Undercity|
@@ -130,9 +130,9 @@ t Train your class spells |N|Anastasia - (85.1, 10.0)| |C|Mage| |Z|Undercity|
 t Train your class spells |N|Richard - (88.9, 15.9)| |C|Warlock| |R|Undead| |Z|Undercity|
 N Buy a [Smoldering Wand] from him |N|(69.5, 26.9)| |C|Priest/Mage/Warlock| |Z|Undercity|
 B Smoldering Wand (1) |L|5208 1| |N|Zane Bradford in the Magic Quarter - (69.5, 26.9)| |C|Priest/Mage/Warlock| |Z|Undercity|
-N Buy a [Smoldering Wand] from him |N|(69.5, 26.9)| |C|Priest/Mage/Warlock| |Z|Undercity|
-N Alternatively, check the Auction House for something better or cheaper |N|(69.5, 26.9)| |C|Priest/Mage/Warlock| |Z|Undercity|
-B Smoldering Wand (1) |L|5208 1| |N|Zane Bradford in the Magic Quarter - (69.5, 26.9)| |C|Priest/Mage/Warlock| |Z|Undercity|
+N Buy a [Smoldering Wand] from him |N|(69.5, 26.9)| |C|Priest/Mage/Warlock| |AH| |Z|Undercity|
+N Alternatively, check the Auction House for something better or cheaper |N|(69.5, 26.9)| |C|Priest/Mage/Warlock| |AH| |Z|Undercity|
+B Smoldering Wand (1) |L|5208 1| |N|Zane Bradford in the Magic Quarter - (69.5, 26.9)| |C|Priest/Mage/Warlock| |AH| |Z|Undercity|
 T Touch of Weakness |QID|5658| |N|Aelthalyste - (49.0, 18.3) (RFC Dungeon Quest)| |C|Priest| |R|Undead| |D|RFC| |Z|Undercity|
 t Touch of Weakness not trained |N|Aelthalyste - (49.0, 18.3) (RFC Dungeon Quest)| |C|Priest| |R|Undead| |D|RFC| |Z|Undercity|
 T Touch of Weakness |QID|5660| |N|Aelthalyste - (49.0, 18.3) (RFC Dungeon Quest)| |C|Priest| |R|!Undead| |D|RFC| |Z|Undercity|

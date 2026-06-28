@@ -14,13 +14,13 @@ B Sell your junk and repair, if necessary |N|Sranda - (2.9, 47.2)| |Z|Badlands|
 A Broken Alliances |QID|782| |N|Gorn - (2.9, 45.6)| |O| |Z|Badlands|
 A Badlands Reagent Run |QID|2258| |N|Jarkal - (2.4, 46.0)| |Z|Badlands|
 A Coyote Thieves |QID|1419| |N|Neeka - (6.4, 47.5)| |Z|Badlands|
-A Coolant Heads Prevail |QID|713| |N|Lotwil - (25.9, 44.9)| |Z|Badlands|
-T Coolant Heads Prevail |QID|713| |N|Lotwil - (25.9, 44.9)| |Z|Badlands|
-A Gyro... What? |QID|714| |N|Lotwil - (25.9, 44.9)| |Z|Badlands|
-T Gyro... What? |QID|714| |N|Lotwil - (25.9, 44.9)| |Z|Badlands|
+A Coolant Heads Prevail |QID|713| |N|Lotwil - (25.9, 44.9)| |AH| |Z|Badlands|
+T Coolant Heads Prevail |QID|713| |N|Lotwil - (25.9, 44.9)| |AH| |Z|Badlands|
+A Gyro... What? |QID|714| |N|Lotwil - (25.9, 44.9)| |AH| |Z|Badlands|
+T Gyro... What? |QID|714| |N|Lotwil - (25.9, 44.9)| |AH| |Z|Badlands|
 A Study of the Elements: Rock |QID|710| |N|Lotwil - (25.9, 44.9)| |Z|Badlands|
-A Liquid Stone |QID|715| |N|Lucien - (25.8, 44.2)| |Z|Badlands|
-T Liquid Stone |QID|715| |N|Lucien - (25.8, 44.2)| |Z|Badlands|
+A Liquid Stone |QID|715| |N|Lucien - (25.8, 44.2)| |AH| |Z|Badlands|
+T Liquid Stone |QID|715| |N|Lucien - (25.8, 44.2)| |AH| |Z|Badlands|
 N Don't focus on this. You can complete it later |O| |Z|Badlands|
 C While questing, kill any Buzzards and Coyotes you encounter. Loot them for their Wings, Gizzards, Jawbones and Fangs |QID|703| |L|3404 4| |N|While questing, kill any Buzzards and Coyotes you encounter. Loot them for their Wings, Gizzards, Jawbones and Fangs| |O| |Z|Badlands|
 C Badlands Reagent Run |QID|2258| |OIDX|1| |N|While questing, kill any Buzzards and Coyotes you encounter. Loot them for their Wings, Gizzards, Jawbones and Fangs| |O| |Z|Badlands|
@@ -36,8 +36,8 @@ N Prioritize Coyotes over Buzzards |O| |Z|Badlands|
 C Coyote Thieves |QID|1419| |OIDX|1| |N|Kill Coyotes and Buzzards. Loot them for their Jawbones, Fangs and Gizzards| |O| |Z|Badlands|
 C Badlands Reagent Run |QID|2258| |OIDX|2| |N|Kill Coyotes and Buzzards. Loot them for their Jawbones, Fangs and Gizzards| |O| |Z|Badlands|
 B Sell your junk and repair, if necessary |N|Jazzrik - (42.5, 52.5)| |O| |Z|Badlands|
-A Pearl Diving |QID|705| |N|Rigglefuzz - (42.4, 52.9)| |Z|Badlands|
-T Pearl Diving |QID|705| |N|Rigglefuzz - (42.4, 52.9)| |Z|Badlands|
+A Pearl Diving |QID|705| |N|Rigglefuzz - (42.4, 52.9)| |AH| |Z|Badlands|
+T Pearl Diving |QID|705| |N|Rigglefuzz - (42.4, 52.9)| |AH| |Z|Badlands|
 A Barbecued Buzzard Wings |QID|703| |N|Rigglefuzz and Martek - (42.4, 52.9)| |Z|Badlands|
 T Barbecued Buzzard Wing |QID|703| |N|Rigglefuzz and Martek - (42.4, 52.9)| |Z|Badlands|
 T Martek the Exiled |QID|1106| |N|Rigglefuzz and Martek - (42.4, 52.9)| |Z|Badlands|
@@ -62,24 +62,25 @@ C Coyote Thieves |QID|1419| |OIDX|1| |N|Coyotes. Loot them for their Jawbones an
 C Badlands Reagent Run |QID|2258| |OIDX|2| |N|Coyotes. Loot them for their Jawbones and Fangs (25.1, 55.1)| |Z|Badlands|
 C Badlands Reagent Run |QID|2258| |OIDX|1| |N|Buzzards. Loot them for their Gizzards (17.0, 61.2)| |Z|Badlands|
 T Study of the Elements: Rock |QID|711| |N|Lotwil - (25.9, 44.9)| |Z|Badlands|
-A Study of the Elements: Rock |QID|712| |N|Lotwil - (25.9, 44.9)| |Z|Badlands|
-C Study of the Elements: Rock |QID|712| |OIDX|1| |N|Greater Rock Elementals. Loot them for their Bracers (6.7, 81.7)| |Z|Badlands|
-T Study of the Elements: Rock |QID|712| |N|Lotwil - (25.9, 44.9)| |Z|Badlands|
-A Stone Is Better than Cloth |QID|716| |N|Lucien - (25.8, 44.2)| |Z|Badlands|
-T Stone Is Better than Cloth |QID|716| |N|Lucien - (25.8, 44.2)| |Z|Badlands|
-A This is Going to Be Hard |QID|734| |N|Lotwil - (25.9, 44.9)| |Z|Badlands|
-T This is Going to Be Hard |QID|734| |N|Lucien - (25.8, 44.2)| |Z|Badlands|
-A This is Going to Be Hard |QID|777| |N|Lucien - (25.8, 44.2)| |Z|Badlands|
-T This is Going to Be Hard |QID|777| |N|Lotwil - (25.9, 44.9)| |Z|Badlands|
-A This is Going to Be Hard |QID|778| |N|Lotwil - (25.9, 44.9)| |Z|Badlands|
-C This is Going to Be Hard |QID|778| |OIDX|1| |N|the Fam'retor Guardian. Loot him for his Bindings (26.1, 46.8)| |Z|Badlands|
+A Study of the Elements: Rock |QID|712| |N|Lotwil - (25.9, 44.9)| |AH| |Z|Badlands|
+C Study of the Elements: Rock |QID|712| |OIDX|1| |N|[Group] Greater Rock Elementals. Loot them for their Bracers (6.7, 81.7)| |P|GROUP| |AH| |Z|Badlands|
+T Study of the Elements: Rock |QID|712| |N|[Group] Lotwil - (25.9, 44.9)| |P|GROUP| |AH| |Z|Badlands|
+A Stone Is Better than Cloth |QID|716| |N|Lucien - (25.8, 44.2)| |AH| |Z|Badlands|
+T Stone Is Better than Cloth |QID|716| |N|Lucien - (25.8, 44.2)| |AH| |Z|Badlands|
+A This is Going to Be Hard |QID|734| |N|Lotwil - (25.9, 44.9)| |AH| |Z|Badlands|
+T This is Going to Be Hard |QID|734| |N|Lucien - (25.8, 44.2)| |AH| |Z|Badlands|
+A This is Going to Be Hard |QID|777| |N|Lucien - (25.8, 44.2)| |AH| |Z|Badlands|
+T This is Going to Be Hard |QID|777| |N|Lotwil - (25.9, 44.9)| |AH| |Z|Badlands|
+A This is Going to Be Hard |QID|778| |N|Lotwil - (25.9, 44.9)| |AH| |Z|Badlands|
+C This is Going to Be Hard |QID|778| |OIDX|1| |N|the Fam'retor Guardian. Loot him for his Bindings (26.1, 46.8)| |AH| |Z|Badlands|
 T This is Going to Be Hard |QID|778| |N|Return to Lotwil Veriatus - (25.9, 44.9)| |Z|Badlands|
 T Coyote Thieves |QID|1419| |N|Neeka - (6.5, 47.2)| |Z|Badlands|
 A Report to Helgrum |QID|1420| |N|Neeka - (6.5, 47.2)| |Z|Badlands|
 T Badlands Reagent Run |QID|2258| |N|Jarkal - (2.4, 46.0)| |Z|Badlands|
 T Broken Alliances |QID|782| |N|Gorn - (2.9, 45.6)| |Z|Badlands|
+N Cast [Teleport: Moonglade] |O| |C|Druid| |Z|Badlands|
 t Train your class spells |N|Loganaar - (52.5, 40.6)| |C|Druid| |Z|Moonglade|
-t Train Teleport: Orgrimmar |C|Mage| |Z|Moonglade|
+t Train Teleport: Orgrimmar |N|Cast [Teleport: Orgrimmar]| |C|Mage| |Z|Moonglade|
 H Orgrimmar |N|Hearth to Orgrimmar| |O| |Z|Moonglade|
 t Train Teleport: Orgrimmar |O| |C|Mage| |Z|Moonglade|
 B Sell your junk, then restock on food and water if necessary |N|Barkeep Morag - (54.6, 67.7)| |C|!Rogue/!Warrior| |Z|Orgrimmar|

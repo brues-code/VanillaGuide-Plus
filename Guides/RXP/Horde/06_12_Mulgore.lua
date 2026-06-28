@@ -169,6 +169,7 @@ T The Ravaged Caravan |QID|751| |N|He patrols along the eastern road - (55.1, 60
 A The Venture Co |QID|764| |N|He patrols along the eastern road - (55.1, 60.6)| |Z|Mulgore|
 A Supervisor Fizsprocket |QID|765| |N|He patrols along the eastern road - (55.1, 60.6)| |Z|Mulgore|
 C The Hunter's Way |QID|861| |OIDX|1| |N|Kill Flatland Prowlers. Loot them for their Claws Flatland Prowler Claw (4)| |O| |Z|Mulgore|
+N Tame a Prairie Wolf Alpha |O| |C|Hunter| |Z|Mulgore|
 N This will allow you to train [Claw Rank 2] |O| |C|Hunter| |Z|Mulgore|
 C Wildmane Totem |QID|759| |OIDX|1| |N|Prairie Wolf Alphas in the area. Loot them for their Teeth Prairie Alpha Tooth (8)| |R|Tauren| |Z|Mulgore|
 N Die and respawn at the Spirit Healer |O| |R|Tauren| |Z|Mulgore|
@@ -183,9 +184,11 @@ A The Barrens Oases |QID|886| |N|Hamuul Runetotem - (78.1, 28.6)| |C|Druid| |Z|T
 R the Elder Rise |N|(71.6, 30.1)| |O| |C|Druid| |Z|Thunder Bluff|
 T Heeding the Call |QID|5928| |N|Turak - (76.7, 27.3)| |C|Druid| |Z|Thunder Bluff|
 A Moonglade |QID|5922| |N|Turak - (76.7, 27.3)| |C|Druid| |Z|Thunder Bluff|
+N Cast [Teleport: Moonglade] |O| |C|Druid| |Z|Thunder Bluff|
 T Moonglade |QID|5922| |N|Dendrite - (56.2, 30.6)| |C|Druid| |Z|Moonglade|
 A Great Bear Spirit |QID|5930| |N|Dendrite - (56.2, 30.6)| |C|Druid| |Z|Moonglade|
 C Great Bear Spirit |QID|5930| |OIDX|1| |N|the Great Bear Spirit Seek out the Great Bear Spirit and learn what it has to share with you about the nature of the bear. (1)| |C|Druid| |Z|Moonglade|
+N Cast [Teleport: Moonglade] |O| |C|Druid| |Z|Moonglade|
 T Great Bear Spirit |QID|5930| |N|Dendrite - (56.2, 30.6)| |C|Druid| |Z|Moonglade|
 A Back to Thunder Bluff |QID|5932| |N|Dendrite - (56.2, 30.6)| |C|Druid| |Z|Moonglade|
 H Thunder Bluff |N|Hearth to Thunder Bluff| |O| |C|Druid| |Z|Moonglade|
@@ -243,10 +246,10 @@ T Journey into Thunder Bluff |QID|775| |N|Cairne - (60.0, 51.7)| |Z|Thunder Bluf
 A Rites of the Earthmother |QID|776| |N|Cairne - (60.0, 51.7)| |Z|Thunder Bluff|
 R the Elder Rise |N|(71.6, 30.1)| |O| |C|Druid| |Z|Thunder Bluff|
 T Body and Heart |QID|6002| |N|Turak - (76.5, 27.2)| |C|Druid| |Z|Thunder Bluff|
-A Gathering Leather |QID|768| |N|Veren - (44.4, 44.7)| |Z|Thunder Bluff|
-N Buy Twelve [Light Leather] from the Auction House |N|(40.4, 51.8)| |Z|Thunder Bluff|
-B Light Leather (12) |L|2318 12| |N|Auctioneer Stampi - (40.4, 51.8)| |Z|Thunder Bluff|
-T Gathering Leather |QID|768| |N|Veren - (44.4, 44.7)| |Z|Thunder Bluff|
+A Gathering Leather |QID|768| |N|Veren - (44.4, 44.7)| |AH| |Z|Thunder Bluff|
+N Buy Twelve [Light Leather] from the Auction House |N|(40.4, 51.8)| |AH| |Z|Thunder Bluff|
+B Light Leather (12) |L|2318 12| |N|Auctioneer Stampi - (40.4, 51.8)| |AH| |Z|Thunder Bluff|
+T Gathering Leather |QID|768| |N|Veren - (44.4, 44.7)| |AH| |Z|Thunder Bluff|
 N Buy [Tough Jerky] from her to feed your pet |N|(52.3, 47.8)| |C|Hunter| |Z|Thunder Bluff|
 B Tough Jerky (5) |L|117 5| |N|Kaga - (52.3, 47.8)| |C|Hunter| |Z|Thunder Bluff|
 C The Hunter's Way |QID|861| |OIDX|1| |N|Kill Flatland Prowlers. Loot them for their Claws Flatland Prowler Claw (4)| |O| |Z|Thunder Bluff|

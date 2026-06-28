@@ -27,6 +27,8 @@ T Chillwind Horns |QID|4809| |N|Felnok Steelspring - (61.6, 38.6)| |Z|Winterspri
 C Chillwind Horns |QID|4809| |OIDX|1| |N|Kill Fledgling Chillwinds, Chillwind Chimaeras and Chillwind Ravagers. Loot them for their Uncracked Chillwind Horns (66.4, 47.2)| |O| |Z|Winterspring|
 T Chillwind Horns |QID|4809| |N|(60.2, 24.6)| |O| |Z|Winterspring|
 R Felnok Steelspring |N|(61.6, 38.6)| |O| |Z|Winterspring|
+G Skip the Chimaera quest and turn in the quests you have if you're ready to ding 60 |O| |Z|Winterspring|
+N Cast Teleport: Moonglade |C|Druid| |Z|Winterspring|
 F Fly to Moonglade |N|Maethrya - (62.3, 36.6)| |C|!Druid| |Z|Winterspring|
 R Travel to Moonglade |N|(47.7, 39.7)| |Z|Moonglade|
 N Umber may be patrolling through Nighthaven |N|(44.9, 35.6)| |Z|Moonglade|

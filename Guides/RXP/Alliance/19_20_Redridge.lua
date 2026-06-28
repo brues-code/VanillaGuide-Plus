@@ -32,9 +32,9 @@ T The Tome of Divinity |QID|1643| |N|Stephanie Turner - (57.1, 61.7)| |C|Paladin
 A The Tome of Divinity |QID|1644| |N|Stephanie Turner - (57.1, 61.7)| |C|Paladin| |R|Human| |Z|Stormwind City|
 T The Tome of Divinity |QID|1644| |N|Stephanie Turner - (57.1, 61.7)| |C|Paladin| |R|Human| |Z|Stormwind City|
 N You will need 10 [Linen Cloth] |N|(57.1, 61.7)| |C|Paladin| |R|Human| |Z|Stormwind City|
-N Buy a [Kris] or something better from the Auction House |N|(57.4, 56.8)| |C|Rogue| |Z|Stormwind City|
-N Equip it once you're level 19 |N|(57.4, 56.8)| |C|Rogue| |Z|Stormwind City|
-B Kris |L|2209 1| |N|Marda Weller - (57.4, 56.8)| |C|Rogue| |Z|Stormwind City|
+N Buy a [Kris] or something better from the Auction House |N|(57.4, 56.8)| |C|Rogue| |AH| |Z|Stormwind City|
+N Equip it once you're level 19 |N|(57.4, 56.8)| |C|Rogue| |AH| |Z|Stormwind City|
+B Kris |L|2209 1| |N|Marda Weller - (57.4, 56.8)| |C|Rogue| |AH| |Z|Stormwind City|
 N Buy a [Kris] |N|(57.4, 56.8)| |C|Rogue| |Z|Stormwind City|
 N Equip it once you're level 19 |N|(57.4, 56.8)| |C|Rogue| |Z|Stormwind City|
 B Kris |L|2209 1| |N|Marda Weller - (57.4, 56.8)| |C|Rogue| |Z|Stormwind City|
@@ -118,14 +118,14 @@ t Train your class spells |N|Osborne - (74.6, 52.8) (DM Dungeon Quest)| |C|Rogue
 R Enter the SI:7 Headquarters. Travel up stairs toward Master Mathias Shaw |N|(78.7, 60.1) (DM Dungeon Quest)| |C|Rogue| |D|DM| |Z|Stormwind City|
 A Mathias and the Defias |QID|2360| |N|(75.8, 59.8) (DM Dungeon Quest)| |C|Rogue| |D|DM| |Z|Stormwind City|
 t Train your class spells |N|(78.7, 45.8) (DM Dungeon Quest)| |C|Warrior| |D|DM| |Z|Stormwind City|
+N Buy a [Longsword] and equip it at 21 |N|(57.4, 56.8) (DM Dungeon Quest)| |C|Rogue| |D|DM| |AH| |Z|Stormwind City|
+N Buy something from the Auction House if there's something cheaper/better |N|(57.4, 56.8) (DM Dungeon Quest)| |C|Rogue| |D|DM| |AH| |Z|Stormwind City|
+B Longsword (1) |L|923 1| |N|Marda Weller - (57.4, 56.8) (DM Dungeon Quest)| |C|Rogue| |D|DM| |AH| |Z|Stormwind City|
 N Buy a [Longsword] and equip it at 21 |N|(57.4, 56.8) (DM Dungeon Quest)| |C|Rogue| |D|DM| |Z|Stormwind City|
-N Buy something from the Auction House if there's something cheaper/better |N|(57.4, 56.8) (DM Dungeon Quest)| |C|Rogue| |D|DM| |Z|Stormwind City|
 B Longsword (1) |L|923 1| |N|Marda Weller - (57.4, 56.8) (DM Dungeon Quest)| |C|Rogue| |D|DM| |Z|Stormwind City|
-N Buy a [Longsword] and equip it at 21 |N|(57.4, 56.8) (DM Dungeon Quest)| |C|Rogue| |D|DM| |Z|Stormwind City|
-B Longsword (1) |L|923 1| |N|Marda Weller - (57.4, 56.8) (DM Dungeon Quest)| |C|Rogue| |D|DM| |Z|Stormwind City|
-N Buy a [Dacian Falx] if you have enough money. Equip it at 21 |N|(57.5, 57.1) (DM Dungeon Quest)| |C|Warrior/Paladin| |D|DM| |Z|Stormwind City|
-N Buy something from the Auction House if there's something cheaper/better |N|(57.5, 57.1) (DM Dungeon Quest)| |C|Warrior/Paladin| |D|DM| |Z|Stormwind City|
-B Dacian Falx (1) |L|922 1| |N|Gunther Weller - (57.5, 57.1) (DM Dungeon Quest)| |C|Warrior/Paladin| |D|DM| |Z|Stormwind City|
+N Buy a [Dacian Falx] if you have enough money. Equip it at 21 |N|(57.5, 57.1) (DM Dungeon Quest)| |C|Warrior/Paladin| |D|DM| |AH| |Z|Stormwind City|
+N Buy something from the Auction House if there's something cheaper/better |N|(57.5, 57.1) (DM Dungeon Quest)| |C|Warrior/Paladin| |D|DM| |AH| |Z|Stormwind City|
+B Dacian Falx (1) |L|922 1| |N|Gunther Weller - (57.5, 57.1) (DM Dungeon Quest)| |C|Warrior/Paladin| |D|DM| |AH| |Z|Stormwind City|
 N Buy a [Dacian Falx] if you have enough money. Equip it at 21 |N|(57.5, 57.1) (DM Dungeon Quest)| |C|Warrior/Paladin| |D|DM| |Z|Stormwind City|
 B Dacian Falx (1) |L|922 1| |N|Gunther Weller - (57.5, 57.1) (DM Dungeon Quest)| |C|Warrior/Paladin| |D|DM| |Z|Stormwind City|
 T Bazil Thredd |QID|389| |N|Warden Thelwater - (41.1, 58.1) (DM Dungeon Quest)| |D|DM| |Z|Stormwind City|
@@ -207,14 +207,14 @@ f Get the Redridge Mountains flight path |N|Ariena Stormfeather - (30.6, 59.4) (
 F Fly to Westfall |N|Ariena Stormfeather - (30.6, 59.4) (DM Dungeon Quest)| |C|Rogue| |D|DM| |Z|Redridge Mountains|
 f Get the Redridge Mountains flight path |N|Ariena Stormfeather - (30.6, 59.4) (!DM Dungeon Quest)| |C|!Warlock| |R|!Human| |D|!DM| |Z|Redridge Mountains|
 F Fly to Stormwind City |N|Ariena Stormfeather - (30.6, 59.4) (!DM Dungeon Quest)| |D|!DM| |Z|Redridge Mountains|
+N Buy a [Longsword] and equip it at 21 |N|(57.4, 56.8) (!DM Dungeon Quest)| |C|Rogue| |D|!DM| |AH| |Z|Stormwind City|
+N Buy something from the Auction House if there's something cheaper/better |N|(57.4, 56.8) (!DM Dungeon Quest)| |C|Rogue| |D|!DM| |AH| |Z|Stormwind City|
+B Longsword (1) |L|923 1| |N|Marda Weller - (57.4, 56.8) (!DM Dungeon Quest)| |C|Rogue| |D|!DM| |AH| |Z|Stormwind City|
 N Buy a [Longsword] and equip it at 21 |N|(57.4, 56.8) (!DM Dungeon Quest)| |C|Rogue| |D|!DM| |Z|Stormwind City|
-N Buy something from the Auction House if there's something cheaper/better |N|(57.4, 56.8) (!DM Dungeon Quest)| |C|Rogue| |D|!DM| |Z|Stormwind City|
 B Longsword (1) |L|923 1| |N|Marda Weller - (57.4, 56.8) (!DM Dungeon Quest)| |C|Rogue| |D|!DM| |Z|Stormwind City|
-N Buy a [Longsword] and equip it at 21 |N|(57.4, 56.8) (!DM Dungeon Quest)| |C|Rogue| |D|!DM| |Z|Stormwind City|
-B Longsword (1) |L|923 1| |N|Marda Weller - (57.4, 56.8) (!DM Dungeon Quest)| |C|Rogue| |D|!DM| |Z|Stormwind City|
-N Buy a [Dacian Falx] if you have enough money. Equip it at 21 |N|(57.5, 57.1) (!DM Dungeon Quest)| |C|Warrior/Paladin| |D|!DM| |Z|Stormwind City|
-N Buy something from the Auction House if there's something cheaper/better |N|(57.5, 57.1) (!DM Dungeon Quest)| |C|Warrior/Paladin| |D|!DM| |Z|Stormwind City|
-B Dacian Falx (1) |L|922 1| |N|Gunther Weller - (57.5, 57.1) (!DM Dungeon Quest)| |C|Warrior/Paladin| |D|!DM| |Z|Stormwind City|
+N Buy a [Dacian Falx] if you have enough money. Equip it at 21 |N|(57.5, 57.1) (!DM Dungeon Quest)| |C|Warrior/Paladin| |D|!DM| |AH| |Z|Stormwind City|
+N Buy something from the Auction House if there's something cheaper/better |N|(57.5, 57.1) (!DM Dungeon Quest)| |C|Warrior/Paladin| |D|!DM| |AH| |Z|Stormwind City|
+B Dacian Falx (1) |L|922 1| |N|Gunther Weller - (57.5, 57.1) (!DM Dungeon Quest)| |C|Warrior/Paladin| |D|!DM| |AH| |Z|Stormwind City|
 N Buy a [Dacian Falx] if you have enough money. Equip it at 21 |N|(57.5, 57.1) (!DM Dungeon Quest)| |C|Warrior/Paladin| |D|!DM| |Z|Stormwind City|
 B Dacian Falx (1) |L|922 1| |N|Gunther Weller - (57.5, 57.1) (!DM Dungeon Quest)| |C|Warrior/Paladin| |D|!DM| |Z|Stormwind City|
 R The Slaughtered Lamb and go downstairs |N|(27.2, 78.1) (!DM Dungeon Quest)| |C|Warlock| |D|!DM| |Z|Stormwind City|
@@ -259,6 +259,8 @@ C Klaven's Tower |QID|2359| |OIDX|1| |N|Manually [Unstealth], then press your "I
 N Click HERE for a video guide |N|(70.4, 74.0)| |C|Rogue| |Z|Westfall|
 C Craft an [Anti-Venom] |L|6452 1| |C|Rogue| |R|!Dwarf| |Z|Westfall|
 t Anti Venom spell trained |C|Rogue| |R|!Dwarf| |Z|Westfall|
+N Use the [Anti-Venom] in your bags to remove the [Touch of Zanzil] debuff |O| |C|Rogue| |R|!Dwarf| |Z|Westfall|
+N Cast [Stoneform] to remove the [Touch of Zanzil] debuff |O| |C|Rogue| |R|Dwarf| |Z|Westfall|
 F Fly to Stormwind |N|Thor - (56.5, 52.6)| |O| |C|Rogue| |Z|Westfall|
 R Travel to Stormwind City |N|(41.7, 28.0)| |O| |C|Rogue| |R|!Dwarf| |Z|Stormwind City|
 R Travel toward Shaina Fuller |N|(43.1, 26.2)| |O| |C|Rogue| |R|!Dwarf| |Z|Stormwind City|
@@ -267,6 +269,7 @@ N If you have a Paladin or Druid friend, ask them to remove the [Touch of Zanzil
 t Train [Anti-Venom] |N|Shaina Fuller - (43.1, 26.2)| |C|Rogue| |R|!Dwarf| |Z|Stormwind City|
 C Craft an [Anti-Venom] |L|6452 1| |C|Rogue| |R|!Dwarf| |Z|Stormwind City|
 t Anti Venom spell trained |C|Rogue| |R|!Dwarf| |Z|Stormwind City|
+N Use the [Anti-Venom] in your bags to remove the [Touch of Zanzil] debuff |C|Rogue| |R|!Dwarf| |Z|Stormwind City|
 R Enter the SI:7 Headquarters. Travel up stairs toward Master Mathias Shaw |N|(78.7, 60.1)| |O| |C|Rogue| |Z|Stormwind City|
 N Remember to re-equip your main weapon if you switched to a [Dagger] earlier |N|(75.8, 59.8)| |C|Rogue| |Z|Stormwind City|
 T Klaven's Tower |QID|2359| |N|Master Mathias Shaw - (75.8, 59.8)| |C|Rogue| |Z|Stormwind City|

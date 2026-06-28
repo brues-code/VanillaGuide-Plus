@@ -181,6 +181,7 @@ T Return to the Bulwark |QID|5234| |N|Vandis - (83.0, 71.9)| |Z|Tirisfal Glades|
 A Target: Gahrron's Withering |QID|5235| |N|Vandis - (83.0, 71.9)| |Z|Tirisfal Glades|
 T A Plague Upon Thee |QID|5901| |N|Mickey - (83.3, 72.3)| |Z|Tirisfal Glades|
 A A Plague Upon Thee |QID|5902| |N|Mickey - (83.3, 72.3)| |Z|Tirisfal Glades|
+N Cast [Teleport: Undercity] |O| |C|Mage| |Z|Tirisfal Glades|
 t Train your class spells |N|Anastasia - (85.2, 10.1)| |C|Mage| |Z|Undercity|
 t Train your class spells |N|Richard - (88.9, 15.9)| |C|Warlock| |Z|Undercity|
 t Upgrade your pet's abilities |N|Martha - (85.7, 16.1)| |C|Warlock| |Z|Undercity|
@@ -196,9 +197,9 @@ N [Filled Vial Labeled #1] |N|(66.0, 44.9)| |Z|Undercity|
 N [Filled Vial Labeled #2] |N|(66.0, 44.9)| |Z|Undercity|
 N [Filled Vial Labeled #3] |N|(66.0, 44.9)| |Z|Undercity|
 N [Filled Vial Labeled #4] |N|(66.0, 44.9)| |Z|Undercity|
-N Buy 240 of each type of cloth on the auction house |N|(67.7, 35.9)| |O| |Z|Undercity|
-B Cain |L|2592 240| |N|Cain - (67.7, 35.9)| |O| |Z|Undercity|
-C the mailbox and retrieve the following |L|2592 60| |N|(68.2, 38.3)| |O| |Z|Undercity|
+N Buy 240 of each type of cloth on the auction house |N|(67.7, 35.9)| |O| |AH| |Z|Undercity|
+B Cain |L|2592 240| |N|Cain - (67.7, 35.9)| |O| |AH| |Z|Undercity|
+C the mailbox and retrieve the following |L|2592 60| |N|(68.2, 38.3)| |O| |AH| |Z|Undercity|
 N Disable any other addons that automatically turn in reputation items, or you'll be told to buy cloth again later |N|(71.7, 29.2)| |Z|Undercity|
 N Skip any of the donations which you do not have enough cloth for |N|(71.7, 29.2)| |Z|Undercity|
 T A Donation of Wool |QID|7813| |N|Ralston - (71.7, 29.2)| |Z|Undercity|
@@ -211,9 +212,9 @@ A Seeping Corruption |QID|3569| |N|Cuely and Thersa - (48.7, 71.4)| |Z|Undercity
 T Seeping Corruption |QID|3569| |N|Cuely and Thersa - (48.7, 71.4)| |Z|Undercity|
 T Delivery to Andron Gant |QID|3542| |N|Andron - (54.8, 76.3)| |Z|Undercity|
 A Andron's Payment to Jediga |QID|3564| |N|Andron - (54.8, 76.3)| |Z|Undercity|
-N Buy the following items from the Auction House. You will need these later for multiple free quest turn ins in EPL |N|(71.4, 46.7)| |Z|Undercity|
-N There are 5 different quests and each require 30. If you can't get 30 of one type then skip it |N|(71.4, 46.7)| |Z|Undercity|
-B Auctioneer Stockton in the Trade Quarter |L|22529 30| |N|Auctioneer Stockton in the Trade Quarter - (71.4, 46.7)| |Z|Undercity|
+N Buy the following items from the Auction House. You will need these later for multiple free quest turn ins in EPL |N|(71.4, 46.7)| |AH| |Z|Undercity|
+N There are 5 different quests and each require 30. If you can't get 30 of one type then skip it |N|(71.4, 46.7)| |AH| |Z|Undercity|
+B Auctioneer Stockton in the Trade Quarter |L|22529 30| |N|Auctioneer Stockton in the Trade Quarter - (71.4, 46.7)| |AH| |Z|Undercity|
 C Take out [Black Dragonflight Molt] from your bank if you completed the quest in Searing Gorge for it earlier. You will need it |QID|4022| |L|10575 1| |N|Take out [Black Dragonflight Molt] from your bank if you completed the quest in Searing Gorge for it earlier. You will need it (BRD Dungeon Quest)| |D|BRD| |Z|Undercity|
 R Enter the Royal Quarter |N|(52.9, 89.6)| |O| |Z|Undercity|
 A The Champion of the Banshee Queen |QID|5961| |N|Sylvanas - (58.1, 91.8)| |Z|Undercity|
@@ -266,17 +267,17 @@ T Two Halves Become One |QID|5051| |N|Janice on the 2nd floor - (38.4, 54.0)| |Z
 T Return to the Bulwark |QID|5236| |N|Vandis - (83.0, 71.9)| |Z|Tirisfal Glades|
 T A Plague Upon Thee |QID|6390| |N|Mickey - (83.3, 72.3)| |Z|Tirisfal Glades|
 T Mission Accomplished! |QID|5238| |N|Derrington - (83.2, 68.9)| |Z|Tirisfal Glades|
-N If you do not have the Reputation required to accept these quests, grind on nearby Undead until you are Friendly with the Argent Dawn |O| |Z|Tirisfal Glades|
-A Savage Flora |QID|9136| |N|Rayne - (81.2, 59.0)| |O| |Z|Eastern Plaguelands|
-T Savage Flora |QID|9136| |N|Rayne - (81.2, 59.0)| |O| |Z|Eastern Plaguelands|
-A Cryptstalker Armor Doesn't Make Itself... |QID|9124| |N|Huntsman Leopold - (81.5, 58.6)| |O| |Z|Eastern Plaguelands|
-T Cryptstalker Armor Doesn't Make Itself... |QID|9124| |N|Huntsman Leopold - (81.5, 58.6)| |O| |Z|Eastern Plaguelands|
-A Bonescythe Digs |QID|9126| |N|Rohan the Assassin - (81.4, 58.5)| |O| |Z|Eastern Plaguelands|
-T Bonescythe Digs |QID|9126| |N|Rohan the Assassin - (81.4, 58.5)| |O| |Z|Eastern Plaguelands|
-A The Elemental Equation |QID|9128| |N|Archmage Angela Dosantos - (81.5, 58.3)| |O| |Z|Eastern Plaguelands|
-T The Elemental Equation |QID|9128| |N|Archmage Angela Dosantos - (81.5, 58.3)| |O| |Z|Eastern Plaguelands|
-A Binding the Dreadnaught |QID|9131| |N|Korfax - (81.8, 58.1)| |O| |Z|Eastern Plaguelands|
-T Binding the Dreadnaught |QID|9131| |N|Korfax - (81.8, 58.1)| |O| |Z|Eastern Plaguelands|
+N If you do not have the Reputation required to accept these quests, grind on nearby Undead until you are Friendly with the Argent Dawn |O| |AH| |Z|Tirisfal Glades|
+A Savage Flora |QID|9136| |N|Rayne - (81.2, 59.0)| |O| |AH| |Z|Eastern Plaguelands|
+T Savage Flora |QID|9136| |N|Rayne - (81.2, 59.0)| |O| |AH| |Z|Eastern Plaguelands|
+A Cryptstalker Armor Doesn't Make Itself... |QID|9124| |N|Huntsman Leopold - (81.5, 58.6)| |O| |AH| |Z|Eastern Plaguelands|
+T Cryptstalker Armor Doesn't Make Itself... |QID|9124| |N|Huntsman Leopold - (81.5, 58.6)| |O| |AH| |Z|Eastern Plaguelands|
+A Bonescythe Digs |QID|9126| |N|Rohan the Assassin - (81.4, 58.5)| |O| |AH| |Z|Eastern Plaguelands|
+T Bonescythe Digs |QID|9126| |N|Rohan the Assassin - (81.4, 58.5)| |O| |AH| |Z|Eastern Plaguelands|
+A The Elemental Equation |QID|9128| |N|Archmage Angela Dosantos - (81.5, 58.3)| |O| |AH| |Z|Eastern Plaguelands|
+T The Elemental Equation |QID|9128| |N|Archmage Angela Dosantos - (81.5, 58.3)| |O| |AH| |Z|Eastern Plaguelands|
+A Binding the Dreadnaught |QID|9131| |N|Korfax - (81.8, 58.1)| |O| |AH| |Z|Eastern Plaguelands|
+T Binding the Dreadnaught |QID|9131| |N|Korfax - (81.8, 58.1)| |O| |AH| |Z|Eastern Plaguelands|
 F Fly to Badlands |N|Georgia - (80.2, 57.0) (BRD Dungeon Quest)| |D|BRD| |Z|Eastern Plaguelands|
 N Try to ensure all party members have the same quests and prequests complete, along with 2-3 hours of playtime. |N|(BRD Dungeon Quest)| |D|BRD| |Z|Eastern Plaguelands|
 A ON SIGHT: Dark Iron Dwarves |QID|4081| |N|the Wanted Poster - (3.8, 47.5) (BRD Dungeon Quest)| |D|BRD| |Z|Badlands|

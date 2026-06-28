@@ -135,6 +135,7 @@ C The Enchanted Glade |QID|937| |OIDX|1| |N|Kill Bloodfeather Harpies. Loot them
 A The Shimmering Frond |QID|931| |N|the Strange Fronded Plant - (34.6, 28.8)| |Z|Teldrassil|
 N This will start an escort quest |N|(31.5, 31.6)| |O| |C|Hunter| |Z|Teldrassil|
 A Mist |QID|938| |N|Mist - (31.5, 31.6)| |O| |C|Hunter| |Z|Teldrassil|
+G Grind until you are 2670 xp off level 10 (3830/6500) |C|Hunter| |Z|Teldrassil|
 N Once you reach this xp breakpoint, skip the harpy/escort quest and go straight to Darnassus. You will have another opportunity to finish those quests later |C|Hunter| |Z|Teldrassil|
 N Keep in mind this is a timed quest, you need to turn it in within 10 minutes of accepting |N|(38.3, 34.4)| |O| |C|Hunter| |Z|Teldrassil|
 T Mist |QID|938| |N|Sentinel Arynia Cloudsbreak - (38.3, 34.4)| |O| |C|Hunter| |Z|Teldrassil|
@@ -157,10 +158,12 @@ T Teldrassil |QID|940| |N|Arch Druid Fandral Staghelm atop the Tree - (35.0, 9.0
 A Moonglade |QID|5921| |N|Mathrengyl Bearwalker on the middle level - (35.4, 8.4)| |C|Druid| |Z|Darnassus|
 t Train your class spells |N|Mathrengyl Bearwalker on the middle level - (35.4, 8.4)| |C|Druid| |Z|Darnassus|
 A Tears of the Moon |QID|2518| |N|Priestess A'moora - (36.6, 85.9)| |C|!Rogue| |Z|Darnassus|
+N Cast Teleport: Moonglade |O| |C|Druid| |Z|Darnassus|
 N It will be in your spellbook |O| |C|Druid| |Z|Darnassus|
 T Moonglade |QID|5921| |N|Dendrite Starblaze up stairs - (56.2, 30.6)| |C|Druid| |Z|Moonglade|
 A Great Bear Spirit |QID|5929| |N|Dendrite Starblaze up stairs - (56.2, 30.6)| |C|Druid| |Z|Moonglade|
 C Great Bear Spirit |QID|5929| |OIDX|1| |N|the Great Bear Spirit Seek out the Great Bear Spirit and learn what it has to share with you about the nature of the bear.| |C|Druid| |Z|Moonglade|
+N Cast Teleport: Moonglade |O| |C|Druid| |Z|Moonglade|
 N This will make you return faster |O| |C|Druid| |Z|Moonglade|
 T Great Bear Spirit |QID|5929| |N|Dendrite Starblaze up stairs - (56.2, 30.6)| |C|Druid| |Z|Moonglade|
 A Back to Darnassus |QID|5931| |N|Dendrite Starblaze up stairs - (56.2, 30.6)| |C|Druid| |Z|Moonglade|

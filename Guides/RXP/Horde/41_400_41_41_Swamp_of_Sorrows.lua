@@ -78,6 +78,7 @@ F Fly to Camp Taurajo |N|Bragok - (63.1, 37.2)| |O| |Z|The Barrens|
 R Innkeeper Byula |N|(45.6, 59.0)| |Z|The Barrens|
 h Camp Taurajo |N|Set hearth in Camp Taurajo (45.6, 59.0)| |Z|The Barrens|
 F Fly to Thunder Bluff |N|Omusa - (44.5, 59.1)| |C|!Mage| |Z|The Barrens|
+N Cast [Teleport: Thunder Bluff] |C|Mage| |Z|The Barrens|
 t Train your class spells |N|Malakai - (24.6, 22.6)| |C|Priest| |Z|Thunder Bluff|
 t Train your class spells |N|Thurston - (25.2, 20.9)| |C|Mage| |Z|Thunder Bluff|
 T The Black Shield |QID|1276| |N|Mosarn - (54.0, 80.9)| |Z|Thunder Bluff|

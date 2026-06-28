@@ -147,6 +147,7 @@ N Buy food/water if needed |C|!Warrior/!Rogue| |Z|Tanaris|
 N Buy food if needed |C|Warrior/Rogue| |Z|Tanaris|
 T Volcanic Activity |QID|4502| |N|Liv Rizzlefix - (62.4, 38.7)| |Z|The Barrens|
 A Cleansed Water Returns to Felwood |QID|5159| |N|Islen Waterseer - (65.8, 43.8)| |Z|The Barrens|
+N Cast Teleport: Moonglade |O| |C|Druid| |Z|The Barrens|
 N Loganaar |N|(52.5, 40.6)| |C|Druid| |Z|The Barrens|
 R Travel to Moonglade |N|(52.5, 40.6)| |C|Druid| |Z|Moonglade|
 t Train your class spells |N|Teleport to Moonglade - (52.5, 40.6)| |C|Druid| |Z|Moonglade|

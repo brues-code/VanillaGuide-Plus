@@ -6,11 +6,11 @@ N 14-16 Darkshore |N|Converted from RestedXP guide|
 
 A Washed Ashore |QID|3524| |N|Gwennyth Bly'Leggonde - (36.6, 45.6)| |R|NightElf| |Z|Darkshore|
 R Jump off the boat when it's closest to Auberdine's shore |N|(37.0, 44.1)| |O| |R|!NightElf| |Z|Darkshore|
-A Fruit of the Sea |QID|1138| |N|Gubber Blump - (36.1, 44.9)| |O| |C|!sod/Hunter/Druid| |Z|Darkshore|
-A The Family and the Fishing Pole |QID|1141| |N|Gubber Blump - (36.1, 44.9)| |O| |Z|Darkshore|
-T The Family and the Fishing Pole |QID|1141| |N|Gubber Blump - (36.1, 44.9)| |O| |Z|Darkshore|
-A The Family and the Fishing Pole |QID|1141| |N|Gubber Blump - (36.1, 44.9)| |Z|Darkshore|
-T The Family and the Fishing Pole |QID|1141| |N|Gubber Blump - (36.1, 44.9)| |Z|Darkshore|
+A Fruit of the Sea |QID|1138| |N|Gubber Blump - (36.1, 44.9)| |O| |C|!sod/Hunter/Druid| |AH| |Z|Darkshore|
+A The Family and the Fishing Pole |QID|1141| |N|Gubber Blump - (36.1, 44.9)| |O| |AH| |Z|Darkshore|
+T The Family and the Fishing Pole |QID|1141| |N|Gubber Blump - (36.1, 44.9)| |O| |AH| |Z|Darkshore|
+A The Family and the Fishing Pole |QID|1141| |N|Gubber Blump - (36.1, 44.9)| |AH| |Z|Darkshore|
+T The Family and the Fishing Pole |QID|1141| |N|Gubber Blump - (36.1, 44.9)| |AH| |Z|Darkshore|
 A Fruit of the Sea |QID|1138| |N|Gubber Blump - (36.1, 44.9)| |O| |Z|Darkshore|
 T Flight to Auberdine |QID|6342| |N|Laird - (36.8, 44.3)| |R|NightElf| |Z|Darkshore|
 N Buy up to 40 [Longjaw Mud Snappers] from him. Sell all your other level 5 or below food |N|(36.8, 44.3)| |O| |R|!NightElf| |Z|Darkshore|
@@ -58,7 +58,7 @@ A Deep Ocean, Vast Sea |QID|982| |N|Gorbold Steelhand - (38.1, 41.2)| |C|Warrior
 N Buy a [Mining Pick] from her |N|(38.1, 41.1)| |O| |C|Warrior/NightElf/Rogue| |R|NightElf| |Z|Darkshore|
 B Mining Pick (1) |L|2901 1| |N|Elisa Steelhand - (38.1, 41.1)| |O| |C|Warrior/NightElf/Rogue| |R|NightElf| |Z|Darkshore|
 t Mining Trained |N|Elisa Steelhand - (38.1, 41.1)| |O| |C|Warrior/NightElf/Rogue| |R|NightElf| |Z|Darkshore|
-t Mining Trained |O| |C|Warrior/NightElf/Rogue| |R|NightElf| |Z|Darkshore|
+t Mining Trained |N|Cast [Find Minerals]| |O| |C|Warrior/NightElf/Rogue| |R|NightElf| |Z|Darkshore|
 A Deep Ocean, Vast Sea |QID|982| |N|Gorbold Steelhand - (38.1, 41.2)| |C|!Rogue| |R|!NightElf/!Warrior| |Z|Darkshore|
 A Easy Strider Living |QID|2178| |N|Alanndarian Nightsong - (37.7, 40.7)| |O| |Z|Darkshore|
 T Easy Strider Living |QID|2178| |N|Alanndarian Nightsong - (37.7, 40.7)| |O| |Z|Darkshore|
@@ -118,6 +118,7 @@ C x20,cooking --Small Egg (10-49) |QID|90| |L|6889 50| |N|Kill Moonkin. Loot the
 R Travel up to the Mysterious Red Crystal |N|(47.3, 48.7)| |Z|Darkshore|
 C The Red Crystal |QID|4811| |OIDX|1| |N|Be careful of the two group of 2 Raging Moonkins west of the Mysterious Red Crystal as the duos closest to each other are leashed together Locate the large, red crystal on Darkshore's eastern mountain range| |Z|Darkshore|
 R Enter the Moonkin Stone cave |N|(43.1, 45.6)| |O| |C|Druid| |Z|Darkshore|
+N Use the [Cenarion Moondust] at the Moonkin Stone inside the cave to summon Lunaclaw at the entrance of the cave |N|(43.5, 46.0)| |O| |C|Druid| |Z|Darkshore|
 C Lunaclaw |QID|6001| |OIDX|1| |N|Lunaclaw - (43.1, 45.5)| |C|Druid| |Z|Darkshore|
 H Auberdine |N|Hearth to Auberdine| |O| |C|NightElf/Hunter/Warrior/Druid| |Z|Darkshore|
 T The Red Crystal |QID|4811| |N|Sentinel Glynda Nal'Shea - (37.7, 43.4)| |O| |C|NightElf/Hunter/Druid/Warrior| |Z|Darkshore|
@@ -157,6 +158,7 @@ A Lessons Anew |QID|6121| |N|Mathrengyl Bearwalker - (35.4, 8.4)| |C|Druid| |Z|D
 t Train your class spells |N|Mathrengyl Bearwalker - (35.4, 8.4)| |C|Druid| |Z|Darnassus|
 A Lessons Anew |QID|6121| |N|Mathrengyl Bearwalker - (35.4, 8.4)| |O| |C|Druid| |Z|Darnassus|
 t Train your class spells |N|Mathrengyl Bearwalker - (35.4, 8.4)| |O| |C|Druid| |Z|Darnassus|
+N Cast Teleport: Moonglade |O| |C|Druid| |Z|Darnassus|
 T Lessons Anew |QID|6121| |N|Dendrite Starblaze up stairs - (56.2, 30.6)| |C|Druid| |Z|Moonglade|
 A The Principal Source |QID|6122| |N|Dendrite Starblaze up stairs - (56.2, 30.6)| |C|Druid| |Z|Moonglade|
 H Darkshore |N|Hearth to Darkshore| |O| |C|Druid| |Z|Moonglade|
@@ -314,11 +316,13 @@ A A Lesson to Learn |QID|26| |N|Mathrengyl Bearwalker - (35.4, 8.4)| |C|Druid| |
 t Train your class spells |N|Mathrengyl Bearwalker - (35.4, 8.4)| |C|Druid| |Z|Darnassus|
 R Travel to Teldrassil |N|(23.7, 64.5)| |C|Druid| |Z|Teldrassil|
 A Trouble In Darkshore? |QID|730| |N|Chief Archaeologist Greywhisker - (23.7, 64.5)| |C|Druid| |Z|Teldrassil|
+N Cast Teleport: Moonglade |O| |C|Druid| |Z|Teldrassil|
 T A Lesson to Learn |QID|26| |N|Dendrite Starblaze - (56.1, 30.7)| |C|Druid| |Z|Moonglade|
 A Trial of the Lake |QID|29| |N|Dendrite Starblaze - (56.1, 30.7)| |C|Druid| |Z|Moonglade|
 N Open a Bauble Container. Loot it for a [Shrine Bauble] |N|(52.6, 51.6)| |C|Druid| |Z|Moonglade|
 N It may spawn in different locations underwater |N|(52.6, 51.6)| |C|Druid| |Z|Moonglade|
 C Shrine Bauble (1) |QID|29| |L|15877 1| |N|Swim into Lake Elune'Ara (52.6, 51.6)| |C|Druid| |Z|Moonglade|
+N Cast Teleport: Moonglade |O| |C|Druid| |Z|Moonglade|
 C Trial of the Lake |QID|29| |OIDX|1| |N|Use the [Shrine Bauble] at the Shrine of Remulos tree Complete the Trial of the Lake.| |C|Druid| |Z|Moonglade|
 T Trial of the Lake |QID|29| |N|Tajarri - (36.5, 40.1)| |C|Druid| |Z|Moonglade|
 A Trial of the Sea Lion |QID|272| |N|Tajarri - (36.5, 40.1)| |C|Druid| |Z|Moonglade|

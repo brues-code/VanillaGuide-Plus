@@ -15,8 +15,8 @@ t Train your class spells |N|Tigor - (22.8, 21.1)| |C|Shaman| |Z|Thunder Bluff|
 t Train your class spells |N|Malakai - (24.6, 22.6)| |C|Priest| |Z|Thunder Bluff|
 t Train your class spells |N|Thurston - (25.2, 20.9)| |C|Mage| |Z|Thunder Bluff|
 t Train [Teleport: Thunder Bluff] |N|Birgitte - (22.5, 16.9)| |C|Mage| |Z|Thunder Bluff|
-N Buy [Shellfish] from the auction house if possible |N|(40.4, 51.8)| |Z|Thunder Bluff|
-B Stampi |L|13545 10| |N|Stampi - (40.4, 51.8)| |Z|Thunder Bluff|
+N Buy [Shellfish] from the auction house if possible |N|(40.4, 51.8)| |AH| |Z|Thunder Bluff|
+B Stampi |L|13545 10| |N|Stampi - (40.4, 51.8)| |AH| |Z|Thunder Bluff|
 N Buy [Razor Arrows] from her |N|(47.0, 45.7)| |C|Hunter| |Z|Thunder Bluff|
 B Kuna |L|3030 1800| |N|Kuna - (47.0, 45.7)| |C|Hunter| |Z|Thunder Bluff|
 F Fly to Stonetalon Mountains |N|Tal - (47.0, 49.8)| |Z|Thunder Bluff|
@@ -71,8 +71,8 @@ t Train Teleport: Thunder Bluff |N|Innkeeper Sikewa - (24.1, 68.2)| |O| |C|Mage|
 A Clam Bait |QID|6142| |N|Mai'Lahii - (22.7, 72.1)| |Z|Desolace|
 A Other Fish to Fry |QID|6143| |N|Drulzegar - (23.3, 72.9)| |Z|Desolace|
 f Get the Shadowprey Village flight path |N|Thalon at the end of the dock - (21.6, 74.1)| |Z|Desolace|
-T Fish in a Bucket TWICE to receive 2 [Bloodbelly Fish] |QID|5421| |N|Jinar'Zillen - (22.4, 73.1)| |Z|Desolace|
-C Jinar'Zillen |QID|5386| |L|13546 2| |N|Jinar'Zillen - (22.4, 73.1)| |Z|Desolace|
+T Fish in a Bucket TWICE to receive 2 [Bloodbelly Fish] |QID|5421| |N|Jinar'Zillen - (22.4, 73.1)| |AH| |Z|Desolace|
+C Jinar'Zillen |QID|5386| |L|13546 2| |N|Jinar'Zillen - (22.4, 73.1)| |AH| |Z|Desolace|
 N Buy [Razor Arrows] from him |N|(24.9, 71.8)| |C|Hunter| |Z|Desolace|
 B Tukk |L|3030 2600| |N|Tukk - (24.9, 71.8)| |C|Hunter| |Z|Desolace|
 R northern Desolace |N|(62.3, 39.0)| |O| |Z|Desolace|
@@ -111,8 +111,8 @@ T The Burning of Spirits |QID|1435| |N|Return to Maurin - (52.2, 53.4)| |Z|Desol
 T The Corrupter |QID|1482| |N|Return to Maurin - (52.2, 53.4)| |Z|Desolace|
 N Wait for the RP to finish |N|(52.2, 53.4)| |Z|Desolace|
 A The Corrupter |QID|1484| |N|Return to Maurin - (52.2, 53.4)| |Z|Desolace|
-A Catch of the Day |QID|5386| |N|Nataka - (55.4, 55.8)| |Z|Desolace|
-T Catch of the Day |QID|5386| |N|Nataka - (55.4, 55.8)| |Z|Desolace|
+A Catch of the Day |QID|5386| |N|Nataka - (55.4, 55.8)| |AH| |Z|Desolace|
+T Catch of the Day |QID|5386| |N|Nataka - (55.4, 55.8)| |AH| |Z|Desolace|
 T The Corrupter |QID|1484| |N|Return to Takata - (52.6, 54.4)| |Z|Desolace|
 A Alliance Relations |QID|1436| |N|Return to Takata - (52.6, 54.4)| |Z|Desolace|
 B Sell your junk, then restock on food and water if necessary |N|Harnor - (51.2, 53.3)| |C|!Rogue/!Warrior| |Z|Desolace|
@@ -122,14 +122,14 @@ T Stealing Supplies |QID|1370| |N|Uthek the Wise - (36.2, 79.2)| |Z|Desolace|
 A Ongeku |QID|1373| |N|Uthek the Wise - (36.2, 79.2)| |Z|Desolace|
 H Shadowprey Village |N|Hearth to Shadowprey Village| |C|Mage| |Z|Desolace|
 R Aboda |N|(24.9, 68.7)| |O| |C|Hunter| |Z|Desolace|
-t Attack mobs with it to learn [Claw (Rank 5)] |N|(43.3, 60.4)| |C|Hunter| |Z|Desolace|
+t Attack mobs with it to learn [Claw (Rank 5)] |N|Cast [Tame Beast] on a Scorpashi Lasher to tame it - (43.3, 60.4)| |C|Hunter| |Z|Desolace|
 N Click here for more info about pet training |N|(43.3, 60.4)| |C|Hunter| |Z|Desolace|
 R Aboda |N|(24.9, 68.7)| |C|Hunter| |Z|Desolace|
 A Hunting in Stranglethorn |QID|5763| |N|Roon - (25.1, 72.2)| |Z|Desolace|
 T Hand of Iruxos |QID|5381| |N|Return to Taiga - (25.8, 68.2)| |Z|Desolace|
 T Other Fish to Fry |QID|6143| |N|Return to Drulzegar - (23.4, 72.8)| |Z|Desolace|
 T Clam Bait |QID|6142| |N|Return to Mai'Lahii - (22.7, 72.1)| |Z|Desolace|
-t Train Teleport: Thunder Bluff |C|Mage| |Z|Desolace|
+t Train Teleport: Thunder Bluff |N|Cast [Teleport: Thunder Bluff]| |C|Mage| |Z|Desolace|
 F Fly to Thunder Bluff |N|Thalon at the end of the dock - (21.6, 74.1)| |O| |Z|Desolace|
 H Thunder Bluff |N|Hearth to Thunder Bluff| |Z|Desolace|
 A Compendium of the Fallen |QID|1049| |N|Sage - (34.4, 46.9) (SM Dungeon Quest)| |R|!Undead| |D|SM| |Z|Thunder Bluff|

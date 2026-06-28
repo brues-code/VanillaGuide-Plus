@@ -32,6 +32,7 @@ T Hinott's Assistance |QID|2479| |N|Hinott - (61.5, 19.2)| |C|Rogue| |Z|Hillsbra
 A Hinott's Assistance |QID|2480| |N|Hinott - (61.5, 19.2)| |C|Rogue| |Z|Hillsbrad Foothills|
 C Hinott's Assistance |QID|2480| |OIDX|1| |N|Wait for Hinott to complete the cure (61.5, 19.2)| |C|Rogue| |Z|Hillsbrad Foothills|
 T Hinott's Assistance |QID|2480| |N|Hinott - (61.6, 19.2)| |C|Rogue| |Z|Hillsbrad Foothills|
+N Use [Hinott's Oil] to cure yourself of the [Touch of Zanzil] |O| |C|Rogue| |Z|Hillsbrad Foothills|
 C Craft [Instant Poisons] |QID|1067| |L|6947 20| |N|Craft [Instant Poisons]| |O| |C|Rogue| |Z|Hillsbrad Foothills|
 T Journey to Tarren Mill |QID|1065| |N|Apothecary Lydon - (61.4, 19.1)| |Z|Hillsbrad Foothills|
 A Blood of Innocents |QID|1066| |N|Apothecary Lydon - (61.4, 19.1)| |Z|Hillsbrad Foothills|
@@ -60,6 +61,7 @@ R Theodore |N|(62.3, 19.7)| |O| |C|Hunter| |Z|Hillsbrad Foothills|
 t Train [Tame Beast] & [Claw (Rank 3)] & [Tame Beast] & [Bite (Rank 3)] |N|(61.8, 36.2)| |C|Hunter| |Z|Hillsbrad Foothills|
 N Click here for more info about pet training |N|(61.8, 36.2)| |C|Hunter| |Z|Hillsbrad Foothills|
 R Theodore |N|(62.3, 19.7)| |C|Hunter| |Z|Hillsbrad Foothills|
+N Use the [Instant Poison] on your weapons |O| |C|Rogue| |Z|Hillsbrad Foothills|
 N Avoid Elder Gray Bears and Giant Moss Creepers as they're high level and not worth killing |O| |Z|Hillsbrad Foothills|
 C Elixir of Suffering |QID|496| |OIDX|1| |N|Kill Bears and Spiders en route. Loot them for their Tongues and Ichor| |O| |Z|Hillsbrad Foothills|
 R Run to Durnholde Keep |N|(76.6, 46.5)| |Z|Hillsbrad Foothills|
@@ -206,6 +208,7 @@ C Arugal Must Die |QID|1014| |OIDX|1| |N|Kill Archmage Arugal. Loot him for his 
 N Die and respawn at the Spirit Healer |N|(SFK Dungeon Quest)| |D|SFK| |Z|Silverpine Forest|
 T Deathstalkers in Shadowfang |QID|1098| |N|Hadrec - (43.4, 40.9) (SFK Dungeon Quest)| |D|SFK| |Z|Silverpine Forest|
 T Arugal Must Die |QID|1014| |N|Dalar - (44.2, 39.8) (SFK Dungeon Quest)| |D|SFK| |Z|Silverpine Forest|
+N Cast [Teleport: Undercity] |N|(SFK Dungeon Quest)| |C|Mage| |D|SFK| |Z|Silverpine Forest|
 F Fly to the Undercity |N|Karos - (45.6, 42.6) (SFK Dungeon Quest)| |C|!Mage| |D|SFK| |Z|Silverpine Forest|
 T The Book of Ur |QID|1013| |N|Bel'dugur - (53.7, 54.5) (SFK Dungeon Quest)| |D|SFK| |Z|Undercity|
 t Train your class spells |N|Angela - (48.3, 16.0) (SFK Dungeon Quest)| |C|Warrior| |D|SFK| |Z|Undercity|
@@ -213,6 +216,7 @@ B Ezekiel. Buy  [Dust of Decay] and [Empty Vials] from him |L|2928 40| |N|Ezekie
 C Craft [Instant Poisons] |QID|1067| |L|6947 40| |N|Craft [Instant Poisons] (SFK Dungeon Quest)| |C|Rogue| |D|SFK| |Z|Undercity|
 t Train your class spells |N|Carolyn - (83.9, 72.1) (SFK Dungeon Quest)| |C|Rogue| |D|SFK| |Z|Undercity|
 t Train your class spells |N|Richard - (88.9, 15.9) (SFK Dungeon Quest)| |C|Warlock| |D|SFK| |Z|Undercity|
+N Cast [Teleport: Moonglade] |O| |C|Druid| |Z|Undercity|
 C Combine the two pendants at the Shrine of Remulos for the Pendant of the Sea Lion |QID|30| |L|15882 1| |N|Combine the two pendants at the Shrine of Remulos for the Pendant of the Sea Lion - (36.0, 41.4)| |C|Druid| |Z|Moonglade|
 T Trial of the Sea lion |QID|30| |N|Dendrite - (56.2, 30.6)| |C|Druid| |Z|Moonglade|
 A Aquatic Form |QID|31| |N|Dendrite - (56.2, 30.6)| |C|Druid| |Z|Moonglade|

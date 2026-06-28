@@ -123,6 +123,8 @@ local defaults = {
     branchsavedstep = nil,
     autobranch = false,           -- auto-branch to Turtle WoW zones
     routepack = nil,              -- Active route pack name (e.g., "VanillaGuide", "RestedXP")
+    PlayStyle = "SOLO",           -- Default playstyle ("SOLO" or "GROUP")
+    UseAH = false,                -- Default Auction House setting (true/false)
     -- Starting zone selection (branch-and-rejoin)
     startingzoneselected = false, -- has player picked a starting zone?
     selectedstartingzone = nil,   -- which starting zone was selected (e.g., "Human", "Dwarf")
@@ -132,6 +134,7 @@ local defaults = {
     filterOptimized = true,
     filterRXP = true,
     filterZone = true,
+    filterRXPHC = true,
     Dungeons = {
         ["RFC"] = true,
         ["WC"] = true,
@@ -364,11 +367,11 @@ local options = {
 
                 TurtleGuide:Print("--- Training Check ---")
                 TurtleGuide:Print("IsProfessionLearned('Blacksmithing'): " ..
-                tostring(TurtleGuide:IsProfessionLearned("Blacksmithing")))
+                    tostring(TurtleGuide:IsProfessionLearned("Blacksmithing")))
                 TurtleGuide:Print("IsSpellLearned('Blacksmithing'): " ..
-                tostring(TurtleGuide:IsSpellLearned("Blacksmithing")))
+                    tostring(TurtleGuide:IsSpellLearned("Blacksmithing")))
                 TurtleGuide:Print("IsTrainingCompleted('Train [Blacksmithing]'): " ..
-                tostring(TurtleGuide:IsTrainingCompleted("Train [Blacksmithing]")))
+                    tostring(TurtleGuide:IsTrainingCompleted("Train [Blacksmithing]")))
             end,
             order = 17,
         },
@@ -455,6 +458,12 @@ function TurtleGuide:OnInitialize()
         if self.db.char.Dungeons[k] == nil then
             self.db.char.Dungeons[k] = v
         end
+    end
+    if self.db.char.PlayStyle == nil then
+        self.db.char.PlayStyle = defaults.PlayStyle
+    end
+    if self.db.char.UseAH == nil then
+        self.db.char.UseAH = defaults.UseAH
     end
     self:RegisterChatCommand({ "/vg", "/turtleguide" }, options)
     self.OnMenuRequest = options
@@ -715,6 +724,29 @@ function TurtleGuide:SelectRoutePack(packName)
         self.db.char.filterRXP = true
         self.db.char.filterOptimized = false
         self.db.char.filterZone = false
+        self.db.char.filterRXPHC = false
+        self.db.char.PlayStyle = "GROUP"
+        self.db.char.UseAH = true
+        if self.guidelistframe and self.guidelistframe:IsVisible() then
+            self:UpdateGuideListPanel()
+        end
+    elseif packName == "RXP Hardcore" then
+        self.db.char.filterRXP = false
+        self.db.char.filterOptimized = false
+        self.db.char.filterZone = false
+        self.db.char.filterRXPHC = true
+        self.db.char.PlayStyle = "SOLO"
+        self.db.char.UseAH = false
+        if self.guidelistframe and self.guidelistframe:IsVisible() then
+            self:UpdateGuideListPanel()
+        end
+    elseif packName == "VanillaGuide" then
+        self.db.char.filterRXP = false
+        self.db.char.filterOptimized = true
+        self.db.char.filterZone = true
+        self.db.char.filterRXPHC = false
+        self.db.char.PlayStyle = "SOLO"
+        self.db.char.UseAH = false
         if self.guidelistframe and self.guidelistframe:IsVisible() then
             self:UpdateGuideListPanel()
         end
@@ -1295,6 +1327,9 @@ function TurtleGuide:GetGuideCategory(guideName)
     if string.find(guideName, "^RXP/") then
         return "rxp"
     end
+    if string.find(guideName, "^RXP_Hardcore/") then
+        return "rxp_hc"
+    end
     -- Check if any turtle zone name appears in guide name
     for zone in pairs(TURTLE_ZONES) do
         if string.find(guideName, zone) then
@@ -1588,30 +1623,35 @@ end
 -- These are the "branch" points - race-specific 1-12 zones
 TurtleGuide.startingZones = {
     Alliance = {
-        { race = "Human",    zone = "Elwynn Forest",            guide = "Elwynn Forest (1-12)",        levels = "1-12", rejoinLevel = 12 },
-        { race = "Dwarf",    zone = "Dun Morogh",               guide = "Dun Morogh (1-12)",           levels = "1-12", rejoinLevel = 12 },
-        { race = "NightElf", zone = "Teldrassil",               guide = "Teldrassil (1-12)",           levels = "1-12", rejoinLevel = 12 },
-        { race = "Gnome",    zone = "Dun Morogh",               guide = "Dun Morogh (1-12)",           levels = "1-12", rejoinLevel = 12 },
-        { race = "HighElf",  zone = "Thalassian Highlands",     guide = "Thalassian Highlands (1-10)", levels = "1-10", rejoinLevel = 12 }, -- Turtle WoW
-        -- RestedXP Survival Guides (Hardcore-safe routes)
-        { race = "Human",    zone = "RXP Survival (Human)",     guide = "RXP/1-6 Northshire",          levels = "1-21", rejoinLevel = 21, isSurvival = true },
-        { race = "Dwarf",    zone = "RXP Survival (Dwarf)",     guide = "RXP/1-6 Coldridge Valley",    levels = "1-21", rejoinLevel = 21, isSurvival = true },
-        { race = "Gnome",    zone = "RXP Survival (Gnome)",     guide = "RXP/1-6 Coldridge Valley",    levels = "1-21", rejoinLevel = 21, isSurvival = true },
-        { race = "NightElf", zone = "RXP Survival (Night Elf)", guide = "RXP/1-6 Shadowglen",          levels = "1-21", rejoinLevel = 21, isSurvival = true },
+        { race = "Human",    zone = "Elwynn Forest",        guide = "Elwynn Forest (1-12)",        levels = "1-12", rejoinLevel = 12 },
+        { race = "Dwarf",    zone = "Dun Morogh",           guide = "Dun Morogh (1-12)",           levels = "1-12", rejoinLevel = 12 },
+        { race = "NightElf", zone = "Teldrassil",           guide = "Teldrassil (1-12)",           levels = "1-12", rejoinLevel = 12 },
+        { race = "Gnome",    zone = "Dun Morogh",           guide = "Dun Morogh (1-12)",           levels = "1-12", rejoinLevel = 12 },
+        { race = "HighElf",  zone = "Thalassian Highlands", guide = "Thalassian Highlands (1-10)", levels = "1-10", rejoinLevel = 12 }, -- Turtle WoW
+        -- RestedXP Speedleveling Guides
+        { race = "Human",    zone = "RXP (Human)",          guide = "RXP/1-6 Northshire",          levels = "1-21", rejoinLevel = 21 },
+        { race = "Dwarf",    zone = "RXP (Dwarf)",          guide = "RXP/1-6 Coldridge Valley",    levels = "1-21", rejoinLevel = 21 },
+        { race = "Gnome",    zone = "RXP (Gnome)",          guide = "RXP/1-6 Coldridge Valley",    levels = "1-21", rejoinLevel = 21 },
+        { race = "NightElf", zone = "RXP (NightElf)",       guide = "RXP/1-6 Shadowglen",          levels = "1-21", rejoinLevel = 21 },
     },
     Horde = {
-        { race = "Orc",     zone = "Durotar",                  guide = "Durotar (1-12)",             levels = "1-12", rejoinLevel = 12 },
-        { race = "Troll",   zone = "Durotar",                  guide = "Durotar (1-12)",             levels = "1-12", rejoinLevel = 12 },
-        { race = "Tauren",  zone = "Mulgore",                  guide = "Mulgore (1-12)",             levels = "1-12", rejoinLevel = 12 },
-        { race = "Undead",  zone = "Tirisfal Glades",          guide = "Tirisfal (1-12)",            levels = "1-12", rejoinLevel = 12 },
-        { race = "Goblin",  zone = "Blackstone Island",        guide = "Blackstone Island (1-10)",   levels = "1-10", rejoinLevel = 10 }, -- Turtle WoW
-        -- RestedXP Survival Guides (Hardcore-safe routes)
-        { race = "Orc",     zone = "RXP Survival (Orc/Troll)", guide = "RXP/1-6 Orc/Troll",          levels = "1-23", rejoinLevel = 23, isSurvival = true },
-        { race = "Troll",   zone = "RXP Survival (Orc/Troll)", guide = "RXP/1-6 Orc/Troll",          levels = "1-23", rejoinLevel = 23, isSurvival = true },
-        { race = "Tauren",  zone = "RXP Survival (Tauren)",    guide = "RXP/1-6 Tauren",             levels = "1-23", rejoinLevel = 23, isSurvival = true },
-        { race = "Undead",  zone = "RXP Survival (Undead)",    guide = "RXP/1-6 Undead",             levels = "1-23", rejoinLevel = 23, isSurvival = true },
-        -- RestedXP Speedrun Guides
-        { race = "Warrior", zone = "Kamisayo Speedrun",        guide = "RXP/Kamisayo Speedrun 1-13", levels = "1-60", rejoinLevel = 60, class = "Warrior", isSpeedrun = true },
+        { race = "Orc",      zone = "Durotar",           guide = "Durotar (1-12)",             levels = "1-12", rejoinLevel = 12 },
+        { race = "Troll",    zone = "Durotar",           guide = "Durotar (1-12)",             levels = "1-12", rejoinLevel = 12 },
+        { race = "Tauren",   zone = "Mulgore",           guide = "Mulgore (1-12)",             levels = "1-12", rejoinLevel = 12 },
+        { race = "Undead",   zone = "Tirisfal Glades",   guide = "Tirisfal (1-12)",            levels = "1-12", rejoinLevel = 12 },
+        { race = "Goblin",   zone = "Blackstone Island", guide = "Blackstone Island (1-10)",   levels = "1-10", rejoinLevel = 10 }, -- Turtle WoW
+        -- RestedXP Speedleveling Guides
+        { race = "Human",    zone = "RXP (Human)",       guide = "RXP/1-6 Northshire",         levels = "1-21", rejoinLevel = 21 },
+        { race = "Dwarf",    zone = "RXP (Dwarf)",       guide = "RXP/1-6 Coldridge Valley",   levels = "1-21", rejoinLevel = 21 },
+        { race = "Gnome",    zone = "RXP (Gnome)",       guide = "RXP/1-6 Coldridge Valley",   levels = "1-21", rejoinLevel = 21 },
+        { race = "NightElf", zone = "RXP (NightElf)",    guide = "RXP/1-6 Shadowglen",         levels = "1-21", rejoinLevel = 21 },
+        { race = "Orc",      zone = "RXP (Orc)",         guide = "RXP/1-6 Orc/Troll",          levels = "1-23", rejoinLevel = 23 },
+        { race = "Troll",    zone = "RXP (Troll)",       guide = "RXP/1-6 Orc/Troll",          levels = "1-23", rejoinLevel = 23 },
+        { race = "Tauren",   zone = "RXP (Tauren)",      guide = "RXP/1-6 Tauren",             levels = "1-23", rejoinLevel = 23 },
+        { race = "Undead",   zone = "RXP (Undead)",      guide = "RXP/1-6 Undead",             levels = "1-23", rejoinLevel = 23 },
+
+        ---
+        { race = "Warrior",  zone = "Kamisayo Speedrun", guide = "RXP/Kamisayo Speedrun 1-13", levels = "1-60", rejoinLevel = 60, class = "Warrior", isSpeedrun = true },
     },
 }
 

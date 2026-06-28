@@ -9,8 +9,8 @@ h Everlook |N|Set hearth in Everlook (61.4, 38.8)| |Z|Winterspring|
 N Do not accept Sister Pamela from Jessica Redpath |N|(61.3, 39.0)| |Z|Winterspring|
 A The Everlook Report |QID|6028| |N|Gregor Greystone - (61.3, 39.0)| |Z|Winterspring|
 A Duke Nicholas Zverenhoff |QID|6030| |N|Gregor Greystone - (61.3, 39.0)| |Z|Winterspring|
-A Luck Be With You |QID|969| |N|Witch Doctor Mau'ari - (61.9, 38.3)| |C|Hunter| |Z|Winterspring|
-A Luck Be With You |QID|969| |N|Witch Doctor Mau'ari - (61.9, 38.3)| |Z|Winterspring|
+A Luck Be With You |QID|969| |N|Witch Doctor Mau'ari - (61.9, 38.3)| |C|Hunter| |P|SOLO| |Z|Winterspring|
+A Luck Be With You |QID|969| |N|[Group] Witch Doctor Mau'ari - (61.9, 38.3)| |P|GROUP| |Z|Winterspring|
 R Izzy Coppergrab |N|(61.5, 37.0)| |Z|Winterspring|
 N [Everlook Report] |N|(61.5, 37.0)| |Z|Winterspring|
 N [Studies in Spirit Speaking] |N|(61.5, 37.0)| |Z|Winterspring|
