@@ -16,6 +16,7 @@ TurtleGuide.myfaction = UnitFactionGroup("player")
 
 -- Race-based route definitions
 TurtleGuide.routes = {}
+TurtleGuide.manuallyUnchecked = {}
 
 -- Route pack registry (named collections of per-race routes)
 TurtleGuide.routepacks = {}
@@ -973,6 +974,19 @@ function TurtleGuide:GetObjectiveStatus(i)
         end
     end
 
+    -- Skip TURNIN step if the quest is not accepted (not in log) and not completed
+    if not turnedin and not (self.manuallyUnchecked and self.manuallyUnchecked[self.quests[i]]) then
+        local action = self.actions[i]
+        if action == "TURNIN" and not logi then
+            local cleanQuest = string.gsub(self.quests[i], "@.*@", "")
+            cleanQuest = string.gsub(cleanQuest, TurtleGuide.Locale.PART_GSUB, "")
+            local isCompleted = (qidNum and self:IsQuestCompletedOnServer(qidNum)) or (self.db.char.completedquests and self.db.char.completedquests[cleanQuest])
+            if not isCompleted then
+                turnedin = true
+            end
+        end
+    end
+
     return turnedin, logi, complete
 end
 
@@ -991,7 +1005,17 @@ function TurtleGuide:SetTurnedIn(i, value, noupdate)
         end
     end
 
-    if value then value = true else value = nil end -- Cleanup to minimize savedvar data
+    if value then
+        value = true
+        if self.manuallyUnchecked then
+            self.manuallyUnchecked[self.quests[i]] = nil
+        end
+    else
+        value = nil
+        if self.manuallyUnchecked then
+            self.manuallyUnchecked[self.quests[i]] = true
+        end
+    end
 
     local quest = self.quests[i]
     self.turnedin[quest] = value
@@ -1153,7 +1177,8 @@ function TurtleGuide:SkipToNextObjective()
     -- Find next incomplete objective (after current)
     local nextStep = nil
     for i = self.current + 1, table.getn(self.actions) do
-        if not self.turnedin[self.quests[i]] then
+        local turnedin = self:GetObjectiveStatus(i)
+        if not turnedin then
             nextStep = i
             break
         end

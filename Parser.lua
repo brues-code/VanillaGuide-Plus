@@ -239,6 +239,12 @@ function TurtleGuide:LoadGuide(name, complete)
 	if not self.db.char.turnins[name] then self.db.char.turnins[name] = {} end
 	self.turnedin = self.db.char.turnins[name]
 
+	if self.manuallyUnchecked then
+		for k in pairs(self.manuallyUnchecked) do
+			self.manuallyUnchecked[k] = nil
+		end
+	end
+
 	-- Smart skip: scan quest log and skip to furthest incomplete step
 	self:SmartSkipToStep()
 end
@@ -637,7 +643,14 @@ function TurtleGuide:SmartSkipToStep()
 		end
 
 		-- Track last incomplete step
-		if not self.turnedin[quest] then
+		local stepTurnedIn = self.turnedin[quest]
+		if not stepTurnedIn and action == "TURNIN" then
+			if not inProgressQuests[cleanQuest] and not completedQuests[cleanQuest] and not isCompleted then
+				stepTurnedIn = true
+			end
+		end
+
+		if not stepTurnedIn then
 			furthestStep = i
 		end
 	end

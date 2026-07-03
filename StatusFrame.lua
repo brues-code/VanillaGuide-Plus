@@ -325,7 +325,9 @@ function TurtleGuide:UpdateStatusFrame()
 			end
 
 			local incomplete
-			if action == "ACCEPT" then
+			if turnedin then
+				incomplete = false
+			elseif action == "ACCEPT" then
 				incomplete = (not optional or hasuseitem or haslootitem or prereqturnedin) and not logi
 			elseif action == "TURNIN" then
 				incomplete = not optional or logi
