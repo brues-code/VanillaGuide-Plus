@@ -46,22 +46,38 @@ grip:SetPoint("BOTTOMRIGHT", -2, 2)
 grip:EnableMouse(true)
 grip:SetFrameLevel(frame:GetFrameLevel() + 2)
 
-local gripTex = grip:CreateTexture(nil, "OVERLAY")
-gripTex:SetAllPoints(grip)
-gripTex:SetTexture("Interface\\ChatFrame\\UI-ChatIM-SizeGrabber-Up")
+local gripDots = {}
+for x = 1, 3 do
+	for y = 1, 4 - x do
+		local dot = grip:CreateTexture(nil, "OVERLAY")
+		dot:SetWidth(2)
+		dot:SetHeight(2)
+		dot:SetTexture(0.5, 0.5, 0.5, 0.7)
+		dot:SetPoint("BOTTOMRIGHT", -x * 4, y * 4)
+		table.insert(gripDots, dot)
+	end
+end
 
 grip:SetScript("OnEnter", function()
-	gripTex:SetTexture("Interface\\ChatFrame\\UI-ChatIM-SizeGrabber-Highlight")
+	for _, dot in ipairs(gripDots) do
+		dot:SetTexture(1, 0.82, 0, 1)
+	end
 end)
 grip:SetScript("OnLeave", function()
-	gripTex:SetTexture("Interface\\ChatFrame\\UI-ChatIM-SizeGrabber-Up")
+	for _, dot in ipairs(gripDots) do
+		dot:SetTexture(0.5, 0.5, 0.5, 0.7)
+	end
 end)
 grip:SetScript("OnMouseDown", function()
-	gripTex:SetTexture("Interface\\ChatFrame\\UI-ChatIM-SizeGrabber-Down")
+	for _, dot in ipairs(gripDots) do
+		dot:SetTexture(1, 1, 1, 1)
+	end
 	frame:StartSizing("BOTTOMRIGHT")
 end)
 grip:SetScript("OnMouseUp", function()
-	gripTex:SetTexture("Interface\\ChatFrame\\UI-ChatIM-SizeGrabber-Up")
+	for _, dot in ipairs(gripDots) do
+		dot:SetTexture(0.5, 0.5, 0.5, 0.7)
+	end
 	frame:StopMovingOrSizing()
 	TurtleGuide:OnObjectiveFrameResized()
 end)
@@ -136,7 +152,7 @@ end
 
 function TurtleGuide:UpdateObjectivePanel()
 	frame:SetScript("OnShow", nil)
-	local guidebutton = CreateButton(frame, "BOTTOMRIGHT", -6, 6)
+	local guidebutton = CreateButton(frame, "BOTTOMRIGHT", -24, 6)
 	guidebutton:SetText("Guides")
 	guidebutton:SetScript("OnClick", function() frame:Hide(); TurtleGuide.guidelistframe:Show() end)
 
