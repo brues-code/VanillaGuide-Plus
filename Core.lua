@@ -1001,7 +1001,11 @@ function TurtleGuide:GetObjectiveStatus(i)
         end
     end
 
-    -- Skip TURNIN step if the quest is not accepted (not in log) and not completed
+    -- Skip TURNIN step if the quest is not accepted (not in log) and not
+    -- completed. Flagged in the fourth return so UpdateStatusFrame can warn
+    -- when it passes over such a step: this silent skip is how a missed
+    -- accept cascades into the guide jumping ahead.
+    local skippednotinlog
     if not turnedin and not (self.manuallyUnchecked and self.manuallyUnchecked[self.quests[i]]) then
         local action = self.actions[i]
         if action == "TURNIN" and not logi then
@@ -1010,11 +1014,12 @@ function TurtleGuide:GetObjectiveStatus(i)
             local isCompleted = (qidNum and self:IsQuestCompletedOnServer(qidNum)) or (self.db.char.completedquests and self.db.char.completedquests[cleanQuest])
             if not isCompleted then
                 turnedin = true
+                skippednotinlog = true
             end
         end
     end
 
-    return turnedin, logi, complete
+    return turnedin, logi, complete, skippednotinlog
 end
 
 function TurtleGuide:SetTurnedIn(i, value, noupdate)
@@ -1061,8 +1066,12 @@ function TurtleGuide:SetTurnedIn(i, value, noupdate)
 
     if not noupdate then
         self:UpdateStatusFrame()
-    else
+    elseif value then
+        -- Arm the delayed update only for turn-ins: the gate waits for the
+        -- quest to leave the log. An uncheck's quest legitimately stays in
+        -- the log and would wedge the gate shut permanently.
         self.updatedelay = i
+        self.updatedelaytime = GetTime()
     end
 end
 
@@ -1100,8 +1109,12 @@ function TurtleGuide:CompleteQuestByQid(questID, noupdate)
         return false
     end
 
+    -- Guard on the raw turnedin table, not GetObjectiveStatus: the handler
+    -- records the QID in completedquestsbyid before calling here, which makes
+    -- GetObjectiveStatus already report the step as turned in and would hide
+    -- it from this search
     for i in ipairs(self.actions) do
-        if self.actions[i] == "TURNIN" and not self:GetObjectiveStatus(i) then
+        if self.actions[i] == "TURNIN" and not self.turnedin[self.quests[i]] then
             local qid = tonumber((self:GetObjectiveTag("QID", i)))
             if qid == questID then
                 local cleanQuest = string.gsub(self.quests[i], "@.*@", "")

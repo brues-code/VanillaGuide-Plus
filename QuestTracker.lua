@@ -13,8 +13,9 @@ TurtleGuide.TrackEvents = {
 	"ZONE_CHANGED", "ZONE_CHANGED_INDOORS", "MINIMAP_ZONE_CHANGED",
 	"ZONE_CHANGED_NEW_AREA", "PLAYER_LEVEL_UP", "ADDON_LOADED",
 	"CRAFT_SHOW", "PLAYER_DEAD", "SKILL_LINES_CHANGED", "SPELLS_CHANGED",
-	"QUEST_ACCEPTED", "QUEST_TURNED_IN", "HEARTHSTONE_BOUND", "BAG_UPDATE_DELAYED",
-	"GOSSIP_SHOW", "QUEST_DETAIL", "QUEST_PROGRESS", "QUEST_COMPLETE"
+	"QUEST_ACCEPTED", "QUEST_TURNED_IN", "QUEST_REMOVED", "HEARTHSTONE_BOUND",
+	"BAG_UPDATE_DELAYED", "GOSSIP_SHOW", "QUEST_GREETING", "QUEST_DETAIL",
+	"QUEST_PROGRESS", "QUEST_COMPLETE"
 }
 
 
@@ -94,7 +95,10 @@ function TurtleGuide:QUEST_LOG_UPDATE(event)
 
 	self:Debug("QUEST_LOG_UPDATE", action, logi, complete)
 
-	if (self.updatedelay and not logi) or action == "ACCEPT" or action == "COMPLETE" then self:UpdateStatusFrame() end
+	-- UpdateStatusFrame gates on the delayed step itself, so run it whenever a
+	-- delayed update is pending; checking the current step's logi here would
+	-- miss turnins recorded for a step other than the current one
+	if self.updatedelay or action == "ACCEPT" or action == "COMPLETE" then self:UpdateStatusFrame() end
 
 	if action == "KILL" or action == "NOTE" then
 		local quest, questtext = self:GetObjectiveTag("Q"), self:GetObjectiveTag("QO")
@@ -194,6 +198,30 @@ function TurtleGuide:CRAFT_SHOW()
 	if self:GetObjectiveInfo() == "PET" then self:UpdateStatusFrame() end
 end
 
+-- During NPC interaction self.current lags behind: the advance past a
+-- just-finished step happens on the next quest log update, often after the
+-- follow-up QUEST_DETAIL or reopened gossip has already fired. Resolve the
+-- first step at or after current that is not already turned in, so automation
+-- never keys off a stale step.
+local function PendingStep()
+	local i = TurtleGuide.current
+	if not i or not TurtleGuide.actions then return end
+	while TurtleGuide.actions[i] and TurtleGuide:GetObjectiveStatus(i) do
+		i = i + 1
+	end
+	if TurtleGuide.actions[i] then return i end
+end
+
+-- Returns the clean quest name and step index when the pending step matches
+-- the action
+local function CurrentStepName(action)
+	local i = PendingStep()
+	if not i then return end
+	local a, quest = TurtleGuide:GetObjectiveInfo(i)
+	if a ~= action or not quest then return end
+	return (string.gsub(quest, L.PART_GSUB, "")), i
+end
+
 -- Quest accept detection. QUEST_ACCEPTED carries the questID, so ACCEPT steps
 -- match by |QID| tag instead of parsing the "Quest accepted:" system message.
 function TurtleGuide:QUEST_ACCEPTED(questLogIndex, questID)
@@ -201,10 +229,10 @@ function TurtleGuide:QUEST_ACCEPTED(questLogIndex, questID)
 	self:Debug("QUEST_ACCEPTED", questLogIndex, questID)
 	if not questID then return end
 
-	local action, quest = self:GetObjectiveInfo()
-	if action ~= "ACCEPT" then return end
+	local quest, i = CurrentStepName("ACCEPT")
+	if not quest then return end
 
-	local qid = tonumber((self:GetObjectiveTag("QID")))
+	local qid = tonumber((self:GetObjectiveTag("QID", i)))
 	if qid then
 		if qid == questID then
 			self:Debug(string.format("Detected quest accept by QID %d %q", questID, quest))
@@ -215,7 +243,7 @@ function TurtleGuide:QUEST_ACCEPTED(questLogIndex, questID)
 
 	-- Step has no |QID| tag; compare titles instead
 	local title = C_QuestLog.GetTitleForQuestID(questID)
-	if title and string.gsub(quest, L.PART_GSUB, "") == title then
+	if title and quest == title then
 		self:Debug(string.format("Detected quest accept %q", quest))
 		self:UpdateStatusFrame()
 	end
@@ -231,27 +259,51 @@ function TurtleGuide:QUEST_TURNED_IN(questID, xpReward, moneyReward)
 
 	self.db.char.completedquestsbyid[questID] = true
 
-	if self:CompleteQuestByQid(questID, true) then return end
-
-	-- No |QID| match in the guide; track and match by title instead
-	local title = C_QuestLog.GetTitleForQuestID(questID)
-	if title then
-		self.db.char.completedquests[title] = true
-		self:CompleteQuest(title, true)
+	if not self:CompleteQuestByQid(questID, true) then
+		-- No |QID| match in the guide; track and match by title instead
+		local title = C_QuestLog.GetTitleForQuestID(questID)
+		if title then
+			self.db.char.completedquests[title] = true
+			self:CompleteQuest(title, true)
+		end
 	end
+
+	-- The quest is usually still in the log here; the removal arrives via
+	-- the follow-up log update and fires QUEST_REMOVED, which advances.
+	-- This covers the other ordering, should a server remove it inline.
+	if self.current and not C_QuestLog.IsOnQuest(questID) then
+		self:UpdateStatusFrame()
+	end
+end
+
+-- Quest left the log (ClassicAPI event; fires for turn-ins and abandons).
+-- For turn-ins it follows QUEST_TURNED_IN, so the step is already marked
+-- and the removal is the moment the delayed update can advance. A removal
+-- with no turn-in confirmation is an abandon: rescan so the guide routes
+-- back to the abandoned quest's accept step.
+function TurtleGuide:QUEST_REMOVED(questID)
+	questID = tonumber(questID)
+	self:Debug("QUEST_REMOVED", questID)
+	if not questID then return end
+
+	if self.db.char.completedquestsbyid[questID] then
+		if self.current then self:UpdateStatusFrame() end
+		return
+	end
+
+	-- Grace period in case a late QUEST_TURNED_IN is still in flight
+	C_Timer.After(0.5, function()
+		if not self.current or not self.actions then return end
+		if self.db.char.completedquestsbyid[questID] then return end
+		self:Debug(string.format("QID %d abandoned - rescanning", questID))
+		self:UpdateStatusFrame()
+	end)
 end
 
 
 ---------------------------------
 --  Quest automation           --
 ---------------------------------
-
--- Returns the clean quest name when the current step matches the action
-local function CurrentStepName(action)
-	local a, quest = TurtleGuide:GetObjectiveInfo()
-	if a ~= action or not quest then return end
-	return (string.gsub(quest, L.PART_GSUB, ""))
-end
 
 -- Hold SHIFT while talking to an NPC to suspend automation
 local function AutomationSuspended()
@@ -263,27 +315,57 @@ local function QuestFrameTitle()
 	return (string.gsub(GetTitleText() or "", "%[[0-9%+%-]+]%s", ""))
 end
 
--- Auto-select the current step's quest from the gossip list, matched by QID
+-- Auto-select the pending step's quest from the gossip list, matched by QID
 -- (by title for untagged steps)
 function TurtleGuide:GOSSIP_SHOW()
 	if AutomationSuspended() then return end
-	local action = self:GetObjectiveInfo()
-	local qid = tonumber((self:GetObjectiveTag("QID")))
 
-	if action == "ACCEPT" then
-		local name = CurrentStepName("ACCEPT")
+	local name, i = CurrentStepName("ACCEPT")
+	if name then
+		local qid = tonumber((self:GetObjectiveTag("QID", i)))
 		for _, q in ipairs(C_GossipInfo.GetAvailableQuests()) do
 			if qid == q.questID or (not qid and q.title == name) then
 				self:Debug(string.format("Auto-selecting available quest %d %q", q.questID, q.title))
 				return C_GossipInfo.SelectAvailableQuest(q.questID)
 			end
 		end
-	elseif action == "TURNIN" then
-		local name = CurrentStepName("TURNIN")
+		return
+	end
+
+	name, i = CurrentStepName("TURNIN")
+	if name then
+		local qid = tonumber((self:GetObjectiveTag("QID", i)))
 		for _, q in ipairs(C_GossipInfo.GetActiveQuests()) do
 			if q.isComplete and (qid == q.questID or (not qid and q.title == name)) then
 				self:Debug(string.format("Auto-selecting active quest %d %q", q.questID, q.title))
 				return C_GossipInfo.SelectActiveQuest(q.questID)
+			end
+		end
+	end
+end
+
+-- Greeting panel (quest NPCs without gossip text). The greeting API is
+-- index-based and carries no questIDs, so titles are the only match key.
+function TurtleGuide:QUEST_GREETING()
+	if AutomationSuspended() then return end
+
+	local name = CurrentStepName("ACCEPT")
+	if name then
+		for i = 1, GetNumAvailableQuests() do
+			if GetAvailableTitle(i) == name then
+				self:Debug(string.format("Auto-selecting available quest (greeting) %q", name))
+				return SelectAvailableQuest(i)
+			end
+		end
+		return
+	end
+
+	name = CurrentStepName("TURNIN")
+	if name then
+		for i = 1, GetNumActiveQuests() do
+			if GetActiveTitle(i) == name then
+				self:Debug(string.format("Auto-selecting active quest (greeting) %q", name))
+				return SelectActiveQuest(i)
 			end
 		end
 	end
@@ -319,6 +401,31 @@ function TurtleGuide:QUEST_COMPLETE()
 		end
 	end
 	self:UpdateStatusFrame()
+end
+
+-- The quest windows outlive the step that opened them: a follow-up
+-- QUEST_DETAIL or reopened gossip arrives before the status frame advances
+-- past the finished step, and no further event fires once it does. Called
+-- from UpdateStatusFrame after the step advances to feed the still-open
+-- window back through the handlers above.
+local redriving
+function TurtleGuide:RedriveQuestAutomation()
+	if redriving or AutomationSuspended() then return end
+	redriving = true
+	if GossipFrame and GossipFrame:IsVisible() then
+		self:GOSSIP_SHOW()
+	elseif QuestFrame and QuestFrame:IsVisible() then
+		if QuestFrameGreetingPanel and QuestFrameGreetingPanel:IsVisible() then
+			self:QUEST_GREETING()
+		elseif QuestFrameDetailPanel:IsVisible() then
+			self:QUEST_DETAIL()
+		elseif QuestFrameProgressPanel:IsVisible() then
+			self:QUEST_PROGRESS()
+		elseif QuestFrameRewardPanel:IsVisible() then
+			self:QUEST_COMPLETE()
+		end
+	end
+	redriving = false
 end
 
 
@@ -377,6 +484,12 @@ local function RecheckCurrentObjective()
 end
 
 C_Timer.NewTicker(ARRIVAL_CHECK_INTERVAL, function()
+	-- Flush an expired delayed update even when no quest events arrive;
+	-- UpdateStatusFrame clears updatedelay once its gate passes
+	if TurtleGuide.updatedelay and GetTime() - (TurtleGuide.updatedelaytime or 0) >= 3 then
+		TurtleGuide:UpdateStatusFrame()
+	end
+
 	-- Check if we need to re-evaluate after rewind
 	if TurtleGuide.recheckCompletion then
 		TurtleGuide.recheckCompletion = nil

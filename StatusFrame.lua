@@ -222,11 +222,14 @@ end
 local lastmapped, lastmappedaction, lastmappedquest, tex, uitem
 function TurtleGuide:UpdateStatusFrame()
 	self:Debug("UpdateStatusFrame", self.current)
+	local oldcurrent = self.current
 
 	if self.updatedelay then
 		local _, logi = self:GetObjectiveStatus(self.updatedelay)
 		self:Debug("Delayed update", self.updatedelay, logi)
-		if logi then return end
+		-- Safety valve: a quest that unexpectedly stays in the log must not
+		-- freeze status updates for good
+		if logi and GetTime() - (self.updatedelaytime or 0) < 3 then return end
 	end
 
 	local nextstep
@@ -236,7 +239,14 @@ function TurtleGuide:UpdateStatusFrame()
 		local name = self.quests[i]
 		if not self.turnedin[name] and not nextstep then
 			local action, name, quest = self:GetObjectiveInfo(i)
-			local turnedin, logi, complete = self:GetObjectiveStatus(i)
+			local turnedin, logi, complete, skippednotinlog = self:GetObjectiveStatus(i)
+
+			-- A turn-in being passed over because the quest was never
+			-- accepted is how the guide silently jumps ahead; say so once
+			if skippednotinlog and i >= (oldcurrent or 1) and not self.turninskipwarned[self.quests[i]] then
+				self.turninskipwarned[self.quests[i]] = true
+				self:Print(string.format("|cffff9900Skipping turn-in %q - quest is not in your log.|r", name))
+			end
 			local note, useitem, optional, prereq, lootitem, lootqty = self:GetObjectiveTag("N", i),
 				self:GetObjectiveTag("U", i), self:GetObjectiveTag("O", i), self:GetObjectiveTag("PRE", i),
 				self:GetObjectiveTag("L", i)
@@ -396,6 +406,12 @@ function TurtleGuide:UpdateStatusFrame()
 	end
 
 	self:UpdateOHPanel()
+
+	-- An open quest/gossip window fires no further events once the step
+	-- advances past the one that opened it; rescan it for the new step
+	if self.current ~= oldcurrent then
+		self:RedriveQuestAutomation()
+	end
 end
 
 function TurtleGuide:PLAYER_REGEN_ENABLED()

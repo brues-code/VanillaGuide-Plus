@@ -262,6 +262,9 @@ function TurtleGuide:LoadGuide(name, complete)
 	if not self.db.char.turnins[name] then self.db.char.turnins[name] = {} end
 	self.turnedin = self.db.char.turnins[name]
 
+	-- Step keys restart per guide, so the skipped-turnin warnings reset too
+	self.turninskipwarned = {}
+
 	if self.manuallyUnchecked then
 		for k in pairs(self.manuallyUnchecked) do
 			self.manuallyUnchecked[k] = nil
