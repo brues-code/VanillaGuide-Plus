@@ -44,8 +44,6 @@ local engrish = {
 if loc == "deDE" then localized = {
 	PART_GSUB = "%s%(Teil %d+%)",
 	PART_FIND = "(.+)%s%(Teil %d+%)",
-	["(.*) is now your home."] = "(.*) ist jetzt Euer Zuhause.",
-	["Quest accepted: (.*)"] = "Quest angenommen: (.*)",
 	["^You .*Hitem:(%d+).*(%[.+%])"] = "^Ihr .*Hitem:(%d+).*(%[.+%])",
 	["|cffff4500This quest is not listed in your current guide"] = "|cffff4500Diese Quest ist nicht in deinem Guide",
 	["This panel lets you choose a guide to load. Upon completion the next guide will load automatically. Completed guides can be reset by shift-clicking."] = "Hier kannst Du einen Guide ausw\195\164hlen. Nach dessen Beendigung wird der n\195\164chste Guide automatisch geladen. Beendete Guides k\195\182nnen mit Umschalt-Klick zur\195\188ckgesetzt werden.",
@@ -92,8 +90,6 @@ if loc == "deDE" then localized = {
 if loc == "frFR" then localized = {
 	PART_GSUB = "%s%(Partie %d+%)",
 	PART_FIND = "(.+)%s%(Partie %d+%)",
-	["(.*) is now your home."] = "(.*) est maintenant votre foyer.",
-	["Quest accepted: (.*)"] = "Qu\195\170te accept\195\169e: (.*)",
 	["^You .*Hitem:(%d+).*(%[.+%])"] = "^Vous .*Hitem:(%d+).*(%[.+%])",
 	["|cffff4500This quest is not listed in your current guide"] = "|cffff4500Cette qu\195\170te n'est pas list\195\169e dans votre guide actuel",
 	["This panel lets you choose a guide to load. Upon completion the next guide will load automatically. Completed guides can be reset by shift-clicking."] = "Ce panneau vous permet de choisir le guide que vous souhaitez suivre. Lorsqu'il sera termin\195\169, le prochain guide sera charg\195\169 automatiquement. Shift-Clic r\195\169initialisera un guide d\195\169j\195\160 termin\195\169.",
@@ -140,8 +136,6 @@ if loc == "frFR" then localized = {
 if loc == "ruRU" then localized = {
 	PART_GSUB = "%s%(\208\167\208\176\209\129\209\130\209\140 %d+%)",
 	PART_FIND = "(.+)%s%(\208\167\208\176\209\129\209\130\209\140 %d+%)",
-	["(.*) is now your home."] = "\208\146\208\176\209\136 \208\189\208\190\208\178\209\139\208\185 \208\180\208\190\208\188 - (.*).",
-	["Quest accepted: (.*)"] = "\208\159\208\190\208\187\209\131\209\135\208\181\208\189\208\190 \208\183\208\176\208\180\208\176\208\189\208\184\208\181: (.*)",
 	["^You .*Hitem:(%d+).*(%[.+%])"] = "^\208\146\208\176\209\136\208\176 .*H\208\180\208\190\208\177\209\139\209\135\208\176:(%d+).*(%[.+%])",
 	["|cffff4500This quest is not listed in your current guide"] = "|cffff4500\208\173\209\130\208\190\208\179\208\190 \208\183\208\176\208\180\208\176\208\189\208\184\209\143 \208\189\208\181\209\130 \208\178 \208\178\209\139\208\177\209\128\208\176\208\189\208\189\208\190\208\188 \209\128\209\131\208\186\208\190\208\178\208\190\208\180\209\129\209\130\208\178\208\181",
 } end

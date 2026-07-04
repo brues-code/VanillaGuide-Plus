@@ -13,7 +13,7 @@ TurtleGuide.TrackEvents = {
 	"ZONE_CHANGED", "ZONE_CHANGED_INDOORS", "MINIMAP_ZONE_CHANGED",
 	"ZONE_CHANGED_NEW_AREA", "PLAYER_LEVEL_UP", "ADDON_LOADED",
 	"CRAFT_SHOW", "PLAYER_DEAD", "SKILL_LINES_CHANGED", "SPELLS_CHANGED",
-	"QUEST_ACCEPTED", "QUEST_TURNED_IN"
+	"QUEST_ACCEPTED", "QUEST_TURNED_IN", "HEARTHSTONE_BOUND"
 }
 
 
@@ -57,15 +57,18 @@ TurtleGuide.MINIMAP_ZONE_CHANGED = TurtleGuide.ZONE_CHANGED
 TurtleGuide.ZONE_CHANGED_NEW_AREA = TurtleGuide.ZONE_CHANGED
 
 
+-- Fires on the bind-point update packet (ClassicAPI); no payload, re-read
+-- GetBindLocation() for the new home
+function TurtleGuide:HEARTHSTONE_BOUND()
+	local loc = GetBindLocation()
+	local action, quest = self:GetObjectiveInfo()
+	self:Debug(string.format("Detected setting hearth to %q", loc))
+	self.db.char.hearth = loc
+	if action == "SETHEARTH" and loc == quest then self:SetTurnedIn() end
+end
+
 function TurtleGuide:CHAT_MSG_SYSTEM(msg)
 	local action, quest = self:GetObjectiveInfo()
-
-	local _, _, loc = string.find(msg, L["(.*) is now your home."])
-	if loc then
-		self:Debug(string.format("Detected setting hearth to %q", loc))
-		self.db.char.hearth = loc
-		return action == "SETHEARTH" and loc == quest and self:SetTurnedIn()
-	end
 
 	if action == "PET" then
 		local _, _, text = string.find(msg, L["You have learned a new spell: (.*)."])
