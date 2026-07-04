@@ -3,7 +3,7 @@
 ## Title: VanillaGuide+
 ## Notes: Hybrid leveling guide with race-based routing and TomTom navigation
 ## Author: VanillaGuide+ Contributors
-## Version: 1.0
+## Version: @project-version@
 ## X-Category: Quest
 
 ## SavedVariables: TurtleGuideDB
