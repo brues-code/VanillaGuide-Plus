@@ -58,7 +58,7 @@ C In Search of The Temple |QID|1448| |N|Search for the Temple of Atal'Hakkar in 
 
 R Misty Reed Strand |QID|1258| |N|Travel to Misty Reed Strand (75.98, 4.96)| |Z|Swamp of Sorrows|
 C ... and Bugs |QID|1258| |N|Kill Silt Crawler and collect 12 Pristine Crawler Leg in Misty Reed Strand (75.98, 4.96)| |Z|Swamp of Sorrows|
-C Driftwood |QID|1398.1| |N|Collect 8 Sundried Driftwood in Misty Reed Strand. It spawns in each waypoint and you will need to through the murloc village to get some unless you're willing to wait for respawn (83.60, 14.10) (93.30, 36.36) (94.39, 41.45) (94.76, 44.83) (94.60, 49.66) (93.46, 66.23)| |Z|Swamp of Sorrows| |OBJ|627|
+C Driftwood |QID|1398| |OIDX|1| |N|Collect 8 Sundried Driftwood in Misty Reed Strand. It spawns in each waypoint and you will need to through the murloc village to get some unless you're willing to wait for respawn (83.60, 14.10) (93.30, 36.36) (94.39, 41.45) (94.76, 44.83) (94.60, 49.66) (93.46, 66.23)| |Z|Swamp of Sorrows| |OBJ|627|
 
 T Driftwood |QID|1398| |N|Watcher Biggs in Swamp of Sorrows (26.76, 59.75)| |Z|Swamp of Sorrows|
 A Deliver the Shipment |QID|1425| |N|Watcher Biggs in Swamp of Sorrows (26.76, 59.75)| |Z|Swamp of Sorrows|

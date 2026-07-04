@@ -27,7 +27,7 @@ A Vilebranch Hooligans |QID|7839| |N|Smith Slagtree in Revantusk Village (77.55,
 f Revantusk Village |QID|7844| |N|Speak to Gorkas and grab flight path for Revantusk Village (81.70, 81.77)| |Z|The Hinterlands| 
 
 R The Overlook Cliffs |QID|7828| |N|Travel to The Overlook Cliffs (75.92, 61.67)| |Z|The Hinterlands|
-K Silvermane Stalker |QID|7828.1| |N|Kill Silvermane Stalker in The Hinterlands, tick this step to complete this later (63.0, 49.0)| |Z|The Hinterlands|  
+C Silvermane Stalker |QID|7828| |OIDX|1| |N|Kill Silvermane Stalker in The Hinterlands, tick this step to complete this later (63.0, 49.0)| |Z|The Hinterlands|  
 C Cannibalistic Cousins |QID|7844| |N|Kill 15 Vilebranch Scalper and 10 Vilebranch Soothsayer in the troll camps (73.06, 51.88) (70.67, 48.34) (65.54, 44.57)| |Z|The Hinterlands|  
 
 R Skulk Rock |QID|7839| |N|Travel to Skulk Rock (57.44, 42.62)| |Z|The Hinterlands|
@@ -39,15 +39,15 @@ C Avenging the Fallen |QID|7830| |N|Kill Razorbeak Skylord collect Skylord Plume
 
 C Testing the Vessel |QID|3123| |N|Kill Primitive Owlbeast and use the Wildkin Muisek Vessel to collect 10 Wildkin Muisek in Valorwind Lake (43.90, 55.42)| |Z|The Hinterlands|  
 C Hunt the Savages |QID|7829| |N|Kill 20 Savage Owlbeast (65.36, 59.10) (53.95, 51.87) (51.38, 47.00) (61.42, 44.04) (64.52, 56.05)| |Z|The Hinterlands|  
-K Silvermane Howler |QID|7828.1| |N|Kill Silvermane Howler in The Hinterlands, tick this step to complete this later (40.0, 50.0)| |Z|The Hinterlands|  
+C Silvermane Howler |QID|7828| |OIDX|1| |N|Kill Silvermane Howler in The Hinterlands, tick this step to complete this later (40.0, 50.0)| |Z|The Hinterlands|  
 
 R Shindigger's Camp |QID|81| |N|Travel to Shindigger's Camp (20.71, 48.24) (26.72, 48.60)| |Z|The Hinterlands| 
 T A Sticky Situation |QID|77| |N|Gilveradin Sunchaser in Shindigger's Camp (26.72, 48.60)| |Z|The Hinterlands| 
 A Ripple Delivery |QID|81| |N|Gilveradin Sunchaser in Shindigger's Camp (26.72, 48.60)| |Z|The Hinterlands| 
 
-N Burn the Highvale Records |QID|2995.1| |N|Click on Highvale Records in Quel'Danil Lodge (31.98, 46.86)| |Z|The Hinterlands| |OBJ|210|
-N Burn the Highvale Notes |QID|2995.2| |N|Click on Highvale Notes in Quel'Danil Lodge (29.64, 48.73)| |Z|The Hinterlands| |OBJ|210|
-N Burn the Highvale Report |QID|2995.3| |N|Click on Highvale Report in Quel'Danil Lodge (28.57, 46.10)| |Z|The Hinterlands| |OBJ|210|
+C Burn the Highvale Records |QID|2995| |OIDX|1| |N|Click on Highvale Records in Quel'Danil Lodge (31.98, 46.86)| |Z|The Hinterlands| |OBJ|210|
+C Burn the Highvale Notes |QID|2995| |OIDX|2| |N|Click on Highvale Notes in Quel'Danil Lodge (29.64, 48.73)| |Z|The Hinterlands| |OBJ|210|
+C Burn the Highvale Report |QID|2995| |OIDX|3| |N|Click on Highvale Report in Quel'Danil Lodge (28.57, 46.10)| |Z|The Hinterlands| |OBJ|210|
 A Rin'ji is Trapped! |QID|2742| |N|Rin'ji in Quel'Danil Lodge, clear the area first before accepting the quest (30.75, 46.97)| |Z|The Hinterlands| 
 C Rin'ji is Trapped! |QID|2742| |N|Escort Rin'ji to safety (34.86, 56.78)| |Z|The Hinterlands| 
 C Message to the Wildhammer |QID|7841| |N|Kill the required Highvale elfs Quel'Danil Lodge (31.77, 49.40)| |Z|The Hinterlands|  
@@ -60,11 +60,11 @@ R Hiri'watha |QID|2933| |N|Travel to Zun'watha (23.52, 58.91)| |Z|The Hinterland
 A Venom Bottles |QID|2933| |N|Venom bottle in Zun'watha (23.52, 58.91)| |Z|The Hinterlands| |OBJ|228|
 N 20 Witherbark Skull |QID|2932| |N|Kill the trolls in Hiri'watha and Zun'watha until you collect 20 Witherbark Skull (32.11, 57.88) (23.38, 58.26)| |Z|The Hinterlands| |L|9320 20|  
 U Nimboya's Pike |QID|2932| |N|Use Nimboya's Pike to create Nimboya's Laden Pike| |L|9319| |U|15002|
-C Grim Message |QID|2932.1| |N|Use Nimboya's Laden Pike in Hiri'watha (31.82, 57.81)| |Z|The Hinterlands| |U|9319|
+C Grim Message |QID|2932| |OIDX|1| |N|Use Nimboya's Laden Pike in Hiri'watha (31.82, 57.81)| |Z|The Hinterlands| |U|9319|
 
 K Trained Razorbeak |QID|7842| |N|Kill Trained Razorbeak for 10 Long Elegant Feather, you will need this for a later quest (20.8, 53.5)| |L|4589 10|  
-K Silvermane Howler |QID|7828.1| |N|Kill Silvermane Howler in The Hinterlands (40.0, 50.0)| |Z|The Hinterlands|  
-K Silvermane Stalker |QID|7828.1| |N|Kill Silvermane Stalker in The Hinterlands (63.0, 49.0)| |Z|The Hinterlands|  
+C Silvermane Howler |QID|7828| |OIDX|1| |N|Kill Silvermane Howler in The Hinterlands (40.0, 50.0)| |Z|The Hinterlands|  
+C Silvermane Stalker |QID|7828| |OIDX|1| |N|Kill Silvermane Stalker in The Hinterlands (63.0, 49.0)| |Z|The Hinterlands|  
 
 R The Overlook Cliffs |QID|2782| |N|Travel to The Overlook Cliffs (86.29, 59.06)| |Z|The Hinterlands|
 T Rin'ji is Trapped! |QID|2742| |N|Rin'ji Secret in The Overlook Cliffs (86.29, 59.06)| |Z|The Hinterlands| |OBJ|5|

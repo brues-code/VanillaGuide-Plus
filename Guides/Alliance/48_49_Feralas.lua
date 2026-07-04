@@ -7,7 +7,7 @@ R Swamp of Sorrows |QID|4450| |N|Travel to Swamp of Sorrows (22, 48)| |Z|Swamp o
 T Cortello's Riddle (Part 1) |QID|624| |N|A Soggy Scroll - under the bridge (22.9, 48.2)| |Z|Swamp of Sorrows| |O|
 A Cortello's Riddle (Part 2) |QID|625| |N|A Soggy Scroll (22.9, 48.2)| |Z|Swamp of Sorrows| |PRE|624|
 
-K Jarquia |QID|4450.3| |N|Kill Jarquia and collect Goodsteel's Balanced Flameberge in Misty Reed Strand (94.81, 52.06)| |Z|Swamp of Sorrows| |L|11723|
+K Jarquia |QID|4450| |OIDX|3| |N|Kill Jarquia and collect Goodsteel's Balanced Flameberge in Misty Reed Strand (94.81, 52.06)| |Z|Swamp of Sorrows| |L|11723|
 
 H Ironforge |QID|3763| |N|Hearth to Ironforge (18.41, 51.49)| |Z|Ironforge|
 A Assisting Arch Druid Staghelm |QID|3763| |N|Innkeeper Firebrew in Ironforge (18.41, 51.49)| |Z|Ironforge|
@@ -47,16 +47,16 @@ R Rage Scar Hold |QID|7733| |N|Travel to Rage Scar Hold (48.29, 44.62) (48.43, 3
 C Improved Quality |QID|7733| |N|Kill Rage Scar Yeti and collect 10 Rage Scar Yeti Hide in Rage Scar Hold (52.41, 31.76)| |Z|Feralas|
 K Rage Scar Yeti |QID|7735| |N|Kill Rage Scar Yeti until you collect Pristine Yeti Hide to start a new quest (52.41, 31.76)| |Z|Feralas| |L|18969|
 A Pristine Yeti Hide |QID|7735| |N|Use Pristine Yeti Hide to accept quest| |Z|Feralas| |U|18969|
-K Rhapsody's Kalimdor Kocktail |QID|1452.3| |N|Kill Groddoc Thunderer and Ironfur Patriarch for 3 Groddoc Liver and 3 Ironfur Liver in The Twin Colossals (50.54, 28.24)| |Z|Feralas| |L|6258 3| |O|
-K Rhapsody's Kalimdor Kocktail |QID|1452.2| |N|Kill Groddoc Thunderer and Ironfur Patriarch for 3 Groddoc Liver and 3 Ironfur Liver in The Twin Colossals (50.54, 28.24)| |Z|Feralas|  |L|6259 3| |O|
+K Rhapsody's Kalimdor Kocktail |QID|1452| |OIDX|3| |N|Kill Groddoc Thunderer and Ironfur Patriarch for 3 Groddoc Liver and 3 Ironfur Liver in The Twin Colossals (50.54, 28.24)| |Z|Feralas| |L|6258 3| |O|
+K Rhapsody's Kalimdor Kocktail |QID|1452| |OIDX|2| |N|Kill Groddoc Thunderer and Ironfur Patriarch for 3 Groddoc Liver and 3 Ironfur Liver in The Twin Colossals (50.54, 28.24)| |Z|Feralas|  |L|6259 3| |O|
 A The Giant Guardian |QID|2844| |N|Rockbiter in The Twin Colossals (42.38, 22.04)| |Z|Feralas|
 C Zapped Giants |QID|7003| |N|Use Zorbin's Ultra-Shrinker on Land Walker or Cliff Giant to turn them into non elites, kill them and collect 15 Miniaturization Residue in The Twin Colossals (38.42, 21.51)| |Z|Feralas| |L|18956 15|
 
 R Ruins of Ravenwind |QID|2879| |N|Travel to Ruins of Ravenwind (38.53, 15.75)| |Z|Feralas|
-N Byltan Essence |QID|2879.1| |N|Collect Byltan Essence from the flame in Ruins of Ravenwind (38.53, 15.75)| |Z|Feralas| |PRE|2944| |L|9258|
-N Lahassa Essence |QID|2879.2| |N|Collect Lahassa Essence from the flame in Ruins of Ravenwind (37.73, 12.24)| |Z|Feralas| |PRE|2944| |L|9255|
-N Imbel Essence |QID|2879.3| |N|Collect Imbel Essence from the flame in Ruins of Ravenwind (39.90, 9.41)| |Z|Feralas| |PRE|2944| |L|9256|
-N Samha Essence |QID|2879.4| |N|Collect Samha Essence from the flame in Ruins of Ravenwind, you will need to jump up on top of the pillar and climb up (40.58, 11.40) (40.81, 11.92) (40.54, 12.62)| |Z|Feralas| |L|9257| |OBJ|475|
+C Byltan Essence |QID|2879| |OIDX|1| |N|Collect Byltan Essence from the flame in Ruins of Ravenwind (38.53, 15.75)| |Z|Feralas| |PRE|2944| |L|9258|
+C Lahassa Essence |QID|2879| |OIDX|2| |N|Collect Lahassa Essence from the flame in Ruins of Ravenwind (37.73, 12.24)| |Z|Feralas| |PRE|2944| |L|9255|
+C Imbel Essence |QID|2879| |OIDX|3| |N|Collect Imbel Essence from the flame in Ruins of Ravenwind (39.90, 9.41)| |Z|Feralas| |PRE|2944| |L|9256|
+C Samha Essence |QID|2879| |OIDX|4| |N|Collect Samha Essence from the flame in Ruins of Ravenwind, you will need to jump up on top of the pillar and climb up (40.58, 11.40) (40.81, 11.92) (40.54, 12.62)| |Z|Feralas| |L|9257| |OBJ|475|
 C The Stave of Equinex |QID|2879| |N|Use Troyas' Stave to create Stave of Equinex in Ruins of Ravenwind (38.88, 13.22)| |Z|Feralas| |PRE|2944| |U|9263|
 T The Stave of Equinex |QID|2879| |N|Equinex Monolith in Ruins of Ravenwind (38.88, 13.22)| |Z|Feralas| |PRE|2944|
 A The Morrow Stone |QID|2942| |N|Equinex Monolith in Ruins of Ravenwind (38.88, 13.22)| |Z|Feralas| |PRE|2944|

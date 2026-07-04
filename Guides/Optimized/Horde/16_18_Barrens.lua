@@ -67,9 +67,9 @@ A Letter to Jin'Zil |QID|1060| |N|Darsok Swiftdagger in The Crossroads (51.64, 3
 R The Sludge Fen |QID|858| |N|Travel to The Sludge Fen (52.5, 11.7)|
 T Samophlange (Part 1) |QID|894| |N|Control Console in The Sludge Fen (52.5, 11.7)|
 A Samophlange (Part 2) |QID|900| |N|Control Console in The Sludge Fen (52.5, 11.7)|
-C Shut off Fuel Control Valve |QID|900.2| |N|Click Regulator Valve in The Sludge Fen (52.39, 11.37)|
-C Shut off Regulator Valve |QID|900.3| |N|Click Regulator Valve in The Sludge Fen (52.29, 11.39)|
-C Shut off Main Control Valve |QID|900.1| |N|Click Main Control Valve in The Sludge Fen (52.31, 11.61)|
+C Shut off Fuel Control Valve |QID|900| |OIDX|2| |N|Click Regulator Valve in The Sludge Fen (52.39, 11.37)|
+C Shut off Regulator Valve |QID|900| |OIDX|3| |N|Click Regulator Valve in The Sludge Fen (52.29, 11.39)|
+C Shut off Main Control Valve |QID|900| |OIDX|1| |N|Click Main Control Valve in The Sludge Fen (52.31, 11.61)|
 T Samophlange (Part 2) |QID|900| |N|Control Console in The Sludge Fen (52.5, 11.7)|
 A Samophlange (Part 3) |QID|901| |N|Control Console in The Sludge Fen (52.5, 11.7)|
 C Samophlange (Part 3) |QID|901| |N|Kill Tinkerer Sniggles in the hut on the hill (52.9, 10.6)|

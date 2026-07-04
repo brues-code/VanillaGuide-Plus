@@ -46,10 +46,10 @@ T Jungle Secrets |QID|215| |N|Lieutenant Doren in Rebel Camp (38.04, 3.01)| |Z|S
 A Bookie Herod |QID|200| |N|Lieutenant Doren in Rebel Camp (38.04, 3.01)| |Z|Stranglethorn Vale| |PRE|215|
 
 R Kurzen's Compound |QID|204| |N|Travel to Kurzen's Compound (39.43, 7.36) (44.11, 9.58)| |Z|Stranglethorn Vale|
-N Venom Fern Extract |QID|204.2| |N|Collect Venom Fern Extract from Kurzen supplies on the ground in Kurzen's Compound (44.52, 9.83)| |Z|Stranglethorn Vale|
+C Venom Fern Extract |QID|204| |OIDX|2| |N|Collect Venom Fern Extract from Kurzen supplies on the ground in Kurzen's Compound (44.52, 9.83)| |Z|Stranglethorn Vale|
 T Bookie Herod |QID|200| |N|Bookie Herod's Record in Kurzen's Compound (43.67, 9.38)| |Z|Stranglethorn Vale| |PRE|215|
 A The Hidden Key |QID|328| |N|Bookie Herod's Record in Kurzen's Compound (43.67, 9.39)| |Z|Stranglethorn Vale| |PRE|215|
-C Bad Medicine |QID|204.1| |N|Kill Kurzen Medicine Man collect 7 Jungle Remedy in Kurzen's Compound (44.78, 10.93)| |Z|Stranglethorn Vale|
+C Bad Medicine |QID|204| |OIDX|1| |N|Kill Kurzen Medicine Man collect 7 Jungle Remedy in Kurzen's Compound (44.78, 10.93)| |Z|Stranglethorn Vale|
 C The Second Rebellion |QID|203| |N|Kill 15 Kurzen Jungle Fighter in Kurzen's Compound (44.75, 10.66)| |Z|Stranglethorn Vale|
 
 R Rebel Camp |QID|574| |N|Travel to Rebel Camp (39.85, 7.90) (38.02, 3.36)| |Z|Stranglethorn Vale|

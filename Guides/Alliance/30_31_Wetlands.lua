@@ -39,7 +39,7 @@ T The Third Fleet |QID|288| |N|First Mate Fitzsimmons in Menethil Harbor (10.88,
 A The Cursed Crew |QID|289| |N|First Mate Fitzsimmons in Menethil Harbor (10.91, 59.53)| |Z|Wetlands|
 
 R The Lost Fleet |QID|289| |N|Travel to The Lost Fleet (13.91, 31.03)| |Z|Wetlands|
-K First Mate Snellig |QID|289.3| |N|Collect Snellig's Snuffbox in The Lost Fleet (13.91, 31.03)| |Z|Wetlands|
+C First Mate Snellig |QID|289| |OIDX|3| |N|Collect Snellig's Snuffbox in The Lost Fleet (13.91, 31.03)| |Z|Wetlands|
 C The Cursed Crew |QID|289| |N|Kill 13 Cursed Sailor and 5 Cursed Marine which are found around the shipwreck (13, 27) (14, 30)|
 T The Cursed Crew |QID|289| |N|First Mate Fitzsimmons in Menethil Harbor (10.91, 59.53)| |Z|Wetlands|
 A Lifting the Curse |QID|290| |N|First Mate Fitzsimmons in Menethil Harbor (10.91, 59.53)| |Z|Wetlands|

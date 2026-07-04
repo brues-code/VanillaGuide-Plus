@@ -14,9 +14,9 @@ C Verog the Dervish |QID|851| |N|Kill the other Centaurs around the command tent
 
 R Raptor Grounds |QID|3281| |N|Travel to Raptor Grounds (58.02, 53.90)|
 C Stolen Silver |QID|3281| |N|Collect the Stolen Silver from the Stolen Silver Chest in Raptor Grounds (58.02, 53.90)| |OBJ|10|
-N Visit Blue Raptor Nest |QID|905.1| |N|Kill Sunscale Scytheclaw for Sunscale Feather then click on the Blue Raptor Nest (52.62, 46.14)| |U|5165|
-N Visit Red Raptor Nest |QID|905.3| |N|Kill Sunscale Scytheclaw for Sunscale Feather then click on the Red Raptor Nest (52.47, 46.60)| |U|5165|
-N Visit Yellow Raptor Nest |QID|905.2| |N|Kill Sunscale Scytheclaw for Sunscale Feather then click on the Yellow Raptor Nest (52.03, 46.53)| |U|5165|
+N Visit Blue Raptor Nest |QID|905| |OIDX|1| |N|Kill Sunscale Scytheclaw for Sunscale Feather then click on the Blue Raptor Nest (52.62, 46.14)| |U|5165|
+N Visit Red Raptor Nest |QID|905| |OIDX|3| |N|Kill Sunscale Scytheclaw for Sunscale Feather then click on the Red Raptor Nest (52.47, 46.60)| |U|5165|
+N Visit Yellow Raptor Nest |QID|905| |OIDX|2| |N|Kill Sunscale Scytheclaw for Sunscale Feather then click on the Yellow Raptor Nest (52.03, 46.53)| |U|5165|
 C Raptor Horns |QID|865| |N|Kill Sunscale Scytheclaw and collect 5 Intact Raptor Horn at the Raptor Grounds (52.03, 46.53)|
 
 C Lost in Battle |QID|4921| |N|Find Beaten Corpse in Southern Barrens (49.34, 50.37)|
@@ -76,10 +76,10 @@ R The Crossroads |QID|880| |N|Travel to The Crossroads (52.23, 31.93)|
 T Altered Beings |QID|880| |N|Tonga Runetotem in The Crossroads (52.23, 31.93)|
 
 R Northwatch Hold |TID|891| |N|Travel to Northwatch Hold (65.67, 46.45)|
-K Captain Fairmount |QID|891.1| |N|Kill Captain Fairmount in Northwatch Hold (61.31, 53.94)|
-K Cannoneer Smythe |QID|891.3| |N|Kill Cannoneer Smythe in Northwatch Hold (63.03, 56.68)|
-K Cannoneer Whessan |QID|891.2| |N|Kill Cannoneer Whessan in Northwatch Hold (60.49, 54.79)|
-C The Guns of Northwatch |QID|891.4| |N|Kill Theramore Marine or Theramore Preserver and collect 10 Theramore Medal in Northwatch Hold (61.44, 53.70)|
+K Captain Fairmount |QID|891| |OIDX|1| |N|Kill Captain Fairmount in Northwatch Hold (61.31, 53.94)|
+K Cannoneer Smythe |QID|891| |OIDX|3| |N|Kill Cannoneer Smythe in Northwatch Hold (63.03, 56.68)|
+K Cannoneer Whessan |QID|891| |OIDX|2| |N|Kill Cannoneer Whessan in Northwatch Hold (60.49, 54.79)|
+C The Guns of Northwatch |QID|891| |OIDX|4| |N|Kill Theramore Marine or Theramore Preserver and collect 10 Theramore Medal in Northwatch Hold (61.44, 53.70)|
 
 A Free From the Hold |QID|898| |N|Gilthares Firebough in Northwatch Hold (61.94, 54.92)| |O|
 C Free From the Hold |QID|898| |N|Safely escort Gilthares Firebough back to Captain Brightsun in Ratchet. Can be difficult to solo (62.32, 39.20)| |O|

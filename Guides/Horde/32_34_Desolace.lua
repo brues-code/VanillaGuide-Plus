@@ -94,8 +94,8 @@ R Ethel Rethor |QID|6027| |N|Travel to Ethel Rethor (38.89, 27.19)|
 T Sceptre of Light |QID|5741| |N|Azore Aldamort in Ethel Rethor (38.89, 27.19)|
 A Book of the Ancients |QID|6027| |N|Azore Aldamort in Ethel Rethor (38.89, 27.19)|
 N As you go... |AYG|6161| |QID|6142| |N|Collect 10 Soft-shelled Clam Meat from Giant Softshell Clam|
-N Rackmore's Silver Key |QID|6161.2| |N|Kill Drysnap enemies until you find Rackmore's Silver Key in Ethel Rethor (33.7, 29.0)|
-N Rackmore's Golden Key |QID|6161.1| |N|Kill Slitherblade enemies until you find Rackmore's Golden Key in Sar'theris Strand (34.21, 32.63)|
+C Rackmore's Silver Key |QID|6161| |OIDX|2| |N|Kill Drysnap enemies until you find Rackmore's Silver Key in Ethel Rethor (33.7, 29.0)|
+C Rackmore's Golden Key |QID|6161| |OIDX|1| |N|Kill Slitherblade enemies until you find Rackmore's Golden Key in Sar'theris Strand (34.21, 32.63)|
 R Sar'theris Strand |QID|6161| |N|Travel to Sar'theris Strand (32.01, 30.60)|
 C Clam Bait |QID|6142| |N|Collect 10 Soft-shelled Clam Meat from Giant Softshell Clam in Sar'theris Strand (32.01, 30.60)|  |OBJ|261|
 

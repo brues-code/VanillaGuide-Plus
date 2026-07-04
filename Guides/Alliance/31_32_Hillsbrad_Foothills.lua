@@ -49,7 +49,7 @@ C Stormwind Ho! |QID|562| |N|Kill 10 Daggerspine Shorehunter and 10 Daggerspine 
 T Stormwind Ho! |QID|562| |N|Lieutenant Farren Orinelle in Southshore (51.43, 58.35)| |Z|Hillsbrad Foothills|
 A Reassignment |QID|563| |N|Lieutenant Farren Orinelle in Southshore (51.43, 58.35)| |Z|Hillsbrad Foothills|
 
-C Soothing Turtle Bisque |QID|555.1| |N|Kill Snapjaw along the river and collect 10 Turtle Meat move follow the river north (55.79, 54.39) (64.0, 40.0) (68.6, 28.2)|
+C Soothing Turtle Bisque |QID|555| |OIDX|1| |N|Kill Snapjaw along the river and collect 10 Turtle Meat move follow the river north (55.79, 54.39) (64.0, 40.0) (68.6, 28.2)|
 
 R Sofera's Naze |QID|511| |N|Travel to Sofera's Naze (58.3, 67.8)| |Z|Alterac Mountains|
 A Encrypted Letter |QID|511| |N|Syndicate Documents in Sofera's Naze (58.3, 67.8)| |Z|Alterac Mountains|
@@ -60,7 +60,7 @@ C Costly Menace |QID|564| |N|Kill 8 Mountain Lion and 10 Hulking Mountain Lion i
 
 R Southshore |QID|514| |N|Travel or Hearthstone back to Southshore (49.0, 55.1)|
 B Fine Thread |QID|514| |N|Buy Fine Thread from Micha Yance in Southshore (49.0, 55.1)| |L|2321|
-B Soothing Spices |QID|555.2| |N|Buy Soothing Spices from Micha Yance in Southshore (49.0, 55.1)| |L|3713|
+B Soothing Spices |QID|555| |OIDX|2| |N|Buy Soothing Spices from Micha Yance in Southshore (49.0, 55.1)| |L|3713|
 T Encrypted Letter |QID|511| |N|Loremaster Dibbs in Southshore (50.6, 57.1)|
 A Letter to Stormpike |QID|514| |N|Loremaster Dibbs in Southshore (50, 57)| |PRE|511|
 T Syndicate Assassins |QID|505| |N|Magistrate Henry Maleb in Southshore (48.14, 59.13)| |Z|Hillsbrad Foothills|

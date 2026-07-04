@@ -43,10 +43,10 @@ K Rhapsody's Kalimdor Kocktail |QID|1452| |N|Kill Ironfur Patriarch for 3 Ironfu
 A The Giant Guardian |QID|2844| |N|Rockbiter (42.38, 22.04)| |Z|Feralas|
 
 R Ruins of Ravenwind |QID|2879| |N|Travel to Ruins of Ravenwind (38.53, 15.75)| |Z|Feralas|
-N Byltan Essence |QID|2879.1| |N|Collect from flame (38.53, 15.75)| |Z|Feralas| |PRE|2944|
-N Samha Essence |QID|2879.4| |N|Collect from flame atop ruined arch - jump up from back (40.58, 11.40)| |Z|Feralas| |PRE|2944|
-N Imbel Essence |QID|2879.3| |N|Collect from flame (39.90, 9.41)| |Z|Feralas| |PRE|2944|
-N Lahassa Essence |QID|2879.2| |N|Collect from flame under brown gazebo (37.73, 12.24)| |Z|Feralas| |PRE|2944|
+C Byltan Essence |QID|2879| |OIDX|1| |N|Collect from flame (38.53, 15.75)| |Z|Feralas| |PRE|2944|
+C Samha Essence |QID|2879| |OIDX|4| |N|Collect from flame atop ruined arch - jump up from back (40.58, 11.40)| |Z|Feralas| |PRE|2944|
+C Imbel Essence |QID|2879| |OIDX|3| |N|Collect from flame (39.90, 9.41)| |Z|Feralas| |PRE|2944|
+C Lahassa Essence |QID|2879| |OIDX|2| |N|Collect from flame under brown gazebo (37.73, 12.24)| |Z|Feralas| |PRE|2944|
 C The Stave of Equinex |QID|2879| |N|Use Troyas' Stave near Equinex Monolith (38.88, 13.22)| |Z|Feralas| |PRE|2944| |U|9263|
 T The Stave of Equinex |QID|2879| |N|Equinex Monolith (38.88, 13.22)| |Z|Feralas| |PRE|2944|
 A The Morrow Stone |QID|2942| |N|Equinex Monolith (38.88, 13.22)| |Z|Feralas| |PRE|2944|

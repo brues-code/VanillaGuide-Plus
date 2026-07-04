@@ -90,9 +90,9 @@ T Doom Weed |QID|5482| |N|Junior Apothecary Holland in Brill (58.30, 49.77)|
 
 R Agamand Mills |QID|362| |N|Travel to Agamand Mills (46.92, 41.02)|
 C The Haunted Mills |QID|362| |N|Kill Devlin Agamand and collect Devlin's Remains in Agamand Mills (46.92, 41.02)|
-K Nissa Agamand |QID|354.2| |N|Kill Nissa Agamand and collect Nissa's Remains in Agamand Mills (49.56, 35.58)|
-K Gregor Agamand |QID|354.1| |N|Kill Gregor Agamand and collect Gregor's Remains in Agamand Mills (45.10, 30.20)|
-K Thurman Agamand |QID|354.3| |N|Kill Thurman Agamand and collect Thurman's Remains in Agamand Mills (44.07, 31.85)|
+C Nissa Agamand |QID|354| |OIDX|2| |N|Kill Nissa Agamand and collect Nissa's Remains in Agamand Mills (49.56, 35.58)|
+C Gregor Agamand |QID|354| |OIDX|1| |N|Kill Gregor Agamand and collect Gregor's Remains in Agamand Mills (45.10, 30.20)|
+C Thurman Agamand |QID|354| |OIDX|3| |N|Kill Thurman Agamand and collect Thurman's Remains in Agamand Mills (44.07, 31.85)|
 C The Mills Overrun |QID|426| |N|Kill the Scourge at Agamand Mills and gather 5 Notched Rib and 3 Blackened Skull from Darkeye Bonecaster around (50.00, 36.98) (48.02, 34.54)|
 
 R Solliden Farmstead |QID|365| |N|Travel to Solliden Farmstead (34.52, 49.23)|
@@ -125,12 +125,12 @@ T The Chill of Death |QID|375| |N|Gretchen Dedmar in Gallows' End Tavern (61.89,
 T Fields of Grief (Part 2) |QID|407| |N|Take the Laced Pumpkin to the Captured Scarlet Zealot in the cellar of the inn  (61.9, 51.3) |
 
 N As you go... |AYG|370| |QID|374| |N|Collect 10 Scarlet Insignia Ring dropped by the Scarlet Crusade enemies, you don't need to complete this until later|
-K Captain Perrine |QID|370.1| |N|Kill Captain Perrine inside the keep in Tirisfal Glades (51.6, 67.6)|
+C Captain Perrine |QID|370| |OIDX|1| |N|Kill Captain Perrine inside the keep in Tirisfal Glades (51.6, 67.6)|
 C At War With The Scarlet Crusade (Part 2) |QID|370| |N|Kill 3 Scarlet Zealot and 3 Scarlet Missionary near the keep in Tirisfal Glades (51, 67)|
 T At War With The Scarlet Crusade (Part 2) |QID|370| |N|Executor Zygand in Brill (60.60, 51.88)|
 A At War With The Scarlet Crusade (Part 3) |QID|371| |N|Executor Zygand in Brill (60.60, 51.88)|
 
-C Graverobbers |QID|358.1| |N|Kill 8 Rot Hide Graverobber and 5 Rot Hide Mongrel and loot them for 8 Embalming Ichor in the area (59, 35)|
+C Graverobbers |QID|358| |OIDX|1| |N|Kill 8 Rot Hide Graverobber and 5 Rot Hide Mongrel and loot them for 8 Embalming Ichor in the area (59, 35)|
 
 R Garren's Haunt |QID|398| |N|Travel to Garren's Haunt (58.20, 30.53)|
 C Wanted: Maggot Eye |QID|398| |N|Kill Maggot Eye and collect Maggot Eye's Paw in the house at the north end of Garren's Haunt (58.7, 31.7)|
@@ -149,8 +149,8 @@ C Rear Guard Patrol |QID|356| |N|Kill 8 Bleeding Horror and 8 Wandering Spirit a
 
 R Crusader Outpost |QID|371| |N|Travel to Crusader Outpost (79.32, 55.90)|
 N As you go... |AYG|371| |QID|374| |N|Collect 10 Scarlet Insignia Ring dropped by the Scarlet Crusade enemies|
-K Captain Vachon |QID|371.1| |N|Kill Captain Vachon in Crusader Outpost (79.32, 55.90)|
-K Scarlet Friar |QID|371.2| |N|Kill 5 Scarlet Friar in Crusader Outpost (79.96, 55.97)|
+C Captain Vachon |QID|371| |OIDX|1| |N|Kill Captain Vachon in Crusader Outpost (79.32, 55.90)|
+C Scarlet Friar |QID|371| |OIDX|2| |N|Kill 5 Scarlet Friar in Crusader Outpost (79.96, 55.97)|
 
 R Venomweb Vale |QID|369| |N|Travel to Venomweb Vale (85.08, 52.55)|
 C A New Plague (Part 3) |QID|369| |N|Kill Vicious Night Web Spider and collect 4 Vicious Night Web Spider Venom in Venomweb Vale (86, 51.5)|
@@ -174,8 +174,8 @@ T Return to the Magistrate |QID|360| |N|Magistrate Sevren in Brill Town Hall (61
 T Rear Guard Patrol |QID|356| |N|Deathguard Linnea in Tirisfal Glades (65.53, 60.19)|
 
 R Scarlet Watch Post |QID|1821| |N|Travel to Scarlet Watch Post (76.90, 49.42) (81.26, 39.48) (78.22, 35.32)|
-K Captain Melrache |QID|372.1| |N|Kill Captain Melrache in Scarlet Watch Post (79.48, 25.95)|
-K Scarlet Bodyguard |QID|372.2| |N|Kill 2 Scarlet Bodyguard in Scarlet Watch Post (79.48, 25.95)|
+C Captain Melrache |QID|372| |OIDX|1| |N|Kill Captain Melrache in Scarlet Watch Post (79.48, 25.95)|
+C Scarlet Bodyguard |QID|372| |OIDX|2| |N|Kill 2 Scarlet Bodyguard in Scarlet Watch Post (79.48, 25.95)|
 C Proof of Demise |QID|374| |N|Collect 10 Scarlet Insignia Ring dropped by the Scarlet Crusade enemies in Scarlet Watch Post (51, 67)|
 
 R Brill |TID|372| |N|Travel to Brill (60.60, 51.88)|
@@ -235,11 +235,11 @@ T A Letter Undelivered |QID|361| |N|Yvette Farthing in Brill (61.6, 52.6)| |O|
 N Level 12 Recommended |QID|408| |N|You should be close to level 12, highly recommend you reach level 12 first and train new skill before attempting the next quest in Agamand Family Crypt as it is hard solo|
 
 R Agamand Family Crypt |QID|1821| |N|Travel to Agamand Family Crypt (47.64, 48.77) (50.33, 33.21) (52.25, 26.88)|
-N Agamand Family Mace |QID|1821.3| |N|Collect Agamand Family Mace from the weapon rack in Agamand Family Crypt (51.90, 27.09)| |C|Warrior|
-N Agamand Family Dagger |QID|1821.2| |N|Collect Agamand Family Dagger from the weapon rack in Agamand Family Crypt (51.90, 27.09)| |C|Warrior|
-N Agamand Family Axe |QID|1821.1| |N|Collect Agamand Family Axe from the weapon rack in Agamand Family Crypt (52.64, 25.91)| |C|Warrior|
-N Agamand Family Sword |QID|1821.4| |N|Collect Agamand Family Sword from the weapon rack in Agamand Family Crypt (52.64, 25.91)| |C|Warrior|
-K Captain Dargol |QID|408.3| |N|Kill Captain Dargol and collect Dargol's Skull in Agamand Family Crypt (52.34, 26.31)|
+C Agamand Family Mace |QID|1821| |OIDX|3| |N|Collect Agamand Family Mace from the weapon rack in Agamand Family Crypt (51.90, 27.09)| |C|Warrior|
+C Agamand Family Dagger |QID|1821| |OIDX|2| |N|Collect Agamand Family Dagger from the weapon rack in Agamand Family Crypt (51.90, 27.09)| |C|Warrior|
+C Agamand Family Axe |QID|1821| |OIDX|1| |N|Collect Agamand Family Axe from the weapon rack in Agamand Family Crypt (52.64, 25.91)| |C|Warrior|
+C Agamand Family Sword |QID|1821| |OIDX|4| |N|Collect Agamand Family Sword from the weapon rack in Agamand Family Crypt (52.64, 25.91)| |C|Warrior|
+C Captain Dargol |QID|408| |OIDX|3| |N|Kill Captain Dargol and collect Dargol's Skull in Agamand Family Crypt (52.34, 26.31)|
 C The Family Crypt |QID|408| |N|Kill 8 Wailing Ancestor and 8 Rotting Ancestor Agamand Mills (52.57, 27.07)|
 
 R Brill Town Hall |TID|408| |N|Travel to Brill Town Hall (61.27, 50.77)|

@@ -58,9 +58,9 @@ A Williden's Journal |QID|3884| |N|Accept from inventory if you have it (43.96, 
 N Please Read |QID|4501| |N|Collect 7 of each color Power Crystal. Kill Ooze mobs for 35 Un'Goro Slime Sample. Keep all Un'Goro Soil (need 45 total). Don't collect Bloodpetal Sprout (no XP). Tick this step|
 
 C Super Sticky |QID|4504| |N|Kill Tar Beast or Tar Lord for 12 Super Sticky Tar in Lakkari Tar Pits (45.03, 15.95) (48.93, 20.46)| |Z|Un'Goro Crater|
-K Bloodpetal Trapper |QID|4145.2| |N|Kill 5 Bloodpetal Trapper near Lakkari Tar Pits (39.75, 22.37)| |Z|Un'Goro Crater|
-K Pterrordax |QID|4501.1| |N|Start killing 10 Pterrordax and collect 10 Webbed Pterrordax Scale (56.91, 9.94)| |Z|Un'Goro Crater|
-K Bloodpetal Flayer |QID|4145.3| |N|Kill 5 Bloodpetal Flayer near Lakkari Tar Pits (57.21, 17.37)| |Z|Un'Goro Crater|
+C Bloodpetal Trapper |QID|4145| |OIDX|2| |N|Kill 5 Bloodpetal Trapper near Lakkari Tar Pits (39.75, 22.37)| |Z|Un'Goro Crater|
+C Pterrordax |QID|4501| |OIDX|1| |N|Start killing 10 Pterrordax and collect 10 Webbed Pterrordax Scale (56.91, 9.94)| |Z|Un'Goro Crater|
+C Bloodpetal Flayer |QID|4145| |OIDX|3| |N|Kill 5 Bloodpetal Flayer near Lakkari Tar Pits (57.21, 17.37)| |Z|Un'Goro Crater|
 
 R Fungal Rock |QID|4289| |N|Travel to Fungal Rock (63.86, 16.44)| |Z|Un'Goro Crater|
 T Chasing A-Me 01 |QID|4243| |N|A-Me 01 in Fungal Rock (67.65, 16.77)| |Z|Un'Goro Crater|
@@ -71,14 +71,14 @@ C Chasing A-Me 01 |QID|4245| |N|Escort A-Me 01 back to Marshal's Refuge (67.62, 
 T Chasing A-Me 01 |QID|4245| |N|Karna Remtravel in Marshal's Refuge (46.38, 13.45)| |Z|Un'Goro Crater| |PRE|4244|
 
 C The Apes of Un'Goro |QID|4289| |N|Kill Un'Goro Gorilla, Un'Goro Thunderer and Un'Goro Stomper in Fungal Rock for quest items (63.86, 16.44)| |Z|Un'Goro Crater|
-K Pterrordax |QID|4501.1| |N|Finish killing 10 Pterrordax (56.91, 9.94)| |Z|Un'Goro Crater|
+C Pterrordax |QID|4501| |OIDX|1| |N|Finish killing 10 Pterrordax (56.91, 9.94)| |Z|Un'Goro Crater|
 
 R The Marshlands |QID|4145| |N|Travel to The Marshlands (59.47, 44.44)| |Z|Un'Goro Crater|
-N Crate of Foodstuffs |QID|3881.1| |N|Collect Crate of Foodstuffs from crate in The Marshlands (68.5, 36.5)| |Z|Un'Goro Crater| |OBJ|1868|
+C Crate of Foodstuffs |QID|3881| |OIDX|1| |N|Collect Crate of Foodstuffs from crate in The Marshlands (68.5, 36.5)| |Z|Un'Goro Crater| |OBJ|1868|
 C Larion and Muigin |QID|4145| |N|Kill 5 Bloodpetal Lasher and 5 Bloodpetal Thresher (67.90, 30.86)| |Z|Un'Goro Crater|
 K Muculent Ooze |QID|4294| |N|Kill Muculent Ooze for Un'Goro Slime Sample - need 35 total (67.90, 30.86)| |Z|Un'Goro Crater|
 
-K Diemetradon |QID|4503.1| |N|Kill Diemetradon or Young Diemetradon for 8 Webbed Diemetradon Scale (58.23, 56.34) (58.08, 70.59)| |Z|Un'Goro Crater|
+C Diemetradon |QID|4503| |OIDX|1| |N|Kill Diemetradon or Young Diemetradon for 8 Webbed Diemetradon Scale (58.23, 56.34) (58.08, 70.59)| |Z|Un'Goro Crater|
 C Roll the Bones |QID|3882| |N|Collect 8 Dinosaur Bone from Diemetradons (58.18, 71.82)| |Z|Un'Goro Crater|
 K Primal Ooze |QID|4294| |N|Kill Primal Ooze for more Un'Goro Slime Sample (58.18, 71.82)| |Z|Un'Goro Crater|
 
@@ -99,14 +99,14 @@ A The Bait for Lar'korwi |QID|4292| |N|Torwa Pathfinder in Un'Goro (71.62, 75.97
 
 R The Slithering Scar |QID|3883| |N|Travel to The Slithering Scar (50.09, 80.92)| |Z|Un'Goro Crater|
 C Alien Ecology |QID|3883| |N|Use Unused Scraping Vial inside the hive for Hive Wall Sample (50.09, 80.92)| |Z|Un'Goro Crater| |U|11132|
-N Gorishi Scent Gland |QID|4496.1| |N|Kill Gorishi insects for Gorishi Scent Gland (50.09, 80.92)| |Z|Un'Goro Crater| |O|
+C Gorishi Scent Gland |QID|4496| |OIDX|1| |N|Kill Gorishi insects for Gorishi Scent Gland (50.09, 80.92)| |Z|Un'Goro Crater| |O|
 
 R Terror Run |QID|3881| |N|Travel to Terror Run (38.42, 66.11)| |Z|Un'Goro Crater|
-N Research Equipment |QID|3881.2| |N|Collect Research Equipment from the ground in Terror Run (38.42, 66.11)| |Z|Un'Goro Crater| |OBJ|36|
+C Research Equipment |QID|3881| |OIDX|2| |N|Collect Research Equipment from the ground in Terror Run (38.42, 66.11)| |Z|Un'Goro Crater| |OBJ|36|
 A Finding the Source |QID|974| |N|Krakle in Golakka Hot Springs (30.94, 50.45)| |Z|Un'Goro Crater|
 
-K Frenzied Pterrordax |QID|4501.2| |N|Kill 15 Frenzied Pterrordax in western Un'Goro (32.40, 43.90)| |Z|Un'Goro Crater|
-N Webbed Pterrordax Scale |QID|4503.2| |N|Collect 8 Webbed Pterrordax Scale from Pterrordax (32.40, 43.90)| |Z|Un'Goro Crater|
+C Frenzied Pterrordax |QID|4501| |OIDX|2| |N|Kill 15 Frenzied Pterrordax in western Un'Goro (32.40, 43.90)| |Z|Un'Goro Crater|
+C Webbed Pterrordax Scale |QID|4503| |OIDX|2| |N|Collect 8 Webbed Pterrordax Scale from Pterrordax (32.40, 43.90)| |Z|Un'Goro Crater|
 K Glutinous Ooze |QID|4294| |N|Kill Glutinous Ooze to finish 35 Un'Goro Slime Sample (34.50, 36.80)| |Z|Un'Goro Crater|
 
 N Power Crystal |QID|4284| |N|Finish collecting 7 of each Red, Blue, Yellow and Green Power Crystal| |OBJ|2973, 2971, 2972, 2974|

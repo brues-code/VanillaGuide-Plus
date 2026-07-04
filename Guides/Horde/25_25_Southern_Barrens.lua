@@ -15,19 +15,19 @@ A Owatanka |QID|884| |N|Use Owatanka's Tailspike to accept quest| |U|5102| |O|
 K Silithid Harvester |OID|897| |N|Kill Silithid Harvester and collect Harvester's Head in Field of Giants to accept a quest (47.38, 69.77)| |L|5138|
 A The Harvester |QID|897| |N|Use Harvester's Head to accept quest| |U|5138| |O|
 C Egg Hunt |QID|868| |N|Use Digging Claw on the mounds and collect 12 Silithid Egg at the Field of Giants (45, 72)|  |U|5059|
-K Greater Thunderhawk |QID|822.2| |N|Kill Greater Thunderhawk and collect Thunderhawk Saliva Gland in Field of Giants (46.74, 73.83)| |O|
+K Greater Thunderhawk |QID|822| |OIDX|2| |N|Kill Greater Thunderhawk and collect Thunderhawk Saliva Gland in Field of Giants (46.74, 73.83)| |O|
 
 R Blackthorn Ridge |QID|879| |N|Travel to Blackthorn Ridge (46.74, 79.63) (43.83, 81.96)|
-K Nak |QID|879.2| |N|Kill Nak and collect Nak's Skull in Blackthorn Ridge (46.74, 79.63) (43.83, 81.96) (43.87, 83.00)|
-K Razormane Seer |QID|893.2| |N|Kill Razormane Seer and collect Charred Razormane Wand in Blackthorn Ridge (43.45, 83.01)|
-K Kuz |QID|879.1| |N|Kill Kuz and collect Kuz's Skull in Blackthorn Ridge (43.51, 80.66)|
-K Razormane Warfrenzy |QID|893.3| |N|Kill Razormane Warfrenzy and collect Razormane War Shield in Blackthorn Ridge (41.91, 80.65)|
-K Lok Orcbane |QID|879.3| |N|Kill Lok Orcbane and collect Lok's Skull in Blackthorn Ridge (40.64, 80.62)|
-C Weapons of Choice |QID|893.1| |N|Kill Razormane Pathfinder or Razormane Stalker and collect Razormane Backstabber in Blackthorn Ridge (43.90, 84.13)|
+K Nak |QID|879| |OIDX|2| |N|Kill Nak and collect Nak's Skull in Blackthorn Ridge (46.74, 79.63) (43.83, 81.96) (43.87, 83.00)|
+C Razormane Seer |QID|893| |OIDX|2| |N|Kill Razormane Seer and collect Charred Razormane Wand in Blackthorn Ridge (43.45, 83.01)|
+K Kuz |QID|879| |OIDX|1| |N|Kill Kuz and collect Kuz's Skull in Blackthorn Ridge (43.51, 80.66)|
+C Razormane Warfrenzy |QID|893| |OIDX|3| |N|Kill Razormane Warfrenzy and collect Razormane War Shield in Blackthorn Ridge (41.91, 80.65)|
+K Lok Orcbane |QID|879| |OIDX|3| |N|Kill Lok Orcbane and collect Lok's Skull in Blackthorn Ridge (40.64, 80.62)|
+C Weapons of Choice |QID|893| |OIDX|1| |N|Kill Razormane Pathfinder or Razormane Stalker and collect Razormane Backstabber in Blackthorn Ridge (43.90, 84.13)|
 
 R Southern Gold Road |QID|843| |N|Travel to Southern Gold Road (46.12, 75.40)|
 A Gann's Reclamation |QID|843| |N|Gann Stonespire in Southern Gold Road, patrols the road (46.1, 76.4) (46.1, 81.3)|
-K Prospector Khazgorm |QID|843.3| |N|Kill Prospector Khazgorm collect Khazgorm's Journal in Bael Modan (47.58, 86.15)|
+C Prospector Khazgorm |QID|843| |OIDX|3| |N|Kill Prospector Khazgorm collect Khazgorm's Journal in Bael Modan (47.58, 86.15)|
 C Gann's Reclamation |QID|843| |N|Kill 15 Bael'dun Excavator and 5 Bael'dun Foreman in Bael Modan (46, 85)|
 
 R Southern Gold Road |QID|846| |N|Travel to Southern Gold Road (46.12, 75.40)|
@@ -35,7 +35,7 @@ T Gann's Reclamation |QID|843| |N|Gann Stonespire in Southern Gold Road, patrols
 A Revenge of Gann (Part 1) |QID|846| |N|Gann Stonespire in Southern Gold Road, patrols the road (46.1, 76.4) (46.1, 81.3)|
 
 R Field of Giants |QID|822| |N|Travel to Field of Giants (47.77, 73.62)| |O|
-K Stormhide |QID|822.1| |N|Kill Stormhide and collect 5 Lightning Gland in Field of Giants (47.77, 73.62)| |O|
+K Stormhide |QID|822| |OIDX|1| |N|Kill Stormhide and collect 5 Lightning Gland in Field of Giants (47.77, 73.62)| |O|
 
 R Camp Taurajo |TID|879| |N|Travel to Camp Taurajo (45.11, 57.72)|
 T Weapons of Choice |QID|893| |N|Tatternack Steelforge in Camp Taurajo (45.11, 57.72)|

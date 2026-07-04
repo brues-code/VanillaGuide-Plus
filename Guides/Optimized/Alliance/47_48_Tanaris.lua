@@ -24,7 +24,7 @@ N Gahz'ridian Detector |QID|3161| |N|Equip the Gahz'ridian Detector to help find
 N Grind Rocs |QID|1452| |N|Kill Searing Roc at skeletons around (49, 36) and (44, 39) for Roc Gizzard|
 
 R Dunemaul Compound |QID|5863| |N|Travel to Dunemaul Compound (40.43, 55.72)| |Z|Tanaris|
-K Gor'marok the Ravager |QID|5863.3| |N|Kill Gor'marok the Ravager inside the cave (41.46, 57.78)| |Z|Tanaris|
+C Gor'marok the Ravager |QID|5863| |OIDX|3| |N|Kill Gor'marok the Ravager inside the cave (41.46, 57.78)| |Z|Tanaris|
 C The Dunemaul Compound |QID|5863| |N|Kill 10 Dunemaul Brute, 10 Dunemaul Enforcer (40.43, 55.72) (47.02, 65.85)| |Z|Tanaris|
 
 N As you go... |QID|3161| |N|Collect Gahz'ridian Ornament (30 total) while in the area|

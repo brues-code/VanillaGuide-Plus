@@ -38,11 +38,11 @@ N Grind Nagas |N|Grind on the nagas until you're at least 50% into 43|
 
 R Ruins of Aboraz |QID|609| |N|Travel to Ruins of Aboraz (40, 58)| |Z|Stranglethorn Vale|
 N As you go... |QID|621| |N|Kill Zanzil mobs for 12 Zanzil's Mixture|
-K Chucky Ten Thumbs |QID|609.3| |N|Kill Chucky Ten Thumbs for Chucky's Huge Ring at Ruins of Aboraz (40.05, 58.21)| |Z|Stranglethorn Vale|
+K Chucky Ten Thumbs |QID|609| |OIDX|3| |N|Kill Chucky Ten Thumbs for Chucky's Huge Ring at Ruins of Aboraz (40.05, 58.21)| |Z|Stranglethorn Vale|
 
 R Ruins of Jubuwal |QID|609| |N|Travel to Ruins of Jubuwal (35, 51)| |Z|Stranglethorn Vale|
-K Jon-Jon the Crow |QID|609.2| |N|Kill Jon-Jon the Crow for Jon-Jon's Golden Spyglass (34.75, 51.82)| |Z|Stranglethorn Vale|
-K Maury Club Foot Wilkins |QID|609.1| |N|Kill Maury Club Foot Wilkins for Maury's Clubbed Foot (35.18, 51.11)| |Z|Stranglethorn Vale|
+K Jon-Jon the Crow |QID|609| |OIDX|2| |N|Kill Jon-Jon the Crow for Jon-Jon's Golden Spyglass (34.75, 51.82)| |Z|Stranglethorn Vale|
+K Maury Club Foot Wilkins |QID|609| |OIDX|1| |N|Kill Maury Club Foot Wilkins for Maury's Clubbed Foot (35.18, 51.11)| |Z|Stranglethorn Vale|
 C Zanzil's Secret |QID|621| |N|Finish collecting 12 Zanzil's Mixture (35, 51)| |Z|Stranglethorn Vale|
 
 R Arena |QID|197| |N|Travel to the arena area (31, 43)| |Z|Stranglethorn Vale|

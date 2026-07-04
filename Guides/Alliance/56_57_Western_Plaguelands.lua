@@ -29,12 +29,12 @@ T The Scourge Cauldrons |QID|5215| |N|Commander Ashlam Valorfist in Chillwind Ca
 A Target: Felstone Field |QID|5216| |N|High Priestess MacDonnell in Chillwind Camp (42.98, 84.51)| |Z|Western Plaguelands|
 
 R Ruins of Andorhal |QID|5097| |N|Travel to Ruins of Andorhal (41.80, 80.12) (36.26, 78.13) (38.67, 71.44)| |Z|Western Plaguelands|
-N Mark Tower One |QID|5097.1| |N|Use Beacon Torch between the door way of the Tower in Ruins of Andorhal (40.00, 71.58)| |Z|Western Plaguelands| |U|12815|
+C Mark Tower One |QID|5097| |OIDX|1| |N|Use Beacon Torch between the door way of the Tower in Ruins of Andorhal (40.00, 71.58)| |Z|Western Plaguelands| |U|12815|
 A A Matter of Time |QID|4971| |N|Chromie in Ruins of Andorhal, upstair inside the house (39.45, 66.79)| |Z|Western Plaguelands|
-N Mark Tower Two |QID|5097.2| |N|Use Beacon Torch between the door way of the Tower in Ruins of Andorhal (42.43, 66.07)| |Z|Western Plaguelands| |U|12815|
-N Mark Tower Three |QID|5097.3| |N|Use Beacon Torch between the door way of the Tower in Ruins of Andorhal (44.15, 63.25)| |Z|Western Plaguelands| |U|12815|
+C Mark Tower Two |QID|5097| |OIDX|2| |N|Use Beacon Torch between the door way of the Tower in Ruins of Andorhal (42.43, 66.07)| |Z|Western Plaguelands| |U|12815|
+C Mark Tower Three |QID|5097| |OIDX|3| |N|Use Beacon Torch between the door way of the Tower in Ruins of Andorhal (44.15, 63.25)| |Z|Western Plaguelands| |U|12815|
 C A Matter of Time |QID|4971| |N|Use Temporal Displacer near the glowing silo to spawn and kill 15 Temporal Parasite in Ruins of Andorhal (45.39, 62.90) (46.34, 62.58) (47.96, 62.44) (47.97, 64.16) (49.99, 66.95)| |Z|Western Plaguelands| |U|12627|
-N Mark Tower Four |QID|5097.4| |N|Use Beacon Torch between the door way of the Tower in Ruins of Andorhal (46.63, 71.26)| |Z|Western Plaguelands| |U|12815|
+C Mark Tower Four |QID|5097| |OIDX|4| |N|Use Beacon Torch between the door way of the Tower in Ruins of Andorhal (46.63, 71.26)| |Z|Western Plaguelands| |U|12815|
 T A Matter of Time |QID|4971| |N|Chromie in Ruins of Andorhal (39.45, 66.78)| |Z|Western Plaguelands|
 A Counting Out Time |QID|4972| |N|Chromie in Ruins of Andorhal (39.45, 66.78)| |Z|Western Plaguelands|
 C Counting Out Time |QID|4972| |N|Collect Andorhal Watch from small lockbox in Ruins of Andorhal (38.88, 68.09) (40.27, 68.22) (40.86, 67.17) (40.36, 66.46) (42.31, 68.73)| |Z|Western Plaguelands| |OBJ|318|
@@ -80,7 +80,7 @@ N As you go... |AYG|5219| |QID|5537| |N|Collect 15 Skeletal Fragments from Skele
 R Felstone Field |QID|5021| |N|Travel to Felstone Field (38.39, 54.05)| |Z|Western Plaguelands|
 T Good Luck Charm |QID|5050| |N|Janice Felstone in Felstone Field (38.39, 54.06)| |Z|Western Plaguelands|
 A Two Halves Become One |QID|5051| |N|Janice Felstone in Felstone Field (38.39, 54.06)| |Z|Western Plaguelands|
-K Jabbering Ghoul |QID|5051.1| |N|Kill Jabbering Ghoul and collect Good Luck Other-Half-Charm in Felstone Field (36.81, 58.32)| |Z|Western Plaguelands| |L|12722|
+C Jabbering Ghoul |QID|5051| |OIDX|1| |N|Kill Jabbering Ghoul and collect Good Luck Other-Half-Charm in Felstone Field (36.81, 58.32)| |Z|Western Plaguelands| |L|12722|
 C Two Halves Become One |QID|5051| |N|Use Good Luck Other-Half-Charm to create Good Luck Charm in Felstone Field (36.81, 58.32)| |Z|Western Plaguelands|
 T Two Halves Become One |QID|5051| |N|Janice Felstone in Felstone Field (38.40, 54.04)| |Z|Western Plaguelands|
 

@@ -48,8 +48,8 @@ T Find Agmond |QID|738| |N|Battered Dwarven Skeleton in Agmond's End (50.92, 62.
 A Murdaloc |QID|739| |N|Battered Dwarven Skeleton in Agmond's End (50.92, 62.36)| |PRE|707| |OBJ|211|
 
 N As you go... |QID|739| |N|Collect 10 Indurium Flake from Stonevault mobs|
-K Murdaloc |QID|739.1| |N|Find and kill Murdaloc in Agmond's End (49.75, 66.90)|
-C Murdaloc |QID|739.2| |N|Kill 12 Stonevault Bonesnapper or Stonevault Shaman (50, 70)|
+C Murdaloc |QID|739| |OIDX|1| |N|Find and kill Murdaloc in Agmond's End (49.75, 66.90)|
+C Murdaloc |QID|739| |OIDX|2| |N|Kill 12 Stonevault Bonesnapper or Stonevault Shaman (50, 70)|
 C Indurium |QID|1108| |N|Collect 10 Indurium Flake from Stonevault mobs in Agmond's End (49.97, 68.31)| |PRE|1106|
 
 T Indurium |QID|1108| |N|Martek the Exiled in Valley of Fangs (42.20, 52.72)| |PRE|1106|

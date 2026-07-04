@@ -54,17 +54,17 @@ N Toxic Horror Droplet |QID|5086| |N|Store Toxic Horror Droplet to the bank (61.
 N Sacred Highborne Writings |QID|5246| |N|Store Sacred Highborne Writings to the bank (61.4, 37.0)| |Z|Winterspring| |L|13313| |O| 
 T March of the Silithid |QID|4493| |N|Alchemist Pestlezugg in Gadgetzan (50.88, 26.95)| |Z|Tanaris| 
 A Bungle in the Jungle |QID|4496| |N|Alchemist Pestlezugg in Gadgetzan (50.91, 26.96)| |Z|Tanaris| 
-N Spitelash Siren |QID|5163.2| |N|Use Umi's Mechanical Yeti to scare Spitelash Siren in Gadgetzan (51.07, 26.88)| |Z|Tanaris| |O| |U|12928| 
+N Spitelash Siren |QID|5163| |OIDX|2| |N|Use Umi's Mechanical Yeti to scare Spitelash Siren in Gadgetzan (51.07, 26.88)| |Z|Tanaris| |O| |U|12928| 
 
 R The Slithering Scar |QID|4496| |N|Travel to The Slithering Scar in Un'Goro (51.44, 77.74)| |Z|Un'Goro Crater|
-N Gorishi Scent Gland |QID|4496.1| |N|Kill Gorishi insects and collect Gorishi Scent Gland in The Slithering Scar (56.09, 67.27)| |Z|Un'Goro Crater| 
-N Un'Goro Soil |QID|4496.2| |N|Collect 5 Un'Goro Soil from any npc or from Un'Goro Dirt Pile on the ground in Un'Goro| |Z|Un'Goro Crater| |OBJ|49|
+C Gorishi Scent Gland |QID|4496| |OIDX|1| |N|Kill Gorishi insects and collect Gorishi Scent Gland in The Slithering Scar (56.09, 67.27)| |Z|Un'Goro Crater| 
+C Un'Goro Soil |QID|4496| |OIDX|2| |N|Collect 5 Un'Goro Soil from any npc or from Un'Goro Dirt Pile on the ground in Un'Goro| |Z|Un'Goro Crater| |OBJ|49|
 
 U Bag of Empty Ooze Containers |QID|4513| |N|Open Bag of Empty Ooze Containers and collect 10 Empty Pure Sample Jar| |U|11955| |L|11953| |O|
 C A Little Slime Goes a Long Way (Part 2) |QID|4513| |N|Kill Primal Ooze or Glutinous Ooze and use Bag of Empty Ooze Containers on the corpses to collect 10 Filled Pure Sample Jar in Terror Run. Note: Do not loot before using the "Empty Pure Sample Jar" or you won't be able to take the sample (47.92, 67.97) (41.48, 57.21) (37.73, 70.74)| |Z|Un'Goro Crater| |O|  
 
 R Marshal's Refuge |QID|5163| |N|Travel to Marshal's Refuge (43.66, 9.36)| |Z|Un'Goro Crater| |O|
-N Quixxil |QID|5163.3| |N|Use Umi's Mechanical Yeti to scare Quixxil in Marshal's Refuge (43.66, 9.36)| |Z|Un'Goro Crater| |O| |U|12928| 
+N Quixxil |QID|5163| |OIDX|3| |N|Use Umi's Mechanical Yeti to scare Quixxil in Marshal's Refuge (43.66, 9.36)| |Z|Un'Goro Crater| |O| |U|12928| 
 
 R Valor's Rest |QID|1125| |N|Travel to Valor's Rest (29.3, 22.4) (81.87, 18.88)| |Z|Silithus|
 T Wasteland |QID|1124| |N|Layo Starstrike in Valor's Rest (81.87, 18.88)| |Z|Silithus| 
@@ -98,8 +98,8 @@ T A Little Slime Goes a Long Way (Part 2) |QID|4513| |N|Laris Geardawdle in The 
 R Light's Hope Chapel |QID|5181| |N|Travel to Light's Hope Chapel (81.51, 59.77)| |Z|Eastern Plaguelands|
 T Brother Carlin |QID|5210| |N|Carlin Redpath in Light's Hope Chapel (81.51, 59.77)| |Z|Eastern Plaguelands| 
 A Villains of Darrowshire |QID|5181| |N|Carlin Redpath in Light's Hope Chapel (81.51, 59.77)| |Z|Eastern Plaguelands| 
-N Skull of Horgus |QID|5181.1| |N|Collect Skull of Horgus underwater in Blackwood Lake (51.07, 49.94)| |Z|Eastern Plaguelands| |OBJ|4173|
-N Shattered Sword of Marduk |QID|5181.2| |N|Collect Shattered Sword of Marduk from down below in The Infectis Scar (53.89, 65.78)| |Z|Eastern Plaguelands| |OBJ|4175|
+C Skull of Horgus |QID|5181| |OIDX|1| |N|Collect Skull of Horgus underwater in Blackwood Lake (51.07, 49.94)| |Z|Eastern Plaguelands| |OBJ|4173|
+C Shattered Sword of Marduk |QID|5181| |OIDX|2| |N|Collect Shattered Sword of Marduk from down below in The Infectis Scar (53.89, 65.78)| |Z|Eastern Plaguelands| |OBJ|4175|
 
 R Light's Hope Chapel |TID|5181| |N|Travel to Light's Hope Chapel (81.52, 59.75)| |Z|Eastern Plaguelands|
 T Villains of Darrowshire |QID|5181| |N|Carlin Redpath in Light's Hope Chapel (81.52, 59.75)| |Z|Eastern Plaguelands| 

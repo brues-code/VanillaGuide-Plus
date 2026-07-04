@@ -25,9 +25,9 @@ C Mathystra Relics |QID|951| |N|Collect 6 Mathystra Relic from the ground (58.50
 R Mist's Edge |QID|2098| |N|Travel to Mist's Edge (56.68, 13.53)| |Z|Darkshore|
 A Gyromast's Retrieval |QID|2098| |N|Gelkak Gyromast in Mist's Edge (56.68, 13.53)| |Z|Darkshore|
 
-K Raging Reef Crawler |QID|2098.3| |N|Kill Raging Reef Crawler for Bottom of Gelkak's Key (56.36, 17.22)| |Z|Darkshore|
-K Greymist Tidehunter |QID|2098.2| |N|Kill Greymist Tidehunter for Middle of Gelkak's Key (55.41, 12.33)| |Z|Darkshore|
-K Giant Foreststrider |QID|2098.1| |N|Kill Giant Foreststrider for Top of Gelkak's Key (61.71, 11.54)| |Z|Darkshore|
+C Raging Reef Crawler |QID|2098| |OIDX|3| |N|Kill Raging Reef Crawler for Bottom of Gelkak's Key (56.36, 17.22)| |Z|Darkshore|
+C Greymist Tidehunter |QID|2098| |OIDX|2| |N|Kill Greymist Tidehunter for Middle of Gelkak's Key (55.41, 12.33)| |Z|Darkshore|
+C Giant Foreststrider |QID|2098| |OIDX|1| |N|Kill Giant Foreststrider for Top of Gelkak's Key (61.71, 11.54)| |Z|Darkshore|
 C A Lost Master |QID|986| |N|Kill Moonstalker Sire and collect 5 Fine Moonstalker Pelt (61, 12)| |Z|Darkshore|
 
 T Gyromast's Retrieval |QID|2098| |N|Gelkak Gyromast in Mist's Edge (56.67, 13.49)| |Z|Darkshore|

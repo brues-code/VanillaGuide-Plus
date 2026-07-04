@@ -29,13 +29,13 @@ T A Plague Upon Thee (Part 2) |QID|5904| |N|Termite Barrel in Northridge Lumber 
 N Plagueland Termites |QID|6389| |N|Destroy Plagueland Termites as it is no longer needed| |L|15043| |O|
 A A Plague Upon Thee (Part 3) |QID|6389| |N|Termite Barrel in Northridge Lumber Camp (48.33, 31.92)| |Z|Western Plaguelands| |OBJ|446|
 A Unfinished Business (Part 1) |QID|6004| |N|Kirsta Deepshadow in Northridge Lumber Camp (49.90, 30.33) (51.92, 28.06)| |Z|Western Plaguelands|
-C Unfinished Business (Part 1) |QID|6004.4| |N|Kill 2 Scarlet Knight and 2 Scarlet Mage (50.75, 31.67) (52.76, 35.58) (53.81, 36.13) (52.95, 36.33)| |Z|Western Plaguelands|
-C Unfinished Business (Part 1) |QID|6004.3| |N|Kill 2 Scarlet Knight and 2 Scarlet Mage (52.95, 36.33)| |Z|Western Plaguelands|
+C Unfinished Business (Part 1) |QID|6004| |OIDX|4| |N|Kill 2 Scarlet Knight and 2 Scarlet Mage (50.75, 31.67) (52.76, 35.58) (53.81, 36.13) (52.95, 36.33)| |Z|Western Plaguelands|
+C Unfinished Business (Part 1) |QID|6004| |OIDX|3| |N|Kill 2 Scarlet Knight and 2 Scarlet Mage (52.95, 36.33)| |Z|Western Plaguelands|
 C Unfinished Business (Part 1) |QID|6004| |N|Kill 2 Scarlet Hunter and 2 Scarlet Medic (51.52, 44.28)| |Z|Western Plaguelands|
 T Unfinished Business (Part 1) |QID|6004| |N|Kirsta Deepshadow in Northridge Lumber Camp (51.95, 28.10)| |Z|Western Plaguelands|
 A Unfinished Business (Part 2) |QID|6023| |N|Kirsta Deepshadow in Northridge Lumber Camp (51.95, 28.10)| |Z|Western Plaguelands|
-K Huntsman Radley |QID|6023.1| |N|Kill Huntsman Radley in Hearthglen (50.75, 31.67) (52.76, 35.58) (53.81, 36.13) (57.47, 35.93)| |Z|Western Plaguelands|
-K Cavalier Durgen |QID|6023.2| |N|Kill Cavalier Durgen in Hearthglen (54.94, 23.55)| |Z|Western Plaguelands|
+C Huntsman Radley |QID|6023| |OIDX|1| |N|Kill Huntsman Radley in Hearthglen (50.75, 31.67) (52.76, 35.58) (53.81, 36.13) (57.47, 35.93)| |Z|Western Plaguelands|
+C Cavalier Durgen |QID|6023| |OIDX|2| |N|Kill Cavalier Durgen in Hearthglen (54.94, 23.55)| |Z|Western Plaguelands|
 T Unfinished Business (Part 2) |QID|6023| |N|Kirsta Deepshadow in Northridge Lumber Camp (51.91, 28.08)| |Z|Western Plaguelands|
 A Unfinished Business (Part 3) |QID|6025| |N|Kirsta Deepshadow in Northridge Lumber Camp (51.92, 28.04)| |Z|Western Plaguelands|
 
@@ -68,8 +68,8 @@ N Moontouched Feather |QID|978| |N|Withdraw Moontouched Feather from the bank. T
 R Light's Hope Chapel |QID|5181| |N|Travel to Light's Hope Chapel (81.51, 59.77)| |Z|Eastern Plaguelands|
 T Brother Carlin |QID|5210| |N|Carlin Redpath in Light's Hope Chapel (81.51, 59.77)| |Z|Eastern Plaguelands|
 A Villains of Darrowshire |QID|5181| |N|Carlin Redpath in Light's Hope Chapel (81.51, 59.77)| |Z|Eastern Plaguelands|
-N Skull of Horgus |QID|5181.1| |N|Collect Skull of Horgus underwater in Blackwood Lake (51.07, 49.94)| |Z|Eastern Plaguelands| |OBJ|4173|
-N Shattered Sword of Marduk |QID|5181.2| |N|Collect Shattered Sword of Marduk from down below in The Infectis Scar (53.89, 65.78)| |Z|Eastern Plaguelands| |OBJ|4175|
+C Skull of Horgus |QID|5181| |OIDX|1| |N|Collect Skull of Horgus underwater in Blackwood Lake (51.07, 49.94)| |Z|Eastern Plaguelands| |OBJ|4173|
+C Shattered Sword of Marduk |QID|5181| |OIDX|2| |N|Collect Shattered Sword of Marduk from down below in The Infectis Scar (53.89, 65.78)| |Z|Eastern Plaguelands| |OBJ|4175|
 
 R Light's Hope Chapel |TID|5181| |N|Travel to Light's Hope Chapel (81.52, 59.75)| |Z|Eastern Plaguelands|
 T Villains of Darrowshire |QID|5181| |N|Carlin Redpath in Light's Hope Chapel (81.52, 59.75)| |Z|Eastern Plaguelands|

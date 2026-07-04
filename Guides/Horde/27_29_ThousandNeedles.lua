@@ -83,13 +83,13 @@ T Wind Rider |QID|4767| |N|Elu in Freewind Post (44.86, 49.03)|
 T The Sacred Flame (Part 3) |QID|1197| |N|Rau Cliffrunner in Freewind Post (46.12, 51.62)| |PRE|1197|
 
 R Darkcloud Pinnacle |QID|5064| |N|Travel to Darkcloud Pinnacle (31.83, 32.64)|
-N Secret Note #1 |QID|5064.1| |N|Collect Secret Note #1 from the Document Chest in Darkcloud Pinnacle (31.83, 32.64)|
-N Secret Note #2 |QID|5064.2| |N|Collect Secret Note #2 from the Document Chest in Darkcloud Pinnacle (33.79, 39.92)|
-N Secret Note #3 |QID|5064.3| |N|Collect Secret Note #3 from the Document Chest in Darkcloud Pinnacle (39.28, 41.53)|
+C Secret Note #1 |QID|5064| |OIDX|1| |N|Collect Secret Note #1 from the Document Chest in Darkcloud Pinnacle (31.83, 32.64)|
+C Secret Note #2 |QID|5064| |OIDX|2| |N|Collect Secret Note #2 from the Document Chest in Darkcloud Pinnacle (33.79, 39.92)|
+C Secret Note #3 |QID|5064| |OIDX|3| |N|Collect Secret Note #3 from the Document Chest in Darkcloud Pinnacle (39.28, 41.53)|
 
 C Grimtotem Spying |QID|5064| |N|Take the path up and collect Secret Note #1, Secret Note #2 and Secret Note #3 from the boxes (31, 36) (31, 32) (33, 39) (39, 41)|
 
-N Light the Sacred Fire of Life |QID|5088.2| |N|Click Item Sacred Fire of Life in Darkcloud Pinnacle (37.96, 35.35)|
+C Light the Sacred Fire of Life |QID|5088| |OIDX|2| |N|Click Item Sacred Fire of Life in Darkcloud Pinnacle (37.96, 35.35)|
 C Arikara |QID|5088| |N|Kill Arikara and collect Arikara Serpent Skin in Darkcloud Pinnacle (36.36, 31.42)|
 
 R Darkcloud Pinnacle |QID|5147| |N|Travel to Darkcloud Pinnacle (39.13, 29.37)|

@@ -12,10 +12,10 @@ A Carrion Grubbage |QID|5544| |N|Tirion Fordring in Thondroril River (7.57, 43.7
 
 N As you go... |AYG|6185| |QID|5542| |N|Kill 30 Plaguebat, 20 Plaguehound Runt and Carrion Grub for 15 Slab of Carrion Worm Meat| 
 R The Marris Stead |QID|6185| |N|Travel to The Marris Stead (12.43, 62.26) (28.04, 78.99)| |Z|Eastern Plaguelands| |O|
-N SI:7 Insignia (Turyen) |QID|6185.3| |N|Collect SI:7 Insignia (Turyen) from Mangled Human Remains in The Marris Stead (28.8, 74.8)| |Z|Eastern Plaguelands| |O| |OBJ|4093|
-N SI:7 Insignia (Fredo) |QID|6185.2| |N|Collect SI:7 Insignia (Fredo) from Mangled Human Remains The Marris Stead (27.22, 75.01)| |Z|Eastern Plaguelands| |O| |OBJ|4093|
-N SI:7 Insignia (Rutger) |QID|6185.1| |N|Collect SI:7 Insignia (Rutger) from Mangled Human Remains The Marris Stead (28.80, 79.80)| |Z|Eastern Plaguelands| |O| |OBJ|4093|
-N Uncovered The Blightcaller |QID|6185.4| |N|Uncovered The Blightcaller in The Marris Stead (28.80, 79.80)| |Z|Eastern Plaguelands| |O|
+N SI:7 Insignia (Turyen) |QID|6185| |OIDX|3| |N|Collect SI:7 Insignia (Turyen) from Mangled Human Remains in The Marris Stead (28.8, 74.8)| |Z|Eastern Plaguelands| |O| |OBJ|4093|
+N SI:7 Insignia (Fredo) |QID|6185| |OIDX|2| |N|Collect SI:7 Insignia (Fredo) from Mangled Human Remains The Marris Stead (27.22, 75.01)| |Z|Eastern Plaguelands| |O| |OBJ|4093|
+N SI:7 Insignia (Rutger) |QID|6185| |OIDX|1| |N|Collect SI:7 Insignia (Rutger) from Mangled Human Remains The Marris Stead (28.80, 79.80)| |Z|Eastern Plaguelands| |O| |OBJ|4093|
+N Uncovered The Blightcaller |QID|6185| |OIDX|4| |N|Uncovered The Blightcaller in The Marris Stead (28.80, 79.80)| |Z|Eastern Plaguelands| |O|
 
 R The Undercroft |QID|6024| |N|Travel to The Undercroft (27.91, 85.46)| |Z|Eastern Plaguelands|
 A Hameya's Plea |QID|6024| |N|Torn Scroll in The Undercroft (27.91, 85.46) (27.27, 85.19)| |Z|Eastern Plaguelands| |OBJ|4851|
@@ -31,8 +31,8 @@ T Pamela's Doll |QID|5149| |N|Pamela Redpath in Darrowshire (36.45, 90.83)| |Z|E
 A Auntie Marlene |QID|5152| |N|Pamela Redpath in Darrowshire (36.45, 90.83)| |Z|Eastern Plaguelands| 
 A Uncle Carlin |QID|5241| |N|Pamela Redpath in Darrowshire (36.45, 90.83)| |Z|Eastern Plaguelands| 
 N As you go... |AYG|5542| |QID|5544| |N|Kill Carrion Grub for 15 Slab of Carrion Worm Meat| 
-K Plaguebat |QID|5543.1| |N|Kill 30 Plaguebat in Eastern Plaguelands (35.77, 81.88) (34.57, 73.46) (32.81, 67.77) (24.60, 68.22) (19.74, 71.76) (18.29, 77.41) (22.62, 80.33)| |Z|Eastern Plaguelands|  
-K Plaguehound Runt |QID|5542.1| |N|Kill 20 Plaguehound Runt in Eastern Plaguelands (35.77, 81.88) (34.57, 73.46) (32.81, 67.77) (24.60, 68.22) (19.74, 71.76) (18.29, 77.41) (22.62, 80.33)| |Z|Eastern Plaguelands|  
+C Plaguebat |QID|5543| |OIDX|1| |N|Kill 30 Plaguebat in Eastern Plaguelands (35.77, 81.88) (34.57, 73.46) (32.81, 67.77) (24.60, 68.22) (19.74, 71.76) (18.29, 77.41) (22.62, 80.33)| |Z|Eastern Plaguelands|  
+C Plaguehound Runt |QID|5542| |OIDX|1| |N|Kill 20 Plaguehound Runt in Eastern Plaguelands (35.77, 81.88) (34.57, 73.46) (32.81, 67.77) (24.60, 68.22) (19.74, 71.76) (18.29, 77.41) (22.62, 80.33)| |Z|Eastern Plaguelands|  
 
 R Light's Hope Chapel |QID|5281| |N|Travel to Light's Hope Chapel (79.55, 64.07)| |Z|Eastern Plaguelands|
 A The Restless Souls |QID|5281| |N|Caretaker Alen in Light's Hope Chapel (79.55, 64.07)| |Z|Eastern Plaguelands| 
@@ -43,15 +43,15 @@ A Defenders of Darrowshire |QID|5211| |N|Carlin Redpath in Light's Hope Chapel (
 f Light's Hope Chapel |QID|5542| |N|Speak to Khaelyn Steelwing and grab flight path for Light's Hope Chapel (81.62, 59.32)| |Z|Eastern Plaguelands| 
 
 N As you go... |AYG|5544| |QID|5544| |N|Kill the required Plaguehound, Frenzied Plaguehound, Carrion Grub in any order|
-K Plaguehound |QID|5542.2| |N|Kill 5 Plaguehound in Eastern Plaguelands (79.18, 68.76) (70.90, 71.41) (64.97, 62.50) (72.41, 54.10)| |Z|Eastern Plaguelands|  
-K Frenzied Plaguehound |QID|5542.3| |N|Kill 5 Frenzied Plaguehound in Eastern Plaguelands (70.30, 44.54) (68.90, 36.51)| |Z|Eastern Plaguelands|  
+C Plaguehound |QID|5542| |OIDX|2| |N|Kill 5 Plaguehound in Eastern Plaguelands (79.18, 68.76) (70.90, 71.41) (64.97, 62.50) (72.41, 54.10)| |Z|Eastern Plaguelands|  
+C Frenzied Plaguehound |QID|5542| |OIDX|3| |N|Kill 5 Frenzied Plaguehound in Eastern Plaguelands (70.30, 44.54) (68.90, 36.51)| |Z|Eastern Plaguelands|  
 K Carrion Grub |QID|5544| |N|Kill Carrion Grub for 15 Slab of Carrion Worm Meat (67.9, 61.0) (66.4, 67.6) (73.0, 71.8)| |Z|Eastern Plaguelands|  
 R Eastern Plaguelands |QID|5544| |N|Travel to Eastern Plaguelands|
 N As you go... |AYG|5211| |QID|9126| |N|Collect 30 Bone Fragments for a later quest from Skeletons| |L|22526 30| 
-K Diseased Flayer |QID|5211.1| |N|Make a start on this quest and kill Diseased Flayer then speak to Darrowshire Spirit that will spawn after the kill to free the spirit. NOTE: You can complete this later in Stratholme if this area is cleared already, tick this step (65.96, 39.86)| |Z|Eastern Plaguelands|  
+C Diseased Flayer |QID|5211| |OIDX|1| |N|Make a start on this quest and kill Diseased Flayer then speak to Darrowshire Spirit that will spawn after the kill to free the spirit. NOTE: You can complete this later in Stratholme if this area is cleared already, tick this step (65.96, 39.86)| |Z|Eastern Plaguelands|  
 
 R Zul'Mashar |QID|6024| |N|Travel to Zul'Mashar (64.32, 22.56)| |Z|Eastern Plaguelands|
-K Infiltrator Hameya |QID|6024.1| |N|Go around the graveyard and kill Infiltrator Hameya and collect Hameya's Key in Zul'Mashar, (66.86, 21.45) (68.26, 21.05) (70.77, 16.07)| |Z|Eastern Plaguelands| 
+C Infiltrator Hameya |QID|6024| |OIDX|1| |N|Go around the graveyard and kill Infiltrator Hameya and collect Hameya's Key in Zul'Mashar, (66.86, 21.45) (68.26, 21.05) (70.77, 16.07)| |Z|Eastern Plaguelands| 
 
 R Quel'Lithien Lodge |OID|5246| |N|Travel to Quel'Lithien Lodge (64.32, 22.56) (53.54, 22.04)| |Z|Eastern Plaguelands|
 T Troubled Spirits of Kel'Theril |QID|5245| |N|Aurora Skycaller in Quel'Lithien Lodge (53.54, 22.04)| |Z|Eastern Plaguelands| 

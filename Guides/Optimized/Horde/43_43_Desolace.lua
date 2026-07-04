@@ -35,8 +35,8 @@ R Valley of Bones |QID|261| |N|Travel to Valley of Bones (63.91, 90.74)| |Z|Deso
 C Ghost-o-plasm Round Up |QID|6134| |N|Clear the area, use Crate of Ghost Magnets and kill the Magrami Spectre that appear and collect 8 Ghost-o-plasm (63.87, 91.71)| |Z|Desolace|
 
 R Mannoroc Coven |QID|1488| |N|Travel to Mannoroc Coven (55.85, 77.73)| |Z|Desolace|
-K Lord Azrethoc |QID|1488.1| |N|Kill Lord Azrethoc in Mannoroc Coven, he's an elite but you should be able to solo him (57.19, 79.17)| |Z|Desolace| |PRE|1484|
-K Jugkar Grim'rod |QID|1488.2| |N|Kill Jugkar Grim'rod in Mannoroc Coven (55.85, 77.73)| |Z|Desolace| |PRE|1484|
+C Lord Azrethoc |QID|1488| |OIDX|1| |N|Kill Lord Azrethoc in Mannoroc Coven, he's an elite but you should be able to solo him (57.19, 79.17)| |Z|Desolace| |PRE|1484|
+C Jugkar Grim'rod |QID|1488| |OIDX|2| |N|Kill Jugkar Grim'rod in Mannoroc Coven (55.85, 77.73)| |Z|Desolace| |PRE|1484|
 C Portals of the Legion |QID|5581| |N|Use Hand of Iruxos on the Demon Portal and kill the Demon Portal Guardian that it summon to close 6 Demon portal in Mannoroc Coven (53.85, 79.21)| |Z|Desolace| |OBJ|4713|
 
 R Ghost Walker Post |TID|1488| |N|Travel to Ghost Walker Post (52.57, 54.34)| |Z|Desolace|

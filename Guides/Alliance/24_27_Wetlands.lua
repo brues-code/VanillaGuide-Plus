@@ -20,12 +20,12 @@ A War Banners |QID|464| |N|Captain Stoutfist in Menethil Keep (9.90, 57.43)| |Z|
 A In Search of The Excavation Team (Part 1) |QID|305| |N|Tarrel Rockweaver in Menethil Harbor (11.47, 52.20)| |Z|Wetlands|
 
 N As you go... |AYG|279| |QID|484| |N|Kill Young Wetlands Crocolisk to collect 4 Young Crocolisk Skin|
-K Gobbler |QID|279.2| |N|Kill Gobbler and collect Gobbler's Head in Whelgar's Excavation Site (17.98, 40.49)| |Z|Wetlands|
-K Bluegill Murloc |QID|279.1| |N|Kill Bluegill Murloc in Whelgar's Excavation Site (19.72, 41.08)| |Z|Wetlands|
+C Gobbler |QID|279| |OIDX|2| |N|Kill Gobbler and collect Gobbler's Head in Whelgar's Excavation Site (17.98, 40.49)| |Z|Wetlands|
+C Bluegill Murloc |QID|279| |OIDX|1| |N|Kill Bluegill Murloc in Whelgar's Excavation Site (19.72, 41.08)| |Z|Wetlands|
 A Ormer's Revenge (Part 1) |QID|294| |N|Ormer Ironbraid in Whelgar's Excavation Site (38.1, 50.4)| |Z|Wetlands|
 T In Search of The Excavation Team (Part 1) |QID|305| |N|Merrin Rockweaver in Whelgar's Excavation Site (38.89, 52.34)| |Z|Wetlands|
 A In Search of The Excavation Team (Part 2) |QID|306| |N|Merrin Rockweaver in Whelgar's Excavation Site (38.89, 52.34)| |Z|Wetlands|
-N Flagongut's Fossil |QID|943.2| |N|Collect Flagongut's Fossil from the chest near Merrin Rockweaver (38.8, 52.2)| |PRE|942| |L|5234|
+C Flagongut's Fossil |QID|943| |OIDX|2| |N|Collect Flagongut's Fossil from the chest near Merrin Rockweaver (38.8, 52.2)| |PRE|942| |L|5234|
 
 R Black Channel Marsh |QID|294| |N|Travel to Black Channel Marsh (36.97, 47.26) (33.95, 40.93) (23.38, 53.52)| |Z|Wetlands|
 N As you go... |AYG|294| |QID|470| |N|Kill any Black Ooze to collect Sida's Bag|
@@ -75,10 +75,10 @@ T Blisters on The Land |QID|275| |N|Rethiel the Greenwarden in The Green Belt (5
 
 R Whelgar's Excavation Site |QID|299| |N|Travel to Whelgar's Excavation Site (36.85, 43.08)| |Z|Wetlands|
 A Uncovering the Past |QID|299| |N|Prospector Whelgar in Whelgar's Excavation Site (36.85, 43.08) (38.8, 52.3)|
-N Neru Fragment |QID|299.4| |N|Click on Dirt Pile to collect Neru Fragment in Whelgar's Excavation Site (36.5, 42.11)| |Z|Wetlands|
-N Golm Fragment |QID|299.3| |N|Click on the Vase to collect Golm Fragment in Whelgar's Excavation Site (35.1, 44.1)| |Z|Wetlands|
-N Modr Fragment |QID|299.2| |N|Click on the Ancient Relic to collect Modr Fragment in Whelgar's Excavation Site (34.4, 44.3)| |Z|Wetlands|
-N Ados Fragment |QID|299.1| |N|Click on Ancient Relic to collect Ados Fragment in Whelgar's Excavation Site (32.28, 48.58)| |Z|Wetlands|
+C Neru Fragment |QID|299| |OIDX|4| |N|Click on Dirt Pile to collect Neru Fragment in Whelgar's Excavation Site (36.5, 42.11)| |Z|Wetlands|
+C Golm Fragment |QID|299| |OIDX|3| |N|Click on the Vase to collect Golm Fragment in Whelgar's Excavation Site (35.1, 44.1)| |Z|Wetlands|
+C Modr Fragment |QID|299| |OIDX|2| |N|Click on the Ancient Relic to collect Modr Fragment in Whelgar's Excavation Site (34.4, 44.3)| |Z|Wetlands|
+C Ados Fragment |QID|299| |OIDX|1| |N|Click on Ancient Relic to collect Ados Fragment in Whelgar's Excavation Site (32.28, 48.58)| |Z|Wetlands|
 C Ormer's Revenge (Part 2) |QID|295| |N|Kill 10 Mottled Scytheclaw and 10 Mottled Razormaw which are found inside Whelgar's Excavation Site (34, 42)|
 T Ormer's Revenge (Part 2) |QID|295| |N|Ormer Ironbraid in Whelgar's Excavation Site (38.1, 50.4)| |Z|Wetlands|
 A Ormer's Revenge (Part 3) |QID|296| |N|Ormer Ironbraid in Whelgar's Excavation Site (38.1, 50.4)| |Z|Wetlands|
@@ -96,7 +96,7 @@ T Apprentice's Duties |QID|471| |N|James Halloran in Menethil Harbor (8.51, 55.8
 T Return the Statuette |QID|286| |N|Karl Boran in Menethil Harbor (8.31, 58.54)| |Z|Wetlands|
 
 R The Lost Fleet |QID|289| |N|Travel to The Lost Fleet (13.91, 31.03)| |Z|Wetlands|
-K First Mate Snellig |QID|289.3| |N|Collect Snellig's Snuffbox in The Lost Fleet (13.91, 31.03)| |Z|Wetlands|
+C First Mate Snellig |QID|289| |OIDX|3| |N|Collect Snellig's Snuffbox in The Lost Fleet (13.91, 31.03)| |Z|Wetlands|
 C The Cursed Crew |QID|289| |N|Kill 13 Cursed Sailor and 5 Cursed Marine which are found around the shipwreck (13, 27) (14, 30)|
 T The Cursed Crew |QID|289| |N|First Mate Fitzsimmons in Menethil Harbor (10.91, 59.53)| |Z|Wetlands|
 A Lifting the Curse |QID|290| |N|First Mate Fitzsimmons in Menethil Harbor (10.91, 59.53)| |Z|Wetlands|

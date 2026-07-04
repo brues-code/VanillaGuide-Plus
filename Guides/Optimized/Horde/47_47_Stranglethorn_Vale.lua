@@ -45,9 +45,9 @@ A Message in a Bottle (Part 2) |QID|630| |N|Princess Poobah in Jaguero Isle (38.
 C Message in a Bottle (Part 2) |QID|630| |N|Kill King Mukla and collect Shackle Key in Jaguero Isle. This is a group quest and hard to solo, safe to skip (40.98, 83.95)| |Z|Stranglethorn Vale|
 T Message in a Bottle (Part 2) |QID|630| |N|Princess Poobah in Jaguero Isle (38.52, 80.61)| |Z|Stranglethorn Vale| |O|
 N As you go... |AYG|608| |QID|624| |N|Check the bottom floor of each ship for Cortello's Riddle or in the captain's room, it can spawn in one of the three ship<br/><b>Collect 15 Snuff from any pirates| |L|4056| |OBJ|164|
-K Captain Stillwater |QID|608.1| |N|Kill Captain Stillwater in the middle floor of the ship in Wild Shore (32.82, 88.33)| |Z|Stranglethorn Vale| |PRE|604|
-K Fleet Master Firallon |QID|608.3| |N|Kill Garr Salthoof in the middle floor of the ship in Wild Shore (30.17, 89.40) (30.63, 90.57)| |Z|Stranglethorn Vale| |PRE|604|
-K Captain Keelhaul |QID|608.2| |N|Kill Captain Keelhaul in the middle floor of the ship in Wild Shore (29.87, 89.35) (29.20, 88.38)| |Z|Stranglethorn Vale| |PRE|604|
+C Captain Stillwater |QID|608| |OIDX|1| |N|Kill Captain Stillwater in the middle floor of the ship in Wild Shore (32.82, 88.33)| |Z|Stranglethorn Vale| |PRE|604|
+C Fleet Master Firallon |QID|608| |OIDX|3| |N|Kill Garr Salthoof in the middle floor of the ship in Wild Shore (30.17, 89.40) (30.63, 90.57)| |Z|Stranglethorn Vale| |PRE|604|
+C Captain Keelhaul |QID|608| |OIDX|2| |N|Kill Captain Keelhaul in the middle floor of the ship in Wild Shore (29.87, 89.35) (29.20, 88.38)| |Z|Stranglethorn Vale| |PRE|604|
 N Cortello's Riddle |QID|624| |N|Check the bottom floor of each ship for Cortello's Riddle or in the captain's room, it can spawn in one of the three ship (29.18, 88.63)| |L|4056| |OBJ|164|
 A Cortello's Riddle |QID|624| |N|Use Cortello's Riddle to accept quest| |Z|Stranglethorn Vale| |U|4056| |O|
 N Cortello's Riddle |QID|624| |N|You can now destroy Cortello's Riddle, if you already accepted the quest. Tick this step| |L|4098| |O|

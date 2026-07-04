@@ -10,7 +10,7 @@ T Another Message to the Wildhammer |QID|7842| |N|Otho Moji'ko in Revantusk Vill
 A The Final Message to the Wildhammer |QID|7843| |N|Otho Moji'ko in Revantusk Village (79.36, 79.07)| |Z|The Hinterlands| |PRE|7842| 
 A Lard Lost His Lunch |QID|7840| |N|Lard in Revantusk Village (78.12, 81.41)| |Z|The Hinterlands| 
 C Snapjaws, Mon! |QID|7815| |N|Kill 15 Saltwater Snapjaw in The Overlook Cliffs (77.32, 68.36)| |Z|The Hinterlands|  
-C Whiskey Slim's Lost Grog |QID|580.1| |N|Collect 12 Pupellyverbos Port from the ground near the water around The Overlook Cliffs (79.10, 71.61) (79.14, 64.09) (80.79, 58.88) (82.01, 49.85)| |Z|The Hinterlands|  |OBJ|225|
+C Whiskey Slim's Lost Grog |QID|580| |OIDX|1| |N|Collect 12 Pupellyverbos Port from the ground near the water around The Overlook Cliffs (79.10, 71.61) (79.14, 64.09) (80.79, 58.88) (82.01, 49.85)| |Z|The Hinterlands|  |OBJ|225|
 C Gammerita, Mon! |QID|7816| |N|Kill Gammerita and collect Katoom's Best Lure in The Overlook Cliffs (80.17, 58.42)| |Z|The Hinterlands|  
 
 T Cortello's Riddle |QID|626| |N|Cortello's Treasure in The Overlook Cliffs (80.82, 46.79)| |Z|The Hinterlands| |OBJ|10|

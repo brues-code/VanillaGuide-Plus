@@ -43,7 +43,7 @@ A Delivery to Alah'Thalas |QID|41197| |N|Solenia Solarcrest in Brinthilien (48.8
 
 R Silver Sun Mine |QID|41192| |N|Travel to Silver Sun Mine southeast of Brinthilien (41.5, 74.5)| |Z|Thalassian Highlands|
 C Arcane Golem Revolt |QID|41192| |N|Clear out the Silver Sun Mine by disposing of 8 Malfunctioning Arcane Golems, 6 Defective Arcane Golems and 4 Arcane Pounders (41, 74)| |Z|Thalassian Highlands|
-N Charged Arcane Crystal |QID|41196.1| |N|Pick up a Charged Arcane Crystal from the mine while you're here (41, 75)| |Z|Thalassian Highlands|
+C Charged Arcane Crystal |QID|41196| |OIDX|1| |N|Pick up a Charged Arcane Crystal from the mine while you're here (41, 75)| |Z|Thalassian Highlands|
 R Felstrider Retreat |QID|41193| |N|Travel southwest to Felstrider Retreat, the Blood Elf camp in the mountains (27, 79)| |Z|Thalassian Highlands|
 C A Troubling Presence |QID|41193| |N|Find the blood elf camp and eliminate Veloren Brightstar and his forces at Felstrider Retreat (28, 78) (25, 80)| |Z|Thalassian Highlands|
 

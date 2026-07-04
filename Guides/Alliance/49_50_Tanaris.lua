@@ -4,8 +4,8 @@ return [[
 
 R Theramore Isle |QID|623| |N|Travel to Theramore Isle (68.84, 53.21)| |Z|Dustwallow Marsh|
 
-R Beezil's Wreck |QID|4450.4| |N|Travel to Beezil's Wreck (67.50, 54.75) (55.74, 50.02) (54.34, 51.64)| |Z|Dustwallow Marsh|
-N Overdue Package |QID|4450.4| |N|Collect Overdue Package from the Damaged Crate in Beezil's Wreck (54.04, 55.91)| |Z|Dustwallow Marsh|
+R Beezil's Wreck |QID|4450| |OIDX|4| |N|Travel to Beezil's Wreck (67.50, 54.75) (55.74, 50.02) (54.34, 51.64)| |Z|Dustwallow Marsh|
+N Overdue Package |QID|4450| |OIDX|4| |N|Collect Overdue Package from the Damaged Crate in Beezil's Wreck (54.04, 55.91)| |Z|Dustwallow Marsh|
 T Nat Pagle, Murloc Expert |QID|40545| |N|Nat Pagle in Dustwallow Marsh (58.6, 60.0)| |Z|Dustwallow Marsh|
 A Small Murloc in a Big Pond |QID|40546| |N|Nat Pagle in Dustwallow Marsh (58.6, 60.0)| |Z|Dustwallow Marsh|
 
@@ -39,8 +39,8 @@ A Gahz'ridian |QID|3161| |N|Marvon Rivetseeker in Broken Pillar (52.72, 45.92)|
 
 N As you go... |AYG|5863| |QID|3161| |N|Equip the Gahz'ridian Detector to help you find 30 Gahz'ridian Ornament from small sand mound around the ruins| |OBJ|1767|
 R Dunemaul Compound |QID|5863| |N|Travel to Dunemaul Compound (41.09, 57.39)|
-K Gor'marok the Ravager |QID|5863.3| |N|Kill Gor'marok the Ravager inside the cave in Dunemaul Compound (41.46, 57.78)|
-K Searing Roc |QID|1452.1| |N|Kill Searing Roc and collect 3 Roc Gizzard (42.2, 63.78)|  |L|6257 3|
+C Gor'marok the Ravager |QID|5863| |OIDX|3| |N|Kill Gor'marok the Ravager inside the cave in Dunemaul Compound (41.46, 57.78)|
+K Searing Roc |QID|1452| |OIDX|1| |N|Kill Searing Roc and collect 3 Roc Gizzard (42.2, 63.78)|  |L|6257 3|
 C The Dunemaul Compound |QID|5863| |N|Kill 10 Dunemaul Brute, 10 Dunemaul Enforcer and Gor'marok the Ravager in Dunemaul Compound (40.43, 55.72) (40.56, 72.71) (47.02, 65.85)|
 R Dunemaul Compound |QID|5863| |N|Travel to Dunemaul Compound (41.09, 57.39)|
 C Gahz'ridian |QID|3161| |N|Equip the Gahz'ridian Detector to find 30 Gahz'ridian Ornament all over Tanaris and especially near the Eastmoon Ruins (40.43, 55.72) (40.56, 72.71) (47.02, 65.85)| |U|9978| |OBJ|1767|

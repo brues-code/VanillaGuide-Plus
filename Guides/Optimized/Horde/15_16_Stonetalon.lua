@@ -17,7 +17,7 @@ C Avenge My Village |QID|6548| |N|Kill 8 Grimtotem Ruffian and 6 Grimtotem Merce
 T Avenge My Village |QID|6548| |N|Makaba Flathoof in The Barrens (35.23, 27.79)| |Z|The Barrens|
 A Kill Grundig Darkcloud |QID|6629| |N|Makaba Flathoof in The Barrens (35.23, 27.79)| |Z|The Barrens|
 
-K Grundig Darkcloud |QID|6629.1| |N|Kill Grundig Darkcloud and 6 Grimtotem Brute at the Grimtotem Post (71.5, 87.08) (73.6, 86.1)| |Z|Stonetalon Mountains|
+C Grundig Darkcloud |QID|6629| |OIDX|1| |N|Kill Grundig Darkcloud and 6 Grimtotem Brute at the Grimtotem Post (71.5, 87.08) (73.6, 86.1)| |Z|Stonetalon Mountains|
 A Protect Kaya |QID|6523| |N|Kaya Flathoof in Grimtotem Post (73.49, 85.65)| |Z|Stonetalon Mountains|
 C Protect Kaya |QID|6523| |N|Escort Kaya Flathoof until objective is complete in Camp Aparaje. 3 Mobs will ambush near the end of the escort (71.5, 87.08) (77.55, 90.73)| |Z|Stonetalon Mountains|
 K Grimtotem Brute |QID|6629| |N|Kill 6 Grimtotem Brute at the Grimtotem Post (77.55, 90.73)| |Z|Stonetalon Mountains|

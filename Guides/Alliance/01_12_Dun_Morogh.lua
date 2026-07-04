@@ -49,9 +49,9 @@ T Scalding Mornbrew Delivery |QID|3364| |N|Durnan Furcutter in Coldridge Valley 
 A Bring Back the Mug |QID|3365| |N|Durnan Furcutter in Coldridge Valley (28.75, 616.36)|
 
 T Bring Back the Mug |QID|3365| |N|Nori Pridedrift in Coldridge Valley (25.00, 75.94)|
-N Felix's Box |QID|3361.1| |N|Collect Felix's Box from the ground at the troll camp (20.9, 76.1)|
-N Felix's Chest |QID|3361.2| |N|Collect Felix's Chest from the ground at the troll camp (22.8, 79.9)|
-N Felix's Bucket of Bolts |QID|3361.3| |N|Collect Felix's Bucket of Bolts from the ground at the troll camp (26.3, 79.3)|
+C Felix's Box |QID|3361| |OIDX|1| |N|Collect Felix's Box from the ground at the troll camp (20.9, 76.1)|
+C Felix's Chest |QID|3361| |OIDX|2| |N|Collect Felix's Chest from the ground at the troll camp (22.8, 79.9)|
+C Felix's Bucket of Bolts |QID|3361| |OIDX|3| |N|Collect Felix's Bucket of Bolts from the ground at the troll camp (26.3, 79.3)|
 C Beginnings |QID|1599| |N|Kill Frostmane Novice for 3 in Coldridge Valley, go into the cave and follow the path to the left, there are only 3 Frostmane Novice inside the cave total (26.79, 79.71) (28.10, 80.12) (30.37, 79.71) (29.41, 81.07)| |Z|Dun Morogh| |C|Warlock|
 C The Troll Cave |QID|182| |N|Kill 14 Frostmane Troll Whelp in Coldridge Valley (26, 78)|
 T The Troll Cave |QID|182| |N|Grelin Whitebeard in Coldridge Valley (25.10, 75.76)|
@@ -87,14 +87,14 @@ C The Grizzled Den |QID|313| |N|Kill Young Wendigo and Wendigo to gather 8 Wendi
 T Ammo for Rumbleshot |QID|5541| |N|Hegnar Rumbleshot in Dun Morogh (40.69, 65.14)|
 
 C Stocking Jetsteam |QID|317| |N|Kill Dire Mottled Boar to collect 4 Chunk of Boar Meat and Young Black Bear to collect 2 Thick Bear Fur (50, 52)|
-K Elder Crag Boar |QID|384.1| |N|Kill nearby Elder Crag Boar or any boar for Crag Boar Rib (45.22, 45.27)|
+C Elder Crag Boar |QID|384| |OIDX|1| |N|Kill nearby Elder Crag Boar or any boar for Crag Boar Rib (45.22, 45.27)|
 
 R Steelgrill's Depot |QID|318| |N|Travel to Steelgrill's Depot (49.66, 48.57)|
 T The Grizzled Den |QID|313| |N|Pilot Stonegear in Steelgrill's Depot (49.66, 48.57)|
 T Stocking Jetsteam |QID|317| |N|Pilot Bellowfiz in Steelgrill's Depot (49.49, 48.37)|
 A Evershine |QID|318| |N|Pilot Bellowfiz in Steelgrill's Depot (49.49, 48.37)|
 
-B Rhapsody Malt |QID|384.2| |N|Speak to Innkeeper Belm and buy Rhapsody Malt in Thunderbrew Distillery (47.4, 52.5)| |L|2894|
+B Rhapsody Malt |QID|384| |OIDX|2| |N|Speak to Innkeeper Belm and buy Rhapsody Malt in Thunderbrew Distillery (47.4, 52.5)| |L|2894|
 T Beer Basted Boar Ribs |QID|384| |N|Ragnar Thunderbrew in Kharanos (46.81, 52.37)|
 A Frostmane Hold |QID|287| |N|Senir Whitebeard in Kharanos (46.66, 53.83)|
 A Operation Recombobulation |QID|412| |N|Razzle Sprysprocket in Kharanos (45.8, 49.2)|

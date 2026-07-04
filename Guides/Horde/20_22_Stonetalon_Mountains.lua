@@ -23,8 +23,8 @@ T The Binding |QID|1513| |N|Gan'rul Bloodeye in Cleft of Shadow (48.17, 45.40)| 
 A Devourer of Souls |QID|1472| |N|Carendin Halgar in Magic Quarter (84.97, 25.92)| |C|Warlock| |R|Scourge, Undead| |Z|Undercity|
 T Devourer of Souls |QID|1472| |N|Godrick Farsan in Magic Quarter (84.97, 14.83)| |C|Warlock| |R|Scourge, Undead| |Z|Undercity|
 A Hearts of the Pure |QID|1476| |N|Godrick Farsan in Magic Quarter (84.97, 14.83)| |C|Warlock| |R|Scourge, Undead| |Z|Undercity|
-K Dalin Forgewright |QID|1476.1| |N|Kill Dalin Forgewright in The Greymane Wall (46.47, 84.58)| |C|Warlock| |R|Scourge, Undead| |Z|Silverpine Forest|
-K Comar Villard |QID|1476.2| |N|Kill Comar Villard in Thandol Span (49.90, 12.60)| |C|Warlock| |R|Scourge, Undead| |Z|Wetlands|
+C Dalin Forgewright |QID|1476| |OIDX|1| |N|Kill Dalin Forgewright in The Greymane Wall (46.47, 84.58)| |C|Warlock| |R|Scourge, Undead| |Z|Silverpine Forest|
+C Comar Villard |QID|1476| |OIDX|2| |N|Kill Comar Villard in Thandol Span (49.90, 12.60)| |C|Warlock| |R|Scourge, Undead| |Z|Wetlands|
 T Hearts of the Pure |QID|1476| |N|Carendin Halgar in Magic Quarter (85.15, 26.00)| |C|Warlock| |R|Scourge, Undead| |Z|Undercity|
 A The Binding |QID|1474| |N|Carendin Halgar in Magic Quarter (85.15, 26.00)| |C|Warlock| |R|Scourge, Undead| |Z|Undercity|
 C The Binding |QID|1474| |N|Using the Pure Hearts summon and subdue a Summoned Succubus in Magic Quarter (86.43, 27.03)| |C|Warlock| |R|Scourge, Undead| |Z|Undercity|
@@ -104,9 +104,9 @@ A Boulderslide Ravine |QID|6421| |N|Mor'rogal in Sun Rock Retreat (44.63, 61.79)
 A Trouble in the Deeps |QID|6562| |N|Tsunaman in Sun Rock Retreat (47.27, 64.26)|
 
 R Boulderslide Cavern |QID|6421| |N|Travel to Boulderslide Cavern (49.56, 61.06) (66.89, 88.83) (61.80, 93.06)|
-N As you go... |AYG|6421| |QID|6421.1| |N|Click Item Resonite Crystal and collect 10 Resonite Crystal| |OBJ|5011|
-N Investigate Cave |QID|6421.2| |N|Investigate Cave in Boulderslide Cavern (58.88, 90.37)|
-R Boulderslide Cavern |QID|6421.2| |N|Travel to Boulderslide Cavern (58.88, 90.37)|
+C As you go... |AYG|6421| |QID|6421| |OIDX|1| |N|Click Item Resonite Crystal and collect 10 Resonite Crystal| |OBJ|5011|
+C Investigate Cave |QID|6421| |OIDX|2| |N|Investigate Cave in Boulderslide Cavern (58.88, 90.37)|
+R Boulderslide Cavern |QID|6421| |OIDX|2| |N|Travel to Boulderslide Cavern (58.88, 90.37)|
 C Boulderslide Ravine |QID|6421| |N|Click Item Resonite Crystal and collect 10 Resonite Crystal in Boulderslide Cavern (61, 91)|  |OBJ|5011|
 
 R Greatwood Vale |OID|1068| |N|Travel to Greatwood Vale (71.87, 90.30)|
@@ -115,7 +115,7 @@ T Goblin Invaders |QID|1062| |N|Seereth Stonebreak in The Barrens (35.29, 27.87)
 A The Elder Crone |QID|1063| |N|Seereth Stonebreak in The Barrens (35.29, 27.87)| |Z|The Barrens|
 A Shredding Machines |QID|1068| |N|Seereth Stonebreak in The Barrens (35.29, 27.87)| |Z|The Barrens|
 
-K Lost Barrens Kodo |QID|822.3| |N|Kill Lost Barrens Kodo and collect Kodo Liver. Note: the drop rate is quite low, if you're not having any luck after kill 20 or so kodos you should consider giving up and abandon the quest (41.87, 21.55)| |Z|The Barrens| |PRE|821|
+K Lost Barrens Kodo |QID|822| |OIDX|3| |N|Kill Lost Barrens Kodo and collect Kodo Liver. Note: the drop rate is quite low, if you're not having any luck after kill 20 or so kodos you should consider giving up and abandon the quest (41.87, 21.55)| |Z|The Barrens| |PRE|821|
 T Wenikee Boltbucket |QID|3921| |N|Wenikee Boltbucket in The Mor'shan Rampart (39.32, 24.68) (43.78, 18.98) (49.02, 11.17)| |Z|The Barrens| |O|
 A Report to Kadrak |QID|6541| |N|Thork in The Crossroads (51.50, 30.85)| |Z|The Barrens|
 T Report to Kadrak |QID|6541| |N|Kadrak in The Mor'shan Rampart (48.14, 5.41)| |Z|The Barrens| |O|

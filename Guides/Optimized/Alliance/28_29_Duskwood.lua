@@ -31,7 +31,7 @@ T Look To The Stars (Part 2) |QID|175| |N|Blind Mary in Tranquil Gardens Cemeter
 A Look To The Stars (Part 3) |QID|177| |N|Blind Mary in Tranquil Gardens Cemetery (81.80, 59.29)|
 
 C Look To The Stars (Part 3) |QID|177| |N|Kill Insane Ghoul and collect Mary's Looking Glass (78, 70)|
-N Skeleton Finger |QID|101.3| |N|Collect 10 Skeleton Finger from skeletons (76.89, 72.07)|
+C Skeleton Finger |QID|101| |OIDX|3| |N|Collect 10 Skeleton Finger from skeletons (76.89, 72.07)|
 C The Night Watch (Part 1) |QID|56| |N|Kill 8 Skeletal Warrior and 6 Skeletal Mage|
 
 R The Rotting Orchard |QID|173| |N|Travel to The Rotting Orchard (63, 70)|
@@ -65,9 +65,9 @@ C The Night Watch (Part 2) |QID|57| |N|Kill 15 Skeletal Fiend and 15 Skeletal Ho
 T The Hermit |QID|165| |N|Abercrombie in Raven Hill Cemetery (27.98, 31.51)|
 A Supplies from Darkshire |QID|148| |N|Abercrombie in Raven Hill Cemetery (27.98, 31.51)|
 
-N Vial of Spider Venom |QID|101.2| |N|Kill Black Widow Hatchling for 5 Vial of Spider Venom (29.26, 51.80)|
+C Vial of Spider Venom |QID|101| |OIDX|2| |N|Kill Black Widow Hatchling for 5 Vial of Spider Venom (29.26, 51.80)|
 N Gooey Spider Leg |QID|93| |N|Collect 6 Gooey Spider Leg for a later quest (29.26, 51.80)| |L|2251 6|
-N Ghoul Fang |QID|101.1| |N|Kill ghouls for 10 Ghoul Fang (25.79, 33.39)|
+C Ghoul Fang |QID|101| |OIDX|1| |N|Kill ghouls for 10 Ghoul Fang (25.79, 33.39)|
 
 R Forlorn Rowe |QID|225| |N|Travel to Forlorn Rowe (17.68, 29.15)|
 A The Weathered Grave |QID|225| |N|A Weathered Grave (17.68, 29.15)|

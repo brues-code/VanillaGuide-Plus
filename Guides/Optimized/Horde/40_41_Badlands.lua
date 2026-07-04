@@ -51,13 +51,13 @@ C Study of the Elements: Rock (Part 1) |QID|710| |N|Kill the Lesser Rock Element
 T Study of the Elements: Rock (Part 1) |QID|710| |N|Lotwil Veriatus in The Dustbowl (25.91, 44.91)| |Z|Badlands|
 A Study of the Elements: Rock (Part 2) |QID|711| |N|Lotwil Veriatus in The Dustbowl (25.91, 44.91)| |Z|Badlands|
 C Study of the Elements: Rock (Part 2) |QID|711| |N|Kill Rock Elemental until you've collected 3 Large Stone Slab. They are found either further West or to the South of Badlands (15.52, 32.18)|
-N Rock Elemental Shard |QID|2258.3| |N|Kill Rock Elementals to collect 5 Rock Elemental Shard (15.52, 32.18)|
+C Rock Elemental Shard |QID|2258| |OIDX|3| |N|Kill Rock Elementals to collect 5 Rock Elemental Shard (15.52, 32.18)|
 T Study of the Elements: Rock (Part 2) |QID|711| |N|Lotwil Veriatus in The Dustbowl (25.91, 44.91)| |Z|Badlands|
 A Study of the Elements: Rock (Part 3) |QID|712| |N|Lotwil Veriatus in The Dustbowl (25.91, 44.91)| |Z|Badlands|
 
 N As you go... |AYG|782| |QID|1419| |N|Kill any Coyotes for 30 Coyote Jawbone and 10 Crag Coyote Fang|
 C Barbecued Buzzard Wings |QID|703| |N|Kill the Buzzards for 4 Buzzard Wing (15.10, 59.84)|
-N Buzzard Gizzard |QID|2258.1| |N|Kill any Buzzards and collect 5 Buzzard Gizzard in Apocryphan's Rest (15.10, 59.84)| |Z|Badlands|
+C Buzzard Gizzard |QID|2258| |OIDX|1| |N|Kill any Buzzards and collect 5 Buzzard Gizzard in Apocryphan's Rest (15.10, 59.84)| |Z|Badlands|
 
 R Camp Cagg |QID|712| |N|Travel to Camp Cagg (17.03, 84.40)|
 C Study of the Elements: Rock (Part 3) |QID|712| |N|Kill the Greater Rock Elemental and collect 5 Bracers of Rock Binding in Camp Cagg. Drop rate is high, avoid the level 44 Greater Rock Elemental (17.03, 84.40)|

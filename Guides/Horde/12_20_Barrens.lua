@@ -89,17 +89,17 @@ R Shrine of the Dormant Flame |OID|1525| |N|Travel to Shrine of the Dormant Flam
 T Call of Fire (Part 2) |QID|1524| |N|Telf Joolam in Shrine of the Dormant Flame (36.86, 59.05) (37.01, 58.14) (38.95, 57.56) (39.17, 58.66) (38.57, 58.96)| |C|Shaman| |Z|Durotar|
 A Call of Fire (Part 3) |QID|1525| |N|Telf Joolam in Shrine of the Dormant Flame (38.57, 58.96)| |C|Shaman| |Z|Durotar|
 
-R Thorn Hill |QID|1525.1| |N|Travel to Thorn Hill (56.94, 24.33)| |C|Shaman|
-K Razormane Geomancer |QID|1525.1| |N|Kill Razormane Geomancer and collect Fire Tar in Thorn Hill (56.94, 24.33)| |C|Shaman|
+R Thorn Hill |QID|1525| |OIDX|1| |N|Travel to Thorn Hill (56.94, 24.33)| |C|Shaman|
+C Razormane Geomancer |QID|1525| |OIDX|1| |N|Kill Razormane Geomancer and collect Fire Tar in Thorn Hill (56.94, 24.33)| |C|Shaman|
 
-R Razor Hill |QID|1525.2| |N|Travel to Razor Hill (54.10, 40.78)| |C|Shaman| |Z|Durotar|
-R Dustwind Cave |QID|1525.2| |N|Travel to Dustwind Cave (54.10, 40.78) (54.05, 37.28) (52.87, 29.04)| |C|Shaman| |Z|Durotar|
-K Burning Blade Cultist |QID|1525.2| |N|Kill Burning Blade Cultist and collect a Reagent Pouch in Dustwind Cave (52.55, 26.65)| |C|Shaman| |Z|Durotar|
+R Razor Hill |QID|1525| |OIDX|2| |N|Travel to Razor Hill (54.10, 40.78)| |C|Shaman| |Z|Durotar|
+R Dustwind Cave |QID|1525| |OIDX|2| |N|Travel to Dustwind Cave (54.10, 40.78) (54.05, 37.28) (52.87, 29.04)| |C|Shaman| |Z|Durotar|
+C Burning Blade Cultist |QID|1525| |OIDX|2| |N|Kill Burning Blade Cultist and collect a Reagent Pouch in Dustwind Cave (52.55, 26.65)| |C|Shaman| |Z|Durotar|
 
 R Shrine of the Dormant Flame |QID|1526| |N|Travel to Shrine of the Dormant Flame (36.60, 57.10) (36.58, 58.25) (36.86, 59.05)| |C|Shaman| |Z|Durotar|
 T Call of Fire (Part 3) |QID|1525| |N|Telf Joolam in Shrine of the Dormant Flame (36.86, 59.05) (37.01, 58.14) (38.95, 57.56) (39.17, 58.66) (38.55, 58.96)| |C|Shaman| |Z|Durotar|
 A Call of Fire (Part 4) |QID|1526| |N|Telf Joolam in Shrine of the Dormant Flame (38.55, 58.96)| |C|Shaman| |Z|Durotar|
-N Fire Sapta |QID|1526.1| |N|Use Fire Sapta to gain the (spell:9735) buff (38.67, 58.32)| |C|Shaman| |Z|Durotar| |U|6636| |BUFF|132092|
+C Fire Sapta |QID|1526| |OIDX|1| |N|Use Fire Sapta to gain the (spell:9735) buff (38.67, 58.32)| |C|Shaman| |Z|Durotar| |U|6636| |BUFF|132092|
 C Call of Fire (Part 4) |QID|1526| |N|Defeat the Minor Manifestation of Fire n Shrine of the Dormant Flame (38.67, 58.32)| |C|Shaman| |Z|Durotar|
 T Call of Fire (Part 4) |QID|1526| |N|Brazier of the Dormant flame in Shrine of the Dormant Flame (38.92, 58.24)| |C|Shaman| |Z|Durotar|
 A Call of Fire (Part 5) |QID|1527| |N|Brazier of the Dormant flame in Shrine of the Dormant Flame (38.92, 58.24)| |C|Shaman| |Z|Durotar|
@@ -124,7 +124,7 @@ T Disrupt the Attacks |QID|871| |N|Thork in The Crossroads (51.53, 30.85)|
 A The Disruption Ends |QID|872| |N|Thork in The Crossroads (51.53, 30.85)|
 
 N As you go... |AYG|872| |QID|869| |N|Kill any Raptors for 12 Raptor Head|
-K Kreenig Snarlsnout |QID|872.3| |N|Kill Kreenig Snarlsnout and collect Kreenig Snarlsnout's Tusk in Thorn Hill (58.6, 27.2)|
+C Kreenig Snarlsnout |QID|872| |OIDX|3| |N|Kill Kreenig Snarlsnout and collect Kreenig Snarlsnout's Tusk in Thorn Hill (58.6, 27.2)|
 C Supplies for the Crossroads |QID|5041| |N|Collect Crossroads' Supply Crates from the ground in Thorn Hill (58.84, 27.37)|  |OBJ|36|
 C The Disruption Ends |QID|872| |N|Kill 8 Razormane Geomancer, 8 Razormane Defender in Thorn Hill (58.84, 23.73)|
 
@@ -154,8 +154,8 @@ T The Missing Shipment (Part 2) |QID|892| |N|Gazlowe in Ratchet (62.66, 36.26)|
 A Stolen Booty |QID|888| |N|Gazlowe in Ratchet (62.66, 36.26)|
 
 R The Merchant Coast |QID|888| |N|Travel to The Merchant Coast (63.59, 49.28)|
-N Telescopic Lens |QID|888.2| |N|Click on Fragile - Do Not Drop to collect Telescopic Lens in The Merchant Coast (63.59, 49.28) (63.59, 49.28)|
-N Shipment of Boots |QID|888.1| |N|Click on Drizzlik's Emporium to collect Shipment of Boots in The Merchant Coast (62.61, 49.74) (62.61, 49.62)|
+C Telescopic Lens |QID|888| |OIDX|2| |N|Click on Fragile - Do Not Drop to collect Telescopic Lens in The Merchant Coast (63.59, 49.28) (63.59, 49.28)|
+C Shipment of Boots |QID|888| |OIDX|1| |N|Click on Drizzlik's Emporium to collect Shipment of Boots in The Merchant Coast (62.61, 49.74) (62.61, 49.62)|
 
 R The Crossroads |QID|870| |N|Travel to The Crossroads (51.53, 30.85)|
 T The Disruption Ends |QID|872| |N|Thork in The Crossroads (51.53, 30.85)|
@@ -198,11 +198,11 @@ T Centaur Bracers |QID|855| |N|Regthar Deathgate in the bunkers west of The Cros
 
 R The Barrens |QID|867| |N|Travel to The Barrens (42.87, 23.52)|
 C The Zhevra |QID|845| |N|Kill Zhevra Runner for 4 Zhevra Hooves in The Barrens (45.79, 30.02)|
-K Greater Plainstrider |QID|821.2| |N|Kill Greater Plainstrider and collect 5 Plainstrider Kidney in The Barrens (47.27, 14.20)| |PRE|819|
-K Savannah Prowler |QID|821.1| |N|Kill Savannah Prowler and collect 5 Savannah Lion Tusk in The Barrens (40.80, 26.39)| |PRE|819|
+C Greater Plainstrider |QID|821| |OIDX|2| |N|Kill Greater Plainstrider and collect 5 Plainstrider Kidney in The Barrens (47.27, 14.20)| |PRE|819|
+C Savannah Prowler |QID|821| |OIDX|1| |N|Kill Savannah Prowler and collect 5 Savannah Lion Tusk in The Barrens (40.80, 26.39)| |PRE|819|
 
-K Lost Barrens Kodo |QID|6128.2| |N|Find and kill Lost Barrens Kodo and collect 5 Kodo Horn, the Kodos are very scattered around The Barrens it will take a while to complete this quest<br/><b>Gather 5 Earthroot with (spell:2366) in The Barrens or purchase from the auction house (54.46, 40.42) (54.74, 39.69) (52.60, 43.36) (42.38, 37.63)| |C|Druid| |Z|The Barrens|
-N 5 Earthroot |QID|6123.1| |N|Gather 5 Earthroot with (spell:2366) in The Barrens or purchase from the auction house| |C|Druid| |Z|The Barrens|
+C Lost Barrens Kodo |QID|6128| |OIDX|2| |N|Find and kill Lost Barrens Kodo and collect 5 Kodo Horn, the Kodos are very scattered around The Barrens it will take a while to complete this quest<br/><b>Gather 5 Earthroot with (spell:2366) in The Barrens or purchase from the auction house (54.46, 40.42) (54.74, 39.69) (52.60, 43.36) (42.38, 37.63)| |C|Druid| |Z|The Barrens|
+N 5 Earthroot |QID|6123| |OIDX|1| |N|Gather 5 Earthroot with (spell:2366) in The Barrens or purchase from the auction house| |C|Druid| |Z|The Barrens|
 
 R Honor's Stand |QID|1062| |N|Take the road west out of the Crossroads to the edge of Stonetalon Mountains (35.29, 27.87)| |Z|The Barrens| |REACH|
 A Goblin Invaders |QID|1062| |N|Seereth Stonebreak in The Barrens (35.29, 27.87)| |Z|The Barrens|
@@ -210,7 +210,7 @@ A Avenge My Village |QID|6548| |N|Makaba Flathoof in The Barrens (35.23, 27.79)|
 C Avenge My Village |QID|6548| |N|Kill 8 Grimtotem Ruffian and 6 Grimtotem Mercenary in the Greatwood Vale (81, 91)| |Z|Stonetalon Mountains|
 T Avenge My Village |QID|6548| |N|Makaba Flathoof in The Barrens (35.23, 27.79)| |Z|The Barrens|
 A Kill Grundig Darkcloud |QID|6629| |N|Makaba Flathoof in The Barrens (35.23, 27.79)| |Z|The Barrens|
-K Grundig Darkcloud |QID|6629.1| |N|Kill Grundig Darkcloud and 6 Grimtotem Brute at the Grimtotem Post (71.5, 87.08) (73.6, 86.1)| |Z|Stonetalon Mountains|
+C Grundig Darkcloud |QID|6629| |OIDX|1| |N|Kill Grundig Darkcloud and 6 Grimtotem Brute at the Grimtotem Post (71.5, 87.08) (73.6, 86.1)| |Z|Stonetalon Mountains|
 A Protect Kaya |QID|6523| |N|Kaya Flathoof in Grimtotem Post (73.49, 85.65)| |Z|Stonetalon Mountains|
 C Protect Kaya |QID|6523| |N|Escort Kaya Flathoof until objective is complete in Camp Aparaje. 3 Mobs will ambush near the end of the escort, Kaya Flathoof will be able to solo 1 mob on her own (71.5, 87.08) (77.55, 90.73)| |Z|Stonetalon Mountains|
 K Grimtotem Brute |QID|6629| |N|Kill 6 Grimtotem Brute at the Grimtotem Post (77.55, 90.73)| |Z|Stonetalon Mountains|
@@ -263,9 +263,9 @@ A Trial of the Sea Lion |QID|30| |N|Tajarri in Shrine of Remulos (36.51, 40.16)|
 R The Sludge Fen |QID|858| |N|Travel to The Sludge Fen (52.5, 11.7)| |REACH|
 T Samophlange (Part 1) |QID|894| |N|Control Console in The Sludge Fen (52.5, 11.7)|
 A Samophlange (Part 2) |QID|900| |N|Control Console in The Sludge Fen (52.5, 11.7)|
-C Shut off Fuel Control Valve |QID|900.2| |N|Click Regulator Valve in The Sludge Fen (52.39, 11.37)|
-C Shut off Regulator Valve |QID|900.3| |N|Click Regulator Valve in The Sludge Fen (52.29, 11.39)|
-C Shut off Main Control Valve |QID|900.1| |N|Click Main Control Valve in The Sludge Fen (52.31, 11.61)|
+C Shut off Fuel Control Valve |QID|900| |OIDX|2| |N|Click Regulator Valve in The Sludge Fen (52.39, 11.37)|
+C Shut off Regulator Valve |QID|900| |OIDX|3| |N|Click Regulator Valve in The Sludge Fen (52.29, 11.39)|
+C Shut off Main Control Valve |QID|900| |OIDX|1| |N|Click Main Control Valve in The Sludge Fen (52.31, 11.61)|
 N Half Pendant of Aquatic Agility |QID|30| |N|Collect Half Pendant of Aquatic Agility from the Strange Lockbox in The Sludge Fen (56.67, 8.33)| |C|Druid| |Z|The Barrens| |L|15883|
 T Samophlange (Part 2) |QID|900| |N|Control Console in The Sludge Fen (52.5, 11.7)|
 A Samophlange (Part 3) |QID|901| |N|Control Console in The Sludge Fen (52.5, 11.7)|
@@ -336,14 +336,14 @@ C Hezrul Bloodmark |QID|852| |N|Kill Hezrul Bloodmark by the oasis and collect H
 
 R Raptor Grounds |QID|3281| |N|Travel to Raptor Grounds (58.02, 53.90)|
 C Stolen Silver |QID|3281| |N|Collect the Stolen Silver from the Stolen Silver Chest in Raptor Grounds (58.02, 53.90)| |OBJ|10|
-N Visit Blue Raptor Nest |QID|905.1| |N|Kill Sunscale Scytheclaw for Sunscale Feather then click on the Blue Raptor Nest in Raptor Grounds (52.62, 46.14)| |U|5165|
-N Visit Red Raptor Nest |QID|905.3| |N|Kill Sunscale Scytheclaw for Sunscale Feather then click on the Red Raptor Nest in Raptor Grounds (52.47, 46.60)| |U|5165|
-N Visit Yellow Raptor Nest |QID|905.2| |N|Kill Sunscale Scytheclaw for Sunscale Feather then click on the Yellow Raptor Nest in Raptor Grounds (52.03, 46.53)| |U|5165|
+C Visit Blue Raptor Nest |QID|905| |OIDX|1| |N|Kill Sunscale Scytheclaw for Sunscale Feather then click on the Blue Raptor Nest in Raptor Grounds (52.62, 46.14)| |U|5165|
+C Visit Red Raptor Nest |QID|905| |OIDX|3| |N|Kill Sunscale Scytheclaw for Sunscale Feather then click on the Red Raptor Nest in Raptor Grounds (52.47, 46.60)| |U|5165|
+C Visit Yellow Raptor Nest |QID|905| |OIDX|2| |N|Kill Sunscale Scytheclaw for Sunscale Feather then click on the Yellow Raptor Nest in Raptor Grounds (52.03, 46.53)| |U|5165|
 R The Barrens |QID|865| |N|Travel to The Barrens (52.03, 46.53)| |Z|The Barrens| |REACH|
 C Raptor Horns |QID|865| |N|Kill Sunscale Scytheclaw and collect 5 Intact Raptor Horn at the Raptor Grounds (52.03, 46.53)| |Z|The Barrens|
 
 C Lost in Battle |QID|4921| |N|Find Beaten Corpse in Southern Barrens (49.34, 50.37)|
-K Stormsnout |QID|821.3| |N|Kill Stormsnout and collect Thunder Lizard Horn in Southern Barrens (48.27, 50.53)| |PRE|819|
+C Stormsnout |QID|821| |OIDX|3| |N|Kill Stormsnout and collect Thunder Lizard Horn in Southern Barrens (48.27, 50.53)| |PRE|819|
 
 R Camp Taurajo |QID|878| |N|Travel to Camp Taurajo (44.6, 59.2)|
 f Camp Taurajo |QID|878| |N|Speak to Omusa Thunderhorn and grab flight path for Camp Taurajo (44.5, 59.1)|
@@ -388,10 +388,10 @@ A Nara Wildmane |QID|1490| |N|Arch Druid Hamuul Runetotem in Elder Rise (78.53, 
 T Nara Wildmane |QID|1490| |N|Arch Druid Hamuul Runetotem in Elder Rise (75.69, 31.53)| |Z|Thunder Bluff|
 
 R Northwatch Hold |TID|852| |N|Travel to Northwatch Hold (65.67, 46.45) (62.23, 53.37)|
-K Captain Fairmount |QID|891.1| |N|Kill Captain Fairmount in Northwatch Hold (61.31, 53.94) (62.00, 54.99)|
-K Cannoneer Smythe |QID|891.3| |N|Kill Cannoneer Smythe in Northwatch Hold (63.03, 56.68)|
-K Cannoneer Whessan |QID|891.2| |N|Kill Cannoneer Whessan in Northwatch Hold (60.49, 54.79)|
-C The Guns of Northwatch |QID|891.4| |N|Kill Theramore Marine or Theramore Preserver and collect 10 Theramore Medal from in Northwatch Hold (61.44, 53.70)|
+C Captain Fairmount |QID|891| |OIDX|1| |N|Kill Captain Fairmount in Northwatch Hold (61.31, 53.94) (62.00, 54.99)|
+C Cannoneer Smythe |QID|891| |OIDX|3| |N|Kill Cannoneer Smythe in Northwatch Hold (63.03, 56.68)|
+C Cannoneer Whessan |QID|891| |OIDX|2| |N|Kill Cannoneer Whessan in Northwatch Hold (60.49, 54.79)|
+C The Guns of Northwatch |QID|891| |OIDX|4| |N|Kill Theramore Marine or Theramore Preserver and collect 10 Theramore Medal from in Northwatch Hold (61.44, 53.70)|
 A Free From the Hold |QID|898| |N|Gilthares Firebough in Northwatch Hold (61.94, 54.92). This quest may not be available if someone else started the quest and can be difficult to solo. Safe to skip|
 C Free From the Hold |QID|898| |N|Safely escort Gilthares Firebough back to Captain Brightsun in Ratchet. This can be difficult to solo. Safe to skip if you fail (62.32, 39.20)|
 T Free From the Hold |QID|898| |N|Captain Thalo'thas Brightsun in Ratchet (62.29, 39.07)|

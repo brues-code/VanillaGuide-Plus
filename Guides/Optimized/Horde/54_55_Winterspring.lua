@@ -32,17 +32,17 @@ C Strange Sources |QID|4842| |N|Go south-east and discover Darkwhisper Gorge (60
 
 R Winterfall Village |QID|8464| |N|Travel north-east of Everlook to Winterfall Village (67.13, 35.93)| |Z|Winterspring|
 C Winterfall Activity |QID|8464| |N|Kill the required Winterfall furbolg (67.13, 35.93)| |Z|Winterspring|
-C Threat of the Winterfall |QID|5082.2| |N|Kill 8 Winterfall Den Watcher (66.94, 34.82)| |Z|Winterspring|
+C Threat of the Winterfall |QID|5082| |OIDX|2| |N|Kill 8 Winterfall Den Watcher (66.94, 34.82)| |Z|Winterspring|
 N Empty Firewater Flask |QID|5083| |N|Collect Empty Firewater Flask from Winterfall furbolgs (67.13, 35.93)| |Z|Winterspring| |L|12771|
 A Winterfall Firewater |QID|5083| |N|Use Empty Firewater Flask to accept quest| |Z|Winterspring| |U|12771|
 
 R Timbermaw Post |QID|5082| |N|Travel to Timbermaw Post (40.69, 42.87)| |Z|Winterspring|
-C Threat of the Winterfall |QID|5082.1| |N|Kill 8 Winterfall Pathfinder (40.69, 42.87) (30.76, 36.53)| |Z|Winterspring|
-C Threat of the Winterfall |QID|5082.3| |N|Kill 8 Winterfall Totemic (30.76, 36.53)| |Z|Winterspring|
+C Threat of the Winterfall |QID|5082| |OIDX|1| |N|Kill 8 Winterfall Pathfinder (40.69, 42.87) (30.76, 36.53)| |Z|Winterspring|
+C Threat of the Winterfall |QID|5082| |OIDX|3| |N|Kill 8 Winterfall Totemic (30.76, 36.53)| |Z|Winterspring|
 
 N As you go... |AYG|4521| |QID|3783| |N|Kill Rogue Ice Thistle and collect 10 Thick Yeti Fur|
-K Raging Owlbeast |QID|4521.1| |N|Kill 15 Raging Owlbeast (62.13, 31.76) (54.44, 28.15)| |Z|Winterspring|
-K Ragged Owlbeast |QID|4521.2| |N|Start killing 15 Ragged Owlbeast (54.06, 37.26) (44.68, 43.33)| |Z|Winterspring| |REACH|
+K Raging Owlbeast |QID|4521| |OIDX|1| |N|Kill 15 Raging Owlbeast (62.13, 31.76) (54.44, 28.15)| |Z|Winterspring|
+K Ragged Owlbeast |QID|4521| |OIDX|2| |N|Start killing 15 Ragged Owlbeast (54.06, 37.26) (44.68, 43.33)| |Z|Winterspring| |REACH|
 
 R Frostfire Hot Springs |QID|5082| |N|Return to Frostfire Hot Springs (31.28, 45.17)| |Z|Winterspring|
 T Strange Sources |QID|4842| |N|Donova Snowden in Frostfire Hot Springs (31.27, 45.17)| |Z|Winterspring| |PRE|980|
@@ -50,7 +50,7 @@ T Winterfall Firewater |QID|5083| |N|Donova Snowden in Frostfire Hot Springs (31
 A Falling to Corruption |QID|5084| |N|Donova Snowden in Frostfire Hot Springs (31.27, 45.17)| |Z|Winterspring|
 T Threat of the Winterfall |QID|5082| |N|Donova Snowden in Frostfire Hot Springs (31.28, 45.17)| |Z|Winterspring|
 
-K Ragged Owlbeast |QID|4521.2| |N|Finish killing 15 Ragged Owlbeast (38.77, 37.96) (49.78, 40.11)| |Z|Winterspring| |REACH|
+K Ragged Owlbeast |QID|4521| |OIDX|2| |N|Finish killing 15 Ragged Owlbeast (38.77, 37.96) (49.78, 40.11)| |Z|Winterspring| |REACH|
 
 R Ice Thistle Hills |QID|3783| |N|Travel to Ice Thistle Hills (71.57, 39.08)| |Z|Winterspring|
 C Are We There, Yeti? (Part 1) |QID|3783| |N|Kill Ice Thistle Yeti for 10 Thick Yeti Fur (71.57, 39.08)| |Z|Winterspring|
@@ -65,7 +65,7 @@ C Are We There, Yeti? (Part 2) |QID|977| |N|Kill Ice Thistle Matriarch or Patria
 R Everlook |QID|977| |N|Return to Everlook (60.89, 37.64)| |Z|Winterspring|
 T Are We There, Yeti? (Part 2) |QID|977| |N|Umi Rumplesnicker in Everlook (60.88, 37.63)| |Z|Winterspring|
 A Are We There, Yeti? (Part 3) |QID|5163| |N|Umi Rumplesnicker in Everlook (60.9, 37.6)| |Z|Winterspring| |PRE|977|
-N Are We There, Yeti? |QID|5163.1| |N|Use Umi's Mechanical Yeti near Legacki in Everlook (61.53, 38.63)| |Z|Winterspring| |Q|Are We There, Yeti?||QO|Scare Legacki: 1/1|
+C Are We There, Yeti? |QID|5163| |OIDX|1| |N|Use Umi's Mechanical Yeti near Legacki in Everlook (61.53, 38.63)| |Z|Winterspring| |Q|Are We There, Yeti?||QO|Scare Legacki: 1/1|
 
 A The Everlook Report |QID|6029| |N|Gregor Greystone in Everlook inn (61.35, 38.95)| |Z|Winterspring|
 A Duke Nicholas Zverenhoff |QID|6030| |N|Gregor Greystone in Everlook inn (61.35, 38.95)| |Z|Winterspring|

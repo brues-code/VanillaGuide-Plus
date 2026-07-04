@@ -109,12 +109,12 @@ A The People's Militia (Part 2) |QID|13| |N|Gryan Stoutmantle in Sentinel Hill (
 N As you go... |AYG|151| |QID| |N|Kill Harvest Golem and collect 3 Okra and 5 Hops for a later quest|
 C Poor Old Blanchy |QID|151| |N|Collect 8 Handful of Oats from Sack of Oats on the ground in Saldean's Farm and The Molsen Farm (46.03, 38.32) (56.9, 19,3)|   |OBJ|252|
 T Poor Old Blanchy |QID|151| |N|Verna Furlbrow in The Jansen Stead (59.91, 19.37)|
-K Harvest Golem |QID|38.4| |N|Kill Harvest Golem and collect 3 Okra in Saldean's Farm. Also collect 5 Hops for a later quest (56.24, 35.47)|
+C Harvest Golem |QID|38| |OIDX|4| |N|Kill Harvest Golem and collect 3 Okra in Saldean's Farm. Also collect 5 Hops for a later quest (56.24, 35.47)|
 K Harvest Golem |QID|116| |N|Kill Harvest Golem and collect 5 Okra in Saldean's Farm for a later quest (56.24, 35.47)| |L|1274 5|
 N As you go... |AYG|102| |QID|22| |N|Kill Young Fleshripper and Young Goretusk you come across to collect 8 Goretusk Liver, 3 Goretusk Snout and 3 Stringy Vulture Meat, these items have low drop rate|
-C Patrolling Westfall |QID|102.1| |N|Kill Gnolls near The Jansen Stead and collect 8 Gnoll Paw (56.90, 13.43)|
+C Patrolling Westfall |QID|102| |OIDX|1| |N|Kill Gnolls near The Jansen Stead and collect 8 Gnoll Paw (56.90, 13.43)|
 
-N 3 Murloc Eye |QID|38.2| |N|Kill Murlocs in Longshore and collect 3 Murloc Eye (55.61, 9.02)|
+C 3 Murloc Eye |QID|38| |OIDX|2| |N|Kill Murlocs in Longshore and collect 3 Murloc Eye (55.61, 9.02)|
 N Captain Sander's Treasure Map |QID|136| |N|Kill Murlocs until you find Captain Sander's Treasure Map in Longshore. This is a very low drop rate; You can skip this if you don't get it quickly or buy it from the Auction House (56.61, 9.47)|
 A Captain Sander's Hidden Treasure (Part 1) |QID|136| |N|Use Captain Sander's Treasure Map to accept quest| |U|1357| |O|
 
@@ -168,21 +168,21 @@ T The Defias Brotherhood (Part 2) |QID|132| |N|Gryan Stoutmantle in Sentinel Hil
 A The Defias Brotherhood (Part 3) |QID|135| |N|Gryan Stoutmantle in Sentinel Hill (56.28, 47.53)|
 
 R Stormwind City |OID|121| |N|Travel to Stormwind City (64.04, 75.31)| |Z|Stormwind City|
-B Cask of Merlot |QID|116.2| |N|Buy Cask of Merlot from Roberto Pupellyverbos in Valley of Heroes (59.9, 76.7)| |Z|Stormwind City| |L|1941|
+B Cask of Merlot |QID|116| |OIDX|2| |N|Buy Cask of Merlot from Roberto Pupellyverbos in Valley of Heroes (59.9, 76.7)| |Z|Stormwind City| |L|1941|
 T Humble Beginnings |QID|399| |N|Baros Alexston in Cathedral Square (57.7, 47.9)| |Z|Stormwind City|
 T Stormpike's Order |QID|1338| |N|Furen Longbeard in the Dwarven District (64.6, 37.2)| |Z|Stormwind City|
 
 T The Defias Brotherhood (Part 3) |QID|135| |N|Master Mathias Shaw in SI:7 (78.3, 70.7)| |Z|Stormwind City|
 A The Defias Brotherhood (Part 4) |QID|141| |N|Master Mathias Shaw in SI:7 (78.3, 70.7)| |Z|Stormwind City|
 A Drones In Westfall |QID|41390| |N|Renzik /The Shiv/ in SI:7 (78.3, 71.1)| |Z|Stormwind City|
-B Captain Sander's Treasure Map |QID|116.2| |N|This is optional. If you didn't already get it and you have money to spare, purchase Captain Sander's Treasure Map from the Auction House (61.1, 71)| |Z|Stormwind City| |L|1357|
+B Captain Sander's Treasure Map |QID|116| |OIDX|2| |N|This is optional. If you didn't already get it and you have money to spare, purchase Captain Sander's Treasure Map from the Auction House (61.1, 71)| |Z|Stormwind City| |L|1357|
 T Messenger to Stormwind (Part 1) |QID|120| |N|General Marcus Jonathan in Valley of Heroes (69.2, 82.8)| |Z|Stormwind City|
 A Messenger to Stormwind (Part 2) |QID|121| |N|General Marcus Jonathan in Valley of Heroes (69.2, 82.8)| |Z|Stormwind City|
 
 R Goldshire |QID|119| |N|Travel to Goldshire (41.70, 65.53)| |Z|Elwynn Forest|
 T The Price of Shoes |QID|118| |N|Smith Argus in Goldshire (41.70, 65.53)| |Z|Elwynn Forest|
 A Return to Verner |QID|119| |N|Smith Argus in Goldshire (41.70, 65.53)| |Z|Elwynn Forest|
-B Skin of Sweet Rum |QID|116.4| |N|Buy Skin of Sweet Rum from Barkeep Dobbins Goldshire (43.8, 65.8)| |Z|Elwynn Forest| |L|1939|
+B Skin of Sweet Rum |QID|116| |OIDX|4| |N|Buy Skin of Sweet Rum from Barkeep Dobbins Goldshire (43.8, 65.8)| |Z|Elwynn Forest| |L|1939|
 
 R Lakeshire |QID|122| |N|Travel or Hearthstone to Lakeshire (30.90, 47.30)| |Z|Redridge Mountains| |U|6948|
 T Return to Verner |QID|119| |N|Verner Osgood in Lakeshire (30.90, 47.30)| |Z|Redridge Mountains|
@@ -230,7 +230,7 @@ C The Defias Brotherhood (Part 6) |QID|155| |N|Escort the Defias Traitor to disc
 R The Dagger Hills |QID|14| |N|Travel to The Dagger Hills (52.87, 71.29) (49.60, 77.19) (44.65, 80.27)|
 A Thunderbrew |QID|117| |N|Grimbooze Thunderbrew in The Dagger Hills, kill your way towards the quest giver (44.65, 80.27)|
 T Thunderbrew |QID|117| |N|Grimbooze Thunderbrew in The Dagger Hills (44.65, 80.27)|
-N Keg of Thunderbrew Lager |QID|116.1| |N|Grimbooze Thunderbrew provides this by turning in 'Thunderbrew' quest (44.65, 80.27)| |L|1262|
+C Keg of Thunderbrew Lager |QID|116| |OIDX|1| |N|Grimbooze Thunderbrew provides this by turning in 'Thunderbrew' quest (44.65, 80.27)| |L|1262|
 C The People's Militia (Part 3) |QID|14| |N|Kill the required Defias enemies in The Dagger Hills (49.60, 77.19)|
 
 R Sentinel Hill |TID|14| |N|Travel to Sentinel Hill (56.32, 47.55)| |U|6948|
@@ -251,7 +251,7 @@ A Visit the Herbalist |QID|130| |N|Tarantula in Three Corners (15.43, 71.32)| |Z
 
 R Darkshire |QID|116| |N|Travel to Darkshire (72.6, 38.3)| |Z|Duskwood|
 
-B Bottle of Moonshine |QID|116.3| |N|Buy Bottle of Moonshine from Barkeep Hann in Darkshire (73.68, 44.08)| |Z|Duskwood|
+B Bottle of Moonshine |QID|116| |OIDX|3| |N|Buy Bottle of Moonshine from Barkeep Hann in Darkshire (73.68, 44.08)| |Z|Duskwood|
 T Messenger to Darkshire (Part 1) |QID|145| |N|Lord Ello Ebonlocke in Darkshire (71.9, 46.4)| |Z|Duskwood|
 A Messenger to Darkshire (Part 2) |QID|146| |N|Lord Ello Ebonlocke in Darkshire (71.9, 46.4)| |Z|Duskwood|
 F Darkshire |QID|116| |N|Speak to Felicia Maline and grab flight path for Darkshire (77.5, 44.4)| |Z|Duskwood|

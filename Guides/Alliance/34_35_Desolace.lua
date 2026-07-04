@@ -46,8 +46,8 @@ A Kodo Roundup |QID|5561| |N|Smeed Scrabblescrew in Scrabblescrew's Camp (60.89,
 N As you go |AYG|1459| |QID|5501| |N|Collect 10 Kodo Bone lying around in Kodo Graveyard (51, 59)| |OBJ|4453|
 C Kodo Roundup |QID|5561| |N|Use the Kodo Kombobulator to tame 5 Ancient Kodo, Aged Kodo or Dying Kodo in the graveyard (51, 59). Once tamed, you must bring it back to Scrabblescrew. Only one kodo can be tamed at a time| |U|13892|
 T Kodo Roundup |QID|5561| |N|Smeed Scrabblescrew in Scrabblescrew's Camp (60.89, 61.89)| |Z|Desolace|
-K Aged Kodo |QID|1459.2| |N|Kill Aged Kodo and collect 3 Aged Kodo Hide in Desolace (58.37, 34.52) (49.4, 40.2) (50.5, 56.6)| |Z|Desolace|
-R Kodo Graveyard |QID|1459.2| |N|Travel to Kodo Graveyard (51, 59)|
+C Aged Kodo |QID|1459| |OIDX|2| |N|Kill Aged Kodo and collect 3 Aged Kodo Hide in Desolace (58.37, 34.52) (49.4, 40.2) (50.5, 56.6)| |Z|Desolace|
+R Kodo Graveyard |QID|1459| |OIDX|2| |N|Travel to Kodo Graveyard (51, 59)|
 C Bone Collector |QID|5501| |N|Collect 10 Kodo Bone lying around in Kodo Graveyard (51, 59)|  |OBJ|4453|
 T Bone Collector |QID|5501| |N|Bibbly F'utzbuckle in Kormek's Hut (62.32, 38.98)| |Z|Desolace|
 
@@ -59,7 +59,7 @@ R Ethel Rethor |QID|6161| |N|Travel to Ethel Rethor (36.11, 30.44)| |Z|Desolace|
 T The Karnitol Shipwreck (Part 1) |QID|1454| |N|Rackmore's Log in Ethel Rethor (36.11, 30.44)| |Z|Desolace|
 A The Karnitol Shipwreck (Part 2) |QID|1455| |N|Rackmore's Log in Ethel Rethor (36.11, 30.44)| |Z|Desolace|
 A Claim Rackmore's Treasure! |QID|6161| |N|Rackmore's Log in Ethel Rethor (36.11, 30.44)| |Z|Desolace|
-K Drysnap Pincer|QID|6161.1| |N|Kill Drysnaps until you find Rackmore's Silver Key in Sar'theris Strand (33.7, 29.0)| |Z|Desolace|
+C Drysnap Pincer|QID|6161| |OIDX|1| |N|Kill Drysnaps until you find Rackmore's Silver Key in Sar'theris Strand (33.7, 29.0)| |Z|Desolace|
 
 R Ethel Rethor |QID|5741| |N|Travel to Ethel Rethor (38.89, 27.17)| |Z|Desolace|
 A Sceptre of Light |QID|5741| |N|Azore Aldamort in Ethel Rethor (41.07, 28.95) (38.89, 27.17)| |Z|Desolace|
@@ -84,7 +84,7 @@ A Book of the Ancients |QID|6027| |N|Azore Aldamort in Ethel Rethor (38.89, 27.1
 
 R Ranazjar Isle |QID|6027| |N|Travel to Ranazjar Isle (30.02, 8.69)| |Z|Desolace|
 C Book of the Ancients |QID|6027| |N|Clear the area around the statue then click on the statue. Kill Lord Kragaru when he spawns to collect Book of the Ancients (28, 7)|
-N Rackmore's Golden Key |QID|6161.2| |N|Kill Slitherblade enemies until you find Rackmore's Golden Key in Sar'theris Strand (32.86, 23.12)| |Z|Desolace|
+C Rackmore's Golden Key |QID|6161| |OIDX|2| |N|Kill Slitherblade enemies until you find Rackmore's Golden Key in Sar'theris Strand (32.86, 23.12)| |Z|Desolace|
 C The Karnitol Shipwreck (Part 3) |QID|1456| |N|Kill Slitherblade Tidehunter or Slitherblade Sea Witch until you find Karnitol's Satchel in Ranazjar Isle (27.60, 8.95)| |Z|Desolace|
 T Claim Rackmore's Treasure! |QID|6161| |N|Rackmore's Chest in Ranazjar Isle (30.02, 8.69)| |Z|Desolace|
 

@@ -99,6 +99,9 @@ local function parseStep(stepLines, currentZone, currentClass, currentRace)
 		action = nil,
 		quest = nil,
 		qid = nil,
+		oidx = nil,
+		lootitem = nil,
+		lootqty = nil,
 		note = nil,
 		coords = nil,
 		zone = currentZone,
@@ -165,8 +168,16 @@ local function parseStep(stepLines, currentZone, currentClass, currentRace)
 			result.action = "C"
 			local qid, objIdx, comment = parseComplete(line)
 			result.qid = qid
+			result.oidx = objIdx
 			if comment then
 				table.insert(notes, comment)
+			end
+		elseif string.find(line, "^%.collect") then
+			-- .collect itemId,count[,questId[,objectiveId]] — item-count
+			-- tracking; becomes the |L| tag so the addon can watch bags
+			local itemId, count = string.match(line, "^%.collect%s+(%d+),%s*(%d+)")
+			if itemId then
+				result.lootitem, result.lootqty = tonumber(itemId), tonumber(count)
 			end
 		elseif string.find(line, "^%.train") then
 			result.action = "t"
@@ -321,6 +332,20 @@ local function stepToTurtleGuide(step)
 	if step.qid then
 		table.insert(parts, " |QID|")
 		table.insert(parts, step.qid)
+		table.insert(parts, "|")
+	end
+
+	if step.oidx then
+		table.insert(parts, " |OIDX|")
+		table.insert(parts, step.oidx)
+		table.insert(parts, "|")
+	end
+
+	if step.lootitem then
+		table.insert(parts, " |L|")
+		table.insert(parts, step.lootitem)
+		table.insert(parts, " ")
+		table.insert(parts, step.lootqty)
 		table.insert(parts, "|")
 	end
 

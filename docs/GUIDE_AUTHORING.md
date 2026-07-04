@@ -101,9 +101,15 @@ Tags provide metadata and are enclosed in `|TAG|value|` format.
 
 | Tag | Description | Example |
 |-----|-------------|---------|
-| `QID` | Quest ID from database | `\|QID\|41187\|` |
+| `QID` | Quest ID from database (integers only) | `\|QID\|41187\|` |
+| `OIDX` | Quest log objective index — a `C` step completes when this objective's leaderboard line reports finished | `\|QID\|771\| \|OIDX\|2\|` |
 | `N` | Note/instruction text | `\|N\|Talk to the NPC at (45, 50)\|` |
 | `Z` | Zone name override | `\|Z\|Thalassian Highlands\|` |
+
+**Do not write fractional QIDs** like `\|QID\|771.2\|` to mean "quest 771,
+objective 2" — the parser only accepts integer QIDs, so the whole tag is
+silently dropped and the step becomes untrackable. Use `\|QID\|771\| \|OIDX\|2\|`
+on a `C` step instead, or an `\|L\|itemid qty\|` tag for item collects.
 
 ### Conditional Tags
 

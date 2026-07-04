@@ -33,10 +33,10 @@ T A Hunter's Challenge |QID|258| |N|Daryl the Youngling in The Farstrider Lodge 
 A Vyrin's Revenge (Part 1) |QID|271| |N|Vyrin Swiftwind in The Farstrider Lodge (81.76, 64.15)|
 A Bingles' Missing Supplies |QID|2038| |N|Bingles Blastenheimer in The Loch (63.44, 47.78)|
 N As you go... |AYG|2038| |QID|385| |N|Kill Loch Crocolisk found in the lake until you've collected 5 pieces of Crocolisk Meat and 6 Crocolisk Skin|
-N Bingles' Blastencapper |QID|2038.4| |N|Collect Bingles' Blastencapper from Bingles's Blastencapper on the ground (54.33, 26.54)|
-N Bingles' Hammer |QID|2038.3| |N|Collect Bingles' Hammer from the tool bucket in Loch Modan (51.79, 23.93)|
-N Bingles' Screwdriver |QID|2038.2| |N|Collect Bingles' Screwdriver from Bingle's Toolbucket in Loch Modan (48.35, 20.39)|
-N Bingles' Wrench |QID|2038.1| |N|Collect Bingles' Wrench from Bingle's Toolbucket near the campfire in Loch Modan (48.69, 29.99)|
+C Bingles' Blastencapper |QID|2038| |OIDX|4| |N|Collect Bingles' Blastencapper from Bingles's Blastencapper on the ground (54.33, 26.54)|
+C Bingles' Hammer |QID|2038| |OIDX|3| |N|Collect Bingles' Hammer from the tool bucket in Loch Modan (51.79, 23.93)|
+C Bingles' Screwdriver |QID|2038| |OIDX|2| |N|Collect Bingles' Screwdriver from Bingle's Toolbucket in Loch Modan (48.35, 20.39)|
+C Bingles' Wrench |QID|2038| |OIDX|1| |N|Collect Bingles' Wrench from Bingle's Toolbucket near the campfire in Loch Modan (48.69, 29.99)|
 C In Defense of the King's Lands (Part 2) |QID|237| |N|Kill 10 Stonesplinter Seer and 10 Stonesplinter Skullthumper in Valley of Kings (48.35, 20.39)| |Z|Loch Modan|  |O|
 R Loch Modan |QID|2038| |N|Travel to Loch Modan|
 C Crocolisk Hunting |QID|385| |N|Kill Loch Crocolisk found in the lake until you've collected 5 pieces of Crocolisk Meat and 6 Crocolisk Skin (57, 38)|

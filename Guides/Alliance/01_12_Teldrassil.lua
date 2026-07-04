@@ -39,12 +39,12 @@ T The Balance of Nature (Part 2) |QID|457| |N|Conservator Ilthalaine in Shadowgl
 T A Friend in Need |QID|3519| |N|Dirania Silvershine in Shadowglen (60.84, 41.98)|
 A Iverron's Antidote (Part 1) |QID|3521| |N|Dirania Silvershine in Shadowglen (60.84, 41.98)|
 
-N 4 Moonpetal Lily |QID|3521.2| |N|Collect 4 Moonpetal Lily found around the edge of the pond in Shadowglen (57, 37)|
-N 7 Hyacinth Mushroom |QID|3521.1| |N|Collect 7 Hyacinth Mushroom found around the bottom of trees or dropped from Grellkin in Shadowglen (57, 37)|
+C 4 Moonpetal Lily |QID|3521| |OIDX|2| |N|Collect 4 Moonpetal Lily found around the edge of the pond in Shadowglen (57, 37)|
+C 7 Hyacinth Mushroom |QID|3521| |OIDX|1| |N|Collect 7 Hyacinth Mushroom found around the bottom of trees or dropped from Grellkin in Shadowglen (57, 37)|
 
 R Shadowthread Cave |QID|917| |N|Enter Shadowthread Cave (56.80, 31.65)|
 C Webwood Egg |QID|917| |N|Follow the path inside Shadowthread Cave and collect Webwood Egg near the giant spider (56.82, 27.35) (55.85, 24.93) (56.65, 26.48)|
-N Webwood Ichor |QID|3521.3| |N|Collect Webwood Ichor from Webwood Spider in and around Shadowthread Cave (57.31, 34.25)|
+C Webwood Ichor |QID|3521| |OIDX|3| |N|Collect Webwood Ichor from Webwood Spider in and around Shadowthread Cave (57.31, 34.25)|
 
 T Webwood Egg |QID|917| |N|Gilshalan Windwalker in Aldrassil (57.81, 41.63)|
 A Tenaron's Summons |QID|920| |N|Gilshalan Windwalker in Aldrassil (57.81, 41.63)|
@@ -95,20 +95,20 @@ A Ferocitas the Dream Eater |QID|2459| |N|Tallonkai Swiftroot in Dolanaar (55.5,
 
 C Timberling Seeds |QID|918| |N|Kill Timberling and collect 8 Timberling Seed around Lake Al'Ameth (59, 72) (56, 65)|
 C Timberling Sprouts |QID|919| |N|Collect 12 Timberling Sprout from the ground around Lake Al'Ameth (59, 71)|
-K Nightsaber |QID|488.1| |N|Kill Nightsaber for 3 Nightsaber Fang (63.02, 60.45)|
+C Nightsaber |QID|488| |OIDX|1| |N|Kill Nightsaber for 3 Nightsaber Fang (63.02, 60.45)|
 T Timberling Seeds |QID|918| |N|Denalan in Lake Al'Ameth (60.91, 68.45)|
 A Rellian Greenspyre |QID|922| |N|Denalan in Lake Al'Ameth (60.91, 68.45)|
 T Timberling Sprouts |QID|919| |N|Denalan in Lake Al'Ameth (60.91, 68.45)|
 
-K Webwood Lurker |QID|488.2| |N|Kill Kill Webwood Lurker for 3 Webwood Spider Silk (58.80, 60.28)|
-K Strigid Owl |QID|488.3| |N|Kill Strigid Owl for 3 Strigid Owl Feather in Lake Al'Ameth (52.83, 67.36)|
+C Webwood Lurker |QID|488| |OIDX|2| |N|Kill Kill Webwood Lurker for 3 Webwood Spider Silk (58.80, 60.28)|
+C Strigid Owl |QID|488| |OIDX|3| |N|Kill Strigid Owl for 3 Strigid Owl Feather in Lake Al'Ameth (52.83, 67.36)|
 
 T Zenn's Bidding |QID|488| |N|Zenn Foulhoof (60.41, 56.26)|
 A Seek Redemption! |QID|489| |N|Syral Bladeleaf in Dolanaar (56.10, 57.74)|
 
 N As you go... |AYG|2459| |QID|489| |N|Collect 3 Fel Cone from around the bottom area of large trees; they are quite rare| |OBJ|425|
-K Ferocitas the Dream Eater |QID|2459.2| |N|Kill Ferocitas the Dream Eater north of Starbreeze Village and collect Gnarlpine Necklace. Open the item to collect Tallonkai's Jewel (69.8, 53.0)|  |U|8049|
-C Ferocitas the Dream Eater |QID|2459.1| |N|Kill 7 Gnarlpine Mystic north of Starbreeze Village (69.8, 53.0)|
+C Ferocitas the Dream Eater |QID|2459| |OIDX|2| |N|Kill Ferocitas the Dream Eater north of Starbreeze Village and collect Gnarlpine Necklace. Open the item to collect Tallonkai's Jewel (69.8, 53.0)|  |U|8049|
+C Ferocitas the Dream Eater |QID|2459| |OIDX|1| |N|Kill 7 Gnarlpine Mystic north of Starbreeze Village (69.8, 53.0)|
 
 R Fel Rock |QID|932| |N|Travel to Fel Rock (it's a cave), north of Dolanaar (53.74, 53.62) (54.61, 52.62)|
 C Twisted Hatred |QID|932| |N|Kill Lord Melenas and collect Melenas' Head in Fel Rock (51.27, 50.77)|
@@ -129,11 +129,11 @@ C Crown of the Earth (Part 4) |QID|933| |N|Use Tourmaline Phial in Pools of Arli
 C Seek Redemption! |QID|489| |N|Collect 3 Fel Cone from around the bottom area of large trees (57, 63)|  |OBJ|425|
 
 R Ban'ethil Barrow Den |QID|483| |N|Travel to Ban'ethil Barrow Den (44.28, 58.08)|
-N Rune of Nesting |QID|483.4| |N|Head down into the Ban'ethil Barrow Den. At the first set of bridges, take the left bridge and collect Rune of Nesting from the chest (44.40, 60.62)|
-N Black Feather Quill |QID|483.2| |N|Collect Black Feather Quill from the chest across the other bridge (43.76, 61.20)|
+C Rune of Nesting |QID|483| |OIDX|4| |N|Head down into the Ban'ethil Barrow Den. At the first set of bridges, take the left bridge and collect Rune of Nesting from the chest (44.40, 60.62)|
+C Black Feather Quill |QID|483| |OIDX|2| |N|Collect Black Feather Quill from the chest across the other bridge (43.76, 61.20)|
 A The Sleeping Druid |QID|2541| |N|Oben Rageclaw in Ban'ethil Barrow Den (44.96, 61.46)|
-N Raven Claw Talisman |QID|483.1| |N|Collect Raven Claw Talisman from the chest (45.51, 58.96) (46.22, 58.21) (45.71, 57.33)|
-N Sapphire of Sky |QID|483.3| |N|Collect Sapphire of Sky from the small chest (44.65, 62.50)|
+C Raven Claw Talisman |QID|483| |OIDX|1| |N|Collect Raven Claw Talisman from the chest (45.51, 58.96) (46.22, 58.21) (45.71, 57.33)|
+C Sapphire of Sky |QID|483| |OIDX|3| |N|Collect Sapphire of Sky from the small chest (44.65, 62.50)|
 C The Sleeping Druid |QID|2541| |N|Kill Gnarlpine Shaman until you find a Voodoo Charm. The item only drops from the Shaman at a very low drop rate. The quest chain will reward Sleeping Robes and Brushwood Blade. Consider skipping this quest and the follow-up if the rewards are not useful for your character (44, 59)|
 T The Sleeping Druid |QID|2541| |N|Oben Rageclaw in Ban'ethil Barrow Den (44.96, 61.46)|
 A Druid of the Claw |QID|2561| |N|Oben Rageclaw in Ban'ethil Barrow Den (44.96, 61.46)|
@@ -187,7 +187,7 @@ A Moonglade |QID|5921| |N|Mathrengyl Bearwalker in Cenarion Enclave (35.38, 8.42
 R Nighthaven |QID|5929| |N|Use spell Teleport: Moonglade to get to Nighthaven in Moonglade (56.3, 32.5)| |C|Druid| |Z|Moonglade|
 T Moonglade |QID|5921| |N|Dendrite Starblaze in Nighthaven (56.24, 30.64)| |C|Druid| |Z|Moonglade|
 A Great Bear Spirit |QID|5929| |N|Dendrite Starblaze in Nighthaven (56.24, 30.64)| |C|Druid| |Z|Moonglade|
-N Great Bear Spirit |QID|5929.1| |N|Speak to the Great Bear Spirit in Moonglade (39.09, 27.54)| |C|Druid| |Z|Moonglade|
+C Great Bear Spirit |QID|5929| |OIDX|1| |N|Speak to the Great Bear Spirit in Moonglade (39.09, 27.54)| |C|Druid| |Z|Moonglade|
 T Great Bear Spirit |QID|5929| |N|Dendrite Starblaze in Nighthaven (56.24, 30.64)| |C|Druid| |Z|Moonglade|
 A Back to Darnassus |QID|5931| |N|Dendrite Starblaze in Nighthaven (56.20, 30.64)| |C|Druid| |Z|Moonglade|
 F Rut'theran Village |TID|5931| |N|Speak to Silva Fil'naveth and fly to Rut'theran Village (44.4, 45.4)| |C|Druid| |Z|Moonglade|
@@ -204,7 +204,7 @@ R Teldrassil |QID|923| |N|Travel to Teldrassil (38.0, 54.7)| |REACH|
 
 C Securing Darnassus |QID|40205| |N|Kill 10 Gnarlpine Avenger and 5 Gnarlpine Pathfinder in Gnarlpine Hold (42.5, 78)|
 C Ursal the Mauler |QID|486| |N|Kill Ursal the Mauler. This quest rewards Defender Axe or Thornroot Club. Consider skipping this quest if the rewards are not useful for your character (38.8, 78.9)|
-K Vorlus Vilehoof |QID|1683.1| |N|Follow the path up and kill Vorlus Vilehoof. Collect Horn of Vorlus near the Moonwell in Teldrassil (49.11, 61.80) (48.75, 62.84) (49.05, 65.00) (47.31, 63.65)| |C|Warrior|
+C Vorlus Vilehoof |QID|1683| |OIDX|1| |N|Follow the path up and kill Vorlus Vilehoof. Collect Horn of Vorlus near the Moonwell in Teldrassil (49.11, 61.80) (48.75, 62.84) (49.05, 65.00) (47.31, 63.65)| |C|Warrior|
 
 R Wellspring River |QID|923| |N|Travel to Wellspring River (43.65, 34.46)|
 C Tumors |QID|923| |N|Kill Timberling Mire Beast or Timberling Trampler collect 5 Mossy Tumor in Wellspring River (43.65, 34.46)|
@@ -271,8 +271,8 @@ T Flight to Auberdine |QID|6342| |N|Laird in Auberdine (36.77, 44.32)|
 
 C Body and Heart |QID|6001| |N|Kill Lunaclaw. Use the Cenarion Moondust on the on the Moonkin Stone east of Auberdine to summon it (43.48, 45.95)| |C|Druid| |Z|Darkshore|
 
-K Shade of Elura|QID|1686.2| |N|Kill Shade of Elura and collect Elura's Medallion in The Long Wash (31.56, 44.87)| |C|Warrior| |Z|Darkshore|
-N Elunite Ore |QID|1686.1| |N|Collect 8 Elunite Ore from the crates underwater in The Long Wash (32.00, 46.34)|  |C|Warrior| |Z|Darkshore|
+C Shade of Elura|QID|1686| |OIDX|2| |N|Kill Shade of Elura and collect Elura's Medallion in The Long Wash (31.56, 44.87)| |C|Warrior| |Z|Darkshore|
+C Elunite Ore |QID|1686| |OIDX|1| |N|Collect 8 Elunite Ore from the crates underwater in The Long Wash (32.00, 46.34)|  |C|Warrior| |Z|Darkshore|
 C The Shade of Elura |QID|1686| |N|Bring 8 Elunite Ore and the Elura's Medallion to Elanaria in The Long Wash (32.00, 46.34)| |C|Warrior| |Z|Darkshore|
 
 F Rut'theran Village |N|Speak to Caylais Moonfeather in Auberdine and fly to Rut'theran Village (36.3, 45.6)| |C|Druid| |Z|Darkshore|

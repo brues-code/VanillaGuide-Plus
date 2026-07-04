@@ -51,7 +51,7 @@ A Chasing A-Me 01 (Part 1)|QID|4243| |N|Karna Remtravel in Lakkari Tar Pits (46.
 N Please Read |QID|4501| |N|As you go... . <b>Collect 7 of each Green, Blue, Yellow and Red Power Crystals<br/><b>Kill any Bloodpetal mobs for 15 Bloodpetal<br/><b>Keep all Un'Goro Soil that you collect, you will need around 45 of these for quests later<br/><b>Don't collect Bloodpetal Sprout, as they don't provide any XP<br/><b>Dinosaur Bone will drop from many different mobs as you do the other quests. Tick this step| |OBJ|2973, 2971, 2972, 2974|
 
 C Super Sticky |QID|4504| |N|Kill Tar Beast or Tar Lord and collect 12 Super Sticky Tar in Lakkari Tar Pits (45.03, 15.95) (43.05, 17.95) (46.28, 19.45) (48.93, 20.46) (50.43, 26.64) (47.58, 31.75)|
-K Pterrordax |QID|4501.1| |N|Make a start for killing 10 Pterrordax and also collect 10 Webbed Pterrordax Scale for quest 'Shizzle's Flyer' in Lakkari Tar Pits. Tick this step to complete it later (56.91, 9.94)| |QO|10/10 Pterrordax slain|
+C Pterrordax |QID|4501| |OIDX|1| |N|Make a start for killing 10 Pterrordax and also collect 10 Webbed Pterrordax Scale for quest 'Shizzle's Flyer' in Lakkari Tar Pits. Tick this step to complete it later (56.91, 9.94)| |QO|10/10 Pterrordax slain|
 
 R Fungal Rock |QID|4289| |N|Travel to Fungal Rock (63.86, 16.44)|
 T Chasing A-Me 01 (Part 1)|QID|4243| |N|Williden Marshal in Fungal Rock (67.65, 16.77)|
@@ -63,14 +63,14 @@ C Chasing A-Me 01 (Part 3)|QID|4245| |N|Escort A-Me 01 back to Marshal's Refuge 
 T Chasing A-Me 01 (Part 3)|QID|4245| |N|Karna Remtravel, in Lakkari Tar Pits (46.38, 13.45)| |PRE|4244|
 
 C The Apes of Un'Goro |QID|4289| |N|Kill Un'Goro Gorilla, Un'Goro Thunderer and Un'Goro Stomper for the quest items all of them found in Fungal Rock (63.86, 16.44)| |QO|10/10 Pterrordax slain|
-K Pterrordax |QID|4501.1| |N|Finish killing 10 Pterrordax in Lakkari Tar Pits (58.51, 16.74) (56.91, 9.94)|
+C Pterrordax |QID|4501| |OIDX|1| |N|Finish killing 10 Pterrordax in Lakkari Tar Pits (58.51, 16.74) (56.91, 9.94)|
 
 R The Marshlands |QID|4141| |N|Travel to The Marshlands (68.5, 36.5)|
-N Crate of Foodstuffs |QID|3881.1| |N|Collect Crate of Foodstuffs from the crate in The Marshlands (68.5, 36.5)| |OBJ|1868| |L|11113|
+C Crate of Foodstuffs |QID|3881| |OIDX|1| |N|Collect Crate of Foodstuffs from the crate in The Marshlands (68.5, 36.5)| |OBJ|1868| |L|11113|
 C Muigin and Larion |QID|4141| |N|Kill Bloodpetals and collect 15 Bloodpetal in Un'Goro (67.8, 33.4)|
 
 R Un'Goro Crater |QID|4141| |N|Travel to Un'Goro (58.23, 56.34)|
-K Diemetradon |QID|4503.1| |N|Kill Diemetradon or Young Diemetradon and collect 8 Webbed Diemetradon Scale along the waypoint path in Un'Goro (58.23, 56.34) (58.08, 70.59) (56.48, 65.06)| |L|11830|
+C Diemetradon |QID|4503| |OIDX|1| |N|Kill Diemetradon or Young Diemetradon and collect 8 Webbed Diemetradon Scale along the waypoint path in Un'Goro (58.23, 56.34) (58.08, 70.59) (56.48, 65.06)| |L|11830|
 C Roll the Bones |QID|3882| |N|Collect 8 Dinosaur Bone dropped from Diemetradons in Un'Goro (58.18, 71.82)|
 T The Apes of Un'Goro |QID|4289| |N|Torwa Pathfinder in Un'Goro (71.62, 75.98)|
 T The Fare of Lar'korwi |QID|4290| |N|Torwa Pathfinder in Un'Goro (71.62, 75.98)|
@@ -85,14 +85,14 @@ A The Bait for Lar'korwi |QID|4292| |N|Torwa Pathfinder in Un'Goro (71.62, 75.97
 
 R The Slithering Scar |QID|3883| |N|Travel to The Slithering Scar (50.09, 80.92)|
 C Alien Ecology |QID|3883| |N|Use Unused Scraping Vial inside the hive to collect Hive Wall Sample in The Slithering Scar (50.09, 80.92)(49.47, 83.18) (48.73, 85.26)| |U|11132|
-N Gorishi Scent Gland |QID|4496.1| |N|Kill Gorishi insects until you collect Gorishi Scent Gland in The Slithering Scar (50.09, 80.92)| |Z|Tanaris| |O|
+C Gorishi Scent Gland |QID|4496| |OIDX|1| |N|Kill Gorishi insects until you collect Gorishi Scent Gland in The Slithering Scar (50.09, 80.92)| |Z|Tanaris| |O|
 
 R Exit Slithering Scar |QID|3881| |N|Exit The Slithering Scar (50.03, 81.02) (51.27, 78.12)|
 R Terror Run |QID|3881| |N|Travel to Terror Run (38.42, 66.11)|
-N Research Equipment |QID|3881.2| |N|Collect Research Equipment from the ground in Terror Run (38.42, 66.11)| |OBJ|36| |L|11112|
+C Research Equipment |QID|3881| |OIDX|2| |N|Collect Research Equipment from the ground in Terror Run (38.42, 66.11)| |OBJ|36| |L|11112|
 A Finding the Source |QID|974| |N|Krakle in Golakka Hot Springs (30.94, 50.45)|
-C Frenzied Pterrordax |QID|4501.2| |N|Kill 15 Frenzied Pterrordax in found in Western side of Un'Goro (32.40, 43.90)|
-N Webbed Pterrordax Scale |QID|4503.2| |N|Collect 8 Webbed Pterrordax Scale from Pterrordax creatures in Un'Goro (32.40, 43.90)|
+C Frenzied Pterrordax |QID|4501| |OIDX|2| |N|Kill 15 Frenzied Pterrordax in found in Western side of Un'Goro (32.40, 43.90)|
+C Webbed Pterrordax Scale |QID|4503| |OIDX|2| |N|Collect 8 Webbed Pterrordax Scale from Pterrordax creatures in Un'Goro (32.40, 43.90)|
 N Power Crystal |QID|4284| |N|Finish collecting 7 of each Red, Blue, Yellow and Green Power Crystal scattered in Un'Goro| |L|11185 7| |OBJ|2973, 2971, 2972, 2974|
 N Power Crystal |QID|4284| |N|Finish collecting 7 of each Red, Blue, Yellow and Green Power Crystal scattered in Un'Goro| |L|11184 7| |OBJ|2973, 2971, 2972, 2974|
 N Power Crystal |QID|4284| |N|Finish collecting 7 of each Red, Blue, Yellow and Green Power Crystal scattered in Un'Goro| |L|11188 7| |OBJ|2973, 2971, 2972, 2974|

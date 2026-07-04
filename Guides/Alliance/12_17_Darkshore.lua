@@ -127,8 +127,8 @@ C How Big a Threat? (Part 1) |QID|984| |N|Find a corrupt furbolg camp in Darksho
 R Twilight Vale |QID|953| |N|Travel to Twilight Vale (40.30, 59.68)|
 A The Fall of Ameth'Aran |QID|953| |N|Sentinel Tysha Moonblade in Twilight Vale (40.30, 59.68)|
 N As you go... |AYG|963| |QID|958| |N|Kill Highborne mobs in Ameth'Aran to collect 7 Highborne Relic|
-N Read the Lay of Ameth'Aran |QID|953.1| |N|Click on the Lay of Ameth'Aran tablet in Ameth'Aran (43.27, 58.66)|
-N Read the Fall of Ameth'Aran |QID|953.2| |N|Click on the Fall of Ameth'Aran tablet in Ameth'Aran (42.72, 63.13)|
+C Read the Lay of Ameth'Aran |QID|953| |OIDX|1| |N|Click on the Lay of Ameth'Aran tablet in Ameth'Aran (43.27, 58.66)|
+C Read the Fall of Ameth'Aran |QID|953| |OIDX|2| |N|Click on the Fall of Ameth'Aran tablet in Ameth'Aran (42.72, 63.13)|
 C Bashal'Aran (Part 4) |QID|957| |N|Click on the Ancient flame in Ameth'Aran (42.38, 61.90)|
 C For Love Eternal |QID|963| |N|Kill Anaya Dawnrunner and collect Anaya's Pendant in Ameth'Aran<br/><b>She's level 16 and can be tough to solo if you're too low level, you might need to help or complete later (43.18, 59.99)|
 R Twilight Vale |TID|953| |N|Travel to Twilight Vale (40.30, 59.68)|
@@ -162,8 +162,8 @@ A The Principal Source |QID|6122| |N|Dendrite Starblaze in Nighthaven (56.26, 30
 
 N As you go... |AYG|4725| |QID|2138| |N|Kill 20 Rabid Thistle Bear and Moonstalker cats for 6 Moonstalker Fang|
 T Bashal'Aran (Part 4) |QID|957| |N|Asterion in Bashal'Aran (44.20, 36.30)|
-N Silver Dawning's Lockbox |QID|982.1| |N|Collect Silver Dawning's Lockbox from the lowest deck and rear side of the sunken ship (38.2, 28.8)|
-N Mist Veil's Lockbox |QID|982.2| |N|Collect Mist Veil's Lockbox from the lowest deck and rear side of the sunken ship (39.6, 27.5)|
+C Silver Dawning's Lockbox |QID|982| |OIDX|1| |N|Collect Silver Dawning's Lockbox from the lowest deck and rear side of the sunken ship (38.2, 28.8)|
+C Mist Veil's Lockbox |QID|982| |OIDX|2| |N|Collect Mist Veil's Lockbox from the lowest deck and rear side of the sunken ship (39.6, 27.5)|
 R Mist's Edge |QID|4725| |N|Travel to Mist's Edge (44.23, 20.66)|
 A Beached Sea Turtle (Part 1) |QID|4725| |N|Beached Sea Turtle in Mist's Edge (44.23, 20.66)|
 C Buzzbox 323 |QID|1002| |N|Kill Moonstalker cats and collect 6 Moonstalker Fang (49, 27) (40, 67)|
@@ -222,8 +222,8 @@ T Beached Sea Turtle (Part 3) |QID|4727| |N|Gwennyth Bly'Leggonde in Auberdine (
 T The Blackwood Corrupted |QID|4763| |N|Thundris Windweaver in Auberdine (37.41, 40.16)|
 T Tharnariun's Hope |QID|2139| |N|Tharnariun Treetender in Auberdine (38.85, 43.44)|
 
-N 12 Lunar Fungus |QID|6123.2| |N|Collect 12 Lunar Fungus from the inside the caves in each waypoint, you should find 3 Lunar Fungus in each cave (46.42, 45.61) (43.19, 45.75) (43.27, 49.17) (43.65, 50.41) (42.60, 52.39)| |C|Druid| |Z|Darkshore|
-N 5 Earthroot |QID|6123.1| |N|Gather 5 Earthroot with (spell:2366) in Teldrassil or purchase from the auction house| |C|Druid| |Z|Teldrassil|
+C 12 Lunar Fungus |QID|6123| |OIDX|2| |N|Collect 12 Lunar Fungus from the inside the caves in each waypoint, you should find 3 Lunar Fungus in each cave (46.42, 45.61) (43.19, 45.75) (43.27, 49.17) (43.65, 50.41) (42.60, 52.39)| |C|Druid| |Z|Darkshore|
+C 5 Earthroot |QID|6123| |OIDX|1| |N|Gather 5 Earthroot with (spell:2366) in Teldrassil or purchase from the auction house| |C|Druid| |Z|Teldrassil|
 T Gathering the Cure |QID|6123| |N|Alanndarian Nightsong in Auberdine (37.68, 40.67)| |C|Druid| |Z|Darkshore|
 A Curing the Sick |QID|6124| |N|Alanndarian Nightsong in Auberdine (37.71, 40.83)| |C|Druid| |Z|Darkshore|
 C Curing the Sick |QID|6124| |N|Use the Curative Animal Salve on 10 Sickly Deer that are located throughout Darkshore. The deer are scattered throughout Darkshore and it can take a long time to complete this quest (41.6, 46.2) (41.6, 38.4) (43.8, 41.8) (47.0, 42.2) (49.4, 35.2) (45.6, 31.6) (44.6, 28.0) (44.6, 24.6) (52.0, 32.4)| |C|Druid| |Z|Darkshore|

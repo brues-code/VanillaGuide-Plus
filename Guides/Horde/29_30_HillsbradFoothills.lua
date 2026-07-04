@@ -28,18 +28,18 @@ A Battle of Hillsbrad (Part 1) |QID|527| |N|High Executor Darthalia in Tarren Mi
 A Helcular's Revenge (Part 1) |QID|552| |N|Novice Thaivand in Tarren Mill (63.81, 19.65)|
 A Dangerous! |QID|567| |N|Click item Dangerous! in Tarren Mill (62.50, 19.85)|
 A Soothing Turtle Bisque |QID|7321| |N|Christoph Jeffcoat in Tarren Mill<br/><b>Requires cooking profession to accept quest (62.38, 19.07)|
-B Soothing Spices |QID|7321.2| |N|Buy 1 Soothing Spices from Christoph Jeffcoat in Tarren Mill (62.36, 19.01)|
+B Soothing Spices |QID|7321| |OIDX|2| |N|Buy 1 Soothing Spices from Christoph Jeffcoat in Tarren Mill (62.36, 19.01)|
 
 R Durnholde Keep |QID|496| |N|Travel to Durnholde Keep (83.67, 34.61)|
-K Forest Moss Creeper |QID|496.2| |N|Kill Forest Moss Creeper until you find Creeper Ichor in Durnholde Keep (83.67, 34.61)|
+C Forest Moss Creeper |QID|496| |OIDX|2| |N|Kill Forest Moss Creeper until you find Creeper Ichor in Durnholde Keep (83.67, 34.61)|
 C Blood of Innocents |QID|1066| |N|Kill Syndicate Watchman, Syndicate Shadow Mage and collect 5 Vial of Innocent Blood in Durnholde Keep, low drop rate (76.39, 46.69) (78.91, 42.83)| |Z|Hillsbrad Foothills|
 
 R Nethander Stead |QID|509| |N|Travel to Nethander Stead (88.58, 40.84) (64.04, 60.15)|
 C Elixir of Agony |QID|509| |N|Collect Mudsnout Blossoms from the ground in Nethander Stead (64.04, 60.15)|
-K Elder Gray Bear |QID|496.1| |N|Kill Elder Gray Bear and collect 10 Gray Bear Tongue in Durnholde Keep (83.31, 35.82)|
+C Elder Gray Bear |QID|496| |OIDX|1| |N|Kill Elder Gray Bear and collect 10 Gray Bear Tongue in Durnholde Keep (83.31, 35.82)|
 
-R Hillsbrad Foothills |QID|496.1| |N|Travel to Hillsbrad Foothills (55.2, 54)|
-K Snapjaw |QID|7321.1| |N|Kill Snapjaw along the river and collect 10 Turtle Meat in Hillsbrad Foothills (55.2, 54) (58.8, 45) (67, 35.4) (68, 32.2) (67.81, 20.62)|
+R Hillsbrad Foothills |QID|496| |OIDX|1| |N|Travel to Hillsbrad Foothills (55.2, 54)|
+C Snapjaw |QID|7321| |OIDX|1| |N|Kill Snapjaw along the river and collect 10 Turtle Meat in Hillsbrad Foothills (55.2, 54) (58.8, 45) (67, 35.4) (68, 32.2) (67.81, 20.62)|
 
 R Tarren Mill |QID|499| |N|Travel to Tarren Mill (61.47, 19.20)|
 T Blood of Innocents |QID|1066| |N|Apothecary Lydon in Tarren Mill (61.42, 19.04)| |Z|Hillsbrad Foothills| |PRE|1063|
@@ -63,20 +63,20 @@ T Helcular's Revenge (Part 1) |QID|552| |N|Novice Thaivand in Tarren Mill (63.82
 A Helcular's Revenge (Part 2) |QID|553| |N|Novice Thaivand in Tarren Mill (63.82, 19.64)|
 
 R Darrow Hill |QID|553| |N|Travel to Darrow Hill (46.27, 31.91)|
-N Charge Flame of Azel |QID|553.1| |N|Click Item Flame of Azel in Darrow Hill (46.27, 31.91) (43.85, 27.93)|
-N Charge Flame of Veraz |QID|553.2| |N|Click Item Flame of Veraz in Darrow Hill (43.94, 26.62)|
+C Charge Flame of Azel |QID|553| |OIDX|1| |N|Click Item Flame of Azel in Darrow Hill (46.27, 31.91) (43.85, 27.93)|
+C Charge Flame of Veraz |QID|553| |OIDX|2| |N|Click Item Flame of Veraz in Darrow Hill (43.94, 26.62)|
 
 R Hillsbrad Fields |QID|527| |N|Travel to Hillsbrad Fields (46.36, 31.95) (32.68, 35.51)|
 T Elixir of Pain |QID|502| |N|Stanley in Hillsbrad Fields (32.68, 35.51)|
-K Farmer Ray |QID|527.3| |N|Kill Farmer Ray in Hillsbrad Fields (32.63, 35.57)|
-K Citizen Wilkes |QID|567.2| |N|Kill Citizen Wilkes in Hillsbrad Fields (32.56, 35.78)|
-K Clerk Horrace Whitesteed |QID|567.1| |N|Kill Clerk Horrace Whitesteed in Hillsbrad Fields (29.44, 43.03)|
-K Farmer Kalaba |QID|567.4| |N|Kill Farmer Kalaba in Hillsbrad Fields (36.32, 47.13)|
-K Farmer Getz |QID|527.4| |N|Kill Farmer Getz in Hillsbrad Fields (36.05, 40.74)|
+C Farmer Ray |QID|527| |OIDX|3| |N|Kill Farmer Ray in Hillsbrad Fields (32.63, 35.57)|
+C Citizen Wilkes |QID|567| |OIDX|2| |N|Kill Citizen Wilkes in Hillsbrad Fields (32.56, 35.78)|
+C Clerk Horrace Whitesteed |QID|567| |OIDX|1| |N|Kill Clerk Horrace Whitesteed in Hillsbrad Fields (29.44, 43.03)|
+C Farmer Kalaba |QID|567| |OIDX|4| |N|Kill Farmer Kalaba in Hillsbrad Fields (36.32, 47.13)|
+C Farmer Getz |QID|527| |OIDX|4| |N|Kill Farmer Getz in Hillsbrad Fields (36.05, 40.74)|
 C Battle of Hillsbrad (Part 1) |QID|527| |N|Kill 6 Hillsbrad Farmer and 6 Hillsbrad Farmhand in Hillsbrad Fields (32.05, 38.46)|
 
 R Azurelode Mine |QID|567| |N|Travel to Azurelode Mine (26.44, 58.68)|
-K Miner Hackett |QID|567.3| |N|Kill Miner Hackett in Azurelode Mine<br/><b>Take the lower entrance and hug the right side wall to reach Miner Hackett (26.44, 58.68) (30.49, 58.35)|
+C Miner Hackett |QID|567| |OIDX|3| |N|Kill Miner Hackett in Azurelode Mine<br/><b>Take the lower entrance and hug the right side wall to reach Miner Hackett (26.44, 58.68) (30.49, 58.35)|
 
 R Tarren Mill |TID|567| |N|Travel to Tarren Mill (26.44, 58.68) (62.39, 20.33)|
 T Battle of Hillsbrad (Part 1) |QID|527| |N|High Executor Darthalia in Tarren Mill (62.39, 20.33)|

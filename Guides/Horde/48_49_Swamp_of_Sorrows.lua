@@ -24,7 +24,7 @@ A Continued Threat |QID|1428| |N|Katar in Misty Reed Strand (83.75, 80.44)| |Z|S
 R Stagalbog Cave |QID|2623| |N|Travel to Stagalbog Cave (66.52, 76.36)| |Z|Swamp of Sorrows|
 C The Swamp Talker |QID|2623| |N|Kill Swamp Talker at the back of the Murloc cave and loot the Warchief's Orders (66, 75)| |Z|Swamp of Sorrows| 
 C Continued Threat |QID|1428| |N|Kill the required Marsh murlocs in Stagalbog Cave (66.52, 76.36)| |Z|Swamp of Sorrows|  
-K Jarquia |QID|4450.4| |N|Kill Jarquia and collect Goodsteel's Balanced Flameberge in Misty Reed Strand (94.81, 52.06)| |Z|Swamp of Sorrows| |O| 
+K Jarquia |QID|4450| |OIDX|4| |N|Kill Jarquia and collect Goodsteel's Balanced Flameberge in Misty Reed Strand (94.81, 52.06)| |Z|Swamp of Sorrows| |O| 
 
 T The Swamp Talker |QID|2623| |N|Fallen Hero of the Horde in Swamp of Sorrows (36.66, 60.01) (34.2, 66.0)| 
 A A Tale of Sorrow |QID|2801| |N|Thadius Grimshade in Swamp of Sorrows (34.24, 66.11)| |Z|Swamp of Sorrows| 

@@ -50,8 +50,8 @@ A Tremors of the Earth (Part 1) |QID|732| |N|Garek in Badlands (61.91, 54.23)|
 T Find Agmond |QID|738| |N|Battered Dwarven Skeleton in Agmond's End (50.92, 62.36)|  |PRE|707| |OBJ|211|
 A Murdaloc |QID|739| |N|Battered Dwarven Skeleton in Agmond's End (50.92, 62.36)|  |PRE|707| |OBJ|211|
 N As you go... |QID|739| |AYG|1108| |N|Collect 10 Indurium Flake from Stonevault mobs in Agmond's End|
-K Murdaloc |QID|739.1| |N|Find and kill Murdaloc in Agmond's End (49.75, 66.90)|
-C Murdaloc |QID|739.2| |N|Kill 12 Stonevault Bonesnapper or Stonevault Shaman found nearby at Agmond's End (50, 70)| |PRE|707|
+C Murdaloc |QID|739| |OIDX|1| |N|Find and kill Murdaloc in Agmond's End (49.75, 66.90)|
+C Murdaloc |QID|739| |OIDX|2| |N|Kill 12 Stonevault Bonesnapper or Stonevault Shaman found nearby at Agmond's End (50, 70)| |PRE|707|
 C Indurium |QID|1108| |N|Collect 10 Indurium Flake from Stonevault mobs in Agmond's End (49.97, 68.31)|  |PRE|1106|
 T Indurium |QID|1108| |N|Martek the Exiled in Valley of Fangs (42.20, 52.72)|  |PRE|1106|
 R Agmond's End |QID|739| |N|Travel to Agmond's End (50.92, 62.36)|
@@ -75,7 +75,7 @@ C Study of the Elements: Rock (Part 1) |QID|710| |N|Kill the Lesser Rock Element
 T Study of the Elements: Rock (Part 1) |QID|710| |N|Lotwil Veriatus in The Dustbowl (25.91, 44.91)|
 A Study of the Elements: Rock (Part 2) |QID|711| |N|Lotwil Veriatus in The Dustbowl (25.91, 44.91)|
 C Study of the Elements: Rock (Part 2) |QID|711| |N|Kill Rock Elemental until you've collected 3 Large Stone Slab. They are found either further West or to the South of Badlands (15.52, 32.18)|
-N Rock Elemental Shard |QID|2500.3| |N|Kill Rock Elementals to collect 5 Rock Elemental Shard (15.52, 32.18)|
+C Rock Elemental Shard |QID|2500| |OIDX|3| |N|Kill Rock Elementals to collect 5 Rock Elemental Shard (15.52, 32.18)|
 T Study of the Elements: Rock (Part 2) |QID|711| |N|Lotwil Veriatus in The Dustbowl (25.91, 44.91)|
 A Study of the Elements: Rock (Part 3) |QID|712| |N|Lotwil Veriatus in The Dustbowl (25.91, 44.91)|
 

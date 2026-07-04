@@ -31,8 +31,8 @@ A Auntie Marlene |QID|5152| |N|Pamela Redpath in Darrowshire (36.45, 90.83)| |Z|
 A Uncle Carlin |QID|5241| |N|Pamela Redpath in Darrowshire (36.45, 90.83)| |Z|Eastern Plaguelands|
 
 N As you go... |AYG|5542| |QID|5544| |N|Kill Carrion Grub for 15 Slab of Carrion Worm Meat|
-K Plaguebat |QID|5543.1| |N|Kill 30 Plaguebat (35.77, 81.88) (24.60, 68.22) (22.62, 80.33)| |Z|Eastern Plaguelands|
-K Plaguehound Runt |QID|5542.1| |N|Kill 20 Plaguehound Runt (32.81, 67.77) (19.74, 71.76)| |Z|Eastern Plaguelands|
+C Plaguebat |QID|5543| |OIDX|1| |N|Kill 30 Plaguebat (35.77, 81.88) (24.60, 68.22) (22.62, 80.33)| |Z|Eastern Plaguelands|
+C Plaguehound Runt |QID|5542| |OIDX|1| |N|Kill 20 Plaguehound Runt (32.81, 67.77) (19.74, 71.76)| |Z|Eastern Plaguelands|
 
 R Light's Hope Chapel |QID|5281| |N|Travel east to Light's Hope Chapel (79.55, 64.07)| |Z|Eastern Plaguelands|
 A The Restless Souls |QID|5281| |N|Caretaker Alen in Light's Hope Chapel (79.55, 64.07)| |Z|Eastern Plaguelands|
@@ -48,21 +48,21 @@ N Living Rot |QID|6022| |N|Kill Scourge at Corin's Crossing for 7 Living Rot - m
 C To Kill With Purpose |QID|6022| |N|Use Mortar and Pestle to grind the meat into Coagulated Rot| |U|15454|
 
 N As you go... |AYG|5544| |QID|5544| |N|Kill Noxious Plaguebat, Plaguehound, Diseased Flayer, Carrion Grub in any order|
-K Noxious Plaguebat |QID|6042.1| |N|Kill 20 Noxious Plaguebat (56.72, 62.35) (70.08, 59.87)| |Z|Eastern Plaguelands|
-K Plaguehound |QID|5542.2| |N|Kill 5 Plaguehound (79.18, 68.76) (70.90, 71.41)| |Z|Eastern Plaguelands|
-K Frenzied Plaguehound |QID|5542.3| |N|Kill 5 Frenzied Plaguehound (70.30, 44.54) (68.90, 36.51)| |Z|Eastern Plaguelands|
+C Noxious Plaguebat |QID|6042| |OIDX|1| |N|Kill 20 Noxious Plaguebat (56.72, 62.35) (70.08, 59.87)| |Z|Eastern Plaguelands|
+C Plaguehound |QID|5542| |OIDX|2| |N|Kill 5 Plaguehound (79.18, 68.76) (70.90, 71.41)| |Z|Eastern Plaguelands|
+C Frenzied Plaguehound |QID|5542| |OIDX|3| |N|Kill 5 Frenzied Plaguehound (70.30, 44.54) (68.90, 36.51)| |Z|Eastern Plaguelands|
 K Carrion Grub |QID|5544| |N|Kill Carrion Grub for 15 Slab of Carrion Worm Meat (67.9, 61.0) (73.0, 71.8)| |Z|Eastern Plaguelands|
 
-K Diseased Flayer |QID|5211.1| |N|Kill Diseased Flayer then speak to Darrowshire Spirit that spawns to free the spirit (65.96, 39.86)| |Z|Eastern Plaguelands|
+C Diseased Flayer |QID|5211| |OIDX|1| |N|Kill Diseased Flayer then speak to Darrowshire Spirit that spawns to free the spirit (65.96, 39.86)| |Z|Eastern Plaguelands|
 
 R Zul'Mashar |QID|6024| |N|Travel to Zul'Mashar (64.32, 22.56)| |Z|Eastern Plaguelands|
-K Infiltrator Hameya |QID|6024.1| |N|Go around graveyard and kill Infiltrator Hameya for Hameya's Key (70.77, 16.07)| |Z|Eastern Plaguelands|
+C Infiltrator Hameya |QID|6024| |OIDX|1| |N|Go around graveyard and kill Infiltrator Hameya for Hameya's Key (70.77, 16.07)| |Z|Eastern Plaguelands|
 
 R Eastwall Tower |QID|6042| |N|Travel to Eastwall Tower (69.96, 49.67)| |Z|Eastern Plaguelands|
 K Monstrous Plaguebat |QID|6042| |N|Kill 10 Monstrous Plaguebat near Eastwall Tower (69.96, 49.67) (60.52, 49.08)| |Z|Eastern Plaguelands|
 
 R Quel'Lithien Lodge |QID|6133| |N|Travel to Quel'Lithien Lodge (51.74, 21.91)| |Z|Eastern Plaguelands|
-N Quel'Thalas Registry |QID|6133.4| |N|Collect Quel'Thalas Registry from bench seat in Quel'Lithien Lodge - guarded by 2-3 Blood Elves, may need help. Safe to skip (51.03, 16.25)| |Z|Eastern Plaguelands| |OBJ|1128|
+C Quel'Thalas Registry |QID|6133| |OIDX|4| |N|Collect Quel'Thalas Registry from bench seat in Quel'Lithien Lodge - guarded by 2-3 Blood Elves, may need help. Safe to skip (51.03, 16.25)| |Z|Eastern Plaguelands| |OBJ|1128|
 C The Ranger Lord's Behest |QID|6133| |N|Kill the required Blood Elves in Quel'Lithien Lodge (52.81, 15.92)| |Z|Eastern Plaguelands|
 
 N As you go... |AYG|5903| |QID|9126| |N|Collect 30 Bone Fragments from Skeletons| |L|22526 30|

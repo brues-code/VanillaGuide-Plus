@@ -57,9 +57,9 @@ T Scalding Mornbrew Delivery |QID|3364| |N|Durnan Furcutter in Coldridge Valley 
 A Bring Back the Mug |QID|3365| |N|Durnan Furcutter in Coldridge Valley (28.75, 66.36)|
 T Bring Back the Mug |QID|3365| |N|Nori Pridedrift in Coldridge Valley (25.00, 75.94)|
 
-N Felix's Box |QID|3361.1| |N|Collect Felix's Box at the troll camp (20.9, 76.1)|
-N Felix's Chest |QID|3361.2| |N|Collect Felix's Chest at the troll camp (22.8, 79.9)|
-N Felix's Bucket of Bolts |QID|3361.3| |N|Collect Felix's Bucket of Bolts at the troll camp (26.3, 79.3)|
+C Felix's Box |QID|3361| |OIDX|1| |N|Collect Felix's Box at the troll camp (20.9, 76.1)|
+C Felix's Chest |QID|3361| |OIDX|2| |N|Collect Felix's Chest at the troll camp (22.8, 79.9)|
+C Felix's Bucket of Bolts |QID|3361| |OIDX|3| |N|Collect Felix's Bucket of Bolts at the troll camp (26.3, 79.3)|
 
 C Beginnings |QID|1599| |N|Kill 3 Frostmane Novice inside the cave - follow path left (26, 80)| |C|Warlock|
 C The Troll Cave |QID|182| |N|Kill 14 Frostmane Troll Whelp (26, 78)|
@@ -108,7 +108,7 @@ C Ammo for Rumbleshot |QID|5541| |N|Collect Rumbleshot's Ammo from crate near Gr
 T Ammo for Rumbleshot |QID|5541| |N|Hegnar Rumbleshot south of Kharanos (40.69, 65.14)|
 
 C Stocking Jetsteam |QID|317| |N|Kill Dire Mottled Boar for 4 Chunk of Boar Meat and Young Black Bear for 2 Thick Bear Fur (50, 52)|
-K Elder Crag Boar |QID|384.1| |N|Kill Elder Crag Boar or any boar for Crag Boar Rib (45, 45)|
+C Elder Crag Boar |QID|384| |OIDX|1| |N|Kill Elder Crag Boar or any boar for Crag Boar Rib (45, 45)|
 
 R Steelgrill's Depot |QID|313| |N|Return to Steelgrill's Depot (49.66, 48.57)|
 T The Grizzled Den |QID|313| |N|Pilot Stonegear in Steelgrill's Depot (49.66, 48.57)|
@@ -116,7 +116,7 @@ T Stocking Jetsteam |QID|317| |N|Pilot Bellowfiz in Steelgrill's Depot (49.49, 4
 A Evershine |QID|318| |N|Pilot Bellowfiz in Steelgrill's Depot (49.49, 48.37)|
 
 R Kharanos |QID|384| |N|Return to Kharanos (46.81, 52.37)|
-B Rhapsody Malt |QID|384.2| |N|Buy Rhapsody Malt from Innkeeper Belm (47.4, 52.5)| |L|2894|
+B Rhapsody Malt |QID|384| |OIDX|2| |N|Buy Rhapsody Malt from Innkeeper Belm (47.4, 52.5)| |L|2894|
 T Beer Basted Boar Ribs |QID|384| |N|Ragnar Thunderbrew in Kharanos (46.81, 52.37)|
 
 R Chill Breeze Valley |QID|312| |N|Travel southwest to Chill Breeze Valley (34.57, 51.63)|

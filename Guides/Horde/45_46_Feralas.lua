@@ -104,17 +104,17 @@ R Camp Mojache |QID|3122| |N|Travel or Hearthstone to Camp Mojache (74.41, 43.38
 T Return to Witch Doctor Uzer'i |QID|3122| |N|Witch Doctor Uzer'i in Camp Mojache (74.41, 43.38)| |Z|Feralas|
 A Testing the Vessel |QID|3123| |N|Witch Doctor Uzer'i in Camp Mojache (74.41, 43.38)| |Z|Feralas|
 A Natural Materials |QID|3128| |N|Witch Doctor Uzer'i in Camp Mojache (74.43, 43.37)| |Z|Feralas|
-K Sprite Darter |QID|3128.2| |N|Kill Sprite Darter and collect 6 Encrusted Minerals (69.52, 47.23)| |Z|Feralas|
+C Sprite Darter |QID|3128| |OIDX|2| |N|Kill Sprite Darter and collect 6 Encrusted Minerals (69.52, 47.23)| |Z|Feralas|
 
 R High Wilderness |QID|3128| |N|Travel to High Wilderness (67.79, 49.72) (64.81, 50.10) (56.84, 65.87)| |Z|Feralas|
 N As you go... |QID|3128| |N|Kill Frayfeather Stagwing or Frayfeather Hippogryph and collect 20 Resilient Sinew and 40 Metallic Fragments in High Wilderness|
-K Wandering Forest Walker |QID|3128.1| |N|Kill Wandering Forest Walker and collect 2 Splintered Log in Feralas, Wandering Forest Walker only spawn in 4 possible locations with 5 mins respawn time, tick this step after you kill one and check again later (57.4, 73.3)|
+C Wandering Forest Walker |QID|3128| |OIDX|1| |N|Kill Wandering Forest Walker and collect 2 Splintered Log in Feralas, Wandering Forest Walker only spawn in 4 possible locations with 5 mins respawn time, tick this step after you kill one and check again later (57.4, 73.3)|
 N Hippogryph Egg |QID|2741| |N|Collect Hippogryph Egg from the bird nest in Ruins of Isildien (57.79, 74.64) (58.58, 75.55)| |Z|Feralas| |L|8564|
-R High Wilderness |QID|3128.1| |N|Travel to High Wilderness (54.50, 68.38)| |Z|Feralas| |L|8564|
-C Natural Materials |QID|3128.3| |N|Kill Frayfeather Stagwing or Frayfeather Hippogryph 20 Resilient Sinew and 40 Metallic Fragments in High Wilderness (54.50, 68.38)| |Z|Feralas|
-C Natural Materials |QID|3128.4| |N|Kill Frayfeather Stagwing or Frayfeather Hippogryph 20 Resilient Sinew and 40 Metallic Fragments in High Wilderness (54.50, 68.38)| |Z|Feralas|
+R High Wilderness |QID|3128| |OIDX|1| |N|Travel to High Wilderness (54.50, 68.38)| |Z|Feralas| |L|8564|
+C Natural Materials |QID|3128| |OIDX|3| |N|Kill Frayfeather Stagwing or Frayfeather Hippogryph 20 Resilient Sinew and 40 Metallic Fragments in High Wilderness (54.50, 68.38)| |Z|Feralas|
+C Natural Materials |QID|3128| |OIDX|4| |N|Kill Frayfeather Stagwing or Frayfeather Hippogryph 20 Resilient Sinew and 40 Metallic Fragments in High Wilderness (54.50, 68.38)| |Z|Feralas|
 
-K Wandering Forest Walker |QID|3128.1| |N|Kill Wandering Forest Walker and collect 2 Splintered Log in Feralas, Wandering Forest Walker only spawn in 4 possible locations with 5 mins respawn time, tick this step after you kill one and check again later (73.9, 38.8) (73.5, 54.5)|
+C Wandering Forest Walker |QID|3128| |OIDX|1| |N|Kill Wandering Forest Walker and collect 2 Splintered Log in Feralas, Wandering Forest Walker only spawn in 4 possible locations with 5 mins respawn time, tick this step after you kill one and check again later (73.9, 38.8) (73.5, 54.5)|
 A Perfect Yeti Hide |QID|7738| |N|Use Perfect Yeti Hide to accept quest (49.09, 47.33)| |Z|Feralas| |U|18972| |O|
 T Perfect Yeti Hide |QID|7738| |N|Jangdor Swiftstrider in Camp Mojache (74.43, 42.92)| |Z|Feralas| |O|
 T Natural Materials |QID|3128| |N|Witch Doctor Uzer'i in Camp Mojache (74.42, 43.36)| |Z|Feralas| 

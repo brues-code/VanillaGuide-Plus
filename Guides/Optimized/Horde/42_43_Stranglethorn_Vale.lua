@@ -51,8 +51,8 @@ A Stoley's Debt |QID|2872| |N|\Sea Wolf\ MacKinley in Booty Bay (27.8, 77.1)|
 A Keep An Eye Out |QID|576| |N|Dizzy One-Eye in Booty Bay (28.6, 75.8)|
 
 R Wild Shore |QID|587| |N|Travel to Wild Shore (30.85, 72.37) (32.93, 74.27)| |Z|Stranglethorn Vale|
-N Bloodsail Charts |QID|604.2| |N|Collect Bloodsail Charts on top the table in Wild Shore (26.9, 82.5)| |Z|Stranglethorn Vale|
-N Bloodsail Orders |QID|604.3| |N|Collect Bloodsail Orders on top of the crate in Wild Shore (27.8, 83.1)| |Z|Stranglethorn Vale|
+C Bloodsail Charts |QID|604| |OIDX|2| |N|Collect Bloodsail Charts on top the table in Wild Shore (26.9, 82.5)| |Z|Stranglethorn Vale|
+C Bloodsail Orders |QID|604| |OIDX|3| |N|Collect Bloodsail Orders on top of the crate in Wild Shore (27.8, 83.1)| |Z|Stranglethorn Vale|
 N South Seas Delicacy |QID|60155| |N|Kill crabs for legs|
 C The Bloodsail Buccaneers (Part 3) |QID|604| |N|Kill 10 Bloodsail Swashbuckler in Wild Shore (30.31, 80.75)|
 C Up to Snuff |QID|587| |N|Kill Bloodsail pirates and collect 15 Snuff in Wild Shore (30, 80)|
@@ -65,18 +65,18 @@ T The Bloodsail Buccaneers (Part 4) |QID|604| |N|Fleet Master Seahorn in Booty B
 T Keep An Eye Out |QID|576| |N|Dizzy One-Eye in Booty Bay (28.6, 75.8)|
 
 R Southern Savage Coast |QID|617| |N|Travel to Southern Savage Coast (30.85, 72.37) (28.88, 58.10)| |Z|Stranglethorn Vale|
-N Holy Spring Water |QID|573.2| |N|Collect Holy Spring Water from the well by Nek'mani Wellspring fo (28, 61)| |PRE|573|
+C Holy Spring Water |QID|573| |OIDX|2| |N|Collect Holy Spring Water from the well by Nek'mani Wellspring fo (28, 61)| |PRE|573|
 C Akiris by the Bundle |QID|617| |N|Kill the Naga at the Nek'mani Wellspring for 10 Akiris Reed (25.72, 61.20)|
 C Naga Tridents |QID|60481| |N|Kill the Naga at for 14 Tridents (25.72, 61.20)|
 C Mok'thardin's Enchantment (Part 4) |QID|573| |N|Kill 10 Naga Explorer at the Nek'mani Wellspring (25.72, 61.20)| |PRE|573|
 
 R Ruins of Jubuwal |QID|609| |N|Travel to Ruins of Jubuwal (27.16, 58.98) (29.81, 56.60)(30.88, 53.61) (34.75, 51.82)| |Z|Stranglethorn Vale|
 N As you go... |AYG|609| |QID|621| |N|Collect 12 Zanzil's Mixture drop from any Zanzil mobs|
-K Jon-Jon the Crow |QID|609.2| |N|Kill Jon-Jon the Crow and collect Jon-Jon's Golden Spyglass in Ruins of Jubuwal (34.75, 51.82)| |Z|Stranglethorn Vale|
-K Maury \Club Foot\ Wilkins |QID|609.1| |N|Kill Maury \Club Foot\ Wilkins and collect Maury's Clubbed Foot in Ruins of Jubuwal (35.18, 51.11)| |Z|Stranglethorn Vale|
+C Jon-Jon the Crow |QID|609| |OIDX|2| |N|Kill Jon-Jon the Crow and collect Jon-Jon's Golden Spyglass in Ruins of Jubuwal (34.75, 51.82)| |Z|Stranglethorn Vale|
+C Maury \Club Foot\ Wilkins |QID|609| |OIDX|1| |N|Kill Maury \Club Foot\ Wilkins and collect Maury's Clubbed Foot in Ruins of Jubuwal (35.18, 51.11)| |Z|Stranglethorn Vale|
 
 R Ruins of Aboraz |QID|621| |N|Travel to Ruins of Aboraz (33.90, 54.00) (38.34, 56.71)| |Z|Stranglethorn Vale|
-K Chucky \Ten Thumbs\ |QID|609.3| |N|Kill Maury \Club Foot\ Wilkins and collect Chucky's Huge Ring in Ruins of Aboraz (40.05, 58.21)| |Z|Stranglethorn Vale|
+C Chucky \Ten Thumbs\ |QID|609| |OIDX|3| |N|Kill Maury \Club Foot\ Wilkins and collect Chucky's Huge Ring in Ruins of Aboraz (40.05, 58.21)| |Z|Stranglethorn Vale|
 C Zanzil's Secret |QID|621| |N|Kill Zanzil Hunter and Zanzil Zombie at the Ruins of Aboraz for 12 Zanzil's Mixture (40, 57)|
 
 R Stranglethorn Vale |QID|621| |N|Travel to Stranglethorn Vale|

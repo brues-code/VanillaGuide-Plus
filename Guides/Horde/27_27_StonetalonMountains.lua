@@ -24,8 +24,8 @@ N As you go... |AYG|1096| |QID|1068| |N|Look for and kill XT:4 and XT:9, they ro
 R Cragpool Lake |QID|1096| |N|Travel to Cragpool Lake (69.0, 40.1)| |Z|Stonetalon Mountains| |REACH|
 C Gerenzo Wrenchwhistle |QID|1096| |N|Kill Gerenzo Wrenchwhistle at the Cragpool Lake in the Water Wheel and take Gerenzo's Mechanical Arm (69.0, 40.1) (67.9, 37.7) (64, 39)| |Z|Stonetalon Mountains|
 R Windshear Crag |QID|1068| |N|Travel to Windshear Crag (65.4, 57.2)| |Z|Stonetalon Mountains|
-K XT:4 |QID|1068.1|  |N|Kill XT:4 found roaming on the upper side of Windshear Crag (65.4, 57.2)| |Z|Stonetalon Mountains|
-K XT:4 |QID|1068.2|  |N|Kill XT:9 found roaming on the upper side of Windshear Crag (63.6, 56.1)| |Z|Stonetalon Mountains|
+K XT:4 |QID|1068| |OIDX|1|  |N|Kill XT:4 found roaming on the upper side of Windshear Crag (65.4, 57.2)| |Z|Stonetalon Mountains|
+K XT:4 |QID|1068| |OIDX|2|  |N|Kill XT:9 found roaming on the upper side of Windshear Crag (63.6, 56.1)| |Z|Stonetalon Mountains|
 T Gerenzo Wrenchwhistle |QID|1096| |N|Ziz Fizziks in Windshear Crag (58.99, 62.52)| |Z|Stonetalon Mountains|
 T Jin'Zil's Forest Magic |QID|1058| |N|Witch Doctor Jin'Zil in Malaka'jin (74.55, 97.84)|
 T Shredding Machines |Z|The Barrens| |QID|1068| |N|Seereth Stonebreak in The Barrens (35.29, 27.87)| |Z|The Barrens|

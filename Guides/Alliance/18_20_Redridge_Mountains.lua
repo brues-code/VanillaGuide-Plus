@@ -69,11 +69,11 @@ T A Free Lunch |QID|129| |N|Guard Parker in Three Corners (15.32, 71.42)|
 A Visit the Herbalist |QID|130| |N|Guard Parker in Three Corners (15.32, 71.42)|
 
 R Three Corners |QID|92| |N|Travel to Three Corners (12.20, 77.99)|
-K Tarantula |QID|92.3| |N|Kill Tarantula and collect 5 Crisp Spider Meat in Three Corners (12.20, 77.99)| |L|1081 5|
+C Tarantula |QID|92| |OIDX|3| |N|Kill Tarantula and collect 5 Crisp Spider Meat in Three Corners (12.20, 77.99)| |L|1081 5|
 
 R Lakeridge Highway |QID|92| |N|Travel to Lakeridge Highway (30.88, 83.20)|
 C Assessing the Threat |QID|246| |N|Kill 10 Redridge Mongrel and 6 Redridge Poacher which can be found to the south in Lakeridge Highway (30.88, 83.20) (41.98, 72.88)|
-K Dire Condor |QID|92.2| |N|Kill Dire Condor and get 5 pieces of Tough Condor Meat. Tip: Also kill Black Dragon Whelp in the area for easy XP (59.10, 77.17)| |L|1080 5|
+C Dire Condor |QID|92| |OIDX|2| |N|Kill Dire Condor and get 5 pieces of Tough Condor Meat. Tip: Also kill Black Dragon Whelp in the area for easy XP (59.10, 77.17)| |L|1080 5|
 C Underbelly Scales |QID|122| |N|Kill Black Dragon Whelp and collect 6 Underbelly Whelp Scale in Lakeridge Highway (33.37, 67.13)| |Z|Redridge Mountains|
 
 R Lakeshire |QID|131| |N|Travel to Lakeshire (30.74, 60.15)| |REACH|
@@ -103,7 +103,7 @@ A Mathias and the Defias |QID|2360| |N|Master Mathias Shaw in SI:7 (75.91, 59.95
 R The Dust Plains |QID|2360| |N|Travel to The Dust Plains in Westfall (68.45, 70.08)| |Z|Westfall| |C|Rogue|
 T Mathias and the Defias |QID|2360| |N|Agent Kearnen in The Dust Plains (68.45, 70.08)| |Z|Westfall| |C|Rogue|
 A Klaven's Tower |QID|2359| |N|Agent Kearnen in The Dust Plains (68.45, 70.08)| |Z|Westfall| |C|Rogue|
-N Malformed Defias Drone |QID|2359.2| |N|Use (spell:921) on Malformed Defias Drone to steal the Defias Tower Key in The Dust Plains (69.51, 74.82)| |Z|Westfall| |C|Rogue|
+C Malformed Defias Drone |QID|2359| |OIDX|2| |N|Use (spell:921) on Malformed Defias Drone to steal the Defias Tower Key in The Dust Plains (69.51, 74.82)| |Z|Westfall| |C|Rogue|
 f Sentinel Hill |QID|2607| |N|Speak to Thor and grab flight path for Sentinel Hill (56.52, 52.66)| |Z|Westfall| |C|Rogue|
 
 R SI:7 |QID|2607| |N|Travel to SI:7 in Stormwind City (75.91, 59.95)| |Z|Stormwind City| |C|Rogue|
@@ -116,14 +116,14 @@ T The Touch of Zanzil |QID|2608| |N|Doc Mixilpixil in SI:7 (77.98, 58.90)| |Z|St
 A The Touch of Zanzil |QID|2609| |N|Doc Mixilpixil in SI:7 (77.98, 58.90)| |Z|Stormwind City| |C|Rogue|
 N Please Read |QID|2609| |N|It's optional to complete the Touch of Zanzil quest if you can find a Druid, Priest, or Paladin to dispel the (spell:9991) debuff. Dwarf can use (spell:20594) racial to remove the poison, otherwise you will need to complete the quest to get the cure. All the mats for the quest can be found in Stormwind but the Bronze Tube is a limited item and may not be available to purchase. Tick to continue| |C|Rogue|
 
-B Simple Wildflowers |QID|2609.1| |N|Buy Simple Wildflowers from Bernard Gump in The Canals (65.13, 60.05) (64.19, 61.12)| |Z|Stormwind City| |C|Rogue|
-B Leaded Vial |QID|2609.2| |N|Buy Leaded Vial from Edna Mullby in Trade District (58.10, 60.64)| |Z|Stormwind City| |C|Rogue|
-N Spool of Light Chartreuse Silk Thread |QID|2609.4| |N|Collect Spool of Light Chartreuse Silk Thread from the floor inside the shop, it's near the crate on the left hand side as you walk in (39.97, 46.23)| |Z|Stormwind City| |C|Rogue|
-B Bronze Tube |QID|2609.3| |N|It is easiest to purchase Bronze Tube from the Auction House, but it may be more expensive. Tick this step to try vendors (55.24, 7.12)| |Z|Stormwind City| |C|Rogue|
-B Bronze Tube |QID|2609.3| |N|Buy Bronze Tube from Billibub Cogspinner in Dwarven District. This is a limited supply item and may not be available. Tick this step to try another vendor (55.24, 7.12)| |Z|Stormwind City| |C|Rogue|
-B Bronze Tube |QID|2609.3| |N|Buy Bronze Tube from Loslor Rudge in Steelgrill's Depot. This is a limited supply item and may not be available. Tick this step to try another vendor (50.08, 49.36)| |Z|Dun Morogh| |C|Rogue|
-B Bronze Tube |QID|2609.3| |N|Buy Bronze Tube from Gearcutter Cogspinner in Tinker Town. This is a limited supply item and may not be available. Tick this step to try another vendor (67.87, 42.69)| |Z|Ironforge| |C|Rogue|
-B Bronze Tube |QID|2609.3| |N|Buy Bronze Tube from Neal Allen in Menethil Keep. This is a limited supply item and may not be available. (10.78, 56.73)| |Z|Wetlands| |C|Rogue|
+B Simple Wildflowers |QID|2609| |OIDX|1| |N|Buy Simple Wildflowers from Bernard Gump in The Canals (65.13, 60.05) (64.19, 61.12)| |Z|Stormwind City| |C|Rogue|
+B Leaded Vial |QID|2609| |OIDX|2| |N|Buy Leaded Vial from Edna Mullby in Trade District (58.10, 60.64)| |Z|Stormwind City| |C|Rogue|
+C Spool of Light Chartreuse Silk Thread |QID|2609| |OIDX|4| |N|Collect Spool of Light Chartreuse Silk Thread from the floor inside the shop, it's near the crate on the left hand side as you walk in (39.97, 46.23)| |Z|Stormwind City| |C|Rogue|
+B Bronze Tube |QID|2609| |OIDX|3| |N|It is easiest to purchase Bronze Tube from the Auction House, but it may be more expensive. Tick this step to try vendors (55.24, 7.12)| |Z|Stormwind City| |C|Rogue|
+B Bronze Tube |QID|2609| |OIDX|3| |N|Buy Bronze Tube from Billibub Cogspinner in Dwarven District. This is a limited supply item and may not be available. Tick this step to try another vendor (55.24, 7.12)| |Z|Stormwind City| |C|Rogue|
+B Bronze Tube |QID|2609| |OIDX|3| |N|Buy Bronze Tube from Loslor Rudge in Steelgrill's Depot. This is a limited supply item and may not be available. Tick this step to try another vendor (50.08, 49.36)| |Z|Dun Morogh| |C|Rogue|
+B Bronze Tube |QID|2609| |OIDX|3| |N|Buy Bronze Tube from Gearcutter Cogspinner in Tinker Town. This is a limited supply item and may not be available. Tick this step to try another vendor (67.87, 42.69)| |Z|Ironforge| |C|Rogue|
+B Bronze Tube |QID|2609| |OIDX|3| |N|Buy Bronze Tube from Neal Allen in Menethil Keep. This is a limited supply item and may not be available. (10.78, 56.73)| |Z|Wetlands| |C|Rogue|
 T The Touch of Zanzil |QID|2609| |N|Doc Mixilpixil in SI:7 (78.02, 58.87)| |Z|Stormwind City| |C|Rogue|
 U Eau de Mixilpixil |N|Use Eau de Mixilpixil to cure the (spell:9991) debuff| |U|8432| |C|Rogue|
 

@@ -13,8 +13,8 @@ A Caught! |QID|4449| |N|Wooden Outhouse in Grimesilt Dig Site (65.51, 62.14)| |Z
 C Caught! |QID|4449| |N|Kill 8 Dark Iron Geologist and collect 15 Silk Cloth in Grimesilt Dig Site. Dark Iron Geologist are quite limited in the area, you will have to wait for respawn, just keep grinding other nearby npc while you wait (63.03, 58.88)| |Z|Searing Gorge|
 T Caught! |QID|4449| |N|Wooden Outhouse in Grimesilt Dig Site (65.51, 62.14)| |Z|Searing Gorge| |OBJ|3332|
 A Ledger from Tanaris |QID|4450| |N|Wooden Outhouse in Grimesilt Dig Site (65.51, 62.14)| |Z|Searing Gorge| |OBJ|3332|
-N Goodsteel Ledger |QID|4450.1| |N|Collect Goodsteel Ledger on the ground next to the Wooden Outhouse in Grimesilt Dig Site (65.51, 62.17)| |Z|Searing Gorge| |OBJ|2530|
-K Glassweb Spider |QID|4450.2| |N|Kill Glassweb Spider and collect 20 Solid Crystal Leg Shaft in The Sea of Cinders (60.00, 70.26) (61.95, 51.54)| |Z|Searing Gorge|
+C Goodsteel Ledger |QID|4450| |OIDX|1| |N|Collect Goodsteel Ledger on the ground next to the Wooden Outhouse in Grimesilt Dig Site (65.51, 62.17)| |Z|Searing Gorge| |OBJ|2530|
+C Glassweb Spider |QID|4450| |OIDX|2| |N|Kill Glassweb Spider and collect 20 Solid Crystal Leg Shaft in The Sea of Cinders (60.00, 70.26) (61.95, 51.54)| |Z|Searing Gorge|
 
 R Thorium Point |QID|3441| |N|Travel to Thorium Point (66.98, 41.68) (39.05, 38.95)| |Z|Searing Gorge| |REACH|
 A Divine Retribution |QID|3441| |N|Kalaran Windblade in Thorium Point (66.98, 41.68) (39.05, 38.95)| |Z|Searing Gorge|
@@ -33,8 +33,8 @@ A What the Flux? |QID|7722| |N|Master Smith Burninate in Thorium Point (38.46, 2
 f Thorium Point |QID|3442| |N|Speak to Grisha and grab flight path for Thorium Point (34.86, 30.89)| |Z|Searing Gorge|
 
 N As you go... |AYG|3442| |QID|3443| |N|You can complete the quest in any order, click the green waypoint button to switch quests. Priotise killing Elementals for the quest 'The Flawless Flame'|
-K Dark Iron Steamsmith |QID|7728.1| |N|Kill Dark Iron Steamsmith collect Smithing Tuyere in The Cauldron (40.71, 49.49)| |Z|Searing Gorge|
-K Dark Iron Lookout |QID|7728.2| |N|Kill Dark Iron Lookout and collect Lookout's Spyglass in The Sea of Cinders (53.54, 58.33)| |Z|Searing Gorge|
+C Dark Iron Steamsmith |QID|7728| |OIDX|1| |N|Kill Dark Iron Steamsmith collect Smithing Tuyere in The Cauldron (40.71, 49.49)| |Z|Searing Gorge|
+C Dark Iron Lookout |QID|7728| |OIDX|2| |N|Kill Dark Iron Lookout and collect Lookout's Spyglass in The Sea of Cinders (53.54, 58.33)| |Z|Searing Gorge|
 C The Flawless Flame |QID|3442| |N|Kill Blazing Elemental for 4 Heart of Flame and Magma Elemental for 4 Golem Oil near Thorium Point. You will have to wait for respawn (39.09, 41.74) (31.34, 43.75) (42.68, 38.59)| |Z|Searing Gorge|
 C Fiery Menace! |QID|7724| |N|Kill 20 Greater Lava Spider in Firewatch Ridge (28.07, 45.91)| |Z|Searing Gorge|
 C Curse These Fat Fingers |QID|7723| |N|Kill 20 Heavy War Golem in Firewatch Ridge (35.47, 46.92)| |Z|Searing Gorge|
@@ -75,10 +75,10 @@ A Squire Maltrake |QID|3462| |N|Kalaran Windblade in Thorium Point (39.16, 39.00
 T Squire Maltrake |QID|3462| |N|Kalaran Windblade in Thorium Point (39.16, 39.00)| |Z|Searing Gorge| |PRE|3452|
 A Set Them Ablaze! |QID|3463| |N|Squire Maltrake in Thorium Point (39.16, 39.00)| |Z|Searing Gorge| |PRE|3452|
 N As you go... |AYG|3463| |QID|4451| |N|Look for Grimesilt Outhouse Key from Dark Iron dwarves to start a new quest| |L|11818| |PRE|3452|
-N Northern Tower Ablaze |QID|3463.4| |N|Equip Torch of Retribution and click on Sentry Brazier Northern Tower in The Cauldron (33.31, 54.44)| |Z|Searing Gorge| |PRE|3452| |OBJ|524| |U|10515|
-N Western Tower Ablaze |QID|3463.1| |N|Equip Torch of Retribution and click on Sentry Brazier Western Tower (35.72, 60.69)| |Z|Searing Gorge| |PRE|3452| |OBJ|524| |U|10515|
-N Southern Tower Ablaze |QID|3463.2| |N|Equip Torch of Retribution and click on Sentry Brazier Southern Tower in The Cauldron (43.98, 60.91)| |Z|Searing Gorge| |PRE|3452| |OBJ|524| |U|10515|
-N Eastern Tower Ablaze |QID|3463.3| |N|Equip Torch of Retribution and click on Sentry Brazier Eastern in The Cauldron (52.71, 57.69) (50.07, 54.86)| |Z|Searing Gorge| |PRE|3452| |OBJ|524| |U|10515|
+C Northern Tower Ablaze |QID|3463| |OIDX|4| |N|Equip Torch of Retribution and click on Sentry Brazier Northern Tower in The Cauldron (33.31, 54.44)| |Z|Searing Gorge| |PRE|3452| |OBJ|524| |U|10515|
+C Western Tower Ablaze |QID|3463| |OIDX|1| |N|Equip Torch of Retribution and click on Sentry Brazier Western Tower (35.72, 60.69)| |Z|Searing Gorge| |PRE|3452| |OBJ|524| |U|10515|
+C Southern Tower Ablaze |QID|3463| |OIDX|2| |N|Equip Torch of Retribution and click on Sentry Brazier Southern Tower in The Cauldron (43.98, 60.91)| |Z|Searing Gorge| |PRE|3452| |OBJ|524| |U|10515|
+C Eastern Tower Ablaze |QID|3463| |OIDX|3| |N|Equip Torch of Retribution and click on Sentry Brazier Eastern in The Cauldron (52.71, 57.69) (50.07, 54.86)| |Z|Searing Gorge| |PRE|3452| |OBJ|524| |U|10515|
 
 A The Key to Freedom |QID|4451| |N|Use Grimesilt Outhouse Key to accept quest| |Z|Searing Gorge| |U|11818| |O|
 R Grimesilt Dig Site |QID|4451| |N|Travel to Grimesilt Dig Site (65.51, 62.14)| |Z|Searing Gorge| |O|

@@ -22,7 +22,7 @@ T The Princess Trapped |QID|642| |N|Iridescent shards in Drywhisker Gorge (84.41
 A Stones of Binding |QID|651| |N|Iridescent shards in Drywhisker Gorge (84.31, 30.92)| |Z|Arathi Highlands|
 
 R Circle of East Binding |QID|651| |N|Exit the cave and travel to Circle of East Binding (79.54, 39.93) (69.93, 37.80) (66.66, 29.66)| |Z|Arathi Highlands|
-N Cresting Key |QID|651.2| |N|Collect Cresting Key from the stone in Circle of East Binding (66.70, 29.64)| |Z|Arathi Highlands|
+C Cresting Key |QID|651| |OIDX|2| |N|Collect Cresting Key from the stone in Circle of East Binding (66.70, 29.64)| |Z|Arathi Highlands|
 
 R Go'Shek Farm |QID|658| |N|Travel to Go'Shek Farm (60.17, 53.84)| |Z|Arathi Highlands|
 T Hints of a New Plague? (Part 1) |QID|659| |N|Quae in Go'Shek Farm (60.17, 53.84)| |Z|Arathi Highlands|
@@ -31,18 +31,18 @@ A Hints of a New Plague? (Part 2) |QID|658| |N|Quae in Go'Shek Farm (60.17, 53.8
 N Forsaken Courier |QID|658| |N|Keep checking the main road from east to west to kill Forsaken Courier for Sealed Folder for the quest 'Hints of a New Plague? (Part 1)', she travels between the farm and all the way to Hillsbrad entrance. Tick this step|
 
 R Witherbark Village |QID|691| |N|Travel to Witherbark Village (68.29, 74.52)| |Z|Arathi Highlands| |PRE|690|
-K Witherbark Shadow Hunter |QID|691.3| |N|Find and kill Witherbark Shadow Hunter inside the cave first and collect Shadow Hunter Knife in Witherbark Village, they are quite rare and only found inside the cave<br/><b>Collect Witherbark Tusk and Witherbark Medicine Pouch from the other troll as you go (67.33, 78.77)|  |PRE|690|
+C Witherbark Shadow Hunter |QID|691| |OIDX|3| |N|Find and kill Witherbark Shadow Hunter inside the cave first and collect Shadow Hunter Knife in Witherbark Village, they are quite rare and only found inside the cave<br/><b>Collect Witherbark Tusk and Witherbark Medicine Pouch from the other troll as you go (67.33, 78.77)|  |PRE|690|
 C Worth Its Weight in Gold |QID|691| |N|Kill Witherbark Witch Doctor for 4 Witherbark Medicine Pouch and Witherbark Headhunter for 10 Witherbark Tusk in Witherbark Village (67.33, 78.77)| |Z|Arathi Highlands|  |PRE|690|
 
 N As you go... |AYG|651| |QID|658| |N|Kill Forsaken Courier for Sealed Folder, she patrols on the main road between Go'Shek Farm and Hillsbrad Foothills|
-N Thundering Key |QID|651.3| |N|Collect Thundering Key from the stone in Circle of Outer Binding (52.09, 50.68)| |Z|Arathi Highlands| |OBJ|236|
+C Thundering Key |QID|651| |OIDX|3| |N|Collect Thundering Key from the stone in Circle of Outer Binding (52.09, 50.68)| |Z|Arathi Highlands| |OBJ|236|
 
 R Refuge Pointe |QID|693| |N|Travel to Refuge Pointe (46.18, 47.71)| |Z|Arathi Highlands|
 T Worth Its Weight in Gold |QID|691| |N|Apprentice Kryten in Refuge Pointe (46.18, 47.71)| |Z|Arathi Highlands| |PRE|690|
 A Wand over Fist |QID|693| |N|Skuerto in Refuge Pointe (46.59, 47.12)| |Z|Arathi Highlands|
 
 R Circle of West Binding |QID|651| |N|Travel to Circle of West Binding (34.68, 52.17) (23.36, 42.04) (25.43, 30.07)| |Z|Arathi Highlands|
-N Burning Key |QID|651.1| |N|Collect Burning Key from the stone in Circle of West Binding (52.09, 50.68)| |Z|Arathi Highlands|
+C Burning Key |QID|651| |OIDX|1| |N|Collect Burning Key from the stone in Circle of West Binding (52.09, 50.68)| |Z|Arathi Highlands|
 
 R Circle of Inner Binding |QID|651| |N|Travel to Circle of Inner Binding (36.24, 57.23)| |Z|Arathi Highlands|
 T Stones of Binding |QID|651| |N|Stone of inner Binding in Circle of Inner Binding (36.24, 57.25)| |Z|Arathi Highlands|
@@ -63,11 +63,11 @@ T Sunken Treasure (Part 1) |QID|665| |N|Doctor Draxlegauge in Faldir's Cove (33.
 A Sunken Treasure (Part 2) |QID|666| |N|Doctor Draxlegauge in Faldir's Cove (33.91, 80.44)| |Z|Arathi Highlands|
 U Goggles of Gem Hunting |QID|666| |N|Equip Goggles of Gem Hunting to help you find Elven Gem| |U|4492|
 
-N Maiden's Folly Charts |QID|662.1| |N|Collect Maiden's Folly Charts in The Drowned Reef. Inside the cauldron on the second floor of the ship (23.04, 84.44)| |Z|Arathi Highlands|
-N Maiden's Folly Log |QID|662.2| |N|Collect Maiden's Folly Log in The Drowned Reef. Bottom of the ship (20.41, 85.60)| |Z|Arathi Highlands|
-N Spirit of Silverpine Charts |QID|662.3| |N|Collect Spirit of Silverpine Charts in The Drowned Reef (20.63, 85.10)| |Z|Arathi Highlands|
-N Spirit of Silverpine Log |QID|662.4| |N|Collect Spirit of Silverpine Log in The Drowned Reef. It is a book on the bottom of the ship (23.04, 84.44)| |Z|Arathi Highlands|
-C Sunken Treasure (Part 2) |QID|666.1| |N|Collect 10 Elven Gem from the stones underwater in The Drowned Reef (22.58, 90.02)| |Z|Arathi Highlands|
+C Maiden's Folly Charts |QID|662| |OIDX|1| |N|Collect Maiden's Folly Charts in The Drowned Reef. Inside the cauldron on the second floor of the ship (23.04, 84.44)| |Z|Arathi Highlands|
+C Maiden's Folly Log |QID|662| |OIDX|2| |N|Collect Maiden's Folly Log in The Drowned Reef. Bottom of the ship (20.41, 85.60)| |Z|Arathi Highlands|
+C Spirit of Silverpine Charts |QID|662| |OIDX|3| |N|Collect Spirit of Silverpine Charts in The Drowned Reef (20.63, 85.10)| |Z|Arathi Highlands|
+C Spirit of Silverpine Log |QID|662| |OIDX|4| |N|Collect Spirit of Silverpine Log in The Drowned Reef. It is a book on the bottom of the ship (23.04, 84.44)| |Z|Arathi Highlands|
+C Sunken Treasure (Part 2) |QID|666| |OIDX|1| |N|Collect 10 Elven Gem from the stones underwater in The Drowned Reef (22.58, 90.02)| |Z|Arathi Highlands|
 C Drowned Sorrows |QID|664| |N|Kill 10 Daggerspine Raider and 3 Daggerspine Sorceress in Faldir's Cove (22.16, 83.00)| |Z|Arathi Highlands|
 
 R Faldir's Cove |TID|668| |N|Travel to Faldir's Cove (31.08, 65.63) (21.58, 72.95) (21.59, 75.59) (22.09, 79.73)| |Z|Arathi Highlands|

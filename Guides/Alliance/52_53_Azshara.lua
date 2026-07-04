@@ -30,9 +30,9 @@ T Prayer to Elune |QID|3378| |N|Astarii Starseeker in Temple of the Moon (38.29,
 h Craftsmen's Terrace |QID|3449| |N|Speak to Innkeeper Saelienne set hearth in Craftsmen's Terrace (67.42, 15.57)| |Z|Darnassus|
 
 R Temple of Zin-Malor |QID|3449| |N|Travel to Temple of Zin-Malor in Azshara (39.54, 50.12)| |Z|Azshara|
-N Rubbing: Rune of Jin'yael |QID|3449.2| |N|Collect Rubbing: Rune of Jin'yael from Rune of Jin'yael in Temple of Zin-Malor (39.54, 50.12)| |Z|Azshara| |OBJ|12925|
-N Rubbing: Rune of Beth'Amara |QID|3449.1| |N|Collect Rubbing: Rune of Beth'Amara from Rune of Beth'Amara in Temple of Zin-Malor (36.8, 53.2)| |Z|Azshara| |OBJ|12925|
-N Rubbing: Rune of Markri |QID|3449.3| |N|Collect Rubbing: Rune of Markri from Rune of Markri in Temple of Zin-Malor (39.36, 55.59)| |Z|Azshara| |OBJ|12925|
+N Rubbing: Rune of Jin'yael |QID|3449| |OIDX|2| |N|Collect Rubbing: Rune of Jin'yael from Rune of Jin'yael in Temple of Zin-Malor (39.54, 50.12)| |Z|Azshara| |OBJ|12925|
+N Rubbing: Rune of Beth'Amara |QID|3449| |OIDX|1| |N|Collect Rubbing: Rune of Beth'Amara from Rune of Beth'Amara in Temple of Zin-Malor (36.8, 53.2)| |Z|Azshara| |OBJ|12925|
+N Rubbing: Rune of Markri |QID|3449| |OIDX|3| |N|Collect Rubbing: Rune of Markri from Rune of Markri in Temple of Zin-Malor (39.36, 55.59)| |Z|Azshara| |OBJ|12925|
 
 R Legash Encampment |QID|3601| |N|Travel to Legash Encampment (46.22, 39.47) (44.89, 36.56) (53.28, 20.15)| |Z|Azshara|
 A Kim'jael Indeed! |QID|3601| |N|Kim'jael in Legash Encampment (53.28, 20.15) (53.16, 21.46) (53.46, 21.81)| |Z|Azshara|
@@ -50,7 +50,7 @@ T Kim'jael's "Missing" Equipment |QID|5534| |N|Kim'jael in Legash Encampment (53
 N Level 53 Required |N|Grind Blood Elf Surveyor in Thalassian Base Camp, until you reach level 53, they have low HP and easy to kill (58.29, 28.39)| |Z|Azshara|
 
 R Ruins of Eldarath |QID|3449| |N|Travel to Ruins of Eldarath (42.35, 64.12)| |Z|Azshara|
-N Rubbing: Rune of Sael'hai |QID|3449.4| |N|Collect Rubbing: Rune of Sael'hai from Rune of Sael'hai in Ruins of Eldarath (42.35, 64.12)| |Z|Azshara|
+N Rubbing: Rune of Sael'hai |QID|3449| |OIDX|4| |N|Collect Rubbing: Rune of Sael'hai from Rune of Sael'hai in Ruins of Eldarath (42.35, 64.12)| |Z|Azshara|
 
 R The Ruined Reaches |OID|3461| |N|Travel to The Ruined Reaches (43.91, 68.86) (62.28, 81.98) (63.71, 81.55) (65.04, 82.26) (67.03, 82.95) (77.80, 91.32)|
 U Standard Issue Flare Gun |TID|3449| |N|Use Standard Issue Flare Gun to summon Pilot Xiggs Fuselighter in The Ruined Reaches (77.81, 91.45)| |Z|Azshara| |U|10444|

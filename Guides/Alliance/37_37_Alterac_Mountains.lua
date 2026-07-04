@@ -14,8 +14,8 @@ C Crushridge Bounty |QID|500| |N|Kill Crushridge Ogre and collect 9 Dirty Knuckl
 
 R The Uplands |QID|512| |N|Travel to The Uplands (47.67, 18.58)| |Z|Alterac Mountains|
 N As you go... |N|Collect 7 Alterac Signet Ring from any Syndicate enemies|
-K Argus Shadow Mage |QID|512.1| |N|Kill 4 Argus Shadow Mage in The Uplands, you will only find one in each camp in The Uplands (58.43, 30.95) (55.43, 27.03) (52.97, 20.91) (47.67, 18.58)| |Z|Alterac Mountains|
-K Nagaz |QID|537.2| |N|Kill Nagaz inside the house and collect Head of Nagaz in Dandred's Fold (39.34, 15.01)| |Z|Alterac Mountains|
+C Argus Shadow Mage |QID|512| |OIDX|1| |N|Kill 4 Argus Shadow Mage in The Uplands, you will only find one in each camp in The Uplands (58.43, 30.95) (55.43, 27.03) (52.97, 20.91) (47.67, 18.58)| |Z|Alterac Mountains|
+C Nagaz |QID|537| |OIDX|2| |N|Kill Nagaz inside the house and collect Head of Nagaz in Dandred's Fold (39.34, 15.01)| |Z|Alterac Mountains|
 N Ensorcelled Parchment |QID|551| |N|Collect Ensorcelled Parchment from the chest in Dandred's Fold (39.21, 14.66)| |L|3706|
 A The Ensorcelled Parchment |QID|551| |N|Use Ensorcelled Parchment to accept quest| |Z|Alterac Mountains| |U|3706| |O|
 C Noble Deaths |QID|512| |N|Collect 7 Alterac Signet Ring from any Syndicate enemies (47.67, 18.58)|

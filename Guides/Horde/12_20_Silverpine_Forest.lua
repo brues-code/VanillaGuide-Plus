@@ -53,7 +53,7 @@ C Prove Your Worth |QID|421| |N|Kill 5 Moonrage Whitescalp just outside of The S
 T Prove Your Worth |QID|421| |N|Dalar Dawnweaver in The Sepulcher (44.20, 39.80)| |Z|Silverpine Forest|
 A Arugal's Folly (Part 1) |QID|422| |N|Dalar Dawnweaver in The Sepulcher (44.22, 39.77)| |Z|Silverpine Forest|
 R The Dead Field |QID|437| |N|Travel to The Dead Field (44.22, 37.52) (44.62, 30.87) (45.37, 21.19)| |Z|Silverpine Forest|
-K Nightlash |QID|437.2| |N|Kill Nightlash and collect Essence of Nightlash in the middle of The Dead Field (45.37, 21.19)| |Z|Silverpine Forest|
+C Nightlash |QID|437| |OIDX|2| |N|Kill Nightlash and collect Essence of Nightlash in the middle of The Dead Field (45.37, 21.19)| |Z|Silverpine Forest|
 
 R The Skittering Dark |QID|447| |N|Travel to The Skittering Dark (42.40, 18.23)| |Z|Silverpine Forest|
 C A Recipe For Death (Part 1) |QID|447| |N|Kill Giant Grizzled Bear and Moss Stalker and collect 6 Grizzled Bear Heart, 6Skittering Blood in The Skittering Dark (42.40, 18.23) (35.44, 12.66)| |Z|Silverpine Forest|
@@ -157,7 +157,7 @@ A The Disruption Ends |QID|872| |N|Thork in The Crossroads (51.53, 30.85)| |Z|Th
 
 N As you go... |AYG|870| |QID|845| |EQID|869| |N|<b>Kill Zhevra Runner for 4 Zhevra Hooves<br/><b>Kill any raptors for 12 Raptor Head| |Z|The Barrens| |REACH|64.41,32.98|
 R Thorn Hill |QID|872| |N|Travel to Thorn Hill (59.09, 26.82)| |Z|The Barrens|
-K Kreenig Snarlsnout |QID|872.3| |N|Kill Kreenig Snarlsnout and collect Kreenig Snarlsnout's Tusk in Thorn Hill (58.6, 27.2)| |Z|The Barrens|
+C Kreenig Snarlsnout |QID|872| |OIDX|3| |N|Kill Kreenig Snarlsnout and collect Kreenig Snarlsnout's Tusk in Thorn Hill (58.6, 27.2)| |Z|The Barrens|
 C Supplies for the Crossroads |QID|5041| |N|Collect Crossroads' Supply Crates from the ground in Thorn Hill (58.84, 27.37)| |Z|The Barrens| |OBJ|36|
 C The Disruption Ends |QID|872| |N|Kill 8 Razormane Geomancer, 8 Razormane Defender in Thorn Hill (58.84, 23.73)| |Z|The Barrens|
 
@@ -230,7 +230,7 @@ A Avenge My Village |QID|6548| |N|Makaba Flathoof in The Barrens (35.23, 27.79)|
 C Avenge My Village |QID|6548| |N|Kill 8 Grimtotem Ruffian and 6 Grimtotem Mercenary in the Greatwood Vale (81, 91)| |Z|Stonetalon Mountains|
 T Avenge My Village |QID|6548| |N|Makaba Flathoof in The Barrens (35.23, 27.79)| |Z|The Barrens|
 A Kill Grundig Darkcloud |QID|6629| |N|Makaba Flathoof in The Barrens (35.23, 27.79)| |Z|The Barrens|
-K Grundig Darkcloud |QID|6629.1| |N|Kill Grundig Darkcloud and 6 Grimtotem Brute at the Grimtotem Post (71.5, 87.08) (73.6, 86.1)| |Z|Stonetalon Mountains|
+C Grundig Darkcloud |QID|6629| |OIDX|1| |N|Kill Grundig Darkcloud and 6 Grimtotem Brute at the Grimtotem Post (71.5, 87.08) (73.6, 86.1)| |Z|Stonetalon Mountains|
 A Protect Kaya |QID|6523| |N|Kaya Flathoof in Grimtotem Post (73.49, 85.65)| |Z|Stonetalon Mountains|
 C Protect Kaya |QID|6523| |N|Escort Kaya Flathoof until objective is complete in Camp Aparaje. 3 Mobs will ambush near the end of the escort, Kaya Flathoof will be able to solo 1 mob on her own (71.5, 87.08) (77.55, 90.73)| |Z|Stonetalon Mountains|
 K Grimtotem Brute |QID|6629| |N|Kill 6 Grimtotem Brute at the Grimtotem Post (77.55, 90.73)| |Z|Stonetalon Mountains|
@@ -262,9 +262,9 @@ C Verog the Dervish |QID|851| |N|Kill the other Centaurs around the command tent
 N As you go... |AYG|905| |QID|865| |N|Collect 5 Intact Raptor Horn from Sunscale Scytheclaw and 12 Raptor Head from any Raptors| |EQID|869|
 R Raptor Grounds |QID|3281| |N|Travel to Raptor Grounds (58.02, 53.90)| |Z|The Barrens|
 C Stolen Silver |QID|3281| |N|Collect the Stolen Silver from the Stolen Silver Chest in Raptor Grounds (58.02, 53.90)| |Z|The Barrens|
-N Visit Blue Raptor Nest |QID|905.1| |N|Kill Sunscale Scytheclaw for Sunscale Feather then click on the Blue Raptor Nest in Raptor Grounds (52.62, 46.14)| |Z|The Barrens| |U|5165| |OBJ|372|
-N Visit Red Raptor Nest |QID|905.3| |N|Kill Sunscale Scytheclaw for Sunscale Feather then click on the Red Raptor Nest in Raptor Grounds (52.47, 46.60)| |Z|The Barrens| |U|5165| |OBJ|372|
-N Visit Yellow Raptor Nest |QID|905.2| |N|Kill Sunscale Scytheclaw for Sunscale Feather then click on the Yellow Raptor Nest in Raptor Grounds (52.03, 46.53)| |Z|The Barrens| |U|5165| |OBJ|372|
+C Visit Blue Raptor Nest |QID|905| |OIDX|1| |N|Kill Sunscale Scytheclaw for Sunscale Feather then click on the Blue Raptor Nest in Raptor Grounds (52.62, 46.14)| |Z|The Barrens| |U|5165| |OBJ|372|
+C Visit Red Raptor Nest |QID|905| |OIDX|3| |N|Kill Sunscale Scytheclaw for Sunscale Feather then click on the Red Raptor Nest in Raptor Grounds (52.47, 46.60)| |Z|The Barrens| |U|5165| |OBJ|372|
+C Visit Yellow Raptor Nest |QID|905| |OIDX|2| |N|Kill Sunscale Scytheclaw for Sunscale Feather then click on the Yellow Raptor Nest in Raptor Grounds (52.03, 46.53)| |Z|The Barrens| |U|5165| |OBJ|372|
 R The Barrens |QID|865| |N|Travel to The Barrens (52.03, 46.53)| |Z|The Barrens| |REACH|
 C Raptor Horns |QID|865| |N|Kill Sunscale Scytheclaw and collect 5 Intact Raptor Horn at the Raptor Grounds (52.03, 46.53)| |Z|The Barrens|
 C Raptor Thieves |QID|869| |N|Kill the Raptors across the Barrens for 12 Raptor Head and collect 5 Intact Raptor Horn in The Barrens (52.03, 46.53)| |Z|The Barrens|
@@ -345,9 +345,9 @@ T A Recipe For Death (Part 2) |QID|450| |N|Apothecary Renferrel in The Sepulcher
 A A Recipe For Death (Part 3) |QID|451| |N|Apothecary Renferrel in The Sepulcher (42.85, 40.95)| |Z|Silverpine Forest|
 
 R Fenris Isle |QID|451| |N|Travel to Fenris Isle (60.02, 34.34) (64.62, 33.37) (65.67, 33.80)| |Z|Silverpine Forest|
-N Lake Skulker Moss |QID|451.1| |N|Kill Lake Skulker and collect 6 Lake Skulker Moss in Fenris Isle (71.32, 36.80)| |Z|Silverpine Forest|
-N Hardened Tumor |QID|451.3| |N|Kill any Murloc until you collect Hardened Tumor in The Dawning Isles (75.12, 32.80)| |Z|Silverpine Forest|
-N Lake Creeper Moss |QID|451.2| |N|Kill Lake Creeper and collect 6 Lake Creeper Moss in The Dawning Isles (78.10, 23.38)| |Z|Silverpine Forest|
+C Lake Skulker Moss |QID|451| |OIDX|1| |N|Kill Lake Skulker and collect 6 Lake Skulker Moss in Fenris Isle (71.32, 36.80)| |Z|Silverpine Forest|
+C Hardened Tumor |QID|451| |OIDX|3| |N|Kill any Murloc until you collect Hardened Tumor in The Dawning Isles (75.12, 32.80)| |Z|Silverpine Forest|
+C Lake Creeper Moss |QID|451| |OIDX|2| |N|Kill Lake Creeper and collect 6 Lake Creeper Moss in The Dawning Isles (78.10, 23.38)| |Z|Silverpine Forest|
 R Fenris Isle |QID|460| |N|Travel to Fenris Isle (65.91, 27.24)| |Z|Silverpine Forest|
 N As you go... |AYG|461| |QID|443| |N|Kill Rothide Gnolls and collect 8 Rot Hide Ichor|
 N A Talking Head |QID|460| |N|Kill Rothide Gnolls until you collect A Talking Head Fenris Isle (65.91, 27.24)| |Z|Silverpine Forest|  |L|3317|

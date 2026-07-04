@@ -56,7 +56,7 @@ T Disrupt the Attacks |QID|871| |N|Thork in The Crossroads (51.53, 30.85)|
 A The Disruption Ends |QID|872| |N|Thork in The Crossroads (51.53, 30.85)|
 
 N As you go... |AYG|872| |QID|869| |N|Kill any Raptors for 12 Raptor Head|
-K Kreenig Snarlsnout |QID|872.3| |N|Kill Kreenig Snarlsnout and collect Kreenig Snarlsnout's Tusk in Thorn Hill (58.6, 27.2)|
+C Kreenig Snarlsnout |QID|872| |OIDX|3| |N|Kill Kreenig Snarlsnout and collect Kreenig Snarlsnout's Tusk in Thorn Hill (58.6, 27.2)|
 C Supplies for the Crossroads |QID|5041| |N|Collect Crossroads' Supply Crates from the ground in Thorn Hill (58.84, 27.37)| |OBJ|36|
 C The Disruption Ends |QID|872| |N|Kill 8 Razormane Geomancer, 8 Razormane Defender in Thorn Hill (58.84, 23.73)|
 
@@ -83,8 +83,8 @@ T The Missing Shipment (Part 2) |QID|892| |N|Gazlowe in Ratchet (62.66, 36.26)|
 A Stolen Booty |QID|888| |N|Gazlowe in Ratchet (62.66, 36.26)|
 
 R The Merchant Coast |QID|888| |N|Travel to The Merchant Coast (63.59, 49.28)|
-N Telescopic Lens |QID|888.2| |N|Click on Fragile - Do Not Drop to collect Telescopic Lens in The Merchant Coast (63.59, 49.28)|
-N Shipment of Boots |QID|888.1| |N|Click on Drizzlik's Emporium to collect Shipment of Boots in The Merchant Coast (62.61, 49.74)|
+C Telescopic Lens |QID|888| |OIDX|2| |N|Click on Fragile - Do Not Drop to collect Telescopic Lens in The Merchant Coast (63.59, 49.28)|
+C Shipment of Boots |QID|888| |OIDX|1| |N|Click on Drizzlik's Emporium to collect Shipment of Boots in The Merchant Coast (62.61, 49.74)|
 
 R The Crossroads |QID|870| |N|Travel to The Crossroads (51.53, 30.85)|
 T The Disruption Ends |QID|872| |N|Thork in The Crossroads (51.53, 30.85)|

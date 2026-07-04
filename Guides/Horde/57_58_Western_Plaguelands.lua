@@ -16,7 +16,7 @@ A All Along the Watchtowers |QID|5098| |N|High Executor Derrington in The Bulwar
 R Felstone Field |TID|5050| |N|Travel to Felstone Field (38.41, 54.06)| |Z|Western Plaguelands| |O|
 T Good Luck Charm |QID|5050| |N|Janice Felstone in Felstone Field (38.39, 54.06)| |Z|Western Plaguelands| |O| 
 A Two Halves Become One |QID|5051| |N|Janice Felstone upstairs in the inn of Felstone Field (38.39, 54.06)| |Z|Western Plaguelands| |PRE|5050|
-K Jabbering Ghoul |QID|5051.1| |N|Kill Jabbering Ghoul outside on the field and collect Good Luck Other-Half-Charm (36.81, 58.32)| |Z|Western Plaguelands| |PRE|5050| |L|12722|
+C Jabbering Ghoul |QID|5051| |OIDX|1| |N|Kill Jabbering Ghoul outside on the field and collect Good Luck Other-Half-Charm (36.81, 58.32)| |Z|Western Plaguelands| |PRE|5050| |L|12722|
 C Two Halves Become One |QID|5051| |N|Use Good Luck Other-Half-Charm to create Good Luck Charm in Felstone Field (36.81, 58.32)| |Z|Western Plaguelands| |PRE|5050|
 T Two Halves Become One |QID|5051| |N|Janice Felstone in Felstone Field (38.40, 54.04)| |Z|Western Plaguelands| |PRE|5050| 
 
@@ -25,13 +25,13 @@ C A Plague Upon Thee (Part 2) |QID|5902| |N|Clear the area and click on Northrid
 T A Plague Upon Thee (Part 2) |QID|5902| |N|Termite Barrel in Northridge Lumber Camp (48.33, 31.92)| |Z|Western Plaguelands| |OBJ|446|
 A A Plague Upon Thee (Part 3) |QID|6390| |N|Termite Barrel in Northridge Lumber Camp (48.33, 31.92)| |Z|Western Plaguelands| |OBJ|446|
 A Unfinished Business (Part 1) |QID|6004| |N|Kirsta Deepshadow in Northridge Lumber Camp (49.90, 30.33) (51.92, 28.06)| |Z|Western Plaguelands| 
-C Unfinished Business (Part 1) |QID|6004.4| |N|Kill 2 Scarlet Knight and 2 Scarlet Mage (50.75, 31.67) (52.76, 35.58) (53.81, 36.13) (52.95, 36.33)| |Z|Western Plaguelands|  
-C Unfinished Business (Part 1) |QID|6004.3| |N|Kill 2 Scarlet Knight and 2 Scarlet Mage (52.95, 36.33)| |Z|Western Plaguelands|  
+C Unfinished Business (Part 1) |QID|6004| |OIDX|4| |N|Kill 2 Scarlet Knight and 2 Scarlet Mage (50.75, 31.67) (52.76, 35.58) (53.81, 36.13) (52.95, 36.33)| |Z|Western Plaguelands|  
+C Unfinished Business (Part 1) |QID|6004| |OIDX|3| |N|Kill 2 Scarlet Knight and 2 Scarlet Mage (52.95, 36.33)| |Z|Western Plaguelands|  
 C Unfinished Business (Part 1) |QID|6004| |N|Kill 2 Scarlet Hunter and 2 Scarlet Medic (51.52, 44.28)| |Z|Western Plaguelands|  
 T Unfinished Business (Part 1) |QID|6004| |N|Kirsta Deepshadow in Northridge Lumber Camp (51.95, 28.10)| |Z|Western Plaguelands| 
 A Unfinished Business (Part 2) |QID|6023| |N|Kirsta Deepshadow in Northridge Lumber Camp (51.95, 28.10)| |Z|Western Plaguelands| 
-K Huntsman Radley |QID|6023.1| |N|Kill Huntsman Radley in Hearthglen (50.75, 31.67) (52.76, 35.58) (53.81, 36.13) (57.47, 35.93)| |Z|Western Plaguelands| 
-K Cavalier Durgen |QID|6023.2| |N|Kill Cavalier Durgen in Hearthglen (54.94, 23.55)| |Z|Western Plaguelands| 
+C Huntsman Radley |QID|6023| |OIDX|1| |N|Kill Huntsman Radley in Hearthglen (50.75, 31.67) (52.76, 35.58) (53.81, 36.13) (57.47, 35.93)| |Z|Western Plaguelands| 
+C Cavalier Durgen |QID|6023| |OIDX|2| |N|Kill Cavalier Durgen in Hearthglen (54.94, 23.55)| |Z|Western Plaguelands| 
 T Unfinished Business (Part 2) |QID|6023| |N|Kirsta Deepshadow in Northridge Lumber Camp (51.91, 28.08)| |Z|Western Plaguelands| 
 A Unfinished Business (Part 3) |QID|6025| |N|Kirsta Deepshadow in Northridge Lumber Camp (51.92, 28.04)| |Z|Western Plaguelands| 
 
@@ -54,14 +54,14 @@ R Sorrow Hill |QID|5153| |N|Travel south to Sorrow Hill (49.19, 78.61)| |Z|Weste
 T Auntie Marlene |QID|5152| |N|Marlene Redpath upstairs in the building in Sorrow Hill (49.19, 78.61)| |Z|Western Plaguelands|
 A A Strange Historian |QID|5153| |N|Marlene Redpath in Sorrow Hill (49.19, 78.61)| |Z|Western Plaguelands| 
 C A Strange Historian |QID|5153| |N|Collect Joseph's Wedding Ring by clicking the tombstone outside (49.70, 76.68)| |Z|Western Plaguelands| |OBJ|3171|
-N Mark Tower Four |QID|5098.4| |N|Use Beacon Torch between the door way of the south-east Tower in Ruins of Andorhal (46.63, 71.26)| |Z|Western Plaguelands| |Q|All Along the Watchtowers||QO|Tower Four marked: 1/1|
-N Mark Tower One |QID|5098.1| |N|Use Beacon Torch between the door way of the Tower in Ruins of Andorhal (40.00, 71.58)| |Z|Western Plaguelands| |Q|All Along the Watchtowers||QO|Tower One marked: 1/1|
+C Mark Tower Four |QID|5098| |OIDX|4| |N|Use Beacon Torch between the door way of the south-east Tower in Ruins of Andorhal (46.63, 71.26)| |Z|Western Plaguelands| |Q|All Along the Watchtowers||QO|Tower Four marked: 1/1|
+C Mark Tower One |QID|5098| |OIDX|1| |N|Use Beacon Torch between the door way of the Tower in Ruins of Andorhal (40.00, 71.58)| |Z|Western Plaguelands| |Q|All Along the Watchtowers||QO|Tower One marked: 1/1|
 T A Strange Historian |QID|5153| |N|Chromie upstairs in the inn of north-west Ruins of Andorhal (39.46, 66.76)| |Z|Western Plaguelands|
 A The Annals of Darrowshire |QID|5154| |N|Chromie in Ruins of Andorhal (39.46, 66.76)| |Z|Western Plaguelands| 
 A A Matter of Time |QID|4971| |N|Chromie in Ruins of Andorhal (39.50, 67.10)| |Z|Western Plaguelands| 
 C The Annals of Darrowshire |QID|5154| |N|Collect Annals of Darrowshire inside the town hall Ruins of Andorhal. TIP: The Fake book will have 50/50 grey and white pages, and the Real book will 100% white pages on its side and brighter book cover (43.40, 69.72)| |Z|Western Plaguelands| |OBJ|558|
-N Mark Tower Two |QID|5098.2| |N|Use Beacon Torch between the door way of the Tower in Ruins of Andorhal (42.43, 66.07)| |Z|Western Plaguelands| |Q|All Along the Watchtowers||QO|Tower Two marked: 1/1|
-N Mark Tower Three |QID|5098.3| |N|Use Beacon Torch between the door way of the Tower in Ruins of Andorhal (44.15, 63.25)| |Z|Western Plaguelands| |Q|All Along the Watchtowers||QO|Tower Three marked: 1/1|
+C Mark Tower Two |QID|5098| |OIDX|2| |N|Use Beacon Torch between the door way of the Tower in Ruins of Andorhal (42.43, 66.07)| |Z|Western Plaguelands| |Q|All Along the Watchtowers||QO|Tower Two marked: 1/1|
+C Mark Tower Three |QID|5098| |OIDX|3| |N|Use Beacon Torch between the door way of the Tower in Ruins of Andorhal (44.15, 63.25)| |Z|Western Plaguelands| |Q|All Along the Watchtowers||QO|Tower Three marked: 1/1|
 C A Matter of Time |QID|4971| |N|Use Temporal Displacer near the glowing silos to spawn and kill 15 Temporal Parasite in Ruins of Andorhal (45.39, 62.90) (46.34, 62.58) (47.96, 62.44) (47.97, 64.16) (49.99, 66.95)| |Z|Western Plaguelands| |U|12815|
 
 T A Matter of Time |QID|4971| |N|Chromie upstairs in the inn of Ruins of Andorhal (39.45, 66.78)| |Z|Western Plaguelands|

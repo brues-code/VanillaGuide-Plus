@@ -77,10 +77,10 @@ A Yor'thegg's Ritual |QID|41738| |N|Yor'thegg the Wise (54, 27.9)| |Z|Grim Reach
 N Gather Materials for Ritual |QID|41738| |N|You need 5 Ornate Feathers from thrashers, 3 Binding Flame from Dragonmaw Flamebinders, and a Pristine Stonehide Heart from Elder Stonehide Boars|
 
 R Thrasher Area |QID|41738| |N|Kill thrashers for Ornate Feathers (50, 50)| |Z|Grim Reaches|
-C Yor'thegg's Ritual - Feathers |QID|41738.1| |N|Gather 5 Ornate Feathers from thrashers (50, 50) (48, 55)| |Z|Grim Reaches|
+C Yor'thegg's Ritual - Feathers |QID|41738| |OIDX|1| |N|Gather 5 Ornate Feathers from thrashers (50, 50) (48, 55)| |Z|Grim Reaches|
 
 R Baggoth's Rampart |QID|41738| |N|Kill Dragonmaw Flamebinders for Binding Flame (40, 45)| |Z|Grim Reaches|
-C Yor'thegg's Ritual - Flame |QID|41738.2| |N|Gather 3 Binding Flame from Dragonmaw Flamebinders (40, 45) (42, 42)| |Z|Grim Reaches|
+C Yor'thegg's Ritual - Flame |QID|41738| |OIDX|2| |N|Gather 3 Binding Flame from Dragonmaw Flamebinders (40, 45) (42, 42)| |Z|Grim Reaches|
 
 R Elder Stonehide Area |QID|41738| |N|Kill Elder Stonehide Boars (55, 60)| |Z|Grim Reaches|
 C Yor'thegg's Ritual |QID|41738| |N|Gather a Pristine Stonehide Heart from Elder Stonehide Boars (55, 60) (52, 65)| |Z|Grim Reaches|

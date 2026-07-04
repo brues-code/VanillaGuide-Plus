@@ -9,10 +9,10 @@ return [[
 N Optimized Leveling |N|This guide follows VanillaGuide's optimized quest order for Winterspring 58-60|
 
 R Gadgetzan |QID|5163| |N|Travel to Gadgetzan in Tanaris (51.07, 26.88)| |Z|Tanaris| |O|
-N Are We There, Yeti? |QID|5163.2| |N|Use Umi's Mechanical Yeti to scare Sprinkle (51.07, 26.88)| |Z|Tanaris| |O| |Q|Are We There, Yeti?||QO|Scare Sprinkle: 1/1|
+N Are We There, Yeti? |QID|5163| |OIDX|2| |N|Use Umi's Mechanical Yeti to scare Sprinkle (51.07, 26.88)| |Z|Tanaris| |O| |Q|Are We There, Yeti?||QO|Scare Sprinkle: 1/1|
 
 R Marshal's Refuge |QID|5163| |N|Travel to Marshal's Refuge in Un'Goro Crater (43.66, 9.36)| |Z|Un'Goro Crater| |O|
-N Are We There, Yeti? |QID|5163.3| |N|Use Umi's Mechanical Yeti to scare Quixxil (43.66, 9.36)| |Z|Un'Goro Crater| |O| |Q|Are We There, Yeti?||QO|Scare Quixxil: 1/1|
+N Are We There, Yeti? |QID|5163| |OIDX|3| |N|Use Umi's Mechanical Yeti to scare Quixxil (43.66, 9.36)| |Z|Un'Goro Crater| |O| |Q|Are We There, Yeti?||QO|Scare Quixxil: 1/1|
 
 C Melding of Influences |QID|4642| |N|Find a Primal Ooze, use Encased Corrupt Ooze near it to create a Gargantuan Ooze, kill it for Merged Ooze Sample (39.06, 17.17)| |Z|Un'Goro Crater| |U|12288|
 
@@ -25,8 +25,8 @@ T Brother Carlin |QID|5210| |N|Carlin Redpath in Light's Hope Chapel (81.51, 59.
 A Villains of Darrowshire |QID|5181| |N|Carlin Redpath in Light's Hope Chapel (81.51, 59.77)| |Z|Eastern Plaguelands|
 
 R Blackwood Lake |QID|5181| |N|Travel west to Blackwood Lake (51.07, 49.94)| |Z|Eastern Plaguelands|
-N Skull of Horgus |QID|5181.1| |N|Collect Skull of Horgus underwater in Blackwood Lake (51.07, 49.94)| |Z|Eastern Plaguelands| |Q|Villains of Darrowshire||QO|Skull of Horgus: 1/1|
-N Shattered Sword of Marduk |QID|5181.2| |N|Collect Shattered Sword of Marduk below in The Infectis Scar (53.89, 65.78)| |Z|Eastern Plaguelands| |Q|Villains of Darrowshire||QO|Shattered Sword of Marduk: 1/1|
+C Skull of Horgus |QID|5181| |OIDX|1| |N|Collect Skull of Horgus underwater in Blackwood Lake (51.07, 49.94)| |Z|Eastern Plaguelands| |Q|Villains of Darrowshire||QO|Skull of Horgus: 1/1|
+C Shattered Sword of Marduk |QID|5181| |OIDX|2| |N|Collect Shattered Sword of Marduk below in The Infectis Scar (53.89, 65.78)| |Z|Eastern Plaguelands| |Q|Villains of Darrowshire||QO|Shattered Sword of Marduk: 1/1|
 
 R Light's Hope Chapel |TID|5181| |N|Return to Light's Hope Chapel (81.52, 59.75)| |Z|Eastern Plaguelands|
 T Villains of Darrowshire |QID|5181| |N|Carlin Redpath in Light's Hope Chapel (81.52, 59.75)| |Z|Eastern Plaguelands|

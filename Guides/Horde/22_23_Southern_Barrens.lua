@@ -13,9 +13,9 @@ U Flare Gun |TID|2458| |N|Use the Flare Gun twice in this spot (55.85, 5.75)| |C
 U Flare Gun |TID|2458| |N|Use the Flare Gun twice in this spot (55.85, 5.75)| |C|Rogue| |Z|The Barrens| |U|8051|
 T Deep Cover |QID|2458| |N|Taskmaster Fizzule in Sludge Fen, target him and use Flare Gun twice then type /salute and he will become friendly (55.47, 5.59)| |C|Rogue| |Z|The Barrens| |U|8051|
 A Mission: Possible But Not Probable |QID|2478| |N|Taskmaster Fizzule in Sludge Fen (55.44, 5.57)| |C|Rogue| |Z|The Barrens|
-N Silixiz's Tower Key |QID|2478.5| |N|Use on (spell:921) on Foreman Silixiz to get Silixiz's Tower Key in Sludge Fen (54.78, 5.94)| |C|Rogue| |Z|The Barrens|
-K Grand Foreman Puzik Gallywix |QID|2478.4| |N|Kill Grand Foreman Puzik Gallywix at the top of the tower and collect Gallywix's Head and Cache of Zanzil's Altered Mixture in Sludge Fen (54.76, 5.73)| |C|Rogue| |Z|The Barrens|
-K Grand Foreman Puzik Gallywix |QID|2478.6| |N|Kill Grand Foreman Puzik Gallywix at the top of the tower and collect Gallywix's Head and Cache of Zanzil's Altered Mixture in Sludge Fen (54.76, 5.73)| |C|Rogue| |Z|The Barrens|
+C Silixiz's Tower Key |QID|2478| |OIDX|5| |N|Use on (spell:921) on Foreman Silixiz to get Silixiz's Tower Key in Sludge Fen (54.78, 5.94)| |C|Rogue| |Z|The Barrens|
+C Grand Foreman Puzik Gallywix |QID|2478| |OIDX|4| |N|Kill Grand Foreman Puzik Gallywix at the top of the tower and collect Gallywix's Head and Cache of Zanzil's Altered Mixture in Sludge Fen (54.76, 5.73)| |C|Rogue| |Z|The Barrens|
+C Grand Foreman Puzik Gallywix |QID|2478| |OIDX|6| |N|Kill Grand Foreman Puzik Gallywix at the top of the tower and collect Gallywix's Head and Cache of Zanzil's Altered Mixture in Sludge Fen (54.76, 5.73)| |C|Rogue| |Z|The Barrens|
 C Mission: Possible But Not Probable |QID|2478| |N|Kill 2 Mutated Venture Co. Drone, Venture Co. Patroller and Venture Co. Lookout inside the tower (54.69, 5.80)| |C|Rogue| |Z|The Barrens|
 
 R Cleft of Shadow |TID|2478| |N|Travel to Cleft of Shadow (43.06, 53.70)| |C|Rogue| |Z|Orgrimmar|
@@ -62,28 +62,28 @@ T Owatanka |QID|884| |N|Jorn Skyseer in Camp Taurajo (44.87, 59.09)| |O|
 K Silithid Harvester |QID|897| |N|Kill Silithid Harvester and collect Harvester's Head in Field of Giants to accept a quest. Optional quest, skip if you're not able to find it (45.2, 71)| |OID|897| |L|5138|  |U|5059|
 A The Harvester |QID|897| |N|Use Harvester's Head to accept quest| |U|5138| |O|
 C Egg Hunt |QID|868| |N|Use Digging Claw on the mounds and collect 12 Silithid Egg at the Field of Giants (45.2, 71)|  |U|5059|
-K Greater Thunderhawk |QID|822.2| |N|Kill Greater Thunderhawk and collect Thunderhawk Saliva Gland in Field of Giants (46.74, 73.83)| |O|
+K Greater Thunderhawk |QID|822| |OIDX|2| |N|Kill Greater Thunderhawk and collect Thunderhawk Saliva Gland in Field of Giants (46.74, 73.83)| |O|
 
 R Southern Gold Road |QID|843| |N|Travel to Southern Gold Road (46.12, 75.40)|
 A Gann's Reclamation |QID|843| |N|Gann Stonespire in Southern Gold Road, patrols the road (46.1, 76.4) (46.1, 81.3)|
 
 R Field of Giants |QID|822| |N|Travel to Field of Giants (47.77, 73.62)| |O|
-K Stormhide |QID|822.1| |N|Kill Stormhide and collect 5 Lightning Gland in Field of Giants (47.77, 73.62)| |O|
+K Stormhide |QID|822| |OIDX|1| |N|Kill Stormhide and collect 5 Lightning Gland in Field of Giants (47.77, 73.62)| |O|
 
 R Blackthorn Ridge |QID|879| |N|Travel to Blackthorn Ridge (46.74, 79.63) (43.83, 81.96)|
 T Call of Water (Part 5) |QID|1534| |N|Brine in Blackthorn Ridge (43.42, 77.41)| |C|Shaman| |Z|The Barrens|
 A Call of Water (Part 6) |QID|220| |N|Brine in Blackthorn Ridge (43.42, 77.41)| |C|Shaman| |Z|The Barrens|
-K Nak |QID|879.2| |N|Kill Nak and collect Nak's Skull in Blackthorn Ridge (43.87, 83.00)|
-K Razormane Seer |QID|893.2| |N|Kill Razormane Seer and collect Charred Razormane Wand in Blackthorn Ridge (43.45, 83.01)|
-K Kuz |QID|879.1| |N|Kill Kuz and collect Kuz's Skull in Blackthorn Ridge (43.51, 80.66)|
-K Razormane Warfrenzy |QID|893.3| |N|Kill Razormane Warfrenzy and collect Razormane War Shield in Blackthorn Ridge (41.91, 80.65)|
-K Lok Orcbane |QID|879.3| |N|Kill Lok Orcbane and collect Lok's Skull in Blackthorn Ridge (40.64, 80.62)|
+C Nak |QID|879| |OIDX|2| |N|Kill Nak and collect Nak's Skull in Blackthorn Ridge (43.87, 83.00)|
+C Razormane Seer |QID|893| |OIDX|2| |N|Kill Razormane Seer and collect Charred Razormane Wand in Blackthorn Ridge (43.45, 83.01)|
+C Kuz |QID|879| |OIDX|1| |N|Kill Kuz and collect Kuz's Skull in Blackthorn Ridge (43.51, 80.66)|
+C Razormane Warfrenzy |QID|893| |OIDX|3| |N|Kill Razormane Warfrenzy and collect Razormane War Shield in Blackthorn Ridge (41.91, 80.65)|
+C Lok Orcbane |QID|879| |OIDX|3| |N|Kill Lok Orcbane and collect Lok's Skull in Blackthorn Ridge (40.64, 80.62)|
 K Washte Pawne |OID|885| |N|Kill Washte Pawne and collect Washte Pawne's Feather to accept a new quest, in Blackthorn Ridge (44.18, 79.65)|  |L|5103| |O|
 A Washte Pawne |QID|885| |N|Use Washte Pawne's Feather to accept quest| |U|5103| |O|
-C Weapons of Choice |QID|893.1| |N|Kill Razormane Pathfinder or Razormane Stalker and collect Razormane Backstabber in Blackthorn Ridge (43.90, 84.13)|
+C Weapons of Choice |QID|893| |OIDX|1| |N|Kill Razormane Pathfinder or Razormane Stalker and collect Razormane Backstabber in Blackthorn Ridge (43.90, 84.13)|
 
 R Bael Modan |QID|843| |N|Travel to Bael Modan (47.58, 86.15)|
-K Prospector Khazgorm |QID|843.3| |N|Kill Prospector Khazgorm collect Khazgorm's Journal in Bael Modan (47.58, 86.15)|
+C Prospector Khazgorm |QID|843| |OIDX|3| |N|Kill Prospector Khazgorm collect Khazgorm's Journal in Bael Modan (47.58, 86.15)|
 C Gann's Reclamation |QID|843| |N|Kill 15 Bael'dun Excavator and 5 Bael'dun Foreman in Bael Modan (46, 85)|
 
 R Southern Gold Road |QID|846| |N|Travel to Southern Gold Road (46.15, 75.4)| |OID|846|

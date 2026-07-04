@@ -72,21 +72,21 @@ A Swoop Hunting |QID|761| |N|Harken Windtotem in Bloodhoof Village (48.69, 59.40
 T Rite of Vision (Part 1) |QID|767| |N|Zarlman Two-Moons in Bloodhoof Village (47.77, 57.58)|
 A Rite of Vision (Part 2) |QID|771| |N|Zarlman Two-Moons in Bloodhoof Village (47.77, 57.58)|
 A Mazzranache |QID|766| |N|Maur Raincaller in Bloodhoof Village (47.05, 57.07)|
-N As you go.. |AYG|743| |QID|766.2| |N|Kill any Flatland Cougar until you find Flatland Cougar Femur and Wiry Swoop until you find Swoop Gizzard|
-N Ambercorn |QID|771.2| |N|Collect 2 Ambercorn from the ground near the base of the trees (50.27, 66.53)| |Z|Mulgore|
-N Well Stone |QID|771.1| |N|Collect 2 Well Stone from Winterhoof Water Well<br/><b>Collect 2 Ambercorn from the ground (53.48, 66.26)|
+C As you go.. |AYG|743| |QID|766| |OIDX|2| |N|Kill any Flatland Cougar until you find Flatland Cougar Femur and Wiry Swoop until you find Swoop Gizzard|
+C Ambercorn |QID|771| |OIDX|2| |N|Collect 2 Ambercorn from the ground near the base of the trees (50.27, 66.53)| |Z|Mulgore|
+C Well Stone |QID|771| |OIDX|1| |N|Collect 2 Well Stone from Winterhoof Water Well<br/><b>Collect 2 Ambercorn from the ground (53.48, 66.26)|
 C Poison Water |QID|748| |N|Kill Prairie Wolf for 6 Prairie Wolf Paw and Adult Plainstrider for 6 Plainstrider Talon which can be found any where in Mulgore (45.06, 69.87) (47.36, 71.28) (52.55, 70.51) (56.39, 71.79) (56.11, 64.12)|
-N Flatland Cougar Femur |QID|766.1| |N|Kill Flatland Cougar for Flatland Cougar Femur (51.80, 69.22)|
+C Flatland Cougar Femur |QID|766| |OIDX|1| |N|Kill Flatland Cougar for Flatland Cougar Femur (51.80, 69.22)|
 
 R Mulgore |QID|745| |N|Travel to Mulgore (53.37, 71.68)|
 C Sharing the Land |QID|745| |N|Kill 10 Palemane Tanner, 8 Palemane Skinner, and 5 Palemane Poacher at the cave to the west (53.37, 71.68) (54.16, 72.43)|
 
 R The Rolling Plains |QID|761| |N|Travel to The Rolling Plains (60.01, 70.62)|
 C Swoop Hunting |QID|761| |N|Kill any Swoop for 8 Trophy Swoop Quill in The Rolling Plains (50.0, 69.4) (55.4, 70.8) (56.6, 62.4) (54.2, 58.6) (50.4, 66.0)|
-N Swoop Gizzard |QID|766.4| |N|Kill any Wiry Swoop until you find Swoop Gizzard (50.0, 69.4) (55.4, 70.8) (56.6, 62.4) (54.2, 58.6) (50.4, 66.0)|
+C Swoop Gizzard |QID|766| |OIDX|4| |N|Kill any Wiry Swoop until you find Swoop Gizzard (50.0, 69.4) (55.4, 70.8) (56.6, 62.4) (54.2, 58.6) (50.4, 66.0)|
 C Dangers of the Windfury |QID|743| |N|Kill Windfury Harpy and collect 8 Windfury Talon in The Rolling Plains (66.20, 68.13)|
-N Flatland Cougar Femur |QID|766.2| |N|Kill any Flatland Cougar until you find Flatland Cougar Femur in The Rolling Plains (59.11, 71.51)|
-N Plainstrider Scale |QID|766.3| |N|Kill Adult Plainstrider until you find Plainstrider Scale in The Rolling Plains (54.4, 64.8)|
+C Flatland Cougar Femur |QID|766| |OIDX|2| |N|Kill any Flatland Cougar until you find Flatland Cougar Femur in The Rolling Plains (59.11, 71.51)|
+C Plainstrider Scale |QID|766| |OIDX|3| |N|Kill Adult Plainstrider until you find Plainstrider Scale in The Rolling Plains (54.4, 64.8)|
 A The Ravaged Caravan (Part 1) |QID|749| |N|Morin Cloudstalker in Ravaged Caravan (54.35, 60.47)|
 T The Ravaged Caravan (Part 1) |QID|749| |N|Sealed Supply Crate in Ravaged Caravan (53.76, 48.28)| |OBJ|287|
 A The Ravaged Caravan (Part 2) |QID|751| |N|Grawl in Ravaged Caravan (53.76, 48.28)|
@@ -160,7 +160,7 @@ A Moonglade |QID|5922| |N|Turak Runetotem in Elder Rise (76.6, 27.6)| |C|Druid| 
 R Nighthaven |QID|5930| |N|Use (spell:18960) to get to Nighthaven in Moonglade (56.23, 30.60)| |C|Druid| |Z|Thunder Bluff|
 T Moonglade |QID|5922| |N|Dendrite Starblaze in Nighthaven (56.23, 30.60)| |C|Druid| |Z|Thunder Bluff|
 A Great Bear Spirit |QID|5930| |N|Dendrite Starblaze in Nighthaven (56.23, 30.60)| |C|Druid| |Z|Thunder Bluff|
-N Great Bear Spirit |QID|5930.1| |N|Speak to Great Bear Spirit in Moonglade (39.09, 27.54)| |C|Druid| |Z|Moonglade|
+C Great Bear Spirit |QID|5930| |OIDX|1| |N|Speak to Great Bear Spirit in Moonglade (39.09, 27.54)| |C|Druid| |Z|Moonglade|
 T Great Bear Spirit |QID|5930| |N|Dendrite Starblaze in Nighthaven. You can also use (spell:18960) to get back faster (56.23, 30.60)| |C|Druid| |Z|Moonglade|
 A Back to Thunder Bluff |QID|5932| |N|Dendrite Starblaze in Nighthaven (56.23, 30.61)| |C|Druid| |Z|Moonglade|
 

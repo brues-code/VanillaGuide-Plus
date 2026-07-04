@@ -47,9 +47,9 @@ R Jaguero Isle |TID|594| |N|Travel south to Jaguero Isle (38.51, 80.58)| |Z|Stra
 T Message in a Bottle (Part 1) |QID|594| |N|Princess Poobah on island (38.51, 80.58)| |Z|Stranglethorn Vale|
 
 R Pirate Ships |QID|608| |N|Travel to pirate ships (33, 87)| |Z|Stranglethorn Vale|
-K Captain Stillwater |QID|608.1| |N|Kill Captain Stillwater on first ship (32.82, 88.33)| |Z|Stranglethorn Vale| |PRE|604|
-K Fleet Master Firallon |QID|608.3| |N|Kill Fleet Master Firallon on middle ship (30.17, 89.40)| |Z|Stranglethorn Vale| |PRE|604|
-K Captain Keelhaul |QID|608.2| |N|Kill Captain Keelhaul on third ship (29.20, 88.38)| |Z|Stranglethorn Vale| |PRE|604|
+K Captain Stillwater |QID|608| |OIDX|1| |N|Kill Captain Stillwater on first ship (32.82, 88.33)| |Z|Stranglethorn Vale| |PRE|604|
+K Fleet Master Firallon |QID|608| |OIDX|3| |N|Kill Fleet Master Firallon on middle ship (30.17, 89.40)| |Z|Stranglethorn Vale| |PRE|604|
+K Captain Keelhaul |QID|608| |OIDX|2| |N|Kill Captain Keelhaul on third ship (29.20, 88.38)| |Z|Stranglethorn Vale| |PRE|604|
 N Cortello's Riddle |QID|624| |N|Look for Cortello's Riddle scroll on one of the ships (29.18, 88.63)| |Z|Stranglethorn Vale| |L|4056| |OBJ|164|
 A Cortello's Riddle (Part 1) |QID|624| |N|Use Cortello's Riddle| |Z|Stranglethorn Vale| |U|4056| |O|
 

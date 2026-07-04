@@ -26,8 +26,8 @@ T Pamela's Doll |QID|5149| |N|Pamela Redpath in Darrowshire (36.45, 90.83)| |Z|E
 A Auntie Marlene |QID|5152| |N|Pamela Redpath in Darrowshire (36.45, 90.83)| |Z|Eastern Plaguelands|
 A Uncle Carlin |QID|5241| |N|Pamela Redpath in Darrowshire (36.45, 90.83)| |Z|Eastern Plaguelands|
 N As you go... |AYG|5542| |QID|5544| |N|Kill Carrion Grub for 15 Slab of Carrion Worm Meat|
-K Plaguebat |QID|5543.1| |N|Kill 30 Plaguebat in Eastern Plaguelands (35.77, 81.88) (34.57, 73.46) (32.81, 67.77) (24.60, 68.22) (19.74, 71.76) (18.29, 77.41) (22.62, 80.33)| |Z|Eastern Plaguelands|
-K Plaguehound Runt |QID|5542.1| |N|Kill 20 Plaguehound Runt in Eastern Plaguelands (35.77, 81.88) (34.57, 73.46) (32.81, 67.77) (24.60, 68.22) (19.74, 71.76) (18.29, 77.41) (22.62, 80.33)| |Z|Eastern Plaguelands|
+C Plaguebat |QID|5543| |OIDX|1| |N|Kill 30 Plaguebat in Eastern Plaguelands (35.77, 81.88) (34.57, 73.46) (32.81, 67.77) (24.60, 68.22) (19.74, 71.76) (18.29, 77.41) (22.62, 80.33)| |Z|Eastern Plaguelands|
+C Plaguehound Runt |QID|5542| |OIDX|1| |N|Kill 20 Plaguehound Runt in Eastern Plaguelands (35.77, 81.88) (34.57, 73.46) (32.81, 67.77) (24.60, 68.22) (19.74, 71.76) (18.29, 77.41) (22.62, 80.33)| |Z|Eastern Plaguelands|
 
 R Light's Hope Chapel |QID|5281| |N|Travel east to Light's Hope Chapel (79.55, 64.07)| |Z|Eastern Plaguelands|
 A The Restless Souls |QID|5281| |N|Caretaker Alen in Light's Hope Chapel (79.55, 64.07)| |Z|Eastern Plaguelands|
@@ -43,22 +43,22 @@ N Living Rot |QID|6022| |N|Kill Scourge at Corin's Crossing and collect 7 Living
 C To Kill With Purpose |QID|6022| |N|Use the Mortar and Pestle to grind the meat into Coagulated Rot| |U|15454|
 
 N As you go... |AYG|5544| |QID|5544| |N|Kill the required Noxious Plaguebat, Plaguehound, Diseased Flayer, Carrion Grub in any order|
-K Noxious Plaguebat |QID|6042.1| |N|Kill 20 Noxious Plaguebat in Eastern Plaguelands (56.72, 62.35) (53.06, 57.88) (53.06, 57.88) (55.24, 56.29) (53.41, 51.07) (59.81, 55.02) (64.89, 56.86) (70.08, 59.87) (69.51, 67.25)| |Z|Eastern Plaguelands|
-K Plaguehound |QID|5542.2| |N|Kill 5 Plaguehound in Eastern Plaguelands (79.18, 68.76) (70.90, 71.41) (64.97, 62.50) (72.41, 54.10)| |Z|Eastern Plaguelands|
-K Frenzied Plaguehound |QID|5542.3| |N|Kill 5 Frenzied Plaguehound in Eastern Plaguelands (70.30, 44.54) (68.90, 36.51)| |Z|Eastern Plaguelands|
+C Noxious Plaguebat |QID|6042| |OIDX|1| |N|Kill 20 Noxious Plaguebat in Eastern Plaguelands (56.72, 62.35) (53.06, 57.88) (53.06, 57.88) (55.24, 56.29) (53.41, 51.07) (59.81, 55.02) (64.89, 56.86) (70.08, 59.87) (69.51, 67.25)| |Z|Eastern Plaguelands|
+C Plaguehound |QID|5542| |OIDX|2| |N|Kill 5 Plaguehound in Eastern Plaguelands (79.18, 68.76) (70.90, 71.41) (64.97, 62.50) (72.41, 54.10)| |Z|Eastern Plaguelands|
+C Frenzied Plaguehound |QID|5542| |OIDX|3| |N|Kill 5 Frenzied Plaguehound in Eastern Plaguelands (70.30, 44.54) (68.90, 36.51)| |Z|Eastern Plaguelands|
 K Carrion Grub |QID|5544| |N|Kill Carrion Grub for 15 Slab of Carrion Worm Meat (67.9, 61.0) (66.4, 67.6) (73.0, 71.8)| |Z|Eastern Plaguelands|
 R Eastern Plaguelands |QID|5544| |N|Travel to Eastern Plaguelands|
 N As you go... |AYG|5211| |QID|9126| |N|Collect 30 Bone Fragments for a later quest from Skeletons| |L|22526 30|
-K Diseased Flayer |QID|5211.1| |N|Make a start on this quest and kill Diseased Flayer then speak to Darrowshire Spirit that will spawn after the kill to free the spirit. NOTE: You can complete this later in Stratholme if this area is cleared already, tick this step (65.96, 39.86)| |Z|Eastern Plaguelands|
+C Diseased Flayer |QID|5211| |OIDX|1| |N|Make a start on this quest and kill Diseased Flayer then speak to Darrowshire Spirit that will spawn after the kill to free the spirit. NOTE: You can complete this later in Stratholme if this area is cleared already, tick this step (65.96, 39.86)| |Z|Eastern Plaguelands|
 
 R Zul'Mashar |QID|6024| |N|Travel to Zul'Mashar (64.32, 22.56)| |Z|Eastern Plaguelands|
-K Infiltrator Hameya |QID|6024.1| |N|Go around the graveyard and kill Infiltrator Hameya and collect Hameya's Key in Zul'Mashar, (66.86, 21.45) (68.26, 21.05) (70.77, 16.07)| |Z|Eastern Plaguelands|
+C Infiltrator Hameya |QID|6024| |OIDX|1| |N|Go around the graveyard and kill Infiltrator Hameya and collect Hameya's Key in Zul'Mashar, (66.86, 21.45) (68.26, 21.05) (70.77, 16.07)| |Z|Eastern Plaguelands|
 
 R Eastwall Tower |QID|6042| |N|Travel to Eastwall Tower (69.96, 49.67)| |Z|Eastern Plaguelands| |REACH|64.32,22.56|
 K Monstrous Plaguebat |QID|6042| |N|Kill 10 Monstrous Plaguebat near Eastwall Tower (69.96, 49.67) (70.40, 41.84) (63.67, 40.34) (60.52, 49.08)| |Z|Eastern Plaguelands|
 
 R Quel'Lithien Lodge |QID|6133| |N|Travel to Quel'Lithien Lodge (51.74, 21.91)| |Z|Eastern Plaguelands|
-N Quel'Thalas Registry |QID|6133.4| |N|Collect Quel'Thalas Registry from the bench seat in Quel'Lithien Lodge, it is guarded by 2-3 Blood Elfs, you may need help. Try grabbing the book from the other side of the wall, otherwise safe to skip (51.03, 16.25) (52.85, 16.81) (52.15, 18.34)| |Z|Eastern Plaguelands| |OBJ|1128|
+C Quel'Thalas Registry |QID|6133| |OIDX|4| |N|Collect Quel'Thalas Registry from the bench seat in Quel'Lithien Lodge, it is guarded by 2-3 Blood Elfs, you may need help. Try grabbing the book from the other side of the wall, otherwise safe to skip (51.03, 16.25) (52.85, 16.81) (52.15, 18.34)| |Z|Eastern Plaguelands| |OBJ|1128|
 C The Ranger Lord's Behest |QID|6133| |N|Kill the required Blood Elfs in Quel'Lithien Lodge (52.81, 15.92)| |Z|Eastern Plaguelands|
 N As you go... |AYG|5903| |QID|9126| |N|Collect 30 Bone Fragments for a later quest from Skeletons| |L|22526 30|
 C A Plague Upon Thee (Part 1) |QID|5901| |N|Check each waypoint and click on Termite Mound to collect 100 Plagueland Termites in Stratholme (45.83, 34.01) (42.87, 34.26) (42.17, 38.29) (40.62, 31.39) (41.28, 25.40) (43.65, 24.14) (39.72, 23.07) (35.58, 23.72) (33.81, 25.78) (30.41, 21.57) (30.00, 22.95)| |Z|Eastern Plaguelands| |OBJ|25661|

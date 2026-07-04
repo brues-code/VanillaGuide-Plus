@@ -7,15 +7,15 @@ A Prison Break In |QID|544| |N|Magus Wordeen Voidglare in Tarren Mill (61.59, 20
 A Stone Tokens |QID|556| |N|Keeper Bel'varil in Tarren Mill (61.59, 20.71)| |Z|Hillsbrad Foothills|
 
 R Growless Cave |QID|553| |N|Travel to Growless Cave (37.54, 67.91)| |O|
-N Charge Flame of Uzel |QID|553.3| |N|Click Item Flame of Uzel in Growless Cave (37.54, 66.38)| |O|
+N Charge Flame of Uzel |QID|553| |OIDX|3| |N|Click Item Flame of Uzel in Growless Cave (37.54, 66.38)| |O|
 C Frostmaw |QID|1136| |N|Kill Frostmaw and collect Frostmaw's Mane in Growless Cave (37.59, 65.84)| |O|
 
 R Dalaran |QID|556| |N|Travel to in Dalaran (20.33, 84.79)|
 C Stone Tokens |QID|556| |N|Kill Dalaran humanoid enemies and collect 10 Worn Stone Token in Dalaran (21, 83)|
-K Ricter |QID|544.2| |N|Kill Ricter and collect Bloodstone Marble in Lordamere Internment Camp (19.69, 82.48)|
-K Alina |QID|544.3| |N|Kill Alina and collect Bloodstone Shard in Lordamere Internment Camp (20.22, 86.26)|
-K Dermot |QID|544.1| |N|Kill Dermot and collect Bloodstone Wedge in Lordamere Internment Camp (20.20, 86.24)|
-K Kegan Darkmar |QID|544.4| |N|Kill Kegan Darkmar and collect Bloodstone Oval in Lordamere Internment Camp (18.19, 83.59)|
+C Ricter |QID|544| |OIDX|2| |N|Kill Ricter and collect Bloodstone Marble in Lordamere Internment Camp (19.69, 82.48)|
+C Alina |QID|544| |OIDX|3| |N|Kill Alina and collect Bloodstone Shard in Lordamere Internment Camp (20.22, 86.26)|
+C Dermot |QID|544| |OIDX|1| |N|Kill Dermot and collect Bloodstone Wedge in Lordamere Internment Camp (20.20, 86.24)|
+C Kegan Darkmar |QID|544| |OIDX|4| |N|Kill Kegan Darkmar and collect Bloodstone Oval in Lordamere Internment Camp (18.19, 83.59)|
 
 T Helcular's Revenge (Part 2) |QID|553| |N|Vile Fin Shredder in Southshore (52.74, 53.26)| |Z|Hillsbrad Foothills| |O|
 

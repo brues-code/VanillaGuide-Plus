@@ -73,7 +73,7 @@ A Betrayed (Part 2) |QID|3505| |N|Ag'tor Bloodfist in Valormok (22.28, 51.50)| |
 
 R Legash Encampment |QID|3601| |N|Travel to Legash Encampment (46.22, 39.47) (44.89, 36.56) (53.28, 20.15)| |Z|Azshara|
 A Kim'jael Indeed! |QID|3601| |N|Kim'jael in Legash Encampment (53.41, 21.77)| |Z|Azshara|
-N Find Magus Rimtori's camp |QID|3505.1| |N|Find Magus Rimtori's camp in Thalassian Base Camp (59.35, 30.97)| |Z|Azshara|
+C Find Magus Rimtori's camp |QID|3505| |OIDX|1| |N|Find Magus Rimtori's camp in Thalassian Base Camp (59.35, 30.97)| |Z|Azshara|
 C Kim'jael Indeed! |QID|3601| |N|Collect all the required parts from the crates in Thalassian Base Camp (58.57, 28.99)| |Z|Azshara|  |OBJ|285|
 C Betrayed (Part 2) |QID|3505| |N|Kill 10 Blood Elf Reclaimers and 10 Surveyors, then check the tent in back of Thalassian Base Camp (59.11, 31.85)| |Z|Azshara|
 T Betrayed (Part 2) |QID|3505| |N|Kaldorei Tome of Summoning in Thalassian Base Camp (59.49, 31.28)| |Z|Azshara|

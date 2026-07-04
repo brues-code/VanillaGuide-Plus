@@ -28,11 +28,11 @@ T Rhapsody Shindigger |QID|1451| |N|Rhapsody Shindigger (26.93, 48.60)| |Z|The H
 A Rhapsody's Kalimdor Kocktail |QID|1452| |N|Rhapsody Shindigger (26.93, 48.60)| |Z|The Hinterlands|
 
 R Zun'watha |QID|2988| |N|Travel to troll camp at Zun'watha (23.27, 58.71)| |Z|The Hinterlands|
-N Check First Cage |QID|2988.1| |N|Clear area and click Witherbark Cage (23.27, 58.71)| |Z|The Hinterlands| |OBJ|676|
-N Check Second Cage |QID|2988.2| |N|Click Second Witherbark Cage (23.13, 58.73)| |Z|The Hinterlands| |OBJ|676|
+C Check First Cage |QID|2988| |OIDX|1| |N|Clear area and click Witherbark Cage (23.27, 58.71)| |Z|The Hinterlands| |OBJ|676|
+C Check Second Cage |QID|2988| |OIDX|2| |N|Click Second Witherbark Cage (23.13, 58.73)| |Z|The Hinterlands| |OBJ|676|
 
 R Hiri'watha |QID|2988| |N|Travel east to Hiri'watha (31.00, 57.38)| |Z|The Hinterlands|
-N Check Third Cage |QID|2988.3| |N|Click Third Witherbark Cage (32.00, 57.38)| |Z|The Hinterlands| |OBJ|676|
+C Check Third Cage |QID|2988| |OIDX|3| |N|Click Third Witherbark Cage (32.00, 57.38)| |Z|The Hinterlands| |OBJ|676|
 C Troll Necklace Bounty |QID|2880| |N|Kill Witherbark trolls for 5 Troll Tribal Necklace (32.00, 57.38)| |Z|The Hinterlands|
 
 R Agol'watha |QID|2877| |N|Travel northeast to Agol'watha (46.54, 40.46)| |Z|The Hinterlands|

@@ -35,18 +35,18 @@ N Filled Tainted Ooze Jar |QID|4512| |N|Store Filled Tainted Ooze Jar to the ban
 N Deadwood Ritual Totem |QID|8470| |N|Store Deadwood Ritual Totem to the bank (61.4, 37.0)| |Z|Winterspring| |L|20741| |O|
 
 R Lake Kel'Theril |QID|5245| |N|Travel to Lake Kel'Theril (55.16, 42.94)| |Z|Winterspring|
-N First Relic Fragment |QID|5245.1| |N|Collect First Relic Fragment from Highborne Relic Fragment in Lake Kel'Theril (55.16, 42.94)| |Z|Winterspring| |OBJ|3991|
-N Third Relic Fragment |QID|5245.3| |N|Collect Third Relic Fragment from Highborne Relic Fragment in Lake Kel'Theril (53.3, 43.4)| |Z|Winterspring| |OBJ|3991|
-N Fourth Relic Fragment |QID|5245.4| |N|Collect Fourth Relic Fragment from Highborne Relic Fragment in Lake Kel'Theril (52.41, 41.59)| |Z|Winterspring| |OBJ|3991|
-N Second Relic Fragment |QID|5245.2| |N|Collect Second Relic Fragment from Highborne Relic Fragment in Lake Kel'Theril (50.96, 41.75)| |Z|Winterspring| |OBJ|3991|
+C First Relic Fragment |QID|5245| |OIDX|1| |N|Collect First Relic Fragment from Highborne Relic Fragment in Lake Kel'Theril (55.16, 42.94)| |Z|Winterspring| |OBJ|3991|
+C Third Relic Fragment |QID|5245| |OIDX|3| |N|Collect Third Relic Fragment from Highborne Relic Fragment in Lake Kel'Theril (53.3, 43.4)| |Z|Winterspring| |OBJ|3991|
+C Fourth Relic Fragment |QID|5245| |OIDX|4| |N|Collect Fourth Relic Fragment from Highborne Relic Fragment in Lake Kel'Theril (52.41, 41.59)| |Z|Winterspring| |OBJ|3991|
+C Second Relic Fragment |QID|5245| |OIDX|2| |N|Collect Second Relic Fragment from Highborne Relic Fragment in Lake Kel'Theril (50.96, 41.75)| |Z|Winterspring| |OBJ|3991|
 
 R Dun Mandarr |QID|4863| |N|Travel to Dun Mandarr (58.99, 59.76)| |Z|Winterspring|
 T Enraged Wildkin |QID|4861| |N|Damaged Crate in Dun Mandarr (58.99, 59.76)| |Z|Winterspring| |OBJ|3791|
 A Enraged Wildkin |QID|4863| |N|Damaged Crate in Dun Mandarr (58.99, 59.76)| |Z|Winterspring| |OBJ|3791|
 T Enraged Wildkin |QID|4863| |N|Jaron's Wagon in Dun Mandarr (61.40, 60.67)| |Z|Winterspring| |OBJ|3677|
 A Enraged Wildkin |QID|4864| |N|Jaron's Wagon in Dun Mandarr (61.40, 60.67)| |Z|Winterspring| |OBJ|3677|
-N Jaron's Supplies |QID|4864.1| |N|Collect Jaron's Supplies from the crate next to Jaron's Wagon in Dun Mandarr (61.40, 60.74)| |Z|Winterspring| |OBJ|285|
-N Blue-feathered Amulet |QID|4864.2| |N|Kill Owlbeasts until you find Blue-feathered Amulet in Owl Wing Thicket, (high drop rate) (65.55, 60.38)| |Z|Winterspring|
+C Jaron's Supplies |QID|4864| |OIDX|1| |N|Collect Jaron's Supplies from the crate next to Jaron's Wagon in Dun Mandarr (61.40, 60.74)| |Z|Winterspring| |OBJ|285|
+C Blue-feathered Amulet |QID|4864| |OIDX|2| |N|Kill Owlbeasts until you find Blue-feathered Amulet in Owl Wing Thicket, (high drop rate) (65.55, 60.38)| |Z|Winterspring|
 
 C Strange Sources |QID|4842| |N|Go over the bridge and discover Darkwhisper Gorge (62.40, 67.17) (61.82, 70.63) (60.06, 73.49)| |Z|Winterspring| |PRE|980|
 
@@ -59,7 +59,7 @@ N Fourth Relic Fragment |QID|5245| |N|Store Fourth Relic Fragment to the bank (6
 
 R Winterfall Village |QID|8464| |N|Travel to Winterfall Village (67.13, 35.93)| |Z|Winterspring|
 C Winterfall Activity |QID|8464| |N|Kill the required Winterfall fulborg in Winterfall Village (67.13, 35.93)| |Z|Winterspring|
-C Threat of the Winterfall |QID|5082.2| |N|Kill 8 Winterfall Den Watcher in Winterfall Village (66.94, 34.82)| |Z|Winterspring|
+C Threat of the Winterfall |QID|5082| |OIDX|2| |N|Kill 8 Winterfall Den Watcher in Winterfall Village (66.94, 34.82)| |Z|Winterspring|
 N Empty Firewater Flask |QID|5083| |N|Collect Empty Firewater Flask from Winterfall fulborgs (67.13, 35.93)| |Z|Winterspring|  |L|12771|
 A Winterfall Firewater |QID|5083| |N|Use Empty Firewater Flask to accept quest| |Z|Winterspring| |U|12771|
 
@@ -67,8 +67,8 @@ R Starfall Village |TID|4864| |N|Travel to Starfall Village (52.14, 30.43)| |Z|W
 T Enraged Wildkin |QID|4864| |N|Jaron Stoneshaper in Starfall Village (52.14, 30.43)| |Z|Winterspring|
 
 R Timbermaw Post |QID|5082| |N|Travel to Timbermaw Post (40.69, 42.87)| |Z|Winterspring|
-C Threat of the Winterfall |QID|5082.1| |N|Kill 8 Winterfall Pathfinder and 8 Winterfall Totemic in Timbermaw Post. There's not much Winterfall Den Watcher around this area, you can kill lots of them east of Everlook later (40.69, 42.87) (30.76, 36.53)| |Z|Winterspring|
-C Threat of the Winterfall |QID|5082.3| |N|Kill 8 Winterfall Pathfinder and 8 Winterfall Totemic in Timbermaw Post. There's not much Winterfall Den Watcher around this area, you can kill lots of them east of Everlook later (30.76, 36.53)| |Z|Winterspring|
+C Threat of the Winterfall |QID|5082| |OIDX|1| |N|Kill 8 Winterfall Pathfinder and 8 Winterfall Totemic in Timbermaw Post. There's not much Winterfall Den Watcher around this area, you can kill lots of them east of Everlook later (40.69, 42.87) (30.76, 36.53)| |Z|Winterspring|
+C Threat of the Winterfall |QID|5082| |OIDX|3| |N|Kill 8 Winterfall Pathfinder and 8 Winterfall Totemic in Timbermaw Post. There's not much Winterfall Den Watcher around this area, you can kill lots of them east of Everlook later (30.76, 36.53)| |Z|Winterspring|
 
 R Frostfire Hot Springs |QID|5082| |N|Travel to Frostfire Hot Springs (31.28, 45.17)| |Z|Winterspring| |REACH|
 T Strange Sources |QID|4842| |N|Donova Snowden in Frostfire Hot Springs (31.27, 45.17)| |Z|Winterspring| |PRE|980|
@@ -89,7 +89,7 @@ C Are We There, Yeti? |QID|977| |N|Kill Ice Thistle Matriarch or Ice Thistle Pat
 R Everlook |QID|5163| |N|Travel to Everlook (60.89, 37.64)| |Z|Winterspring|
 T Are We There, Yeti? |QID|977| |N|Umi Rumplesnicker in Everlook (60.88, 37.63)| |Z|Winterspring|
 A Are We There, Yeti? |QID|5163| |N|Umi Rumplesnicker in Everlook (60.9, 37.6)| |Z|Winterspring|
-N Legacki |QID|5163.1| |N|Use Umi's Mechanical Yeti near Legacki in Everlook (61.53, 38.63)| |Z|Winterspring| |U|12928|
+C Legacki |QID|5163| |OIDX|1| |N|Use Umi's Mechanical Yeti near Legacki in Everlook (61.53, 38.63)| |Z|Winterspring| |U|12928|
 A Sister Pamela |QID|5601| |N|Jessica Redpath in Everlook (61.34, 38.98)| |Z|Winterspring|
 A The Everlook Report |QID|6028| |N|Gregor Greystone in Everlook (61.34, 38.98)| |Z|Winterspring|
 A Duke Nicholas Zverenhoff |QID|6030| |N|Gregor Greystone in Everlook (61.35, 38.97)| |Z|Winterspring|

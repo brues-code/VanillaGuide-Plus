@@ -38,7 +38,7 @@ U Gahz'ridian Detector |QID|3161| |N|Use Gahz'ridian Detector to help you find 3
 
 N As you go... |AYG|5863| |QID|3161| |N|Use Gahz'ridian Detector to help you find 30 Gahz'ridian Ornament from small sand mound around the ruins| |OBJ|1767|
 R Dunemaul Compound |QID|5863| |N|Travel to Dunemaul Compound (41.09, 57.39)| |Z|Tanaris|
-K Gor'marok the Ravager |QID|5863.3| |N|Kill Gor'marok the Ravager inside the cave in Dunemaul Compound (41.46, 57.78)| |Z|Tanaris|
+C Gor'marok the Ravager |QID|5863| |OIDX|3| |N|Kill Gor'marok the Ravager inside the cave in Dunemaul Compound (41.46, 57.78)| |Z|Tanaris|
 C The Dunemaul Compound |QID|5863| |N|Kill 10 Dunemaul Brute, 10 Dunemaul Enforcer and Gor'marok the Ravager in Dunemaul Compound (40.43, 55.72) (40.56, 72.71) (47.02, 65.85)|
 R Dunemaul Compound |QID|5863| |N|Travel to Dunemaul Compound (41.09, 57.39)| |Z|Tanaris|
 C Gahz'ridian |QID|3161| |N|Equip the Gahz'ridian Detector to find 30 Gahz'ridian Ornament all over Tanaris and especially near the Eastmoon Ruins (40.43, 55.72) (40.56, 72.71) (47.02, 65.85)| |U|9978|  |OBJ|1767|

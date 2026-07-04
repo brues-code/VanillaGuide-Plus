@@ -10,15 +10,15 @@ N Long Elegant Feather |QID|7842| |N|Withdraw Long Elegant Feather from the bank
 
 R Valormok |QID|3517| |N|Travel to Valormok (22.53, 51.40)| |Z|Azshara| 
 A Stealing Knowledge |QID|3517| |N|Jediga in Valormok (22.53, 51.40)| |Z|Azshara| 
-N Tablet of Markri |QID|3517.3| |N|Collect Tablet of Markri from the ground in Ruins of Eldarath it spawns randomly around the area (35.73, 56.56)| |Z|Azshara|  |OBJ|2653|
-N Tablet of Sael'hai |QID|3517.4| |N|Collect Tablet of Sael'hai from the ground in Ruins of Eldarath it spawns randomly around the area (39.56, 48.17)| |Z|Azshara|  |OBJ|2654|
-N Tablet of Beth'Amara |QID|3517.1| |N|Collect Tablet of Beth'Amara from the ground in Ruins of Eldarath it spawns randomly around the area (39.2, 52.4)| |Z|Azshara|  |OBJ|2651|
-N Tablet of Jin'yael |QID|3517.2| |N|Collect Tablet of Jin'yael from the ground in Ruins of Eldarath it spawns randomly around the area (37.38, 60.66)| |Z|Azshara|  |OBJ|2652|
+C Tablet of Markri |QID|3517| |OIDX|3| |N|Collect Tablet of Markri from the ground in Ruins of Eldarath it spawns randomly around the area (35.73, 56.56)| |Z|Azshara|  |OBJ|2653|
+C Tablet of Sael'hai |QID|3517| |OIDX|4| |N|Collect Tablet of Sael'hai from the ground in Ruins of Eldarath it spawns randomly around the area (39.56, 48.17)| |Z|Azshara|  |OBJ|2654|
+C Tablet of Beth'Amara |QID|3517| |OIDX|1| |N|Collect Tablet of Beth'Amara from the ground in Ruins of Eldarath it spawns randomly around the area (39.2, 52.4)| |Z|Azshara|  |OBJ|2651|
+C Tablet of Jin'yael |QID|3517| |OIDX|2| |N|Collect Tablet of Jin'yael from the ground in Ruins of Eldarath it spawns randomly around the area (37.38, 60.66)| |Z|Azshara|  |OBJ|2652|
 
-N Filled Vial Labeled #1 |QID|3568.1| |N|Use Empty Vial Labeled #1 in the pool to collect Filled Vial Labeled #1 at Southridge Beach (47.74, 61.03)| |Z|Azshara| |U|10687|
-N Filled Vial Labeled #2 |QID|3568.2| |N|Use Empty Vial Labeled #2 in the pool to collect Filled Vial Labeled #2 at Southridge Beach (47.90, 51.43)| |Z|Azshara| |U|10688|
-N Filled Vial Labeled #3 |QID|3568.3| |N|Use Empty Vial Labeled #3 in the pool to collect Filled Vial Labeled #3 at The Shattered Strand (48.63, 48.53)| |Z|Azshara| |U|10689|
-N Filled Vial Labeled #4 |QID|3568.4| |N|Use Empty Vial Labeled #4 in the pool to collect Filled Vial Labeled #4 at The Shattered Strand (47.38, 46.28)| |Z|Azshara| |U|10690|
+N Filled Vial Labeled #1 |QID|3568| |OIDX|1| |N|Use Empty Vial Labeled #1 in the pool to collect Filled Vial Labeled #1 at Southridge Beach (47.74, 61.03)| |Z|Azshara| |U|10687|
+N Filled Vial Labeled #2 |QID|3568| |OIDX|2| |N|Use Empty Vial Labeled #2 in the pool to collect Filled Vial Labeled #2 at Southridge Beach (47.90, 51.43)| |Z|Azshara| |U|10688|
+N Filled Vial Labeled #3 |QID|3568| |OIDX|3| |N|Use Empty Vial Labeled #3 in the pool to collect Filled Vial Labeled #3 at The Shattered Strand (48.63, 48.53)| |Z|Azshara| |U|10689|
+N Filled Vial Labeled #4 |QID|3568| |OIDX|4| |N|Use Empty Vial Labeled #4 in the pool to collect Filled Vial Labeled #4 at The Shattered Strand (47.38, 46.28)| |Z|Azshara| |U|10690|
 
 R Valormok |TID|3517| |N|Travel to Valormok (22.56, 51.41)| |Z|Azshara|
 T Stealing Knowledge |QID|3517| |N|Jediga in Valormok (22.56, 51.41)| |Z|Azshara| 

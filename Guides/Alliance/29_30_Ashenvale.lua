@@ -57,7 +57,7 @@ R Forest Song |OID|1011| |N|Travel to Forest Song (85.20, 44.77)| |Z|Ashenvale|
 T Kayneth Stillwind |QID|4581| |N|Kayneth Stillwind in Forest Song (85.20, 44.77)| |Z|Ashenvale|
 A Forsaken Diseases |QID|1011| |N|Kayneth Stillwind in Forest Song (85.20, 44.77)| |Z|Ashenvale|
 
-N Free the Highborne soul in Satyrnaar |QID|1140.2| |N|Click on the Circle of Imprisonment on the ground n Satyrnaar (81.61, 48.58)| |Z|Ashenvale| |O|
+N Free the Highborne soul in Satyrnaar |QID|1140| |OIDX|2| |N|Click on the Circle of Imprisonment on the ground n Satyrnaar (81.61, 48.58)| |Z|Ashenvale| |O|
 
 R The Dor'Danil Barrow Den |QID|1011| |N|Travel to The Dor'Danil Barrow Den (86.16, 50.42) (78.00, 56.19) (75.29, 72.19)| |Z|Ashenvale|
 C Forsaken Diseases |QID|1011| |N|Collect a Bottle of Disease in The Dor'Danil Barrow Den (86.16, 50.42) (78.00, 56.19) (75.29, 72.19)| |Z|Ashenvale|
@@ -71,9 +71,9 @@ T Forsaken Diseases |QID|1011| |N|Kayneth Stillwind in Forest Song (85.23, 44.70
 A Insane Druids |QID|1012| |N|Kayneth Stillwind in Forest Song (85.23, 44.70)| |Z|Ashenvale|
 N Please Read |QID|1012| |N|The quest 'Insane Druids' is difficulty to solo but highly recommended if you have a group, it provide a lot of grinding XP and good 2H Sword reward for Warrior and Paladin. Recommend that you give it a go solo and it is safe to skip|
 R The Dor'Danil Barrow Den |QID|1012| |N|Travel to The Dor'Danil Barrow Den for the quest Insane Druids (75.96, 75.35)| |Z|Ashenvale|
-K Taneel Darkwood |QID|1012.1| |N|Kill Taneel Darkwood for the quest Insane Druids inside the cave in The Dor'Danil Barrow Den (75.96, 75.35) (77.25, 74.74)| |Z|Ashenvale|
-K Uthil Mooncall |QID|1012.2| |N|Kill Uthil Mooncall for the quest Insane Druids in in The Dor'Danil Barrow Den (78.08, 72.87)| |Z|Ashenvale|
-K Mavoris Cloudsbreak |QID|1012.3| |N|Kill Mavoris Cloudsbreak for the quest Insane Druids in in The Dor'Danil Barrow Den (75.05, 74.18)| |Z|Ashenvale|
+C Taneel Darkwood |QID|1012| |OIDX|1| |N|Kill Taneel Darkwood for the quest Insane Druids inside the cave in The Dor'Danil Barrow Den (75.96, 75.35) (77.25, 74.74)| |Z|Ashenvale|
+C Uthil Mooncall |QID|1012| |OIDX|2| |N|Kill Uthil Mooncall for the quest Insane Druids in in The Dor'Danil Barrow Den (78.08, 72.87)| |Z|Ashenvale|
+C Mavoris Cloudsbreak |QID|1012| |OIDX|3| |N|Kill Mavoris Cloudsbreak for the quest Insane Druids in in The Dor'Danil Barrow Den (75.05, 74.18)| |Z|Ashenvale|
 T Insane Druids |QID|1012| |N|Kayneth Stillwind in Forest Song, die and ressurect for a shortcut (85.22, 44.69)| |Z|Ashenvale|
 
 R Astranaar |TID|1035| |N|Travel to Astranaar (37.35, 51.79)| |Z|Ashenvale|
@@ -119,7 +119,7 @@ N Dwarven Tinder |QID|465| |N|Withdraw Dwarven Tinder from the bank. Tick this s
 T Velinde Starsong |QID|1037| |N|Thyn'tel Bladeweaver in Darnassus (61.71, 39.12)| |Z|Darnassus|
 A Velinde's Effects |QID|1038| |N|Thyn'tel Bladeweaver in Darnassus (61.71, 39.12)| |Z|Darnassus|
 A Klockmort's Essentials |QID|2925| |N|Mathiel in Darnassus (59.07, 45.11)| |Z|Darnassus|
-N Velinde's Journal |QID|1038.1| |N|Collect Velinde's Journal from Velinde's Locker in Tradesmen's Terrace (56.01, 79.41) (57.30, 76.60) (62.37, 83.25)| |Z|Darnassus|
+C Velinde's Journal |QID|1038| |OIDX|1| |N|Collect Velinde's Journal from Velinde's Locker in Tradesmen's Terrace (56.01, 79.41) (57.30, 76.60) (62.37, 83.25)| |Z|Darnassus|
 T Velinde's Effects |QID|1038| |N|Thyn'tel Bladeweaver in Darnassus (61.83, 39.11)| |Z|Darnassus|
 A The Barrens Port |QID|1039| |N|Thyn'tel Bladeweaver in Darnassus (61.83, 39.11)| |Z|Darnassus|
 

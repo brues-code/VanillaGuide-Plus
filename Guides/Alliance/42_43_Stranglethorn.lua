@@ -26,8 +26,8 @@ A Stoley's Debt |QID|2872| |N|\Sea Wolf\ MacKinley in Booty Bay (27.8, 77.1)|
 A Keep An Eye Out |QID|576| |N|Dizzy One-Eye in Booty Bay (28.6, 75.8)|
 
 R Wild Shore |QID|587| |N|Travel to Wild Shore (30.85, 72.37) (32.93, 74.27)| |Z|Stranglethorn Vale|
-N Bloodsail Charts |QID|604.2| |N|Collect Bloodsail Charts on top the table in Wild Shore (26.9, 82.5)| |Z|Stranglethorn Vale|
-N Bloodsail Orders |QID|604.3| |N|Collect Bloodsail Orders on top of the crate in Wild Shore (27.8, 83.1)| |Z|Stranglethorn Vale|
+C Bloodsail Charts |QID|604| |OIDX|2| |N|Collect Bloodsail Charts on top the table in Wild Shore (26.9, 82.5)| |Z|Stranglethorn Vale|
+C Bloodsail Orders |QID|604| |OIDX|3| |N|Collect Bloodsail Orders on top of the crate in Wild Shore (27.8, 83.1)| |Z|Stranglethorn Vale|
 C The Bloodsail Buccaneers (Part 3) |QID|604| |N|Kill 10 Bloodsail Swashbuckler in Wild Shore (30.31, 80.75)|
 C Up to Snuff |QID|587| |N|Kill Bloodsail pirates and collect 15 Snuff in Wild Shore (30, 80)|
 C Keep An Eye Out |QID|576| |N|The Pirates should have dropped Dizzy's Eye by now, or else keep killing pirates until you find one (30, 80)|
@@ -42,13 +42,13 @@ C Akiris by the Bundle |QID|617| |N|Collect 10 Bundles of Akiris Reed from the N
 
 R Ruins of Jubuwal |QID|609| |N|Travel to Ruins of Jubuwal (27.16, 58.98) (29.81, 56.60)(30.88, 53.61) (34.75, 51.82)| |Z|Stranglethorn Vale|
 N As you go... |AYG|609| |QID|621| |N|Collect 12 Zanzil's Mixture drop from any Zanzil mobs|
-K Jon-Jon the Crow |QID|609.2| |N|Kill Jon-Jon the Crow and collect Jon-Jon's Golden Spyglass in Ruins of Jubuwal (34.75, 51.82)| |Z|Stranglethorn Vale|
-K Maury \Club Foot\ Wilkins |QID|609.1| |N|Kill Maury \Club Foot\ Wilkins and collect Maury's Clubbed Foot in Ruins of Jubuwal (35.18, 51.11)| |Z|Stranglethorn Vale|
-R Stranglethorn Vale |QID|609.1| |N|Travel to Stranglethorn Vale|
+C Jon-Jon the Crow |QID|609| |OIDX|2| |N|Kill Jon-Jon the Crow and collect Jon-Jon's Golden Spyglass in Ruins of Jubuwal (34.75, 51.82)| |Z|Stranglethorn Vale|
+C Maury \Club Foot\ Wilkins |QID|609| |OIDX|1| |N|Kill Maury \Club Foot\ Wilkins and collect Maury's Clubbed Foot in Ruins of Jubuwal (35.18, 51.11)| |Z|Stranglethorn Vale|
+R Stranglethorn Vale |QID|609| |OIDX|1| |N|Travel to Stranglethorn Vale|
 C Venture Company Mining |QID|600| |N|Kill the Venture Co. goblins for 10 Singing Blue Crystal (40.14, 42.57) (41.72, 44.57)| |PRE|605|
 
 R Ruins of Aboraz |QID|621| |N|Travel to Ruins of Aboraz (33.90, 54.00) (38.34, 56.71)| |Z|Stranglethorn Vale|
-K Chucky \Ten Thumbs\ |QID|609.3| |N|Kill Maury \Club Foot\ Wilkins and collect Chucky's Huge Ring in Ruins of Aboraz (40.05, 58.21)| |Z|Stranglethorn Vale|
+C Chucky \Ten Thumbs\ |QID|609| |OIDX|3| |N|Kill Maury \Club Foot\ Wilkins and collect Chucky's Huge Ring in Ruins of Aboraz (40.05, 58.21)| |Z|Stranglethorn Vale|
 C Zanzil's Secret |QID|621| |N|Kill Zanzil Hunter and Zanzil Zombie at the Ruins of Aboraz for 12 Zanzil's Mixture (40, 57)|
 
 R Stranglethorn Vale |QID|197| |N|Travel to Nesingwary's Expedition (35.7, 10.8)| |O|

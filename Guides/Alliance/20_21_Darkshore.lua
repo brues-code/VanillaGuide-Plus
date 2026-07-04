@@ -87,7 +87,7 @@ T Return to Onu |QID|950| |N|Onu in Grove of the Ancients (43.55, 76.32)|
 A Mathystra Relics |QID|951| |N|Onu in Grove of the Ancients (43.57, 76.34)|
 
 A The Sleeper Has Awakened |QID|5321| |N|Kerlonian Evershade in Grove of the Ancients (44.38, 76.42)|
-N Horn of Awakening |QID|5321.1| |N|Collect Horn of Awakening from the chest next to Kerlonian Evershade in Grove of the Ancients (44.37, 76.36)| |L|13536|
+C Horn of Awakening |QID|5321| |OIDX|1| |N|Collect Horn of Awakening from the chest next to Kerlonian Evershade in Grove of the Ancients (44.37, 76.36)| |L|13536|
 N As you go... |AYG|5713| |QID|5321| |N|Kerlonian Evershade will occasionally fall asleep, use the Horn of Awakening to wake him back up|
 A One Shot. One Kill. |QID|5713| |N|Sentinel Aynasha in Dark Shore (45.8, 90.2)| |U|13536|
 C One Shot. One Kill. |QID|5713| |N|Protect Sentinel Aynasha until the quest is complete (45.8, 90.2)| |U|13536|

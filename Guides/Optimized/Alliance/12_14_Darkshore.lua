@@ -72,10 +72,10 @@ R Twilight Vale |QID|953| |N|Travel south to Twilight Vale (40.30, 59.68)|
 A The Fall of Ameth'Aran |QID|953| |N|Sentinel Tysha Moonblade in Twilight Vale (40.30, 59.68)|
 
 N As you go |N|Kill Highborne mobs for Relics|
-N Read the Lay of Ameth'Aran |QID|953.1| |N|Click on tablet in Ameth'Aran (43.27, 58.66)|
+C Read the Lay of Ameth'Aran |QID|953| |OIDX|1| |N|Click on tablet in Ameth'Aran (43.27, 58.66)|
 C For Love Eternal |QID|963| |N|Kill Anaya Dawnrunner for Anaya's Pendant - level 16, may need help (43.18, 59.99)|
 C Bashal'Aran (Part 4) |QID|957| |N|Click on the Ancient flame (42.38, 61.90)|
-N Read the Fall of Ameth'Aran |QID|953.2| |N|Click on tablet in Ameth'Aran (42.72, 63.13)|
+C Read the Fall of Ameth'Aran |QID|953| |OIDX|2| |N|Click on tablet in Ameth'Aran (42.72, 63.13)|
 T The Fall of Ameth'Aran |QID|953| |N|Sentinel Tysha Moonblade in Twilight Vale (40.30, 59.68)|
 
 C Plagued Lands |QID|2118| |N|Find Rabid Thistle Bear and use Tharnariun's Hope on it (39, 66)| |U|7586|

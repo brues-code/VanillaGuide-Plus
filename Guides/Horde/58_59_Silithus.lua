@@ -22,7 +22,7 @@ R Camp Mojache |TID|4120| |N|Travel to Camp Mojache in Feralas (76.17, 43.81)| |
 T The Strength of Corruption |QID|4120| |N|Talo Thornhoof in Camp Mojache (76.17, 43.81)| |Z|Feralas| |O| 
 
 R Gadgetzan |QID|5163| |N|Travel to Gadgetzan in Tanaris (51.07, 26.88)| |Z|Tanaris| |O|
-N Are We There, Yeti? |QID|5163.2| |N|Use Umi's Mechanical Yeti to scare Sprinkle in Gadgetzan (51.07, 26.88)| |Z|Tanaris| |O| |Q|Are We There, Yeti?||QO|Scare Sprinkle: 1/1|
+N Are We There, Yeti? |QID|5163| |OIDX|2| |N|Use Umi's Mechanical Yeti to scare Sprinkle in Gadgetzan (51.07, 26.88)| |Z|Tanaris| |O| |Q|Are We There, Yeti?||QO|Scare Sprinkle: 1/1|
 
 R Marshal's Refuge |QID|5163| |N|Travel to Marshal's Refuge in Un'Goro Crater (43.66, 9.36)| |Z|Un'Goro Crater| |O|
 N Are We There, Yeti? |QID|.3| |N|Use Umi's Mechanical Yeti to scare Quixxil in Marshal's Refuge (43.66, 9.36)| |Z|Un'Goro Crater| |O| |Q|Are We There, Yeti?||QO|Scare Quixxil: 1/1|
@@ -59,8 +59,8 @@ R Light's Hope Chapel |QID|5181| |N|Travel to Light's Hope Chapel in Eastern Pla
 T Brother Carlin |QID|5210| |N|Carlin Redpath in Light's Hope Chapel (81.51, 59.77)| |Z|Eastern Plaguelands| 
 A Villains of Darrowshire |QID|5181| |N|Carlin Redpath in Light's Hope Chapel (81.51, 59.77)| |Z|Eastern Plaguelands|
 R Blackwood Lake |QID|5181| |N|Travel west to Blackwood Lake (51.07, 49.94)| |Z|Eastern Plaguelands|
-N Skull of Horgus |QID|5181.1| |N|Collect Skull of Horgus underwater in Blackwood Lake (51.07, 49.94)| |Z|Eastern Plaguelands| |Q|Villains of Darrowshire||QO|Skull of Horgus: 1/1|
-N Shattered Sword of Marduk |QID|5181.2| |N|Collect Shattered Sword of Marduk from down below in The Infectis Scar (53.89, 65.78)| |Z|Eastern Plaguelands| |Q|Villains of Darrowshire||QO|Shattered Sword of Marduk: 1/1|
+C Skull of Horgus |QID|5181| |OIDX|1| |N|Collect Skull of Horgus underwater in Blackwood Lake (51.07, 49.94)| |Z|Eastern Plaguelands| |Q|Villains of Darrowshire||QO|Skull of Horgus: 1/1|
+C Shattered Sword of Marduk |QID|5181| |OIDX|2| |N|Collect Shattered Sword of Marduk from down below in The Infectis Scar (53.89, 65.78)| |Z|Eastern Plaguelands| |Q|Villains of Darrowshire||QO|Shattered Sword of Marduk: 1/1|
 
 R Light's Hope Chapel |TID|5181| |N|Travel west to Light's Hope Chapel (81.52, 59.75)| |Z|Eastern Plaguelands|
 T Villains of Darrowshire |QID|5181| |N|Carlin Redpath in Light's Hope Chapel (81.52, 59.75)| |Z|Eastern Plaguelands| 

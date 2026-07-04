@@ -110,7 +110,7 @@ T A Peon's Burden |QID|2161| |N|Innkeeper Grosk in Razor Hill (51.57, 41.71)|
 h Razor Hill |QID|791| |N|Speak to Innkeeper Grosk and set hearth in Razor Hill (51.57, 41.71)|
 
 N As you go... |AYG|784| |QID|791| |N|Collect 8 Canvas Scraps from Kul Tiras Sailor and Kul Tiras Marine|
-K Lieutenant Benedict |QID|784.3| |N|Kill Lieutenant Benedict upstairs in Tiragarde Keep (59.14, 58.26)|
+C Lieutenant Benedict |QID|784| |OIDX|3| |N|Kill Lieutenant Benedict upstairs in Tiragarde Keep (59.14, 58.26)|
 C Vanquish the Betrayers |QID|784| |N|Kill 10 Kul Tiras Sailor and 8 Kul Tiras Marine in Tiragarde Keep (59.4, 58.3)|
 N Aged Envelope |QID|830| |N|Collect Aged Envelope from Benedict's Chest upstair (59.3, 57.7)| |L|4881|
 A The Admiral's Orders (Part 1) |QID|830| |N|Use Aged Envelope to accept the quest (59.3, 57.7)| |U|4881|
@@ -135,9 +135,9 @@ T From The Wreckage.... |QID|825| |N|Gar'Thok in Razor Hill (51.90, 43.48)|
 T Encroachment |QID|837| |N|Gar'Thok in Razor Hill (51.90, 43.48)|
 
 R Kolkar Crag |QID|786| |N|Travel to Kolkar Crag (52.54, 44.35) (49.84, 81.28)|
-N Attack Plan: Valley of Trials |QID|786.1| |N|Destroy Attack Plan: Valley of Trials in Kolkar Crag (49.84, 81.28)| |OBJ|210|
-N Attack Plan: Sen'jin Village |QID|786.2| |N|Destroy Attack Plan: Sen'jin Village in Kolkar Crag (47.66, 77.43)| |OBJ|210|
-N Attack Plan: Orgrimmar |QID|786.3| |N|Destroy Attack Plan: Orgrimmar in Kolkar Crag (46.27, 78.95)| |OBJ|210|
+C Attack Plan: Valley of Trials |QID|786| |OIDX|1| |N|Destroy Attack Plan: Valley of Trials in Kolkar Crag (49.84, 81.28)| |OBJ|210|
+C Attack Plan: Sen'jin Village |QID|786| |OIDX|2| |N|Destroy Attack Plan: Sen'jin Village in Kolkar Crag (47.66, 77.43)| |OBJ|210|
+C Attack Plan: Orgrimmar |QID|786| |OIDX|3| |N|Destroy Attack Plan: Orgrimmar in Kolkar Crag (46.27, 78.95)| |OBJ|210|
 
 R Sen'jin Village |TID|786| |N|Travel to Sen'jin Village (54.59, 75.22)|
 T Thwarting Kolkar Aggression |QID|786| |N|Lar Prowltusk in Sen'jin Village (54.59, 75.22)|
@@ -146,7 +146,7 @@ T A Solvent Spirit |QID|818| |N|Master Vornal in Sen'jin Village (55.95, 74.46)|
 R Echo Isles |QID|826| |N|Travel to Echo Isles (60.04, 81.55)|
 
 N As you go.. |AYG|808| |QID|817| |N|<b>Kill Durotar Tiger and collect 4 Durotar Tiger Fur<br/><b> Collect 3 Taillasher Egg from the raptor nests| |EQID|815|
-K Zalazane |QID|826.3| |N|Kill Zalazane and collect Zalazane's Head in Echo Isles (67.59, 86.54)|
+C Zalazane |QID|826| |OIDX|3| |N|Kill Zalazane and collect Zalazane's Head in Echo Isles (67.59, 86.54)|
 C Minshina's Skull |QID|808| |N|Collect Minshina's Skull from the Imprisoned Darkspear, looks like a glowing ritual circle above Zalazane (67.43, 87.63)| |OBJ|226|
 
 R Echo Isles |QID|815| |N|Travel to Echo Isles (60, 90)|

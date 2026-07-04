@@ -68,6 +68,9 @@ def parse_step(step_lines, current_zone, current_class, current_race):
         'action': None,
         'quest': None,
         'qid': None,
+        'oidx': None,
+        'loot_item': None,
+        'loot_count': None,
         'note': None,
         'coords': [],
         'zone': current_zone,
@@ -123,8 +126,17 @@ def parse_step(step_lines, current_zone, current_class, current_race):
             result['action'] = 'C'
             qid, obj_idx, comment = parse_complete(line)
             result['qid'] = qid
+            result['oidx'] = obj_idx
             if comment:
                 notes.append(comment)
+
+        elif line.startswith('.collect'):
+            # .collect itemId,count[,questId[,objectiveId]] — item-count
+            # tracking; becomes the |L| tag so the addon can watch bags
+            match = re.search(r'\.collect\s+(\d+),\s*(\d+)', line)
+            if match:
+                result['loot_item'] = int(match.group(1))
+                result['loot_count'] = int(match.group(2))
 
         elif line.startswith('.train'):
             result['action'] = 't'
@@ -244,6 +256,12 @@ def step_to_turtleguide(step):
 
     if step.get('qid'):
         parts.append(f" |QID|{step['qid']}|")
+
+    if step.get('oidx'):
+        parts.append(f" |OIDX|{step['oidx']}|")
+
+    if step.get('loot_item'):
+        parts.append(f" |L|{step['loot_item']} {step['loot_count']}|")
 
     if step.get('note'):
         parts.append(f" |N|{step['note']}|")
