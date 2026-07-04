@@ -232,36 +232,6 @@ function TurtleGuide:UpdateStatusFrame()
 	local nextstep
 	self.updatedelay = nil
 
-	-- Reset training steps if the player unlearned the profession
-	if self.actions then
-		for i, action in ipairs(self.actions) do
-			if action == "TRAIN" then
-				local questName = self.quests[i]
-				local cleanName = string.gsub(questName, "@.*@", "")
-				
-				-- Extract core skill name to check if it's a profession
-				local _, _, parsedName = string.find(cleanName, "%[([^%]]+)%]")
-				if not parsedName then
-					parsedName = cleanName
-				end
-				if parsedName then
-					parsedName = string.gsub(parsedName, "^Train%s+", "")
-					parsedName = string.gsub(parsedName, "^Training%s+", "")
-					parsedName = string.gsub(parsedName, "%s*%(Rank%s*%d+%)", "")
-					parsedName = string.gsub(parsedName, "%s*%(.*%)", "")
-					parsedName = string.gsub(parsedName, "%s*Part%s*%d+", "")
-					parsedName = TurtleGuide.trim(parsedName)
-					parsedName = string.lower(parsedName)
-				end
-				
-				-- Only reset if it is a profession (since class spells cannot be unlearned and generic steps shouldn't reset)
-				if professions[parsedName] and self.turnedin[questName] and not self:IsTrainingCompleted(cleanName) then
-					self.turnedin[questName] = nil
-				end
-			end
-		end
-	end
-
 	for i in ipairs(self.actions) do
 		local name = self.quests[i]
 		if not self.turnedin[name] and not nextstep then
