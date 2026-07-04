@@ -493,17 +493,15 @@ function TurtleGuide:OnInitialize()
 end
 
 function TurtleGuide:OnEnable()
-    -- Hard requirement: ClassicAPI DLL v1.5.0+ (version encodes X*10000 + Y*100 + Z;
+    -- Hard requirement: ClassicAPI DLL v1.5.9+ (version encodes X*10000 + Y*100 + Z;
     -- untagged dev builds report 99999999). Quest tracking is built on its
     -- C_QuestLog functions and QUEST_ACCEPTED / QUEST_TURNED_IN events.
-    if not CLASSIC_API_VERSION or CLASSIC_API_VERSION < 10500 then
-        self:Print("|cffff3333VanillaGuide+ requires ClassicAPI v1.5.0 or newer (https://github.com/brues-code/ClassicAPI). The addon will not load.|r")
+    if not CLASSIC_API_VERSION or CLASSIC_API_VERSION < 10509 then
+        self:Print("|cffff3333VanillaGuide+ requires ClassicAPI v1.5.9 or newer (https://github.com/brues-code/ClassicAPI). The addon will not load.|r")
         return
     end
 
     self:PatchAstrolabe()
-    local _, title = GetAddOnInfo("TurtleGuide")
-    local author, version = GetAddOnMetadata("TurtleGuide", "Author"), GetAddOnMetadata("TurtleGuide", "Version")
 
     if self.db.char.debug then
         self:SetDebugging(true)
