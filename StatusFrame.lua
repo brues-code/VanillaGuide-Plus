@@ -257,9 +257,9 @@ function TurtleGuide:UpdateStatusFrame()
 				self.turninskipwarned[self.quests[i]] = true
 				self:Print(string.format("|cffff9900Skipping turn-in %q - quest is not in your log.|r", name))
 			end
-			local note, useitem, optional, prereq, lootitem, lootqty = self:GetObjectiveTag("N", i),
-				self:GetObjectiveTag("U", i), self:GetObjectiveTag("O", i), self:GetObjectiveTag("PRE", i),
-				self:GetObjectiveTag("L", i)
+			local note, useitem, optional, prereq = self:GetObjectiveTag("N", i),
+				self:GetObjectiveTag("U", i), self:GetObjectiveTag("O", i), self:GetObjectiveTag("PRE", i)
+			local lootitem, lootqty = self:GetLootRequirement(i)
 			self:Debug("UpdateStatusFrame", i, action, name, note, logi, complete, turnedin, quest, useitem, optional,
 				lootitem, lootqty, lootitem and C_Item.GetItemCount(tonumber(lootitem)) or 0)
 			local level = tonumber((self:GetObjectiveTag("LV", i)))

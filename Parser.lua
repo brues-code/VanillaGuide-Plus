@@ -257,6 +257,17 @@ function TurtleGuide:LoadGuide(name, complete)
 		end
 		warmItem(tonumber((self:GetObjectiveTag("L", i))))
 		warmItem(tonumber((self:GetObjectiveTag("U", i))))
+
+		-- Sanity-check authored |OIDX| tags against the quest's objective
+		-- list; skipped silently while the static data is still loading
+		local oidx = tonumber((self:GetObjectiveTag("OIDX", i)))
+		if qid and oidx then
+			local d = C_QuestLog.GetQuestDetails(qid)
+			if d and d.requirements and oidx > table.getn(d.requirements) then
+				self:Debug(string.format("Step %d: |OIDX|%d| out of range - quest %d has %d objectives",
+					i, oidx, qid, table.getn(d.requirements)))
+			end
+		end
 	end
 
 	if not self.db.char.turnins[name] then self.db.char.turnins[name] = {} end

@@ -913,6 +913,36 @@ function TurtleGuide:GetItemNameByItemId(itemId)
     return C_Item.GetItemNameByID(itemId)
 end
 
+-- Effective item requirement for a step: the authored |L| tag, or for
+-- COMPLETE steps derived from the quest's static objective data
+-- (C_QuestLog.GetQuestDetails requirements; cache-warmed at guide load).
+-- Returns itemID (number), quantity.
+function TurtleGuide:GetLootRequirement(i)
+    i = i or self.current
+    local lootitem, lootqty = self:GetObjectiveTag("L", i)
+    if lootitem then return tonumber(lootitem), lootqty end
+
+    if not self.actions or self.actions[i] ~= "COMPLETE" then return end
+    local qid = tonumber((self:GetObjectiveTag("QID", i)))
+    if not qid then return end
+
+    local d = C_QuestLog.GetQuestDetails(qid)
+    if not d or not d.requirements then return end
+
+    -- |OIDX| names the objective; without it, only a single-objective
+    -- collect quest is unambiguous
+    local oidx = tonumber((self:GetObjectiveTag("OIDX", i)))
+    local req
+    if oidx then
+        req = d.requirements[oidx]
+    elseif table.getn(d.requirements) == 1 then
+        req = d.requirements[1]
+    end
+    if req and req.kind == "item" then
+        return req.id, req.count
+    end
+end
+
 function TurtleGuide:GetObjectiveInfo(i)
     local i = i or self.current
     if not self.actions[i] then return end
@@ -922,7 +952,7 @@ function TurtleGuide:GetObjectiveInfo(i)
 
     -- Dynamically enrich name for BUY or COMPLETE/collect steps with item names
     if (action == "BUY" or action == "COMPLETE") then
-        local lootitem, lootqty = self:GetObjectiveTag("L", i)
+        local lootitem, lootqty = self:GetLootRequirement(i)
         if lootitem then
             local itemName = self:GetItemNameByItemId(lootitem)
             if itemName then

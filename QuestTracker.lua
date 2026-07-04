@@ -145,10 +145,10 @@ function TurtleGuide:BAG_UPDATE_DELAYED()
 	local action = self:GetObjectiveInfo()
 	if action ~= "BUY" and action ~= "KILL" and action ~= "NOTE" and action ~= "COMPLETE" then return end
 
-	local lootitem, lootqty = self:GetObjectiveTag("L")
+	local lootitem, lootqty = self:GetLootRequirement()
 	if not lootitem then return end
 
-	if C_Item.GetItemCount(tonumber(lootitem)) >= lootqty then
+	if C_Item.GetItemCount(lootitem) >= lootqty then
 		self:Debug(string.format("Detected item count met %s x%d", lootitem, lootqty))
 		self:SetTurnedIn()
 	end
