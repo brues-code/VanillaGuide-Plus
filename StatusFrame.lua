@@ -241,11 +241,11 @@ function TurtleGuide:UpdateStatusFrame()
 				self:GetObjectiveTag("U", i), self:GetObjectiveTag("O", i), self:GetObjectiveTag("PRE", i),
 				self:GetObjectiveTag("L", i)
 			self:Debug("UpdateStatusFrame", i, action, name, note, logi, complete, turnedin, quest, useitem, optional,
-				lootitem, lootqty, lootitem and self.GetItemCount(lootitem) or 0)
+				lootitem, lootqty, lootitem and C_Item.GetItemCount(tonumber(lootitem)) or 0)
 			local level = tonumber((self:GetObjectiveTag("LV", i)))
 			local needlevel = level and level > UnitLevel("player")
 			local hasuseitem = useitem and self:FindBagSlot(useitem)
-			local haslootitem = lootitem and self.GetItemCount(lootitem) >= lootqty
+			local haslootitem = lootitem and C_Item.GetItemCount(tonumber(lootitem)) >= lootqty
 			local prereqturnedin = false
 			if prereq then
 				if self.turnedin[prereq] then

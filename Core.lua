@@ -571,7 +571,6 @@ function TurtleGuide:InitializeRoute()
     for _, event in pairs(self.TrackEvents) do self:RegisterEvent(event) end
     self:RegisterEvent("QUEST_COMPLETE", "UpdateStatusFrame")
     self:RegisterEvent("QUEST_DETAIL", "UpdateStatusFrame")
-    self:RegisterEvent("QUEST_QUERY_COMPLETE")
     -- Register for level up to check starting zone completion
     self:RegisterEvent("PLAYER_LEVEL_UP")
     self.TrackEvents = nil
@@ -910,10 +909,11 @@ function TurtleGuide:GetQuestDetails(name, oidx, qid)
 end
 
 function TurtleGuide:FindBagSlot(itemid)
+    itemid = tonumber(itemid)
+    if not itemid then return false end
     for bag = 0, 4 do
         for slot = 1, GetContainerNumSlots(bag) do
-            local item = GetContainerItemLink(bag, slot)
-            if item and string.find(item, "item:" .. itemid) then return bag, slot end
+            if C_Container.GetContainerItemID(bag, slot) == itemid then return bag, slot end
         end
     end
     return false
@@ -1162,12 +1162,6 @@ function TurtleGuide:QueryServerCompletedQuests(force)
 
     self:UpdateStatusFrame()
     return true
-end
-
-function TurtleGuide:QUEST_QUERY_COMPLETE()
-    -- Placeholder for future server API support
-    -- Currently Turtle WoW 1.12 doesn't have QueryQuestsCompleted/GetQuestsCompleted
-    self:Debug("QUEST_QUERY_COMPLETE fired (unexpected)")
 end
 
 function TurtleGuide:IsQuestCompletedOnServer(qid)
@@ -2316,24 +2310,6 @@ function TurtleGuide.modf(f)
         return math.floor(f), math.mod(f, 1)
     end
     return math.ceil(f), math.mod(f, 1)
-end
-
-function TurtleGuide.GetItemCount(itemID)
-    local itemInfoTexture = TurtleGuide.select(9, GetItemInfo(itemID))
-    if itemInfoTexture == nil then return 0 end
-    local totalItemCount = 0
-    for i = 0, NUM_BAG_FRAMES do
-        local numSlots = GetContainerNumSlots(i)
-        if numSlots > 0 then
-            for k = 1, numSlots do
-                local itemTexture, itemCount = GetContainerItemInfo(i, k)
-                if itemInfoTexture == itemTexture then
-                    totalItemCount = totalItemCount + itemCount
-                end
-            end
-        end
-    end
-    return totalItemCount
 end
 
 function TurtleGuide.ColorGradient(perc)

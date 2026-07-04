@@ -13,11 +13,13 @@ TurtleGuide.TrackEvents = {
 	"ZONE_CHANGED", "ZONE_CHANGED_INDOORS", "MINIMAP_ZONE_CHANGED",
 	"ZONE_CHANGED_NEW_AREA", "PLAYER_LEVEL_UP", "ADDON_LOADED",
 	"CRAFT_SHOW", "PLAYER_DEAD", "SKILL_LINES_CHANGED", "SPELLS_CHANGED",
-	"QUEST_ACCEPTED", "QUEST_TURNED_IN", "HEARTHSTONE_BOUND"
+	"QUEST_ACCEPTED", "QUEST_TURNED_IN", "HEARTHSTONE_BOUND", "BAG_UPDATE_DELAYED"
 }
 
 
-function TurtleGuide:ADDON_LOADED(event, addon)
+-- AceEvent-2.0 passes event args directly (no event name); the event itself
+-- is available as self.currentEvent when needed
+function TurtleGuide:ADDON_LOADED(addon)
 	if addon ~= "Blizzard_TrainerUI" then return end
 
 	self:UnregisterEvent("ADDON_LOADED")
@@ -36,7 +38,7 @@ function TurtleGuide:SPELLS_CHANGED()
 	self:UpdateStatusFrame()
 end
 
-function TurtleGuide:PLAYER_LEVEL_UP(event, newlevel)
+function TurtleGuide:PLAYER_LEVEL_UP(newlevel)
 	local level = tonumber((self:GetObjectiveTag("LV")))
 	self:Debug("PLAYER_LEVEL_UP", newlevel, level)
 	if level and newlevel >= level then self:SetTurnedIn() end
@@ -110,7 +112,7 @@ function TurtleGuide:QUEST_LOG_UPDATE(event)
 	end
 end
 
-function TurtleGuide:UNIT_QUEST_LOG_CHANGED(event, unit)
+function TurtleGuide:UNIT_QUEST_LOG_CHANGED(unit)
 	if unit ~= "player" then return end
 	local action = self:GetObjectiveInfo()
 	if action == "COMPLETE" then
@@ -118,15 +120,32 @@ function TurtleGuide:UNIT_QUEST_LOG_CHANGED(event, unit)
 	end
 end
 
-function TurtleGuide:CHAT_MSG_LOOT(event, msg)
+-- Legacy BUY steps without an |L| tag can only be matched by looted item
+-- name; |L|-tagged collect steps are counted in BAG_UPDATE_DELAYED instead
+function TurtleGuide:CHAT_MSG_LOOT(msg)
 	local action, quest = self:GetObjectiveInfo()
-	local lootitem, lootqty = self:GetObjectiveTag("L")
-	local _, _, itemid, name = string.find(msg, L["^You .*Hitem:(%d+).*(%[.+%])"])
-	self:Debug(event, action, quest, lootitem, lootqty, itemid, name)
+	if action ~= "BUY" or self:GetObjectiveTag("L") then return end
 
-	if action == "BUY" and name and name == quest
-		or (action == "BUY" or action == "KILL" or action == "NOTE" or action == "COMPLETE") and lootitem and itemid == lootitem and (self.GetItemCount(lootitem) + 1) >= lootqty then
-		return self:SetTurnedIn()
+	local _, _, _, name = string.find(msg, L["^You .*Hitem:(%d+).*(%[.+%])"])
+	if name and string.sub(name, 2, -2) == quest then
+		self:Debug(string.format("Detected buy %q", quest))
+		self:SetTurnedIn()
+	end
+end
+
+-- Fires once per bag-content batch (ClassicAPI): loot, mail, trade, vendor,
+-- AH. Count |L|-tagged collect steps by itemID instead of parsing loot
+-- messages; this also catches items that never produce a loot message.
+function TurtleGuide:BAG_UPDATE_DELAYED()
+	local action = self:GetObjectiveInfo()
+	if action ~= "BUY" and action ~= "KILL" and action ~= "NOTE" and action ~= "COMPLETE" then return end
+
+	local lootitem, lootqty = self:GetObjectiveTag("L")
+	if not lootitem then return end
+
+	if C_Item.GetItemCount(tonumber(lootitem)) >= lootqty then
+		self:Debug(string.format("Detected item count met %s x%d", lootitem, lootqty))
+		self:SetTurnedIn()
 	end
 end
 
@@ -137,7 +156,7 @@ function TurtleGuide:PLAYER_DEAD()
 	end
 end
 
-function TurtleGuide:UI_INFO_MESSAGE(event, msg)
+function TurtleGuide:UI_INFO_MESSAGE(msg)
 	if msg == ERR_NEWTAXIPATH and self:GetObjectiveInfo() == "GETFLIGHTPOINT" then
 		self:Debug("Discovered flight point")
 		self:SetTurnedIn()
@@ -228,48 +247,22 @@ UseContainerItem = function(bag, slot, ...)
 	local action = TurtleGuide:GetObjectiveInfo()
 	local useitem = TurtleGuide:GetObjectiveTag("U")
 
-	if action == "USE" and useitem then
-		local link = GetContainerItemLink(bag, slot)
-		if link and string.find(link, "item:" .. useitem) then
-			TurtleGuide:Debug("Detected USE item from bag: " .. useitem)
-			-- Delay slightly to allow the item use to complete
-			TurtleGuide.pendingUseComplete = true
-		end
+	if action == "USE" and useitem and C_Container.GetContainerItemID(bag, slot) == tonumber(useitem) then
+		TurtleGuide:Debug("Detected USE item from bag: " .. useitem)
+		-- Delay slightly to allow the item use to complete
+		C_Timer.After(0.3, function()
+			if TurtleGuide:GetObjectiveInfo() == "USE" then
+				TurtleGuide:Debug("Completing USE objective after item use")
+				TurtleGuide:SetTurnedIn()
+			end
+		end)
 	end
 
 	return origUseContainerItem(bag, slot, unpack(arg))
 end
 
--- Check for pending USE completion after item use
-local useCheckFrame = CreateFrame("Frame")
-local useCheckElapsed = 0
-local useCheckPending = false
-useCheckFrame:SetScript("OnUpdate", function()
-	if TurtleGuide.pendingUseComplete then
-		-- Start tracking
-		useCheckPending = true
-		useCheckElapsed = 0
-		TurtleGuide.pendingUseComplete = nil
-	end
-
-	if useCheckPending then
-		useCheckElapsed = useCheckElapsed + arg1
-		if useCheckElapsed > 0.3 then
-			useCheckPending = false
-			useCheckElapsed = 0
-			local action = TurtleGuide:GetObjectiveInfo()
-			if action == "USE" then
-				TurtleGuide:Debug("Completing USE objective after item use")
-				TurtleGuide:SetTurnedIn()
-			end
-		end
-	end
-end)
-
 
 -- Distance-based arrival detection for travel objectives (fallback when TomTom not available)
-local arrivalCheckFrame = CreateFrame("Frame")
-local arrivalCheckElapsed = 0
 local ARRIVAL_CHECK_INTERVAL = 0.5 -- Check every 0.5 seconds
 local ARRIVAL_DISTANCE = 0.005     -- Map coordinate distance threshold (~15-18 yards)
 
@@ -302,11 +295,7 @@ local function RecheckCurrentObjective()
 	-- Travel objectives: Will be caught by the distance check below
 end
 
-arrivalCheckFrame:SetScript("OnUpdate", function()
-	arrivalCheckElapsed = arrivalCheckElapsed + arg1
-	if arrivalCheckElapsed < ARRIVAL_CHECK_INTERVAL then return end
-	arrivalCheckElapsed = 0
-
+C_Timer.NewTicker(ARRIVAL_CHECK_INTERVAL, function()
 	-- Check if we need to re-evaluate after rewind
 	if TurtleGuide.recheckCompletion then
 		TurtleGuide.recheckCompletion = nil
