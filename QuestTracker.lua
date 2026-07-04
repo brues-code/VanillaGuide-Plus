@@ -3,15 +3,17 @@
 
 local TurtleGuide = TurtleGuide
 local L = TurtleGuide.Locale
-local hadquest
 
 
+-- QUEST_ACCEPTED and QUEST_TURNED_IN are synthesized by ClassicAPI (a hard
+-- requirement, enforced in Core.lua OnEnable)
 TurtleGuide.TrackEvents = {
 	"UI_INFO_MESSAGE", "CHAT_MSG_LOOT", "CHAT_MSG_SYSTEM",
 	"QUEST_WATCH_UPDATE", "QUEST_LOG_UPDATE", "UNIT_QUEST_LOG_CHANGED",
 	"ZONE_CHANGED", "ZONE_CHANGED_INDOORS", "MINIMAP_ZONE_CHANGED",
 	"ZONE_CHANGED_NEW_AREA", "PLAYER_LEVEL_UP", "ADDON_LOADED",
-	"CRAFT_SHOW", "PLAYER_DEAD", "SKILL_LINES_CHANGED", "SPELLS_CHANGED"
+	"CRAFT_SHOW", "PLAYER_DEAD", "SKILL_LINES_CHANGED", "SPELLS_CHANGED",
+	"QUEST_ACCEPTED", "QUEST_TURNED_IN"
 }
 
 
@@ -63,14 +65,6 @@ function TurtleGuide:CHAT_MSG_SYSTEM(msg)
 		self:Debug(string.format("Detected setting hearth to %q", loc))
 		self.db.char.hearth = loc
 		return action == "SETHEARTH" and loc == quest and self:SetTurnedIn()
-	end
-
-	if action == "ACCEPT" then
-		local _, _, text = string.find(msg, L["Quest accepted: (.*)"])
-		if text and string.gsub(quest, L.PART_GSUB, "") == text then
-			self:Debug(string.format("Detected quest accept %q", quest))
-			return self:UpdateStatusFrame()
-		end
 	end
 
 	if action == "PET" then
@@ -177,34 +171,51 @@ function TurtleGuide:CRAFT_SHOW()
 	if self:GetObjectiveInfo() == "PET" then self:UpdateStatusFrame() end
 end
 
--- Hook GetQuestReward to track quest turnins
-local orig = GetQuestReward
-GetQuestReward = function(a1, a2, a3, a4, a5, a6, a7, a8, a9, a10, a11, a12, a13, a14, a15, a16, a17, a18, a19, a20)
-	local quest = string.gsub(GetTitleText(), "%[[0-9%+%-]+]%s", "")
+-- Quest accept detection. QUEST_ACCEPTED carries the questID, so ACCEPT steps
+-- match by |QID| tag instead of parsing the "Quest accepted:" system message.
+function TurtleGuide:QUEST_ACCEPTED(questLogIndex, questID)
+	questID = tonumber(questID)
+	self:Debug("QUEST_ACCEPTED", questLogIndex, questID)
+	if not questID then return end
 
-	TurtleGuide:Debug("GetQuestReward", quest)
-	TurtleGuide:CompleteQuest(quest, true)
+	local action, quest = self:GetObjectiveInfo()
+	if action ~= "ACCEPT" then return end
 
-	-- Track completed quest for smart skip (by name)
-	TurtleGuide.db.char.completedquests[quest] = true
-
-	-- Also track by QID if we can find it in the current guide
-	if TurtleGuide.quests and TurtleGuide.actions then
-		for i, guideQuest in ipairs(TurtleGuide.quests) do
-			local cleanGuideQuest = string.gsub(guideQuest, "@.*@", "")
-			cleanGuideQuest = string.gsub(cleanGuideQuest, TurtleGuide.Locale.PART_GSUB, "")
-			if cleanGuideQuest == quest and TurtleGuide.actions[i] == "TURNIN" then
-				local qid = TurtleGuide:GetObjectiveTag("QID", i)
-				if qid then
-					TurtleGuide.db.char.completedquestsbyid[tonumber(qid)] = true
-					TurtleGuide:Debug("Tracked completed QID: " .. qid)
-				end
-				break
-			end
+	local qid = tonumber((self:GetObjectiveTag("QID")))
+	if qid then
+		if qid == questID then
+			self:Debug(string.format("Detected quest accept by QID %d %q", questID, quest))
+			self:UpdateStatusFrame()
 		end
+		return
 	end
 
-	return orig(a1, a2, a3, a4, a5, a6, a7, a8, a9, a10, a11, a12, a13, a14, a15, a16, a17, a18, a19, a20)
+	-- Step has no |QID| tag; compare titles instead
+	local title = C_QuestLog.GetTitleForQuestID(questID)
+	if title and string.gsub(quest, L.PART_GSUB, "") == title then
+		self:Debug(string.format("Detected quest accept %q", quest))
+		self:UpdateStatusFrame()
+	end
+end
+
+-- Quest turnin tracking. QUEST_TURNED_IN fires on server confirmation and
+-- carries the questID, so it also catches turnins for quests outside the
+-- loaded guide.
+function TurtleGuide:QUEST_TURNED_IN(questID, xpReward, moneyReward)
+	questID = tonumber(questID)
+	self:Debug("QUEST_TURNED_IN", questID, xpReward, moneyReward)
+	if not questID then return end
+
+	self.db.char.completedquestsbyid[questID] = true
+
+	if self:CompleteQuestByQid(questID, true) then return end
+
+	-- No |QID| match in the guide; track and match by title instead
+	local title = C_QuestLog.GetTitleForQuestID(questID)
+	if title then
+		self.db.char.completedquests[title] = true
+		self:CompleteQuest(title, true)
+	end
 end
 
 
@@ -252,67 +263,6 @@ useCheckFrame:SetScript("OnUpdate", function()
 	end
 end)
 
-
--- Scan quest log and return list of quests with their status
-function TurtleGuide:ScanQuestLog()
-	local quests = {}
-
-	for i = 1, GetNumQuestLogEntries() do
-		local title, level, questTag, isHeader, isCollapsed, isComplete = GetQuestLogTitle(i)
-		if not isHeader and title then
-			title = string.gsub(title, "%[[0-9%+%-]+]%s", "")
-			quests[title] = {
-				index = i,
-				level = level,
-				isComplete = isComplete == 1,
-				objectives = {}
-			}
-
-			-- Get quest objectives
-			local numObjectives = GetNumQuestLeaderBoards(i)
-			for j = 1, numObjectives do
-				local text, objType, finished = GetQuestLogLeaderBoard(j, i)
-				table.insert(quests[title].objectives, {
-					text = text,
-					type = objType,
-					finished = finished
-				})
-			end
-		end
-	end
-
-	return quests
-end
-
--- Check if a specific quest is in the quest log
-function TurtleGuide:IsQuestInLog(questName)
-	questName = string.gsub(questName, L.PART_GSUB, "")
-	for i = 1, GetNumQuestLogEntries() do
-		local title, _, _, isHeader = GetQuestLogTitle(i)
-		if not isHeader and title then
-			title = string.gsub(title, "%[[0-9%+%-]+]%s", "")
-			if title == questName then
-				return true, i
-			end
-		end
-	end
-	return false
-end
-
--- Check if a specific quest is complete
-function TurtleGuide:IsQuestComplete(questName)
-	questName = string.gsub(questName, L.PART_GSUB, "")
-	for i = 1, GetNumQuestLogEntries() do
-		local title, _, _, isHeader, _, isComplete = GetQuestLogTitle(i)
-		if not isHeader and title then
-			title = string.gsub(title, "%[[0-9%+%-]+]%s", "")
-			if title == questName then
-				return isComplete == 1
-			end
-		end
-	end
-	return false
-end
 
 -- Distance-based arrival detection for travel objectives (fallback when TomTom not available)
 local arrivalCheckFrame = CreateFrame("Frame")

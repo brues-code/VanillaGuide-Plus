@@ -420,13 +420,9 @@ end
 
 -- Check if a quest (by QID) is in the player's quest log
 function TurtleGuide:IsQuestInLogByQid(qid)
-	if not qid or not pfDB then return false end
-
-	-- Get quest name from pfQuest database
-	local questName = self:GetQuestNameByQid(qid)
-	if not questName then return false end
-
-	return self:IsQuestInLog(questName)
+	qid = tonumber(qid)
+	if not qid then return false end
+	return C_QuestLog.IsOnQuest(qid)
 end
 
 -- Get quest name from pfQuest database
@@ -492,18 +488,25 @@ end
 function TurtleGuide:SmartSkipToStep()
 	if not self.actions or not self.quests then return end
 
+	-- Name-keyed maps serve steps without a |QID| tag; QID-keyed maps are
+	-- authoritative for tagged steps and immune to duplicate quest names
 	local completedQuests = {}
 	local inProgressQuests = {}
+	local completedQuestIDs = {}
+	local inProgressQuestIDs = {}
 
 	-- Scan quest log
 	for i = 1, GetNumQuestLogEntries() do
 		local title, _, _, isHeader, _, isComplete = GetQuestLogTitle(i)
 		if not isHeader and title then
+			local questID = C_QuestLog.GetQuestIDForLogIndex(i)
 			title = string.gsub(title, "%[[0-9%+%-]+]%s", "")
 			if isComplete == 1 then
 				completedQuests[title] = true
+				if questID then completedQuestIDs[questID] = true end
 			else
 				inProgressQuests[title] = true
+				if questID then inProgressQuestIDs[questID] = true end
 			end
 		end
 	end
@@ -514,14 +517,17 @@ function TurtleGuide:SmartSkipToStep()
 	for i, quest in ipairs(self.quests) do
 		local cleanQuest = string.gsub(quest, "@.*@", "")
 		cleanQuest = string.gsub(cleanQuest, TurtleGuide.Locale.PART_GSUB, "")
-		if completedQuests[cleanQuest] or inProgressQuests[cleanQuest] then
-			local qid = self:GetObjectiveTag("QID", i)
-			if qid then
-				local qidNum = tonumber(qid)
-				-- Do not clear QID if it is confirmed completed in pfQuest history
-				if not (pfQuest_history and (pfQuest_history[qidNum] or pfQuest_history[tostring(qidNum)])) then
-					self.db.char.completedquestsbyid[qidNum] = nil
-				end
+		local qidNum = tonumber((self:GetObjectiveTag("QID", i)))
+		local inLog
+		if qidNum then
+			inLog = completedQuestIDs[qidNum] or inProgressQuestIDs[qidNum]
+		else
+			inLog = completedQuests[cleanQuest] or inProgressQuests[cleanQuest]
+		end
+		if inLog then
+			-- Do not clear QID if it is confirmed completed in pfQuest history
+			if qidNum and not (pfQuest_history and (pfQuest_history[qidNum] or pfQuest_history[tostring(qidNum)])) then
+				self.db.char.completedquestsbyid[qidNum] = nil
 			end
 			self.db.char.completedquests[cleanQuest] = nil
 		end
@@ -537,8 +543,9 @@ function TurtleGuide:SmartSkipToStep()
 			if qid and (action == "ACCEPT" or action == "COMPLETE" or action == "TURNIN") then
 				local cleanQuest = string.gsub(quest, "@.*@", "")
 				cleanQuest = string.gsub(cleanQuest, TurtleGuide.Locale.PART_GSUB, "")
+				local qidInLog = inProgressQuestIDs[tonumber(qid)] or completedQuestIDs[tonumber(qid)]
 				-- If quest is in log, mark its prerequisites as completed
-				if inProgressQuests[cleanQuest] or completedQuests[cleanQuest] then
+				if qidInLog then
 					local qidNum = tonumber(qid)
 					local canInfer = true
 					local prereqs = self:GetQuestPrerequisites(qidNum)
@@ -606,18 +613,28 @@ function TurtleGuide:SmartSkipToStep()
 		local action = self.actions[i]
 		local cleanQuest = string.gsub(quest, "@.*@", "")
 		cleanQuest = string.gsub(cleanQuest, TurtleGuide.Locale.PART_GSUB, "")
-		local qid = self:GetObjectiveTag("QID", i)
-		local isCompleted = (qid and self.db.char.completedquestsbyid[tonumber(qid)]) or
-		(not qid and self.db.char.completedquests[cleanQuest])
+		local qidNum = tonumber((self:GetObjectiveTag("QID", i)))
+		local isCompleted = (qidNum and self.db.char.completedquestsbyid[qidNum]) or
+		(not qidNum and self.db.char.completedquests[cleanQuest])
+
+		-- Quest log state, QID-keyed when the step is tagged
+		local logInProgress, logComplete
+		if qidNum then
+			logInProgress = inProgressQuestIDs[qidNum]
+			logComplete = completedQuestIDs[qidNum]
+		else
+			logInProgress = inProgressQuests[cleanQuest]
+			logComplete = completedQuests[cleanQuest]
+		end
 
 		if action == "ACCEPT" then
 			-- If quest is in log or completed, mark as done
-			if inProgressQuests[cleanQuest] or completedQuests[cleanQuest] or isCompleted then
+			if logInProgress or logComplete or isCompleted then
 				self.turnedin[quest] = true
 			end
 		elseif action == "TURNIN" then
 			-- If quest is complete and in log, we need to turn it in
-			if completedQuests[cleanQuest] and not self.turnedin[quest] then
+			if logComplete and not self.turnedin[quest] then
 				furthestStep = i
 				break
 			elseif isCompleted then
@@ -625,15 +642,15 @@ function TurtleGuide:SmartSkipToStep()
 			end
 		elseif action == "COMPLETE" then
 			-- If quest is in progress but not complete, this is our step
-			if inProgressQuests[cleanQuest] and not completedQuests[cleanQuest] and not isCompleted then
+			if logInProgress and not logComplete and not isCompleted then
 				furthestStep = i
 				break
-			elseif completedQuests[cleanQuest] or isCompleted then
+			elseif logComplete or isCompleted then
 				self.turnedin[quest] = true
 			end
 		elseif action == "RUN" then
 			-- Run/Travel steps with QID: auto-complete if linked quest is done
-			if qid and self.db.char.completedquestsbyid[tonumber(qid)] then
+			if qidNum and self.db.char.completedquestsbyid[qidNum] then
 				self.turnedin[quest] = true
 			end
 		elseif action == "TRAIN" then
@@ -645,7 +662,7 @@ function TurtleGuide:SmartSkipToStep()
 		-- Track last incomplete step
 		local stepTurnedIn = self.turnedin[quest]
 		if not stepTurnedIn and action == "TURNIN" then
-			if not inProgressQuests[cleanQuest] and not completedQuests[cleanQuest] and not isCompleted then
+			if not logInProgress and not logComplete and not isCompleted then
 				stepTurnedIn = true
 			end
 		end

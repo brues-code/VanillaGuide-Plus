@@ -482,6 +482,14 @@ function TurtleGuide:OnInitialize()
 end
 
 function TurtleGuide:OnEnable()
+    -- Hard requirement: ClassicAPI DLL v1.5.0+ (version encodes X*10000 + Y*100 + Z;
+    -- untagged dev builds report 99999999). Quest tracking is built on its
+    -- C_QuestLog functions and QUEST_ACCEPTED / QUEST_TURNED_IN events.
+    if not CLASSIC_API_VERSION or CLASSIC_API_VERSION < 10500 then
+        self:Print("|cffff3333VanillaGuide+ requires ClassicAPI v1.5.0 or newer (https://github.com/brues-code/ClassicAPI). The addon will not load.|r")
+        return
+    end
+
     self:PatchAstrolabe()
     local _, title = GetAddOnInfo("TurtleGuide")
     local author, version = GetAddOnMetadata("TurtleGuide", "Author"), GetAddOnMetadata("TurtleGuide", "Version")
@@ -853,9 +861,23 @@ function TurtleGuide:GetQuestLogIndexByName(name)
     end
 end
 
-function TurtleGuide:GetQuestDetails(name, oidx)
-    if not name then return end
-    local i = self:GetQuestLogIndexByName(name)
+function TurtleGuide:GetQuestLogIndexByQid(qid)
+    qid = tonumber(qid)
+    if not qid then return end
+    for i = 1, GetNumQuestLogEntries() do
+        if C_QuestLog.GetQuestIDForLogIndex(i) == qid then return i end
+    end
+end
+
+function TurtleGuide:GetQuestDetails(name, oidx, qid)
+    local i
+    if qid then
+        -- QID is authoritative: no name fallback, so a same-named quest from a
+        -- different chain part can never satisfy this step
+        i = self:GetQuestLogIndexByQid(qid)
+    elseif name then
+        i = self:GetQuestLogIndexByName(name)
+    end
     if not i or i < 1 then return end
     local _, _, _, _, _, isComplete = GetQuestLogTitle(i)
     local complete = i and isComplete and isComplete == 1
@@ -956,10 +978,10 @@ function TurtleGuide:GetObjectiveStatus(i)
     local turnedin = self.turnedin[self.quests[i]]
     local oidx_str = self:GetObjectiveTag("OIDX", i)
     local oidx = oidx_str and tonumber(oidx_str) or nil
-    local logi, complete = self:GetQuestDetails(self.quests[i], oidx)
 
     local qid = self:GetObjectiveTag("QID", i)
     local qidNum = qid and tonumber(qid) or nil
+    local logi, complete = self:GetQuestDetails(self.quests[i], oidx, qidNum)
 
     -- Auto-complete if the quest is impossible for this player (due to race/class/prereq restrictions)
     if qidNum and not self:IsQuestPossible(qidNum) then
@@ -1067,6 +1089,32 @@ function TurtleGuide:CompleteQuest(name, noupdate)
     self:Debug(string.format("Quest %q not found!", name))
 end
 
+function TurtleGuide:CompleteQuestByQid(questID, noupdate)
+    if not self.current then
+        self:Debug(string.format("Cannot complete QID %d, no guide loaded", questID))
+        return false
+    end
+
+    for i in ipairs(self.actions) do
+        if self.actions[i] == "TURNIN" and not self:GetObjectiveStatus(i) then
+            local qid = tonumber((self:GetObjectiveTag("QID", i)))
+            if qid == questID then
+                local cleanQuest = string.gsub(self.quests[i], "@.*@", "")
+                cleanQuest = string.gsub(cleanQuest, L.PART_GSUB, "")
+                self:Debug(string.format("Saving quest turnin QID %d %q", questID, cleanQuest))
+
+                self.db.char.completedquestsbyid[questID] = true
+                self.db.char.completedquests[cleanQuest] = true
+
+                self:SetTurnedIn(i, true, noupdate)
+                return true
+            end
+        end
+    end
+    self:Debug(string.format("QID %d not found in guide", questID))
+    return false
+end
+
 ---------------------------------
 --  Server Quest Query API     --
 ---------------------------------
@@ -1150,7 +1198,10 @@ function TurtleGuide:TrackCurrentQuest()
 
     -- Only auto-track for COMPLETE actions (quest objectives)
     if action == "COMPLETE" then
-        local questLogIndex = self:GetQuestLogIndexByName(quest)
+        -- QID lookup first: the display name may be enriched with item names
+        -- and would not match the quest log title
+        local qid = tonumber((self:GetObjectiveTag("QID", self.current)))
+        local questLogIndex = qid and self:GetQuestLogIndexByQid(qid) or self:GetQuestLogIndexByName(quest)
         if questLogIndex and questLogIndex > 0 then
             if not IsQuestWatched(questLogIndex) then
                 AddQuestWatch(questLogIndex)
