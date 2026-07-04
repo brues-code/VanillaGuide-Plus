@@ -97,14 +97,24 @@ returnBtn:SetScript("OnLeave", function() GameTooltip:Hide() end)
 returnBtn:Hide()
 TurtleGuide.branchReturnBtn = returnBtn
 
-local item = CreateFrame("Button", nil, UIParent)
+local item = CreateFrame("Button", "TurtleGuideItemButton", UIParent, "ItemButtonTemplate")
 item:SetFrameStrata("LOW")
 item:SetHeight(36)
 item:SetWidth(36)
 item:SetPoint("BOTTOMRIGHT", QuestWatchFrame, "TOPRIGHT", -62, 10)
 item:RegisterForClicks("LeftButtonUp", "RightButtonUp")
-local itemicon = ww.SummonTexture(item, "ARTWORK", 24, 24, "Interface\\Icons\\INV_Misc_Bag_08")
-itemicon:SetAllPoints(item)
+item:SetScript("OnEnter", function()
+	if not item.uitem then return end
+	GameTooltip:SetOwner(item, "ANCHOR_LEFT")
+	local bag, slot = TurtleGuide:FindBagSlot(item.uitem)
+	if bag then
+		GameTooltip:SetBagItem(bag, slot)
+	else
+		GameTooltip:SetItemByID(tonumber(item.uitem))
+	end
+	GameTooltip:Show()
+end)
+item:SetScript("OnLeave", GameTooltip_Hide)
 item:Hide()
 
 local f2 = CreateFrame("Frame", nil, UIParent)
@@ -416,7 +426,7 @@ end
 
 function TurtleGuide:PLAYER_REGEN_ENABLED()
 	if tex then
-		itemicon:SetTexture(tex)
+		SetItemButtonTexture(item, tex)
 		item:Show()
 		tex = nil
 	else
