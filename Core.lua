@@ -22,57 +22,32 @@ TurtleGuide.manuallyUnchecked = {}
 TurtleGuide.routepacks = {}
 
 -- Turtle WoW custom race support
--- Maps race strings from UnitRace() to route names and faction info
+-- Keyed by the locale-independent ChrRaces.dbc token from UnitRaceBase
+-- (ClassicAPI); Turtle's custom races arrive as their DBC filenames, so
+-- High Elf is BloodElf (raceID 10)
 TurtleGuide.turtleRaces = {
-    -- Standard races
-    ["Human"] = { route = "Human", faction = "Alliance" },
-    ["Dwarf"] = { route = "Dwarf", faction = "Alliance" },
-    ["Night Elf"] = { route = "NightElf", faction = "Alliance" },
-    ["NightElf"] = { route = "NightElf", faction = "Alliance" },
-    ["Gnome"] = { route = "Gnome", faction = "Alliance" },
-    ["Orc"] = { route = "Orc", faction = "Horde" },
-    ["Troll"] = { route = "Troll", faction = "Horde" },
-    ["Tauren"] = { route = "Tauren", faction = "Horde" },
-    ["Undead"] = { route = "Undead", faction = "Horde" },
-    ["Scourge"] = { route = "Undead", faction = "Horde" }, -- Internal name for Undead
-    -- Turtle WoW custom races
-    ["High Elf"] = { route = "HighElf", faction = "Alliance" },
-    ["HighElf"] = { route = "HighElf", faction = "Alliance" },
-    ["BloodElf"] = { route = "HighElf", faction = "Alliance" }, -- Turtle WoW uses BloodElf internally for High Elf
-    ["Goblin"] = { route = "Goblin", faction = "Horde" },       -- Horde race in Turtle WoW
+    Human = { route = "Human", faction = "Alliance" },
+    Dwarf = { route = "Dwarf", faction = "Alliance" },
+    NightElf = { route = "NightElf", faction = "Alliance" },
+    Gnome = { route = "Gnome", faction = "Alliance" },
+    BloodElf = { route = "HighElf", faction = "Alliance" },
+    Orc = { route = "Orc", faction = "Horde" },
+    Troll = { route = "Troll", faction = "Horde" },
+    Tauren = { route = "Tauren", faction = "Horde" },
+    Scourge = { route = "Undead", faction = "Horde" },
+    Goblin = { route = "Goblin", faction = "Horde" },
 }
 
--- Get the normalized route name for a race
+-- Get the normalized route name for a race token (defaults to the player)
 function TurtleGuide:GetRouteForRace(race)
+    race = race or (UnitRaceBase("player"))
     local raceInfo = self.turtleRaces[race]
     if raceInfo then
         return raceInfo.route
     end
-    -- Fallback: use the race name as-is
-    return race
-end
-
--- Get all races available for the player's faction
-function TurtleGuide:GetRacesForFaction(faction)
-    local races = {}
-    for raceName, info in pairs(self.turtleRaces) do
-        -- Include if faction matches or race is neutral (Both)
-        if info.faction == faction or info.faction == "Both" then
-            -- Avoid duplicates (e.g., "Night Elf" and "NightElf")
-            local routeName = info.route
-            local found = false
-            for _, r in ipairs(races) do
-                if r.route == routeName then
-                    found = true
-                    break
-                end
-            end
-            if not found then
-                table.insert(races, { name = raceName, route = routeName })
-            end
-        end
-    end
-    return races
+    -- Legacy inputs ("Night Elf", "HighElf", "Undead") match a route name
+    -- once the spaces are gone
+    return race and (string.gsub(race, "%s", "")) or nil
 end
 
 TurtleGuide.icons = setmetatable({
@@ -320,13 +295,12 @@ local options = {
             desc = "Show debug info about route and guide selection",
             type = "execute",
             func = function()
-                local _, race = UnitRace("player")
-                local routeName = TurtleGuide:GetRouteForRace(race)
+                local routeName = TurtleGuide:GetRouteForRace()
                 local route = TurtleGuide.routes[routeName]
                 local level = UnitLevel("player")
 
                 TurtleGuide:Print("--- Route Debug ---")
-                TurtleGuide:Print("Race from UnitRace: " .. tostring(race))
+                TurtleGuide:Print("Race token: " .. tostring((UnitRaceBase("player"))))
                 TurtleGuide:Print("Route name: " .. tostring(routeName))
                 TurtleGuide:Print("Route exists: " .. tostring(route ~= nil))
                 TurtleGuide:Print("Player level: " .. tostring(level))
@@ -538,8 +512,8 @@ function TurtleGuide:InitializeRoute()
             -- Starting zone was handled, continue with initialization
         else
             -- Fallback: Auto-detect race and suggest route
-            local _, race = UnitRace("player")
-            local routeName = self:GetRouteForRace(race)
+            local race = UnitRace("player") -- localized, for the message
+            local routeName = self:GetRouteForRace()
             if routeName and self.routes[routeName] then
                 self:ApplyRouteSelection(routeName)
                 local message = L["You have been assigned the %s leveling route."]
@@ -771,8 +745,7 @@ function TurtleGuide:SelectRoutePack(packName)
     end
 
     -- Apply route for current race
-    local _, race = UnitRace("player")
-    local routeName = self:GetRouteForRace(race)
+    local routeName = self:GetRouteForRace()
     self:ApplyRouteSelection(routeName)
 
     self:Print("|cff00ff00Route pack switched to: " .. pack.displayName .. "|r")
@@ -1388,9 +1361,7 @@ end
 
 -- Get the optimized guide for a given level based on the player's race route
 function TurtleGuide:GetOptimizedGuideForLevel(level)
-    -- Get the player's race
-    local _, race = UnitRace("player")
-    local routeName = self:GetRouteForRace(race)
+    local routeName = self:GetRouteForRace()
     local route = self.routes and self.routes[routeName]
     if not route then return nil end
 
@@ -1591,8 +1562,8 @@ function TurtleGuide:CreateRouteSelectorFrame()
 
     -- Create race buttons (including Turtle WoW custom races)
     -- Add "My Race" at top to use actual detected race
-    local _, detectedRace = UnitRace("player")
-    local detectedRoute = self:GetRouteForRace(detectedRace)
+    local detectedRace = UnitRace("player") -- localized, for the label
+    local detectedRoute = self:GetRouteForRace()
 
     local races = {}
     -- Add detected race first with special label
@@ -1819,8 +1790,7 @@ end
 
 -- Get the player's native starting zone based on their race
 function TurtleGuide:GetNativeStartingZone()
-    local _, race = UnitRace("player")
-    local routeName = self:GetRouteForRace(race)
+    local routeName = self:GetRouteForRace()
     local faction = self.myfaction
     local zones = self.startingZones[faction] or {}
 
@@ -2135,8 +2105,7 @@ function TurtleGuide:SelectStartingZone(zoneInfo)
         self.db.char.currentguide = zoneInfo.guide
         self:LoadGuide(zoneInfo.guide)
 
-        local _, playerRace = UnitRace("player")
-        local playerRoute = self:GetRouteForRace(playerRace)
+        local playerRoute = self:GetRouteForRace()
 
         if zoneInfo.race ~= playerRoute then
             self:Print(string.format(L["Cross-race start: %s"], zoneInfo.zone))
