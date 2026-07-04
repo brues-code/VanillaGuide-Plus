@@ -1,4 +1,7 @@
-# TurtleGuide
+# TurtleGuide - ClassicAPI Edition
+
+[![Octo WoW](https://img.shields.io/badge/Octo%20WoW-1.18.1-brightgreen.svg)](https://octowow.st/)
+[![ClassicAPI](https://img.shields.io/badge/ClassicAPI-Required-purple.svg)](https://github.com/brues-code/ClassicAPI)
 
 A leveling guide addon for Turtle WoW (1.12 client) based on [Joana's classic speedrun guides](https://www.joanasworld.com/), with support for Turtle WoW custom zones.
 
