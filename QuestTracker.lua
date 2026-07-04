@@ -13,7 +13,8 @@ TurtleGuide.TrackEvents = {
 	"ZONE_CHANGED", "ZONE_CHANGED_INDOORS", "MINIMAP_ZONE_CHANGED",
 	"ZONE_CHANGED_NEW_AREA", "PLAYER_LEVEL_UP", "ADDON_LOADED",
 	"CRAFT_SHOW", "PLAYER_DEAD", "SKILL_LINES_CHANGED", "SPELLS_CHANGED",
-	"QUEST_ACCEPTED", "QUEST_TURNED_IN", "HEARTHSTONE_BOUND", "BAG_UPDATE_DELAYED"
+	"QUEST_ACCEPTED", "QUEST_TURNED_IN", "HEARTHSTONE_BOUND", "BAG_UPDATE_DELAYED",
+	"GOSSIP_SHOW", "QUEST_DETAIL", "QUEST_PROGRESS", "QUEST_COMPLETE"
 }
 
 
@@ -238,6 +239,86 @@ function TurtleGuide:QUEST_TURNED_IN(questID, xpReward, moneyReward)
 		self.db.char.completedquests[title] = true
 		self:CompleteQuest(title, true)
 	end
+end
+
+
+---------------------------------
+--  Quest automation           --
+---------------------------------
+
+-- Returns the clean quest name when the current step matches the action
+local function CurrentStepName(action)
+	local a, quest = TurtleGuide:GetObjectiveInfo()
+	if a ~= action or not quest then return end
+	return (string.gsub(quest, L.PART_GSUB, ""))
+end
+
+-- Hold SHIFT while talking to an NPC to suspend automation
+local function AutomationSuspended()
+	return not TurtleGuide.db.char.autoquest or IsShiftKeyDown()
+end
+
+-- Quest frame titles may carry a [level] prefix depending on server settings
+local function QuestFrameTitle()
+	return (string.gsub(GetTitleText() or "", "%[[0-9%+%-]+]%s", ""))
+end
+
+-- Auto-select the current step's quest from the gossip list, matched by QID
+-- (by title for untagged steps)
+function TurtleGuide:GOSSIP_SHOW()
+	if AutomationSuspended() then return end
+	local action = self:GetObjectiveInfo()
+	local qid = tonumber((self:GetObjectiveTag("QID")))
+
+	if action == "ACCEPT" then
+		local name = CurrentStepName("ACCEPT")
+		for _, q in ipairs(C_GossipInfo.GetAvailableQuests()) do
+			if qid == q.questID or (not qid and q.title == name) then
+				self:Debug(string.format("Auto-selecting available quest %d %q", q.questID, q.title))
+				return C_GossipInfo.SelectAvailableQuest(q.questID)
+			end
+		end
+	elseif action == "TURNIN" then
+		local name = CurrentStepName("TURNIN")
+		for _, q in ipairs(C_GossipInfo.GetActiveQuests()) do
+			if q.isComplete and (qid == q.questID or (not qid and q.title == name)) then
+				self:Debug(string.format("Auto-selecting active quest %d %q", q.questID, q.title))
+				return C_GossipInfo.SelectActiveQuest(q.questID)
+			end
+		end
+	end
+end
+
+function TurtleGuide:QUEST_DETAIL()
+	if not AutomationSuspended() then
+		local name = CurrentStepName("ACCEPT")
+		if name and QuestFrameTitle() == name then
+			self:Debug(string.format("Auto-accepting %q", name))
+			AcceptQuest()
+		end
+	end
+	self:UpdateStatusFrame()
+end
+
+function TurtleGuide:QUEST_PROGRESS()
+	if AutomationSuspended() then return end
+	local name = CurrentStepName("TURNIN")
+	if name and QuestFrameTitle() == name and IsQuestCompletable() then
+		self:Debug(string.format("Auto-completing %q", name))
+		CompleteQuest()
+	end
+end
+
+-- Claim the reward only when there is no choice to make
+function TurtleGuide:QUEST_COMPLETE()
+	if not AutomationSuspended() then
+		local name = CurrentStepName("TURNIN")
+		if name and QuestFrameTitle() == name and GetNumQuestChoices() <= 1 then
+			self:Debug(string.format("Auto-claiming reward for %q", name))
+			GetQuestReward(GetNumQuestChoices())
+		end
+	end
+	self:UpdateStatusFrame()
 end
 
 

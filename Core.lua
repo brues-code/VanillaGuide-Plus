@@ -114,6 +114,7 @@ local defaults = {
     showuseitem = true,
     showuseitemcomplete = true,
     skipfollowups = true,
+    autoquest = true,
     petskills = {},
     completedquests = {},
     completedquestsbyid = {}, -- {[questId] = true} from server
@@ -229,6 +230,16 @@ local options = {
                 end
             end,
             order = 2,
+        },
+        AutoQuest = {
+            name = "Auto Accept/Turnin",
+            desc = L["Automatically accept and turn in guide quests (hold SHIFT to suspend)"],
+            type = "toggle",
+            get = function() return TurtleGuide.db.char.autoquest end,
+            set = function(newValue)
+                TurtleGuide.db.char.autoquest = newValue
+            end,
+            order = 2.5,
         },
         StatusFrame = {
             name = "Toggle Status",
@@ -569,8 +580,6 @@ function TurtleGuide:InitializeRoute()
     self:LoadGuide(self.db.char.currentguide)
     self.initializeDone = true
     for _, event in pairs(self.TrackEvents) do self:RegisterEvent(event) end
-    self:RegisterEvent("QUEST_COMPLETE", "UpdateStatusFrame")
-    self:RegisterEvent("QUEST_DETAIL", "UpdateStatusFrame")
     -- Register for level up to check starting zone completion
     self:RegisterEvent("PLAYER_LEVEL_UP")
     self.TrackEvents = nil
@@ -626,8 +635,6 @@ function TurtleGuide:PLAYER_ENTERING_WORLD()
     -- deferred Enable (PLAYER_LOGIN)
     if not self.enableDone then
         for _, event in pairs(self.TrackEvents) do self:RegisterEvent(event) end
-        self:RegisterEvent("QUEST_COMPLETE", "UpdateStatusFrame")
-        self:RegisterEvent("QUEST_DETAIL", "UpdateStatusFrame")
         self.TrackEvents = nil
         self:UpdateStatusFrame()
     end
