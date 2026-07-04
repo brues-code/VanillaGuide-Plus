@@ -386,7 +386,7 @@ function TurtleGuide:UpdateStatusFrame()
 	if not f2:IsVisible() then f:SetWidth(FIXEDWIDTH + text:GetWidth()) end
 	newsize = FIXEDWIDTH + text:GetWidth()
 
-	tex = useitem and self.select(9, GetItemInfo(tonumber(useitem)))
+	tex = useitem and C_Item.GetItemIconByID(tonumber(useitem))
 	uitem = useitem
 	item.uitem = tex and uitem or nil
 	if UnitAffectingCombat("player") then

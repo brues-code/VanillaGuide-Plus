@@ -236,6 +236,29 @@ function TurtleGuide:LoadGuide(name, complete)
 		self.actions, self.quests, self.tags = StepParse(guideContent)
 	end
 
+	-- Warm the client caches for everything the guide references so later
+	-- title/name/icon lookups are synchronous cache hits
+	local requested = {}
+	local function warmItem(itemid)
+		if itemid and not requested["i" .. itemid] then
+			requested["i" .. itemid] = true
+			if not C_Item.IsItemDataCachedByID(itemid) then
+				C_Item.RequestLoadItemDataByID(itemid)
+			end
+		end
+	end
+	for i in ipairs(self.actions) do
+		local qid = tonumber((self:GetObjectiveTag("QID", i)))
+		if qid and not requested["q" .. qid] then
+			requested["q" .. qid] = true
+			if not C_QuestLog.IsQuestDataCachedByID(qid) then
+				C_QuestLog.RequestLoadQuestByID(qid)
+			end
+		end
+		warmItem(tonumber((self:GetObjectiveTag("L", i))))
+		warmItem(tonumber((self:GetObjectiveTag("U", i))))
+	end
+
 	if not self.db.char.turnins[name] then self.db.char.turnins[name] = {} end
 	self.turnedin = self.db.char.turnins[name]
 
@@ -425,12 +448,17 @@ function TurtleGuide:IsQuestInLogByQid(qid)
 	return C_QuestLog.IsOnQuest(qid)
 end
 
--- Get quest name from pfQuest database
+-- Get quest name by QID
 function TurtleGuide:GetQuestNameByQid(qid)
-	if not qid then return nil end
 	qid = tonumber(qid)
+	if not qid then return nil end
 
-	-- Check pfQuest localized quest names
+	-- Server-authoritative quest cache first: guaranteed to match the titles
+	-- the quest log uses (warmed for all guide QIDs at load)
+	local title = C_QuestLog.GetTitleForQuestID(qid)
+	if title then return title end
+
+	-- Fall back to pfQuest localized quest names
 	if pfDB and pfDB["quests"] and pfDB["quests"]["loc"] then
 		local locData = pfDB["quests"]["loc"][qid]
 		if locData then

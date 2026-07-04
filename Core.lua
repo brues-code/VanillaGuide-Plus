@@ -930,11 +930,9 @@ function TurtleGuide:GetItemNameByItemId(itemId)
         if name then return name end
     end
 
-    -- Fallback to standard client cache
-    local name = GetItemInfo(itemId)
-    if name then return name end
-
-    return nil
+    -- Fall back to the client item cache; a miss fires the server query so a
+    -- later call succeeds
+    return C_Item.GetItemNameByID(itemId)
 end
 
 function TurtleGuide:GetObjectiveInfo(i)
