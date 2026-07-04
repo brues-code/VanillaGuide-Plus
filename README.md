@@ -225,6 +225,40 @@ This fork introduces dungeon selection support integrated directly with the Rest
 - ST (Sunken Temple)
 - BRD (Blackrock Depths)
 
+## ClassicAPI Integration
+
+TurtleGuide is built on [ClassicAPI](https://github.com/brues-code/ClassicAPI),
+a client DLL that backports modern WoW API to the 1.12 client. The addon
+checks `CLASSIC_API_VERSION` on load and **refuses to run below v1.5.9** —
+quest tracking and automation are built directly on these primitives instead
+of chat-message parsing and name matching.
+
+### Synthesized events
+
+| Event | Used for |
+|-------|----------|
+| `QUEST_ACCEPTED(questLogIndex, questID)` | Accept detection by QID instead of parsing the "Quest accepted:" system message |
+| `QUEST_TURNED_IN(questID, xpReward, moneyReward)` | Server-confirmed turn-in detection; marks the guide step and records completion by QID |
+| `QUEST_REMOVED(questID)` | Advances the guide the moment a turned-in quest leaves the log; a removal with no turn-in confirmation is an abandon, which rewinds to the quest's accept step |
+| `HEARTHSTONE_BOUND` | SETHEARTH step completion from the bind-point packet instead of chat parsing |
+| `BAG_UPDATE_DELAYED` | One batched bag scan per loot/mail/trade/vendor event for `\|L\|` item-count tracking |
+
+### API namespaces
+
+| API | Used for |
+|-----|----------|
+| `C_QuestLog.GetQuestIDForLogIndex` | QID-authoritative quest log lookups — same-named chain parts can never satisfy the wrong step |
+| `C_QuestLog.IsOnQuest` | Prerequisite checks and turn-in verification |
+| `C_QuestLog.GetTitleForQuestID` | Quest names for steps and messages without a log scan |
+| `C_QuestLog.IsQuestDataCachedByID` / `RequestLoadQuestByID` | Warming the quest cache for every guide QID at load, so later title lookups are synchronous |
+| `C_GossipInfo.GetAvailableQuests` / `GetActiveQuests` / `SelectAvailableQuest` / `SelectActiveQuest` | Quest automation at gossip NPCs — QID-matched auto-accept and auto-turn-in (gated on `isComplete`) |
+| `C_Item.GetItemCount` | `\|L\|` collect-step quotas checked against live bag counts |
+| `C_Item.GetItemNameByID` / `GetItemIconByID` | Step-name enrichment and the use-item button icon |
+| `C_Item.IsItemDataCachedByID` / `RequestLoadItemDataByID` | Warming the item cache for guide `\|L\|`/`\|U\|` items at load |
+| `C_Container.GetContainerItemID` | Bag-slot resolution for `\|U\|` use-item steps |
+| `C_Timer.After` / `NewTicker` | Arrival-detection ticker, deferred completion checks, abandon grace period |
+| `GameTooltip:SetItemByID` | Use-item button tooltip when the item isn't in the bags yet |
+
 ## Recommended Addons
 
 | Addon | Description | Link |
@@ -333,9 +367,11 @@ With **pfQuest** installed:
 
 ## Installation
 
-1. Download or clone this repository
-2. Place the `TurtleGuide` folder in `World of Warcraft/Interface/AddOns/`
-3. Type `/reload` in-game or restart WoW
+1. Install [ClassicAPI](https://github.com/brues-code/ClassicAPI) v1.5.9 or
+   newer (required)
+2. [Download the latest zip](https://github.com/brues-code/VanillaGuide-Plus/releases/latest)
+3. Place the `TurtleGuide` folder in `World of Warcraft/Interface/AddOns/`
+4. Restart WoW
 
 ## Commands
 
