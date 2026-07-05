@@ -753,7 +753,25 @@ function TurtleGuide:SelectRoutePack(packName)
 end
 
 function TurtleGuide:LoadNextGuide()
-    self:LoadGuide(self.nextzones[self.db.char.currentguide] or "No Guide", true)
+    local nextname = self.nextzones[self.db.char.currentguide]
+    -- End of the route: no next zone, or it points at an unregistered guide
+    -- ("No Guide"). Stop instead of letting LoadGuide fall back to guidelist[1],
+    -- which would wrap the auto-advance chain around to the start.
+    if not nextname or not self.guides[nextname] then return false end
+
+    -- Terminate a runaway chain. UpdateStatusFrame auto-advances (LoadNextGuide
+    -- -> re-scan -> LoadNextGuide) whenever a guide has no incomplete step. On a
+    -- server whose quests don't match the guide, every step auto-skips, so this
+    -- would cascade through the whole route (re-parsing each guide) and exhaust
+    -- the client's fixed Lua pool. Cap consecutive auto-advances; the counter is
+    -- reset by UpdateStatusFrame once the chain lands on a guide with real work.
+    self.autoadvancecount = (self.autoadvancecount or 0) + 1
+    if self.autoadvancecount > 20 then
+        self:Print("|cffff9900Stopped auto-advancing after 20 completed guides - is this guide meant for a different server?|r")
+        return false
+    end
+
+    self:LoadGuide(nextname, true)
     self:UpdateGuideListPanel()
     return true
 end
@@ -926,7 +944,19 @@ function TurtleGuide:GetLootRequirement(i)
     local qid = tonumber((self:GetObjectiveTag("QID", i)))
     if not qid then return end
 
+    -- GetQuestDetails materializes ~20 table fields plus strings per call, and
+    -- the status-frame refresh hits this step twice (via GetObjectiveInfo and
+    -- directly). Serve resolved lookups from the per-load cache; false marks a
+    -- step with no item requirement so we don't re-materialize on every refresh.
+    local cache = self.lootreqcache
+    if cache then
+        local c = cache[i]
+        if c == false then return end
+        if c then return c.id, c.count end
+    end
+
     local d = C_QuestLog.GetQuestDetails(qid)
+    -- Data not warm yet: don't cache, so a later call retries once it loads
     if not d or not d.requirements then return end
 
     -- |OIDX| names the objective; without it, only a single-objective
@@ -938,9 +968,13 @@ function TurtleGuide:GetLootRequirement(i)
     elseif table.getn(d.requirements) == 1 then
         req = d.requirements[1]
     end
+    cache = cache or {}
+    self.lootreqcache = cache
     if req and req.kind == "item" then
+        cache[i] = { id = req.id, count = req.count }
         return req.id, req.count
     end
+    cache[i] = false
 end
 
 function TurtleGuide:GetObjectiveInfo(i)

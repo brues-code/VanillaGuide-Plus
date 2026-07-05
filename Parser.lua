@@ -212,6 +212,38 @@ local function StepParse(guide)
 end
 
 
+-- Drain a warm queue ({kind="q"|"i", id=n}) a few entries per tick instead of
+-- all at once. A synchronous burst of hundreds of RequestLoad* calls at guide
+-- load spikes CPU and, when the QIDs are for another server's content and never
+-- resolve, can crash the client's fixed Lua pool. Each LoadGuide bumps
+-- warmtoken so a queue from a previous guide stops draining.
+local WARM_BATCH = 5      -- requests per tick
+local WARM_INTERVAL = 0.1 -- seconds between ticks
+function TurtleGuide:WarmCaches(queue)
+	self.warmtoken = (self.warmtoken or 0) + 1
+	local token = self.warmtoken
+	local n = table.getn(queue)
+	local idx = 1
+	local function drain()
+		if token ~= self.warmtoken then return end -- superseded by a newer load
+		local processed = 0
+		while idx <= n and processed < WARM_BATCH do
+			local e = queue[idx]
+			idx = idx + 1
+			processed = processed + 1
+			if e.kind == "q" then
+				if not C_QuestLog.IsQuestDataCachedByID(e.id) then
+					C_QuestLog.RequestLoadQuestByID(e.id)
+				end
+			elseif not C_Item.IsItemDataCachedByID(e.id) then
+				C_Item.RequestLoadItemDataByID(e.id)
+			end
+		end
+		if idx <= n then C_Timer.After(WARM_INTERVAL, drain) end
+	end
+	drain()
+end
+
 function TurtleGuide:LoadGuide(name, complete)
 	if not name then return end
 	if complete then
@@ -236,39 +268,43 @@ function TurtleGuide:LoadGuide(name, complete)
 		self.actions, self.quests, self.tags = StepParse(guideContent)
 	end
 
-	-- Warm the client caches for everything the guide references so later
-	-- title/name/icon lookups are synchronous cache hits
+	-- Per-load loot-requirement cache; keyed by step index, so it must be
+	-- dropped whenever the step list is re-parsed
+	self.lootreqcache = {}
+
+	-- Collect everything the guide references so later title/name/icon lookups
+	-- are cache hits. The RequestLoad* calls are drained on a throttle (see
+	-- WarmCaches): firing hundreds synchronously floods the engine's
+	-- quest-query subsystem, and on a mismatched server (e.g. a Turtle guide on
+	-- a vanilla realm) most QIDs never resolve, so a login-time burst of dead
+	-- requests can exhaust the client's fixed Lua pool.
 	local requested = {}
-	local function warmItem(itemid)
-		if itemid and not requested["i" .. itemid] then
-			requested["i" .. itemid] = true
-			if not C_Item.IsItemDataCachedByID(itemid) then
-				C_Item.RequestLoadItemDataByID(itemid)
-			end
-		end
+	local warmqueue = {}
+	local function enqueue(kind, id)
+		if not id then return end
+		local key = kind .. id
+		if requested[key] then return end
+		requested[key] = true
+		warmqueue[table.getn(warmqueue) + 1] = { kind = kind, id = id }
 	end
 	for i in ipairs(self.actions) do
 		local qid = tonumber((self:GetObjectiveTag("QID", i)))
-		if qid and not requested["q" .. qid] then
-			requested["q" .. qid] = true
-			if not C_QuestLog.IsQuestDataCachedByID(qid) then
-				C_QuestLog.RequestLoadQuestByID(qid)
-			end
-		end
-		warmItem(tonumber((self:GetObjectiveTag("L", i))))
-		warmItem(tonumber((self:GetObjectiveTag("U", i))))
+		enqueue("q", qid)
+		enqueue("i", tonumber((self:GetObjectiveTag("L", i))))
+		enqueue("i", tonumber((self:GetObjectiveTag("U", i))))
 
 		-- Sanity-check authored |OIDX| tags against the quest's objective
 		-- list; skipped silently while the static data is still loading
 		local oidx = tonumber((self:GetObjectiveTag("OIDX", i)))
 		if qid and oidx then
-			local d = C_QuestLog.GetQuestDetails(qid)
-			if d and d.requirements and oidx > table.getn(d.requirements) then
+			local numObjectives = C_QuestLog.GetNumQuestObjectives(qid)
+			if numObjectives and oidx > numObjectives then
 				self:Debug(string.format("Step %d: |OIDX|%d| out of range - quest %d has %d objectives",
-					i, oidx, qid, table.getn(d.requirements)))
+					i, oidx, qid, numObjectives))
 			end
 		end
 	end
+	self:WarmCaches(warmqueue)
 
 	if not self.db.char.turnins[name] then self.db.char.turnins[name] = {} end
 	self.turnedin = self.db.char.turnins[name]

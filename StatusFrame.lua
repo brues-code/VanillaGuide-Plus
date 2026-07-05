@@ -229,6 +229,21 @@ function TurtleGuide:SetStatusText(i)
 	if self.UpdateFubarPlugin then self.UpdateFubarPlugin(quest, self.icons[action], note) end
 end
 
+-- Coalesce bursty refresh requests. UpdateStatusFrame does a full guide scan
+-- (and restarts itself as it auto-completes steps), and several events
+-- (QUEST_LOG_UPDATE, SPELLS_CHANGED, SKILL_LINES_CHANGED, ...) fire many times
+-- in a single frame while game state syncs on login. Running the scan per
+-- event spikes CPU and floods vanilla's fixed Lua string pool -> lmemPool
+-- crash. Collapse a burst into a single deferred scan.
+function TurtleGuide:ScheduleStatusUpdate()
+	if self.statusupdatescheduled then return end
+	self.statusupdatescheduled = true
+	C_Timer.After(0.1, function()
+		self.statusupdatescheduled = nil
+		self:UpdateStatusFrame()
+	end)
+end
+
 local lastmapped, lastmappedaction, lastmappedquest, tex, uitem
 function TurtleGuide:UpdateStatusFrame()
 	self:Debug("UpdateStatusFrame", self.current)
@@ -361,6 +376,9 @@ function TurtleGuide:UpdateStatusFrame()
 	end
 
 	if not nextstep and self:LoadNextGuide() then return self:UpdateStatusFrame() end
+
+	-- Chain resolved (found work, or LoadNextGuide stopped): clear the guard.
+	self.autoadvancecount = nil
 
 	if not nextstep then return end
 

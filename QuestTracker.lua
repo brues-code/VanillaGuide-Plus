@@ -33,11 +33,11 @@ function TurtleGuide:ADDON_LOADED(addon)
 end
 
 function TurtleGuide:SKILL_LINES_CHANGED()
-	self:UpdateStatusFrame()
+	self:ScheduleStatusUpdate()
 end
 
 function TurtleGuide:SPELLS_CHANGED()
-	self:UpdateStatusFrame()
+	self:ScheduleStatusUpdate()
 end
 
 function TurtleGuide:PLAYER_LEVEL_UP(newlevel)
@@ -86,7 +86,7 @@ function TurtleGuide:CHAT_MSG_SYSTEM(msg)
 end
 
 function TurtleGuide:QUEST_WATCH_UPDATE(event)
-	if self:GetObjectiveInfo() == "COMPLETE" then self:UpdateStatusFrame() end
+	if self:GetObjectiveInfo() == "COMPLETE" then self:ScheduleStatusUpdate() end
 end
 
 function TurtleGuide:QUEST_LOG_UPDATE(event)
@@ -98,7 +98,7 @@ function TurtleGuide:QUEST_LOG_UPDATE(event)
 	-- UpdateStatusFrame gates on the delayed step itself, so run it whenever a
 	-- delayed update is pending; checking the current step's logi here would
 	-- miss turnins recorded for a step other than the current one
-	if self.updatedelay or action == "ACCEPT" or action == "COMPLETE" then self:UpdateStatusFrame() end
+	if self.updatedelay or action == "ACCEPT" or action == "COMPLETE" then self:ScheduleStatusUpdate() end
 
 	if action == "KILL" or action == "NOTE" then
 		local quest, questtext = self:GetObjectiveTag("Q"), self:GetObjectiveTag("QO")
@@ -121,7 +121,7 @@ function TurtleGuide:UNIT_QUEST_LOG_CHANGED(unit)
 	if unit ~= "player" then return end
 	local action = self:GetObjectiveInfo()
 	if action == "COMPLETE" then
-		self:UpdateStatusFrame()
+		self:ScheduleStatusUpdate()
 	end
 end
 
@@ -487,7 +487,7 @@ C_Timer.NewTicker(ARRIVAL_CHECK_INTERVAL, function()
 	-- Flush an expired delayed update even when no quest events arrive;
 	-- UpdateStatusFrame clears updatedelay once its gate passes
 	if TurtleGuide.updatedelay and GetTime() - (TurtleGuide.updatedelaytime or 0) >= 3 then
-		TurtleGuide:UpdateStatusFrame()
+		TurtleGuide:ScheduleStatusUpdate()
 	end
 
 	-- Check if we need to re-evaluate after rewind
