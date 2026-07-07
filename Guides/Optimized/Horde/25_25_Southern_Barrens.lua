@@ -2,7 +2,7 @@
 -- Quest order follows VanillaGuide (mrmr) for efficient leveling
 -- QIDs and coordinates from TurtleGuide database
 
-TurtleGuide:RegisterGuide("Optimized/Southern Barrens (25-25)", "Optimized/Thousand Needles (25-26)", "Horde", function()
+TurtleGuide:RegisterGuide("Optimized/The Barrens (25-25)", "Optimized/Thousand Needles (25-26)", "Horde", function()
 
 return [[
 

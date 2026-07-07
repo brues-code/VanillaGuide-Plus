@@ -66,16 +66,16 @@ local AllianceSharedPath = {
 -- Shared Horde progression after level 12 (all races merge into this path after Barrens)
 local HordeSharedPath = {
     -- Level 12-20 progression
-    { zone = "The Barrens",          levels = "12-15", guide = "Optimized/Barrens (12-15)" },
+    { zone = "The Barrens",          levels = "12-15", guide = "Optimized/The Barrens (12-15)" },
     { zone = "Stonetalon Mountains", levels = "15-16", guide = "Optimized/Stonetalon (15-16)" },
-    { zone = "The Barrens",          levels = "16-18", guide = "Optimized/Barrens (16-18)" },
-    { zone = "The Barrens",          levels = "18-20", guide = "Optimized/Barrens (18-20)" },
+    { zone = "The Barrens",          levels = "16-18", guide = "Optimized/The Barrens (16-18)" },
+    { zone = "The Barrens",          levels = "18-20", guide = "Optimized/The Barrens (18-20)" },
     -- Level 20-30 progression
     { zone = "Stonetalon Mountains", levels = "20-21", guide = "Optimized/Stonetalon Mountains (20-21)" },
     { zone = "Ashenvale",            levels = "21-21", guide = "Optimized/Ashenvale (21-21)" },
-    { zone = "Southern Barrens",     levels = "22-23", guide = "Optimized/Southern Barrens (22-23)" },
+    { zone = "Southern Barrens",     levels = "22-23", guide = "Optimized/The Barrens (22-23)" },
     { zone = "Stonetalon Mountains", levels = "23-25", guide = "Optimized/Stonetalon Mountains (23-25)" },
-    { zone = "Southern Barrens",     levels = "25-25", guide = "Optimized/Southern Barrens (25-25)" },
+    { zone = "Southern Barrens",     levels = "25-25", guide = "Optimized/The Barrens (25-25)" },
     { zone = "Thousand Needles",     levels = "25-26", guide = "Optimized/Thousand Needles (25-26)" },
     { zone = "Ashenvale",            levels = "26-27", guide = "Optimized/Ashenvale (26-27)" },
     { zone = "Stonetalon Mountains", levels = "27-27", guide = "Optimized/Stonetalon Mountains (27-27)" },

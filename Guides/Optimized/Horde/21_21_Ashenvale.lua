@@ -2,7 +2,7 @@
 -- Quest order follows VanillaGuide (mrmr) for efficient leveling
 -- QIDs and coordinates from TurtleGuide database
 
-TurtleGuide:RegisterGuide("Optimized/Ashenvale (21-21)", "Optimized/Southern Barrens (22-23)", "Horde", function()
+TurtleGuide:RegisterGuide("Optimized/Ashenvale (21-21)", "Optimized/The Barrens (22-23)", "Horde", function()
 
 return [[
 

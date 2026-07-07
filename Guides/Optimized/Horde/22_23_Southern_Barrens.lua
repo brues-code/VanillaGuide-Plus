@@ -2,7 +2,7 @@
 -- Quest order follows VanillaGuide (mrmr) for efficient leveling
 -- QIDs and coordinates from TurtleGuide database
 
-TurtleGuide:RegisterGuide("Optimized/Southern Barrens (22-23)", "Optimized/Stonetalon (23-25)", "Horde", function()
+TurtleGuide:RegisterGuide("Optimized/The Barrens (22-23)", "Optimized/Stonetalon (23-25)", "Horde", function()
 
 return [[
 
